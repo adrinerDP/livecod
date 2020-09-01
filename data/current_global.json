@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6213751,
-        "deaths": 187825,
-        "recovered": 3457318
+        "confirmed": 6214690,
+        "deaths": 187839,
+        "recovered": 3458177
     },
     {
         "Name": "브라질",
@@ -491,8 +491,8 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 36920,
-        "deaths": 995,
+        "confirmed": 37208,
+        "deaths": 1008,
         "recovered": 25872
     },
     {
@@ -739,9 +739,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8583,
+        "confirmed": 8619,
         "deaths": 68,
-        "recovered": 7376
+        "recovered": 7413
     },
     {
         "Name": "Gabon",
@@ -1280,20 +1280,20 @@
         "recovered": 173
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 919,
+        "deaths": 6,
+        "recovered": 357
+    },
+    {
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
         "confirmed": 896,
         "deaths": 15,
         "recovered": 851
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 882,
-        "deaths": 6,
-        "recovered": 354
     },
     {
         "Name": "산마리노",
