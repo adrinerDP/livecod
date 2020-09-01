@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 121215,
-        "deaths": 2557,
-        "recovered": 57114
+        "confirmed": 123303,
+        "deaths": 2605,
+        "recovered": 57802
     },
     {
         "Name": "카타르",
@@ -443,9 +443,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 43781,
-        "deaths": 879,
-        "recovered": 37722
+        "confirmed": 43878,
+        "deaths": 881,
+        "recovered": 38356
     },
     {
         "Name": "스위스",
@@ -811,9 +811,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 6139,
-        "deaths": 615,
-        "recovered": 3761
+        "confirmed": 6257,
+        "deaths": 616,
+        "recovered": 3821
     },
     {
         "Name": "Malawi",
