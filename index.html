@@ -33,7 +33,7 @@
 </head>
 
 <body>
-<!-- [S] 1. Header -->
+<!-- [S] Header -->
 <header id="header" class="sticky-top">
     <div class="title">
         <div class="container">
@@ -79,9 +79,19 @@
         </div>
     </nav>
 </header>
-<!-- [E] 1. Header -->
+<!-- [E] Header -->
 
-<!-- [S] 2. Current Status -->
+<div class="container">
+    <div class="section_header">
+        <h4 class="title">
+            <i class="fa fa-fw fa-info-circle"></i> 코로나19 종합 현황
+        </h4>
+        <p class="subtitle">
+            '코로나바이러스감염증-19'의 국내외 종합 현황을 요약해서 알려드립니다.
+        </p>
+    </div>
+</div>
+<!-- [S] Current Status -->
 <section class="container" id="current_status">
     <div class="row">
         <div class="col-xl-4 col-lg-12" id="status_now">
@@ -203,9 +213,9 @@
         </div>
     </div>
 </section>
-<!-- [E] 2. Current Status -->
+<!-- [E] Current Status -->
 
-<!-- [S] 3. Visual Map -->
+<!-- [S] Visual Map -->
 <section class="container" id="visual_map">
     <div class="row">
         <div class="col-md-7" id="visual_korea">
@@ -272,9 +282,19 @@
         </div>
     </div>
 </section>
-<!-- [E] 3. Visual Map -->
+<!-- [E] Visual Map -->
 
-<!-- [S] 4. Age Chart -->
+<div class="container">
+    <div class="section_header mt-5">
+        <h4 class="title">
+            <i class="fa fa-fw fa-chart-pie"></i> 세부 통계 분석
+        </h4>
+        <p class="subtitle">
+            원 데이터를 기반으로 시각화된 자료를 분석합니다.
+        </p>
+    </div>
+</div>
+<!-- [S] Age Chart -->
 <section class="container" id="age_chart">
     <div class="row">
         <div class="col-md-6">
@@ -307,9 +327,97 @@
         </div>
     </div>
 </section>
-<!-- [E] 4. Age Chart -->
+<!-- [E] Age Chart -->
 
-<!-- [S] 5. Delta Chart -->
+<!-- [S] Statistics -->
+<section class="container" id="statistics">
+    <div class="card mb-3">
+        <div class="card-header bg-secondary text-white">
+            통계치
+        </div>
+        <!-- Card Body -->
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered table-sm text-center" style="min-width:600px;font-size:0.9rem" cellspacing="0">
+                    <colgroup>
+                        <col style="width: 200px">
+                        <col style="width: auto">
+                        <col style="width: auto">
+                        <col style="width: auto">
+                        <col style="width: auto">
+                    </colgroup>
+                    <thead class="thead-dark">
+                    <tr>
+                        <th>병명</th>
+                        <th>신종인플루엔자 A(H1N1)</th>
+                        <th>중동호흡기 중후군(MERS)</th>
+                        <th>중증급성호흡기증후군(SARS)</th>
+                        <th>코로나19(COVID-19)</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        <th>발견장소</th>
+                        <td>멕시코</td>
+                        <td>사우디아라비아</td>
+                        <td colspan="2">중국</td>
+                    </tr>
+                    <tr>
+                        <th>감염매개체</th>
+                        <td>사람</td>
+                        <td>낙타</td>
+                        <td colspan="2">박쥐(추정)</td>
+                    </tr>
+                    <tr>
+                        <th>전파방식</th>
+                        <td colspan="4">비말감염*</td>
+                    </tr>
+                    <tr>
+                        <th>주요증상</th>
+                        <td colspan="4">발열 및 호흡기 증상 등</td>
+                    </tr>
+                    <tr>
+                        <th>치사율</th>
+                        <td>약 0.07%</td>
+                        <td>약 35%</td>
+                        <td>약 10%</td>
+                        <td>
+                            세계
+                            <span id="세계_치명률">3.34</span>%,<br>대한민국
+                            <span id="한국_치명률">1.61</span>%
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>기초감염재생산수 (R0값)*</th>
+                        <td>1.1~1.7</td>
+                        <td>0.4~0.9</td>
+                        <td>2~5</td>
+                        <td>5~5.7</td>
+                    </tr>
+                    <tr>
+                        <th>감염·사망자</th>
+                        <td>집계되지 않음(18,449)</td>
+                        <td>2,482(854)</td>
+                        <td>8,096(774)</td>
+                        <td><br>2,711,414(192,126)</td>
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+            <ul class="list-unstyled m-0 text-muted">
+                <li><small>*기초감염재생산수(R0값): 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값</small></li>
+                <li><small>*비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것</small></li>
+            </ul>
+        </div>
+        <div class="card-footer text-muted text-right">
+            <small class="font-weight-bold">출처</small>
+            <small>질병관리본부, 세계보건기구(WHO)</small>
+        </div>
+    </div>
+</section>
+<!-- [E] Statistics -->
+
+<!-- [S] Delta Chart -->
 <section class="container" id="delta_chart">
     <div class="row">
         <div class="col-md-6">
@@ -356,9 +464,30 @@
         </div>
     </div>
 </section>
-<!-- [E] 5. Delta Chart -->
+<!-- [E] Delta Chart -->
 
-<!-- [S] 6. News -->
+<div class="container">
+    <div class="section_header mt-5">
+        <h4 class="title">
+            <i class="fa fa-fw fa-star"></i> 제주도 관련 특별 정보
+        </h4>
+        <p class="subtitle">
+            제주도에 특화된 다양한 정보를 보여드립니다.
+        </p>
+    </div>
+</div>
+
+<div class="container">
+    <div class="section_header mt-5">
+        <h4 class="title">
+            <i class="fa fa-fw fa-file-alt"></i> 국내 외 뉴스 소식
+        </h4>
+        <p class="subtitle">
+            국내(네이버), 국외(구글) 등의 뉴스 기사 소식을 종합하여 보여드립니다.
+        </p>
+    </div>
+</div>
+<!-- [S] News -->
 <section class="container" id="news">
     <div class="row">
         <div class="col-md-4">
@@ -423,6 +552,31 @@
         </div>
     </div>
 </section>
-<!-- [E] 6. News -->
+<!-- [E] News -->
+
+<!-- [S] Footer -->
+<footer>
+    <div class="top">
+        <div class="container">
+            Maintained with ❤️ by LiveCoronaMap
+            <span class="fa-pull-right">
+                <a href="https://github.com/adrinerDP/livecod">
+                    <i class="fab fa-github"></i> Github
+                </a>
+            </span>
+        </div>
+    </div>
+    <div class="body text-right">
+        <div class="container">
+            <ul class="list-unstyled m-0">
+                <li>본 서비스는 구글 크롬 브라우저에 최적화 되어 있습니다.</li>
+                <li>질병관리본부, KBS, 존스홉킨스 코로나맵, 및 제주도청의 데이터를 바탕으로 정보를 매일 자동으로 갱신합니다.</li>
+                <li>유지 보수에 자발적으로 참여해주신 분들과 함께 팀을 꾸려, 비용을 받지 않고 업데이트 중입니다.</li>
+                <li>업데이트 및 추가 기능 문의는 paul-lab@naver.com 으로 연락주세요.(번역의 경우 직접 도움을 주셔야 합니다.)</li>
+            </ul>
+        </div>
+    </div>
+</footer>
+<!-- [E] Footer -->
 </body>
 </html>
