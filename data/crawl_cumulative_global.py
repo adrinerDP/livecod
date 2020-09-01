@@ -35,17 +35,7 @@ def run():
     deaths_result = build_dataframe(deaths_CSV_URL)
     recover_result = build_dataframe(recovered_CSV_URL)
 
-<<<<<<< HEAD:data/crawl_cumulative_global.py
     resultData = list(zip(dates, confirmed_result, deaths_result, recover_result))
-=======
-    resultData = list(
-        zip(dates, confirmed_result, deaths_result, recover_result)
-    )
-
-    save_dir = "./data/worldCumulativeData.js"
-    crawler_name = "crawlWorldCumulativeData.py"
-    var_name = "worldCumulativeData"
->>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/crawlWorldCumulativeData.py
 
     save_dir = './data/cumulative_global.json'
     crawler_name = 'crawl_cumulative_global.py'
