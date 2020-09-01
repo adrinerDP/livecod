@@ -280,20 +280,20 @@
         "recovered": 81024
     },
     {
+        "Name": "쿠웨이트",
+        "Name_ch": "科威特",
+        "Name_en": "Kuwait",
+        "confirmed": 85811,
+        "deaths": 534,
+        "recovered": 77657
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
         "confirmed": 85236,
         "deaths": 9895,
         "recovered": 18422
-    },
-    {
-        "Name": "쿠웨이트",
-        "Name_ch": "科威特",
-        "Name_en": "Kuwait",
-        "confirmed": 85109,
-        "deaths": 531,
-        "recovered": 77224
     },
     {
         "Name": "스웨덴",
@@ -611,9 +611,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 16985,
-        "deaths": 624,
-        "recovered": 15205
+        "confirmed": 17084,
+        "deaths": 625,
+        "recovered": 15300
     },
     {
         "Name": "Bulgaria",
@@ -635,9 +635,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14341,
-        "deaths": 603,
-        "recovered": 11157
+        "confirmed": 14455,
+        "deaths": 604,
+        "recovered": 11525
     },
     {
         "Name": "Libya",
@@ -772,7 +772,7 @@
         "Name_ch": "",
         "Name_en": "Maldives",
         "confirmed": 7804,
-        "deaths": 28,
+        "deaths": 29,
         "recovered": 5155
     },
     {
