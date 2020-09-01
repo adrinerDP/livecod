@@ -123,9 +123,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 295849,
-        "deaths": 6294,
-        "recovered": 280682
+        "confirmed": 296149,
+        "deaths": 6298,
+        "recovered": 280970
     },
     {
         "Name": "프랑스",
@@ -172,8 +172,8 @@
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
         "confirmed": 220819,
-        "deaths": 3558,
-        "recovered": 157562
+        "deaths": 3563,
+        "recovered": 157559
     },
     {
         "Name": "인도네시아",
