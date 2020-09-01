@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 6214690,
         "deaths": 187839,
-        "recovered": 3458177
+        "recovered": 3458244
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3715931,
-        "deaths": 65725,
-        "recovered": 2856147
+        "confirmed": 3733936,
+        "deaths": 65922,
+        "recovered": 2872714
     },
     {
         "Name": "러시아",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 70231,
+        "confirmed": 70805,
         "deaths": 384,
-        "recovered": 60931
+        "recovered": 61491
     },
     {
         "Name": "폴란드",
@@ -381,7 +381,7 @@
         "Name_en": "Singapore",
         "confirmed": 56852,
         "deaths": 27,
-        "recovered": 55658
+        "recovered": 55749
     },
     {
         "Name": "나이지리아",
@@ -1131,9 +1131,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 1759,
-        "deaths": 22,
-        "recovered": 676
+        "confirmed": 1773,
+        "deaths": 25,
+        "recovered": 685
     },
     {
         "Name": "New Zealand",
@@ -1155,7 +1155,7 @@
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "confirmed": 1679,
+        "confirmed": 1714,
         "deaths": 9,
         "recovered": 880
     },
