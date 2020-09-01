@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6211796,
-        "deaths": 187736,
+        "confirmed": 6211816,
+        "deaths": 187737,
         "recovered": 3456263
     },
     {
@@ -1184,20 +1184,20 @@
         "recovered": 1139
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 1404,
+        "deaths": 34,
+        "recovered": 1173
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "confirmed": 1400,
         "deaths": 28,
         "recovered": 1005
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1396,
-        "deaths": 34,
-        "recovered": 1163
     },
     {
         "Name": "Burkina Faso",
