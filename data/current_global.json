@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6255083,
-        "deaths": 188837,
-        "recovered": 3483321
+        "confirmed": 6255575,
+        "deaths": 188861,
+        "recovered": 3483888
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 3950931,
-        "deaths": 122596,
+        "confirmed": 3952790,
+        "deaths": 122681,
         "recovered": 3159096
     },
     {
@@ -76,7 +76,7 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 428239,
-        "deaths": 8730,
+        "deaths": 8919,
         "recovered": 308376
     },
     {
@@ -555,9 +555,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 24832,
+        "confirmed": 25117,
         "deaths": 425,
-        "recovered": 18088
+        "recovered": 18116
     },
     {
         "Name": "팔레스타인",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12097,
-        "deaths": 288,
-        "recovered": 11469
+        "confirmed": 12381,
+        "deaths": 290,
+        "recovered": 11479
     },
     {
         "Name": "노르웨이",
@@ -803,9 +803,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 6497,
-        "deaths": 202,
-        "recovered": 5221
+        "confirmed": 6559,
+        "deaths": 203,
+        "recovered": 5241
     },
     {
         "Name": "헝가리",
@@ -843,9 +843,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 4835,
-        "deaths": 100,
-        "recovered": 4021
+        "confirmed": 4917,
+        "deaths": 102,
+        "recovered": 4058
     },
     {
         "Name": "홍콩",
@@ -867,9 +867,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4577,
-        "deaths": 91,
-        "recovered": 3529
+        "confirmed": 4618,
+        "deaths": 94,
+        "recovered": 3562
     },
     {
         "Name": "Nicaragua",
@@ -1256,6 +1256,14 @@
         "recovered": 528
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1050,
+        "deaths": 13,
+        "recovered": 213
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
@@ -1270,14 +1278,6 @@
         "confirmed": 1017,
         "deaths": 77,
         "recovered": 884
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1007,
-        "deaths": 13,
-        "recovered": 173
     },
     {
         "Name": "Myanmar",
