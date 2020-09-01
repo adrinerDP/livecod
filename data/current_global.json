@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6251952,
-        "deaths": 188703,
-        "recovered": 3480302
+        "confirmed": 6253197,
+        "deaths": 188724,
+        "recovered": 3481458
     },
     {
         "Name": "브라질",
@@ -13,7 +13,7 @@
         "Name_en": "Brazil",
         "confirmed": 3950931,
         "deaths": 122596,
-        "recovered": 3097734
+        "recovered": 3159096
     },
     {
         "Name": "인도",
@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 652037,
-        "deaths": 28944,
-        "recovered": 462329
+        "confirmed": 657129,
+        "deaths": 29068,
+        "recovered": 471599
     },
     {
         "Name": "남아프리카 공화국",
@@ -251,9 +251,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 94715,
-        "deaths": 1710,
-        "recovered": 68082
+        "confirmed": 94979,
+        "deaths": 1738,
+        "recovered": 68736
     },
     {
         "Name": "Panama",
@@ -307,17 +307,17 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 74074,
-        "deaths": 2760,
-        "recovered": 62068
+        "confirmed": 74893,
+        "deaths": 2778,
+        "recovered": 62935
     },
     {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 71843,
-        "deaths": 681,
-        "recovered": 70468
+        "confirmed": 71962,
+        "deaths": 686,
+        "recovered": 70606
     },
     {
         "Name": "네덜란드",
@@ -755,8 +755,8 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8224,
-        "deaths": 201,
+        "confirmed": 8230,
+        "deaths": 203,
         "recovered": 5828
     },
     {
@@ -1563,7 +1563,7 @@
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
-        "confirmed": 28,
+        "confirmed": 29,
         "deaths": 2,
         "recovered": 23
     },
