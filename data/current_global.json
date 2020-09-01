@@ -208,20 +208,20 @@
         "recovered": 115667
     },
     {
+        "Name": "이스라엘",
+        "Name_ch": "以色列",
+        "Name_en": "Israel",
+        "confirmed": 117030,
+        "deaths": 939,
+        "recovered": 95589
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 116598,
         "deaths": 5027,
         "recovered": 60408
-    },
-    {
-        "Name": "이스라엘",
-        "Name_ch": "以色列",
-        "Name_en": "Israel",
-        "confirmed": 116596,
-        "deaths": 939,
-        "recovered": 95009
     },
     {
         "Name": "에콰도르",
@@ -435,9 +435,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 43898,
-        "deaths": 1058,
-        "recovered": 38459
+        "confirmed": 43958,
+        "deaths": 1059,
+        "recovered": 38649
     },
     {
         "Name": "아르메니아",
@@ -1531,7 +1531,7 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 68,
+        "confirmed": 69,
         "deaths": 1,
         "recovered": 35
     },
