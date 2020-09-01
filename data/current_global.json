@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6224329,
-        "deaths": 188019,
-        "recovered": 3461381
+        "confirmed": 6225781,
+        "deaths": 188044,
+        "recovered": 3462812
     },
     {
         "Name": "브라질",
@@ -132,7 +132,7 @@
         "Name_ch": "法国",
         "Name_en": "France",
         "confirmed": 286007,
-        "deaths": 30635,
+        "deaths": 30661,
         "recovered": 86469
     },
     {
@@ -419,9 +419,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 44494,
-        "deaths": 1510,
-        "recovered": 31244
+        "confirmed": 44833,
+        "deaths": 1518,
+        "recovered": 31493
     },
     {
         "Name": "Ghana",
@@ -731,9 +731,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9115,
-        "deaths": 59,
-        "recovered": 8654
+        "confirmed": 9154,
+        "deaths": 60,
+        "recovered": 8707
     },
     {
         "Name": "Tajikistan",
@@ -771,9 +771,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 7804,
+        "confirmed": 8003,
         "deaths": 29,
-        "recovered": 5155
+        "recovered": 5265
     },
     {
         "Name": "Namibia",
@@ -829,7 +829,7 @@
         "Name_en": "Djibouti",
         "confirmed": 5387,
         "deaths": 60,
-        "recovered": 5323
+        "recovered": 5327
     },
     {
         "Name": "Equatorial Guinea",
@@ -880,6 +880,14 @@
         "recovered": 2913
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4065,
+        "deaths": 95,
+        "recovered": 3395
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -902,14 +910,6 @@
         "confirmed": 4034,
         "deaths": 71,
         "recovered": 3140
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4032,
-        "deaths": 94,
-        "recovered": 3378
     },
     {
         "Name": "슬로바키아",
@@ -1091,9 +1091,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 2034,
+        "confirmed": 2097,
         "deaths": 15,
-        "recovered": 1508
+        "recovered": 1564
     },
     {
         "Name": "Sierra Leone",
