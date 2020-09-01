@@ -1,0 +1,51 @@
+name: crawl current data
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+jobs:
+  runCrawler:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.x"
+          architecture: "x64"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: Install Chrome
+        run: |
+          CHROME_DRIVER=chromedriver
+          if [ -f "$CHROME_DRIVER" ]; then
+            echo "$FILE already exists."
+          else 
+            wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add
+            sudo apt-get install google-chrome-stable
+            wget https://chromedriver.storage.googleapis.com/2.40/chromedriver_linux64.zip
+            unzip ./chromedriver_linux64.zip
+          fi
+      - name: Run crawler
+        run: |
+          python "data/crawl_global.py"
+          python "data/crawl_korea_fatality.py"
+          python "data/crawl_news_google.py"
+          python "data/crawl_news_jeju.py"
+          python "data/crawl_news_naver.py"
+          python "data/crawl_news_naver.py"
+          python "data/crawl_version_info.py"
+      - name: Commit files
+        run: |
+          if [[ -n $(git status --porcelain) ]]; then
+              git config --local user.email "commit-bot@taeuk.me"
+              git config --local user.name "LiveCoronaBot"
+              git add .
+              git commit -m "Run crawler and update current data"
+          fi
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: "master"
+          github_token: ${{ secrets.GITHUB_TOKEN }}

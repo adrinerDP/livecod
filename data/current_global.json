@@ -1,0 +1,2572 @@
+﻿[
+    {
+        "Name": "미국",
+        "Name_ch": "美国",
+        "Name_en": "United States",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 6175008,
+        "deaths": 187227,
+        "recovered": 3425814
+=======
+        "확진자수": 6173653,
+        "사망자수": 187226,
+        "완치자수": 3425814
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "브라질",
+        "Name_ch": "巴西",
+        "Name_en": "Brazil",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3862311,
+        "deaths": 120896,
+        "recovered": 3031559
+=======
+        "확진자수": 3862311,
+        "사망자수": 120896,
+        "완치자수": 3031559
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "인도",
+        "Name_ch": "印度",
+        "Name_en": "India",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3624613,
+        "deaths": 64646,
+        "recovered": 2775194
+=======
+        "확진자수": 3624613,
+        "사망자수": 64646,
+        "완치자수": 2775194
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "러시아",
+        "Name_ch": "俄罗斯",
+        "Name_en": "Russia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 995319,
+        "deaths": 17176,
+        "recovered": 809387
+=======
+        "확진자수": 995319,
+        "사망자수": 17176,
+        "완치자수": 809387
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "페루",
+        "Name_ch": "秘鲁",
+        "Name_en": "Peru",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 647166,
+        "deaths": 28788,
+        "recovered": 455457
+=======
+        "확진자수": 647166,
+        "사망자수": 28788,
+        "완치자수": 455457
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "남아프리카 공화국",
+        "Name_ch": "南非共和国",
+        "Name_en": "South Africa",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 625056,
+        "deaths": 14028,
+        "recovered": 538604
+=======
+        "확진자수": 625056,
+        "사망자수": 14028,
+        "완치자수": 538604
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 607938,
+        "deaths": 19364,
+        "recovered": 450621
+=======
+        "확진자수": 607938,
+        "사망자수": 19364,
+        "완치자수": 450621
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "멕시코",
+        "Name_ch": "墨西哥",
+        "Name_en": "Mexico",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 595841,
+        "deaths": 64158,
+        "recovered": 412580
+=======
+        "확진자수": 595841,
+        "사망자수": 64158,
+        "완치자수": 412580
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 455621,
+        "deaths": 29011,
+        "recovered": 0
+    },
+    {
+        "Name": "칠레",
+        "Name_ch": "智利",
+        "Name_en": "Chile",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 409974,
+        "deaths": 11244,
+        "recovered": 382584
+=======
+        "확진자수": 409974,
+        "사망자수": 11244,
+        "완치자수": 382584
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 408426,
+        "deaths": 8457,
+        "recovered": 294007
+=======
+        "확진자수": 408426,
+        "사망자수": 8457,
+        "완치자수": 294007
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "이란",
+        "Name_ch": "伊朗",
+        "Name_en": "Iran",
+        "confirmed": 375212,
+        "deaths": 21571,
+        "recovered": 323233
+    },
+    {
+        "Name": "영국",
+        "Name_ch": "英国",
+        "Name_en": "UK",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 334467,
+        "deaths": 41499,
+        "recovered": 0
+=======
+        "확진자수": 334467,
+        "사망자수": 41499,
+        "완치자수": 0
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "사우디아라비아",
+        "Name_ch": "沙特阿拉伯",
+        "Name_en": "Saudi Arabia",
+        "confirmed": 314821,
+        "deaths": 3870,
+        "recovered": 289667
+    },
+    {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "confirmed": 312996,
+        "deaths": 4281,
+        "recovered": 204887
+    },
+    {
+        "Name": "파키스탄",
+        "Name_ch": "巴基斯坦",
+        "Name_en": "Pakistan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 295849,
+        "deaths": 6294,
+        "recovered": 280682
+=======
+        "확진자수": 295849,
+        "사망자수": 6294,
+        "완치자수": 280682
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "프랑스",
+        "Name_ch": "法国",
+        "Name_en": "France",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 277943,
+        "deaths": 30606,
+        "recovered": 86177
+=======
+        "확진자수": 277943,
+        "사망자수": 30606,
+        "완치자수": 86177
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "터키",
+        "Name_ch": "土耳其",
+        "Name_en": "Turkey",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 268546,
+        "deaths": 6326,
+        "recovered": 243839
+=======
+        "확진자수": 268546,
+        "사망자수": 6326,
+        "완치자수": 243839
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "이탈리아",
+        "Name_ch": "义大利",
+        "Name_en": "Italy",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 268218,
+        "deaths": 35477,
+        "recovered": 208536
+=======
+        "확진자수": 268218,
+        "사망자수": 35477,
+        "완치자수": 208536
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "독일",
+        "Name_ch": "德国",
+        "Name_en": "Germany",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 243463,
+        "deaths": 9364,
+        "recovered": 217842
+=======
+        "확진자수": 243295,
+        "사망자수": 9364,
+        "완치자수": 217842
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "이라크",
+        "Name_ch": "伊拉克",
+        "Name_en": "Iraq",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 231177,
+        "deaths": 6959,
+        "recovered": 172880
+=======
+        "확진자수": 231177,
+        "사망자수": 6959,
+        "완치자수": 172880
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "필리핀",
+        "Name_ch": "菲律宾",
+        "Name_en": "Philippines",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 220819,
+        "deaths": 3558,
+        "recovered": 157562
+=======
+        "확진자수": 220819,
+        "사망자수": 3558,
+        "완치자수": 157562
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "인도네시아",
+        "Name_ch": "印度尼西亚",
+        "Name_en": "Indonesia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 174796,
+        "deaths": 7417,
+        "recovered": 125959
+=======
+        "확진자수": 174796,
+        "사망자수": 7417,
+        "완치자수": 125959
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "캐나다",
+        "Name_ch": "加拿大",
+        "Name_en": "Canada",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 127940,
+        "deaths": 9117,
+        "recovered": 113664
+=======
+        "확진자수": 127940,
+        "사망자수": 9117,
+        "완치자수": 113664
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 121215,
+        "deaths": 2557,
+        "recovered": 57114
+=======
+        "확진자수": 121215,
+        "사망자수": 2557,
+        "완치자수": 57114
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "confirmed": 118575,
+        "deaths": 197,
+        "recovered": 115430
+    },
+    {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 115968,
+        "deaths": 4966,
+        "recovered": 58497
+=======
+        "확진자수": 115968,
+        "사망자수": 4966,
+        "완치자수": 58497
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "이스라엘",
+        "Name_ch": "以色列",
+        "Name_en": "Israel",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 115057,
+        "deaths": 922,
+        "recovered": 93801
+=======
+        "확진자수": 115057,
+        "사망자수": 922,
+        "완치자수": 93801
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "에콰도르",
+        "Name_ch": "厄瓜多尔",
+        "Name_en": "Ecuador",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 113648,
+        "deaths": 6555,
+        "recovered": 101620
+=======
+        "확진자수": 113648,
+        "사망자수": 6555,
+        "완치자수": 101620
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 105795,
+        "deaths": 1523,
+        "recovered": 96297
+=======
+        "확진자수": 105795,
+        "사망자수": 1523,
+        "완치자수": 96297
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "이집트",
+        "Name_ch": "埃及",
+        "Name_en": "Egypt",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 98727,
+        "deaths": 5399,
+        "recovered": 72120
+=======
+        "확진자수": 98727,
+        "사망자수": 5399,
+        "완치자수": 72120
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "도미니카 공화국",
+        "Name_ch": "多明尼加共和国",
+        "Name_en": "Dominican Republic",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 94241,
+        "deaths": 1681,
+        "recovered": 66776
+=======
+        "확진자수": 94241,
+        "사망자수": 1681,
+        "완치자수": 66776
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 92065,
+        "deaths": 1995,
+        "recovered": 65747
+=======
+        "확진자수": 92065,
+        "사망자수": 1995,
+        "완치자수": 65747
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 87540,
+        "deaths": 3621,
+        "recovered": 37869
+    },
+    {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "confirmed": 85722,
+        "deaths": 685,
+        "recovered": 80810
+    },
+    {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "확진자수": 85042,
+        "사망자수": 9894,
+        "완치자수": 18415
+    },
+    {
+        "Name": "쿠웨이트",
+        "Name_ch": "科威特",
+        "Name_en": "Kuwait",
+        "confirmed": 85109,
+        "deaths": 531,
+        "recovered": 77224
+    },
+    {
+<<<<<<< HEAD:data/current_global.json
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 85042,
+        "deaths": 9894,
+        "recovered": 18415
+    },
+    {
+=======
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+        "Name": "스웨덴",
+        "Name_ch": "瑞典语",
+        "Name_en": "Sweden",
+        "confirmed": 83958,
+        "deaths": 5821,
+        "recovered": 0
+    },
+    {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 73912,
+        "deaths": 2740,
+        "recovered": 61681
+=======
+        "확진자수": 73912,
+        "사망자수": 2740,
+        "완치자수": 61681
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 71843,
+        "deaths": 681,
+        "recovered": 70468
+=======
+        "확진자수": 71687,
+        "사망자수": 676,
+        "완치자수": 70452
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 70140,
+        "deaths": 6224,
+        "recovered": 0
+    },
+    {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 69690,
+        "deaths": 382,
+        "recovered": 60600
+    },
+    {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 67372,
+        "deaths": 2039,
+        "recovered": 46638
+=======
+        "확진자수": 67372,
+        "사망자수": 2039,
+        "완치자수": 46638
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "일본",
+        "Name_ch": "日本",
+        "Name_en": "Japan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 67264,
+        "deaths": 1264,
+        "recovered": 56164
+=======
+        "확진자수": 67264,
+        "사망자수": 1264,
+        "완치자수": 56164
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 61399,
+        "deaths": 1111,
+        "recovered": 46355
+=======
+        "확진자수": 61399,
+        "사망자수": 1111,
+        "완치자수": 46355
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 60174,
+        "deaths": 1858,
+        "recovered": 10242
+=======
+        "확진자수": 60174,
+        "사망자수": 1858,
+        "완치자수": 10242
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 57768,
+        "deaths": 1819,
+        "recovered": 41885
+=======
+        "확진자수": 57768,
+        "사망자수": 1819,
+        "완치자수": 41885
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "싱가포르",
+        "Name_ch": "新加坡",
+        "Name_en": "Singapore",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 56812,
+        "deaths": 27,
+        "recovered": 55586
+=======
+        "확진자수": 56812,
+        "사망자수": 27,
+        "완치자수": 55586
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "나이지리아",
+        "Name_ch": "尼日利亚",
+        "Name_en": "Nigeria",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 53865,
+        "deaths": 1013,
+        "recovered": 41513
+=======
+        "확진자수": 53865,
+        "사망자수": 1013,
+        "완치자수": 41513
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "바레인",
+        "Name_ch": "巴林",
+        "Name_en": "Bahrain",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 51574,
+        "deaths": 190,
+        "recovered": 48654
+=======
+        "확진자수": 51574,
+        "사망자수": 190,
+        "완치자수": 48654
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 51122,
+        "deaths": 793,
+        "recovered": 18382
+=======
+        "확진자수": 51122,
+        "사망자수": 793,
+        "완치자수": 18382
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 45868,
+        "deaths": 381,
+        "recovered": 37091
+=======
+        "확진자수": 45868,
+        "사망자수": 381,
+        "완치자수": 37091
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 44205,
+        "deaths": 276,
+        "recovered": 42777
+=======
+        "확진자수": 44205,
+        "사망자수": 276,
+        "완치자수": 42777
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "알제리",
+        "Name_ch": "阿尔及利亚",
+        "Name_en": "Algeria",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 44146,
+        "deaths": 1501,
+        "recovered": 30978
+=======
+        "확진자수": 44146,
+        "사망자수": 1501,
+        "완치자수": 30978
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 43898,
+        "deaths": 1058,
+        "recovered": 38459
+=======
+        "확진자수": 43898,
+        "사망자수": 1058,
+        "완치자수": 38459
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 43781,
+        "deaths": 879,
+        "recovered": 37722
+=======
+        "확진자수": 43781,
+        "사망자수": 879,
+        "완치자수": 37722
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 42177,
+        "deaths": 2005,
+        "recovered": 35800
+=======
+        "확진자수": 42014,
+        "사망자수": 2005,
+        "완치자수": 35800
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 41651,
+        "deaths": 317,
+        "recovered": 38819
+=======
+        "확진자수": 41651,
+        "사망자수": 317,
+        "완치자수": 38819
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 39699,
+        "deaths": 418,
+        "recovered": 15737
+    },
+    {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 39460,
+        "deaths": 228,
+        "recovered": 21410
+    },
+    {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 38165,
+        "deaths": 1402,
+        "recovered": 29089
+=======
+        "확진자수": 38165,
+        "사망자수": 1402,
+        "완치자수": 29089
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 36700,
+        "deaths": 992,
+        "recovered": 25139
+=======
+        "확진자수": 36700,
+        "사망자수": 992,
+        "완치자수": 25139
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "아제르바이잔",
+        "Name_ch": "阿塞拜疆",
+        "Name_en": "Azerbaijan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 36309,
+        "deaths": 531,
+        "recovered": 33703
+=======
+        "확진자수": 36309,
+        "사망자수": 531,
+        "완치자수": 33703
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 34057,
+        "deaths": 574,
+        "recovered": 19688
+=======
+        "확진자수": 34057,
+        "사망자수": 574,
+        "완치자수": 19688
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "세르비아",
+        "Name_ch": "塞尔维亚",
+        "Name_en": "Serbia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 31365,
+        "deaths": 711,
+        "recovered": 29931
+=======
+        "확진자수": 31365,
+        "사망자수": 711,
+        "완치자수": 29931
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "아일랜드",
+        "Name_ch": "冰岛",
+        "Name_en": "Ireland",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 28760,
+        "deaths": 1777,
+        "recovered": 23364
+=======
+        "확진자수": 28760,
+        "사망자수": 1777,
+        "완치자수": 23364
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 27438,
+        "deaths": 733,
+        "recovered": 23226
+    },
+    {
+        "Name": "호주",
+        "Name_ch": "澳大利亚",
+        "Name_en": "Australia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 25746,
+        "deaths": 652,
+        "recovered": 21350
+=======
+        "확진자수": 25746,
+        "사망자수": 652,
+        "완치자수": 21350
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 25729,
+        "deaths": 717,
+        "recovered": 14292
+=======
+        "확진자수": 25729,
+        "사망자수": 717,
+        "완치자수": 14292
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 24367,
+        "deaths": 423,
+        "recovered": 17547
+=======
+        "확진자수": 24367,
+        "사망자수": 423,
+        "완치자수": 17547
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 22729,
+        "deaths": 152,
+        "recovered": 15056
+=======
+        "확진자수": 22204,
+        "사망자수": 152,
+        "완치자수": 14787
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "波斯尼亚和黑塞哥维那",
+        "Name_en": "Bosnia and Herzegovina",
+        "confirmed": 19793,
+        "deaths": 598,
+        "recovered": 12961
+    },
+    {
+        "Name": "카메룬",
+        "Name_ch": "喀麦隆",
+        "Name_en": "Cameroon",
+        "confirmed": 19142,
+        "deaths": 411,
+        "recovered": 17651
+    },
+    {
+        "Name": "Ivory Coast",
+        "Name_ch": "",
+        "Name_en": "Ivory Coast",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 17948,
+        "deaths": 115,
+        "recovered": 16553
+    },
+    {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 17105,
+        "deaths": 308,
+        "recovered": 9146
+    },
+    {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 16891,
+        "deaths": 624,
+        "recovered": 15116
+    },
+    {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 16870,
+        "deaths": 160,
+        "recovered": 4693
+=======
+        "확진자수": 17948,
+        "사망자수": 115,
+        "완치자수": 16553
+    },
+    {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "확진자수": 17105,
+        "사망자수": 308,
+        "완치자수": 9146
+    },
+    {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "확진자수": 16891,
+        "사망자수": 624,
+        "완치자수": 15116
+    },
+    {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "확진자수": 16870,
+        "사망자수": 160,
+        "완치자수": 4693
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 16190,
+        "deaths": 613,
+        "recovered": 11313
+=======
+        "확진자수": 16190,
+        "사망자수": 613,
+        "완치자수": 11313
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Madagascar",
+        "Name_ch": "",
+        "Name_en": "Madagascar",
+        "confirmed": 14863,
+        "deaths": 192,
+        "recovered": 13832
+    },
+    {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "confirmed": 14330,
+        "deaths": 600,
+        "recovered": 11062
+    },
+    {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "confirmed": 13966,
+        "deaths": 237,
+        "recovered": 1459
+    },
+    {
+        "Name": "세네갈",
+        "Name_ch": "塞内加尔",
+        "Name_en": "Senegal",
+        "confirmed": 13611,
+        "deaths": 284,
+        "recovered": 9439
+    },
+    {
+        "Name": "Sudan",
+        "Name_ch": "",
+        "Name_en": "Sudan",
+        "confirmed": 13189,
+        "deaths": 823,
+        "recovered": 6612
+    },
+    {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 12097,
+        "deaths": 288,
+        "recovered": 11469
+    },
+    {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 10643,
+        "deaths": 264,
+        "recovered": 9348
+=======
+        "확진자수": 10643,
+        "사망자수": 264,
+        "완치자수": 9348
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "확진자수": 10134,
+        "사망자수": 262,
+        "완치자수": 3804
+    },
+    {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 10269,
+        "deaths": 186,
+        "recovered": 7434
+    },
+    {
+<<<<<<< HEAD:data/current_global.json
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 10134,
+        "deaths": 262,
+        "recovered": 3804
+    },
+    {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "confirmed": 10045,
+        "deaths": 258,
+        "recovered": 9103
+    },
+    {
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "confirmed": 9380,
+        "deaths": 280,
+        "recovered": 5139
+=======
+        "Name": "Albania",
+        "Name_ch": "",
+        "Name_en": "Albania",
+        "확진자수": 9380,
+        "사망자수": 280,
+        "완치자수": 5139
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Guinea",
+        "Name_ch": "",
+        "Name_en": "Guinea",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 9371,
+        "deaths": 59,
+        "recovered": 8387
+=======
+        "확진자수": 9371,
+        "사망자수": 59,
+        "완치자수": 8387
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 9340,
+        "deaths": 127,
+        "recovered": 9054
+=======
+        "확진자수": 9340,
+        "사망자수": 127,
+        "완치자수": 9054
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "confirmed": 9076,
+        "deaths": 58,
+        "recovered": 8620
+    },
+    {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 8550,
+        "deaths": 68,
+        "recovered": 7341
+=======
+        "확진자수": 8550,
+        "사망자수": 68,
+        "완치자수": 7341
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Gabon",
+        "Name_ch": "",
+        "Name_en": "Gabon",
+        "confirmed": 8505,
+        "deaths": 53,
+        "recovered": 7187
+    },
+    {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 8224,
+        "deaths": 201,
+        "recovered": 5828
+=======
+        "확진자수": 8209,
+        "사망자수": 201,
+        "완치자수": 5828
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "핀란드",
+        "Name_ch": "芬兰",
+        "Name_en": "Finland",
+        "confirmed": 8086,
+        "deaths": 336,
+        "recovered": 7200
+    },
+    {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 7667,
+        "deaths": 28,
+        "recovered": 5036
+=======
+        "확진자수": 7667,
+        "사망자수": 28,
+        "완치자수": 5036
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 7365,
+        "deaths": 72,
+        "recovered": 2929
+=======
+        "확진자수": 7365,
+        "사망자수": 72,
+        "완치자수": 2929
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Mauritania",
+        "Name_ch": "",
+        "Name_en": "Mauritania",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 7016,
+        "deaths": 159,
+        "recovered": 6430
+=======
+        "확진자수": 7016,
+        "사망자수": 159,
+        "완치자수": 6430
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "룩셈부르크",
+        "Name_ch": "卢森堡",
+        "Name_en": "Luxembourg",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 6673,
+        "deaths": 124,
+        "recovered": 0
+=======
+        "확진자수": 6673,
+        "사망자수": 124,
+        "완치자수": 0
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 6412,
+        "deaths": 196,
+        "recovered": 5061
+=======
+        "확진자수": 6412,
+        "사망자수": 196,
+        "완치자수": 5061
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 6139,
+        "deaths": 615,
+        "recovered": 3761
+=======
+        "확진자수": 6139,
+        "사망자수": 615,
+        "완치자수": 3761
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Malawi",
+        "Name_ch": "",
+        "Name_en": "Malawi",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 5536,
+        "deaths": 174,
+        "recovered": 3147
+=======
+        "확진자수": 5536,
+        "사망자수": 174,
+        "완치자수": 3147
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Djibouti",
+        "Name_ch": "",
+        "Name_en": "Djibouti",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 5385,
+        "deaths": 60,
+        "recovered": 5319
+=======
+        "확진자수": 5385,
+        "사망자수": 60,
+        "완치자수": 5319
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "confirmed": 4941,
+        "deaths": 83,
+        "recovered": 3884
+    },
+    {
+        "Name": "홍콩",
+        "Name_ch": "香港",
+        "Name_en": "Hong Kong",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 4811,
+        "deaths": 89,
+        "recovered": 4342
+=======
+        "확진자수": 4811,
+        "사망자수": 89,
+        "완치자수": 4342
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 4790,
+        "deaths": 98,
+        "recovered": 3963
+=======
+        "확진자수": 4790,
+        "사망자수": 98,
+        "완치자수": 3963
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "CAR",
+        "Name_ch": "",
+        "Name_en": "CAR",
+        "confirmed": 4700,
+        "deaths": 61,
+        "recovered": 1784
+    },
+    {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 4561,
+        "deaths": 91,
+        "recovered": 3478
+=======
+        "확진자수": 4561,
+        "사망자수": 91,
+        "완치자수": 3478
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "confirmed": 4494,
+        "deaths": 137,
+        "recovered": 2913
+    },
+    {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 4020,
+        "deaths": 16,
+        "recovered": 1918
+=======
+        "확진자수": 4020,
+        "사망자수": 16,
+        "완치자수": 1918
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 4009,
+        "deaths": 67,
+        "recovered": 3073
+=======
+        "확진자수": 4009,
+        "사망자수": 67,
+        "완치자수": 3073
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Congo",
+        "Name_ch": "",
+        "Name_en": "Congo",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3979,
+        "deaths": 78,
+        "recovered": 1742
+=======
+        "확진자수": 3979,
+        "사망자수": 78,
+        "완치자수": 1742
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3973,
+        "deaths": 94,
+        "recovered": 3327
+=======
+        "확진자수": 3973,
+        "사망자수": 94,
+        "완치자수": 3327
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3917,
+        "deaths": 33,
+        "recovered": 2377
+=======
+        "확진자수": 3917,
+        "사망자수": 33,
+        "완치자수": 2377
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3852,
+        "deaths": 40,
+        "recovered": 2867
+=======
+        "확진자수": 3852,
+        "사망자수": 40,
+        "완치자수": 2867
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3821,
+        "deaths": 23,
+        "recovered": 2100
+=======
+        "확진자수": 3821,
+        "사망자수": 23,
+        "완치자수": 2100
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3685,
+        "deaths": 76,
+        "recovered": 1562
+=======
+        "확진자수": 3685,
+        "사망자수": 76,
+        "완치자수": 1562
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "태국",
+        "Name_ch": "泰国",
+        "Name_en": "Thailand",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3412,
+        "deaths": 58,
+        "recovered": 3252
+=======
+        "확진자수": 3412,
+        "사망자수": 58,
+        "완치자수": 3252
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3310,
+        "deaths": 98,
+        "recovered": 2481
+=======
+        "확진자수": 3310,
+        "사망자수": 98,
+        "완치자수": 2481
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Mayotte",
+        "Name_ch": "",
+        "Name_en": "Mayotte",
+        "confirmed": 3301,
+        "deaths": 40,
+        "recovered": 2964
+    },
+    {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 3015,
+        "deaths": 12,
+        "recovered": 2868
+=======
+        "확진자수": 3012,
+        "사망자수": 12,
+        "완치자수": 2860
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2963,
+        "deaths": 96,
+        "recovered": 1032
+=======
+        "확진자수": 2963,
+        "사망자수": 96,
+        "완치자수": 1032
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2928,
+        "deaths": 30,
+        "recovered": 1288
+=======
+        "확진자수": 2928,
+        "사망자수": 30,
+        "완치자수": 1288
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2906,
+        "deaths": 86,
+        "recovered": 1840
+=======
+        "확진자수": 2906,
+        "사망자수": 86,
+        "완치자수": 1840
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2883,
+        "deaths": 133,
+        "recovered": 2296
+=======
+        "확진자수": 2883,
+        "사망자수": 133,
+        "완치자수": 2296
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2773,
+        "deaths": 126,
+        "recovered": 2169
+=======
+        "확진자수": 2773,
+        "사망자수": 126,
+        "완치자수": 2169
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2703,
+        "deaths": 109,
+        "recovered": 614
+=======
+        "확진자수": 2703,
+        "사망자수": 109,
+        "완치자수": 614
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2624,
+        "deaths": 107,
+        "recovered": 1063
+=======
+        "확진자수": 2624,
+        "사망자수": 107,
+        "완치자수": 1063
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "South Sudan",
+        "Name_ch": "",
+        "Name_en": "South Sudan",
+        "confirmed": 2519,
+        "deaths": 47,
+        "recovered": 1290
+    },
+    {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2375,
+        "deaths": 64,
+        "recovered": 2088
+    },
+    {
+        "Name": "Jamaica",
+=======
+        "확진자수": 2375,
+        "사망자수": 64,
+        "완치자수": 2088
+    },
+    {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "확진자수": 2357,
+        "사망자수": 21,
+        "완치자수": 890
+    },
+    {
+        "Name": "Guinea-Bissau",
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 2357,
+        "deaths": 21,
+        "recovered": 890
+    },
+    {
+<<<<<<< HEAD:data/current_global.json
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "confirmed": 2205,
+        "deaths": 34,
+        "recovered": 1127
+    },
+    {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 2167,
+        "deaths": 50,
+        "recovered": 782
+=======
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "확진자수": 2167,
+        "사망자수": 50,
+        "완치자수": 782
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2145,
+        "deaths": 40,
+        "recovered": 1738
+=======
+        "확진자수": 2145,
+        "사망자수": 40,
+        "완치자수": 1738
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Iceland",
+        "Name_ch": "",
+        "Name_en": "Iceland",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2105,
+        "deaths": 10,
+        "recovered": 1990
+=======
+        "확진자수": 2105,
+        "사망자수": 10,
+        "완치자수": 1990
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Sierra Leone",
+        "Name_ch": "",
+        "Name_en": "Sierra Leone",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 2022,
+        "deaths": 70,
+        "recovered": 1594
+=======
+        "확진자수": 2022,
+        "사망자수": 70,
+        "완치자수": 1594
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1997,
+        "deaths": 10,
+        "recovered": 765
+=======
+        "확진자수": 1997,
+        "사망자수": 10,
+        "완치자수": 765
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1966,
+        "deaths": 15,
+        "recovered": 1468
+=======
+        "확진자수": 1966,
+        "사망자수": 15,
+        "완치자수": 1468
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Yemen",
+        "Name_ch": "",
+        "Name_en": "Yemen",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1953,
+        "deaths": 564,
+        "recovered": 1123
+=======
+        "확진자수": 1953,
+        "사망자수": 564,
+        "완치자수": 1123
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1883,
+        "deaths": 12,
+        "recovered": 1400
+=======
+        "확진자수": 1862,
+        "사망자수": 12,
+        "완치자수": 1313
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "New Zealand",
+        "Name_ch": "",
+        "Name_en": "New Zealand",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1738,
+        "deaths": 22,
+        "recovered": 1585
+=======
+        "확진자수": 1738,
+        "사망자수": 22,
+        "완치자수": 1585
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1683,
+        "deaths": 21,
+        "recovered": 672
+=======
+        "확진자수": 1683,
+        "사망자수": 21,
+        "완치자수": 672
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1634,
+        "deaths": 9,
+        "recovered": 880
+=======
+        "확진자수": 1634,
+        "사망자수": 6,
+        "완치자수": 880
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Botswana",
+        "Name_ch": "",
+        "Name_en": "Botswana",
+        "confirmed": 1633,
+        "deaths": 6,
+        "recovered": 224
+    },
+    {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1585,
+        "deaths": 44,
+        "recovered": 1378
+=======
+        "확진자수": 1585,
+        "사망자수": 44,
+        "완치자수": 1378
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1487,
+        "deaths": 20,
+        "recovered": 1139
+=======
+        "확진자수": 1487,
+        "사망자수": 20,
+        "완치자수": 935
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1487,
+        "deaths": 19,
+        "recovered": 1240
+=======
+        "확진자수": 1487,
+        "사망자수": 19,
+        "완치자수": 1240
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1396,
+        "deaths": 34,
+        "recovered": 1163
+=======
+        "확진자수": 1396,
+        "사망자수": 34,
+        "완치자수": 1163
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1396,
+        "deaths": 27,
+        "recovered": 996
+=======
+        "확진자수": 1396,
+        "사망자수": 27,
+        "완치자수": 996
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1357,
+        "deaths": 55,
+        "recovered": 1058
+=======
+        "확진자수": 1357,
+        "사망자수": 55,
+        "완치자수": 1058
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Liberia",
+        "Name_ch": "",
+        "Name_en": "Liberia",
+        "confirmed": 1304,
+        "deaths": 82,
+        "recovered": 872
+    },
+    {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1234,
+        "deaths": 36,
+        "recovered": 687
+=======
+        "확진자수": 1234,
+        "사망자수": 36,
+        "완치자수": 687
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Niger",
+        "Name_ch": "",
+        "Name_en": "Niger",
+        "confirmed": 1175,
+        "deaths": 69,
+        "recovered": 1085
+    },
+    {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 1145,
+        "deaths": 16,
+        "recovered": 336
+    },
+    {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 1124,
+        "deaths": 53,
+        "recovered": 902
+    },
+    {
+        "Name": "Lesotho",
+        "Name_ch": "",
+        "Name_en": "Lesotho",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1085,
+        "deaths": 31,
+        "recovered": 528
+=======
+        "확진자수": 1085,
+        "사망자수": 31,
+        "완치자수": 528
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "베트남",
+        "Name_ch": "越南",
+        "Name_en": "Vietnam",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1044,
+        "deaths": 34,
+        "recovered": 707
+=======
+        "확진자수": 1040,
+        "사망자수": 33,
+        "완치자수": 695
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 1012,
+        "deaths": 77,
+        "recovered": 878
+=======
+        "확진자수": 1012,
+        "사망자수": 77,
+        "완치자수": 878
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 993,
+        "deaths": 13,
+        "recovered": 117
+=======
+        "확진자수": 993,
+        "사망자수": 13,
+        "완치자수": 117
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "Name_ch": "",
+        "Name_en": "Sao Tome and Principe",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 896,
+        "deaths": 15,
+        "recovered": 851
+=======
+        "확진자수": 896,
+        "사망자수": 15,
+        "완치자수": 851
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 775,
+        "deaths": 6,
+        "recovered": 352
+=======
+        "확진자수": 775,
+        "사망자수": 6,
+        "완치자수": 352
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "일본크루즈",
+        "Name_ch": "日本 邮轮",
+        "Name_en": "Diamond Princess",
+        "confirmed": 712,
+        "deaths": 13,
+        "recovered": 651
+    },
+    {
+        "Name": "산마리노",
+        "Name_ch": "圣马力诺",
+        "Name_en": "San Marino",
+        "confirmed": 710,
+        "deaths": 42,
+        "recovered": 658
+    },
+    {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "confirmed": 625,
+        "deaths": 48,
+        "recovered": 545
+    },
+    {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "confirmed": 596,
+        "deaths": 16,
+        "recovered": 98
+    },
+    {
+        "Name": "Tanzania",
+        "Name_ch": "",
+        "Name_en": "Tanzania",
+        "confirmed": 509,
+        "deaths": 21,
+        "recovered": 183
+    },
+    {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 507,
+        "deaths": 3,
+        "recovered": 200
+=======
+        "확진자수": 507,
+        "사망자수": 3,
+        "완치자수": 200
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "대만",
+        "Name_ch": "台湾",
+        "Name_en": "Taiwan",
+        "confirmed": 488,
+        "deaths": 7,
+        "recovered": 462
+    },
+    {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 482,
+        "deaths": 0,
+        "recovered": 202
+    },
+    {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 463,
+        "deaths": 17,
+        "recovered": 179
+=======
+        "확진자수": 463,
+        "사망자수": 17,
+        "완치자수": 179
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "confirmed": 459,
+        "deaths": 5,
+        "recovered": 232
+    },
+    {
+        "Name": "Burundi",
+        "Name_ch": "",
+        "Name_en": "Burundi",
+        "confirmed": 445,
+        "deaths": 1,
+        "recovered": 357
+    },
+    {
+        "Name": "Comoros",
+        "Name_ch": "",
+        "Name_en": "Comoros",
+        "confirmed": 423,
+        "deaths": 7,
+        "recovered": 399
+    },
+    {
+        "Name": "Faeroe Islands",
+        "Name_ch": "",
+        "Name_en": "Faeroe Islands",
+        "confirmed": 411,
+        "deaths": 0,
+        "recovered": 374
+    },
+    {
+        "Name": "Mauritius",
+        "Name_ch": "",
+        "Name_en": "Mauritius",
+        "confirmed": 355,
+        "deaths": 10,
+        "recovered": 335
+    },
+    {
+        "Name": "Isle of Man",
+        "Name_ch": "",
+        "Name_en": "Isle of Man",
+        "confirmed": 336,
+        "deaths": 24,
+        "recovered": 312
+    },
+    {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "confirmed": 318,
+        "deaths": 0,
+        "recovered": 284
+    },
+    {
+        "Name": "Mongolia",
+        "Name_ch": "",
+        "Name_en": "Mongolia",
+        "confirmed": 301,
+        "deaths": 0,
+        "recovered": 295
+    },
+    {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 285,
+        "deaths": 0,
+        "recovered": 228
+    },
+    {
+        "Name": "캄보디아",
+        "Name_ch": "柬埔寨",
+        "Name_en": "Cambodia",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 274,
+        "deaths": 0,
+        "recovered": 266
+=======
+        "확진자수": 274,
+        "사망자수": 0,
+        "완치자수": 266
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "부탄",
+        "Name_ch": "不丹",
+        "Name_en": "Bhutan",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 224,
+        "deaths": 0,
+        "recovered": 140
+=======
+        "확진자수": 224,
+        "사망자수": 0,
+        "완치자수": 140
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 213,
+        "deaths": 5,
+        "recovered": 79
+    },
+    {
+        "Name": "Cayman Islands",
+        "Name_ch": "",
+        "Name_en": "Cayman Islands",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 205,
+        "deaths": 1,
+        "recovered": 202
+=======
+        "확진자수": 205,
+        "사망자수": 1,
+        "완치자수": 202
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Barbados",
+        "Name_ch": "",
+        "Name_en": "Barbados",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 173,
+        "deaths": 7,
+        "recovered": 145
+=======
+        "확진자수": 173,
+        "사망자수": 7,
+        "완치자수": 145
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Bermuda",
+        "Name_ch": "",
+        "Name_en": "Bermuda",
+        "confirmed": 169,
+        "deaths": 9,
+        "recovered": 153
+    },
+    {
+        "Name": "Brunei",
+        "Name_ch": "",
+        "Name_en": "Brunei",
+        "confirmed": 144,
+        "deaths": 3,
+        "recovered": 139
+    },
+    {
+        "Name": "Seychelles",
+        "Name_ch": "",
+        "Name_en": "Seychelles",
+        "confirmed": 136,
+        "deaths": 0,
+        "recovered": 127
+    },
+    {
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 131,
+        "deaths": 1,
+        "recovered": 89
+=======
+        "확진자수": 131,
+        "사망자수": 1,
+        "완치자수": 89
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "confirmed": 107,
+        "deaths": 1,
+        "recovered": 97
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "Name_ch": "",
+        "Name_en": "Antigua and Barbuda",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 94,
+        "deaths": 3,
+        "recovered": 91
+=======
+        "확진자수": 94,
+        "사망자수": 3,
+        "완치자수": 91
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 68,
+        "deaths": 1,
+        "recovered": 35
+=======
+        "확진자수": 68,
+        "사망자수": 1,
+        "완치자수": 35
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "St. Vincent Grenadines",
+        "Name_ch": "",
+        "Name_en": "St. Vincent Grenadines",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 60,
+        "deaths": 0,
+        "recovered": 57
+    },
+    {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "confirmed": 47,
+        "deaths": 1,
+        "recovered": 8
+    },
+    {
+        "Name": "마카오",
+        "Name_ch": "澳门",
+        "Name_en": "Macao",
+        "confirmed": 46,
+        "deaths": 0,
+        "recovered": 46
+    },
+    {
+=======
+        "확진자수": 60,
+        "사망자수": 0,
+        "완치자수": 57
+    },
+    {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "확진자수": 47,
+        "사망자수": 1,
+        "완치자수": 8
+    },
+    {
+        "Name": "마카오",
+        "Name_ch": "澳门",
+        "Name_en": "Macao",
+        "확진자수": 46,
+        "사망자수": 0,
+        "완치자수": 46
+    },
+    {
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+        "Name": "Fiji",
+        "Name_ch": "",
+        "Name_en": "Fiji",
+        "confirmed": 28,
+        "deaths": 2,
+        "recovered": 23
+    },
+    {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "confirmed": 27,
+        "deaths": 0,
+        "recovered": 25
+    },
+    {
+        "Name": "Saint Lucia",
+        "Name_ch": "",
+        "Name_en": "Saint Lucia",
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 25
+    },
+    {
+        "Name": "Grenada",
+        "Name_ch": "",
+        "Name_en": "Grenada",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 24
+    },
+    {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
+        "confirmed": 23,
+        "deaths": 0,
+        "recovered": 23
+    },
+    {
+        "Name": "Laos",
+        "Name_ch": "",
+        "Name_en": "Laos",
+        "confirmed": 22,
+        "deaths": 0,
+        "recovered": 21
+    },
+    {
+        "Name": "Dominica",
+        "Name_ch": "",
+        "Name_en": "Dominica",
+        "confirmed": 20,
+        "deaths": 0,
+        "recovered": 18
+    },
+    {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 13
+    },
+    {
+        "Name": "Saint Kitts and Nevis",
+        "Name_ch": "",
+        "Name_en": "Saint Kitts and Nevis",
+        "confirmed": 17,
+        "deaths": 0,
+        "recovered": 17
+    },
+    {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 15,
+        "deaths": 0,
+        "recovered": 7
+    },
+    {
+        "Name": "Greenland",
+        "Name_ch": "",
+        "Name_en": "Greenland",
+        "confirmed": 14,
+        "deaths": 0,
+        "recovered": 14
+    },
+    {
+        "Name": "Montserrat",
+        "Name_ch": "",
+        "Name_en": "Montserrat",
+        "confirmed": 13,
+        "deaths": 1,
+        "recovered": 12
+    },
+    {
+        "Name": "Falkland Islands",
+        "Name_ch": "",
+        "Name_en": "Falkland Islands",
+        "confirmed": 13,
+        "deaths": 0,
+        "recovered": 13
+    },
+    {
+        "Name": "Vatican City",
+        "Name_ch": "",
+        "Name_en": "Vatican City",
+        "confirmed": 12,
+        "deaths": 0,
+        "recovered": 12
+    },
+    {
+        "Name": "Western Sahara",
+        "Name_ch": "",
+        "Name_en": "Western Sahara",
+        "confirmed": 10,
+        "deaths": 1,
+        "recovered": 8
+    },
+    {
+        "Name": "MS Zaandam",
+        "Name_ch": "",
+        "Name_en": "MS Zaandam",
+        "confirmed": 9,
+        "deaths": 2,
+        "recovered": 0
+    },
+    {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 5,
+        "deaths": 0,
+        "recovered": 4
+=======
+        "확진자수": 5,
+        "사망자수": 0,
+        "완치자수": 4
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    },
+    {
+        "Name": "Anguilla",
+        "Name_ch": "",
+        "Name_en": "Anguilla",
+        "confirmed": 3,
+        "deaths": 0,
+        "recovered": 3
+    },
+    {
+        "Name": "중국",
+        "Name_ch": "中国",
+        "Name_en": "China",
+<<<<<<< HEAD:data/current_global.json
+        "confirmed": 85048,
+        "deaths": 4634,
+        "recovered": 80177
+=======
+        "확진자수": 85048,
+        "사망자수": 4634,
+        "완치자수": 80177
+>>>>>>> db86bae2882da1dd7db15b0e884294d26d5a5bb1:data/worldData.js
+    }
+]
