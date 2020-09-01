@@ -1,7 +1,4 @@
-import csv
-import json
-
-import requests
+import csv, json, requests
 
 
 def get_raw_data(url):

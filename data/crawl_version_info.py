@@ -1,4 +1,5 @@
-import subprocess, datetime, re, timezone
+import subprocess, datetime, re
+from pytz import timezone
 from utils import write_data
 
 
