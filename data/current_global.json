@@ -4,7 +4,7 @@
         "Name_ch": "美国",
         "Name_en": "United States",
         "confirmed": 6212708,
-        "deaths": 187792,
+        "deaths": 187793,
         "recovered": 3457318
     },
     {
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 58012,
-        "deaths": 1822,
-        "recovered": 41961
+        "confirmed": 58243,
+        "deaths": 1824,
+        "recovered": 42104
     },
     {
         "Name": "싱가포르",
@@ -515,9 +515,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31406,
-        "deaths": 713,
-        "recovered": 30028
+        "confirmed": 31482,
+        "deaths": 715,
+        "recovered": 30053
     },
     {
         "Name": "아일랜드",
@@ -699,9 +699,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10097,
-        "deaths": 258,
-        "recovered": 9133
+        "confirmed": 10104,
+        "deaths": 259,
+        "recovered": 9322
     },
     {
         "Name": "Albania",
