@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6212174,
-        "deaths": 187742,
-        "recovered": 3456859
+        "confirmed": 6212486,
+        "deaths": 187791,
+        "recovered": 3457318
     },
     {
         "Name": "브라질",
@@ -163,9 +163,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 234934,
-        "deaths": 7042,
-        "recovered": 176602
+        "confirmed": 238338,
+        "deaths": 7123,
+        "recovered": 180473
     },
     {
         "Name": "필리핀",
@@ -299,8 +299,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 84379,
-        "deaths": 5808,
+        "confirmed": 84521,
+        "deaths": 5813,
         "recovered": 0
     },
     {
@@ -571,9 +571,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 19964,
-        "deaths": 609,
-        "recovered": 13095
+        "confirmed": 20234,
+        "deaths": 620,
+        "recovered": 13435
     },
     {
         "Name": "카메룬",
@@ -632,20 +632,20 @@
         "recovered": 13915
     },
     {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "confirmed": 14624,
+        "deaths": 242,
+        "recovered": 1676
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
         "confirmed": 14455,
         "deaths": 604,
         "recovered": 11525
-    },
-    {
-        "Name": "Libya",
-        "Name_ch": "",
-        "Name_en": "Libya",
-        "confirmed": 13966,
-        "deaths": 237,
-        "recovered": 1459
     },
     {
         "Name": "세네갈",
@@ -1083,9 +1083,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2107,
+        "confirmed": 2116,
         "deaths": 10,
-        "recovered": 1997
+        "recovered": 2007
     },
     {
         "Name": "요르단",
@@ -1261,7 +1261,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1044,
         "deaths": 34,
-        "recovered": 712
+        "recovered": 735
     },
     {
         "Name": "Chad",
