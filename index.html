@@ -208,7 +208,7 @@
 <!-- [S] 3. Visual Map -->
 <section class="container" id="visual_map">
     <div class="row">
-        <div class="col-md-6" id="visual_korea">
+        <div class="col-md-7" id="visual_korea">
             <div class="card mb-3">
                 <div class="card-header bg-secondary text-white">
                     한국 확진자수 증가추이
@@ -235,7 +235,7 @@
                         </li>
                     </ul>
                     <div class="tab-pane fade in show active p-2" id="korea_line_chart" role="tabpanel"
-                         style="height:35vh;min-height:20rem;">
+                         style="height:35vh;min-height:30.75rem;">
                         <div class="chart-tags text-right text-muted">
                             <span class="tag_01">한국 확진자수</span>
                             <span class="tag_02">전일대비</span>
@@ -245,7 +245,7 @@
                         <canvas id="CHART_KOR_LINER"></canvas>
                     </div>
                     <div class="tab-pane fade p-2" id="korea_semi_log_chart" role="tabpanel"
-                         style="height:35vh;min-height:20rem;">
+                         style="height:35vh;min-height:30.75rem;">
                         <canvas id="CHART_KOR_LOG"></canvas>
                     </div>
                     <div class="text-center p-3">
@@ -255,7 +255,7 @@
                 </div>
             </div>
         </div>
-        <div class="col-md-6" id="visual_local">
+        <div class="col-md-5" id="visual_local">
             <div class="card mb-3">
                 <div class="card-header bg-secondary text-white">
                     국내 현황 (클릭시 각 시도별 현황/확진자 이동경로로 이동)
@@ -264,8 +264,9 @@
                         <i class="fas fa-external-link-alt"></i>
                     </a>
                 </div>
-                <div class="card-body text-center">
-                    <img src="test.svg" style="height:35vh;min-height:25.125rem;" alt="">
+                <div class="card-body d-flex justify-content-center pb-5">
+                    <div id="KOREA_MAP_STATUS" style="height:530px;width:400px;position:absolute;top:3.75rem;"></div>
+                    <img src="/data/current_korea_region.svg" style="height:530px;width:400px;">
                 </div>
             </div>
         </div>

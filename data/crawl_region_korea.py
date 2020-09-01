@@ -1,10 +1,10 @@
-import requests
+import requests, re
 
 from bs4 import BeautifulSoup
 from utils import write_data
 
 
-def get_data(url):
+def get_status(url):
     html = requests.get(url).text
     soup = BeautifulSoup(html, 'html.parser')
     data = soup.select('.rpsa_detail > div > div')
@@ -12,21 +12,33 @@ def get_data(url):
     return data
 
 
-def parse_data(data):
+def get_link(url):
+    html = requests.get(url).text
+    soup = BeautifulSoup(html, 'html.parser')
+    data = soup.select('.citylist > ul > li')
+    return data
+
+
+def parse_data(status, link):
+    links_region = []
     confirmed_region = []
 
-    for i, d in enumerate(data):
+    for i, d in enumerate(link):
+        link = d.find_all('a', class_='s_link_text')[0]['href']
+        links_region.append(link)
+
+    for i, d in enumerate(status):
         region = d.find_all('h4', class_='cityname')[0].text
+        confirmed_delta = int(re.findall('\d+', d.find_all('span', class_='sub_num')[0].text)[0])
         temp = d.find_all('span', class_='num')
-        confirmed, _, recovered, deaths, confirmed_rate = [
-            element.text.replace(',', '') for element in temp]
+        confirmed, _, recovered, deaths, confirmed_rate = [element.text.replace(',', '') for element in temp]
         confirmed = int(confirmed)
         recovered = int(recovered)
         deaths = int(deaths)
         confirmed_rate = float(confirmed_rate)
-
         if i != 0:
             slicing = d.find_all('p', class_='citytit')[0].text
+            link_region = links_region[i-1]
             confirmed_region_rate = float(slicing[:slicing.find('%')])
             confirmed_region_class = 'none'
             if confirmed_region_rate > 30.0:
@@ -36,12 +48,15 @@ def parse_data(data):
             elif confirmed_region_rate > 0.3:
                 confirmed_region_class = 'mild'
         else:
+            link_region = 'http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13'
             confirmed_region_rate = ''
             confirmed_region_class = ''
 
         confirmed_region.append({
             'region': region,
+            'link': link_region,
             'confirmed': confirmed,
+            'confirmed_delta': confirmed_delta,
             'recovered': recovered,
             'deaths': deaths,
             'confirmed_rate': confirmed_rate,
@@ -61,9 +76,10 @@ def update_svg_map(confirmed_region):
 
 
 def run():
-    data = get_data("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13")
+    status = get_status("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13")
+    link = get_link("http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13")
 
-    confirmed_region = parse_data(data)
+    confirmed_region = parse_data(status, link)
 
     save_dir = './data/current_korea_region.json'
     crawler_name = 'crawl_region_korea.py'
