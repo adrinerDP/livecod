@@ -20,7 +20,7 @@ def run(now, git_version):
     write_data(data, save_dir, crawler_name)
 
 
-now = datetime.datetime.now()
+now = datetime.datetime.now(timezone('Asia/Seoul'))
 git_version = re.sub(pattern='[^\w\s]', repl='', string=str(get_git_revision_short_hash()))
 git_version = git_version[:-1]
 
