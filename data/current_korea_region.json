@@ -1,67 +1,67 @@
 ﻿[
     {
         "region": "전국",
-        "confirmed": 19947,
-        "recovered": 14973,
+        "confirmed": 20182,
+        "recovered": 15198,
         "deaths": 324,
-        "confirmed_rate": 38.47,
+        "confirmed_rate": 38.93,
         "confirmed_region_rate": ""
     },
     {
         "region": "서울",
-        "confirmed": 3867,
-        "recovered": 1899,
+        "confirmed": 3961,
+        "recovered": 2001,
         "deaths": 23,
-        "confirmed_rate": 39.73,
-        "confirmed_region_rate": 19.39
+        "confirmed_rate": 40.69,
+        "confirmed_region_rate": 19.63
     },
     {
         "region": "부산",
-        "confirmed": 301,
-        "recovered": 211,
+        "confirmed": 304,
+        "recovered": 219,
         "deaths": 3,
-        "confirmed_rate": 8.82,
+        "confirmed_rate": 8.91,
         "confirmed_region_rate": 1.51
     },
     {
         "region": "대구",
-        "confirmed": 7047,
-        "recovered": 6757,
+        "confirmed": 7049,
+        "recovered": 6759,
         "deaths": 191,
-        "confirmed_rate": 289.23,
-        "confirmed_region_rate": 35.33
+        "confirmed_rate": 289.31,
+        "confirmed_region_rate": 34.93
     },
     {
         "region": "인천",
-        "confirmed": 718,
+        "confirmed": 740,
         "recovered": 414,
         "deaths": 3,
-        "confirmed_rate": 24.29,
-        "confirmed_region_rate": 3.6
+        "confirmed_rate": 25.03,
+        "confirmed_region_rate": 3.67
     },
     {
         "region": "광주",
-        "confirmed": 374,
+        "confirmed": 378,
         "recovered": 237,
         "deaths": 2,
-        "confirmed_rate": 25.67,
+        "confirmed_rate": 25.95,
         "confirmed_region_rate": 1.87
     },
     {
         "region": "대전",
-        "confirmed": 256,
-        "recovered": 167,
+        "confirmed": 264,
+        "recovered": 171,
         "deaths": 2,
-        "confirmed_rate": 17.37,
-        "confirmed_region_rate": 1.28
+        "confirmed_rate": 17.91,
+        "confirmed_region_rate": 1.31
     },
     {
         "region": "울산",
-        "confirmed": 89,
+        "confirmed": 95,
         "recovered": 63,
         "deaths": 1,
-        "confirmed_rate": 7.76,
-        "confirmed_region_rate": 0.45
+        "confirmed_rate": 8.28,
+        "confirmed_region_rate": 0.47
     },
     {
         "region": "세종",
@@ -69,39 +69,39 @@
         "recovered": 52,
         "deaths": 0,
         "confirmed_rate": 19.57,
-        "confirmed_region_rate": 0.34
+        "confirmed_region_rate": 0.33
     },
     {
         "region": "경기",
-        "confirmed": 3260,
-        "recovered": 1906,
+        "confirmed": 3323,
+        "recovered": 1990,
         "deaths": 40,
-        "confirmed_rate": 24.6,
-        "confirmed_region_rate": 16.34
+        "confirmed_rate": 25.08,
+        "confirmed_region_rate": 16.47
     },
     {
         "region": "강원",
-        "confirmed": 189,
-        "recovered": 81,
+        "confirmed": 193,
+        "recovered": 88,
         "deaths": 3,
-        "confirmed_rate": 12.27,
-        "confirmed_region_rate": 0.95
+        "confirmed_rate": 12.53,
+        "confirmed_region_rate": 0.96
     },
     {
         "region": "충북",
-        "confirmed": 128,
+        "confirmed": 129,
         "recovered": 83,
         "deaths": 1,
-        "confirmed_rate": 8.0,
+        "confirmed_rate": 8.07,
         "confirmed_region_rate": 0.64
     },
     {
         "region": "충남",
-        "confirmed": 332,
-        "recovered": 205,
+        "confirmed": 339,
+        "recovered": 214,
         "deaths": 1,
-        "confirmed_rate": 15.64,
-        "confirmed_region_rate": 1.66
+        "confirmed_rate": 15.97,
+        "confirmed_region_rate": 1.68
     },
     {
         "region": "전북",
@@ -109,38 +109,38 @@
         "recovered": 41,
         "deaths": 0,
         "confirmed_rate": 4.79,
-        "confirmed_region_rate": 0.44
+        "confirmed_region_rate": 0.43
     },
     {
         "region": "전남",
-        "confirmed": 142,
+        "confirmed": 146,
         "recovered": 42,
         "deaths": 0,
-        "confirmed_rate": 7.62,
-        "confirmed_region_rate": 0.71
+        "confirmed_rate": 7.83,
+        "confirmed_region_rate": 0.72
     },
     {
         "region": "경북",
-        "confirmed": 1455,
-        "recovered": 1356,
+        "confirmed": 1464,
+        "recovered": 1357,
         "deaths": 54,
-        "confirmed_rate": 54.65,
-        "confirmed_region_rate": 7.29
+        "confirmed_rate": 54.99,
+        "confirmed_region_rate": 7.25
     },
     {
         "region": "경남",
-        "confirmed": 236,
-        "recovered": 166,
+        "confirmed": 239,
+        "recovered": 171,
         "deaths": 0,
-        "confirmed_rate": 7.02,
+        "confirmed_rate": 7.11,
         "confirmed_region_rate": 1.18
     },
     {
         "region": "제주",
-        "confirmed": 45,
+        "confirmed": 46,
         "recovered": 26,
         "deaths": 0,
-        "confirmed_rate": 6.71,
+        "confirmed_rate": 6.86,
         "confirmed_region_rate": 0.23
     }
 ]
