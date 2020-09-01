@@ -1347,8 +1347,8 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 507,
-        "deaths": 3,
+        "confirmed": 508,
+        "deaths": 4,
         "recovered": 200
     },
     {
@@ -1363,9 +1363,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 463,
+        "confirmed": 476,
         "deaths": 17,
-        "recovered": 179
+        "recovered": 200
     },
     {
         "Name": "Papua New Guinea",
@@ -1451,9 +1451,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 224,
+        "confirmed": 225,
         "deaths": 0,
-        "recovered": 140
+        "recovered": 142
     },
     {
         "Name": "Saint Martin",
