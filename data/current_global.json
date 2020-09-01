@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3691166,
-        "deaths": 65435,
-        "recovered": 2839882
+        "confirmed": 3694878,
+        "deaths": 65469,
+        "recovered": 2840040
     },
     {
         "Name": "러시아",
@@ -1168,20 +1168,20 @@
         "recovered": 1409
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 1510,
+        "deaths": 19,
+        "recovered": 1243
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1488,
         "deaths": 20,
         "recovered": 1139
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 1487,
-        "deaths": 19,
-        "recovered": 1240
     },
     {
         "Name": "토고",
