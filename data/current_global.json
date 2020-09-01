@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6244251,
-        "deaths": 188506,
-        "recovered": 3471360
+        "confirmed": 6247108,
+        "deaths": 188634,
+        "recovered": 3478825
     },
     {
         "Name": "브라질",
@@ -1008,20 +1008,20 @@
         "recovered": 2323
     },
     {
-        "Name": "Mali",
-        "Name_ch": "",
-        "Name_en": "Mali",
-        "confirmed": 2776,
-        "deaths": 126,
-        "recovered": 2169
-    },
-    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 2765,
-        "deaths": 112,
-        "recovered": 629
+        "confirmed": 2830,
+        "deaths": 116,
+        "recovered": 646
+    },
+    {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+        "confirmed": 2777,
+        "deaths": 126,
+        "recovered": 2178
     },
     {
         "Name": "Angola",
@@ -1115,9 +1115,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 1958,
-        "deaths": 566,
-        "recovered": 1131
+        "confirmed": 1962,
+        "deaths": 570,
+        "recovered": 1160
     },
     {
         "Name": "Malta",
@@ -1232,20 +1232,20 @@
         "recovered": 336
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 1184,
+        "deaths": 53,
+        "recovered": 908
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "confirmed": 1176,
         "deaths": 69,
         "recovered": 1088
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "confirmed": 1176,
-        "deaths": 53,
-        "recovered": 908
     },
     {
         "Name": "Lesotho",
