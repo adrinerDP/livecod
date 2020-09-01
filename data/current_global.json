@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6219943,
-        "deaths": 187936,
+        "confirmed": 6222086,
+        "deaths": 187972,
         "recovered": 3460325
     },
     {
@@ -187,9 +187,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 128948,
-        "deaths": 9126,
-        "recovered": 114227
+        "confirmed": 129182,
+        "deaths": 9129,
+        "recovered": 114396
     },
     {
         "Name": "Ukraine",
@@ -211,9 +211,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 117241,
-        "deaths": 946,
-        "recovered": 95596
+        "confirmed": 118122,
+        "deaths": 956,
+        "recovered": 96206
     },
     {
         "Name": "Bolivia",
@@ -395,9 +395,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 52131,
-        "deaths": 809,
-        "recovered": 18994
+        "confirmed": 53304,
+        "deaths": 828,
+        "recovered": 19487
     },
     {
         "Name": "바레인",
@@ -555,9 +555,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 24618,
-        "deaths": 424,
-        "recovered": 17807
+        "confirmed": 24832,
+        "deaths": 425,
+        "recovered": 18088
     },
     {
         "Name": "팔레스타인",
@@ -592,20 +592,20 @@
         "recovered": 16699
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 17777,
+        "deaths": 171,
+        "recovered": 4988
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "confirmed": 17662,
         "deaths": 326,
         "recovered": 9421
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 17308,
-        "deaths": 167,
-        "recovered": 4811
     },
     {
         "Name": "덴마크",
@@ -971,7 +971,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3071,
+        "confirmed": 3092,
         "deaths": 12,
         "recovered": 2879
     },
