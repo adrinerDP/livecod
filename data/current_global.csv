@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6295733,189891,3535914
+미국,美国,United States,6295884,189901,3536372
 브라질,巴西,Brazil,3997865,123780,3210405
 인도,印度,India,3848968,67486,2967396
 러시아,俄罗斯,Russia,1005000,17414,821169
@@ -46,12 +46,12 @@ Guatemala,,Guatemala,75644,2790,63688
 모로코,摩洛哥,Morocco,65453,1216,50357
 Honduras,,Honduras,61769,1888,10430
 포르투갈,葡萄牙,Portugal,58633,1827,42233
-싱가포르,新加坡,Singapore,56901,27,55891
+싱가포르,新加坡,Singapore,56860,27,55891
 나이지리아,尼日利亚,Nigeria,54463,1027,42439
 Ethiopia,,Ethiopia,54409,846,19903
 바레인,巴林,Bahrain,52807,190,49645
 Venezuela,,Venezuela,47756,391,39027
-알제리,阿尔及利亚,Algeria,44833,1518,31493
+알제리,阿尔及利亚,Algeria,45158,1523,31746
 Ghana,,Ghana,44460,276,43121
 아르메니아,亚美尼亚,Armenia,44075,884,38631
 Kyrgyzstan,,Kyrgyzstan,44036,1059,38895
@@ -92,7 +92,7 @@ Guinea,,Guinea,9479,59,8527
 말레이시아,马来西亚,Malaysia,9360,128,9079
 French Guiana,,French Guiana,9209,61,8739
 Tajikistan,,Tajikistan,8654,69,7447
-Gabon,,Gabon,8533,53,7264
+Gabon,,Gabon,8538,53,7335
 Haiti,,Haiti,8258,206,5870
 핀란드,芬兰,Finland,8161,336,7350
 Maldives,,Maldives,8140,29,5338
@@ -106,7 +106,7 @@ Djibouti,,Djibouti,5387,60,5327
 Equatorial Guinea,,Equatorial Guinea,4965,83,3884
 Montenegro,,Montenegro,4917,102,4058
 홍콩,香港,Hong Kong,4831,92,4401
-CAR,,CAR,4711,62,1790
+CAR,,CAR,4712,62,1803
 Nicaragua,,Nicaragua,4668,141,2913
 Eswatini,,Eswatini,4668,94,3585
 Rwanda,,Rwanda,4218,17,2071
@@ -171,7 +171,7 @@ Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,489,7,471
 Sint Maarten,,Sint Maarten,482,19,241
 Papua New Guinea,,Papua New Guinea,460,5,232
-Burundi,,Burundi,445,1,357
+Burundi,,Burundi,448,1,357
 Comoros,,Comoros,427,7,410
 Faeroe Islands,,Faeroe Islands,411,0,374
 Mauritius,,Mauritius,356,10,335

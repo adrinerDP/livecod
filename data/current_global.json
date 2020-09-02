@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6295733,
-        "deaths": 189891,
-        "recovered": 3535914
+        "confirmed": 6295884,
+        "deaths": 189901,
+        "recovered": 3536372
     },
     {
         "Name": "브라질",
@@ -379,7 +379,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 56901,
+        "confirmed": 56860,
         "deaths": 27,
         "recovered": 55891
     },
@@ -419,9 +419,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 44833,
-        "deaths": 1518,
-        "recovered": 31493
+        "confirmed": 45158,
+        "deaths": 1523,
+        "recovered": 31746
     },
     {
         "Name": "Ghana",
@@ -747,9 +747,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8533,
+        "confirmed": 8538,
         "deaths": 53,
-        "recovered": 7264
+        "recovered": 7335
     },
     {
         "Name": "Haiti",
@@ -859,9 +859,9 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4711,
+        "confirmed": 4712,
         "deaths": 62,
-        "recovered": 1790
+        "recovered": 1803
     },
     {
         "Name": "Nicaragua",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 445,
+        "confirmed": 448,
         "deaths": 1,
         "recovered": 357
     },
