@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 116598,
-        "deaths": 5027,
-        "recovered": 60408
+        "confirmed": 117267,
+        "deaths": 5101,
+        "recovered": 62124
     },
     {
         "Name": "에콰도르",
@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 105872,
+        "confirmed": 105944,
         "deaths": 1588,
-        "recovered": 96899
+        "recovered": 97371
     },
     {
         "Name": "이집트",
@@ -291,9 +291,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 85236,
-        "deaths": 9895,
-        "recovered": 18422
+        "confirmed": 85487,
+        "deaths": 9897,
+        "recovered": 18457
     },
     {
         "Name": "스웨덴",
