@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6289267,
-        "deaths": 189649,
-        "recovered": 3530595
+        "confirmed": 6290509,
+        "deaths": 189657,
+        "recovered": 3532078
     },
     {
         "Name": "브라질",
@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 42763,
         "deaths": 2011,
-        "recovered": 36300
+        "recovered": 36500
     },
     {
         "Name": "Uzbekistan",
@@ -603,9 +603,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18103,
+        "confirmed": 18161,
         "deaths": 117,
-        "recovered": 16814
+        "recovered": 16933
     },
     {
         "Name": "덴마크",
