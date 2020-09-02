@@ -1336,20 +1336,20 @@
         "recovered": 205
     },
     {
+        "Name": "Turks and Caicos",
+        "Name_ch": "",
+        "Name_en": "Turks and Caicos",
+        "confirmed": 538,
+        "deaths": 4,
+        "recovered": 218
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "confirmed": 509,
         "deaths": 21,
         "recovered": 183
-    },
-    {
-        "Name": "Turks and Caicos",
-        "Name_ch": "",
-        "Name_en": "Turks and Caicos",
-        "confirmed": 508,
-        "deaths": 4,
-        "recovered": 200
     },
     {
         "Name": "대만",
@@ -1427,9 +1427,9 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 304,
+        "confirmed": 306,
         "deaths": 0,
-        "recovered": 295
+        "recovered": 296
     },
     {
         "Name": "지브롤터",
@@ -1451,7 +1451,7 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 225,
+        "confirmed": 227,
         "deaths": 0,
         "recovered": 142
     },
