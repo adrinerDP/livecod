@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6259046,188931,3497840
+미국,美国,United States,6259992,188961,3497873
 브라질,巴西,Brazil,3952790,122681,3159096
-인도,印度,India,3792746,66671,2917967
+인도,印度,India,3794314,66678,2920122
 러시아,俄罗斯,Russia,1005000,17414,821169
 페루,秘鲁,Peru,657129,29068,471599
 남아프리카 공화국,南非共和国,South Africa,628259,14263,549993
@@ -13,13 +13,13 @@ Argentina,,Argentina,428239,8971,315530
 이란,伊朗,Iran,378752,21797,326801
 영국,英国,UK,337168,41504,0
 Bangladesh,,Bangladesh,317528,4351,211016
-사우디아라비아,沙特阿拉伯,Saudi Arabia,316670,3929,291514
+사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
 파키스탄,巴基斯坦,Pakistan,296590,6318,281459
 프랑스,法国,France,286007,30661,86712
 터키,土耳其,Turkey,271705,6417,245929
 이탈리아,义大利,Italy,270189,35491,207944
 독일,德国,Germany,246234,9383,221800
-이라크,伊拉克,Iraq,238338,7123,180473
+이라크,伊拉克,Iraq,242284,7201,184205
 필리핀,菲律宾,Philippines,226440,3623,158610
 인도네시아,印度尼西亚,Indonesia,180646,7616,129971
 캐나다,加拿大,Canada,129425,9132,114607
@@ -38,7 +38,7 @@ Panama,,Panama,93552,2018,66974
 벨기에,比利时,Belgium,85487,9897,18457
 스웨덴,瑞典语,Sweden,84532,5820,0
 Guatemala,,Guatemala,74893,2778,62935
-벨라루스,白俄罗斯,Belarus,71962,686,70606
+벨라루스,白俄罗斯,Belarus,72141,691,70900
 네덜란드,荷兰,Netherlands,71863,6235,0
 아랍에미리트,阿拉伯联合酋长国,UAE,71540,387,62029
 폴란드,波兰,Poland,68517,2078,47865
@@ -62,15 +62,15 @@ Uzbekistan,,Uzbekistan,42370,326,39664
 아프가니스탄,阿富汗,Afghanistan,38243,1409,29315
 Moldova,,Moldova,37208,1008,26189
 아제르바이잔,阿塞拜疆,Azerbaijan,36732,538,34116
-Kenya,,Kenya,34315,577,20211
-세르비아,塞尔维亚,Serbia,31482,715,30053
+Kenya,,Kenya,34493,581,20211
+세르비아,塞尔维亚,Serbia,31581,716,30188
 아일랜드,冰岛,Ireland,29025,1777,23364
 오스트리아,奥地利,Austria,27969,734,23820
 호주,澳大利亚,Australia,25923,663,21690
 El Salvador,,El Salvador,25904,731,14879
 체코,捷克,Czechia,25117,425,18116
 팔레스타인,巴勒斯坦,Palestine,23875,162,15483
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20234,620,13435
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
 카메룬,喀麦隆,Cameroon,19409,414,17651
 Paraguay,,Paraguay,18338,348,9721
 Ivory Coast,,Ivory Coast,18103,117,16814
@@ -82,8 +82,8 @@ Madagascar,,Madagascar,15023,196,13965
 North Macedonia,,North Macedonia,14600,606,11741
 세네갈,塞内加尔,Senegal,13743,287,9506
 Sudan,,Sudan,13189,823,6612
-Zambia,,Zambia,12381,290,11479
-노르웨이,挪威,Norway,10871,264,9348
+Zambia,,Zambia,12415,292,11494
+노르웨이,挪威,Norway,10951,264,9348
 크로아티아,克罗地亚,Croatia,10725,191,7968
 그리스,希腊,Greece,10524,271,3804
 DRC,,DRC,10114,259,9347
@@ -141,9 +141,9 @@ Sierra Leone,,Sierra Leone,2028,71,1594
 Yemen,,Yemen,1962,570,1160
 Malta,,Malta,1931,13,1490
 Trinidad and Tobago,,Trinidad and Tobago,1797,27,685
+Réunion,,Réunion,1796,10,880
 New Zealand,,New Zealand,1757,22,1606
 Botswana,,Botswana,1724,6,493
-Réunion,,Réunion,1714,10,880
 Uruguay,,Uruguay,1611,44,1419
 조지아,格鲁吉亚,Georgia,1548,19,1270
 Cyprus,,Cyprus,1490,21,1139
