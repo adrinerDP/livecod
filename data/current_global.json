@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6272257,
-        "deaths": 189278,
-        "recovered": 3506751
+        "confirmed": 6274354,
+        "deaths": 189325,
+        "recovered": 3508780
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3826387,
-        "deaths": 67183,
-        "recovered": 2950122
+        "confirmed": 3847588,
+        "deaths": 67476,
+        "recovered": 2966013
     },
     {
         "Name": "러시아",
@@ -132,16 +132,16 @@
         "Name_ch": "法国",
         "Name_en": "France",
         "confirmed": 293024,
-        "deaths": 30661,
+        "deaths": 30686,
         "recovered": 86712
     },
     {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 271705,
-        "deaths": 6417,
-        "recovered": 245929
+        "confirmed": 273301,
+        "deaths": 6462,
+        "recovered": 246876
     },
     {
         "Name": "이탈리아",
@@ -155,7 +155,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 246808,
+        "confirmed": 246893,
         "deaths": 9385,
         "recovered": 221800
     },
@@ -384,20 +384,20 @@
         "recovered": 55891
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 54409,
+        "deaths": 846,
+        "recovered": 19903
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 54247,
         "deaths": 1023,
         "recovered": 42010
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 53304,
-        "deaths": 828,
-        "recovered": 19487
     },
     {
         "Name": "바레인",
@@ -523,7 +523,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 29025,
+        "confirmed": 29114,
         "deaths": 1777,
         "recovered": 23364
     },
