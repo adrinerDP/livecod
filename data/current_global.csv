@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6295884,189901,3536372
-브라질,巴西,Brazil,3997865,123780,3210405
+미국,美国,United States,6296939,189928,3537105
+브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3848968,67486,2967396
 러시아,俄罗斯,Russia,1005000,17414,821169
-페루,秘鲁,Peru,657129,29068,471599
+페루,秘鲁,Peru,663437,29259,480177
 콜롬비아,哥伦比亚,Colombia,633339,20348,479568
 남아프리카 공화국,南非共和国,South Africa,630595,14389,553456
 멕시코,墨西哥,Mexico,606036,65241,421373
 스페인,西班牙,Spain,479554,29194,0
-Argentina,,Argentina,428239,8971,315530
+Argentina,,Argentina,439172,9118,315530
 칠레,智利,Chile,414739,11344,387683
 이란,伊朗,Iran,378752,21797,326801
 영국,英国,UK,338676,41514,0
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,117267,5101,62124
 Kazakhstan,,Kazakhstan,105944,1588,97371
 이집트,埃及,Egypt,99280,5461,74626
 도미니카 공화국,多明尼加共和国,Dominican Republic,95627,1765,69519
-Panama,,Panama,93552,2018,66974
+Panama,,Panama,94084,2030,67487
 루마니아,尼亚,Romania,89891,3721,38701
 쿠웨이트,科威特,Kuwait,86478,535,78209
 오만,阿曼,Oman,85928,689,81024
@@ -68,7 +68,7 @@ Kenya,,Kenya,34493,581,20211
 오스트리아,奥地利,Austria,27969,734,23820
 호주,澳大利亚,Australia,25923,663,21690
 El Salvador,,El Salvador,25904,731,14879
-체코,捷克,Czechia,25579,425,18307
+체코,捷克,Czechia,25773,425,18326
 팔레스타인,巴勒斯坦,Palestine,23875,162,15483
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
 카메룬,喀麦隆,Cameroon,19460,415,17651
@@ -98,10 +98,10 @@ Haiti,,Haiti,8258,206,5870
 Maldives,,Maldives,8140,29,5338
 Namibia,,Namibia,7844,82,3454
 Mauritania,,Mauritania,7089,160,6548
-룩셈부르크,卢森堡,Luxembourg,6702,124,0
+룩셈부르크,卢森堡,Luxembourg,6745,124,0
+Zimbabwe,,Zimbabwe,6638,206,5250
 헝가리,匈牙利,Hungary,6622,619,3903
-Zimbabwe,,Zimbabwe,6559,203,5241
-Malawi,,Malawi,5576,175,3420
+Malawi,,Malawi,5579,175,3500
 Djibouti,,Djibouti,5387,60,5327
 Equatorial Guinea,,Equatorial Guinea,4965,83,3884
 Montenegro,,Montenegro,4917,102,4058
@@ -111,9 +111,9 @@ Nicaragua,,Nicaragua,4668,141,2913
 Eswatini,,Eswatini,4668,94,3585
 Rwanda,,Rwanda,4218,17,2071
 Tunisia,,Tunisia,4196,81,1628
+Suriname,,Suriname,4149,72,3272
 Cuba,,Cuba,4126,98,3458
 Mozambique,,Mozambique,4117,25,2170
-Suriname,,Suriname,4089,72,3171
 Cabo Verde,,Cabo Verde,4048,41,3460
 슬로바키아,斯洛伐克,Slovakia,4042,33,2523
 Congo,,Congo,3979,78,1742
@@ -134,8 +134,8 @@ South Sudan,,South Sudan,2532,47,1290
 Bahamas,,Bahamas,2276,50,801
 Aruba,,Aruba,2211,12,934
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
+Benin,,Benin,2194,40,1738
 요르단,约旦,Jordan,2161,15,1610
-Benin,,Benin,2145,40,1738
 Iceland,,Iceland,2121,10,2016
 Sierra Leone,,Sierra Leone,2029,71,1600
 Yemen,,Yemen,1976,571,1175
@@ -144,7 +144,7 @@ Trinidad and Tobago,,Trinidad and Tobago,1920,28,691
 Réunion,,Réunion,1796,10,880
 New Zealand,,New Zealand,1757,22,1606
 Botswana,,Botswana,1724,6,493
-Uruguay,,Uruguay,1611,44,1419
+Uruguay,,Uruguay,1626,44,1433
 조지아,格鲁吉亚,Georgia,1548,19,1270
 Cyprus,,Cyprus,1495,21,1139
 토고,多哥,Togo,1434,30,1055
@@ -160,17 +160,17 @@ Belize,,Belize,1050,13,213
 베트남,越南,Vietnam,1046,34,746
 Chad,,Chad,1017,77,904
 Myanmar,,Myanmar,995,6,358
-Sao Tome and Principe,,Sao Tome and Principe,896,15,853
+Sao Tome and Principe,,Sao Tome and Principe,896,15,855
 Martinique,,Martinique,747,18,98
 산마리노,圣马力诺,San Marino,715,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,630,48,545
-French Polynesia,,French Polynesia,573,0,205
+French Polynesia,,French Polynesia,622,0,336
 Turks and Caicos,,Turks and Caicos,538,4,218
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,489,7,471
 Sint Maarten,,Sint Maarten,482,19,241
-Papua New Guinea,,Papua New Guinea,460,5,232
+Papua New Guinea,,Papua New Guinea,471,5,232
 Burundi,,Burundi,448,1,357
 Comoros,,Comoros,427,7,410
 Faeroe Islands,,Faeroe Islands,411,0,374
