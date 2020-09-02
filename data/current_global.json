@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6285679,
-        "deaths": 189603,
-        "recovered": 3527967
+        "confirmed": 6289267,
+        "deaths": 189649,
+        "recovered": 3530595
     },
     {
         "Name": "브라질",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 247152,
-        "deaths": 9389,
+        "confirmed": 247366,
+        "deaths": 9393,
         "recovered": 221800
     },
     {
@@ -1064,6 +1064,14 @@
         "recovered": 801
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "confirmed": 2211,
+        "deaths": 12,
+        "recovered": 934
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -1094,14 +1102,6 @@
         "confirmed": 2121,
         "deaths": 10,
         "recovered": 2016
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "confirmed": 2104,
-        "deaths": 10,
-        "recovered": 857
     },
     {
         "Name": "Sierra Leone",
