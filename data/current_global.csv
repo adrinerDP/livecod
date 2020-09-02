@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6259992,188961,3497873
+미국,美国,United States,6260879,188975,3498208
 브라질,巴西,Brazil,3952790,122681,3159096
-인도,印度,India,3794314,66678,2920122
+인도,印度,India,3810625,66871,2931005
 러시아,俄罗斯,Russia,1005000,17414,821169
 페루,秘鲁,Peru,657129,29068,471599
 남아프리카 공화국,南非共和国,South Africa,628259,14263,549993
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,317528,4351,211016
 프랑스,法国,France,286007,30661,86712
 터키,土耳其,Turkey,271705,6417,245929
 이탈리아,义大利,Italy,270189,35491,207944
-독일,德国,Germany,246234,9383,221800
+독일,德国,Germany,246499,9385,221800
 이라크,伊拉克,Iraq,242284,7201,184205
 필리핀,菲律宾,Philippines,226440,3623,158610
 인도네시아,印度尼西亚,Indonesia,180646,7616,129971
@@ -56,11 +56,11 @@ Ghana,,Ghana,44460,276,43121
 아르메니아,亚美尼亚,Armenia,44075,884,38631
 Kyrgyzstan,,Kyrgyzstan,44036,1059,38895
 스위스,瑞士,Switzerland,42763,2011,36300
-Uzbekistan,,Uzbekistan,42370,326,39664
+Uzbekistan,,Uzbekistan,42437,327,39664
 코스타리카,哥斯达黎加,Costa Rica,42184,443,16270
 네팔,尼泊尔,Nepal,41649,251,23290
 아프가니스탄,阿富汗,Afghanistan,38243,1409,29315
-Moldova,,Moldova,37208,1008,26189
+Moldova,,Moldova,37740,1024,26189
 아제르바이잔,阿塞拜疆,Azerbaijan,36732,538,34116
 Kenya,,Kenya,34493,581,20211
 세르비아,塞尔维亚,Serbia,31581,716,30188
@@ -93,7 +93,7 @@ Guinea,,Guinea,9479,59,8527
 French Guiana,,French Guiana,9154,60,8707
 Tajikistan,,Tajikistan,8619,68,7413
 Gabon,,Gabon,8533,53,7264
-Haiti,,Haiti,8230,203,5828
+Haiti,,Haiti,8258,206,5870
 핀란드,芬兰,Finland,8161,336,7200
 Maldives,,Maldives,8003,29,5265
 Namibia,,Namibia,7692,81,3379

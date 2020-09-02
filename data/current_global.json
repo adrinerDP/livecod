@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6259992,
-        "deaths": 188961,
-        "recovered": 3497873
+        "confirmed": 6260879,
+        "deaths": 188975,
+        "recovered": 3498208
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3794314,
-        "deaths": 66678,
-        "recovered": 2920122
+        "confirmed": 3810625,
+        "deaths": 66871,
+        "recovered": 2931005
     },
     {
         "Name": "러시아",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 246234,
-        "deaths": 9383,
+        "confirmed": 246499,
+        "deaths": 9385,
         "recovered": 221800
     },
     {
@@ -459,8 +459,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 42370,
-        "deaths": 326,
+        "confirmed": 42437,
+        "deaths": 327,
         "recovered": 39664
     },
     {
@@ -491,8 +491,8 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 37208,
-        "deaths": 1008,
+        "confirmed": 37740,
+        "deaths": 1024,
         "recovered": 26189
     },
     {
@@ -755,9 +755,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8230,
-        "deaths": 203,
-        "recovered": 5828
+        "confirmed": 8258,
+        "deaths": 206,
+        "recovered": 5870
     },
     {
         "Name": "핀란드",
