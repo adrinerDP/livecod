@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6260881,188975,3498209
+미국,美国,United States,6265089,189154,3498334
 브라질,巴西,Brazil,3952790,122681,3159096
 인도,印度,India,3810625,66871,2931005
 러시아,俄罗斯,Russia,1005000,17414,821169
@@ -17,7 +17,7 @@ Bangladesh,,Bangladesh,317528,4351,211016
 파키스탄,巴基斯坦,Pakistan,296590,6318,281459
 프랑스,法国,France,286007,30661,86712
 터키,土耳其,Turkey,271705,6417,245929
-이탈리아,义大利,Italy,270189,35491,207944
+이탈리아,义大利,Italy,271515,35497,208201
 독일,德国,Germany,246499,9385,221800
 이라크,伊拉克,Iraq,242284,7201,184205
 필리핀,菲律宾,Philippines,226440,3623,158610
@@ -46,7 +46,7 @@ Guatemala,,Guatemala,74893,2778,62935
 모로코,摩洛哥,Morocco,63781,1184,48922
 Honduras,,Honduras,61769,1888,10430
 포르투갈,葡萄牙,Portugal,58633,1827,42233
-싱가포르,新加坡,Singapore,56901,27,55749
+싱가포르,新加坡,Singapore,56901,27,55891
 나이지리아,尼日利亚,Nigeria,54247,1023,42010
 Ethiopia,,Ethiopia,53304,828,19487
 바레인,巴林,Bahrain,52440,190,49395
@@ -84,8 +84,8 @@ North Macedonia,,North Macedonia,14600,606,11741
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12415,292,11494
 노르웨이,挪威,Norway,10951,264,9348
+그리스,希腊,Greece,10757,273,3804
 크로아티아,克罗地亚,Croatia,10725,191,7968
-그리스,希腊,Greece,10524,271,3804
 DRC,,DRC,10114,259,9347
 Albania,,Albania,9606,290,5441
 Guinea,,Guinea,9479,59,8527
@@ -96,7 +96,7 @@ Gabon,,Gabon,8533,53,7264
 Haiti,,Haiti,8258,206,5870
 핀란드,芬兰,Finland,8161,336,7200
 Maldives,,Maldives,8003,29,5265
-Namibia,,Namibia,7692,81,3379
+Namibia,,Namibia,7844,82,3454
 Mauritania,,Mauritania,7075,159,6464
 룩셈부르크,卢森堡,Luxembourg,6702,124,0
 헝가리,匈牙利,Hungary,6622,619,3903
@@ -121,7 +121,7 @@ Tunisia,,Tunisia,3963,80,1624
 Somalia,,Somalia,3310,98,2481
 Mayotte,,Mayotte,3301,40,2964
 Uganda,,Uganda,3112,32,1528
-스리랑카,斯里兰卡,Sri Lanka,3092,12,2883
+스리랑카,斯里兰卡,Sri Lanka,3101,12,2883
 Gambia,,Gambia,3029,96,1032
 슬로베니아,斯洛文尼亚,Slovenia,2979,134,2359
 Lithuania,,Lithuania,2958,86,1874
@@ -140,7 +140,7 @@ Aruba,,Aruba,2104,10,857
 Sierra Leone,,Sierra Leone,2028,71,1594
 Yemen,,Yemen,1962,570,1160
 Malta,,Malta,1931,13,1490
-Trinidad and Tobago,,Trinidad and Tobago,1797,27,685
+Trinidad and Tobago,,Trinidad and Tobago,1839,28,691
 Réunion,,Réunion,1796,10,880
 New Zealand,,New Zealand,1757,22,1606
 Botswana,,Botswana,1724,6,493

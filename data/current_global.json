@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6260881,
-        "deaths": 188975,
-        "recovered": 3498209
+        "confirmed": 6265089,
+        "deaths": 189154,
+        "recovered": 3498334
     },
     {
         "Name": "브라질",
@@ -147,9 +147,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 270189,
-        "deaths": 35491,
-        "recovered": 207944
+        "confirmed": 271515,
+        "deaths": 35497,
+        "recovered": 208201
     },
     {
         "Name": "독일",
@@ -381,7 +381,7 @@
         "Name_en": "Singapore",
         "confirmed": 56901,
         "deaths": 27,
-        "recovered": 55749
+        "recovered": 55891
     },
     {
         "Name": "나이지리아",
@@ -680,20 +680,20 @@
         "recovered": 9348
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 10757,
+        "deaths": 273,
+        "recovered": 3804
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "confirmed": 10725,
         "deaths": 191,
         "recovered": 7968
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 10524,
-        "deaths": 271,
-        "recovered": 3804
     },
     {
         "Name": "DRC",
@@ -779,9 +779,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 7692,
-        "deaths": 81,
-        "recovered": 3379
+        "confirmed": 7844,
+        "deaths": 82,
+        "recovered": 3454
     },
     {
         "Name": "Mauritania",
@@ -979,7 +979,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3092,
+        "confirmed": 3101,
         "deaths": 12,
         "recovered": 2883
     },
@@ -1131,9 +1131,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 1797,
-        "deaths": 27,
-        "recovered": 685
+        "confirmed": 1839,
+        "deaths": 28,
+        "recovered": 691
     },
     {
         "Name": "Réunion",
