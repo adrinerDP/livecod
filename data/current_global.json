@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1000048,
-        "deaths": 17299,
-        "recovered": 815705
+        "confirmed": 1005000,
+        "deaths": 17414,
+        "recovered": 821169
     },
     {
         "Name": "페루",
@@ -379,7 +379,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 56852,
+        "confirmed": 56901,
         "deaths": 27,
         "recovered": 55749
     },
@@ -680,20 +680,20 @@
         "recovered": 9348
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 10725,
+        "deaths": 191,
+        "recovered": 7968
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
         "confirmed": 10524,
         "deaths": 271,
         "recovered": 3804
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 10414,
-        "deaths": 187,
-        "recovered": 7735
     },
     {
         "Name": "DRC",
@@ -995,9 +995,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 2929,
+        "confirmed": 2958,
         "deaths": 86,
-        "recovered": 1857
+        "recovered": 1874
     },
     {
         "Name": "슬로베니아",
@@ -1051,9 +1051,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2395,
+        "confirmed": 2415,
         "deaths": 64,
-        "recovered": 2112
+        "recovered": 2130
     },
     {
         "Name": "Bahamas",
@@ -1156,7 +1156,7 @@
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 1714,
-        "deaths": 9,
+        "deaths": 10,
         "recovered": 880
     },
     {
@@ -1195,7 +1195,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1404,
+        "confirmed": 1406,
         "deaths": 34,
         "recovered": 1173
     },
@@ -1355,9 +1355,9 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 488,
+        "confirmed": 489,
         "deaths": 7,
-        "recovered": 462
+        "recovered": 471
     },
     {
         "Name": "Sint Maarten",
