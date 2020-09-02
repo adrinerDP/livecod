@@ -104,20 +104,20 @@
         "recovered": 0
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "confirmed": 317528,
+        "deaths": 4351,
+        "recovered": 211016
+    },
+    {
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
         "confirmed": 316670,
         "deaths": 3929,
         "recovered": 291514
-    },
-    {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "confirmed": 314946,
-        "deaths": 4316,
-        "recovered": 208177
     },
     {
         "Name": "파키스탄",
@@ -699,9 +699,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10104,
+        "confirmed": 10114,
         "deaths": 259,
-        "recovered": 9322
+        "recovered": 9347
     },
     {
         "Name": "Albania",
@@ -1283,7 +1283,7 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 919,
+        "confirmed": 935,
         "deaths": 6,
         "recovered": 357
     },
