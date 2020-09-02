@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6257928,
+        "confirmed": 6257938,
         "deaths": 188902,
         "recovered": 3497431
     },
@@ -1171,9 +1171,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 1510,
+        "confirmed": 1548,
         "deaths": 19,
-        "recovered": 1253
+        "recovered": 1270
     },
     {
         "Name": "Cyprus",
