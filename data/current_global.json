@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6257548,
+        "confirmed": 6257571,
         "deaths": 188900,
-        "recovered": 3496898
+        "recovered": 3496913
     },
     {
         "Name": "브라질",
@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 599560,
-        "deaths": 64414,
-        "recovered": 416738
+        "confirmed": 606036,
+        "deaths": 65241,
+        "recovered": 421373
     },
     {
         "Name": "스페인",
@@ -536,20 +536,20 @@
         "recovered": 23565
     },
     {
+        "Name": "호주",
+        "Name_ch": "澳大利亚",
+        "Name_en": "Australia",
+        "confirmed": 25924,
+        "deaths": 663,
+        "recovered": 21504
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 25820,
         "deaths": 724,
         "recovered": 14570
-    },
-    {
-        "Name": "호주",
-        "Name_ch": "澳大利亚",
-        "Name_en": "Australia",
-        "confirmed": 25819,
-        "deaths": 657,
-        "recovered": 21503
     },
     {
         "Name": "체코",
@@ -584,6 +584,14 @@
         "recovered": 17651
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 18338,
+        "deaths": 348,
+        "recovered": 9721
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -598,14 +606,6 @@
         "confirmed": 17777,
         "deaths": 171,
         "recovered": 4988
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 17662,
-        "deaths": 326,
-        "recovered": 9421
     },
     {
         "Name": "덴마크",
@@ -1139,9 +1139,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1752,
+        "confirmed": 1757,
         "deaths": 22,
-        "recovered": 1598
+        "recovered": 1606
     },
     {
         "Name": "Botswana",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85058,
+        "confirmed": 85066,
         "deaths": 4634,
-        "recovered": 80208
+        "recovered": 80234
     }
 ]
