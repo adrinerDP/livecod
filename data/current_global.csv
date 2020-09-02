@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6269815,189251,3506751
+미국,美国,United States,6272257,189278,3506751
 브라질,巴西,Brazil,3961502,122941,3159096
-인도,印度,India,3823449,67155,2946920
+인도,印度,India,3826387,67183,2950122
 러시아,俄罗斯,Russia,1005000,17414,821169
 페루,秘鲁,Peru,657129,29068,471599
 남아프리카 공화국,南非共和国,South Africa,628259,14263,549993
@@ -15,7 +15,7 @@ Argentina,,Argentina,428239,8971,315530
 Bangladesh,,Bangladesh,317528,4351,211016
 사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
 파키스탄,巴基斯坦,Pakistan,296590,6318,281459
-프랑스,法国,France,286007,30661,86712
+프랑스,法国,France,293024,30661,86712
 터키,土耳其,Turkey,271705,6417,245929
 이탈리아,义大利,Italy,271515,35497,208201
 독일,德国,Germany,246808,9385,221800
@@ -24,8 +24,8 @@ Bangladesh,,Bangladesh,317528,4351,211016
 인도네시아,印度尼西亚,Indonesia,180646,7616,129971
 캐나다,加拿大,Canada,129691,9134,114818
 Ukraine,,Ukraine,125789,2656,58817
-이스라엘,以色列,Israel,119627,963,96662
-카타르,卡塔尔,Qatar,118994,198,115895
+이스라엘,以色列,Israel,121023,969,97218
+카타르,卡塔尔,Qatar,119206,199,116111
 Bolivia,,Bolivia,117267,5101,62124
 에콰도르,厄瓜多尔,Ecuador,115457,6619,101867
 Kazakhstan,,Kazakhstan,105944,1588,97371
@@ -43,7 +43,7 @@ Guatemala,,Guatemala,74893,2778,62935
 아랍에미리트,阿拉伯联合酋长国,UAE,71540,387,62029
 폴란드,波兰,Poland,68517,2078,47865
 일본,日本,Japan,68392,1296,57823
-모로코,摩洛哥,Morocco,63781,1184,48922
+모로코,摩洛哥,Morocco,65453,1216,50357
 Honduras,,Honduras,61769,1888,10430
 포르투갈,葡萄牙,Portugal,58633,1827,42233
 싱가포르,新加坡,Singapore,56901,27,55891
@@ -95,7 +95,7 @@ Tajikistan,,Tajikistan,8654,69,7447
 Gabon,,Gabon,8533,53,7264
 Haiti,,Haiti,8258,206,5870
 핀란드,芬兰,Finland,8161,336,7350
-Maldives,,Maldives,8003,29,5265
+Maldives,,Maldives,8140,29,5338
 Namibia,,Namibia,7844,82,3454
 Mauritania,,Mauritania,7075,159,6464
 룩셈부르크,卢森堡,Luxembourg,6702,124,0
@@ -133,10 +133,10 @@ South Sudan,,South Sudan,2532,47,1290
 에스토니아,爱沙尼亚,Estonia,2415,64,2130
 Bahamas,,Bahamas,2276,50,801
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
+요르단,约旦,Jordan,2161,15,1610
 Benin,,Benin,2145,40,1738
 Iceland,,Iceland,2121,10,2016
 Aruba,,Aruba,2104,10,857
-요르단,约旦,Jordan,2097,15,1564
 Sierra Leone,,Sierra Leone,2028,71,1594
 Yemen,,Yemen,1962,570,1160
 Malta,,Malta,1931,13,1490

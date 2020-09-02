@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6269815,
-        "deaths": 189251,
+        "confirmed": 6272257,
+        "deaths": 189278,
         "recovered": 3506751
     },
     {
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3823449,
-        "deaths": 67155,
-        "recovered": 2946920
+        "confirmed": 3826387,
+        "deaths": 67183,
+        "recovered": 2950122
     },
     {
         "Name": "러시아",
@@ -131,7 +131,7 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 286007,
+        "confirmed": 293024,
         "deaths": 30661,
         "recovered": 86712
     },
@@ -203,17 +203,17 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 119627,
-        "deaths": 963,
-        "recovered": 96662
+        "confirmed": 121023,
+        "deaths": 969,
+        "recovered": 97218
     },
     {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 118994,
-        "deaths": 198,
-        "recovered": 115895
+        "confirmed": 119206,
+        "deaths": 199,
+        "recovered": 116111
     },
     {
         "Name": "Bolivia",
@@ -355,9 +355,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 63781,
-        "deaths": 1184,
-        "recovered": 48922
+        "confirmed": 65453,
+        "deaths": 1216,
+        "recovered": 50357
     },
     {
         "Name": "Honduras",
@@ -771,9 +771,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 8003,
+        "confirmed": 8140,
         "deaths": 29,
-        "recovered": 5265
+        "recovered": 5338
     },
     {
         "Name": "Namibia",
@@ -1072,6 +1072,14 @@
         "recovered": 1127
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 2161,
+        "deaths": 15,
+        "recovered": 1610
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
@@ -1094,14 +1102,6 @@
         "confirmed": 2104,
         "deaths": 10,
         "recovered": 857
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 2097,
-        "deaths": 15,
-        "recovered": 1564
     },
     {
         "Name": "Sierra Leone",
