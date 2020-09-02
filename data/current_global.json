@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 61014,
-        "deaths": 1873,
-        "recovered": 10396
+        "confirmed": 61769,
+        "deaths": 1888,
+        "recovered": 10430
     },
     {
         "Name": "포르투갈",
@@ -1363,9 +1363,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 476,
-        "deaths": 17,
-        "recovered": 200
+        "confirmed": 482,
+        "deaths": 19,
+        "recovered": 241
     },
     {
         "Name": "Papua New Guinea",
