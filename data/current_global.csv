@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6259046,188931,3497840
 브라질,巴西,Brazil,3952790,122681,3159096
-인도,印度,India,3779181,66565,2906998
+인도,印度,India,3792746,66671,2917967
 러시아,俄罗斯,Russia,1005000,17414,821169
 페루,秘鲁,Peru,657129,29068,471599
 남아프리카 공화국,南非共和国,South Africa,628259,14263,549993
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,74893,2778,62935
 일본,日本,Japan,68392,1296,57823
 모로코,摩洛哥,Morocco,63781,1184,48922
 Honduras,,Honduras,61769,1888,10430
-포르투갈,葡萄牙,Portugal,58243,1824,42104
+포르투갈,葡萄牙,Portugal,58633,1827,42233
 싱가포르,新加坡,Singapore,56901,27,55749
 나이지리아,尼日利亚,Nigeria,54247,1023,42010
 Ethiopia,,Ethiopia,53304,828,19487
@@ -61,7 +61,7 @@ Uzbekistan,,Uzbekistan,42370,326,39664
 네팔,尼泊尔,Nepal,41649,251,23290
 아프가니스탄,阿富汗,Afghanistan,38243,1409,29315
 Moldova,,Moldova,37208,1008,26189
-아제르바이잔,阿塞拜疆,Azerbaijan,36578,536,33977
+아제르바이잔,阿塞拜疆,Azerbaijan,36732,538,34116
 Kenya,,Kenya,34315,577,20211
 세르비아,塞尔维亚,Serbia,31482,715,30053
 아일랜드,冰岛,Ireland,29025,1777,23364
@@ -79,7 +79,7 @@ Ivory Coast,,Ivory Coast,18103,117,16814
 Bulgaria,,Bulgaria,16454,642,11615
 Libya,,Libya,15156,250,1746
 Madagascar,,Madagascar,15023,196,13965
-North Macedonia,,North Macedonia,14455,604,11525
+North Macedonia,,North Macedonia,14600,606,11741
 세네갈,塞内加尔,Senegal,13743,287,9506
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12381,290,11479
@@ -157,7 +157,7 @@ Guadeloupe,,Guadeloupe,1269,16,336
 Niger,,Niger,1176,69,1088
 Lesotho,,Lesotho,1085,31,528
 Belize,,Belize,1050,13,213
-베트남,越南,Vietnam,1044,34,735
+베트남,越南,Vietnam,1046,34,746
 Chad,,Chad,1017,77,884
 Myanmar,,Myanmar,938,6,357
 Sao Tome and Principe,,Sao Tome and Principe,896,15,853

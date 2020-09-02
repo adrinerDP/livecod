@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3779181,
-        "deaths": 66565,
-        "recovered": 2906998
+        "confirmed": 3792746,
+        "deaths": 66671,
+        "recovered": 2917967
     },
     {
         "Name": "러시아",
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 58243,
-        "deaths": 1824,
-        "recovered": 42104
+        "confirmed": 58633,
+        "deaths": 1827,
+        "recovered": 42233
     },
     {
         "Name": "싱가포르",
@@ -499,9 +499,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 36578,
-        "deaths": 536,
-        "recovered": 33977
+        "confirmed": 36732,
+        "deaths": 538,
+        "recovered": 34116
     },
     {
         "Name": "Kenya",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14455,
-        "deaths": 604,
-        "recovered": 11525
+        "confirmed": 14600,
+        "deaths": 606,
+        "recovered": 11741
     },
     {
         "Name": "세네갈",
@@ -1267,9 +1267,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1044,
+        "confirmed": 1046,
         "deaths": 34,
-        "recovered": 735
+        "recovered": 746
     },
     {
         "Name": "Chad",
