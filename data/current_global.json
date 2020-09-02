@@ -475,9 +475,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 40529,
-        "deaths": 239,
-        "recovered": 22178
+        "confirmed": 41649,
+        "deaths": 251,
+        "recovered": 23290
     },
     {
         "Name": "아프가니스탄",
@@ -563,9 +563,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 23281,
-        "deaths": 159,
-        "recovered": 15338
+        "confirmed": 23875,
+        "deaths": 162,
+        "recovered": 15483
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 14957,
-        "deaths": 195,
-        "recovered": 13915
+        "confirmed": 15023,
+        "deaths": 196,
+        "recovered": 13965
     },
     {
         "Name": "North Macedonia",
