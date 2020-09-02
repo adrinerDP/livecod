@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6295100,
-        "deaths": 189875,
-        "recovered": 3535674
+        "confirmed": 6295733,
+        "deaths": 189891,
+        "recovered": 3535914
     },
     {
         "Name": "브라질",
@@ -40,20 +40,20 @@
         "recovered": 471599
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 633339,
+        "deaths": 20348,
+        "recovered": 479568
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
         "confirmed": 630595,
         "deaths": 14389,
         "recovered": 553456
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 624069,
-        "deaths": 20052,
-        "recovered": 469557
     },
     {
         "Name": "멕시코",
@@ -155,9 +155,9 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 247366,
+        "confirmed": 247391,
         "deaths": 9393,
-        "recovered": 221800
+        "recovered": 223100
     },
     {
         "Name": "이라크",
@@ -187,9 +187,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 129691,
-        "deaths": 9134,
-        "recovered": 114818
+        "confirmed": 129923,
+        "deaths": 9135,
+        "recovered": 115050
     },
     {
         "Name": "Ukraine",
@@ -243,9 +243,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 99115,
-        "deaths": 5440,
-        "recovered": 73828
+        "confirmed": 99280,
+        "deaths": 5461,
+        "recovered": 74626
     },
     {
         "Name": "도미니카 공화국",
@@ -307,9 +307,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 74893,
-        "deaths": 2778,
-        "recovered": 62935
+        "confirmed": 75644,
+        "deaths": 2790,
+        "recovered": 63688
     },
     {
         "Name": "벨라루스",
@@ -336,20 +336,20 @@
         "recovered": 62029
     },
     {
+        "Name": "일본",
+        "Name_ch": "日本",
+        "Name_en": "Japan",
+        "confirmed": 69001,
+        "deaths": 1307,
+        "recovered": 58428
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "confirmed": 68517,
         "deaths": 2078,
         "recovered": 47865
-    },
-    {
-        "Name": "일본",
-        "Name_ch": "日本",
-        "Name_en": "Japan",
-        "confirmed": 68392,
-        "deaths": 1296,
-        "recovered": 57823
     },
     {
         "Name": "모로코",
@@ -384,20 +384,20 @@
         "recovered": 55891
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "尼日利亚",
+        "Name_en": "Nigeria",
+        "confirmed": 54463,
+        "deaths": 1027,
+        "recovered": 42439
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 54409,
         "deaths": 846,
         "recovered": 19903
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "尼日利亚",
-        "Name_en": "Nigeria",
-        "confirmed": 54247,
-        "deaths": 1023,
-        "recovered": 42010
     },
     {
         "Name": "바레인",
@@ -675,7 +675,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 10951,
+        "confirmed": 11034,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1131,7 +1131,7 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 1839,
+        "confirmed": 1920,
         "deaths": 28,
         "recovered": 691
     },
@@ -1203,9 +1203,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 1373,
+        "confirmed": 1382,
         "deaths": 41,
-        "recovered": 742
+        "recovered": 779
     },
     {
         "Name": "Burkina Faso",
