@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6268507,189228,3500151
+미국,美国,United States,6269815,189251,3506751
 브라질,巴西,Brazil,3961502,122941,3159096
 인도,印度,India,3823449,67155,2946920
 러시아,俄罗斯,Russia,1005000,17414,821169
@@ -9,7 +9,7 @@
 멕시코,墨西哥,Mexico,606036,65241,421373
 스페인,西班牙,Spain,479554,29194,0
 Argentina,,Argentina,428239,8971,315530
-칠레,智利,Chile,413145,11321,385790
+칠레,智利,Chile,414739,11344,387683
 이란,伊朗,Iran,378752,21797,326801
 영국,英国,UK,338676,41514,0
 Bangladesh,,Bangladesh,317528,4351,211016
@@ -27,10 +27,10 @@ Ukraine,,Ukraine,125789,2656,58817
 이스라엘,以色列,Israel,119627,963,96662
 카타르,卡塔尔,Qatar,118994,198,115895
 Bolivia,,Bolivia,117267,5101,62124
-에콰도르,厄瓜多尔,Ecuador,114309,6571,101723
+에콰도르,厄瓜多尔,Ecuador,115457,6619,101867
 Kazakhstan,,Kazakhstan,105944,1588,97371
 이집트,埃及,Egypt,99115,5440,73828
-도미니카 공화국,多明尼加共和国,Dominican Republic,94979,1738,68736
+도미니카 공화국,多明尼加共和国,Dominican Republic,95627,1765,69519
 Panama,,Panama,93552,2018,66974
 루마니아,尼亚,Romania,89891,3721,38701
 쿠웨이트,科威特,Kuwait,86478,535,78209
@@ -72,9 +72,9 @@ El Salvador,,El Salvador,25904,731,14879
 팔레스타인,巴勒斯坦,Palestine,23875,162,15483
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
 카메룬,喀麦隆,Cameroon,19409,414,17651
+레바논,黎巴嫩,Lebanon,18375,177,5195
 Paraguay,,Paraguay,18338,348,9721
 Ivory Coast,,Ivory Coast,18103,117,16814
-레바논,黎巴嫩,Lebanon,17777,171,4988
 덴마크,丹麦,Denmark,17195,626,15413
 Bulgaria,,Bulgaria,16454,642,11615
 Libya,,Libya,15156,250,1746
@@ -129,7 +129,7 @@ Syria,,Syria,2830,116,646
 Mali,,Mali,2802,126,2185
 Angola,,Angola,2729,109,1084
 Jamaica,,Jamaica,2683,24,898
-South Sudan,,South Sudan,2527,47,1290
+South Sudan,,South Sudan,2532,47,1290
 에스토니아,爱沙尼亚,Estonia,2415,64,2130
 Bahamas,,Bahamas,2276,50,801
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127

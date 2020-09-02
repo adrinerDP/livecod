@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6268507,
-        "deaths": 189228,
-        "recovered": 3500151
+        "confirmed": 6269815,
+        "deaths": 189251,
+        "recovered": 3506751
     },
     {
         "Name": "브라질",
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 413145,
-        "deaths": 11321,
-        "recovered": 385790
+        "confirmed": 414739,
+        "deaths": 11344,
+        "recovered": 387683
     },
     {
         "Name": "이란",
@@ -227,9 +227,9 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 114309,
-        "deaths": 6571,
-        "recovered": 101723
+        "confirmed": 115457,
+        "deaths": 6619,
+        "recovered": 101867
     },
     {
         "Name": "Kazakhstan",
@@ -251,9 +251,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 94979,
-        "deaths": 1738,
-        "recovered": 68736
+        "confirmed": 95627,
+        "deaths": 1765,
+        "recovered": 69519
     },
     {
         "Name": "Panama",
@@ -584,6 +584,14 @@
         "recovered": 17651
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 18375,
+        "deaths": 177,
+        "recovered": 5195
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -598,14 +606,6 @@
         "confirmed": 18103,
         "deaths": 117,
         "recovered": 16814
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 17777,
-        "deaths": 171,
-        "recovered": 4988
     },
     {
         "Name": "덴마크",
@@ -1043,7 +1043,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2527,
+        "confirmed": 2532,
         "deaths": 47,
         "recovered": 1290
     },
