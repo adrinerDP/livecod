@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6260879,
+        "confirmed": 6260881,
         "deaths": 188975,
-        "recovered": 3498208
+        "recovered": 3498209
     },
     {
         "Name": "브라질",
@@ -739,9 +739,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8619,
-        "deaths": 68,
-        "recovered": 7413
+        "confirmed": 8654,
+        "deaths": 69,
+        "recovered": 7447
     },
     {
         "Name": "Gabon",
