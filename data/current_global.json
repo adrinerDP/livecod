@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6274354,
-        "deaths": 189325,
-        "recovered": 3508780
+        "confirmed": 6274487,
+        "deaths": 189335,
+        "recovered": 3512533
     },
     {
         "Name": "브라질",
@@ -133,7 +133,7 @@
         "Name_en": "France",
         "confirmed": 293024,
         "deaths": 30686,
-        "recovered": 86712
+        "recovered": 86963
     },
     {
         "Name": "터키",
@@ -875,9 +875,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4618,
+        "confirmed": 4668,
         "deaths": 94,
-        "recovered": 3562
+        "recovered": 3585
     },
     {
         "Name": "Rwanda",
@@ -1107,9 +1107,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2028,
+        "confirmed": 2029,
         "deaths": 71,
-        "recovered": 1594
+        "recovered": 1600
     },
     {
         "Name": "Yemen",
@@ -1221,7 +1221,7 @@
         "Name_en": "Liberia",
         "confirmed": 1305,
         "deaths": 82,
-        "recovered": 1158
+        "recovered": 1162
     },
     {
         "Name": "Guadeloupe",
