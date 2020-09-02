@@ -483,9 +483,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38205,
-        "deaths": 1406,
-        "recovered": 29254
+        "confirmed": 38243,
+        "deaths": 1409,
+        "recovered": 29315
     },
     {
         "Name": "Moldova",
@@ -493,7 +493,7 @@
         "Name_en": "Moldova",
         "confirmed": 37208,
         "deaths": 1008,
-        "recovered": 25872
+        "recovered": 26189
     },
     {
         "Name": "아제르바이잔",
