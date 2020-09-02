@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6258901,
+        "confirmed": 6259046,
         "deaths": 188931,
         "recovered": 3497840
     },
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3773483,
-        "deaths": 66491,
-        "recovered": 2902096
+        "confirmed": 3779181,
+        "deaths": 66565,
+        "recovered": 2906998
     },
     {
         "Name": "러시아",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 428239,
-        "deaths": 8919,
-        "recovered": 308376
+        "deaths": 8971,
+        "recovered": 315530
     },
     {
         "Name": "칠레",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 246001,
-        "deaths": 9381,
+        "confirmed": 246234,
+        "deaths": 9383,
         "recovered": 221800
     },
     {
@@ -299,8 +299,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 84521,
-        "deaths": 5813,
+        "confirmed": 84532,
+        "deaths": 5820,
         "recovered": 0
     },
     {
@@ -320,20 +320,20 @@
         "recovered": 70606
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 71863,
+        "deaths": 6235,
+        "recovered": 0
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
         "confirmed": 71540,
         "deaths": 387,
         "recovered": 62029
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 71129,
-        "deaths": 6230,
-        "recovered": 0
     },
     {
         "Name": "폴란드",
@@ -1435,9 +1435,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 290,
+        "confirmed": 295,
         "deaths": 0,
-        "recovered": 237
+        "recovered": 240
     },
     {
         "Name": "캄보디아",
