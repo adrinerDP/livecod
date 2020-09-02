@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6258028,
-        "deaths": 188907,
-        "recovered": 3497431
+        "confirmed": 6258901,
+        "deaths": 188931,
+        "recovered": 3497840
     },
     {
         "Name": "브라질",
@@ -611,9 +611,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 17084,
-        "deaths": 625,
-        "recovered": 15300
+        "confirmed": 17195,
+        "deaths": 626,
+        "recovered": 15413
     },
     {
         "Name": "Bulgaria",
@@ -968,20 +968,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 3112,
+        "deaths": 32,
+        "recovered": 1528
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "confirmed": 3092,
         "deaths": 12,
         "recovered": 2883
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 3037,
-        "deaths": 32,
-        "recovered": 1489
     },
     {
         "Name": "Gambia",
@@ -1083,9 +1083,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2116,
+        "confirmed": 2121,
         "deaths": 10,
-        "recovered": 2007
+        "recovered": 2016
     },
     {
         "Name": "Aruba",
