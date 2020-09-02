@@ -22,3 +22,9 @@ def write_data(total_data, save_dir, crawler_name):
 
     with open(save_dir, "w", encoding="UTF-8-sig") as f_write:
         f_write.write(data)
+
+    with open(save_dir.replace('json', 'csv'), "w", encoding="UTF-8-sig", newline="") as f_csv_write:
+        writer = csv.DictWriter(f_csv_write, fieldnames=total_data[0].keys())
+        writer.writeheader()
+        for line in total_data:
+            writer.writerow(line)

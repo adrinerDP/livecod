@@ -8,13 +8,13 @@ def get_git_revision_short_hash():
 
 
 def run(now, git_version):
-    data = {
+    data = [{
         'version_hash': git_version,
         'crawl_datetime': now.strftime('%Y-%m-%d %H:%M:%S'),
         'crawl_date': now.strftime('%Y년 %m월 %d일'),
         'crawl_time': now.strftime('%H시 %M분'),
         'crawl_time_only_hour': now.strftime('%H:00'),
-    }
+    }]
     save_dir = "./data/version_info.json"
     crawler_name = "crawl_version_info.py"
 
