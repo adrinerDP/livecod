@@ -329,94 +329,6 @@
 </section>
 <!-- [E] Age Chart -->
 
-<!-- [S] Statistics -->
-<section class="container" id="statistics">
-    <div class="card mb-3">
-        <div class="card-header bg-secondary text-white">
-            통계치
-        </div>
-        <!-- Card Body -->
-        <div class="card-body">
-            <div class="table-responsive">
-                <table class="table table-bordered table-sm text-center" style="min-width:600px;font-size:0.9rem" cellspacing="0">
-                    <colgroup>
-                        <col style="width: 200px">
-                        <col style="width: auto">
-                        <col style="width: auto">
-                        <col style="width: auto">
-                        <col style="width: auto">
-                    </colgroup>
-                    <thead class="thead-dark">
-                    <tr>
-                        <th>병명</th>
-                        <th>신종인플루엔자 A(H1N1)</th>
-                        <th>중동호흡기 중후군(MERS)</th>
-                        <th>중증급성호흡기증후군(SARS)</th>
-                        <th>코로나19(COVID-19)</th>
-                    </tr>
-                    </thead>
-                    <tbody>
-                    <tr>
-                        <th>발견장소</th>
-                        <td>멕시코</td>
-                        <td>사우디아라비아</td>
-                        <td colspan="2">중국</td>
-                    </tr>
-                    <tr>
-                        <th>감염매개체</th>
-                        <td>사람</td>
-                        <td>낙타</td>
-                        <td colspan="2">박쥐(추정)</td>
-                    </tr>
-                    <tr>
-                        <th>전파방식</th>
-                        <td colspan="4">비말감염*</td>
-                    </tr>
-                    <tr>
-                        <th>주요증상</th>
-                        <td colspan="4">발열 및 호흡기 증상 등</td>
-                    </tr>
-                    <tr>
-                        <th>치사율</th>
-                        <td>약 0.07%</td>
-                        <td>약 35%</td>
-                        <td>약 10%</td>
-                        <td>
-                            세계
-                            <span id="세계_치명률">3.34</span>%,<br>대한민국
-                            <span id="한국_치명률">1.61</span>%
-                        </td>
-                    </tr>
-                    <tr>
-                        <th>기초감염재생산수 (R0값)*</th>
-                        <td>1.1~1.7</td>
-                        <td>0.4~0.9</td>
-                        <td>2~5</td>
-                        <td>5~5.7</td>
-                    </tr>
-                    <tr>
-                        <th>감염·사망자</th>
-                        <td>집계되지 않음(18,449)</td>
-                        <td>2,482(854)</td>
-                        <td>8,096(774)</td>
-                        <td><br>2,711,414(192,126)</td>
-                    </tr>
-                    </tbody>
-                </table>
-            </div>
-            <ul class="list-unstyled m-0 text-muted">
-                <li><small>*기초감염재생산수(R0값): 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값</small></li>
-                <li><small>*비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것</small></li>
-            </ul>
-        </div>
-        <div class="card-footer text-muted text-right">
-            <small class="font-weight-bold">출처</small>
-            <small>질병관리본부, 세계보건기구(WHO)</small>
-        </div>
-    </div>
-</section>
-<!-- [E] Statistics -->
-
 <!-- [S] Delta Chart -->
 <section class="container" id="delta_chart">
     <div class="row">
@@ -429,7 +341,8 @@
                     </a>
                 </div>
                 <div class="card-body">
-                    <div id="reportrange" style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
+                    <div id="reportrange"
+                         style="background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; width: 100%">
                         <i class="fa fa-calendar"></i>&nbsp;
                         <span></span> <i class="fa fa-caret-down"></i>
                     </div>
@@ -465,6 +378,161 @@
     </div>
 </section>
 <!-- [E] Delta Chart -->
+
+<div class="container">
+    <div class="section_header mt-5">
+        <h4 class="title">
+            <i class="fa fa-fw fa-question-circle"></i> 코로나19 관련 정보
+        </h4>
+        <p class="subtitle">
+            정부지원사업 및 기타 가이드 등의 정보를 보여드립니다.
+        </p>
+    </div>
+</div>
+<!-- [S] Information -->
+<section class="container" id="information">
+    <div class="row">
+        <div class="col-md-9">
+            <div class="card mb-3">
+                <div class="card-header bg-secondary text-white">
+                    통계치
+                </div>
+                <div class="card-body">
+                    <div class="table-responsive">
+                        <table class="table table-bordered table-sm text-center"
+                               style="min-width:600px;font-size:0.9rem" cellspacing="0">
+                            <colgroup>
+                                <col style="width: 200px">
+                                <col style="width: auto">
+                                <col style="width: auto">
+                                <col style="width: auto">
+                                <col style="width: auto">
+                            </colgroup>
+                            <thead class="thead-dark">
+                            <tr>
+                                <th>병명</th>
+                                <th>신종인플루엔자 A(H1N1)</th>
+                                <th>중동호흡기 중후군(MERS)</th>
+                                <th>중증급성호흡기증후군(SARS)</th>
+                                <th>코로나19(COVID-19)</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            <tr>
+                                <th>발견장소</th>
+                                <td>멕시코</td>
+                                <td>사우디아라비아</td>
+                                <td colspan="2">중국</td>
+                            </tr>
+                            <tr>
+                                <th>감염매개체</th>
+                                <td>사람</td>
+                                <td>낙타</td>
+                                <td colspan="2">박쥐(추정)</td>
+                            </tr>
+                            <tr>
+                                <th>전파방식</th>
+                                <td colspan="4">비말감염*</td>
+                            </tr>
+                            <tr>
+                                <th>주요증상</th>
+                                <td colspan="4">발열 및 호흡기 증상 등</td>
+                            </tr>
+                            <tr>
+                                <th>치사율</th>
+                                <td>약 0.07%</td>
+                                <td>약 35%</td>
+                                <td>약 10%</td>
+                                <td>
+                                    세계
+                                    <span id="세계_치명률">3.34</span>%,<br>대한민국
+                                    <span id="한국_치명률">1.61</span>%
+                                </td>
+                            </tr>
+                            <tr>
+                                <th>기초감염재생산수 (R0값)*</th>
+                                <td>1.1~1.7</td>
+                                <td>0.4~0.9</td>
+                                <td>2~5</td>
+                                <td>5~5.7</td>
+                            </tr>
+                            <tr>
+                                <th>감염·사망자</th>
+                                <td>집계되지 않음(18,449)</td>
+                                <td>2,482(854)</td>
+                                <td>8,096(774)</td>
+                                <td><br>2,711,414(192,126)</td>
+                            </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <ul class="list-unstyled m-0 text-muted">
+                        <li><small>*기초감염재생산수(R0값): 한 사람의 감염자가 몇 명을 전염시킬 수 있는지를 나타낸 값</small></li>
+                        <li><small>*비말감염: 감염자의 침, 콧물 등 체액이 다른 사람의 입이나 코로 들어가 감염이 이루지는 것</small></li>
+                    </ul>
+                </div>
+                <div class="card-footer text-muted text-right">
+                    <small class="font-weight-bold">출처</small>
+                    <small>질병관리본부, 세계보건기구(WHO)</small>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <div class="card-header bg-secondary text-white">
+                    유용한 정보
+                </div>
+                <div class="card-body">
+                    <a class="btn btn-block text-left btn-dark font-weight-bold mb-2"
+                       href="https://www.notion.so/a80c76132f8b4a63a6f4901b1320bf62" target="_blank">
+                        동선 기록 가이드
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold mb-2"
+                       href="http://ncov.mohw.go.kr/factBoardList.do" target="_blank">
+                        코로나19 팩트&이슈 체크
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold mb-2"
+                       href="https://www.notion.so/paullab/73a19000672149559cd949c018a202f8" target="_blank">
+                        소상공인 지원사업
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold mb-2"
+                       href="https://neighbor-house.tistory.com/148" target="_blank">
+                        아이돌봄 지원사업
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold"
+                       href="http://www.nps.or.kr/jsppage/app/cms/view.jsp?seq=23796&cPage=2&cmsId=news&SK=&SW="
+                       target="_blank">
+                        입원·격리자 지원사업
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold"
+                       href="https://www.safetyreport.go.kr/"
+                       target="_blank">
+                        행정안전부 코로나19 안전신고
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold"
+                       href="https://www.data.go.kr/tcs/eds/idt/selectIssueData.do?issueId=372154"
+                       target="_blank">
+                        코로나19 관련 공공데이터
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                    <a class="btn btn-block text-left btn-dark font-weight-bold"
+                       href="https://hackmd.io/@6VWj8d9yQkKavs-wIUuzLQ/ry5TAjZr8"
+                       target="_blank">
+                        코로나19 공공데이터 핸드북
+                        <i class="fas fa-external-link-alt fa-pull-right"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- [E] Itatistics -->
 
 <div class="container">
     <div class="section_header mt-5">
