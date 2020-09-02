@@ -171,9 +171,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 224264,
-        "deaths": 3597,
-        "recovered": 158012
+        "confirmed": 226440,
+        "deaths": 3623,
+        "recovered": 158610
     },
     {
         "Name": "인도네시아",
@@ -349,7 +349,7 @@
         "Name_en": "Poland",
         "confirmed": 67922,
         "deaths": 2058,
-        "recovered": 47030
+        "recovered": 47865
     },
     {
         "Name": "모로코",
@@ -852,7 +852,7 @@
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
         "confirmed": 4823,
-        "deaths": 90,
+        "deaths": 92,
         "recovered": 4380
     },
     {
@@ -973,7 +973,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3092,
         "deaths": 12,
-        "recovered": 2879
+        "recovered": 2883
     },
     {
         "Name": "Uganda",
