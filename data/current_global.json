@@ -1531,7 +1531,7 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 69,
+        "confirmed": 71,
         "deaths": 1,
         "recovered": 35
     },
@@ -1581,7 +1581,7 @@
         "Name_en": "Saint Lucia",
         "confirmed": 26,
         "deaths": 0,
-        "recovered": 25
+        "recovered": 26
     },
     {
         "Name": "Grenada",
