@@ -1311,36 +1311,36 @@
         "date": "8/27",
         "confirmed": 24452689.0,
         "deaths": 831547.0,
-        "recovered": 15997281.0
+        "recovered": 15995995.0
     },
     {
         "date": "8/28",
         "confirmed": 24734448.0,
         "deaths": 837080.0,
-        "recovered": 16198165.0
+        "recovered": 16196934.0
     },
     {
         "date": "8/29",
         "confirmed": 24996456.0,
         "deaths": 842452.0,
-        "recovered": 16409757.0
+        "recovered": 16408559.0
     },
     {
         "date": "8/30",
         "confirmed": 25222709.0,
         "deaths": 846353.0,
-        "recovered": 16618168.0
+        "recovered": 16616995.0
     },
     {
         "date": "8/31",
         "confirmed": 25484767.0,
         "deaths": 850535.0,
-        "recovered": 16819592.0
+        "recovered": 16818436.0
     },
     {
         "date": "9/1",
         "confirmed": 25749642.0,
         "deaths": 857015.0,
-        "recovered": 17074386.0
+        "recovered": 17073236.0
     }
 ]
