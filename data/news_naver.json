@@ -1,9 +1,5 @@
 ﻿[
     {
-        "title": "[종합] 코로나19 확진자 267명 중 서울 98명, 경기 79명",
-        "link": "http://www.fnnews.com/news/202009020936558154"
-    },
-    {
         "title": "[속보]코로나19 신규 확진자 267명···지역 감염 253명",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009020932001&code=940601"
     },
@@ -16,8 +12,8 @@
         "link": "http://yna.kr/AKR20200902026300063?did=1195m"
     },
     {
-        "title": "현대아울렛 가산점, 코로나19 확진자 나와 휴점",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=4530672&ref=A"
+        "title": "인천시 33개 부서 입주 미추홀타워서 확진자 발생…건물 폐쇄",
+        "link": "http://www.hani.co.kr/arti/area/capital/960382.html"
     },
     {
         "title": "코로나19 확진자 267명…국내발생 253명",
@@ -32,11 +28,15 @@
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/09/02/2020090290003.html"
     },
     {
-        "title": "대구 신규 확진자 13명, 0세 아기도…동아메디병원 감염 확산 (종합)",
-        "link": "https://www.nocutnews.co.kr/news/5405479"
+        "title": "[종합] 코로나19 확진자 267명 중 서울 98명, 경기 79명",
+        "link": "http://www.fnnews.com/news/202009020936558154"
     },
     {
-        "title": "코로나19 확진자 200명대 유지했지만…중환자 급증 이어져(종합)",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02141846625896184"
+        "title": "[속보]국방부 “군의관 의료현장에 투입…코로나19 대응에 최선”",
+        "link": "http://news.heraldcorp.com/view.php?ud=20200902000172"
+    },
+    {
+        "title": "[속보] 코로나 신규 확진 267명... 7일만에 소폭 반등",
+        "link": "https://hankookilbo.com/News/Read/A2020090209250000918?did=NA"
     }
 ]

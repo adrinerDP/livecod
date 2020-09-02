@@ -123,9 +123,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 296149,
-        "deaths": 6298,
-        "recovered": 280970
+        "confirmed": 296590,
+        "deaths": 6318,
+        "recovered": 281459
     },
     {
         "Name": "프랑스",
@@ -1032,20 +1032,20 @@
         "recovered": 1084
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 2683,
+        "deaths": 24,
+        "recovered": 898
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "confirmed": 2527,
         "deaths": 47,
         "recovered": 1290
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 2459,
-        "deaths": 21,
-        "recovered": 890
     },
     {
         "Name": "에스토니아",
