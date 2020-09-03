@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6290737,189964,3547032
+미국,美国,United States,6291032,189991,3547446
 브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3853406,67486,2970492
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -12,7 +12,7 @@ Argentina,,Argentina,439172,9118,315530
 칠레,智利,Chile,414739,11344,387683
 이란,伊朗,Iran,378752,21797,326801
 영국,英国,UK,338676,41514,0
-Bangladesh,,Bangladesh,317528,4351,211016
+Bangladesh,,Bangladesh,319686,4383,213980
 사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 프랑스,法国,France,293024,30686,86963
@@ -67,7 +67,7 @@ Kenya,,Kenya,34493,581,20211
 아일랜드,冰岛,Ireland,29114,1777,23364
 오스트리아,奥地利,Austria,28372,735,24171
 호주,澳大利亚,Australia,26049,678,21912
-El Salvador,,El Salvador,25904,739,14904
+El Salvador,,El Salvador,26000,739,15119
 체코,捷克,Czechia,25773,425,18326
 팔레스타인,巴勒斯坦,Palestine,23875,162,15483
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
@@ -86,7 +86,7 @@ Zambia,,Zambia,12415,292,11494
 크로아티아,克罗地亚,Croatia,11094,194,8266
 노르웨이,挪威,Norway,11034,264,9348
 그리스,希腊,Greece,10757,273,3804
-DRC,,DRC,10114,259,9347
+DRC,,DRC,10125,259,9367
 Albania,,Albania,9728,296,5582
 Guinea,,Guinea,9479,59,8527
 말레이시아,马来西亚,Malaysia,9374,128,9083
@@ -166,7 +166,7 @@ Martinique,,Martinique,754,18,98
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,631,48,575
 French Polynesia,,French Polynesia,622,0,336
-Turks and Caicos,,Turks and Caicos,538,4,218
+Turks and Caicos,,Turks and Caicos,555,4,220
 Tanzania,,Tanzania,509,21,183
 Sint Maarten,,Sint Maarten,495,19,302
 대만,台湾,Taiwan,489,7,471
