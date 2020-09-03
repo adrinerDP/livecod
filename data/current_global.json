@@ -237,7 +237,7 @@
         "Name_en": "Kazakhstan",
         "confirmed": 106032,
         "deaths": 1588,
-        "recovered": 97371
+        "recovered": 97967
     },
     {
         "Name": "이집트",
@@ -432,20 +432,20 @@
         "recovered": 43478
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "confirmed": 44135,
+        "deaths": 1059,
+        "recovered": 39174
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "confirmed": 44075,
         "deaths": 884,
         "recovered": 38631
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "confirmed": 44036,
-        "deaths": 1059,
-        "recovered": 38895
     },
     {
         "Name": "코스타리카",
@@ -467,9 +467,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 42437,
-        "deaths": 327,
-        "recovered": 39664
+        "confirmed": 42540,
+        "deaths": 329,
+        "recovered": 39883
     },
     {
         "Name": "네팔",
@@ -541,7 +541,7 @@
         "Name_en": "Australia",
         "confirmed": 26049,
         "deaths": 678,
-        "recovered": 21692
+        "recovered": 21912
     },
     {
         "Name": "El Salvador",
