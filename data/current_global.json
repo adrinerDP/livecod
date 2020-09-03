@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6296939,
-        "deaths": 189928,
-        "recovered": 3537105
+        "confirmed": 6289914,
+        "deaths": 189925,
+        "recovered": 3538290
     },
     {
         "Name": "브라질",
@@ -427,9 +427,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 44460,
+        "confirmed": 44658,
         "deaths": 276,
-        "recovered": 43121
+        "recovered": 43478
     },
     {
         "Name": "아르메니아",
@@ -832,20 +832,20 @@
         "recovered": 5327
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 5019,
+        "deaths": 104,
+        "recovered": 4104
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
         "confirmed": 4965,
         "deaths": 83,
         "recovered": 3884
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 4917,
-        "deaths": 102,
-        "recovered": 4058
     },
     {
         "Name": "홍콩",
@@ -1307,7 +1307,7 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 715,
+        "confirmed": 735,
         "deaths": 42,
         "recovered": 660
     },
@@ -1323,9 +1323,9 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 630,
+        "confirmed": 631,
         "deaths": 48,
-        "recovered": 545
+        "recovered": 575
     },
     {
         "Name": "French Polynesia",
@@ -1499,9 +1499,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 140,
+        "confirmed": 142,
         "deaths": 1,
-        "recovered": 90
+        "recovered": 91
     },
     {
         "Name": "Seychelles",

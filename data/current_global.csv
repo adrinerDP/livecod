@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6296939,189928,3537105
+미국,美国,United States,6289914,189925,3538290
 브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3848968,67486,2967396
 러시아,俄罗斯,Russia,1005000,17414,821169
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,54409,846,19903
 바레인,巴林,Bahrain,52807,190,49645
 Venezuela,,Venezuela,47756,391,39027
 알제리,阿尔及利亚,Algeria,45158,1523,31746
-Ghana,,Ghana,44460,276,43121
+Ghana,,Ghana,44658,276,43478
 아르메니아,亚美尼亚,Armenia,44075,884,38631
 Kyrgyzstan,,Kyrgyzstan,44036,1059,38895
 코스타리카,哥斯达黎加,Costa Rica,43305,453,16512
@@ -103,8 +103,8 @@ Zimbabwe,,Zimbabwe,6638,206,5250
 헝가리,匈牙利,Hungary,6622,619,3903
 Malawi,,Malawi,5579,175,3500
 Djibouti,,Djibouti,5387,60,5327
+Montenegro,,Montenegro,5019,104,4104
 Equatorial Guinea,,Equatorial Guinea,4965,83,3884
-Montenegro,,Montenegro,4917,102,4058
 홍콩,香港,Hong Kong,4831,92,4401
 CAR,,CAR,4712,62,1803
 Nicaragua,,Nicaragua,4668,141,2913
@@ -162,9 +162,9 @@ Chad,,Chad,1017,77,904
 Myanmar,,Myanmar,995,6,358
 Sao Tome and Principe,,Sao Tome and Principe,896,15,855
 Martinique,,Martinique,747,18,98
-산마리노,圣马力诺,San Marino,715,42,660
+산마리노,圣马力诺,San Marino,735,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-Channel Islands,,Channel Islands,630,48,545
+Channel Islands,,Channel Islands,631,48,575
 French Polynesia,,French Polynesia,622,0,336
 Turks and Caicos,,Turks and Caicos,538,4,218
 Tanzania,,Tanzania,509,21,183
@@ -186,7 +186,7 @@ Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,176,7,146
 Bermuda,,Bermuda,172,9,157
 Brunei,,Brunei,144,3,139
-모나코,摩纳哥,Monaco,140,1,90
+모나코,摩纳哥,Monaco,142,1,91
 Seychelles,,Seychelles,136,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
 Antigua and Barbuda,,Antigua and Barbuda,94,3,91
