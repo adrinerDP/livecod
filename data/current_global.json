@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3848968,
+        "confirmed": 3853406,
         "deaths": 67486,
-        "recovered": 2967396
+        "recovered": 2970492
     },
     {
         "Name": "러시아",
@@ -123,9 +123,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 296590,
-        "deaths": 6318,
-        "recovered": 281459
+        "confirmed": 297014,
+        "deaths": 6328,
+        "recovered": 281925
     },
     {
         "Name": "프랑스",
@@ -947,9 +947,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3425,
+        "confirmed": 3427,
         "deaths": 58,
-        "recovered": 3274
+        "recovered": 3277
     },
     {
         "Name": "Somalia",
@@ -1016,6 +1016,14 @@
         "recovered": 661
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 2822,
+        "deaths": 27,
+        "recovered": 900
+    },
+    {
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
@@ -1030,14 +1038,6 @@
         "confirmed": 2777,
         "deaths": 112,
         "recovered": 1115
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 2683,
-        "deaths": 24,
-        "recovered": 898
     },
     {
         "Name": "South Sudan",

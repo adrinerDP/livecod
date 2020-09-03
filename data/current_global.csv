@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6290737,189964,3547032
 브라질,巴西,Brazil,4001422,123899,3210405
-인도,印度,India,3848968,67486,2967396
+인도,印度,India,3853406,67486,2970492
 러시아,俄罗斯,Russia,1005000,17414,821169
 페루,秘鲁,Peru,663437,29259,480177
 콜롬비아,哥伦比亚,Colombia,633339,20348,479568
@@ -14,7 +14,7 @@ Argentina,,Argentina,439172,9118,315530
 영국,英国,UK,338676,41514,0
 Bangladesh,,Bangladesh,317528,4351,211016
 사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
-파키스탄,巴基斯坦,Pakistan,296590,6318,281459
+파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 프랑스,法国,France,293024,30686,86963
 터키,土耳其,Turkey,273301,6462,246876
 이탈리아,义大利,Italy,271515,35497,208201
@@ -117,7 +117,7 @@ Cuba,,Cuba,4126,98,3458
 Mozambique,,Mozambique,4117,25,2170
 Cabo Verde,,Cabo Verde,4048,41,3460
 슬로바키아,斯洛伐克,Slovakia,4042,33,2523
-태국,泰国,Thailand,3425,58,3274
+태국,泰国,Thailand,3427,58,3277
 Somalia,,Somalia,3310,98,2481
 Mayotte,,Mayotte,3301,40,2964
 Uganda,,Uganda,3112,32,1528
@@ -126,9 +126,9 @@ Gambia,,Gambia,3067,97,1032
 슬로베니아,斯洛文尼亚,Slovenia,2979,134,2359
 Lithuania,,Lithuania,2958,86,1874
 Syria,,Syria,2898,120,661
+Jamaica,,Jamaica,2822,27,900
 Mali,,Mali,2802,126,2185
 Angola,,Angola,2777,112,1115
-Jamaica,,Jamaica,2683,24,898
 South Sudan,,South Sudan,2532,47,1290
 에스토니아,爱沙尼亚,Estonia,2415,64,2130
 Bahamas,,Bahamas,2337,50,849
