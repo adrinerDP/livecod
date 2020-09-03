@@ -155,17 +155,17 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 247436,
-        "deaths": 9393,
+        "confirmed": 247926,
+        "deaths": 9395,
         "recovered": 223100
     },
     {
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 242284,
-        "deaths": 7201,
-        "recovered": 184205
+        "confirmed": 247039,
+        "deaths": 7275,
+        "recovered": 187757
     },
     {
         "Name": "필리핀",
@@ -460,7 +460,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 43127,
-        "deaths": 2012,
+        "deaths": 2013,
         "recovered": 36500
     },
     {
@@ -755,8 +755,8 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8258,
-        "deaths": 206,
+        "confirmed": 8301,
+        "deaths": 210,
         "recovered": 5870
     },
     {
@@ -1248,6 +1248,14 @@
         "recovered": 1088
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1111,
+        "deaths": 6,
+        "recovered": 359
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1262,14 +1270,6 @@
         "confirmed": 1085,
         "deaths": 31,
         "recovered": 528
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1058,
-        "deaths": 6,
-        "recovered": 359
     },
     {
         "Name": "베트남",
