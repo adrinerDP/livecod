@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3853406,
-        "deaths": 67486,
-        "recovered": 2970492
+        "confirmed": 3872670,
+        "deaths": 67669,
+        "recovered": 2984467
     },
     {
         "Name": "러시아",
@@ -427,9 +427,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 44658,
-        "deaths": 276,
-        "recovered": 43478
+        "confirmed": 44713,
+        "deaths": 280,
+        "recovered": 43577
     },
     {
         "Name": "아르메니아",
@@ -515,8 +515,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31581,
-        "deaths": 716,
+        "confirmed": 31676,
+        "deaths": 718,
         "recovered": 30188
     },
     {
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12415,
+        "confirmed": 12523,
         "deaths": 292,
-        "recovered": 11494
+        "recovered": 11562
     },
     {
         "Name": "크로아티아",
@@ -971,9 +971,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 3112,
-        "deaths": 32,
-        "recovered": 1528
+        "confirmed": 3288,
+        "deaths": 33,
+        "recovered": 1532
     },
     {
         "Name": "스리랑카",
