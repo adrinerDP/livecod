@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6328490,190888,3565447
+미국,美国,United States,6329791,190920,3566725
 브라질,巴西,Brazil,4040163,124651,3210405
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,319686,4383,213980
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 터키,土耳其,Turkey,274943,6511,248087
 이탈리아,义大利,Italy,272912,35507,208490
-독일,德国,Germany,248722,9398,223100
+독일,德国,Germany,248814,9399,223100
 이라크,伊拉克,Iraq,247039,7275,187757
 필리핀,菲律宾,Philippines,228403,3688,159475
 인도네시아,印度尼西亚,Indonesia,184268,7750,132055
@@ -76,7 +76,7 @@ Paraguay,,Paraguay,19138,358,9981
 레바논,黎巴嫩,Lebanon,18963,179,5338
 Ivory Coast,,Ivory Coast,18208,119,17045
 덴마크,丹麦,Denmark,17374,626,15499
-Bulgaria,,Bulgaria,16617,648,11760
+Bulgaria,,Bulgaria,16775,658,11935
 Libya,,Libya,15773,254,1856
 Madagascar,,Madagascar,15106,197,14031
 North Macedonia,,North Macedonia,14762,606,11965
@@ -159,7 +159,7 @@ Myanmar,,Myanmar,1111,6,359
 Belize,,Belize,1101,13,240
 Lesotho,,Lesotho,1085,31,528
 베트남,越南,Vietnam,1046,35,746
-Chad,,Chad,1017,77,904
+Chad,,Chad,1018,77,908
 Sao Tome and Principe,,Sao Tome and Principe,896,15,855
 Martinique,,Martinique,754,18,98
 산마리노,圣马力诺,San Marino,735,42,660
