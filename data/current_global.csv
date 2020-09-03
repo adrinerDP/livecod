@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6324660,190711,3561579
-브라질,巴西,Brazil,4007502,124057,3210405
+미국,美国,United States,6328490,190888,3565447
+브라질,巴西,Brazil,4040163,124651,3210405
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
@@ -53,9 +53,9 @@ Ethiopia,,Ethiopia,55213,856,20283
 Venezuela,,Venezuela,48883,398,39912
 알제리,阿尔及利亚,Algeria,45469,1529,32006
 Ghana,,Ghana,44713,280,43577
+코스타리카,哥斯达黎加,Costa Rica,44458,460,17855
 아르메니아,亚美尼亚,Armenia,44271,887,38855
 Kyrgyzstan,,Kyrgyzstan,44135,1059,39174
-코스타리카,哥斯达黎加,Costa Rica,43305,453,16512
 스위스,瑞士,Switzerland,43127,2013,36500
 네팔,尼泊尔,Nepal,42877,257,24207
 Uzbekistan,,Uzbekistan,42688,331,40081
@@ -74,7 +74,7 @@ El Salvador,,El Salvador,26000,739,15119
 카메룬,喀麦隆,Cameroon,19460,415,17651
 Paraguay,,Paraguay,19138,358,9981
 레바논,黎巴嫩,Lebanon,18963,179,5338
-Ivory Coast,,Ivory Coast,18161,117,16933
+Ivory Coast,,Ivory Coast,18208,119,17045
 덴마크,丹麦,Denmark,17374,626,15499
 Bulgaria,,Bulgaria,16617,648,11760
 Libya,,Libya,15773,254,1856
@@ -97,7 +97,7 @@ Haiti,,Haiti,8301,210,5870
 Maldives,,Maldives,8281,29,5483
 핀란드,芬兰,Finland,8200,336,7350
 Namibia,,Namibia,8082,86,3483
-Mauritania,,Mauritania,7089,160,6548
+Mauritania,,Mauritania,7106,160,6588
 헝가리,匈牙利,Hungary,6923,620,3930
 룩셈부르크,卢森堡,Luxembourg,6745,124,0
 Zimbabwe,,Zimbabwe,6678,206,5263
@@ -106,14 +106,14 @@ Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5019,104,4104
 Equatorial Guinea,,Equatorial Guinea,4965,83,4390
 홍콩,香港,Hong Kong,4839,94,4431
+CAR,,CAR,4729,62,1807
 Eswatini,,Eswatini,4720,94,3789
-CAR,,CAR,4712,62,1803
 Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
-Rwanda,,Rwanda,4218,17,2071
+Tunisia,,Tunisia,4394,84,1681
+Rwanda,,Rwanda,4255,18,2163
 Cuba,,Cuba,4214,100,3474
 Mozambique,,Mozambique,4207,26,2370
-Tunisia,,Tunisia,4196,81,1628
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
 Suriname,,Suriname,4149,72,3272
 Cabo Verde,,Cabo Verde,4125,41,3502
@@ -147,10 +147,10 @@ Botswana,,Botswana,1724,6,493
 Uruguay,,Uruguay,1626,44,1433
 조지아,格鲁吉亚,Georgia,1568,19,1279
 Cyprus,,Cyprus,1498,21,1139
-토고,多哥,Togo,1434,30,1055
+토고,多哥,Togo,1443,31,1071
 라트비아,约旦,Latvia,1410,34,1187
 Guyana,,Guyana,1382,41,779
-Burkina Faso,,Burkina Faso,1370,55,1075
+Burkina Faso,,Burkina Faso,1375,55,1075
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1306,82,1163
 안도라,安道尔,Andorra,1199,53,909
