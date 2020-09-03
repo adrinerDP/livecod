@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6331397,190959,3571124
-브라질,巴西,Brazil,4041638,124651,3247610
+미국,美国,United States,6331877,190959,3571232
+브라질,巴西,Brazil,4046150,124729,3247610
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
@@ -48,7 +48,7 @@ Honduras,,Honduras,62526,1924,11147
 포르투갈,葡萄牙,Portugal,59051,1829,42427
 싱가포르,新加坡,Singapore,56908,27,56028
 Ethiopia,,Ethiopia,55213,856,20283
-나이지리아,尼日利亚,Nigeria,54587,1048,42622
+나이지리아,尼日利亚,Nigeria,54588,1048,42627
 바레인,巴林,Bahrain,53433,190,50013
 Venezuela,,Venezuela,48883,398,39912
 알제리,阿尔及利亚,Algeria,45469,1529,32006
@@ -66,7 +66,7 @@ Kenya,,Kenya,34705,585,20644
 세르비아,塞尔维亚,Serbia,31676,718,30188
 아일랜드,冰岛,Ireland,29206,1777,23364
 오스트리아,奥地利,Austria,28372,735,24171
-체코,捷克,Czechia,26127,426,18663
+체코,捷克,Czechia,26452,426,18663
 호주,澳大利亚,Australia,26049,678,21912
 El Salvador,,El Salvador,26000,739,15119
 팔레스타인,巴勒斯坦,Palestine,24471,167,16095
@@ -112,10 +112,10 @@ Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 Tunisia,,Tunisia,4394,84,1681
 Rwanda,,Rwanda,4255,18,2163
+Suriname,,Suriname,4215,73,3318
 Cuba,,Cuba,4214,100,3474
 Mozambique,,Mozambique,4207,26,2370
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
-Suriname,,Suriname,4149,72,3272
 Cabo Verde,,Cabo Verde,4125,41,3502
 태국,泰国,Thailand,3427,58,3277
 Mayotte,,Mayotte,3374,40,2964
@@ -154,11 +154,11 @@ Burkina Faso,,Burkina Faso,1375,55,1075
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1306,82,1163
 안도라,安道尔,Andorra,1199,53,909
-Niger,,Niger,1176,69,1088
+Niger,,Niger,1177,69,1091
 Myanmar,,Myanmar,1111,6,359
 Belize,,Belize,1101,13,240
 Lesotho,,Lesotho,1085,31,528
-베트남,越南,Vietnam,1046,35,746
+베트남,越南,Vietnam,1046,35,755
 Chad,,Chad,1018,77,908
 Sao Tome and Principe,,Sao Tome and Principe,897,15,857
 Martinique,,Martinique,754,18,98

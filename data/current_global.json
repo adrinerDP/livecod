@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6331397,
+        "confirmed": 6331877,
         "deaths": 190959,
-        "recovered": 3571124
+        "recovered": 3571232
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4041638,
-        "deaths": 124651,
+        "confirmed": 4046150,
+        "deaths": 124729,
         "recovered": 3247610
     },
     {
@@ -395,9 +395,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 54587,
+        "confirmed": 54588,
         "deaths": 1048,
-        "recovered": 42622
+        "recovered": 42627
     },
     {
         "Name": "바레인",
@@ -539,7 +539,7 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 26127,
+        "confirmed": 26452,
         "deaths": 426,
         "recovered": 18663
     },
@@ -904,6 +904,14 @@
         "recovered": 2163
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4215,
+        "deaths": 73,
+        "recovered": 3318
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -926,14 +934,6 @@
         "confirmed": 4163,
         "deaths": 37,
         "recovered": 2617
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4149,
-        "deaths": 72,
-        "recovered": 3272
     },
     {
         "Name": "Cabo Verde",
@@ -1243,9 +1243,9 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1176,
+        "confirmed": 1177,
         "deaths": 69,
-        "recovered": 1088
+        "recovered": 1091
     },
     {
         "Name": "Myanmar",
@@ -1277,7 +1277,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1046,
         "deaths": 35,
-        "recovered": 746
+        "recovered": 755
     },
     {
         "Name": "Chad",
