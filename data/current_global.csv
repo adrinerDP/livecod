@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6330272,190936,3567158
-브라질,巴西,Brazil,4040163,124651,3210405
+미국,美国,United States,6331397,190959,3571124
+브라질,巴西,Brazil,4041638,124651,3247610
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
@@ -48,7 +48,7 @@ Honduras,,Honduras,62526,1924,11147
 포르투갈,葡萄牙,Portugal,59051,1829,42427
 싱가포르,新加坡,Singapore,56908,27,56028
 Ethiopia,,Ethiopia,55213,856,20283
-나이지리아,尼日利亚,Nigeria,54463,1027,42439
+나이지리아,尼日利亚,Nigeria,54587,1048,42622
 바레인,巴林,Bahrain,53433,190,50013
 Venezuela,,Venezuela,48883,398,39912
 알제리,阿尔及利亚,Algeria,45469,1529,32006
@@ -71,7 +71,7 @@ Kenya,,Kenya,34705,585,20644
 El Salvador,,El Salvador,26000,739,15119
 팔레스타인,巴勒斯坦,Palestine,24471,167,16095
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20804,636,14120
-카메룬,喀麦隆,Cameroon,19460,415,17651
+카메룬,喀麦隆,Cameroon,19604,415,18448
 Paraguay,,Paraguay,19138,358,9981
 레바논,黎巴嫩,Lebanon,18963,179,5338
 Ivory Coast,,Ivory Coast,18208,119,17045
@@ -99,11 +99,11 @@ Maldives,,Maldives,8281,29,5483
 Namibia,,Namibia,8082,86,3483
 Mauritania,,Mauritania,7106,160,6588
 헝가리,匈牙利,Hungary,6923,620,3930
-룩셈부르크,卢森堡,Luxembourg,6745,124,0
+룩셈부르크,卢森堡,Luxembourg,6811,124,0
 Zimbabwe,,Zimbabwe,6678,206,5263
 Malawi,,Malawi,5593,175,3516
 Djibouti,,Djibouti,5387,60,5327
-Montenegro,,Montenegro,5019,104,4104
+Montenegro,,Montenegro,5165,104,4164
 Equatorial Guinea,,Equatorial Guinea,4965,83,4390
 홍콩,香港,Hong Kong,4839,94,4431
 CAR,,CAR,4729,62,1807
@@ -118,8 +118,8 @@ Mozambique,,Mozambique,4207,26,2370
 Suriname,,Suriname,4149,72,3272
 Cabo Verde,,Cabo Verde,4125,41,3502
 태국,泰国,Thailand,3427,58,3277
+Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3310,98,2481
-Mayotte,,Mayotte,3301,40,2964
 Uganda,,Uganda,3288,33,1532
 스리랑카,斯里兰卡,Sri Lanka,3111,12,2883
 Gambia,,Gambia,3101,99,1075
@@ -138,13 +138,13 @@ Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2128,10,2023
 Sierra Leone,,Sierra Leone,2035,71,1600
+Trinidad and Tobago,,Trinidad and Tobago,1984,29,700
 Yemen,,Yemen,1979,571,1180
 Malta,,Malta,1965,13,1528
-Trinidad and Tobago,,Trinidad and Tobago,1941,28,700
 Réunion,,Réunion,1912,10,880
 New Zealand,,New Zealand,1759,22,1622
 Botswana,,Botswana,1724,6,493
-Uruguay,,Uruguay,1626,44,1433
+Uruguay,,Uruguay,1636,44,1437
 조지아,格鲁吉亚,Georgia,1568,19,1279
 Cyprus,,Cyprus,1498,21,1139
 토고,多哥,Togo,1443,31,1071
