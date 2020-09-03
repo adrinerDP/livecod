@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,479554,29194,0
 Argentina,,Argentina,439172,9118,315530
 칠레,智利,Chile,414739,11344,387683
-이란,伊朗,Iran,378752,21797,326801
+이란,伊朗,Iran,380746,21926,328595
 영국,英国,UK,338676,41514,0
 Bangladesh,,Bangladesh,319686,4383,213980
 사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
@@ -38,8 +38,8 @@ Panama,,Panama,94084,2030,67487
 벨기에,比利时,Belgium,85911,9898,18490
 스웨덴,瑞典语,Sweden,84532,5820,0
 Guatemala,,Guatemala,75644,2790,63688
+벨라루스,白俄罗斯,Belarus,72302,696,71205
 아랍에미리트,阿拉伯联合酋长国,UAE,72154,387,62668
-벨라루스,白俄罗斯,Belarus,72141,691,70900
 네덜란드,荷兰,Netherlands,71863,6235,0
 폴란드,波兰,Poland,69129,2092,48593
 일본,日本,Japan,69001,1307,58428
@@ -57,8 +57,8 @@ Ghana,,Ghana,44658,276,43478
 Kyrgyzstan,,Kyrgyzstan,44135,1059,39174
 코스타리카,哥斯达黎加,Costa Rica,43305,453,16512
 스위스,瑞士,Switzerland,43127,2012,36500
+네팔,尼泊尔,Nepal,42877,257,24207
 Uzbekistan,,Uzbekistan,42540,329,39883
-네팔,尼泊尔,Nepal,41649,251,23290
 아프가니스탄,阿富汗,Afghanistan,38288,1409,29390
 Moldova,,Moldova,37740,1024,26189
 아제르바이잔,阿塞拜疆,Azerbaijan,36732,538,34116
@@ -78,7 +78,7 @@ Ivory Coast,,Ivory Coast,18161,117,16933
 덴마크,丹麦,Denmark,17195,626,15413
 Bulgaria,,Bulgaria,16617,648,11760
 Libya,,Libya,15156,250,1746
-Madagascar,,Madagascar,15023,196,13965
+Madagascar,,Madagascar,15106,197,14031
 North Macedonia,,North Macedonia,14600,606,11741
 세네갈,塞内加尔,Senegal,13826,287,9553
 Sudan,,Sudan,13189,823,6612
@@ -123,7 +123,7 @@ Mayotte,,Mayotte,3301,40,2964
 Uganda,,Uganda,3112,32,1528
 스리랑카,斯里兰卡,Sri Lanka,3102,12,2883
 Gambia,,Gambia,3067,97,1032
-슬로베니아,斯洛文尼亚,Slovenia,2979,134,2359
+슬로베니아,斯洛文尼亚,Slovenia,3032,134,2402
 Lithuania,,Lithuania,2978,86,1901
 Syria,,Syria,2898,120,661
 Jamaica,,Jamaica,2822,27,900
@@ -139,7 +139,7 @@ Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2121,10,2016
 Sierra Leone,,Sierra Leone,2029,71,1600
 Yemen,,Yemen,1976,571,1175
-Malta,,Malta,1931,13,1490
+Malta,,Malta,1965,13,1528
 Trinidad and Tobago,,Trinidad and Tobago,1920,28,691
 Réunion,,Réunion,1796,10,880
 New Zealand,,New Zealand,1759,22,1622
@@ -178,7 +178,7 @@ Mauritius,,Mauritius,356,10,335
 Isle of Man,,Isle of Man,336,24,312
 Eritrea,,Eritrea,319,0,284
 Mongolia,,Mongolia,306,0,296
-지브롤터,直布罗陀,Gibraltar,295,0,240
+지브롤터,直布罗陀,Gibraltar,298,0,246
 캄보디아,柬埔寨,Cambodia,274,0,271
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,227,0,144
