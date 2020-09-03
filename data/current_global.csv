@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6315723,190550,3556928
+미국,美国,United States,6317641,190597,3558101
 브라질,巴西,Brazil,4007502,124057,3210405
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
 콜롬비아,哥伦比亚,Colombia,633339,20348,479568
-남아프리카 공화국,南非共和国,South Africa,630595,14389,553456
+남아프리카 공화국,南非共和国,South Africa,633015,14563,554887
 멕시코,墨西哥,Mexico,610957,65816,424990
 스페인,西班牙,Spain,488513,29234,0
 Argentina,,Argentina,439172,9155,322461
@@ -88,7 +88,7 @@ Zambia,,Zambia,12523,292,11562
 그리스,希腊,Greece,10998,278,3804
 DRC,,DRC,10125,259,9367
 Albania,,Albania,9844,301,5732
-Guinea,,Guinea,9479,59,8527
+Guinea,,Guinea,9579,61,8726
 말레이시아,马来西亚,Malaysia,9374,128,9083
 French Guiana,,French Guiana,9251,61,8772
 Tajikistan,,Tajikistan,8690,69,7482
@@ -132,12 +132,12 @@ Angola,,Angola,2805,113,1144
 South Sudan,,South Sudan,2533,47,1290
 에스토니아,爱沙尼亚,Estonia,2441,64,2150
 Bahamas,,Bahamas,2337,50,849
+Aruba,,Aruba,2292,13,1031
 요르단,约旦,Jordan,2233,15,1648
-Aruba,,Aruba,2211,12,934
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2128,10,2023
-Sierra Leone,,Sierra Leone,2029,71,1600
+Sierra Leone,,Sierra Leone,2035,71,1600
 Yemen,,Yemen,1976,571,1175
 Malta,,Malta,1965,13,1528
 Trinidad and Tobago,,Trinidad and Tobago,1941,28,700
@@ -146,7 +146,7 @@ New Zealand,,New Zealand,1759,22,1622
 Botswana,,Botswana,1724,6,493
 Uruguay,,Uruguay,1626,44,1433
 조지아,格鲁吉亚,Georgia,1568,19,1279
-Cyprus,,Cyprus,1495,21,1139
+Cyprus,,Cyprus,1498,21,1139
 토고,多哥,Togo,1434,30,1055
 라트비아,约旦,Latvia,1410,34,1187
 Guyana,,Guyana,1382,41,779
