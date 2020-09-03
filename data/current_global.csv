@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6308875,190401,3554903
+미국,美国,United States,6310196,190447,3555933
 브라질,巴西,Brazil,4007502,124057,3210405
-인도,印度,India,3930059,68560,3031777
+인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
 콜롬비아,哥伦比亚,Colombia,633339,20348,479568
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,319686,4383,213980
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 터키,土耳其,Turkey,274943,6511,248087
 이탈리아,义大利,Italy,272912,35507,208490
-독일,德国,Germany,248385,9397,223100
+독일,德国,Germany,248689,9398,223100
 이라크,伊拉克,Iraq,247039,7275,187757
 필리핀,菲律宾,Philippines,228403,3688,159475
 인도네시아,印度尼西亚,Indonesia,184268,7750,132055
@@ -111,11 +111,11 @@ Nicaragua,,Nicaragua,4668,141,2913
 Eswatini,,Eswatini,4668,94,3585
 Congo,,Congo,4628,102,1742
 Rwanda,,Rwanda,4218,17,2071
+Cuba,,Cuba,4214,100,3474
 Mozambique,,Mozambique,4207,26,2370
 Tunisia,,Tunisia,4196,81,1628
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
 Suriname,,Suriname,4149,72,3272
-Cuba,,Cuba,4126,98,3458
 Cabo Verde,,Cabo Verde,4048,41,3460
 태국,泰国,Thailand,3427,58,3277
 Somalia,,Somalia,3310,98,2481
@@ -201,9 +201,9 @@ Grenada,,Grenada,24,0,24
 New Caledonia,,New Caledonia,23,0,23
 Laos,,Laos,22,0,21
 Dominica,,Dominica,20,0,18
+Caribbean Netherlands,,Caribbean Netherlands,18,0,7
 St. Barth,,St. Barth,18,0,13
 Saint Kitts and Nevis,,Saint Kitts and Nevis,17,0,17
-Caribbean Netherlands,,Caribbean Netherlands,16,0,7
 Greenland,,Greenland,14,0,14
 Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13

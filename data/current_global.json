@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6308875,
-        "deaths": 190401,
-        "recovered": 3554903
+        "confirmed": 6310196,
+        "deaths": 190447,
+        "recovered": 3555933
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3930059,
-        "deaths": 68560,
-        "recovered": 3031777
+        "confirmed": 3933124,
+        "deaths": 68569,
+        "recovered": 3032916
     },
     {
         "Name": "러시아",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 248385,
-        "deaths": 9397,
+        "confirmed": 248689,
+        "deaths": 9398,
         "recovered": 223100
     },
     {
@@ -896,6 +896,14 @@
         "recovered": 2071
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4214,
+        "deaths": 100,
+        "recovered": 3474
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -926,14 +934,6 @@
         "confirmed": 4149,
         "deaths": 72,
         "recovered": 3272
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4126,
-        "deaths": 98,
-        "recovered": 3458
     },
     {
         "Name": "Cabo Verde",
@@ -1616,6 +1616,14 @@
         "recovered": 18
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 18,
+        "deaths": 0,
+        "recovered": 7
+    },
+    {
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
@@ -1630,14 +1638,6 @@
         "confirmed": 17,
         "deaths": 0,
         "recovered": 17
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 16,
-        "deaths": 0,
-        "recovered": 7
     },
     {
         "Name": "Greenland",
