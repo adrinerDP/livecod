@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6310196,190447,3555933
+미국,美国,United States,6315723,190550,3556928
 브라질,巴西,Brazil,4007502,124057,3210405
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -14,7 +14,7 @@ Argentina,,Argentina,439172,9155,322461
 영국,英国,UK,340411,41527,0
 Bangladesh,,Bangladesh,319686,4383,213980
 사우디아라비아,沙特阿拉伯,Saudi Arabia,318319,3982,293964
-프랑스,法国,France,300181,30706,86963
+프랑스,法国,France,300181,30706,87206
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 터키,土耳其,Turkey,274943,6511,248087
 이탈리아,义大利,Italy,272912,35507,208490
@@ -62,7 +62,7 @@ Uzbekistan,,Uzbekistan,42688,331,40081
 Moldova,,Moldova,38372,1036,27017
 아프가니스탄,阿富汗,Afghanistan,38288,1409,29390
 아제르바이잔,阿塞拜疆,Azerbaijan,36899,541,34116
-Kenya,,Kenya,34493,581,20211
+Kenya,,Kenya,34705,585,20644
 세르비아,塞尔维亚,Serbia,31676,718,30188
 아일랜드,冰岛,Ireland,29206,1777,23364
 오스트리아,奥地利,Austria,28372,735,24171
@@ -116,7 +116,7 @@ Mozambique,,Mozambique,4207,26,2370
 Tunisia,,Tunisia,4196,81,1628
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
 Suriname,,Suriname,4149,72,3272
-Cabo Verde,,Cabo Verde,4048,41,3460
+Cabo Verde,,Cabo Verde,4125,41,3502
 태국,泰国,Thailand,3427,58,3277
 Somalia,,Somalia,3310,98,2481
 Mayotte,,Mayotte,3301,40,2964
@@ -127,8 +127,8 @@ Gambia,,Gambia,3101,99,1075
 Lithuania,,Lithuania,2978,86,1901
 Syria,,Syria,2973,124,681
 Jamaica,,Jamaica,2822,27,900
+Mali,,Mali,2807,126,2203
 Angola,,Angola,2805,113,1144
-Mali,,Mali,2802,126,2185
 South Sudan,,South Sudan,2533,47,1290
 에스토니아,爱沙尼亚,Estonia,2441,64,2150
 Bahamas,,Bahamas,2337,50,849
@@ -152,7 +152,7 @@ Cyprus,,Cyprus,1495,21,1139
 Guyana,,Guyana,1382,41,779
 Burkina Faso,,Burkina Faso,1370,55,1075
 Guadeloupe,,Guadeloupe,1363,18,336
-Liberia,,Liberia,1305,82,1162
+Liberia,,Liberia,1306,82,1163
 안도라,安道尔,Andorra,1199,53,909
 Niger,,Niger,1176,69,1088
 Myanmar,,Myanmar,1111,6,359
@@ -186,7 +186,7 @@ Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,176,7,149
 Bermuda,,Bermuda,172,9,157
 Brunei,,Brunei,145,3,139
-모나코,摩纳哥,Monaco,142,1,91
+모나코,摩纳哥,Monaco,143,1,94
 Seychelles,,Seychelles,136,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91

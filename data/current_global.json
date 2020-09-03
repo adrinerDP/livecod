@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6310196,
-        "deaths": 190447,
-        "recovered": 3555933
+        "confirmed": 6315723,
+        "deaths": 190550,
+        "recovered": 3556928
     },
     {
         "Name": "브라질",
@@ -125,7 +125,7 @@
         "Name_en": "France",
         "confirmed": 300181,
         "deaths": 30706,
-        "recovered": 86963
+        "recovered": 87206
     },
     {
         "Name": "파키스탄",
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 34493,
-        "deaths": 581,
-        "recovered": 20211
+        "confirmed": 34705,
+        "deaths": 585,
+        "recovered": 20644
     },
     {
         "Name": "세르비아",
@@ -939,9 +939,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 4048,
+        "confirmed": 4125,
         "deaths": 41,
-        "recovered": 3460
+        "recovered": 3502
     },
     {
         "Name": "태국",
@@ -1024,20 +1024,20 @@
         "recovered": 900
     },
     {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+        "confirmed": 2807,
+        "deaths": 126,
+        "recovered": 2203
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
         "confirmed": 2805,
         "deaths": 113,
         "recovered": 1144
-    },
-    {
-        "Name": "Mali",
-        "Name_ch": "",
-        "Name_en": "Mali",
-        "confirmed": 2802,
-        "deaths": 126,
-        "recovered": 2185
     },
     {
         "Name": "South Sudan",
@@ -1227,9 +1227,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1305,
+        "confirmed": 1306,
         "deaths": 82,
-        "recovered": 1162
+        "recovered": 1163
     },
     {
         "Name": "안도라",
@@ -1499,9 +1499,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 142,
+        "confirmed": 143,
         "deaths": 1,
-        "recovered": 91
+        "recovered": 94
     },
     {
         "Name": "Seychelles",
