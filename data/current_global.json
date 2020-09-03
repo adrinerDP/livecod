@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6305246,
-        "deaths": 190321,
-        "recovered": 3549773
+        "confirmed": 6307504,
+        "deaths": 190362,
+        "recovered": 3549798
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3924563,
-        "deaths": 68529,
-        "recovered": 3030513
+        "confirmed": 3930059,
+        "deaths": 68559,
+        "recovered": 3031685
     },
     {
         "Name": "러시아",
@@ -120,20 +120,20 @@
         "recovered": 293964
     },
     {
+        "Name": "프랑스",
+        "Name_ch": "法国",
+        "Name_en": "France",
+        "confirmed": 300181,
+        "deaths": 30706,
+        "recovered": 86963
+    },
+    {
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
         "confirmed": 297014,
         "deaths": 6328,
         "recovered": 281925
-    },
-    {
-        "Name": "프랑스",
-        "Name_ch": "法国",
-        "Name_en": "France",
-        "confirmed": 293024,
-        "deaths": 30686,
-        "recovered": 86963
     },
     {
         "Name": "터키",
@@ -155,7 +155,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 248180,
+        "confirmed": 248285,
         "deaths": 9395,
         "recovered": 223100
     },
@@ -355,9 +355,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 65453,
-        "deaths": 1216,
-        "recovered": 50357
+        "confirmed": 66855,
+        "deaths": 1253,
+        "recovered": 51223
     },
     {
         "Name": "Honduras",
@@ -419,9 +419,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 45158,
-        "deaths": 1523,
-        "recovered": 31746
+        "confirmed": 45469,
+        "deaths": 1529,
+        "recovered": 32006
     },
     {
         "Name": "Ghana",
@@ -523,7 +523,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 29114,
+        "confirmed": 29206,
         "deaths": 1777,
         "recovered": 23364
     },
