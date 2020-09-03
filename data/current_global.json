@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 439172,
-        "deaths": 9118,
-        "recovered": 315530
+        "deaths": 9155,
+        "recovered": 322461
     },
     {
         "Name": "칠레",
@@ -299,8 +299,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 84532,
-        "deaths": 5820,
+        "confirmed": 84729,
+        "deaths": 5832,
         "recovered": 0
     },
     {
@@ -310,6 +310,14 @@
         "confirmed": 75644,
         "deaths": 2790,
         "recovered": 63688
+    },
+    {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 72464,
+        "deaths": 6235,
+        "recovered": 0
     },
     {
         "Name": "벨라루스",
@@ -326,14 +334,6 @@
         "confirmed": 72154,
         "deaths": 387,
         "recovered": 62668
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 71863,
-        "deaths": 6235,
-        "recovered": 0
     },
     {
         "Name": "폴란드",
