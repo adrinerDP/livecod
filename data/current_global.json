@@ -155,7 +155,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 247391,
+        "confirmed": 247436,
         "deaths": 9393,
         "recovered": 223100
     },
@@ -267,17 +267,17 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 89891,
-        "deaths": 3721,
-        "recovered": 38701
+        "confirmed": 91256,
+        "deaths": 3765,
+        "recovered": 39275
     },
     {
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 86478,
-        "deaths": 535,
-        "recovered": 78209
+        "confirmed": 87378,
+        "deaths": 536,
+        "recovered": 78791
     },
     {
         "Name": "오만",
@@ -312,6 +312,14 @@
         "recovered": 63688
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 72154,
+        "deaths": 387,
+        "recovered": 62668
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
@@ -326,14 +334,6 @@
         "confirmed": 71863,
         "deaths": 6235,
         "recovered": 0
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "confirmed": 71540,
-        "deaths": 387,
-        "recovered": 62029
     },
     {
         "Name": "폴란드",
@@ -459,8 +459,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 42763,
-        "deaths": 2011,
+        "confirmed": 43127,
+        "deaths": 2012,
         "recovered": 36500
     },
     {
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 13743,
+        "confirmed": 13826,
         "deaths": 287,
-        "recovered": 9506
+        "recovered": 9553
     },
     {
         "Name": "Sudan",
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 411,
+        "confirmed": 412,
         "deaths": 0,
-        "recovered": 374
+        "recovered": 379
     },
     {
         "Name": "Mauritius",
