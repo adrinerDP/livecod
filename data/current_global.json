@@ -203,9 +203,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 122539,
-        "deaths": 969,
-        "recovered": 97872
+        "confirmed": 122779,
+        "deaths": 976,
+        "recovered": 97885
     },
     {
         "Name": "카타르",
@@ -283,9 +283,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 85928,
-        "deaths": 689,
-        "recovered": 81024
+        "confirmed": 86380,
+        "deaths": 705,
+        "recovered": 81828
     },
     {
         "Name": "벨기에",
@@ -672,6 +672,14 @@
         "recovered": 11494
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 11094,
+        "deaths": 194,
+        "recovered": 8266
+    },
+    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
@@ -686,14 +694,6 @@
         "confirmed": 10757,
         "deaths": 273,
         "recovered": 3804
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 10725,
-        "deaths": 191,
-        "recovered": 7968
     },
     {
         "Name": "DRC",
@@ -763,7 +763,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8161,
+        "confirmed": 8200,
         "deaths": 336,
         "recovered": 7350
     },
@@ -904,6 +904,14 @@
         "recovered": 1628
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 4163,
+        "deaths": 37,
+        "recovered": 2617
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
@@ -934,14 +942,6 @@
         "confirmed": 4048,
         "deaths": 41,
         "recovered": 3460
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 4042,
-        "deaths": 33,
-        "recovered": 2523
     },
     {
         "Name": "태국",
@@ -1491,7 +1491,7 @@
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
-        "confirmed": 144,
+        "confirmed": 145,
         "deaths": 3,
         "recovered": 139
     },
