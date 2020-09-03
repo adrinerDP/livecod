@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6300760,190287,3547979
+미국,美国,United States,6302203,190300,3548122
 브라질,巴西,Brazil,4001422,123899,3210405
-인도,印度,India,3872670,67669,2984467
+인도,印度,India,3904508,68059,3014685
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,663437,29259,480177
 콜롬비아,哥伦比亚,Colombia,633339,20348,479568
@@ -11,18 +11,18 @@
 Argentina,,Argentina,439172,9155,322461
 칠레,智利,Chile,416501,11422,389409
 이란,伊朗,Iran,380746,21926,328595
-영국,英国,UK,340411,41514,0
+영국,英国,UK,340411,41527,0
 Bangladesh,,Bangladesh,319686,4383,213980
 사우디아라비아,沙特阿拉伯,Saudi Arabia,318319,3982,293964
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 프랑스,法国,France,293024,30686,86963
 터키,土耳其,Turkey,273301,6462,246876
 이탈리아,义大利,Italy,272912,35507,208490
-독일,德国,Germany,248016,9395,223100
+독일,德国,Germany,248180,9395,223100
 이라크,伊拉克,Iraq,247039,7275,187757
 필리핀,菲律宾,Philippines,228403,3688,159475
 인도네시아,印度尼西亚,Indonesia,184268,7750,132055
-캐나다,加拿大,Canada,129923,9135,115050
+캐나다,加拿大,Canada,130242,9138,115269
 Ukraine,,Ukraine,128228,2710,59676
 이스라엘,以色列,Israel,122779,976,97885
 카타르,卡塔尔,Qatar,119420,201,116313
@@ -37,7 +37,7 @@ Panama,,Panama,94084,2030,67487
 오만,阿曼,Oman,86380,705,81828
 벨기에,比利时,Belgium,85911,9898,18490
 스웨덴,瑞典语,Sweden,84729,5832,0
-Guatemala,,Guatemala,75644,2790,63688
+Guatemala,,Guatemala,76358,2804,64399
 네덜란드,荷兰,Netherlands,72464,6235,0
 벨라루스,白俄罗斯,Belarus,72302,696,71205
 아랍에미리트,阿拉伯联合酋长国,UAE,72154,387,62668
@@ -85,9 +85,9 @@ Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12523,292,11562
 크로아티아,克罗地亚,Croatia,11094,194,8266
 노르웨이,挪威,Norway,11034,264,9348
-그리스,希腊,Greece,10757,273,3804
+그리스,希腊,Greece,10998,278,3804
 DRC,,DRC,10125,259,9367
-Albania,,Albania,9728,296,5582
+Albania,,Albania,9844,301,5732
 Guinea,,Guinea,9479,59,8527
 말레이시아,马来西亚,Malaysia,9374,128,9083
 French Guiana,,French Guiana,9209,61,8739
@@ -111,11 +111,11 @@ Nicaragua,,Nicaragua,4668,141,2913
 Eswatini,,Eswatini,4668,94,3585
 Congo,,Congo,4628,102,1742
 Rwanda,,Rwanda,4218,17,2071
+Mozambique,,Mozambique,4207,26,2370
 Tunisia,,Tunisia,4196,81,1628
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
 Suriname,,Suriname,4149,72,3272
 Cuba,,Cuba,4126,98,3458
-Mozambique,,Mozambique,4117,25,2170
 Cabo Verde,,Cabo Verde,4048,41,3460
 태국,泰国,Thailand,3427,58,3277
 Somalia,,Somalia,3310,98,2481
@@ -132,10 +132,10 @@ Angola,,Angola,2777,112,1115
 South Sudan,,South Sudan,2532,47,1290
 에스토니아,爱沙尼亚,Estonia,2441,64,2150
 Bahamas,,Bahamas,2337,50,849
+요르단,约旦,Jordan,2233,15,1648
 Aruba,,Aruba,2211,12,934
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
-요르단,约旦,Jordan,2161,15,1610
 Iceland,,Iceland,2128,10,2023
 Sierra Leone,,Sierra Leone,2029,71,1600
 Yemen,,Yemen,1976,571,1175
