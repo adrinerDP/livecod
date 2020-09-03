@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6294276,
-        "deaths": 190049,
+        "confirmed": 6297847,
+        "deaths": 190196,
         "recovered": 3547979
     },
     {
@@ -779,9 +779,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 7844,
-        "deaths": 82,
-        "recovered": 3454
+        "confirmed": 8082,
+        "deaths": 86,
+        "recovered": 3483
     },
     {
         "Name": "Mauritania",
@@ -1131,9 +1131,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 1920,
+        "confirmed": 1941,
         "deaths": 28,
-        "recovered": 691
+        "recovered": 700
     },
     {
         "Name": "Réunion",
