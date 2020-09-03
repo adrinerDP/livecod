@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6307504,
-        "deaths": 190362,
-        "recovered": 3549798
+        "confirmed": 6308875,
+        "deaths": 190401,
+        "recovered": 3554903
     },
     {
         "Name": "브라질",
@@ -20,8 +20,8 @@
         "Name_ch": "印度",
         "Name_en": "India",
         "confirmed": 3930059,
-        "deaths": 68559,
-        "recovered": 3031685
+        "deaths": 68560,
+        "recovered": 3031777
     },
     {
         "Name": "러시아",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 248285,
-        "deaths": 9395,
+        "confirmed": 248385,
+        "deaths": 9397,
         "recovered": 223100
     },
     {
@@ -760,20 +760,20 @@
         "recovered": 5870
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "confirmed": 8281,
+        "deaths": 29,
+        "recovered": 5483
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 8200,
         "deaths": 336,
         "recovered": 7350
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "confirmed": 8140,
-        "deaths": 29,
-        "recovered": 5338
     },
     {
         "Name": "Namibia",
