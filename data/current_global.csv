@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6291541,190014,3547926
+미국,美国,United States,6291627,190014,3547926
 브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3853406,67486,2970492
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,319686,4383,213980
 캐나다,加拿大,Canada,129923,9135,115050
 Ukraine,,Ukraine,128228,2710,59676
 이스라엘,以色列,Israel,122779,976,97885
-카타르,卡塔尔,Qatar,119206,199,116111
+카타르,卡塔尔,Qatar,119420,201,116313
 Bolivia,,Bolivia,117928,5203,64074
 에콰도르,厄瓜多尔,Ecuador,115457,6619,101867
 Kazakhstan,,Kazakhstan,106032,1588,97967
@@ -69,13 +69,13 @@ Kenya,,Kenya,34493,581,20211
 호주,澳大利亚,Australia,26049,678,21912
 El Salvador,,El Salvador,26000,739,15119
 체코,捷克,Czechia,25773,425,18326
-팔레스타인,巴勒斯坦,Palestine,23875,162,15483
+팔레스타인,巴勒斯坦,Palestine,24471,167,16095
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
 카메룬,喀麦隆,Cameroon,19460,415,17651
 Paraguay,,Paraguay,19138,358,9981
 레바논,黎巴嫩,Lebanon,18375,177,5195
 Ivory Coast,,Ivory Coast,18161,117,16933
-덴마크,丹麦,Denmark,17195,626,15413
+덴마크,丹麦,Denmark,17374,626,15499
 Bulgaria,,Bulgaria,16617,648,11760
 Libya,,Libya,15773,254,1856
 Madagascar,,Madagascar,15106,197,14031
@@ -189,7 +189,7 @@ Brunei,,Brunei,145,3,139
 모나코,摩纳哥,Monaco,142,1,91
 Seychelles,,Seychelles,136,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
-Antigua and Barbuda,,Antigua and Barbuda,94,3,91
+Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 Curaçao,,Curaçao,75,1,39
 St. Vincent Grenadines,,St. Vincent Grenadines,61,0,57
 British Virgin Islands,,British Virgin Islands,47,1,8
