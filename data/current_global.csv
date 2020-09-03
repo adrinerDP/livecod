@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6320562,190628,3558105
+미국,美国,United States,6324660,190711,3561579
 브라질,巴西,Brazil,4007502,124057,3210405
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,319686,4383,213980
 인도네시아,印度尼西亚,Indonesia,184268,7750,132055
 캐나다,加拿大,Canada,130262,9140,115284
 Ukraine,,Ukraine,128228,2710,59676
-이스라엘,以色列,Israel,123903,985,98637
+이스라엘,以色列,Israel,124455,985,98645
 카타르,卡塔尔,Qatar,119420,201,116313
 Bolivia,,Bolivia,117928,5203,64074
 에콰도르,厄瓜多尔,Ecuador,116360,6648,102051
@@ -100,15 +100,15 @@ Namibia,,Namibia,8082,86,3483
 Mauritania,,Mauritania,7089,160,6548
 헝가리,匈牙利,Hungary,6923,620,3930
 룩셈부르크,卢森堡,Luxembourg,6745,124,0
-Zimbabwe,,Zimbabwe,6638,206,5250
-Malawi,,Malawi,5579,175,3500
+Zimbabwe,,Zimbabwe,6678,206,5263
+Malawi,,Malawi,5593,175,3516
 Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5019,104,4104
 Equatorial Guinea,,Equatorial Guinea,4965,83,4390
 홍콩,香港,Hong Kong,4839,94,4431
+Eswatini,,Eswatini,4720,94,3789
 CAR,,CAR,4712,62,1803
 Nicaragua,,Nicaragua,4668,141,2913
-Eswatini,,Eswatini,4668,94,3585
 Congo,,Congo,4628,102,1742
 Rwanda,,Rwanda,4218,17,2071
 Cuba,,Cuba,4214,100,3474
@@ -183,7 +183,7 @@ Mongolia,,Mongolia,306,0,296
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,227,0,144
 Cayman Islands,,Cayman Islands,205,1,204
-Barbados,,Barbados,176,7,149
+Barbados,,Barbados,177,7,150
 Bermuda,,Bermuda,172,9,157
 Brunei,,Brunei,145,3,139
 모나코,摩纳哥,Monaco,143,1,94

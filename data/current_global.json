@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6320562,
-        "deaths": 190628,
-        "recovered": 3558105
+        "confirmed": 6324660,
+        "deaths": 190711,
+        "recovered": 3561579
     },
     {
         "Name": "브라질",
@@ -203,9 +203,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 123903,
+        "confirmed": 124455,
         "deaths": 985,
-        "recovered": 98637
+        "recovered": 98645
     },
     {
         "Name": "카타르",
@@ -811,17 +811,17 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 6638,
+        "confirmed": 6678,
         "deaths": 206,
-        "recovered": 5250
+        "recovered": 5263
     },
     {
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5579,
+        "confirmed": 5593,
         "deaths": 175,
-        "recovered": 3500
+        "recovered": 3516
     },
     {
         "Name": "Djibouti",
@@ -856,6 +856,14 @@
         "recovered": 4431
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "confirmed": 4720,
+        "deaths": 94,
+        "recovered": 3789
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -870,14 +878,6 @@
         "confirmed": 4668,
         "deaths": 141,
         "recovered": 2913
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "confirmed": 4668,
-        "deaths": 94,
-        "recovered": 3585
     },
     {
         "Name": "Congo",
@@ -1475,9 +1475,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 176,
+        "confirmed": 177,
         "deaths": 7,
-        "recovered": 149
+        "recovered": 150
     },
     {
         "Name": "Bermuda",
