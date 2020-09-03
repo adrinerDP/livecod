@@ -1248,20 +1248,20 @@
         "recovered": 1088
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1101,
+        "deaths": 13,
+        "recovered": 240
+    },
+    {
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
         "confirmed": 1085,
         "deaths": 31,
         "recovered": 528
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1050,
-        "deaths": 13,
-        "recovered": 213
     },
     {
         "Name": "베트남",
@@ -1352,20 +1352,20 @@
         "recovered": 183
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "confirmed": 495,
+        "deaths": 19,
+        "recovered": 302
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "confirmed": 489,
         "deaths": 7,
         "recovered": 471
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "confirmed": 482,
-        "deaths": 19,
-        "recovered": 241
     },
     {
         "Name": "Papua New Guinea",
@@ -1445,7 +1445,7 @@
         "Name_en": "Cambodia",
         "confirmed": 274,
         "deaths": 0,
-        "recovered": 266
+        "recovered": 271
     },
     {
         "Name": "Saint Martin",
@@ -1531,9 +1531,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 71,
+        "confirmed": 75,
         "deaths": 1,
-        "recovered": 35
+        "recovered": 39
     },
     {
         "Name": "St. Vincent Grenadines",
