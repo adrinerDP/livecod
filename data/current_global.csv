@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6289914,189925,3538290
+미국,美国,United States,6290425,189941,3542809
 브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3848968,67486,2967396
 러시아,俄罗斯,Russia,1005000,17414,821169
@@ -50,7 +50,7 @@ Honduras,,Honduras,61769,1888,10430
 나이지리아,尼日利亚,Nigeria,54463,1027,42439
 Ethiopia,,Ethiopia,54409,846,19903
 바레인,巴林,Bahrain,52807,190,49645
-Venezuela,,Venezuela,47756,391,39027
+Venezuela,,Venezuela,48883,398,39912
 알제리,阿尔及利亚,Algeria,45158,1523,31746
 Ghana,,Ghana,44658,276,43478
 아르메니아,亚美尼亚,Armenia,44075,884,38631
@@ -104,11 +104,12 @@ Zimbabwe,,Zimbabwe,6638,206,5250
 Malawi,,Malawi,5579,175,3500
 Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5019,104,4104
-Equatorial Guinea,,Equatorial Guinea,4965,83,3884
+Equatorial Guinea,,Equatorial Guinea,4965,83,4390
 홍콩,香港,Hong Kong,4831,92,4401
 CAR,,CAR,4712,62,1803
 Nicaragua,,Nicaragua,4668,141,2913
 Eswatini,,Eswatini,4668,94,3585
+Congo,,Congo,4628,102,1742
 Rwanda,,Rwanda,4218,17,2071
 Tunisia,,Tunisia,4196,81,1628
 Suriname,,Suriname,4149,72,3272
@@ -116,7 +117,6 @@ Cuba,,Cuba,4126,98,3458
 Mozambique,,Mozambique,4117,25,2170
 Cabo Verde,,Cabo Verde,4048,41,3460
 슬로바키아,斯洛伐克,Slovakia,4042,33,2523
-Congo,,Congo,3979,78,1742
 태국,泰国,Thailand,3425,58,3274
 Somalia,,Somalia,3310,98,2481
 Mayotte,,Mayotte,3301,40,2964
@@ -131,7 +131,7 @@ Angola,,Angola,2777,112,1115
 Jamaica,,Jamaica,2683,24,898
 South Sudan,,South Sudan,2532,47,1290
 에스토니아,爱沙尼亚,Estonia,2415,64,2130
-Bahamas,,Bahamas,2276,50,801
+Bahamas,,Bahamas,2337,50,849
 Aruba,,Aruba,2211,12,934
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
@@ -151,8 +151,8 @@ Cyprus,,Cyprus,1495,21,1139
 라트비아,约旦,Latvia,1406,34,1173
 Guyana,,Guyana,1382,41,779
 Burkina Faso,,Burkina Faso,1370,55,1075
+Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1305,82,1162
-Guadeloupe,,Guadeloupe,1269,16,336
 안도라,安道尔,Andorra,1199,53,909
 Niger,,Niger,1176,69,1088
 Lesotho,,Lesotho,1085,31,528
@@ -161,7 +161,7 @@ Belize,,Belize,1050,13,213
 Chad,,Chad,1017,77,904
 Myanmar,,Myanmar,995,6,358
 Sao Tome and Principe,,Sao Tome and Principe,896,15,855
-Martinique,,Martinique,747,18,98
+Martinique,,Martinique,754,18,98
 산마리노,圣马力诺,San Marino,735,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,631,48,575

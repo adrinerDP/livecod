@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6289914,
-        "deaths": 189925,
-        "recovered": 3538290
+        "confirmed": 6290425,
+        "deaths": 189941,
+        "recovered": 3542809
     },
     {
         "Name": "브라질",
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 47756,
-        "deaths": 391,
-        "recovered": 39027
+        "confirmed": 48883,
+        "deaths": 398,
+        "recovered": 39912
     },
     {
         "Name": "알제리",
@@ -845,7 +845,7 @@
         "Name_en": "Equatorial Guinea",
         "confirmed": 4965,
         "deaths": 83,
-        "recovered": 3884
+        "recovered": 4390
     },
     {
         "Name": "홍콩",
@@ -878,6 +878,14 @@
         "confirmed": 4668,
         "deaths": 94,
         "recovered": 3585
+    },
+    {
+        "Name": "Congo",
+        "Name_ch": "",
+        "Name_en": "Congo",
+        "confirmed": 4628,
+        "deaths": 102,
+        "recovered": 1742
     },
     {
         "Name": "Rwanda",
@@ -934,14 +942,6 @@
         "confirmed": 4042,
         "deaths": 33,
         "recovered": 2523
-    },
-    {
-        "Name": "Congo",
-        "Name_ch": "",
-        "Name_en": "Congo",
-        "confirmed": 3979,
-        "deaths": 78,
-        "recovered": 1742
     },
     {
         "Name": "태국",
@@ -1059,9 +1059,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 2276,
+        "confirmed": 2337,
         "deaths": 50,
-        "recovered": 801
+        "recovered": 849
     },
     {
         "Name": "Aruba",
@@ -1216,20 +1216,20 @@
         "recovered": 1075
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 1363,
+        "deaths": 18,
+        "recovered": 336
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "confirmed": 1305,
         "deaths": 82,
         "recovered": 1162
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 1269,
-        "deaths": 16,
-        "recovered": 336
     },
     {
         "Name": "안도라",
@@ -1299,7 +1299,7 @@
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
-        "confirmed": 747,
+        "confirmed": 754,
         "deaths": 18,
         "recovered": 98
     },
