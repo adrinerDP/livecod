@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6291627,
+        "confirmed": 6291776,
         "deaths": 190014,
         "recovered": 3547926
     },
@@ -115,9 +115,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 317486,
-        "deaths": 3956,
-        "recovered": 292510
+        "confirmed": 318319,
+        "deaths": 3982,
+        "recovered": 293964
     },
     {
         "Name": "파키스탄",
@@ -475,9 +475,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 42540,
-        "deaths": 329,
-        "recovered": 39883
+        "confirmed": 42688,
+        "deaths": 331,
+        "recovered": 40081
     },
     {
         "Name": "아프가니스탄",
@@ -571,9 +571,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 20517,
-        "deaths": 627,
-        "recovered": 13626
+        "confirmed": 20804,
+        "deaths": 636,
+        "recovered": 14120
     },
     {
         "Name": "카메룬",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14600,
+        "confirmed": 14762,
         "deaths": 606,
-        "recovered": 11741
+        "recovered": 11956
     },
     {
         "Name": "세네갈",
@@ -739,9 +739,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8654,
+        "confirmed": 8690,
         "deaths": 69,
-        "recovered": 7447
+        "recovered": 7482
     },
     {
         "Name": "Gabon",
@@ -1099,9 +1099,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2121,
+        "confirmed": 2128,
         "deaths": 10,
-        "recovered": 2016
+        "recovered": 2023
     },
     {
         "Name": "Sierra Leone",

@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6291627,190014,3547926
+미국,美国,United States,6291776,190014,3547926
 브라질,巴西,Brazil,4001422,123899,3210405
 인도,印度,India,3853406,67486,2970492
 러시아,俄罗斯,Russia,1009995,17528,826935
@@ -13,7 +13,7 @@ Argentina,,Argentina,439172,9155,322461
 이란,伊朗,Iran,380746,21926,328595
 영국,英国,UK,338676,41514,0
 Bangladesh,,Bangladesh,319686,4383,213980
-사우디아라비아,沙特阿拉伯,Saudi Arabia,317486,3956,292510
+사우디아라비아,沙特阿拉伯,Saudi Arabia,318319,3982,293964
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 프랑스,法国,France,293024,30686,86963
 터키,土耳其,Turkey,273301,6462,246876
@@ -58,7 +58,7 @@ Kyrgyzstan,,Kyrgyzstan,44135,1059,39174
 코스타리카,哥斯达黎加,Costa Rica,43305,453,16512
 스위스,瑞士,Switzerland,43127,2012,36500
 네팔,尼泊尔,Nepal,42877,257,24207
-Uzbekistan,,Uzbekistan,42540,329,39883
+Uzbekistan,,Uzbekistan,42688,331,40081
 아프가니스탄,阿富汗,Afghanistan,38288,1409,29390
 Moldova,,Moldova,37740,1024,26189
 아제르바이잔,阿塞拜疆,Azerbaijan,36732,538,34116
@@ -70,7 +70,7 @@ Kenya,,Kenya,34493,581,20211
 El Salvador,,El Salvador,26000,739,15119
 체코,捷克,Czechia,25773,425,18326
 팔레스타인,巴勒斯坦,Palestine,24471,167,16095
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20517,627,13626
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20804,636,14120
 카메룬,喀麦隆,Cameroon,19460,415,17651
 Paraguay,,Paraguay,19138,358,9981
 레바논,黎巴嫩,Lebanon,18375,177,5195
@@ -79,7 +79,7 @@ Ivory Coast,,Ivory Coast,18161,117,16933
 Bulgaria,,Bulgaria,16617,648,11760
 Libya,,Libya,15773,254,1856
 Madagascar,,Madagascar,15106,197,14031
-North Macedonia,,North Macedonia,14600,606,11741
+North Macedonia,,North Macedonia,14762,606,11956
 세네갈,塞内加尔,Senegal,13826,287,9553
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12415,292,11494
@@ -91,7 +91,7 @@ Albania,,Albania,9728,296,5582
 Guinea,,Guinea,9479,59,8527
 말레이시아,马来西亚,Malaysia,9374,128,9083
 French Guiana,,French Guiana,9209,61,8739
-Tajikistan,,Tajikistan,8654,69,7447
+Tajikistan,,Tajikistan,8690,69,7482
 Gabon,,Gabon,8538,53,7335
 Haiti,,Haiti,8258,206,5870
 핀란드,芬兰,Finland,8200,336,7350
@@ -136,7 +136,7 @@ Aruba,,Aruba,2211,12,934
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
 요르단,约旦,Jordan,2161,15,1610
-Iceland,,Iceland,2121,10,2016
+Iceland,,Iceland,2128,10,2023
 Sierra Leone,,Sierra Leone,2029,71,1600
 Yemen,,Yemen,1976,571,1175
 Malta,,Malta,1965,13,1528
