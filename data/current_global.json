@@ -548,8 +548,8 @@
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 25904,
-        "deaths": 731,
-        "recovered": 14879
+        "deaths": 739,
+        "recovered": 14904
     },
     {
         "Name": "체코",
@@ -1264,6 +1264,14 @@
         "recovered": 528
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1058,
+        "deaths": 6,
+        "recovered": 359
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
@@ -1278,14 +1286,6 @@
         "confirmed": 1017,
         "deaths": 77,
         "recovered": 904
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 995,
-        "deaths": 6,
-        "recovered": 358
     },
     {
         "Name": "Sao Tome and Principe",
