@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6291032,
-        "deaths": 189991,
-        "recovered": 3547446
+        "confirmed": 6291541,
+        "deaths": 190014,
+        "recovered": 3547926
     },
     {
         "Name": "브라질",
@@ -627,9 +627,9 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 15156,
-        "deaths": 250,
-        "recovered": 1746
+        "confirmed": 15773,
+        "deaths": 254,
+        "recovered": 1856
     },
     {
         "Name": "Madagascar",
