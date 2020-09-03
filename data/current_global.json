@@ -432,20 +432,20 @@
         "recovered": 43478
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 44271,
+        "deaths": 887,
+        "recovered": 38855
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
         "confirmed": 44135,
         "deaths": 1059,
         "recovered": 39174
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 44075,
-        "deaths": 884,
-        "recovered": 38631
     },
     {
         "Name": "코스타리카",
@@ -792,6 +792,14 @@
         "recovered": 6548
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 6923,
+        "deaths": 620,
+        "recovered": 3930
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
@@ -806,14 +814,6 @@
         "confirmed": 6638,
         "deaths": 206,
         "recovered": 5250
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 6622,
-        "deaths": 619,
-        "recovered": 3903
     },
     {
         "Name": "Malawi",
@@ -1171,9 +1171,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 1548,
+        "confirmed": 1568,
         "deaths": 19,
-        "recovered": 1270
+        "recovered": 1279
     },
     {
         "Name": "Cyprus",
@@ -1195,9 +1195,9 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1406,
+        "confirmed": 1410,
         "deaths": 34,
-        "recovered": 1173
+        "recovered": 1187
     },
     {
         "Name": "Guyana",
