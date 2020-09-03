@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6303288,
-        "deaths": 190314,
-        "recovered": 3548923
+        "confirmed": 6305246,
+        "deaths": 190321,
+        "recovered": 3549773
     },
     {
         "Name": "브라질",
@@ -203,9 +203,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 122779,
-        "deaths": 976,
-        "recovered": 97885
+        "confirmed": 123903,
+        "deaths": 985,
+        "recovered": 98637
     },
     {
         "Name": "카타르",
@@ -384,20 +384,20 @@
         "recovered": 56028
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 55213,
+        "deaths": 856,
+        "recovered": 20283
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 54463,
         "deaths": 1027,
         "recovered": 42439
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 54409,
-        "deaths": 846,
-        "recovered": 19903
     },
     {
         "Name": "바레인",
@@ -595,8 +595,8 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 18375,
-        "deaths": 177,
+        "confirmed": 18963,
+        "deaths": 179,
         "recovered": 5195
     },
     {
@@ -731,7 +731,7 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9209,
+        "confirmed": 9251,
         "deaths": 61,
         "recovered": 8739
     },
@@ -1043,7 +1043,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2532,
+        "confirmed": 2533,
         "deaths": 47,
         "recovered": 1290
     },
