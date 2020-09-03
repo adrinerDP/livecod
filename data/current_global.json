@@ -584,20 +584,20 @@
         "recovered": 17651
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 19138,
+        "deaths": 358,
+        "recovered": 9981
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
         "confirmed": 18375,
         "deaths": 177,
         "recovered": 5195
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 18338,
-        "deaths": 348,
-        "recovered": 9721
     },
     {
         "Name": "Ivory Coast",
@@ -1448,20 +1448,20 @@
         "recovered": 266
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 239,
+        "deaths": 6,
+        "recovered": 79
+    },
+    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
         "confirmed": 227,
         "deaths": 0,
         "recovered": 142
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "confirmed": 213,
-        "deaths": 5,
-        "recovered": 79
     },
     {
         "Name": "Cayman Islands",
@@ -1477,7 +1477,7 @@
         "Name_en": "Barbados",
         "confirmed": 176,
         "deaths": 7,
-        "recovered": 146
+        "recovered": 149
     },
     {
         "Name": "Bermuda",
