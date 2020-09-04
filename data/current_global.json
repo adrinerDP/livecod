@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6338124,
-        "deaths": 191144,
+        "confirmed": 6339403,
+        "deaths": 191192,
         "recovered": 3575866
     },
     {
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 34705,
-        "deaths": 585,
-        "recovered": 20644
+        "confirmed": 34884,
+        "deaths": 589,
+        "recovered": 21059
     },
     {
         "Name": "세르비아",
@@ -680,20 +680,20 @@
         "recovered": 8530
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 11200,
+        "deaths": 279,
+        "recovered": 3804
+    },
+    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "confirmed": 11160,
         "deaths": 264,
         "recovered": 9348
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 10998,
-        "deaths": 278,
-        "recovered": 3804
     },
     {
         "Name": "DRC",
@@ -707,9 +707,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 9844,
-        "deaths": 301,
-        "recovered": 5732
+        "confirmed": 9967,
+        "deaths": 306,
+        "recovered": 5882
     },
     {
         "Name": "Guinea",
