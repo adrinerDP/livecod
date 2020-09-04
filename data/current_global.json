@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 297014,
-        "deaths": 6328,
-        "recovered": 281925
+        "confirmed": 297512,
+        "deaths": 6335,
+        "recovered": 282268
     },
     {
         "Name": "터키",
@@ -1339,8 +1339,8 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 555,
-        "deaths": 4,
+        "confirmed": 577,
+        "deaths": 5,
         "recovered": 220
     },
     {
@@ -1531,7 +1531,7 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 75,
+        "confirmed": 78,
         "deaths": 1,
         "recovered": 39
     },
