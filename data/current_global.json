@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6385285,
-        "deaths": 192011,
-        "recovered": 3629344
+        "confirmed": 6385720,
+        "deaths": 192029,
+        "recovered": 3629697
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4091801,
-        "deaths": 125502,
+        "deaths": 125584,
         "recovered": 3278243
     },
     {
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 94914,
-        "deaths": 2046,
-        "recovered": 68198
+        "confirmed": 95596,
+        "deaths": 2063,
+        "recovered": 68742
     },
     {
         "Name": "루마니아",
@@ -539,9 +539,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 26943,
+        "confirmed": 27249,
         "deaths": 429,
-        "recovered": 18985
+        "recovered": 19027
     },
     {
         "Name": "호주",
@@ -747,9 +747,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8538,
+        "confirmed": 8601,
         "deaths": 53,
-        "recovered": 7335
+        "recovered": 7424
     },
     {
         "Name": "Maldives",
@@ -869,7 +869,7 @@
         "Name_en": "CAR",
         "confirmed": 4729,
         "deaths": 62,
-        "recovered": 1807
+        "recovered": 1818
     },
     {
         "Name": "Nicaragua",
@@ -891,9 +891,9 @@
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "confirmed": 4394,
-        "deaths": 84,
-        "recovered": 1681
+        "confirmed": 4542,
+        "deaths": 87,
+        "recovered": 1699
     },
     {
         "Name": "Rwanda",
@@ -931,9 +931,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4215,
-        "deaths": 73,
-        "recovered": 3318
+        "confirmed": 4252,
+        "deaths": 75,
+        "recovered": 3366
     },
     {
         "Name": "Cabo Verde",
