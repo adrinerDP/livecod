@@ -404,7 +404,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 53433,
-        "deaths": 190,
+        "deaths": 192,
         "recovered": 50013
     },
     {
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8200,
+        "confirmed": 8225,
         "deaths": 336,
         "recovered": 7350
     },
@@ -995,9 +995,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 3032,
+        "confirmed": 3079,
         "deaths": 134,
-        "recovered": 2402
+        "recovered": 2440
     },
     {
         "Name": "Lithuania",
