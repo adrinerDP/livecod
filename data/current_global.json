@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6336000,
+        "confirmed": 6336138,
         "deaths": 191114,
         "recovered": 3575823
     },
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3940131,
-        "deaths": 68598,
-        "recovered": 3037151
+        "confirmed": 3948247,
+        "deaths": 68682,
+        "recovered": 3043588
     },
     {
         "Name": "러시아",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 451198,
-        "deaths": 9361,
-        "recovered": 322461
+        "deaths": 9468,
+        "recovered": 331621
     },
     {
         "Name": "칠레",
@@ -152,20 +152,20 @@
         "recovered": 208490
     },
     {
+        "Name": "이라크",
+        "Name_ch": "伊拉克",
+        "Name_en": "Iraq",
+        "confirmed": 252075,
+        "deaths": 7359,
+        "recovered": 191368
+    },
+    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
         "confirmed": 249063,
         "deaths": 9399,
         "recovered": 224600
-    },
-    {
-        "Name": "이라크",
-        "Name_ch": "伊拉克",
-        "Name_en": "Iraq",
-        "confirmed": 247039,
-        "deaths": 7275,
-        "recovered": 187757
     },
     {
         "Name": "필리핀",
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 59051,
-        "deaths": 1829,
-        "recovered": 42427
+        "confirmed": 59457,
+        "deaths": 1833,
+        "recovered": 42576
     },
     {
         "Name": "싱가포르",
@@ -475,9 +475,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 42903,
-        "deaths": 336,
-        "recovered": 40176
+        "confirmed": 42998,
+        "deaths": 338,
+        "recovered": 40392
     },
     {
         "Name": "Moldova",
@@ -515,9 +515,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31676,
-        "deaths": 718,
-        "recovered": 30188
+        "confirmed": 31772,
+        "deaths": 721,
+        "recovered": 30387
     },
     {
         "Name": "아일랜드",
