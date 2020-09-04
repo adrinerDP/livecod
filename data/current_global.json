@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6374823,
-        "deaths": 191771,
-        "recovered": 3615137
+        "confirmed": 6379827,
+        "deaths": 191811,
+        "recovered": 3616670
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4054474,
-        "deaths": 124922,
+        "confirmed": 4091801,
+        "deaths": 125502,
         "recovered": 3247610
     },
     {
@@ -603,9 +603,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18208,
+        "confirmed": 18269,
         "deaths": 119,
-        "recovered": 17045
+        "recovered": 17162
     },
     {
         "Name": "덴마크",
@@ -715,9 +715,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 9579,
+        "confirmed": 9649,
         "deaths": 61,
-        "recovered": 8726
+        "recovered": 8832
     },
     {
         "Name": "말레이시아",
@@ -795,9 +795,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7106,
+        "confirmed": 7126,
         "deaths": 160,
-        "recovered": 6588
+        "recovered": 6623
     },
     {
         "Name": "룩셈부르크",
@@ -896,6 +896,14 @@
         "recovered": 1681
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4304,
+        "deaths": 18,
+        "recovered": 2191
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
@@ -920,14 +928,6 @@
         "recovered": 2511
     },
     {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4255,
-        "deaths": 18,
-        "recovered": 2163
-    },
-    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
@@ -939,9 +939,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 4125,
+        "confirmed": 4200,
         "deaths": 41,
-        "recovered": 3502
+        "recovered": 3562
     },
     {
         "Name": "태국",
@@ -1035,9 +1035,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2807,
+        "confirmed": 2814,
         "deaths": 126,
-        "recovered": 2203
+        "recovered": 2220
     },
     {
         "Name": "South Sudan",
@@ -1187,9 +1187,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1443,
+        "confirmed": 1457,
         "deaths": 31,
-        "recovered": 1071
+        "recovered": 1079
     },
     {
         "Name": "라트비아",
