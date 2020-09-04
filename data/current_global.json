@@ -19,7 +19,7 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 3948247,
+        "confirmed": 3948594,
         "deaths": 68682,
         "recovered": 3043588
     },
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14762,
-        "deaths": 606,
-        "recovered": 11965
+        "confirmed": 14871,
+        "deaths": 609,
+        "recovered": 12054
     },
     {
         "Name": "세네갈",
@@ -739,9 +739,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8690,
+        "confirmed": 8724,
         "deaths": 69,
-        "recovered": 7482
+        "recovered": 7515
     },
     {
         "Name": "Gabon",
@@ -750,6 +750,14 @@
         "confirmed": 8538,
         "deaths": 53,
         "recovered": 7335
+    },
+    {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 8323,
+        "deaths": 87,
+        "recovered": 3611
     },
     {
         "Name": "Haiti",
@@ -774,14 +782,6 @@
         "confirmed": 8225,
         "deaths": 336,
         "recovered": 7350
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 8082,
-        "deaths": 86,
-        "recovered": 3483
     },
     {
         "Name": "헝가리",
@@ -1076,7 +1076,7 @@
         "Name_ch": "约旦",
         "Name_en": "Jordan",
         "confirmed": 2233,
-        "deaths": 15,
+        "deaths": 16,
         "recovered": 1648
     },
     {

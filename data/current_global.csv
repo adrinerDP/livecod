@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6336138,191114,3575823
 브라질,巴西,Brazil,4046150,124729,3247610
-인도,印度,India,3948247,68682,3043588
+인도,印度,India,3948594,68682,3043588
 러시아,俄罗斯,Russia,1015105,17649,832747
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
@@ -79,7 +79,7 @@ Ivory Coast,,Ivory Coast,18208,119,17045
 Bulgaria,,Bulgaria,16775,658,11935
 Libya,,Libya,16445,262,1910
 Madagascar,,Madagascar,15187,198,14075
-North Macedonia,,North Macedonia,14762,606,11965
+North Macedonia,,North Macedonia,14871,609,12054
 세네갈,塞内加尔,Senegal,13881,289,9723
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12523,292,11562
@@ -91,12 +91,12 @@ Albania,,Albania,9844,301,5732
 Guinea,,Guinea,9579,61,8726
 말레이시아,马来西亚,Malaysia,9385,128,9092
 French Guiana,,French Guiana,9251,61,8772
-Tajikistan,,Tajikistan,8690,69,7482
+Tajikistan,,Tajikistan,8724,69,7515
 Gabon,,Gabon,8538,53,7335
+Namibia,,Namibia,8323,87,3611
 Haiti,,Haiti,8301,210,5870
 Maldives,,Maldives,8281,29,5483
 핀란드,芬兰,Finland,8225,336,7350
-Namibia,,Namibia,8082,86,3483
 헝가리,匈牙利,Hungary,7382,621,3944
 Mauritania,,Mauritania,7106,160,6588
 룩셈부르크,卢森堡,Luxembourg,6811,124,0
@@ -133,7 +133,7 @@ South Sudan,,South Sudan,2533,47,1290
 에스토니아,爱沙尼亚,Estonia,2456,64,2157
 Bahamas,,Bahamas,2386,50,893
 Aruba,,Aruba,2292,13,1031
-요르단,约旦,Jordan,2233,15,1648
+요르단,约旦,Jordan,2233,16,1648
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2135,10,2029
