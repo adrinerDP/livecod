@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6334530,
-        "deaths": 191024,
-        "recovered": 3572656
+        "confirmed": 6335034,
+        "deaths": 191058,
+        "recovered": 3572913
     },
     {
         "Name": "브라질",
@@ -21,7 +21,7 @@
         "Name_en": "India",
         "confirmed": 3933124,
         "deaths": 68569,
-        "recovered": 3032916
+        "recovered": 3034887
     },
     {
         "Name": "러시아",
@@ -157,7 +157,7 @@
         "Name_en": "Germany",
         "confirmed": 248814,
         "deaths": 9399,
-        "recovered": 223100
+        "recovered": 224600
     },
     {
         "Name": "이라크",
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 48883,
-        "deaths": 398,
-        "recovered": 39912
+        "confirmed": 49877,
+        "deaths": 402,
+        "recovered": 40574
     },
     {
         "Name": "알제리",
@@ -1059,9 +1059,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 2337,
+        "confirmed": 2386,
         "deaths": 50,
-        "recovered": 849
+        "recovered": 893
     },
     {
         "Name": "Aruba",
@@ -1355,7 +1355,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 495,
+        "confirmed": 504,
         "deaths": 19,
         "recovered": 302
     },
@@ -1576,6 +1576,14 @@
         "recovered": 25
     },
     {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
+        "confirmed": 26,
+        "deaths": 0,
+        "recovered": 23
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
@@ -1590,14 +1598,6 @@
         "confirmed": 24,
         "deaths": 0,
         "recovered": 24
-    },
-    {
-        "Name": "New Caledonia",
-        "Name_ch": "",
-        "Name_en": "New Caledonia",
-        "confirmed": 23,
-        "deaths": 0,
-        "recovered": 23
     },
     {
         "Name": "Laos",

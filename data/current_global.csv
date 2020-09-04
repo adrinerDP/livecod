@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6334530,191024,3572656
+미국,美国,United States,6335034,191058,3572913
 브라질,巴西,Brazil,4046150,124729,3247610
-인도,印度,India,3933124,68569,3032916
+인도,印度,India,3933124,68569,3034887
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,319686,4383,213980
 파키스탄,巴基斯坦,Pakistan,297014,6328,281925
 터키,土耳其,Turkey,274943,6511,248087
 이탈리아,义大利,Italy,272912,35507,208490
-독일,德国,Germany,248814,9399,223100
+독일,德国,Germany,248814,9399,224600
 이라크,伊拉克,Iraq,247039,7275,187757
 필리핀,菲律宾,Philippines,228403,3688,159475
 인도네시아,印度尼西亚,Indonesia,184268,7750,132055
@@ -50,7 +50,7 @@ Honduras,,Honduras,62526,1924,11147
 Ethiopia,,Ethiopia,55213,856,20283
 나이지리아,尼日利亚,Nigeria,54588,1048,42627
 바레인,巴林,Bahrain,53433,190,50013
-Venezuela,,Venezuela,48883,398,39912
+Venezuela,,Venezuela,49877,402,40574
 알제리,阿尔及利亚,Algeria,45469,1529,32006
 Ghana,,Ghana,44713,280,43577
 코스타리카,哥斯达黎加,Costa Rica,44458,460,17855
@@ -131,7 +131,7 @@ Mali,,Mali,2807,126,2203
 Angola,,Angola,2805,113,1144
 South Sudan,,South Sudan,2533,47,1290
 에스토니아,爱沙尼亚,Estonia,2441,64,2150
-Bahamas,,Bahamas,2337,50,849
+Bahamas,,Bahamas,2386,50,893
 Aruba,,Aruba,2292,13,1031
 요르단,约旦,Jordan,2233,15,1648
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
@@ -168,7 +168,7 @@ Channel Islands,,Channel Islands,631,48,575
 French Polynesia,,French Polynesia,622,0,336
 Turks and Caicos,,Turks and Caicos,555,4,220
 Tanzania,,Tanzania,509,21,183
-Sint Maarten,,Sint Maarten,495,19,302
+Sint Maarten,,Sint Maarten,504,19,302
 대만,台湾,Taiwan,489,7,471
 Papua New Guinea,,Papua New Guinea,471,5,232
 Comoros,,Comoros,448,7,410
@@ -196,9 +196,9 @@ British Virgin Islands,,British Virgin Islands,47,1,8
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,29,2,23
 Timor-Leste,,Timor-Leste,27,0,25
+New Caledonia,,New Caledonia,26,0,23
 Saint Lucia,,Saint Lucia,26,0,26
 Grenada,,Grenada,24,0,24
-New Caledonia,,New Caledonia,23,0,23
 Laos,,Laos,22,0,21
 Dominica,,Dominica,20,0,18
 Caribbean Netherlands,,Caribbean Netherlands,18,0,7
