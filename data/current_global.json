@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6383533,
-        "deaths": 191936,
-        "recovered": 3627989
+        "confirmed": 6385285,
+        "deaths": 192011,
+        "recovered": 3629344
     },
     {
         "Name": "브라질",
@@ -403,9 +403,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 53433,
+        "confirmed": 54095,
         "deaths": 195,
-        "recovered": 50013
+        "recovered": 50323
     },
     {
         "Name": "Venezuela",
@@ -835,9 +835,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 5165,
-        "deaths": 104,
-        "recovered": 4164
+        "confirmed": 5275,
+        "deaths": 106,
+        "recovered": 4203
     },
     {
         "Name": "Equatorial Guinea",
@@ -1115,8 +1115,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 2030,
-        "deaths": 30,
+        "confirmed": 2040,
+        "deaths": 31,
         "recovered": 707
     },
     {
@@ -1163,9 +1163,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1636,
-        "deaths": 44,
-        "recovered": 1437
+        "confirmed": 1653,
+        "deaths": 45,
+        "recovered": 1446
     },
     {
         "Name": "조지아",
