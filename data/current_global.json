@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 184268,
-        "deaths": 7750,
-        "recovered": 132055
+        "confirmed": 187537,
+        "deaths": 7832,
+        "recovered": 134181
     },
     {
         "Name": "Ukraine",
@@ -336,20 +336,20 @@
         "recovered": 62668
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 69820,
+        "deaths": 2100,
+        "recovered": 49820
+    },
+    {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
         "confirmed": 69599,
         "deaths": 1319,
         "recovered": 59524
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 69129,
-        "deaths": 2092,
-        "recovered": 49820
     },
     {
         "Name": "모로코",
@@ -723,9 +723,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9374,
+        "confirmed": 9385,
         "deaths": 128,
-        "recovered": 9083
+        "recovered": 9092
     },
     {
         "Name": "French Guiana",
@@ -851,9 +851,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4839,
+        "confirmed": 4851,
         "deaths": 94,
-        "recovered": 4431
+        "recovered": 4456
     },
     {
         "Name": "CAR",
@@ -981,7 +981,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3111,
         "deaths": 12,
-        "recovered": 2889
+        "recovered": 2907
     },
     {
         "Name": "Gambia",
@@ -1693,7 +1693,7 @@
         "Name_en": "Saint Pierre Miquelon",
         "confirmed": 5,
         "deaths": 0,
-        "recovered": 4
+        "recovered": 5
     },
     {
         "Name": "Anguilla",
