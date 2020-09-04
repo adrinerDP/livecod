@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6335653,191060,3575495
+미국,美国,United States,6336000,191114,3575823
 브라질,巴西,Brazil,4046150,124729,3247610
 인도,印度,India,3940131,68598,3037151
 러시아,俄罗斯,Russia,1015105,17649,832747
@@ -13,7 +13,7 @@ Argentina,,Argentina,451198,9361,322461
 이란,伊朗,Iran,382772,22044,330308
 영국,英国,UK,340411,41527,0
 Bangladesh,,Bangladesh,321615,4412,216191
-사우디아라비아,沙特阿拉伯,Saudi Arabia,318319,3982,293964
+사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
 프랑스,法国,France,300181,30706,87206
 파키스탄,巴基斯坦,Pakistan,297512,6335,282268
 터키,土耳其,Turkey,274943,6511,248087
@@ -33,14 +33,14 @@ Kazakhstan,,Kazakhstan,106121,1588,98585
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
 Panama,,Panama,94914,2046,68198
 루마니아,尼亚,Romania,92595,3812,39626
-쿠웨이트,科威特,Kuwait,87378,536,78791
+쿠웨이트,科威特,Kuwait,88243,537,79417
 벨기에,比利时,Belgium,86544,9899,18513
 오만,阿曼,Oman,86380,705,81828
-스웨덴,瑞典语,Sweden,84729,5832,0
+스웨덴,瑞典语,Sweden,84985,5835,0
 Guatemala,,Guatemala,76358,2804,64399
+네덜란드,荷兰,Netherlands,73208,6237,0
 아랍에미리트,阿拉伯联合酋长国,UAE,72766,387,63158
 벨라루스,白俄罗斯,Belarus,72485,701,71510
-네덜란드,荷兰,Netherlands,72464,6235,0
 폴란드,波兰,Poland,69820,2100,49820
 일본,日本,Japan,69599,1319,59524
 모로코,摩洛哥,Morocco,66855,1253,51223
@@ -136,7 +136,7 @@ Aruba,,Aruba,2292,13,1031
 요르단,约旦,Jordan,2233,15,1648
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
-Iceland,,Iceland,2128,10,2023
+Iceland,,Iceland,2135,10,2029
 Sierra Leone,,Sierra Leone,2035,71,1600
 Trinidad and Tobago,,Trinidad and Tobago,1984,29,700
 Malta,,Malta,1984,13,1565

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6335653,
-        "deaths": 191060,
-        "recovered": 3575495
+        "confirmed": 6336000,
+        "deaths": 191114,
+        "recovered": 3575823
     },
     {
         "Name": "브라질",
@@ -115,9 +115,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 318319,
-        "deaths": 3982,
-        "recovered": 293964
+        "confirmed": 319141,
+        "deaths": 4015,
+        "recovered": 295063
     },
     {
         "Name": "프랑스",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 87378,
-        "deaths": 536,
-        "recovered": 78791
+        "confirmed": 88243,
+        "deaths": 537,
+        "recovered": 79417
     },
     {
         "Name": "벨기에",
@@ -299,8 +299,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 84729,
-        "deaths": 5832,
+        "confirmed": 84985,
+        "deaths": 5835,
         "recovered": 0
     },
     {
@@ -310,6 +310,14 @@
         "confirmed": 76358,
         "deaths": 2804,
         "recovered": 64399
+    },
+    {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 73208,
+        "deaths": 6237,
+        "recovered": 0
     },
     {
         "Name": "아랍에미리트",
@@ -326,14 +334,6 @@
         "confirmed": 72485,
         "deaths": 701,
         "recovered": 71510
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 72464,
-        "deaths": 6235,
-        "recovered": 0
     },
     {
         "Name": "폴란드",
@@ -1099,9 +1099,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2128,
+        "confirmed": 2135,
         "deaths": 10,
-        "recovered": 2023
+        "recovered": 2029
     },
     {
         "Name": "Sierra Leone",
