@@ -555,9 +555,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 26000,
+        "confirmed": 26099,
         "deaths": 744,
-        "recovered": 15142
+        "recovered": 15347
     },
     {
         "Name": "팔레스타인",
@@ -784,20 +784,20 @@
         "recovered": 3483
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 7382,
+        "deaths": 621,
+        "recovered": 3944
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "confirmed": 7106,
         "deaths": 160,
         "recovered": 6588
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 6923,
-        "deaths": 620,
-        "recovered": 3930
     },
     {
         "Name": "룩셈부르크",
@@ -1051,9 +1051,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2441,
+        "confirmed": 2456,
         "deaths": 64,
-        "recovered": 2150
+        "recovered": 2157
     },
     {
         "Name": "Bahamas",
