@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6369981,191650,3587541
+미국,美国,United States,6372685,191750,3613369
 브라질,巴西,Brazil,4054474,124922,3247610
 인도,印度,India,4020239,69635,3104512
 러시아,俄罗斯,Russia,1015105,17649,832747
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
-남아프리카 공화국,南非共和国,South Africa,633015,14563,554887
+남아프리카 공화국,南非共和国,South Africa,635078,14678,557818
 멕시코,墨西哥,Mexico,616894,66329,430287
 스페인,西班牙,Spain,498989,29418,0
 Argentina,,Argentina,451198,9468,331621
@@ -48,7 +48,7 @@ Honduras,,Honduras,63158,1954,11618
 포르투갈,葡萄牙,Portugal,59457,1833,42576
 싱가포르,新加坡,Singapore,56948,27,56174
 Ethiopia,,Ethiopia,56516,880,20612
-나이지리아,尼日利亚,Nigeria,54588,1048,42627
+나이지리아,尼日利亚,Nigeria,54587,1048,42627
 바레인,巴林,Bahrain,53433,195,50013
 Venezuela,,Venezuela,49877,402,40574
 알제리,阿尔及利亚,Algeria,45773,1539,32259
@@ -99,8 +99,8 @@ Namibia,,Namibia,8323,87,3611
 핀란드,芬兰,Finland,8225,336,7350
 헝가리,匈牙利,Hungary,7382,621,3944
 Mauritania,,Mauritania,7106,160,6588
-룩셈부르크,卢森堡,Luxembourg,6811,124,0
-Zimbabwe,,Zimbabwe,6678,206,5263
+룩셈부르크,卢森堡,Luxembourg,6854,124,0
+Zimbabwe,,Zimbabwe,6837,206,5345
 Malawi,,Malawi,5593,175,3516
 Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5165,104,4164
@@ -159,7 +159,7 @@ Lesotho,,Lesotho,1148,31,528
 Belize,,Belize,1118,13,255
 Myanmar,,Myanmar,1111,6,359
 베트남,越南,Vietnam,1049,35,772
-Chad,,Chad,1018,77,908
+Chad,,Chad,1023,77,914
 Sao Tome and Principe,,Sao Tome and Principe,897,15,857
 Martinique,,Martinique,754,18,98
 산마리노,圣马力诺,San Marino,735,42,660

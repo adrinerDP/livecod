@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6369981,
-        "deaths": 191650,
-        "recovered": 3587541
+        "confirmed": 6372685,
+        "deaths": 191750,
+        "recovered": 3613369
     },
     {
         "Name": "브라질",
@@ -51,9 +51,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 633015,
-        "deaths": 14563,
-        "recovered": 554887
+        "confirmed": 635078,
+        "deaths": 14678,
+        "recovered": 557818
     },
     {
         "Name": "멕시코",
@@ -395,7 +395,7 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 54588,
+        "confirmed": 54587,
         "deaths": 1048,
         "recovered": 42627
     },
@@ -803,7 +803,7 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 6811,
+        "confirmed": 6854,
         "deaths": 124,
         "recovered": 0
     },
@@ -811,9 +811,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 6678,
+        "confirmed": 6837,
         "deaths": 206,
-        "recovered": 5263
+        "recovered": 5345
     },
     {
         "Name": "Malawi",
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1018,
+        "confirmed": 1023,
         "deaths": 77,
-        "recovered": 908
+        "recovered": 914
     },
     {
         "Name": "Sao Tome and Principe",
