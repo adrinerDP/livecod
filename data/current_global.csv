@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6335244,191058,3575096
+미국,美国,United States,6335653,191060,3575495
 브라질,巴西,Brazil,4046150,124729,3247610
-인도,印度,India,3936747,68569,3037151
+인도,印度,India,3940131,68598,3037151
 러시아,俄罗斯,Russia,1015105,17649,832747
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,488513,29234,0
 Argentina,,Argentina,451198,9361,322461
 칠레,智利,Chile,416501,11422,389409
-이란,伊朗,Iran,380746,21926,328595
+이란,伊朗,Iran,382772,22044,330308
 영국,英国,UK,340411,41527,0
 Bangladesh,,Bangladesh,321615,4412,216191
 사우디아라비아,沙特阿拉伯,Saudi Arabia,318319,3982,293964
@@ -32,15 +32,15 @@ Kazakhstan,,Kazakhstan,106121,1588,98585
 이집트,埃及,Egypt,99425,5479,75415
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
 Panama,,Panama,94914,2046,68198
-루마니아,尼亚,Romania,91256,3765,39275
+루마니아,尼亚,Romania,92595,3812,39626
 쿠웨이트,科威特,Kuwait,87378,536,78791
 벨기에,比利时,Belgium,86544,9899,18513
 오만,阿曼,Oman,86380,705,81828
 스웨덴,瑞典语,Sweden,84729,5832,0
 Guatemala,,Guatemala,76358,2804,64399
+아랍에미리트,阿拉伯联合酋长国,UAE,72766,387,63158
 네덜란드,荷兰,Netherlands,72464,6235,0
 벨라루스,白俄罗斯,Belarus,72302,696,71205
-아랍에미리트,阿拉伯联合酋长国,UAE,72154,387,62668
 폴란드,波兰,Poland,69820,2100,49820
 일본,日本,Japan,69599,1319,59524
 모로코,摩洛哥,Morocco,66855,1253,51223
@@ -56,7 +56,7 @@ Ghana,,Ghana,44713,280,43577
 아르메니아,亚美尼亚,Armenia,44461,891,39257
 코스타리카,哥斯达黎加,Costa Rica,44458,460,17855
 Kyrgyzstan,,Kyrgyzstan,44199,1060,39389
-스위스,瑞士,Switzerland,43127,2013,36500
+스위스,瑞士,Switzerland,43532,2013,36500
 Uzbekistan,,Uzbekistan,42903,336,40176
 네팔,尼泊尔,Nepal,42877,257,24207
 Moldova,,Moldova,38372,1036,27017
@@ -80,7 +80,7 @@ Bulgaria,,Bulgaria,16775,658,11935
 Libya,,Libya,15773,254,1856
 Madagascar,,Madagascar,15106,197,14031
 North Macedonia,,North Macedonia,14762,606,11965
-세네갈,塞内加尔,Senegal,13826,287,9553
+세네갈,塞内加尔,Senegal,13881,289,9723
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12523,292,11562
 크로아티아,克罗地亚,Croatia,11428,195,8530
@@ -142,7 +142,7 @@ Trinidad and Tobago,,Trinidad and Tobago,1984,29,700
 Yemen,,Yemen,1979,571,1180
 Malta,,Malta,1965,13,1528
 Réunion,,Réunion,1912,10,880
-New Zealand,,New Zealand,1764,22,1630
+New Zealand,,New Zealand,1764,23,1630
 Botswana,,Botswana,1724,6,493
 Uruguay,,Uruguay,1636,44,1437
 조지아,格鲁吉亚,Georgia,1596,19,1294
@@ -178,7 +178,7 @@ Mauritius,,Mauritius,356,10,335
 Isle of Man,,Isle of Man,336,24,312
 Eritrea,,Eritrea,330,0,295
 Mongolia,,Mongolia,310,0,296
-지브롤터,直布罗陀,Gibraltar,298,0,246
+지브롤터,直布罗陀,Gibraltar,305,0,248
 캄보디아,柬埔寨,Cambodia,274,0,272
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,227,0,150
