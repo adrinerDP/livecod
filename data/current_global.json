@@ -432,20 +432,20 @@
         "recovered": 43577
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 44461,
+        "deaths": 891,
+        "recovered": 39257
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 44458,
         "deaths": 460,
         "recovered": 17855
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 44271,
-        "deaths": 887,
-        "recovered": 38855
     },
     {
         "Name": "Kyrgyzstan",
