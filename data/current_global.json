@@ -155,7 +155,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 248814,
+        "confirmed": 249063,
         "deaths": 9399,
         "recovered": 224600
     },
@@ -448,6 +448,14 @@
         "recovered": 17855
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 44236,
+        "deaths": 271,
+        "recovered": 25561
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
@@ -470,14 +478,6 @@
         "confirmed": 42903,
         "deaths": 336,
         "recovered": 40176
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 42877,
-        "deaths": 257,
-        "recovered": 24207
     },
     {
         "Name": "Moldova",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15106,
-        "deaths": 197,
-        "recovered": 14031
+        "confirmed": 15187,
+        "deaths": 198,
+        "recovered": 14075
     },
     {
         "Name": "North Macedonia",
@@ -1120,20 +1120,20 @@
         "recovered": 700
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 1984,
+        "deaths": 13,
+        "recovered": 1565
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 1979,
         "deaths": 571,
         "recovered": 1180
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 1965,
-        "deaths": 13,
-        "recovered": 1528
     },
     {
         "Name": "Réunion",
@@ -1275,9 +1275,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1046,
+        "confirmed": 1049,
         "deaths": 35,
-        "recovered": 755
+        "recovered": 772
     },
     {
         "Name": "Chad",
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 489,
+        "confirmed": 490,
         "deaths": 7,
         "recovered": 471
     },

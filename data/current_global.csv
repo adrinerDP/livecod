@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,321615,4412,216191
 파키스탄,巴基斯坦,Pakistan,297512,6335,282268
 터키,土耳其,Turkey,274943,6511,248087
 이탈리아,义大利,Italy,272912,35507,208490
-독일,德国,Germany,248814,9399,224600
+독일,德国,Germany,249063,9399,224600
 이라크,伊拉克,Iraq,247039,7275,187757
 필리핀,菲律宾,Philippines,232072,3737,160549
 인도네시아,印度尼西亚,Indonesia,187537,7832,134181
@@ -55,10 +55,10 @@ Venezuela,,Venezuela,49877,402,40574
 Ghana,,Ghana,44713,280,43577
 아르메니아,亚美尼亚,Armenia,44461,891,39257
 코스타리카,哥斯达黎加,Costa Rica,44458,460,17855
+네팔,尼泊尔,Nepal,44236,271,25561
 Kyrgyzstan,,Kyrgyzstan,44199,1060,39389
 스위스,瑞士,Switzerland,43532,2013,36500
 Uzbekistan,,Uzbekistan,42903,336,40176
-네팔,尼泊尔,Nepal,42877,257,24207
 Moldova,,Moldova,38372,1036,27017
 아프가니스탄,阿富汗,Afghanistan,38288,1409,29390
 아제르바이잔,阿塞拜疆,Azerbaijan,36899,541,34264
@@ -78,7 +78,7 @@ Ivory Coast,,Ivory Coast,18208,119,17045
 덴마크,丹麦,Denmark,17374,626,15499
 Bulgaria,,Bulgaria,16775,658,11935
 Libya,,Libya,15773,254,1856
-Madagascar,,Madagascar,15106,197,14031
+Madagascar,,Madagascar,15187,198,14075
 North Macedonia,,North Macedonia,14762,606,11965
 세네갈,塞内加尔,Senegal,13881,289,9723
 Sudan,,Sudan,13189,823,6612
@@ -139,8 +139,8 @@ Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2128,10,2023
 Sierra Leone,,Sierra Leone,2035,71,1600
 Trinidad and Tobago,,Trinidad and Tobago,1984,29,700
+Malta,,Malta,1984,13,1565
 Yemen,,Yemen,1979,571,1180
-Malta,,Malta,1965,13,1528
 Réunion,,Réunion,1912,10,880
 New Zealand,,New Zealand,1764,23,1630
 Botswana,,Botswana,1724,6,493
@@ -158,7 +158,7 @@ Niger,,Niger,1177,69,1091
 Belize,,Belize,1118,13,255
 Myanmar,,Myanmar,1111,6,359
 Lesotho,,Lesotho,1085,31,528
-베트남,越南,Vietnam,1046,35,755
+베트남,越南,Vietnam,1049,35,772
 Chad,,Chad,1018,77,908
 Sao Tome and Principe,,Sao Tome and Principe,897,15,857
 Martinique,,Martinique,754,18,98
@@ -169,7 +169,7 @@ French Polynesia,,French Polynesia,622,0,336
 Turks and Caicos,,Turks and Caicos,577,5,220
 Tanzania,,Tanzania,509,21,183
 Sint Maarten,,Sint Maarten,504,19,302
-대만,台湾,Taiwan,489,7,471
+대만,台湾,Taiwan,490,7,471
 Papua New Guinea,,Papua New Guinea,471,5,232
 Comoros,,Comoros,448,7,410
 Burundi,,Burundi,448,1,357
