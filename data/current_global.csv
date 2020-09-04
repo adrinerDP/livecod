@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6381219,191830,3620662
-브라질,巴西,Brazil,4091801,125502,3247610
+미국,美国,United States,6383533,191936,3627989
+브라질,巴西,Brazil,4091801,125502,3278243
 인도,印度,India,4020239,69635,3104512
 러시아,俄罗斯,Russia,1015105,17649,832747
 페루,秘鲁,Peru,670145,29405,489886
-콜롬비아,哥伦比亚,Colombia,641574,20618,489151
+콜롬비아,哥伦比亚,Colombia,650062,20888,498221
 남아프리카 공화국,南非共和国,South Africa,635078,14678,557818
 멕시코,墨西哥,Mexico,616894,66329,430287
 스페인,西班牙,Spain,517133,29418,0
@@ -22,14 +22,14 @@ Bangladesh,,Bangladesh,321615,4412,216191
 독일,德国,Germany,250281,9401,224600
 필리핀,菲律宾,Philippines,232072,3737,160549
 인도네시아,印度尼西亚,Indonesia,187537,7832,134181
+캐나다,加拿大,Canada,131123,9141,115926
 Ukraine,,Ukraine,130951,2761,59676
-캐나다,加拿大,Canada,130825,9141,115669
 이스라엘,以色列,Israel,126419,993,100357
 카타르,卡塔尔,Qatar,119637,201,116538
 Bolivia,,Bolivia,118781,5288,65884
 에콰도르,厄瓜多尔,Ecuador,117175,6674,102200
 Kazakhstan,,Kazakhstan,106121,1588,98585
-이집트,埃及,Egypt,99425,5479,75415
+이집트,埃及,Egypt,99582,5495,76305
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
 Panama,,Panama,94914,2046,68198
 루마니아,尼亚,Romania,92595,3812,39626
@@ -37,18 +37,18 @@ Panama,,Panama,94914,2046,68198
 벨기에,比利时,Belgium,86544,9899,18513
 오만,阿曼,Oman,86380,705,81828
 스웨덴,瑞典语,Sweden,84985,5835,0
-Guatemala,,Guatemala,76358,2804,64399
+Guatemala,,Guatemala,77040,2825,65029
 네덜란드,荷兰,Netherlands,73208,6237,0
 아랍에미리트,阿拉伯联合酋长国,UAE,72766,387,63158
 벨라루스,白俄罗斯,Belarus,72485,701,71510
+일본,日本,Japan,70268,1330,60417
 폴란드,波兰,Poland,69820,2100,49820
-일본,日本,Japan,69599,1319,59524
 모로코,摩洛哥,Morocco,68605,1292,52483
 Honduras,,Honduras,63158,1954,11618
 포르투갈,葡萄牙,Portugal,59457,1833,42576
 싱가포르,新加坡,Singapore,56948,27,56174
 Ethiopia,,Ethiopia,56516,880,20612
-나이지리아,尼日利亚,Nigeria,54587,1048,42627
+나이지리아,尼日利亚,Nigeria,54743,1051,42816
 바레인,巴林,Bahrain,53433,195,50013
 Venezuela,,Venezuela,49877,402,40574
 알제리,阿尔及利亚,Algeria,45773,1539,32259
@@ -76,7 +76,7 @@ Paraguay,,Paraguay,19959,373,10251
 레바논,黎巴嫩,Lebanon,19490,183,5592
 Ivory Coast,,Ivory Coast,18269,119,17162
 덴마크,丹麦,Denmark,17547,627,15586
-Bulgaria,,Bulgaria,16775,658,11935
+Bulgaria,,Bulgaria,16954,665,12046
 Libya,,Libya,16445,262,1910
 Madagascar,,Madagascar,15187,198,14075
 North Macedonia,,North Macedonia,14871,609,12054
@@ -84,8 +84,8 @@ North Macedonia,,North Macedonia,14871,609,12054
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12639,292,11572
 크로아티아,克罗地亚,Croatia,11428,195,8530
+노르웨이,挪威,Norway,11231,264,9348
 그리스,希腊,Greece,11200,279,3804
-노르웨이,挪威,Norway,11160,264,9348
 DRC,,DRC,10149,259,9367
 Albania,,Albania,9967,306,5882
 Guinea,,Guinea,9649,61,8832
@@ -137,7 +137,7 @@ Aruba,,Aruba,2292,13,1031
 Guinea-Bissau,,Guinea-Bissau,2205,34,1127
 Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2135,10,2029
-Sierra Leone,,Sierra Leone,2035,71,1600
+Sierra Leone,,Sierra Leone,2041,71,1602
 Trinidad and Tobago,,Trinidad and Tobago,2030,30,707
 Réunion,,Réunion,2002,10,880
 Botswana,,Botswana,2002,8,493

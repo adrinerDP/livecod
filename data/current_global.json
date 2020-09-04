@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6381219,
-        "deaths": 191830,
-        "recovered": 3620662
+        "confirmed": 6383533,
+        "deaths": 191936,
+        "recovered": 3627989
     },
     {
         "Name": "브라질",
@@ -13,7 +13,7 @@
         "Name_en": "Brazil",
         "confirmed": 4091801,
         "deaths": 125502,
-        "recovered": 3247610
+        "recovered": 3278243
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 641574,
-        "deaths": 20618,
-        "recovered": 489151
+        "confirmed": 650062,
+        "deaths": 20888,
+        "recovered": 498221
     },
     {
         "Name": "남아프리카 공화국",
@@ -184,20 +184,20 @@
         "recovered": 134181
     },
     {
+        "Name": "캐나다",
+        "Name_ch": "加拿大",
+        "Name_en": "Canada",
+        "confirmed": 131123,
+        "deaths": 9141,
+        "recovered": 115926
+    },
+    {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
         "confirmed": 130951,
         "deaths": 2761,
         "recovered": 59676
-    },
-    {
-        "Name": "캐나다",
-        "Name_ch": "加拿大",
-        "Name_en": "Canada",
-        "confirmed": 130825,
-        "deaths": 9141,
-        "recovered": 115669
     },
     {
         "Name": "이스라엘",
@@ -243,9 +243,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 99425,
-        "deaths": 5479,
-        "recovered": 75415
+        "confirmed": 99582,
+        "deaths": 5495,
+        "recovered": 76305
     },
     {
         "Name": "도미니카 공화국",
@@ -307,9 +307,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 76358,
-        "deaths": 2804,
-        "recovered": 64399
+        "confirmed": 77040,
+        "deaths": 2825,
+        "recovered": 65029
     },
     {
         "Name": "네덜란드",
@@ -336,20 +336,20 @@
         "recovered": 71510
     },
     {
+        "Name": "일본",
+        "Name_ch": "日本",
+        "Name_en": "Japan",
+        "confirmed": 70268,
+        "deaths": 1330,
+        "recovered": 60417
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "confirmed": 69820,
         "deaths": 2100,
         "recovered": 49820
-    },
-    {
-        "Name": "일본",
-        "Name_ch": "日本",
-        "Name_en": "Japan",
-        "confirmed": 69599,
-        "deaths": 1319,
-        "recovered": 59524
     },
     {
         "Name": "모로코",
@@ -395,9 +395,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 54587,
-        "deaths": 1048,
-        "recovered": 42627
+        "confirmed": 54743,
+        "deaths": 1051,
+        "recovered": 42816
     },
     {
         "Name": "바레인",
@@ -619,9 +619,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 16775,
-        "deaths": 658,
-        "recovered": 11935
+        "confirmed": 16954,
+        "deaths": 665,
+        "recovered": 12046
     },
     {
         "Name": "Libya",
@@ -680,20 +680,20 @@
         "recovered": 8530
     },
     {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+        "confirmed": 11231,
+        "deaths": 264,
+        "recovered": 9348
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
         "confirmed": 11200,
         "deaths": 279,
         "recovered": 3804
-    },
-    {
-        "Name": "노르웨이",
-        "Name_ch": "挪威",
-        "Name_en": "Norway",
-        "confirmed": 11160,
-        "deaths": 264,
-        "recovered": 9348
     },
     {
         "Name": "DRC",
@@ -1107,9 +1107,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2035,
+        "confirmed": 2041,
         "deaths": 71,
-        "recovered": 1600
+        "recovered": 1602
     },
     {
         "Name": "Trinidad and Tobago",
