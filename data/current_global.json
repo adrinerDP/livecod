@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6372685,
-        "deaths": 191750,
-        "recovered": 3613369
+        "confirmed": 6374823,
+        "deaths": 191771,
+        "recovered": 3615137
     },
     {
         "Name": "브라질",
@@ -1000,20 +1000,20 @@
         "recovered": 2440
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 3041,
+        "deaths": 127,
+        "recovered": 698
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 3004,
         "deaths": 86,
         "recovered": 1920
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 2973,
-        "deaths": 124,
-        "recovered": 681
     },
     {
         "Name": "Jamaica",
