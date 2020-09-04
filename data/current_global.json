@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6351246,
-        "deaths": 191392,
+        "confirmed": 6352082,
+        "deaths": 191412,
         "recovered": 3583205
     },
     {
@@ -123,7 +123,7 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 300181,
+        "confirmed": 309156,
         "deaths": 30706,
         "recovered": 87206
     },
@@ -227,9 +227,9 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 116360,
-        "deaths": 6648,
-        "recovered": 102051
+        "confirmed": 117175,
+        "deaths": 6674,
+        "recovered": 102200
     },
     {
         "Name": "Kazakhstan",
@@ -1043,7 +1043,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2533,
+        "confirmed": 2536,
         "deaths": 47,
         "recovered": 1290
     },

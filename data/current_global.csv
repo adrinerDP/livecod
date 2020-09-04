@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6351246,191392,3583205
+미국,美国,United States,6352082,191412,3583205
 브라질,巴西,Brazil,4054474,124922,3247610
 인도,印度,India,4014744,69614,3101245
 러시아,俄罗斯,Russia,1015105,17649,832747
@@ -14,7 +14,7 @@ Argentina,,Argentina,451198,9468,331621
 영국,英国,UK,342351,41537,0
 Bangladesh,,Bangladesh,321615,4412,216191
 사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
-프랑스,法国,France,300181,30706,87206
+프랑스,法国,France,309156,30706,87206
 파키스탄,巴基斯坦,Pakistan,297512,6335,282268
 터키,土耳其,Turkey,276555,6564,249108
 이탈리아,义大利,Italy,274644,35518,209027
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,130951,2761,59676
 이스라엘,以色列,Israel,126419,993,100357
 카타르,卡塔尔,Qatar,119637,201,116538
 Bolivia,,Bolivia,118781,5288,65884
-에콰도르,厄瓜多尔,Ecuador,116360,6648,102051
+에콰도르,厄瓜多尔,Ecuador,117175,6674,102200
 Kazakhstan,,Kazakhstan,106121,1588,98585
 이집트,埃及,Egypt,99425,5479,75415
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
@@ -129,7 +129,7 @@ Syria,,Syria,2973,124,681
 Jamaica,,Jamaica,2896,29,921
 Mali,,Mali,2807,126,2203
 Angola,,Angola,2805,113,1144
-South Sudan,,South Sudan,2533,47,1290
+South Sudan,,South Sudan,2536,47,1290
 에스토니아,爱沙尼亚,Estonia,2456,64,2157
 Bahamas,,Bahamas,2386,50,893
 요르단,约旦,Jordan,2301,16,1676
