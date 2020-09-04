@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6366921,
-        "deaths": 191612,
-        "recovered": 3585143
+        "confirmed": 6369981,
+        "deaths": 191650,
+        "recovered": 3587541
     },
     {
         "Name": "브라질",
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 249569,
-        "deaths": 9400,
+        "confirmed": 250281,
+        "deaths": 9401,
         "recovered": 224600
     },
     {
@@ -1024,20 +1024,20 @@
         "recovered": 921
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 2876,
+        "deaths": 115,
+        "recovered": 1167
+    },
+    {
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
         "confirmed": 2807,
         "deaths": 126,
         "recovered": 2203
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 2805,
-        "deaths": 113,
-        "recovered": 1144
     },
     {
         "Name": "South Sudan",
