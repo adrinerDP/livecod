@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6335244,191058,3575096
 브라질,巴西,Brazil,4046150,124729,3247610
-인도,印度,India,3933124,68569,3034887
+인도,印度,India,3936747,68569,3037151
 러시아,俄罗斯,Russia,1009995,17528,826935
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
@@ -67,7 +67,7 @@ Kenya,,Kenya,34705,585,20644
 아일랜드,冰岛,Ireland,29206,1777,23364
 오스트리아,奥地利,Austria,28372,735,24171
 체코,捷克,Czechia,26452,426,18663
-호주,澳大利亚,Australia,26138,737,21914
+호주,澳大利亚,Australia,26136,737,21914
 El Salvador,,El Salvador,26000,739,15119
 팔레스타인,巴勒斯坦,Palestine,24471,167,16095
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,20804,636,14120
@@ -117,7 +117,7 @@ Cuba,,Cuba,4214,100,3474
 Mozambique,,Mozambique,4207,26,2370
 슬로바키아,斯洛伐克,Slovakia,4163,37,2617
 Cabo Verde,,Cabo Verde,4125,41,3502
-태국,泰国,Thailand,3427,58,3277
+태국,泰国,Thailand,3431,58,3277
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3310,98,2481
 Uganda,,Uganda,3288,33,1532
@@ -181,7 +181,7 @@ Mongolia,,Mongolia,310,0,296
 지브롤터,直布罗陀,Gibraltar,298,0,246
 캄보디아,柬埔寨,Cambodia,274,0,272
 Saint Martin,,Saint Martin,239,6,79
-부탄,不丹,Bhutan,227,0,144
+부탄,不丹,Bhutan,227,0,150
 Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,177,7,150
 Bermuda,,Bermuda,174,9,157
