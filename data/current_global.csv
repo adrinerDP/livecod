@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6379827,191811,3616670
+미국,美国,United States,6381219,191830,3620662
 브라질,巴西,Brazil,4091801,125502,3247610
 인도,印度,India,4020239,69635,3104512
 러시아,俄罗斯,Russia,1015105,17649,832747
@@ -7,14 +7,14 @@
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
 남아프리카 공화국,南非共和国,South Africa,635078,14678,557818
 멕시코,墨西哥,Mexico,616894,66329,430287
-스페인,西班牙,Spain,498989,29418,0
+스페인,西班牙,Spain,517133,29418,0
 Argentina,,Argentina,451198,9468,331621
 칠레,智利,Chile,418469,11494,391248
 이란,伊朗,Iran,382772,22044,330308
 영국,英国,UK,342351,41537,0
 Bangladesh,,Bangladesh,321615,4412,216191
 사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
-프랑스,法国,France,309156,30706,87206
+프랑스,法国,France,309156,30724,87206
 파키스탄,巴基斯坦,Pakistan,297512,6335,282268
 터키,土耳其,Turkey,276555,6564,249108
 이탈리아,义大利,Italy,274644,35518,209027
@@ -101,10 +101,10 @@ Namibia,,Namibia,8323,87,3611
 Mauritania,,Mauritania,7126,160,6623
 룩셈부르크,卢森堡,Luxembourg,6854,124,0
 Zimbabwe,,Zimbabwe,6837,206,5345
-Malawi,,Malawi,5593,175,3516
+Malawi,,Malawi,5608,175,3533
 Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5165,104,4164
-Equatorial Guinea,,Equatorial Guinea,4965,83,4390
+Equatorial Guinea,,Equatorial Guinea,4972,83,4413
 홍콩,香港,Hong Kong,4851,94,4456
 Eswatini,,Eswatini,4780,94,3844
 CAR,,CAR,4729,62,1807
