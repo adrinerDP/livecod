@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6336138,
-        "deaths": 191114,
-        "recovered": 3575823
+        "confirmed": 6337300,
+        "deaths": 191126,
+        "recovered": 3575866
     },
     {
         "Name": "브라질",
@@ -211,9 +211,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 119420,
+        "confirmed": 119637,
         "deaths": 201,
-        "recovered": 116313
+        "recovered": 116538
     },
     {
         "Name": "Bolivia",
@@ -491,17 +491,17 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38288,
+        "confirmed": 38304,
         "deaths": 1409,
-        "recovered": 29390
+        "recovered": 29713
     },
     {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 36899,
-        "deaths": 541,
-        "recovered": 34264
+        "confirmed": 37031,
+        "deaths": 543,
+        "recovered": 34419
     },
     {
         "Name": "Kenya",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12523,
+        "confirmed": 12639,
         "deaths": 292,
-        "recovered": 11562
+        "recovered": 11572
     },
     {
         "Name": "크로아티아",
@@ -972,7 +972,7 @@
         "Name_ch": "",
         "Name_en": "Somalia",
         "confirmed": 3310,
-        "deaths": 98,
+        "deaths": 97,
         "recovered": 2481
     },
     {
