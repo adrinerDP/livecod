@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106032,
+        "confirmed": 106121,
         "deaths": 1588,
-        "recovered": 97967
+        "recovered": 98585
     },
     {
         "Name": "이집트",
@@ -280,20 +280,20 @@
         "recovered": 78791
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 86544,
+        "deaths": 9899,
+        "recovered": 18513
+    },
+    {
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
         "confirmed": 86380,
         "deaths": 705,
         "recovered": 81828
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 85911,
-        "deaths": 9898,
-        "recovered": 18490
     },
     {
         "Name": "스웨덴",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 62526,
-        "deaths": 1924,
-        "recovered": 11147
+        "confirmed": 63158,
+        "deaths": 1954,
+        "recovered": 11618
     },
     {
         "Name": "포르투갈",
@@ -547,9 +547,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26049,
-        "deaths": 678,
-        "recovered": 21912
+        "confirmed": 26138,
+        "deaths": 737,
+        "recovered": 21914
     },
     {
         "Name": "El Salvador",
@@ -576,20 +576,20 @@
         "recovered": 14120
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 19959,
+        "deaths": 373,
+        "recovered": 10251
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 19604,
         "deaths": 415,
         "recovered": 18448
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 19138,
-        "deaths": 358,
-        "recovered": 9981
     },
     {
         "Name": "레바논",
@@ -1147,9 +1147,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1759,
+        "confirmed": 1764,
         "deaths": 22,
-        "recovered": 1622
+        "recovered": 1630
     },
     {
         "Name": "Botswana",
