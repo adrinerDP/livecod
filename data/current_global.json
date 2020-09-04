@@ -1248,20 +1248,20 @@
         "recovered": 1091
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1118,
+        "deaths": 13,
+        "recovered": 255
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "confirmed": 1111,
         "deaths": 6,
         "recovered": 359
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1101,
-        "deaths": 13,
-        "recovered": 240
     },
     {
         "Name": "Lesotho",
