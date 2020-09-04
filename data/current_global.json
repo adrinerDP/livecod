@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6361624,
-        "deaths": 191493,
-        "recovered": 3585137
+        "confirmed": 6366921,
+        "deaths": 191612,
+        "recovered": 3585143
     },
     {
         "Name": "브라질",
@@ -424,6 +424,14 @@
         "recovered": 32259
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 45680,
+        "deaths": 469,
+        "recovered": 18053
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -438,14 +446,6 @@
         "confirmed": 44461,
         "deaths": 891,
         "recovered": 39257
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 44458,
-        "deaths": 460,
-        "recovered": 17855
     },
     {
         "Name": "네팔",
