@@ -501,7 +501,7 @@
         "Name_en": "Azerbaijan",
         "confirmed": 36899,
         "deaths": 541,
-        "recovered": 34116
+        "recovered": 34264
     },
     {
         "Name": "Kenya",
@@ -1019,9 +1019,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 2822,
-        "deaths": 27,
-        "recovered": 900
+        "confirmed": 2896,
+        "deaths": 29,
+        "recovered": 921
     },
     {
         "Name": "Mali",
@@ -1427,7 +1427,7 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 306,
+        "confirmed": 310,
         "deaths": 0,
         "recovered": 296
     },
