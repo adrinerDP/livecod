@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6335034,
+        "confirmed": 6335244,
         "deaths": 191058,
-        "recovered": 3572913
+        "recovered": 3574142
     },
     {
         "Name": "브라질",
@@ -1445,7 +1445,7 @@
         "Name_en": "Cambodia",
         "confirmed": 274,
         "deaths": 0,
-        "recovered": 271
+        "recovered": 272
     },
     {
         "Name": "Saint Martin",
