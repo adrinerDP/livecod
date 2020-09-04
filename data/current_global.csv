@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6359613,191481,3584207
+미국,美国,United States,6361624,191493,3585137
 브라질,巴西,Brazil,4054474,124922,3247610
-인도,印度,India,4014744,69614,3101245
+인도,印度,India,4020239,69635,3104512
 러시아,俄罗斯,Russia,1015105,17649,832747
 페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
@@ -94,8 +94,8 @@ French Guiana,,French Guiana,9276,62,8792
 Tajikistan,,Tajikistan,8724,69,7515
 Gabon,,Gabon,8538,53,7335
 Maldives,,Maldives,8361,29,5642
+Haiti,,Haiti,8326,212,5870
 Namibia,,Namibia,8323,87,3611
-Haiti,,Haiti,8301,210,5870
 핀란드,芬兰,Finland,8225,336,7350
 헝가리,匈牙利,Hungary,7382,621,3944
 Mauritania,,Mauritania,7106,160,6588
@@ -112,10 +112,10 @@ Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 Tunisia,,Tunisia,4394,84,1681
 슬로바키아,斯洛伐克,Slovakia,4300,37,2693
+Cuba,,Cuba,4266,100,3487
 Mozambique,,Mozambique,4265,26,2511
 Rwanda,,Rwanda,4255,18,2163
 Suriname,,Suriname,4215,73,3318
-Cuba,,Cuba,4214,100,3474
 Cabo Verde,,Cabo Verde,4125,41,3502
 태국,泰国,Thailand,3431,58,3277
 Mayotte,,Mayotte,3374,40,2964

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6359613,
-        "deaths": 191481,
-        "recovered": 3584207
+        "confirmed": 6361624,
+        "deaths": 191493,
+        "recovered": 3585137
     },
     {
         "Name": "브라질",
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4014744,
-        "deaths": 69614,
-        "recovered": 3101245
+        "confirmed": 4020239,
+        "deaths": 69635,
+        "recovered": 3104512
     },
     {
         "Name": "러시아",
@@ -760,20 +760,20 @@
         "recovered": 5642
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "confirmed": 8326,
+        "deaths": 212,
+        "recovered": 5870
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 8323,
         "deaths": 87,
         "recovered": 3611
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "confirmed": 8301,
-        "deaths": 210,
-        "recovered": 5870
     },
     {
         "Name": "핀란드",
@@ -904,6 +904,14 @@
         "recovered": 2693
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4266,
+        "deaths": 100,
+        "recovered": 3487
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -926,14 +934,6 @@
         "confirmed": 4215,
         "deaths": 73,
         "recovered": 3318
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4214,
-        "deaths": 100,
-        "recovered": 3474
     },
     {
         "Name": "Cabo Verde",
