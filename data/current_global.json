@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6342563,
-        "deaths": 191243,
-        "recovered": 3576199
+        "confirmed": 6349377,
+        "deaths": 191384,
+        "recovered": 3577237
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4046150,
-        "deaths": 124729,
+        "confirmed": 4054474,
+        "deaths": 124922,
         "recovered": 3247610
     },
     {
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 249063,
+        "confirmed": 249264,
         "deaths": 9399,
         "recovered": 224600
     },
@@ -571,9 +571,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 20804,
-        "deaths": 636,
-        "recovered": 14120
+        "confirmed": 21142,
+        "deaths": 639,
+        "recovered": 14476
     },
     {
         "Name": "Paraguay",
@@ -1064,20 +1064,20 @@
         "recovered": 893
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 2301,
+        "deaths": 16,
+        "recovered": 1676
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 2292,
         "deaths": 13,
         "recovered": 1031
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 2233,
-        "deaths": 16,
-        "recovered": 1648
     },
     {
         "Name": "Guinea-Bissau",
@@ -1112,20 +1112,20 @@
         "recovered": 1600
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2030,
+        "deaths": 30,
+        "recovered": 707
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 2002,
         "deaths": 10,
         "recovered": 880
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 1984,
-        "deaths": 29,
-        "recovered": 700
     },
     {
         "Name": "Malta",
