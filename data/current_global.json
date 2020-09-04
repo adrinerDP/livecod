@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6331877,
-        "deaths": 190959,
-        "recovered": 3571232
+        "confirmed": 6334530,
+        "deaths": 191024,
+        "recovered": 3572656
     },
     {
         "Name": "브라질",
@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 663437,
-        "deaths": 29259,
-        "recovered": 480177
+        "confirmed": 670145,
+        "deaths": 29405,
+        "recovered": 489886
     },
     {
         "Name": "콜롬비아",
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 94084,
-        "deaths": 2030,
-        "recovered": 67487
+        "confirmed": 94914,
+        "deaths": 2046,
+        "recovered": 68198
     },
     {
         "Name": "루마니아",
@@ -1483,7 +1483,7 @@
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "confirmed": 172,
+        "confirmed": 174,
         "deaths": 9,
         "recovered": 157
     },

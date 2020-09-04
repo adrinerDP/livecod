@@ -1,9 +1,9 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6331877,190959,3571232
+미국,美国,United States,6334530,191024,3572656
 브라질,巴西,Brazil,4046150,124729,3247610
 인도,印度,India,3933124,68569,3032916
 러시아,俄罗斯,Russia,1009995,17528,826935
-페루,秘鲁,Peru,663437,29259,480177
+페루,秘鲁,Peru,670145,29405,489886
 콜롬비아,哥伦比亚,Colombia,641574,20618,489151
 남아프리카 공화국,南非共和国,South Africa,633015,14563,554887
 멕시코,墨西哥,Mexico,610957,65816,424990
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,117928,5203,64074
 Kazakhstan,,Kazakhstan,106032,1588,97967
 이집트,埃及,Egypt,99425,5479,75415
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
-Panama,,Panama,94084,2030,67487
+Panama,,Panama,94914,2046,68198
 루마니아,尼亚,Romania,91256,3765,39275
 쿠웨이트,科威特,Kuwait,87378,536,78791
 오만,阿曼,Oman,86380,705,81828
@@ -184,7 +184,7 @@ Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,227,0,144
 Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,177,7,150
-Bermuda,,Bermuda,172,9,157
+Bermuda,,Bermuda,174,9,157
 Brunei,,Brunei,145,3,139
 모나코,摩纳哥,Monaco,143,1,94
 Seychelles,,Seychelles,136,0,127
