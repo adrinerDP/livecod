@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6389069,192127,3635854
+미국,美国,United States,6389413,192132,3636272
 브라질,巴西,Brazil,4091801,125584,3278243
 인도,印度,India,4027718,69668,3107453
 러시아,俄罗斯,Russia,1020310,17759,838126
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,321615,4412,216191
 이라크,伊拉克,Iraq,252075,7359,191368
 독일,德国,Germany,250281,9401,226208
 필리핀,菲律宾,Philippines,234570,3790,161668
-인도네시아,印度尼西亚,Indonesia,187537,7832,134181
+인도네시아,印度尼西亚,Indonesia,190665,7940,136401
 Ukraine,,Ukraine,133787,2811,61649
 캐나다,加拿大,Canada,131124,9141,115926
 이스라엘,以色列,Israel,126419,993,100357
@@ -41,12 +41,12 @@ Guatemala,,Guatemala,77040,2825,65029
 네덜란드,荷兰,Netherlands,73208,6237,0
 아랍에미리트,阿拉伯联合酋长国,UAE,72766,387,63158
 벨라루스,白俄罗斯,Belarus,72485,701,71510
+폴란드,波兰,Poland,70387,2113,52346
 일본,日本,Japan,70268,1330,60417
-폴란드,波兰,Poland,69820,2100,49820
 모로코,摩洛哥,Morocco,68605,1292,52483
 Honduras,,Honduras,63798,1984,12347
 포르투갈,葡萄牙,Portugal,59457,1833,42576
-싱가포르,新加坡,Singapore,56948,27,56174
+싱가포르,新加坡,Singapore,56982,27,56174
 Ethiopia,,Ethiopia,56516,880,20612
 나이지리아,尼日利亚,Nigeria,54743,1051,42816
 바레인,巴林,Bahrain,54095,195,50323
@@ -83,7 +83,7 @@ North Macedonia,,North Macedonia,14871,609,12054
 세네갈,塞内加尔,Senegal,13881,289,9723
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12639,292,11572
-크로아티아,克罗地亚,Croatia,11428,195,8530
+크로아티아,克罗地亚,Croatia,11739,197,8771
 노르웨이,挪威,Norway,11231,264,9348
 그리스,希腊,Greece,11200,279,3804
 DRC,,DRC,10149,259,9367
@@ -111,8 +111,8 @@ CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 Tunisia,,Tunisia,4542,87,1699
+슬로바키아,斯洛伐克,Slovakia,4526,37,2797
 Rwanda,,Rwanda,4304,18,2191
-슬로바키아,斯洛伐克,Slovakia,4300,37,2693
 Cuba,,Cuba,4266,100,3487
 Mozambique,,Mozambique,4265,26,2511
 Suriname,,Suriname,4252,75,3366
@@ -122,7 +122,7 @@ Mayotte,,Mayotte,3374,40,2964
 Uganda,,Uganda,3353,35,1564
 Somalia,,Somalia,3332,97,2696
 Gambia,,Gambia,3120,99,1295
-스리랑카,斯里兰卡,Sri Lanka,3115,12,2907
+스리랑카,斯里兰卡,Sri Lanka,3115,12,2918
 슬로베니아,斯洛文尼亚,Slovenia,3079,134,2440
 Syria,,Syria,3041,127,698
 Lithuania,,Lithuania,3004,86,1920
@@ -158,7 +158,7 @@ Myanmar,,Myanmar,1216,7,359
 Niger,,Niger,1177,69,1091
 Belize,,Belize,1152,15,271
 Lesotho,,Lesotho,1148,31,528
-베트남,越南,Vietnam,1049,35,772
+베트남,越南,Vietnam,1049,35,786
 Chad,,Chad,1023,77,914
 Sao Tome and Principe,,Sao Tome and Principe,897,15,859
 Martinique,,Martinique,758,18,98
