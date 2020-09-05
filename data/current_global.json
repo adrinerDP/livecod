@@ -184,20 +184,20 @@
         "recovered": 134181
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "confirmed": 133787,
+        "deaths": 2811,
+        "recovered": 61649
+    },
+    {
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
         "confirmed": 131124,
         "deaths": 9141,
         "recovered": 115926
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "confirmed": 130951,
-        "deaths": 2761,
-        "recovered": 59676
     },
     {
         "Name": "이스라엘",
