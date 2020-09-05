@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6410295,
-        "deaths": 192425,
-        "recovered": 3643636
+        "confirmed": 6416659,
+        "deaths": 192520,
+        "recovered": 3644572
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4109476,
-        "deaths": 70673,
+        "confirmed": 4110833,
+        "deaths": 70678,
         "recovered": 3177667
     },
     {
@@ -376,20 +376,20 @@
         "recovered": 42793
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 57466,
+        "deaths": 897,
+        "recovered": 20776
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
         "confirmed": 56982,
         "deaths": 27,
         "recovered": 56267
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 56516,
-        "deaths": 880,
-        "recovered": 20612
     },
     {
         "Name": "나이지리아",
@@ -416,20 +416,20 @@
         "recovered": 41249
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 46920,
+        "deaths": 478,
+        "recovered": 18211
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 46071,
         "deaths": 1549,
         "recovered": 32481
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 45680,
-        "deaths": 469,
-        "recovered": 18053
     },
     {
         "Name": "네팔",
@@ -752,6 +752,14 @@
         "recovered": 7424
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 8514,
+        "deaths": 87,
+        "recovered": 3643
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -766,14 +774,6 @@
         "confirmed": 8326,
         "deaths": 212,
         "recovered": 5870
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 8323,
-        "deaths": 87,
-        "recovered": 3611
     },
     {
         "Name": "핀란드",
@@ -1043,8 +1043,8 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2536,
-        "deaths": 47,
+        "confirmed": 2544,
+        "deaths": 48,
         "recovered": 1290
     },
     {
@@ -1371,7 +1371,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 479,
+        "confirmed": 488,
         "deaths": 5,
         "recovered": 232
     },
