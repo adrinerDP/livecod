@@ -404,7 +404,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 54095,
-        "deaths": 195,
+        "deaths": 196,
         "recovered": 50323
     },
     {
@@ -851,9 +851,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4851,
+        "confirmed": 4858,
         "deaths": 94,
-        "recovered": 4456
+        "recovered": 4492
     },
     {
         "Name": "Eswatini",
