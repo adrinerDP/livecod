@@ -3,25 +3,25 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6421368,
-        "deaths": 192683,
-        "recovered": 3690434
-    },
-    {
-        "Name": "인도",
-        "Name_ch": "印度",
-        "Name_en": "India",
-        "confirmed": 4110833,
-        "deaths": 70678,
-        "recovered": 3177667
+        "confirmed": 6424123,
+        "deaths": 192728,
+        "recovered": 3695517
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4093586,
-        "deaths": 125659,
+        "confirmed": 4113969,
+        "deaths": 126069,
         "recovered": 3278243
+    },
+    {
+        "Name": "인도",
+        "Name_ch": "印度",
+        "Name_en": "India",
+        "confirmed": 4110839,
+        "deaths": 70679,
+        "recovered": 3177673
     },
     {
         "Name": "러시아",
@@ -819,9 +819,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5608,
+        "confirmed": 5611,
         "deaths": 175,
-        "recovered": 3533
+        "recovered": 3551
     },
     {
         "Name": "Djibouti",
@@ -859,9 +859,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4780,
+        "confirmed": 4819,
         "deaths": 94,
-        "recovered": 3844
+        "recovered": 3903
     },
     {
         "Name": "CAR",
@@ -904,20 +904,20 @@
         "recovered": 2797
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4349,
+        "deaths": 18,
+        "recovered": 2199
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
         "confirmed": 4341,
         "deaths": 26,
         "recovered": 2579
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4304,
-        "deaths": 18,
-        "recovered": 2191
     },
     {
         "Name": "Cabo Verde",
@@ -1187,9 +1187,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1457,
-        "deaths": 31,
-        "recovered": 1079
+        "confirmed": 1477,
+        "deaths": 32,
+        "recovered": 1094
     },
     {
         "Name": "라트비아",

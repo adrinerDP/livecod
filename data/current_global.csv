@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6421368,192683,3690434
-인도,印度,India,4110833,70678,3177667
-브라질,巴西,Brazil,4093586,125659,3278243
+미국,美国,United States,6424123,192728,3695517
+브라질,巴西,Brazil,4113969,126069,3278243
+인도,印度,India,4110839,70679,3177673
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,676848,29554,498523
 콜롬비아,哥伦比亚,Colombia,650062,20888,498221
@@ -101,19 +101,19 @@ Haiti,,Haiti,8326,212,5870
 Mauritania,,Mauritania,7134,160,6658
 룩셈부르크,卢森堡,Luxembourg,6854,124,6126
 Zimbabwe,,Zimbabwe,6837,206,5345
-Malawi,,Malawi,5608,175,3533
+Malawi,,Malawi,5611,175,3551
 Djibouti,,Djibouti,5387,60,5327
 Montenegro,,Montenegro,5275,106,4203
 Equatorial Guinea,,Equatorial Guinea,4972,83,4413
 홍콩,香港,Hong Kong,4858,94,4492
-Eswatini,,Eswatini,4780,94,3844
+Eswatini,,Eswatini,4819,94,3903
 CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 Tunisia,,Tunisia,4542,87,1699
 슬로바키아,斯洛伐克,Slovakia,4526,37,2797
+Rwanda,,Rwanda,4349,18,2199
 Mozambique,,Mozambique,4341,26,2579
-Rwanda,,Rwanda,4304,18,2191
 Cabo Verde,,Cabo Verde,4275,42,3611
 Cuba,,Cuba,4266,100,3487
 Suriname,,Suriname,4252,75,3366
@@ -147,7 +147,7 @@ New Zealand,,New Zealand,1767,24,1631
 Uruguay,,Uruguay,1653,45,1446
 조지아,格鲁吉亚,Georgia,1621,19,1302
 Cyprus,,Cyprus,1507,21,1237
-토고,多哥,Togo,1457,31,1079
+토고,多哥,Togo,1477,32,1094
 라트비아,约旦,Latvia,1425,35,1187
 Burkina Faso,,Burkina Faso,1408,55,1098
 Guyana,,Guyana,1401,44,805
