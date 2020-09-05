@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6390240,192146,3636284
+미국,美国,United States,6391223,192161,3636284
 브라질,巴西,Brazil,4091801,125584,3278243
-인도,印度,India,4034339,69749,3112669
+인도,印度,India,4047653,69920,3124787
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,676848,29554,498523
 콜롬비아,哥伦比亚,Colombia,650062,20888,498221
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,77040,2825,65029
 일본,日本,Japan,70268,1330,60417
 모로코,摩洛哥,Morocco,68605,1292,52483
 Honduras,,Honduras,63798,1984,12347
-포르투갈,葡萄牙,Portugal,59457,1833,42576
+포르투갈,葡萄牙,Portugal,59943,1838,42793
 싱가포르,新加坡,Singapore,56982,27,56174
 Ethiopia,,Ethiopia,56516,880,20612
 나이지리아,尼日利亚,Nigeria,54743,1051,42816
@@ -62,7 +62,7 @@ Uzbekistan,,Uzbekistan,43075,339,40432
 Moldova,,Moldova,38906,1047,27017
 아프가니스탄,阿富汗,Afghanistan,38324,1409,30082
 아제르바이잔,阿塞拜疆,Azerbaijan,37192,545,34565
-Kenya,,Kenya,34884,589,21059
+Kenya,,Kenya,35020,594,21158
 세르비아,塞尔维亚,Serbia,31849,723,30529
 아일랜드,冰岛,Ireland,29303,1777,23364
 오스트리아,奥地利,Austria,29087,735,24828
@@ -82,7 +82,7 @@ Madagascar,,Madagascar,15269,199,14113
 North Macedonia,,North Macedonia,14871,609,12054
 세네갈,塞内加尔,Senegal,13948,290,9851
 Sudan,,Sudan,13189,823,6612
-Zambia,,Zambia,12639,292,11572
+Zambia,,Zambia,12709,292,11668
 크로아티아,克罗地亚,Croatia,11739,197,8771
 노르웨이,挪威,Norway,11231,264,9348
 그리스,希腊,Greece,11200,279,3804
@@ -153,7 +153,7 @@ Burkina Faso,,Burkina Faso,1408,55,1098
 Guyana,,Guyana,1401,44,805
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1306,82,1163
-Myanmar,,Myanmar,1216,7,359
+Myanmar,,Myanmar,1253,7,371
 안도라,安道尔,Andorra,1215,53,928
 Niger,,Niger,1177,69,1091
 Belize,,Belize,1152,15,271

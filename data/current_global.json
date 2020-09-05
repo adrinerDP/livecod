@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6390240,
-        "deaths": 192146,
+        "confirmed": 6391223,
+        "deaths": 192161,
         "recovered": 3636284
     },
     {
@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4034339,
-        "deaths": 69749,
-        "recovered": 3112669
+        "confirmed": 4047653,
+        "deaths": 69920,
+        "recovered": 3124787
     },
     {
         "Name": "러시아",
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 59457,
-        "deaths": 1833,
-        "recovered": 42576
+        "confirmed": 59943,
+        "deaths": 1838,
+        "recovered": 42793
     },
     {
         "Name": "싱가포르",
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 34884,
-        "deaths": 589,
-        "recovered": 21059
+        "confirmed": 35020,
+        "deaths": 594,
+        "recovered": 21158
     },
     {
         "Name": "세르비아",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12639,
+        "confirmed": 12709,
         "deaths": 292,
-        "recovered": 11572
+        "recovered": 11668
     },
     {
         "Name": "크로아티아",
@@ -1235,9 +1235,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 1216,
+        "confirmed": 1253,
         "deaths": 7,
-        "recovered": 359
+        "recovered": 371
     },
     {
         "Name": "안도라",
