@@ -3,9 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6400414,
-        "deaths": 192308,
-        "recovered": 3637002
+        "confirmed": 6403293,
+        "deaths": 192325,
+        "recovered": 3638589
+    },
+    {
+        "Name": "브라질",
+        "Name_ch": "巴西",
+        "Name_en": "Brazil",
+        "confirmed": 4093586,
+        "deaths": 125659,
+        "recovered": 3278243
     },
     {
         "Name": "인도",
@@ -14,14 +22,6 @@
         "confirmed": 4092550,
         "deaths": 70519,
         "recovered": 3162305
-    },
-    {
-        "Name": "브라질",
-        "Name_ch": "巴西",
-        "Name_en": "Brazil",
-        "confirmed": 4091801,
-        "deaths": 125584,
-        "recovered": 3278243
     },
     {
         "Name": "러시아",
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 276555,
-        "deaths": 6564,
-        "recovered": 249108
+        "confirmed": 278228,
+        "deaths": 6620,
+        "recovered": 250092
     },
     {
         "Name": "이탈리아",
@@ -539,9 +539,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 27249,
-        "deaths": 429,
-        "recovered": 19027
+        "confirmed": 27560,
+        "deaths": 431,
+        "recovered": 19033
     },
     {
         "Name": "호주",
