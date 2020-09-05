@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6390176,
+        "confirmed": 6390240,
         "deaths": 192146,
-        "recovered": 3636283
+        "recovered": 3636284
     },
     {
         "Name": "브라질",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 461882,
-        "deaths": 9623,
-        "recovered": 331621
+        "deaths": 9685,
+        "recovered": 340381
     },
     {
         "Name": "칠레",
@@ -155,15 +155,15 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 252075,
-        "deaths": 7359,
-        "recovered": 191368
+        "confirmed": 256719,
+        "deaths": 7422,
+        "recovered": 195259
     },
     {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 250281,
+        "confirmed": 250554,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -296,6 +296,14 @@
         "recovered": 81828
     },
     {
+        "Name": "스웨덴",
+        "Name_ch": "瑞典语",
+        "Name_en": "Sweden",
+        "confirmed": 84985,
+        "deaths": 5835,
+        "recovered": 0
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -304,20 +312,20 @@
         "recovered": 65029
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 73862,
+        "deaths": 6241,
+        "recovered": 0
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
         "confirmed": 73471,
         "deaths": 388,
         "recovered": 63652
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 73208,
-        "deaths": 6237,
-        "recovered": 0
     },
     {
         "Name": "벨라루스",
@@ -534,14 +542,6 @@
         "confirmed": 27249,
         "deaths": 429,
         "recovered": 19027
-    },
-    {
-        "Name": "스웨덴",
-        "Name_ch": "瑞典语",
-        "Name_en": "Sweden",
-        "confirmed": 26207,
-        "deaths": 5835,
-        "recovered": 0
     },
     {
         "Name": "호주",
