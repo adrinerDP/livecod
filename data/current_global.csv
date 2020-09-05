@@ -12,7 +12,7 @@ Argentina,,Argentina,461882,9623,331621
 칠레,智利,Chile,418469,11494,391248
 이란,伊朗,Iran,382772,22044,330308
 영국,英国,UK,342351,41537,0
-Bangladesh,,Bangladesh,321615,4412,216191
+Bangladesh,,Bangladesh,323565,4447,217852
 사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
 프랑스,法国,France,309156,30724,87206
 파키스탄,巴基斯坦,Pakistan,298025,6340,282553
@@ -25,21 +25,21 @@ Bangladesh,,Bangladesh,321615,4412,216191
 Ukraine,,Ukraine,133787,2811,61649
 캐나다,加拿大,Canada,131124,9141,115926
 이스라엘,以色列,Israel,126419,993,100357
-카타르,卡塔尔,Qatar,119637,201,116538
+카타르,卡塔尔,Qatar,119864,202,116780
 Bolivia,,Bolivia,119580,5343,67844
 에콰도르,厄瓜多尔,Ecuador,117175,6674,102200
 Kazakhstan,,Kazakhstan,106225,1588,99018
 이집트,埃及,Egypt,99582,5495,76305
 도미니카 공화국,多明尼加共和国,Dominican Republic,96629,1801,70871
 Panama,,Panama,95596,2063,68742
-루마니아,尼亚,Romania,92595,3812,39626
+루마니아,尼亚,Romania,93864,3850,40028
 쿠웨이트,科威特,Kuwait,88243,537,79417
 벨기에,比利时,Belgium,87174,9901,18534
 오만,阿曼,Oman,86380,705,81828
 스웨덴,瑞典语,Sweden,84985,5835,0
 Guatemala,,Guatemala,77040,2825,65029
+아랍에미리트,阿拉伯联合酋长国,UAE,73471,388,63652
 네덜란드,荷兰,Netherlands,73208,6237,0
-아랍에미리트,阿拉伯联合酋长国,UAE,72766,387,63158
 벨라루스,白俄罗斯,Belarus,72485,701,71510
 폴란드,波兰,Poland,70387,2113,52346
 일본,日本,Japan,70268,1330,60417
@@ -57,7 +57,7 @@ Ghana,,Ghana,44777,283,43693
 아르메니아,亚美尼亚,Armenia,44649,895,39823
 Kyrgyzstan,,Kyrgyzstan,44293,1060,39599
 네팔,尼泊尔,Nepal,44236,271,25561
-스위스,瑞士,Switzerland,43532,2013,36500
+스위스,瑞士,Switzerland,43957,2013,36500
 Uzbekistan,,Uzbekistan,42998,338,40392
 Moldova,,Moldova,38906,1047,27017
 아프가니스탄,阿富汗,Afghanistan,38324,1409,30082
@@ -177,8 +177,8 @@ Faeroe Islands,,Faeroe Islands,413,0,379
 Mauritius,,Mauritius,356,10,335
 Isle of Man,,Isle of Man,336,24,312
 Eritrea,,Eritrea,330,0,295
+지브롤터,直布罗陀,Gibraltar,312,0,255
 Mongolia,,Mongolia,310,0,296
-지브롤터,直布罗陀,Gibraltar,305,0,248
 캄보디아,柬埔寨,Cambodia,274,0,272
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,228,0,150

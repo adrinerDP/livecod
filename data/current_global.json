@@ -107,9 +107,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 321615,
-        "deaths": 4412,
-        "recovered": 216191
+        "confirmed": 323565,
+        "deaths": 4447,
+        "recovered": 217852
     },
     {
         "Name": "사우디아라비아",
@@ -211,9 +211,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 119637,
-        "deaths": 201,
-        "recovered": 116538
+        "confirmed": 119864,
+        "deaths": 202,
+        "recovered": 116780
     },
     {
         "Name": "Bolivia",
@@ -267,9 +267,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 92595,
-        "deaths": 3812,
-        "recovered": 39626
+        "confirmed": 93864,
+        "deaths": 3850,
+        "recovered": 40028
     },
     {
         "Name": "쿠웨이트",
@@ -312,20 +312,20 @@
         "recovered": 65029
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 73471,
+        "deaths": 388,
+        "recovered": 63652
+    },
+    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
         "confirmed": 73208,
         "deaths": 6237,
         "recovered": 0
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "confirmed": 72766,
-        "deaths": 387,
-        "recovered": 63158
     },
     {
         "Name": "벨라루스",
@@ -467,7 +467,7 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 43532,
+        "confirmed": 43957,
         "deaths": 2013,
         "recovered": 36500
     },
@@ -1424,20 +1424,20 @@
         "recovered": 295
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 312,
+        "deaths": 0,
+        "recovered": 255
+    },
+    {
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
         "confirmed": 310,
         "deaths": 0,
         "recovered": 296
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 305,
-        "deaths": 0,
-        "recovered": 248
     },
     {
         "Name": "캄보디아",
