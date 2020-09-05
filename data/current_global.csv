@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6389413,192132,3636272
+미국,美国,United States,6390176,192146,3636283
 브라질,巴西,Brazil,4091801,125584,3278243
 인도,印度,India,4034339,69749,3112669
 러시아,俄罗斯,Russia,1020310,17759,838126
@@ -36,7 +36,6 @@ Panama,,Panama,95596,2063,68742
 쿠웨이트,科威特,Kuwait,88243,537,79417
 벨기에,比利时,Belgium,87174,9901,18534
 오만,阿曼,Oman,86380,705,81828
-스웨덴,瑞典语,Sweden,84985,5835,0
 Guatemala,,Guatemala,77040,2825,65029
 아랍에미리트,阿拉伯联合酋长国,UAE,73471,388,63652
 네덜란드,荷兰,Netherlands,73208,6237,0
@@ -58,7 +57,7 @@ Ghana,,Ghana,44777,283,43693
 아르메니아,亚美尼亚,Armenia,44649,895,39823
 Kyrgyzstan,,Kyrgyzstan,44293,1060,39599
 스위스,瑞士,Switzerland,43957,2013,36500
-Uzbekistan,,Uzbekistan,42998,338,40392
+Uzbekistan,,Uzbekistan,43075,339,40432
 Moldova,,Moldova,38906,1047,27017
 아프가니스탄,阿富汗,Afghanistan,38324,1409,30082
 아제르바이잔,阿塞拜疆,Azerbaijan,37031,543,34419
@@ -67,7 +66,8 @@ Kenya,,Kenya,34884,589,21059
 아일랜드,冰岛,Ireland,29303,1777,23364
 오스트리아,奥地利,Austria,29087,735,24828
 체코,捷克,Czechia,27249,429,19027
-호주,澳大利亚,Australia,26208,748,22331
+스웨덴,瑞典语,Sweden,26207,5835,0
+호주,澳大利亚,Australia,26207,748,22330
 El Salvador,,El Salvador,26206,752,15587
 팔레스타인,巴勒斯坦,Palestine,25575,176,16661
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21142,639,14476
@@ -78,7 +78,7 @@ Ivory Coast,,Ivory Coast,18269,119,17162
 덴마크,丹麦,Denmark,17547,627,15586
 Bulgaria,,Bulgaria,16954,665,12046
 Libya,,Libya,16445,262,1910
-Madagascar,,Madagascar,15187,198,14075
+Madagascar,,Madagascar,15269,199,14113
 North Macedonia,,North Macedonia,14871,609,12054
 세네갈,塞内加尔,Senegal,13948,290,9851
 Sudan,,Sudan,13189,823,6612
@@ -146,7 +146,7 @@ Yemen,,Yemen,1983,572,1194
 New Zealand,,New Zealand,1767,24,1631
 Uruguay,,Uruguay,1653,45,1446
 조지아,格鲁吉亚,Georgia,1621,19,1302
-Cyprus,,Cyprus,1502,21,1139
+Cyprus,,Cyprus,1502,21,1237
 토고,多哥,Togo,1457,31,1079
 라트비아,约旦,Latvia,1425,35,1187
 Burkina Faso,,Burkina Faso,1408,55,1098

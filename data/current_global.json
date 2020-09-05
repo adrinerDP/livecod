@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6389413,
-        "deaths": 192132,
-        "recovered": 3636272
+        "confirmed": 6390176,
+        "deaths": 192146,
+        "recovered": 3636283
     },
     {
         "Name": "브라질",
@@ -296,14 +296,6 @@
         "recovered": 81828
     },
     {
-        "Name": "스웨덴",
-        "Name_ch": "瑞典语",
-        "Name_en": "Sweden",
-        "confirmed": 84985,
-        "deaths": 5835,
-        "recovered": 0
-    },
-    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -475,9 +467,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 42998,
-        "deaths": 338,
-        "recovered": 40392
+        "confirmed": 43075,
+        "deaths": 339,
+        "recovered": 40432
     },
     {
         "Name": "Moldova",
@@ -544,12 +536,20 @@
         "recovered": 19027
     },
     {
+        "Name": "스웨덴",
+        "Name_ch": "瑞典语",
+        "Name_en": "Sweden",
+        "confirmed": 26207,
+        "deaths": 5835,
+        "recovered": 0
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26208,
+        "confirmed": 26207,
         "deaths": 748,
-        "recovered": 22331
+        "recovered": 22330
     },
     {
         "Name": "El Salvador",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15187,
-        "deaths": 198,
-        "recovered": 14075
+        "confirmed": 15269,
+        "deaths": 199,
+        "recovered": 14113
     },
     {
         "Name": "North Macedonia",
@@ -1181,7 +1181,7 @@
         "Name_en": "Cyprus",
         "confirmed": 1502,
         "deaths": 21,
-        "recovered": 1139
+        "recovered": 1237
     },
     {
         "Name": "토고",
