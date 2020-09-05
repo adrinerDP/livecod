@@ -13,7 +13,7 @@ Argentina,,Argentina,461882,9623,331621
 이란,伊朗,Iran,384666,22154,332131
 영국,英国,UK,342351,41537,0
 Bangladesh,,Bangladesh,323565,4447,217852
-사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
+사우디아라비아,沙特阿拉伯,Saudi Arabia,319932,4049,295842
 프랑스,法国,France,309156,30724,87206
 파키스탄,巴基斯坦,Pakistan,298025,6340,282553
 터키,土耳其,Turkey,276555,6564,249108
@@ -39,7 +39,7 @@ Panama,,Panama,95596,2063,68742
 Guatemala,,Guatemala,77040,2825,65029
 아랍에미리트,阿拉伯联合酋长国,UAE,73471,388,63652
 네덜란드,荷兰,Netherlands,73208,6237,0
-벨라루스,白俄罗斯,Belarus,72485,701,71510
+벨라루스,白俄罗斯,Belarus,72663,705,71843
 폴란드,波兰,Poland,70387,2113,52346
 일본,日本,Japan,70268,1330,60417
 모로코,摩洛哥,Morocco,68605,1292,52483
@@ -60,9 +60,9 @@ Kyrgyzstan,,Kyrgyzstan,44293,1060,39599
 Uzbekistan,,Uzbekistan,43075,339,40432
 Moldova,,Moldova,38906,1047,27017
 아프가니스탄,阿富汗,Afghanistan,38324,1409,30082
-아제르바이잔,阿塞拜疆,Azerbaijan,37031,543,34419
+아제르바이잔,阿塞拜疆,Azerbaijan,37192,545,34565
 Kenya,,Kenya,34884,589,21059
-세르비아,塞尔维亚,Serbia,31772,721,30387
+세르비아,塞尔维亚,Serbia,31849,723,30529
 아일랜드,冰岛,Ireland,29303,1777,23364
 오스트리아,奥地利,Austria,29087,735,24828
 체코,捷克,Czechia,27249,429,19027
@@ -75,9 +75,9 @@ Paraguay,,Paraguay,20654,398,10523
 카메룬,喀麦隆,Cameroon,19604,415,18448
 레바논,黎巴嫩,Lebanon,19490,183,5592
 Ivory Coast,,Ivory Coast,18269,119,17162
-덴마크,丹麦,Denmark,17547,627,15586
+덴마크,丹麦,Denmark,17736,627,15671
+Libya,,Libya,17094,272,2025
 Bulgaria,,Bulgaria,16954,665,12046
-Libya,,Libya,16445,262,1910
 Madagascar,,Madagascar,15269,199,14113
 North Macedonia,,North Macedonia,14871,609,12054
 세네갈,塞内加尔,Senegal,13948,290,9851
@@ -91,7 +91,7 @@ Albania,,Albania,9967,306,5882
 Guinea,,Guinea,9649,61,8832
 말레이시아,马来西亚,Malaysia,9391,128,9113
 French Guiana,,French Guiana,9276,62,8792
-Tajikistan,,Tajikistan,8724,69,7515
+Tajikistan,,Tajikistan,8757,70,7549
 Gabon,,Gabon,8601,53,7424
 Maldives,,Maldives,8361,29,5642
 Haiti,,Haiti,8326,212,5870
@@ -121,8 +121,8 @@ Cabo Verde,,Cabo Verde,4200,41,3562
 Mayotte,,Mayotte,3374,40,2964
 Uganda,,Uganda,3353,35,1564
 Somalia,,Somalia,3332,97,2696
+Gambia,,Gambia,3150,99,1315
 슬로베니아,斯洛文尼亚,Slovenia,3122,135,2483
-Gambia,,Gambia,3120,99,1295
 스리랑카,斯里兰卡,Sri Lanka,3115,12,2918
 Syria,,Syria,3041,127,698
 Lithuania,,Lithuania,3040,86,1952
@@ -135,7 +135,7 @@ Bahamas,,Bahamas,2386,50,893
 Aruba,,Aruba,2358,13,1119
 요르단,约旦,Jordan,2301,16,1676
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
-Benin,,Benin,2194,40,1738
+Benin,,Benin,2194,40,1793
 Iceland,,Iceland,2135,10,2029
 Sierra Leone,,Sierra Leone,2041,71,1602
 Trinidad and Tobago,,Trinidad and Tobago,2040,31,707
