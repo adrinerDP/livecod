@@ -448,20 +448,20 @@
         "recovered": 39257
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "confirmed": 44293,
+        "deaths": 1060,
+        "recovered": 39599
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 44236,
         "deaths": 271,
         "recovered": 25561
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "confirmed": 44199,
-        "deaths": 1060,
-        "recovered": 39389
     },
     {
         "Name": "스위스",
@@ -1232,6 +1232,14 @@
         "recovered": 1163
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1216,
+        "deaths": 7,
+        "recovered": 359
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
@@ -1246,14 +1254,6 @@
         "confirmed": 1177,
         "deaths": 69,
         "recovered": 1091
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1171,
-        "deaths": 7,
-        "recovered": 359
     },
     {
         "Name": "Belize",
