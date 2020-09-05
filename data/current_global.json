@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4020239,
+        "confirmed": 4023179,
         "deaths": 69635,
-        "recovered": 3104512
+        "recovered": 3107223
     },
     {
         "Name": "러시아",
@@ -1459,7 +1459,7 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 227,
+        "confirmed": 228,
         "deaths": 0,
         "recovered": 150
     },
