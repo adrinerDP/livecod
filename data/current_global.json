@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6428426,
+        "confirmed": 6428442,
         "deaths": 192807,
-        "recovered": 3696357
+        "recovered": 3699890
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4113969,
-        "deaths": 126069,
-        "recovered": 3278243
+        "confirmed": 4123000,
+        "deaths": 126203,
+        "recovered": 3296702
     },
     {
         "Name": "인도",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 461882,
-        "deaths": 9685,
+        "confirmed": 471806,
+        "deaths": 9739,
         "recovered": 340381
     },
     {
@@ -392,20 +392,20 @@
         "recovered": 56267
     },
     {
+        "Name": "나이지리아",
+        "Name_ch": "尼日利亚",
+        "Name_en": "Nigeria",
+        "confirmed": 54905,
+        "deaths": 1054,
+        "recovered": 42922
+    },
+    {
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 54771,
         "deaths": 196,
         "recovered": 50645
-    },
-    {
-        "Name": "나이지리아",
-        "Name_ch": "尼日利亚",
-        "Name_en": "Nigeria",
-        "confirmed": 54743,
-        "deaths": 1051,
-        "recovered": 42816
     },
     {
         "Name": "Venezuela",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 16954,
-        "deaths": 665,
-        "recovered": 12046
+        "confirmed": 17050,
+        "deaths": 671,
+        "recovered": 12132
     },
     {
         "Name": "Madagascar",
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11254,
+        "confirmed": 11296,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1307,7 +1307,7 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 735,
+        "confirmed": 716,
         "deaths": 42,
         "recovered": 660
     },
