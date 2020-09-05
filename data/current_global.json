@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6424123,
-        "deaths": 192728,
-        "recovered": 3695517
+        "confirmed": 6425587,
+        "deaths": 192773,
+        "recovered": 3695796
     },
     {
         "Name": "브라질",
@@ -243,9 +243,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 99582,
-        "deaths": 5495,
-        "recovered": 76305
+        "confirmed": 99712,
+        "deaths": 5511,
+        "recovered": 77208
     },
     {
         "Name": "도미니카 공화국",
@@ -392,20 +392,20 @@
         "recovered": 56267
     },
     {
+        "Name": "바레인",
+        "Name_ch": "巴林",
+        "Name_en": "Bahrain",
+        "confirmed": 54771,
+        "deaths": 196,
+        "recovered": 50645
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 54743,
         "deaths": 1051,
         "recovered": 42816
-    },
-    {
-        "Name": "바레인",
-        "Name_ch": "巴林",
-        "Name_en": "Bahrain",
-        "confirmed": 54095,
-        "deaths": 196,
-        "recovered": 50323
     },
     {
         "Name": "Venezuela",
