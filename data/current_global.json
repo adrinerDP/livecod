@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6408984,
-        "deaths": 192416,
-        "recovered": 3642747
+        "confirmed": 6410295,
+        "deaths": 192425,
+        "recovered": 3643636
     },
     {
         "Name": "인도",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 250554,
+        "confirmed": 250791,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -227,9 +227,9 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 117175,
-        "deaths": 6674,
-        "recovered": 102200
+        "confirmed": 118045,
+        "deaths": 6724,
+        "recovered": 102304
     },
     {
         "Name": "Kazakhstan",
@@ -584,20 +584,20 @@
         "recovered": 10523
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 20011,
+        "deaths": 187,
+        "recovered": 5868
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 19604,
         "deaths": 415,
         "recovered": 18448
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 19490,
-        "deaths": 183,
-        "recovered": 5592
     },
     {
         "Name": "Ivory Coast",
@@ -731,9 +731,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9276,
+        "confirmed": 9322,
         "deaths": 62,
-        "recovered": 8792
+        "recovered": 8870
     },
     {
         "Name": "Tajikistan",
