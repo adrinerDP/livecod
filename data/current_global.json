@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 88243,
-        "deaths": 537,
-        "recovered": 79417
+        "confirmed": 88963,
+        "deaths": 540,
+        "recovered": 79903
     },
     {
         "Name": "벨기에",
@@ -571,9 +571,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 21142,
-        "deaths": 639,
-        "recovered": 14476
+        "confirmed": 21439,
+        "deaths": 651,
+        "recovered": 14636
     },
     {
         "Name": "Paraguay",
