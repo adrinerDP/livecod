@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6391223,
-        "deaths": 192161,
-        "recovered": 3636284
+        "confirmed": 6392303,
+        "deaths": 192168,
+        "recovered": 3636310
     },
     {
         "Name": "브라질",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14871,
-        "deaths": 609,
-        "recovered": 12054
+        "confirmed": 14998,
+        "deaths": 614,
+        "recovered": 12149
     },
     {
         "Name": "세네갈",
@@ -683,7 +683,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11231,
+        "confirmed": 11254,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1099,9 +1099,17 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2135,
+        "confirmed": 2136,
         "deaths": 10,
-        "recovered": 2029
+        "recovered": 2038
+    },
+    {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 2115,
+        "deaths": 11,
+        "recovered": 1313
     },
     {
         "Name": "Sierra Leone",
@@ -1126,14 +1134,6 @@
         "confirmed": 2014,
         "deaths": 14,
         "recovered": 1601
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 2002,
-        "deaths": 10,
-        "recovered": 880
     },
     {
         "Name": "Botswana",
