@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6428442,
-        "deaths": 192807,
-        "recovered": 3699890
+        "confirmed": 6428808,
+        "deaths": 192812,
+        "recovered": 3705720
     },
     {
         "Name": "브라질",
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 95596,
-        "deaths": 2063,
-        "recovered": 68742
+        "confirmed": 96305,
+        "deaths": 2075,
+        "recovered": 69223
     },
     {
         "Name": "루마니아",
@@ -539,9 +539,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 27560,
+        "confirmed": 27752,
         "deaths": 431,
-        "recovered": 19033
+        "recovered": 19039
     },
     {
         "Name": "호주",
@@ -771,9 +771,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8326,
+        "confirmed": 8336,
         "deaths": 212,
-        "recovered": 5870
+        "recovered": 5933
     },
     {
         "Name": "핀란드",
@@ -803,7 +803,7 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 6854,
+        "confirmed": 6896,
         "deaths": 124,
         "recovered": 6126
     },
@@ -1088,20 +1088,20 @@
         "recovered": 1127
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2230,
+        "deaths": 33,
+        "recovered": 717
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
         "confirmed": 2194,
         "deaths": 40,
         "recovered": 1793
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2142,
-        "deaths": 32,
-        "recovered": 717
     },
     {
         "Name": "Iceland",
@@ -1163,9 +1163,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1653,
+        "confirmed": 1669,
         "deaths": 45,
-        "recovered": 1446
+        "recovered": 1459
     },
     {
         "Name": "조지아",
@@ -1291,7 +1291,7 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 897,
+        "confirmed": 898,
         "deaths": 15,
         "recovered": 859
     },
