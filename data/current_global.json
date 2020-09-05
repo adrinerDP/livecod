@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4027718,
-        "deaths": 69668,
-        "recovered": 3107453
+        "confirmed": 4034339,
+        "deaths": 69749,
+        "recovered": 3112669
     },
     {
         "Name": "러시아",
@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 382772,
-        "deaths": 22044,
-        "recovered": 330308
+        "confirmed": 384666,
+        "deaths": 22154,
+        "recovered": 332131
     },
     {
         "Name": "영국",
@@ -432,6 +432,14 @@
         "recovered": 18053
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 45277,
+        "deaths": 280,
+        "recovered": 27127
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -454,14 +462,6 @@
         "confirmed": 44293,
         "deaths": 1060,
         "recovered": 39599
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 44236,
-        "deaths": 271,
-        "recovered": 25561
     },
     {
         "Name": "스위스",
@@ -563,9 +563,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 25142,
-        "deaths": 170,
-        "recovered": 16437
+        "confirmed": 25575,
+        "deaths": 176,
+        "recovered": 16661
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 13881,
-        "deaths": 289,
-        "recovered": 9723
+        "confirmed": 13948,
+        "deaths": 290,
+        "recovered": 9851
     },
     {
         "Name": "Sudan",
@@ -699,9 +699,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10149,
+        "confirmed": 10178,
         "deaths": 259,
-        "recovered": 9367
+        "recovered": 9420
     },
     {
         "Name": "Albania",
@@ -1120,6 +1120,14 @@
         "recovered": 707
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2014,
+        "deaths": 14,
+        "recovered": 1601
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
@@ -1134,14 +1142,6 @@
         "confirmed": 2002,
         "deaths": 8,
         "recovered": 493
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 1984,
-        "deaths": 13,
-        "recovered": 1565
     },
     {
         "Name": "Yemen",

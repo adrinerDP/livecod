@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6389413,192132,3636272
 브라질,巴西,Brazil,4091801,125584,3278243
-인도,印度,India,4027718,69668,3107453
+인도,印度,India,4034339,69749,3112669
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,676848,29554,498523
 콜롬비아,哥伦比亚,Colombia,650062,20888,498221
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,517133,29418,0
 Argentina,,Argentina,461882,9623,331621
 칠레,智利,Chile,418469,11494,391248
-이란,伊朗,Iran,382772,22044,330308
+이란,伊朗,Iran,384666,22154,332131
 영국,英国,UK,342351,41537,0
 Bangladesh,,Bangladesh,323565,4447,217852
 사우디아라비아,沙特阿拉伯,Saudi Arabia,319141,4015,295063
@@ -53,10 +53,10 @@ Ethiopia,,Ethiopia,56516,880,20612
 Venezuela,,Venezuela,50973,412,41249
 알제리,阿尔及利亚,Algeria,45773,1539,32259
 코스타리카,哥斯达黎加,Costa Rica,45680,469,18053
+네팔,尼泊尔,Nepal,45277,280,27127
 Ghana,,Ghana,44777,283,43693
 아르메니아,亚美尼亚,Armenia,44649,895,39823
 Kyrgyzstan,,Kyrgyzstan,44293,1060,39599
-네팔,尼泊尔,Nepal,44236,271,25561
 스위스,瑞士,Switzerland,43957,2013,36500
 Uzbekistan,,Uzbekistan,42998,338,40392
 Moldova,,Moldova,38906,1047,27017
@@ -69,7 +69,7 @@ Kenya,,Kenya,34884,589,21059
 체코,捷克,Czechia,27249,429,19027
 호주,澳大利亚,Australia,26208,748,22331
 El Salvador,,El Salvador,26206,752,15587
-팔레스타인,巴勒斯坦,Palestine,25142,170,16437
+팔레스타인,巴勒斯坦,Palestine,25575,176,16661
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21142,639,14476
 Paraguay,,Paraguay,20654,398,10523
 카메룬,喀麦隆,Cameroon,19604,415,18448
@@ -80,13 +80,13 @@ Bulgaria,,Bulgaria,16954,665,12046
 Libya,,Libya,16445,262,1910
 Madagascar,,Madagascar,15187,198,14075
 North Macedonia,,North Macedonia,14871,609,12054
-세네갈,塞内加尔,Senegal,13881,289,9723
+세네갈,塞内加尔,Senegal,13948,290,9851
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12639,292,11572
 크로아티아,克罗地亚,Croatia,11739,197,8771
 노르웨이,挪威,Norway,11231,264,9348
 그리스,希腊,Greece,11200,279,3804
-DRC,,DRC,10149,259,9367
+DRC,,DRC,10178,259,9420
 Albania,,Albania,9967,306,5882
 Guinea,,Guinea,9649,61,8832
 말레이시아,马来西亚,Malaysia,9391,128,9113
@@ -139,9 +139,9 @@ Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2135,10,2029
 Sierra Leone,,Sierra Leone,2041,71,1602
 Trinidad and Tobago,,Trinidad and Tobago,2040,31,707
+Malta,,Malta,2014,14,1601
 Réunion,,Réunion,2002,10,880
 Botswana,,Botswana,2002,8,493
-Malta,,Malta,1984,13,1565
 Yemen,,Yemen,1983,572,1194
 New Zealand,,New Zealand,1767,24,1631
 Uruguay,,Uruguay,1653,45,1446
