@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6416821,
-        "deaths": 192522,
-        "recovered": 3685940
+        "confirmed": 6419342,
+        "deaths": 192544,
+        "recovered": 3686553
     },
     {
         "Name": "인도",
@@ -123,7 +123,7 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 309156,
+        "confirmed": 317706,
         "deaths": 30724,
         "recovered": 87206
     },
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 250791,
+        "confirmed": 251056,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -944,6 +944,14 @@
         "recovered": 3366
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 3539,
+        "deaths": 39,
+        "recovered": 1564
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
@@ -958,14 +966,6 @@
         "confirmed": 3374,
         "deaths": 40,
         "recovered": 2964
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 3353,
-        "deaths": 35,
-        "recovered": 1564
     },
     {
         "Name": "Somalia",
@@ -1149,7 +1149,7 @@
         "Name_en": "Yemen",
         "confirmed": 1983,
         "deaths": 572,
-        "recovered": 1194
+        "recovered": 1197
     },
     {
         "Name": "New Zealand",
@@ -1283,7 +1283,7 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1023,
+        "confirmed": 1034,
         "deaths": 77,
         "recovered": 914
     },
