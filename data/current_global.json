@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8225,
+        "confirmed": 8261,
         "deaths": 336,
         "recovered": 7350
     },
@@ -1011,9 +1011,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 3004,
+        "confirmed": 3040,
         "deaths": 86,
-        "recovered": 1920
+        "recovered": 1952
     },
     {
         "Name": "Jamaica",
