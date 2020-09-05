@@ -355,9 +355,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 68605,
-        "deaths": 1292,
-        "recovered": 52483
+        "confirmed": 70160,
+        "deaths": 1329,
+        "recovered": 53929
     },
     {
         "Name": "Honduras",
@@ -1003,9 +1003,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3041,
-        "deaths": 127,
-        "recovered": 698
+        "confirmed": 3104,
+        "deaths": 130,
+        "recovered": 715
     },
     {
         "Name": "Lithuania",
@@ -1035,9 +1035,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2814,
+        "confirmed": 2833,
         "deaths": 126,
-        "recovered": 2220
+        "recovered": 2233
     },
     {
         "Name": "South Sudan",
