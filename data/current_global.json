@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 670145,
-        "deaths": 29405,
-        "recovered": 489886
+        "confirmed": 676848,
+        "deaths": 29554,
+        "recovered": 498523
     },
     {
         "Name": "콜롬비아",
@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 86544,
-        "deaths": 9899,
-        "recovered": 18513
+        "confirmed": 87174,
+        "deaths": 9901,
+        "recovered": 18534
     },
     {
         "Name": "오만",
@@ -1019,9 +1019,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 2896,
-        "deaths": 29,
-        "recovered": 921
+        "confirmed": 2964,
+        "deaths": 30,
+        "recovered": 922
     },
     {
         "Name": "Angola",
@@ -1339,9 +1339,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 577,
+        "confirmed": 591,
         "deaths": 5,
-        "recovered": 220
+        "recovered": 221
     },
     {
         "Name": "Sint Maarten",
