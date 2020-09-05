@@ -443,9 +443,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 44461,
-        "deaths": 891,
-        "recovered": 39257
+        "confirmed": 44649,
+        "deaths": 895,
+        "recovered": 39823
     },
     {
         "Name": "Kyrgyzstan",
@@ -547,9 +547,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26207,
+        "confirmed": 26208,
         "deaths": 748,
-        "recovered": 22172
+        "recovered": 22331
     },
     {
         "Name": "El Salvador",
@@ -787,9 +787,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 7382,
-        "deaths": 621,
-        "recovered": 3944
+        "confirmed": 7892,
+        "deaths": 624,
+        "recovered": 3952
     },
     {
         "Name": "Mauritania",
@@ -1171,9 +1171,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 1596,
+        "confirmed": 1621,
         "deaths": 19,
-        "recovered": 1294
+        "recovered": 1302
     },
     {
         "Name": "Cyprus",
@@ -1363,9 +1363,9 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 490,
+        "confirmed": 492,
         "deaths": 7,
-        "recovered": 471
+        "recovered": 473
     },
     {
         "Name": "Papua New Guinea",
