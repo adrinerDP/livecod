@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6416659,
-        "deaths": 192520,
-        "recovered": 3644572
+        "confirmed": 6416821,
+        "deaths": 192522,
+        "recovered": 3685940
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 635078,
-        "deaths": 14678,
-        "recovered": 557818
+        "confirmed": 636884,
+        "deaths": 14779,
+        "recovered": 561204
     },
     {
         "Name": "멕시코",
@@ -659,9 +659,9 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13189,
-        "deaths": 823,
-        "recovered": 6612
+        "confirmed": 13407,
+        "deaths": 832,
+        "recovered": 6725
     },
     {
         "Name": "Zambia",
@@ -795,9 +795,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7126,
+        "confirmed": 7134,
         "deaths": 160,
-        "recovered": 6623
+        "recovered": 6658
     },
     {
         "Name": "룩셈부르크",
@@ -920,6 +920,14 @@
         "recovered": 2191
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4275,
+        "deaths": 42,
+        "recovered": 3611
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -934,14 +942,6 @@
         "confirmed": 4252,
         "deaths": 75,
         "recovered": 3366
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4200,
-        "deaths": 41,
-        "recovered": 3562
     },
     {
         "Name": "태국",
@@ -1531,7 +1531,7 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 78,
+        "confirmed": 88,
         "deaths": 1,
         "recovered": 39
     },
