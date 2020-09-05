@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6419342,192544,3686553
+미국,美国,United States,6421368,192683,3690434
 인도,印度,India,4110833,70678,3177667
 브라질,巴西,Brazil,4093586,125659,3278243
 러시아,俄罗斯,Russia,1020310,17759,838126
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,323565,4447,217852
 인도네시아,印度尼西亚,Indonesia,190665,7940,136401
 Ukraine,,Ukraine,133787,2811,61649
 캐나다,加拿大,Canada,131467,9143,116118
-이스라엘,以色列,Israel,128768,1007,101478
+이스라엘,以色列,Israel,128936,1007,101481
 카타르,卡塔尔,Qatar,119864,202,116780
 Bolivia,,Bolivia,119580,5343,67844
 에콰도르,厄瓜多尔,Ecuador,118045,6724,102304
@@ -74,7 +74,7 @@ El Salvador,,El Salvador,26206,752,15587
 Paraguay,,Paraguay,20654,398,10523
 레바논,黎巴嫩,Lebanon,20011,187,5868
 카메룬,喀麦隆,Cameroon,19604,415,18448
-Ivory Coast,,Ivory Coast,18269,119,17162
+Ivory Coast,,Ivory Coast,18472,119,17323
 덴마크,丹麦,Denmark,17736,627,15671
 Libya,,Libya,17094,272,2025
 Bulgaria,,Bulgaria,16954,665,12046
@@ -132,7 +132,7 @@ Mali,,Mali,2833,126,2233
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2491,64,2165
 Bahamas,,Bahamas,2476,55,948
-Aruba,,Aruba,2358,13,1119
+Aruba,,Aruba,2428,14,1206
 요르단,约旦,Jordan,2353,16,1700
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2194,40,1793
