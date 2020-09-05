@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6403293,192325,3638589
+미국,美国,United States,6404456,192358,3638655
+인도,印度,India,4103694,70633,3172300
 브라질,巴西,Brazil,4093586,125659,3278243
-인도,印度,India,4092550,70519,3162305
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,676848,29554,498523
 콜롬비아,哥伦比亚,Colombia,650062,20888,498221
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,323565,4447,217852
 인도네시아,印度尼西亚,Indonesia,190665,7940,136401
 Ukraine,,Ukraine,133787,2811,61649
 캐나다,加拿大,Canada,131467,9143,116118
-이스라엘,以色列,Israel,126419,993,100357
+이스라엘,以色列,Israel,128768,1007,101478
 카타르,卡塔尔,Qatar,119864,202,116780
 Bolivia,,Bolivia,119580,5343,67844
 에콰도르,厄瓜多尔,Ecuador,117175,6674,102200
@@ -64,12 +64,12 @@ Moldova,,Moldova,39473,1063,27799
 아제르바이잔,阿塞拜疆,Azerbaijan,37192,545,34565
 Kenya,,Kenya,35020,594,21158
 세르비아,塞尔维亚,Serbia,31849,723,30529
-아일랜드,冰岛,Ireland,29303,1777,23364
+아일랜드,冰岛,Ireland,29534,1777,23364
 오스트리아,奥地利,Austria,29087,735,24828
 체코,捷克,Czechia,27560,431,19033
 호주,澳大利亚,Australia,26207,748,22330
 El Salvador,,El Salvador,26206,752,15587
-팔레스타인,巴勒斯坦,Palestine,25575,176,16661
+팔레스타인,巴勒斯坦,Palestine,25575,177,16661
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21439,651,14636
 Paraguay,,Paraguay,20654,398,10523
 카메룬,喀麦隆,Cameroon,19604,415,18448
@@ -84,8 +84,8 @@ North Macedonia,,North Macedonia,14998,614,12149
 Sudan,,Sudan,13189,823,6612
 Zambia,,Zambia,12709,292,11668
 크로아티아,克罗地亚,Croatia,11739,197,8771
+그리스,希腊,Greece,11386,280,3804
 노르웨이,挪威,Norway,11254,264,9348
-그리스,希腊,Greece,11200,279,3804
 DRC,,DRC,10178,259,9420
 Albania,,Albania,10102,312,5976
 Guinea,,Guinea,9649,61,8832
@@ -123,7 +123,7 @@ Uganda,,Uganda,3353,35,1564
 Somalia,,Somalia,3332,97,2696
 Gambia,,Gambia,3150,99,1315
 슬로베니아,斯洛文尼亚,Slovenia,3122,135,2483
-스리랑카,斯里兰卡,Sri Lanka,3118,12,2918
+스리랑카,斯里兰卡,Sri Lanka,3121,12,2918
 Syria,,Syria,3041,127,698
 Lithuania,,Lithuania,3040,86,1952
 Jamaica,,Jamaica,2964,30,922
@@ -131,7 +131,7 @@ Angola,,Angola,2876,115,1167
 Mali,,Mali,2814,126,2220
 South Sudan,,South Sudan,2536,47,1290
 에스토니아,爱沙尼亚,Estonia,2491,64,2165
-Bahamas,,Bahamas,2386,50,893
+Bahamas,,Bahamas,2476,55,948
 Aruba,,Aruba,2358,13,1119
 요르단,约旦,Jordan,2353,16,1700
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
