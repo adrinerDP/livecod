@@ -1279,39 +1279,39 @@
     },
     {
         "date": "8/22",
-        "confirmed": 23200536.0,
+        "confirmed": 23200598.0,
         "deaths": 804387.0,
-        "recovered": 14911319.0
+        "recovered": 14911325.0
     },
     {
         "date": "8/23",
-        "confirmed": 23417487.0,
+        "confirmed": 23417506.0,
         "deaths": 808648.0,
-        "recovered": 15137203.0
+        "recovered": 15137610.0
     },
     {
         "date": "8/24",
-        "confirmed": 23643821.0,
-        "deaths": 812983.0,
-        "recovered": 15337252.0
+        "confirmed": 23643854.0,
+        "deaths": 812998.0,
+        "recovered": 15337659.0
     },
     {
         "date": "8/25",
-        "confirmed": 23885837.0,
-        "deaths": 819379.0,
-        "recovered": 15570191.0
+        "confirmed": 23885885.0,
+        "deaths": 819396.0,
+        "recovered": 15570598.0
     },
     {
         "date": "8/26",
-        "confirmed": 24173588.0,
-        "deaths": 825661.0,
-        "recovered": 15794441.0
+        "confirmed": 24173746.0,
+        "deaths": 825680.0,
+        "recovered": 15794947.0
     },
     {
         "date": "8/27",
-        "confirmed": 24452689.0,
-        "deaths": 831547.0,
-        "recovered": 15995995.0
+        "confirmed": 24452944.0,
+        "deaths": 831566.0,
+        "recovered": 15996510.0
     },
     {
         "date": "8/28",
