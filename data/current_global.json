@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6386535,
-        "deaths": 192032,
-        "recovered": 3630392
+        "confirmed": 6389057,
+        "deaths": 192111,
+        "recovered": 3635854
     },
     {
         "Name": "브라질",
@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 616894,
-        "deaths": 66329,
-        "recovered": 430287
+        "confirmed": 623090,
+        "deaths": 66851,
+        "recovered": 434667
     },
     {
         "Name": "스페인",
@@ -187,7 +187,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 131123,
+        "confirmed": 131124,
         "deaths": 9141,
         "recovered": 115926
     },
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 49877,
-        "deaths": 402,
-        "recovered": 40574
+        "confirmed": 50973,
+        "deaths": 412,
+        "recovered": 41249
     },
     {
         "Name": "알제리",
@@ -579,9 +579,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 19959,
-        "deaths": 373,
-        "recovered": 10251
+        "confirmed": 20654,
+        "deaths": 398,
+        "recovered": 10523
     },
     {
         "Name": "카메룬",
@@ -1155,9 +1155,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1764,
-        "deaths": 23,
-        "recovered": 1630
+        "confirmed": 1767,
+        "deaths": 24,
+        "recovered": 1631
     },
     {
         "Name": "Uruguay",
@@ -1200,20 +1200,20 @@
         "recovered": 1187
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 1408,
+        "deaths": 55,
+        "recovered": 1098
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
         "confirmed": 1401,
         "deaths": 44,
         "recovered": 805
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 1375,
-        "deaths": 55,
-        "recovered": 1075
     },
     {
         "Name": "Guadeloupe",
@@ -1248,6 +1248,14 @@
         "recovered": 1091
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1171,
+        "deaths": 7,
+        "recovered": 359
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1262,14 +1270,6 @@
         "confirmed": 1148,
         "deaths": 31,
         "recovered": 528
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1111,
-        "deaths": 6,
-        "recovered": 359
     },
     {
         "Name": "베트남",
@@ -1320,20 +1320,20 @@
         "recovered": 651
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 694,
+        "deaths": 0,
+        "recovered": 360
+    },
+    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
         "confirmed": 631,
         "deaths": 48,
         "recovered": 575
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 622,
-        "deaths": 0,
-        "recovered": 336
     },
     {
         "Name": "Turks and Caicos",
@@ -1376,20 +1376,20 @@
         "recovered": 232
     },
     {
+        "Name": "Burundi",
+        "Name_ch": "",
+        "Name_en": "Burundi",
+        "confirmed": 451,
+        "deaths": 1,
+        "recovered": 357
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
         "confirmed": 448,
         "deaths": 7,
         "recovered": 410
-    },
-    {
-        "Name": "Burundi",
-        "Name_ch": "",
-        "Name_en": "Burundi",
-        "confirmed": 448,
-        "deaths": 1,
-        "recovered": 357
     },
     {
         "Name": "Faeroe Islands",
@@ -1475,17 +1475,25 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 177,
+        "confirmed": 178,
         "deaths": 7,
-        "recovered": 150
+        "recovered": 153
     },
     {
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "confirmed": 174,
+        "confirmed": 175,
         "deaths": 9,
-        "recovered": 157
+        "recovered": 158
+    },
+    {
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+        "confirmed": 147,
+        "deaths": 1,
+        "recovered": 97
     },
     {
         "Name": "Brunei",
@@ -1494,14 +1502,6 @@
         "confirmed": 145,
         "deaths": 3,
         "recovered": 139
-    },
-    {
-        "Name": "모나코",
-        "Name_ch": "摩纳哥",
-        "Name_en": "Monaco",
-        "confirmed": 143,
-        "deaths": 1,
-        "recovered": 94
     },
     {
         "Name": "Seychelles",
@@ -1536,20 +1536,20 @@
         "recovered": 39
     },
     {
+        "Name": "British Virgin Islands",
+        "Name_ch": "",
+        "Name_en": "British Virgin Islands",
+        "confirmed": 63,
+        "deaths": 1,
+        "recovered": 10
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "confirmed": 61,
         "deaths": 0,
         "recovered": 57
-    },
-    {
-        "Name": "British Virgin Islands",
-        "Name_ch": "",
-        "Name_en": "British Virgin Islands",
-        "confirmed": 47,
-        "deaths": 1,
-        "recovered": 8
     },
     {
         "Name": "마카오",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85102,
+        "confirmed": 85112,
         "deaths": 4634,
-        "recovered": 80263
+        "recovered": 80284
     }
 ]
