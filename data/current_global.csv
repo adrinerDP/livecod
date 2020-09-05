@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6385720,192029,3629697
+미국,美国,United States,6386535,192032,3630392
 브라질,巴西,Brazil,4091801,125584,3278243
 인도,印度,India,4020239,69635,3104512
 러시아,俄罗斯,Russia,1015105,17649,832747
@@ -8,7 +8,7 @@
 남아프리카 공화국,南非共和国,South Africa,635078,14678,557818
 멕시코,墨西哥,Mexico,616894,66329,430287
 스페인,西班牙,Spain,517133,29418,0
-Argentina,,Argentina,451198,9468,331621
+Argentina,,Argentina,461882,9623,331621
 칠레,智利,Chile,418469,11494,391248
 이란,伊朗,Iran,382772,22044,330308
 영국,英国,UK,342351,41537,0
@@ -53,7 +53,7 @@ Ethiopia,,Ethiopia,56516,880,20612
 Venezuela,,Venezuela,49877,402,40574
 알제리,阿尔及利亚,Algeria,45773,1539,32259
 코스타리카,哥斯达黎加,Costa Rica,45680,469,18053
-Ghana,,Ghana,44713,280,43577
+Ghana,,Ghana,44777,283,43693
 아르메니아,亚美尼亚,Armenia,44461,891,39257
 네팔,尼泊尔,Nepal,44236,271,25561
 Kyrgyzstan,,Kyrgyzstan,44199,1060,39389
@@ -132,9 +132,9 @@ Mali,,Mali,2814,126,2220
 South Sudan,,South Sudan,2536,47,1290
 에스토니아,爱沙尼亚,Estonia,2456,64,2157
 Bahamas,,Bahamas,2386,50,893
+Aruba,,Aruba,2358,13,1119
 요르단,约旦,Jordan,2301,16,1676
-Aruba,,Aruba,2292,13,1031
-Guinea-Bissau,,Guinea-Bissau,2205,34,1127
+Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2194,40,1738
 Iceland,,Iceland,2135,10,2029
 Sierra Leone,,Sierra Leone,2041,71,1602
@@ -155,20 +155,20 @@ Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1306,82,1163
 안도라,安道尔,Andorra,1215,53,928
 Niger,,Niger,1177,69,1091
+Belize,,Belize,1152,15,271
 Lesotho,,Lesotho,1148,31,528
-Belize,,Belize,1118,13,255
 Myanmar,,Myanmar,1111,6,359
 베트남,越南,Vietnam,1049,35,772
 Chad,,Chad,1023,77,914
-Sao Tome and Principe,,Sao Tome and Principe,897,15,857
-Martinique,,Martinique,754,18,98
+Sao Tome and Principe,,Sao Tome and Principe,897,15,859
+Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,735,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,631,48,575
 French Polynesia,,French Polynesia,622,0,336
 Turks and Caicos,,Turks and Caicos,577,5,220
+Sint Maarten,,Sint Maarten,511,19,302
 Tanzania,,Tanzania,509,21,183
-Sint Maarten,,Sint Maarten,504,19,302
 대만,台湾,Taiwan,490,7,471
 Papua New Guinea,,Papua New Guinea,479,5,232
 Comoros,,Comoros,448,7,410
