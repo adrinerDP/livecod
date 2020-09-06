@@ -8,20 +8,20 @@
         "recovered": 3707138
     },
     {
+        "Name": "인도",
+        "Name_ch": "印度",
+        "Name_en": "India",
+        "confirmed": 4131690,
+        "deaths": 70802,
+        "recovered": 3195459
+    },
+    {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4123000,
         "deaths": 126230,
         "recovered": 3296702
-    },
-    {
-        "Name": "인도",
-        "Name_ch": "印度",
-        "Name_en": "India",
-        "confirmed": 4120846,
-        "deaths": 70732,
-        "recovered": 3183467
     },
     {
         "Name": "러시아",
@@ -499,17 +499,17 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 37192,
-        "deaths": 545,
-        "recovered": 34565
+        "confirmed": 37329,
+        "deaths": 548,
+        "recovered": 34705
     },
     {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 35020,
-        "deaths": 594,
-        "recovered": 21158
+        "confirmed": 35103,
+        "deaths": 597,
+        "recovered": 21230
     },
     {
         "Name": "세르비아",
