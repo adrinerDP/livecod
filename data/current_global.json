@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1020310,
-        "deaths": 17759,
-        "recovered": 838126
+        "confirmed": 1025505,
+        "deaths": 17820,
+        "recovered": 840949
     },
     {
         "Name": "페루",
@@ -768,6 +768,14 @@
         "recovered": 5822
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 8387,
+        "deaths": 624,
+        "recovered": 3958
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -782,14 +790,6 @@
         "confirmed": 8261,
         "deaths": 336,
         "recovered": 7350
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 7892,
-        "deaths": 624,
-        "recovered": 3952
     },
     {
         "Name": "Mauritania",
