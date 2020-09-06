@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6457446,193206,3722871
+미국,美国,United States,6457674,193207,3724542
 인도,印度,India,4202562,71687,3247297
-브라질,巴西,Brazil,4137521,126650,3317227
+브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,683702,29687,506422
 콜롬비아,哥伦比亚,Colombia,666521,21412,518229
@@ -66,7 +66,7 @@ Kenya,,Kenya,35103,597,21230
 세르비아,塞尔维亚,Serbia,31905,724,30637
 아일랜드,冰岛,Ireland,29672,1777,23364
 오스트리아,奥地利,Austria,29271,736,25043
-체코,捷克,Czechia,27957,435,19049
+체코,捷克,Czechia,28156,436,19053
 El Salvador,,El Salvador,26308,759,15815
 호주,澳大利亚,Australia,26279,753,22467
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
@@ -102,7 +102,7 @@ Mauritania,,Mauritania,7142,160,6669
 룩셈부르크,卢森堡,Luxembourg,6896,124,6126
 Zimbabwe,,Zimbabwe,6837,206,5345
 Malawi,,Malawi,5614,175,3551
-Montenegro,,Montenegro,5422,107,4224
+Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
 Equatorial Guinea,,Equatorial Guinea,4972,83,4413
 홍콩,香港,Hong Kong,4879,94,4510
@@ -114,8 +114,8 @@ Congo,,Congo,4628,102,1742
 슬로바키아,斯洛伐克,Slovakia,4614,37,2802
 Mozambique,,Mozambique,4444,27,2615
 Rwanda,,Rwanda,4374,19,2235
+Suriname,,Suriname,4346,85,3494
 Cabo Verde,,Cabo Verde,4330,42,3628
-Suriname,,Suriname,4320,77,3426
 Cuba,,Cuba,4309,101,3590
 Uganda,,Uganda,3667,41,1564
 태국,泰国,Thailand,3444,58,3281
