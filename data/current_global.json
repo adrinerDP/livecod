@@ -203,9 +203,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 128936,
+        "confirmed": 129173,
         "deaths": 1007,
-        "recovered": 101481
+        "recovered": 102104
     },
     {
         "Name": "Bolivia",
@@ -459,9 +459,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 44293,
+        "confirmed": 44316,
         "deaths": 1060,
-        "recovered": 39599
+        "recovered": 39815
     },
     {
         "Name": "스위스",
