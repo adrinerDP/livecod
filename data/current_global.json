@@ -1493,7 +1493,7 @@
         "Name_en": "Monaco",
         "confirmed": 147,
         "deaths": 1,
-        "recovered": 97
+        "recovered": 102
     },
     {
         "Name": "Brunei",
@@ -1549,7 +1549,7 @@
         "Name_en": "St. Vincent Grenadines",
         "confirmed": 61,
         "deaths": 0,
-        "recovered": 57
+        "recovered": 58
     },
     {
         "Name": "마카오",
