@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6453146,193121,3717505
+미국,美国,United States,6455179,193134,3718433
 인도,印度,India,4202562,71687,3247297
-브라질,巴西,Brazil,4123000,126266,3296702
+브라질,巴西,Brazil,4136509,126640,3296702
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,683702,29687,506422
 콜롬비아,哥伦比亚,Colombia,658456,21156,507770
@@ -48,8 +48,8 @@ Honduras,,Honduras,64352,2006,13115
 포르투갈,葡萄牙,Portugal,60258,1840,42953
 Ethiopia,,Ethiopia,58672,918,21307
 싱가포르,新加坡,Singapore,57022,27,56333
+바레인,巴林,Bahrain,55415,199,50946
 나이지리아,尼日利亚,Nigeria,54905,1054,42922
-바레인,巴林,Bahrain,54771,199,50645
 Venezuela,,Venezuela,52165,420,42006
 코스타리카,哥斯达黎加,Costa Rica,46920,478,18211
 알제리,阿尔及利亚,Algeria,46364,1556,32745
@@ -74,7 +74,7 @@ Paraguay,,Paraguay,21871,412,10810
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
 레바논,黎巴嫩,Lebanon,20426,191,6139
 카메룬,喀麦隆,Cameroon,19604,415,18448
-Ivory Coast,,Ivory Coast,18472,119,17323
+Ivory Coast,,Ivory Coast,18588,119,17472
 덴마크,丹麦,Denmark,17883,627,15760
 Libya,,Libya,17749,285,2081
 Bulgaria,,Bulgaria,17050,671,12132

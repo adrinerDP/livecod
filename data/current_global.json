@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6453146,
-        "deaths": 193121,
-        "recovered": 3717505
+        "confirmed": 6455179,
+        "deaths": 193134,
+        "recovered": 3718433
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4123000,
-        "deaths": 126266,
+        "confirmed": 4136509,
+        "deaths": 126640,
         "recovered": 3296702
     },
     {
@@ -392,20 +392,20 @@
         "recovered": 56333
     },
     {
+        "Name": "바레인",
+        "Name_ch": "巴林",
+        "Name_en": "Bahrain",
+        "confirmed": 55415,
+        "deaths": 199,
+        "recovered": 50946
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 54905,
         "deaths": 1054,
         "recovered": 42922
-    },
-    {
-        "Name": "바레인",
-        "Name_ch": "巴林",
-        "Name_en": "Bahrain",
-        "confirmed": 54771,
-        "deaths": 199,
-        "recovered": 50645
     },
     {
         "Name": "Venezuela",
@@ -603,9 +603,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18472,
+        "confirmed": 18588,
         "deaths": 119,
-        "recovered": 17323
+        "recovered": 17472
     },
     {
         "Name": "덴마크",
