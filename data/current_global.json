@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4110839,
+        "confirmed": 4113811,
         "deaths": 70679,
-        "recovered": 3177673
+        "recovered": 3180865
     },
     {
         "Name": "러시아",
@@ -1019,9 +1019,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 2964,
-        "deaths": 30,
-        "recovered": 922
+        "confirmed": 3024,
+        "deaths": 32,
+        "recovered": 950
     },
     {
         "Name": "Angola",
@@ -1339,9 +1339,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 591,
+        "confirmed": 598,
         "deaths": 5,
-        "recovered": 221
+        "recovered": 264
     },
     {
         "Name": "Sint Maarten",

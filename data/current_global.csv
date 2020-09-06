@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6431152,192818,3707000
 브라질,巴西,Brazil,4123000,126230,3296702
-인도,印度,India,4110839,70679,3177673
+인도,印度,India,4113811,70679,3180865
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,683702,29687,506422
 콜롬비아,哥伦比亚,Colombia,658456,21156,507770
@@ -126,7 +126,7 @@ Gambia,,Gambia,3150,99,1315
 스리랑카,斯里兰卡,Sri Lanka,3121,12,2918
 Syria,,Syria,3104,130,715
 Lithuania,,Lithuania,3040,86,1952
-Jamaica,,Jamaica,2964,30,922
+Jamaica,,Jamaica,3024,32,950
 Angola,,Angola,2935,117,1192
 Mali,,Mali,2833,126,2233
 South Sudan,,South Sudan,2544,48,1290
@@ -166,7 +166,7 @@ Martinique,,Martinique,758,18,98
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 French Polynesia,,French Polynesia,694,0,360
 Channel Islands,,Channel Islands,631,48,575
-Turks and Caicos,,Turks and Caicos,591,5,221
+Turks and Caicos,,Turks and Caicos,598,5,264
 Sint Maarten,,Sint Maarten,511,19,302
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,492,7,473
