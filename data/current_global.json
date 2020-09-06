@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6444645,
-        "deaths": 193020,
-        "recovered": 3708450
+        "confirmed": 6447054,
+        "deaths": 193027,
+        "recovered": 3713553
     },
     {
         "Name": "인도",
@@ -859,9 +859,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4819,
+        "confirmed": 4853,
         "deaths": 94,
-        "recovered": 3903
+        "recovered": 3951
     },
     {
         "Name": "Tunisia",
@@ -904,20 +904,20 @@
         "recovered": 2802
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 4444,
+        "deaths": 27,
+        "recovered": 2615
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4349,
         "deaths": 18,
         "recovered": 2199
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 4341,
-        "deaths": 26,
-        "recovered": 2579
     },
     {
         "Name": "Suriname",
@@ -1147,9 +1147,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 1983,
+        "confirmed": 1987,
         "deaths": 572,
-        "recovered": 1197
+        "recovered": 1200
     },
     {
         "Name": "New Zealand",
