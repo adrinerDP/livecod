@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 119864,
-        "deaths": 202,
-        "recovered": 116780
+        "confirmed": 120095,
+        "deaths": 203,
+        "recovered": 116998
     },
     {
         "Name": "에콰도르",
@@ -291,9 +291,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 86380,
-        "deaths": 705,
-        "recovered": 81828
+        "confirmed": 87072,
+        "deaths": 728,
+        "recovered": 82406
     },
     {
         "Name": "스웨덴",
@@ -779,8 +779,8 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8336,
-        "deaths": 212,
+        "confirmed": 8360,
+        "deaths": 214,
         "recovered": 5933
     },
     {
@@ -1691,7 +1691,7 @@
         "Name": "Saint Pierre Miquelon",
         "Name_ch": "",
         "Name_en": "Saint Pierre Miquelon",
-        "confirmed": 5,
+        "confirmed": 6,
         "deaths": 0,
         "recovered": 5
     },
