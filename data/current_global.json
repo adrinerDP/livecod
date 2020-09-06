@@ -440,20 +440,20 @@
         "recovered": 27127
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 44783,
+        "deaths": 897,
+        "recovered": 40089
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "confirmed": 44777,
         "deaths": 283,
         "recovered": 43693
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 44649,
-        "deaths": 895,
-        "recovered": 39823
     },
     {
         "Name": "Kyrgyzstan",
@@ -1203,7 +1203,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1425,
+        "confirmed": 1428,
         "deaths": 35,
         "recovered": 1187
     },
@@ -1277,7 +1277,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1049,
         "deaths": 35,
-        "recovered": 805
+        "recovered": 815
     },
     {
         "Name": "Chad",
