@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6455179,193134,3718433
+미국,美国,United States,6456028,193193,3719984
 인도,印度,India,4202562,71687,3247297
 브라질,巴西,Brazil,4136509,126640,3296702
 러시아,俄罗斯,Russia,1025505,17820,840949
@@ -29,7 +29,7 @@ Bolivia,,Bolivia,120241,5398,69566
 카타르,卡塔尔,Qatar,120095,203,116998
 에콰도르,厄瓜多尔,Ecuador,118045,6724,102304
 Kazakhstan,,Kazakhstan,106301,1588,99523
-이집트,埃及,Egypt,99712,5511,77208
+이집트,埃及,Egypt,99863,5530,78108
 도미니카 공화국,多明尼加共和国,Dominican Republic,99333,1845,72567
 Panama,,Panama,96305,2075,69223
 루마니아,尼亚,Romania,95014,3893,40307
@@ -77,11 +77,11 @@ Paraguay,,Paraguay,21871,412,10810
 Ivory Coast,,Ivory Coast,18588,119,17472
 덴마크,丹麦,Denmark,17883,627,15760
 Libya,,Libya,17749,285,2081
-Bulgaria,,Bulgaria,17050,671,12132
+Bulgaria,,Bulgaria,17089,676,12157
 Madagascar,,Madagascar,15319,200,14139
 North Macedonia,,North Macedonia,15090,617,12235
 세네갈,塞内加尔,Senegal,13987,290,9922
-Sudan,,Sudan,13407,832,6725
+Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,11964,198,9008
 그리스,希腊,Greece,11524,284,3804
@@ -132,7 +132,7 @@ Mali,,Mali,2842,127,2238
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2516,64,2170
 Bahamas,,Bahamas,2506,56,948
-Aruba,,Aruba,2428,14,1206
+Aruba,,Aruba,2449,14,1206
 요르단,约旦,Jordan,2411,16,1756
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Trinidad and Tobago,,Trinidad and Tobago,2234,33,724
@@ -159,7 +159,7 @@ Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1049,35,815
-Chad,,Chad,1034,77,914
+Chad,,Chad,1039,79,918
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
 Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
