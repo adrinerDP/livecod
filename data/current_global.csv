@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6448652,193041,3714315
+미국,美国,United States,6452455,193106,3714652
 인도,印度,India,4202562,71739,3247297
 브라질,巴西,Brazil,4123000,126266,3296702
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,683702,29687,506422
 콜롬비아,哥伦比亚,Colombia,658456,21156,507770
-남아프리카 공화국,南非共和国,South Africa,636884,14779,561204
+남아프리카 공화국,南非共和国,South Africa,638517,14889,563891
 멕시코,墨西哥,Mexico,629409,67326,438754
 스페인,西班牙,Spain,517133,29418,0
 Argentina,,Argentina,471806,9807,349132
@@ -113,7 +113,7 @@ Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 슬로바키아,斯洛伐克,Slovakia,4614,37,2802
 Mozambique,,Mozambique,4444,27,2615
-Rwanda,,Rwanda,4349,18,2199
+Rwanda,,Rwanda,4374,19,2235
 Suriname,,Suriname,4320,77,3426
 Cuba,,Cuba,4309,101,3590
 Cabo Verde,,Cabo Verde,4275,42,3611
@@ -127,7 +127,7 @@ Syria,,Syria,3171,134,730
 스리랑카,斯里兰卡,Sri Lanka,3122,12,2925
 Lithuania,,Lithuania,3083,86,1954
 Jamaica,,Jamaica,3024,32,950
-Angola,,Angola,2935,117,1192
+Angola,,Angola,2965,117,1198
 Mali,,Mali,2842,127,2238
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2516,64,2170
