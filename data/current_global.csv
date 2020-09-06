@@ -8,7 +8,7 @@
 남아프리카 공화국,南非共和国,South Africa,636884,14779,561204
 멕시코,墨西哥,Mexico,629409,67326,438754
 스페인,西班牙,Spain,517133,29418,0
-Argentina,,Argentina,471806,9739,340381
+Argentina,,Argentina,471806,9807,349132
 칠레,智利,Chile,420434,11551,392967
 이란,伊朗,Iran,386658,22293,333900
 영국,英国,UK,344164,41549,0
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,325157,4479,221275
 터키,土耳其,Turkey,278228,6620,250092
 이탈리아,义大利,Italy,276338,35534,209610
 이라크,伊拉克,Iraq,256719,7422,195259
-독일,德国,Germany,251065,9401,226208
+독일,德国,Germany,251130,9401,226208
 필리핀,菲律宾,Philippines,237365,3875,184687
 인도네시아,印度尼西亚,Indonesia,194109,8025,138575
 Ukraine,,Ukraine,135894,2846,62227
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,77481,2845,65595
 폴란드,波兰,Poland,70824,2120,54256
 모로코,摩洛哥,Morocco,70160,1329,53929
 Honduras,,Honduras,64352,2006,13115
-포르투갈,葡萄牙,Portugal,59943,1838,42793
+포르투갈,葡萄牙,Portugal,60258,1840,42953
 Ethiopia,,Ethiopia,57466,897,20776
 싱가포르,新加坡,Singapore,57022,27,56267
 나이지리아,尼日利亚,Nigeria,54905,1054,42922
@@ -71,7 +71,7 @@ El Salvador,,El Salvador,26308,759,15815
 호주,澳大利亚,Australia,26278,753,22462
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
 Paraguay,,Paraguay,21871,412,10810
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21439,651,14636
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
 레바논,黎巴嫩,Lebanon,20011,187,5868
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Ivory Coast,,Ivory Coast,18472,119,17323
@@ -82,7 +82,7 @@ Madagascar,,Madagascar,15319,200,14139
 North Macedonia,,North Macedonia,15090,617,12235
 세네갈,塞内加尔,Senegal,13987,290,9922
 Sudan,,Sudan,13407,832,6725
-Zambia,,Zambia,12709,292,11668
+Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,11964,198,9008
 그리스,希腊,Greece,11386,280,3804
 노르웨이,挪威,Norway,11296,264,9348
@@ -150,9 +150,9 @@ Cyprus,,Cyprus,1507,21,1237
 토고,多哥,Togo,1477,32,1094
 Guyana,,Guyana,1459,46,921
 라트비아,约旦,Latvia,1428,35,1187
+Myanmar,,Myanmar,1419,8,385
 Burkina Faso,,Burkina Faso,1408,55,1098
 Guadeloupe,,Guadeloupe,1363,18,336
-Myanmar,,Myanmar,1319,8,371
 Liberia,,Liberia,1306,82,1163
 안도라,安道尔,Andorra,1215,53,928
 Belize,,Belize,1194,15,287

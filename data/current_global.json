@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 471806,
-        "deaths": 9739,
-        "recovered": 340381
+        "deaths": 9807,
+        "recovered": 349132
     },
     {
         "Name": "칠레",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 251065,
+        "confirmed": 251130,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 59943,
-        "deaths": 1838,
-        "recovered": 42793
+        "confirmed": 60258,
+        "deaths": 1840,
+        "recovered": 42953
     },
     {
         "Name": "Ethiopia",
@@ -579,9 +579,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 21439,
-        "deaths": 651,
-        "recovered": 14636
+        "confirmed": 21560,
+        "deaths": 655,
+        "recovered": 14709
     },
     {
         "Name": "레바논",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12709,
-        "deaths": 292,
-        "recovered": 11668
+        "confirmed": 12776,
+        "deaths": 295,
+        "recovered": 11674
     },
     {
         "Name": "크로아티아",
@@ -1208,6 +1208,14 @@
         "recovered": 1187
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1419,
+        "deaths": 8,
+        "recovered": 385
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1222,14 +1230,6 @@
         "confirmed": 1363,
         "deaths": 18,
         "recovered": 336
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1319,
-        "deaths": 8,
-        "recovered": 371
     },
     {
         "Name": "Liberia",
