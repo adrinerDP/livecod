@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6452157,
-        "deaths": 193109,
+        "confirmed": 6453007,
+        "deaths": 193121,
         "recovered": 3715139
     },
     {
@@ -795,9 +795,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7134,
+        "confirmed": 7142,
         "deaths": 160,
-        "recovered": 6658
+        "recovered": 6669
     },
     {
         "Name": "룩셈부르크",
@@ -920,6 +920,14 @@
         "recovered": 2235
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4330,
+        "deaths": 42,
+        "recovered": 3628
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
@@ -934,14 +942,6 @@
         "confirmed": 4309,
         "deaths": 101,
         "recovered": 3590
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4275,
-        "deaths": 42,
-        "recovered": 3611
     },
     {
         "Name": "Uganda",
