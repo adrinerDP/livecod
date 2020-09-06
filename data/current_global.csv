@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6456028,193193,3719984
+미국,美国,United States,6457418,193206,3720620
 인도,印度,India,4202562,71687,3247297
-브라질,巴西,Brazil,4136509,126640,3296702
+브라질,巴西,Brazil,4137521,126650,3317227
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,683702,29687,506422
-콜롬비아,哥伦比亚,Colombia,658456,21156,507770
+콜롬비아,哥伦比亚,Colombia,666521,21412,518229
 남아프리카 공화국,南非共和国,South Africa,638517,14889,563891
 멕시코,墨西哥,Mexico,629409,67326,438754
 스페인,西班牙,Spain,517133,29418,0
@@ -42,15 +42,15 @@ Guatemala,,Guatemala,77481,2845,65595
 아랍에미리트,阿拉伯联合酋长国,UAE,73984,388,66095
 벨라루스,白俄罗斯,Belarus,72859,711,71864
 모로코,摩洛哥,Morocco,72394,1361,55274
-일본,日本,Japan,70876,1349,61445
+일본,日本,Japan,71419,1357,62076
 폴란드,波兰,Poland,70824,2120,54256
 Honduras,,Honduras,64352,2006,13115
 포르투갈,葡萄牙,Portugal,60258,1840,42953
 Ethiopia,,Ethiopia,58672,918,21307
 싱가포르,新加坡,Singapore,57022,27,56333
 바레인,巴林,Bahrain,55415,199,50946
-나이지리아,尼日利亚,Nigeria,54905,1054,42922
-Venezuela,,Venezuela,52165,420,42006
+나이지리아,尼日利亚,Nigeria,55005,1057,43013
+Venezuela,,Venezuela,53289,428,42006
 코스타리카,哥斯达黎加,Costa Rica,46920,478,18211
 알제리,阿尔及利亚,Algeria,46364,1556,32745
 네팔,尼泊尔,Nepal,46257,289,28941
@@ -68,7 +68,7 @@ Kenya,,Kenya,35103,597,21230
 오스트리아,奥地利,Austria,29271,736,25043
 체코,捷克,Czechia,27957,435,19049
 El Salvador,,El Salvador,26308,759,15815
-호주,澳大利亚,Australia,26278,753,22462
+호주,澳大利亚,Australia,26279,753,22467
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
 Paraguay,,Paraguay,21871,412,10810
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
@@ -85,7 +85,7 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,11964,198,9008
 그리스,希腊,Greece,11524,284,3804
-노르웨이,挪威,Norway,11330,264,9348
+노르웨이,挪威,Norway,11388,264,9348
 Albania,,Albania,10255,316,6106
 DRC,,DRC,10210,260,9439
 Guinea,,Guinea,9722,61,8886
@@ -148,10 +148,10 @@ Uruguay,,Uruguay,1669,45,1459
 조지아,格鲁吉亚,Georgia,1650,19,1310
 Cyprus,,Cyprus,1509,21,1237
 토고,多哥,Togo,1488,32,1106
-Guyana,,Guyana,1459,46,921
+Guyana,,Guyana,1468,46,954
+Burkina Faso,,Burkina Faso,1452,55,1103
 라트비아,约旦,Latvia,1428,35,1187
 Myanmar,,Myanmar,1419,8,385
-Burkina Faso,,Burkina Faso,1408,55,1098
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1307,82,1182
 안도라,安道尔,Andorra,1215,53,928
