@@ -235,7 +235,7 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106225,
+        "confirmed": 106301,
         "deaths": 1588,
         "recovered": 99018
     },
@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 87174,
-        "deaths": 9901,
-        "recovered": 18534
+        "confirmed": 87825,
+        "deaths": 9906,
+        "recovered": 18555
     },
     {
         "Name": "오만",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 63798,
-        "deaths": 1984,
-        "recovered": 12347
+        "confirmed": 64352,
+        "deaths": 2006,
+        "recovered": 13115
     },
     {
         "Name": "포르투갈",
@@ -547,8 +547,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26207,
-        "deaths": 748,
+        "confirmed": 26278,
+        "deaths": 753,
         "recovered": 22330
     },
     {
@@ -1224,20 +1224,20 @@
         "recovered": 336
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1319,
+        "deaths": 8,
+        "recovered": 371
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "confirmed": 1306,
         "deaths": 82,
         "recovered": 1163
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1253,
-        "deaths": 7,
-        "recovered": 371
     },
     {
         "Name": "안도라",
