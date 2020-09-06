@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6452455,
-        "deaths": 193106,
-        "recovered": 3714652
+        "confirmed": 6452157,
+        "deaths": 193109,
+        "recovered": 3715139
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
         "confirmed": 4202562,
-        "deaths": 71739,
+        "deaths": 71687,
         "recovered": 3247297
     },
     {
@@ -475,9 +475,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 43476,
-        "deaths": 345,
-        "recovered": 40880
+        "confirmed": 43587,
+        "deaths": 347,
+        "recovered": 41225
     },
     {
         "Name": "Moldova",
@@ -835,8 +835,8 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5387,
-        "deaths": 60,
+        "confirmed": 5388,
+        "deaths": 61,
         "recovered": 5327
     },
     {
@@ -1187,9 +1187,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1477,
+        "confirmed": 1488,
         "deaths": 32,
-        "recovered": 1094
+        "recovered": 1106
     },
     {
         "Name": "Guyana",
@@ -1235,9 +1235,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1306,
+        "confirmed": 1307,
         "deaths": 82,
-        "recovered": 1163
+        "recovered": 1182
     },
     {
         "Name": "안도라",
