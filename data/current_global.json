@@ -492,7 +492,7 @@
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "confirmed": 38398,
-        "deaths": 1409,
+        "deaths": 1412,
         "recovered": 30537
     },
     {
@@ -544,20 +544,20 @@
         "recovered": 19039
     },
     {
+        "Name": "El Salvador",
+        "Name_ch": "",
+        "Name_en": "El Salvador",
+        "confirmed": 26308,
+        "deaths": 759,
+        "recovered": 15815
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
         "confirmed": 26278,
         "deaths": 753,
         "recovered": 22330
-    },
-    {
-        "Name": "El Salvador",
-        "Name_ch": "",
-        "Name_en": "El Salvador",
-        "confirmed": 26206,
-        "deaths": 759,
-        "recovered": 15613
     },
     {
         "Name": "팔레스타인",
