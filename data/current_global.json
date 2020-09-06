@@ -115,9 +115,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 319932,
-        "deaths": 4049,
-        "recovered": 295842
+        "confirmed": 320688,
+        "deaths": 4081,
+        "recovered": 296737
     },
     {
         "Name": "프랑스",
@@ -188,8 +188,8 @@
         "Name_ch": "",
         "Name_en": "Ukraine",
         "confirmed": 135894,
-        "deaths": 2811,
-        "recovered": 61649
+        "deaths": 2846,
+        "recovered": 62227
     },
     {
         "Name": "캐나다",
@@ -404,7 +404,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 54771,
-        "deaths": 198,
+        "deaths": 199,
         "recovered": 50645
     },
     {
@@ -515,9 +515,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31849,
-        "deaths": 723,
-        "recovered": 30529
+        "confirmed": 31905,
+        "deaths": 724,
+        "recovered": 30637
     },
     {
         "Name": "아일랜드",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 14998,
-        "deaths": 614,
-        "recovered": 12149
+        "confirmed": 15090,
+        "deaths": 617,
+        "recovered": 12235
     },
     {
         "Name": "세네갈",
