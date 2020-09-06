@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6429805,192818,3706767
+미국,美国,United States,6431141,192818,3706991
 브라질,巴西,Brazil,4123000,126203,3296702
 인도,印度,India,4110839,70679,3177673
 러시아,俄罗斯,Russia,1020310,17759,838126
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,323565,4447,217852
 필리핀,菲律宾,Philippines,234570,3790,161668
 인도네시아,印度尼西亚,Indonesia,190665,7940,136401
 Ukraine,,Ukraine,133787,2811,61649
-캐나다,加拿大,Canada,131467,9143,116118
+캐나다,加拿大,Canada,131495,9143,116136
 이스라엘,以色列,Israel,128936,1007,101481
 카타르,卡塔尔,Qatar,119864,202,116780
 Bolivia,,Bolivia,119580,5343,67844
@@ -70,8 +70,8 @@ Kenya,,Kenya,35020,594,21158
 호주,澳大利亚,Australia,26207,748,22330
 El Salvador,,El Salvador,26206,752,15587
 팔레스타인,巴勒斯坦,Palestine,25575,177,16661
+Paraguay,,Paraguay,21871,412,10810
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21439,651,14636
-Paraguay,,Paraguay,20654,398,10523
 레바논,黎巴嫩,Lebanon,20011,187,5868
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Ivory Coast,,Ivory Coast,18472,119,17323
@@ -136,7 +136,7 @@ Aruba,,Aruba,2428,14,1206
 요르단,约旦,Jordan,2353,16,1700
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Trinidad and Tobago,,Trinidad and Tobago,2230,33,717
-Benin,,Benin,2194,40,1793
+Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2136,10,2038
 Réunion,,Réunion,2115,11,1313
 Sierra Leone,,Sierra Leone,2041,71,1602
@@ -148,15 +148,15 @@ Uruguay,,Uruguay,1669,45,1459
 조지아,格鲁吉亚,Georgia,1621,19,1302
 Cyprus,,Cyprus,1507,21,1237
 토고,多哥,Togo,1477,32,1094
+Guyana,,Guyana,1459,46,921
 라트비아,约旦,Latvia,1425,35,1187
 Burkina Faso,,Burkina Faso,1408,55,1098
-Guyana,,Guyana,1401,44,805
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1306,82,1163
 Myanmar,,Myanmar,1253,7,371
 안도라,安道尔,Andorra,1215,53,928
+Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
-Belize,,Belize,1152,15,271
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1049,35,805
 Chad,,Chad,1034,77,914
@@ -171,7 +171,7 @@ Sint Maarten,,Sint Maarten,511,19,302
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,492,7,473
 Papua New Guinea,,Papua New Guinea,488,5,232
-Burundi,,Burundi,451,1,357
+Burundi,,Burundi,460,1,357
 Comoros,,Comoros,448,7,410
 Faeroe Islands,,Faeroe Islands,413,0,379
 Mauritius,,Mauritius,356,10,335

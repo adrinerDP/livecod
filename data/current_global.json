@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6429805,
+        "confirmed": 6431141,
         "deaths": 192818,
-        "recovered": 3706767
+        "recovered": 3706991
     },
     {
         "Name": "브라질",
@@ -195,9 +195,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 131467,
+        "confirmed": 131495,
         "deaths": 9143,
-        "recovered": 116118
+        "recovered": 116136
     },
     {
         "Name": "이스라엘",
@@ -568,20 +568,20 @@
         "recovered": 16661
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 21871,
+        "deaths": 412,
+        "recovered": 10810
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
         "confirmed": 21439,
         "deaths": 651,
         "recovered": 14636
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 20654,
-        "deaths": 398,
-        "recovered": 10523
     },
     {
         "Name": "레바논",
@@ -1099,7 +1099,7 @@
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
-        "confirmed": 2194,
+        "confirmed": 2213,
         "deaths": 40,
         "recovered": 1793
     },
@@ -1192,6 +1192,14 @@
         "recovered": 1094
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 1459,
+        "deaths": 46,
+        "recovered": 921
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
@@ -1206,14 +1214,6 @@
         "confirmed": 1408,
         "deaths": 55,
         "recovered": 1098
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 1401,
-        "deaths": 44,
-        "recovered": 805
     },
     {
         "Name": "Guadeloupe",
@@ -1248,20 +1248,20 @@
         "recovered": 928
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1194,
+        "deaths": 15,
+        "recovered": 287
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "confirmed": 1177,
         "deaths": 69,
         "recovered": 1091
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1152,
-        "deaths": 15,
-        "recovered": 271
     },
     {
         "Name": "Lesotho",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 451,
+        "confirmed": 460,
         "deaths": 1,
         "recovered": 357
     },
