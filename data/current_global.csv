@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6431152,192818,3707000
-브라질,巴西,Brazil,4123000,126203,3296702
+브라질,巴西,Brazil,4123000,126230,3296702
 인도,印度,India,4110839,70679,3177673
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,683702,29687,506422
@@ -14,7 +14,7 @@ Argentina,,Argentina,471806,9739,340381
 영국,英国,UK,344164,41549,0
 Bangladesh,,Bangladesh,323565,4447,217852
 사우디아라비아,沙特阿拉伯,Saudi Arabia,319932,4049,295842
-프랑스,法国,France,317706,30724,87206
+프랑스,法国,France,317706,30724,87447
 파키스탄,巴基斯坦,Pakistan,298025,6340,282553
 터키,土耳其,Turkey,278228,6620,250092
 이탈리아,义大利,Italy,276338,35534,209610
@@ -25,8 +25,8 @@ Bangladesh,,Bangladesh,323565,4447,217852
 Ukraine,,Ukraine,133787,2811,61649
 캐나다,加拿大,Canada,131495,9143,116136
 이스라엘,以色列,Israel,128936,1007,101481
+Bolivia,,Bolivia,120241,5398,69566
 카타르,卡塔尔,Qatar,119864,202,116780
-Bolivia,,Bolivia,119580,5343,67844
 에콰도르,厄瓜多尔,Ecuador,118045,6724,102304
 Kazakhstan,,Kazakhstan,106225,1588,99018
 이집트,埃及,Egypt,99712,5511,77208
@@ -107,10 +107,10 @@ Djibouti,,Djibouti,5387,60,5327
 Equatorial Guinea,,Equatorial Guinea,4972,83,4413
 홍콩,香港,Hong Kong,4858,94,4492
 Eswatini,,Eswatini,4819,94,3903
+Tunisia,,Tunisia,4776,93,1701
 CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
-Tunisia,,Tunisia,4542,87,1699
 슬로바키아,斯洛伐克,Slovakia,4526,37,2797
 Rwanda,,Rwanda,4349,18,2199
 Mozambique,,Mozambique,4341,26,2579
@@ -143,7 +143,7 @@ Sierra Leone,,Sierra Leone,2041,71,1602
 Malta,,Malta,2014,14,1601
 Botswana,,Botswana,2002,8,493
 Yemen,,Yemen,1983,572,1197
-New Zealand,,New Zealand,1767,24,1631
+New Zealand,,New Zealand,1772,24,1632
 Uruguay,,Uruguay,1669,45,1459
 조지아,格鲁吉亚,Georgia,1621,19,1302
 Cyprus,,Cyprus,1507,21,1237
@@ -172,7 +172,7 @@ Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,492,7,473
 Papua New Guinea,,Papua New Guinea,488,5,232
 Burundi,,Burundi,460,1,357
-Comoros,,Comoros,448,7,410
+Comoros,,Comoros,452,7,410
 Faeroe Islands,,Faeroe Islands,413,0,379
 Mauritius,,Mauritius,356,10,335
 Isle of Man,,Isle of Man,336,24,312

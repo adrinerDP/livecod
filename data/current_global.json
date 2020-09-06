@@ -12,7 +12,7 @@
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4123000,
-        "deaths": 126203,
+        "deaths": 126230,
         "recovered": 3296702
     },
     {
@@ -125,7 +125,7 @@
         "Name_en": "France",
         "confirmed": 317706,
         "deaths": 30724,
-        "recovered": 87206
+        "recovered": 87447
     },
     {
         "Name": "파키스탄",
@@ -208,20 +208,20 @@
         "recovered": 101481
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "confirmed": 120241,
+        "deaths": 5398,
+        "recovered": 69566
+    },
+    {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
         "confirmed": 119864,
         "deaths": 202,
         "recovered": 116780
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "confirmed": 119580,
-        "deaths": 5343,
-        "recovered": 67844
     },
     {
         "Name": "에콰도르",
@@ -864,6 +864,14 @@
         "recovered": 3903
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 4776,
+        "deaths": 93,
+        "recovered": 1701
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -886,14 +894,6 @@
         "confirmed": 4628,
         "deaths": 102,
         "recovered": 1742
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 4542,
-        "deaths": 87,
-        "recovered": 1699
     },
     {
         "Name": "슬로바키아",
@@ -1155,9 +1155,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1767,
+        "confirmed": 1772,
         "deaths": 24,
-        "recovered": 1631
+        "recovered": 1632
     },
     {
         "Name": "Uruguay",
@@ -1387,7 +1387,7 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 448,
+        "confirmed": 452,
         "deaths": 7,
         "recovered": 410
     },
