@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6434850,192887,3707191
+미국,美国,United States,6440109,192950,3707215
 인도,印度,India,4160493,71120,3219750
 브라질,巴西,Brazil,4123000,126230,3296702
 러시아,俄罗斯,Russia,1025505,17820,840949
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,325157,4479,221275
 터키,土耳其,Turkey,278228,6620,250092
 이탈리아,义大利,Italy,277634,35541,210015
 이라크,伊拉克,Iraq,256719,7422,195259
-독일,德国,Germany,251130,9401,226208
+독일,德国,Germany,251226,9401,226208
 필리핀,菲律宾,Philippines,237365,3875,184687
 인도네시아,印度尼西亚,Indonesia,194109,8025,138575
 Ukraine,,Ukraine,135894,2846,62227
@@ -84,10 +84,10 @@ North Macedonia,,North Macedonia,15090,617,12235
 Sudan,,Sudan,13407,832,6725
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,11964,198,9008
-그리스,希腊,Greece,11386,280,3804
+그리스,希腊,Greece,11524,284,3804
 노르웨이,挪威,Norway,11330,264,9348
-DRC,,DRC,10178,259,9420
-Albania,,Albania,10102,312,5976
+Albania,,Albania,10255,316,6106
+DRC,,DRC,10210,260,9439
 Guinea,,Guinea,9722,61,8886
 말레이시아,马来西亚,Malaysia,9397,128,9115
 French Guiana,,French Guiana,9322,62,8870
@@ -117,7 +117,7 @@ Mozambique,,Mozambique,4341,26,2579
 Suriname,,Suriname,4320,77,3426
 Cuba,,Cuba,4298,100,3570
 Cabo Verde,,Cabo Verde,4275,42,3611
-Uganda,,Uganda,3539,39,1564
+Uganda,,Uganda,3667,41,1564
 태국,泰国,Thailand,3444,58,3281
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3362,97,2696
@@ -133,7 +133,7 @@ South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2516,64,2170
 Bahamas,,Bahamas,2506,56,948
 Aruba,,Aruba,2428,14,1206
-요르단,约旦,Jordan,2353,16,1700
+요르단,约旦,Jordan,2411,16,1756
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Trinidad and Tobago,,Trinidad and Tobago,2234,33,724
 Benin,,Benin,2213,40,1793
@@ -175,7 +175,7 @@ Burundi,,Burundi,460,1,357
 Comoros,,Comoros,452,7,410
 Faeroe Islands,,Faeroe Islands,413,0,379
 Mauritius,,Mauritius,356,10,335
-Isle of Man,,Isle of Man,336,24,312
+Isle of Man,,Isle of Man,337,24,312
 Eritrea,,Eritrea,330,0,295
 지브롤터,直布罗陀,Gibraltar,315,0,273
 Mongolia,,Mongolia,310,0,296

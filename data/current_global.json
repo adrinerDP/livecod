@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6434850,
-        "deaths": 192887,
-        "recovered": 3707191
+        "confirmed": 6440109,
+        "deaths": 192950,
+        "recovered": 3707215
     },
     {
         "Name": "인도",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 251130,
+        "confirmed": 251226,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -683,8 +683,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 11386,
-        "deaths": 280,
+        "confirmed": 11524,
+        "deaths": 284,
         "recovered": 3804
     },
     {
@@ -696,20 +696,20 @@
         "recovered": 9348
     },
     {
-        "Name": "DRC",
-        "Name_ch": "",
-        "Name_en": "DRC",
-        "confirmed": 10178,
-        "deaths": 259,
-        "recovered": 9420
-    },
-    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 10102,
-        "deaths": 312,
-        "recovered": 5976
+        "confirmed": 10255,
+        "deaths": 316,
+        "recovered": 6106
+    },
+    {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "confirmed": 10210,
+        "deaths": 260,
+        "recovered": 9439
     },
     {
         "Name": "Guinea",
@@ -947,8 +947,8 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 3539,
-        "deaths": 39,
+        "confirmed": 3667,
+        "deaths": 41,
         "recovered": 1564
     },
     {
@@ -1075,9 +1075,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 2353,
+        "confirmed": 2411,
         "deaths": 16,
-        "recovered": 1700
+        "recovered": 1756
     },
     {
         "Name": "Guinea-Bissau",
@@ -1411,7 +1411,7 @@
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
-        "confirmed": 336,
+        "confirmed": 337,
         "deaths": 24,
         "recovered": 312
     },
