@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4196616,
+        "confirmed": 4197563,
         "deaths": 71739,
-        "recovered": 3241203
+        "recovered": 3242753
     },
     {
         "Name": "브라질",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 251226,
+        "confirmed": 251394,
         "deaths": 9401,
         "recovered": 226208
     },
@@ -195,9 +195,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 131653,
+        "confirmed": 131858,
         "deaths": 9145,
-        "recovered": 116136
+        "recovered": 116311
     },
     {
         "Name": "이스라엘",
@@ -336,6 +336,14 @@
         "recovered": 71864
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 72394,
+        "deaths": 1361,
+        "recovered": 55274
+    },
+    {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
@@ -350,14 +358,6 @@
         "confirmed": 70824,
         "deaths": 2120,
         "recovered": 54256
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 70160,
-        "deaths": 1329,
-        "recovered": 53929
     },
     {
         "Name": "Honduras",
@@ -379,9 +379,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 57466,
-        "deaths": 897,
-        "recovered": 20776
+        "confirmed": 58672,
+        "deaths": 918,
+        "recovered": 21307
     },
     {
         "Name": "싱가포르",
@@ -752,20 +752,20 @@
         "recovered": 7424
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "confirmed": 8584,
+        "deaths": 29,
+        "recovered": 5936
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 8514,
         "deaths": 87,
         "recovered": 3643
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "confirmed": 8486,
-        "deaths": 29,
-        "recovered": 5822
     },
     {
         "Name": "헝가리",
@@ -819,7 +819,7 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5611,
+        "confirmed": 5614,
         "deaths": 175,
         "recovered": 3551
     },
