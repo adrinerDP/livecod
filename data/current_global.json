@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6428808,
-        "deaths": 192812,
-        "recovered": 3705720
+        "confirmed": 6429805,
+        "deaths": 192818,
+        "recovered": 3706767
     },
     {
         "Name": "브라질",
@@ -824,20 +824,20 @@
         "recovered": 3551
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 5422,
+        "deaths": 107,
+        "recovered": 4224
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
         "confirmed": 5387,
         "deaths": 60,
         "recovered": 5327
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 5275,
-        "deaths": 106,
-        "recovered": 4203
     },
     {
         "Name": "Equatorial Guinea",
@@ -920,28 +920,28 @@
         "recovered": 2579
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4320,
+        "deaths": 76,
+        "recovered": 3426
+    },
+    {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4298,
+        "deaths": 100,
+        "recovered": 3570
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "confirmed": 4275,
         "deaths": 42,
         "recovered": 3611
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4266,
-        "deaths": 100,
-        "recovered": 3487
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4252,
-        "deaths": 75,
-        "recovered": 3366
     },
     {
         "Name": "Uganda",
@@ -1027,9 +1027,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 2876,
-        "deaths": 115,
-        "recovered": 1167
+        "confirmed": 2935,
+        "deaths": 117,
+        "recovered": 1192
     },
     {
         "Name": "Mali",
@@ -1277,7 +1277,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1049,
         "deaths": 35,
-        "recovered": 786
+        "recovered": 805
     },
     {
         "Name": "Chad",
@@ -1477,7 +1477,7 @@
         "Name_en": "Barbados",
         "confirmed": 178,
         "deaths": 7,
-        "recovered": 153
+        "recovered": 154
     },
     {
         "Name": "Bermuda",
