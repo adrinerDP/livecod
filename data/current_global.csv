@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6434526,192886,3707186
-인도,印度,India,4131690,70802,3195459
+인도,印度,India,4160493,71120,3219750
 브라질,巴西,Brazil,4123000,126230,3296702
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,683702,29687,506422
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,325157,4479,221275
 필리핀,菲律宾,Philippines,237365,3875,184687
 인도네시아,印度尼西亚,Indonesia,194109,8025,138575
 Ukraine,,Ukraine,135894,2846,62227
-캐나다,加拿大,Canada,131495,9143,116136
+캐나다,加拿大,Canada,131653,9145,116136
 이스라엘,以色列,Israel,129349,1010,102107
 Bolivia,,Bolivia,120241,5398,69566
 카타르,卡塔尔,Qatar,120095,203,116998
@@ -40,14 +40,14 @@ Panama,,Panama,96305,2075,69223
 Guatemala,,Guatemala,77481,2845,65595
 네덜란드,荷兰,Netherlands,74787,6243,0
 아랍에미리트,阿拉伯联合酋长国,UAE,73984,388,66095
-벨라루스,白俄罗斯,Belarus,72663,705,71843
+벨라루스,白俄罗斯,Belarus,72859,711,71864
 일본,日本,Japan,70876,1349,61445
 폴란드,波兰,Poland,70824,2120,54256
 모로코,摩洛哥,Morocco,70160,1329,53929
 Honduras,,Honduras,64352,2006,13115
 포르투갈,葡萄牙,Portugal,60258,1840,42953
 Ethiopia,,Ethiopia,57466,897,20776
-싱가포르,新加坡,Singapore,57022,27,56267
+싱가포르,新加坡,Singapore,57022,27,56333
 나이지리아,尼日利亚,Nigeria,54905,1054,42922
 바레인,巴林,Bahrain,54771,199,50645
 Venezuela,,Venezuela,52165,420,42006
@@ -85,7 +85,7 @@ Sudan,,Sudan,13407,832,6725
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,11964,198,9008
 그리스,希腊,Greece,11386,280,3804
-노르웨이,挪威,Norway,11296,264,9348
+노르웨이,挪威,Norway,11330,264,9348
 DRC,,DRC,10178,259,9420
 Albania,,Albania,10102,312,5976
 Guinea,,Guinea,9722,61,8886
@@ -131,11 +131,11 @@ Angola,,Angola,2935,117,1192
 Mali,,Mali,2833,126,2233
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2516,64,2170
-Bahamas,,Bahamas,2476,55,948
+Bahamas,,Bahamas,2506,56,948
 Aruba,,Aruba,2428,14,1206
 요르단,约旦,Jordan,2353,16,1700
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
-Trinidad and Tobago,,Trinidad and Tobago,2230,33,717
+Trinidad and Tobago,,Trinidad and Tobago,2234,33,724
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2136,10,2038
 Réunion,,Réunion,2115,11,1313

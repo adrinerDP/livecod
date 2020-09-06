@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4131690,
-        "deaths": 70802,
-        "recovered": 3195459
+        "confirmed": 4160493,
+        "deaths": 71120,
+        "recovered": 3219750
     },
     {
         "Name": "브라질",
@@ -195,8 +195,8 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 131495,
-        "deaths": 9143,
+        "confirmed": 131653,
+        "deaths": 9145,
         "recovered": 116136
     },
     {
@@ -331,9 +331,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 72663,
-        "deaths": 705,
-        "recovered": 71843
+        "confirmed": 72859,
+        "deaths": 711,
+        "recovered": 71864
     },
     {
         "Name": "일본",
@@ -389,7 +389,7 @@
         "Name_en": "Singapore",
         "confirmed": 57022,
         "deaths": 27,
-        "recovered": 56267
+        "recovered": 56333
     },
     {
         "Name": "나이지리아",
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11296,
+        "confirmed": 11330,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1059,8 +1059,8 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 2476,
-        "deaths": 55,
+        "confirmed": 2506,
+        "deaths": 56,
         "recovered": 948
     },
     {
@@ -1091,9 +1091,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 2230,
+        "confirmed": 2234,
         "deaths": 33,
-        "recovered": 717
+        "recovered": 724
     },
     {
         "Name": "Benin",
