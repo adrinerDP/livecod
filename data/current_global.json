@@ -19,9 +19,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4118583,
-        "deaths": 70712,
-        "recovered": 3180999
+        "confirmed": 4120846,
+        "deaths": 70732,
+        "recovered": 3183467
     },
     {
         "Name": "러시아",
@@ -312,20 +312,20 @@
         "recovered": 65595
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 74787,
+        "deaths": 6243,
+        "recovered": 0
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
         "confirmed": 73984,
         "deaths": 388,
         "recovered": 66095
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 73862,
-        "deaths": 6241,
-        "recovered": 0
     },
     {
         "Name": "벨라루스",
@@ -563,9 +563,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 25575,
-        "deaths": 177,
-        "recovered": 16661
+        "confirmed": 26127,
+        "deaths": 181,
+        "recovered": 16843
     },
     {
         "Name": "Paraguay",
@@ -608,20 +608,20 @@
         "recovered": 17323
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 17883,
+        "deaths": 627,
+        "recovered": 15760
+    },
+    {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
         "confirmed": 17749,
         "deaths": 285,
         "recovered": 2081
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 17736,
-        "deaths": 627,
-        "recovered": 15671
     },
     {
         "Name": "Bulgaria",
@@ -976,20 +976,20 @@
         "recovered": 2696
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3197,
+        "deaths": 99,
+        "recovered": 1315
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
         "confirmed": 3165,
         "deaths": 135,
         "recovered": 2483
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3150,
-        "deaths": 99,
-        "recovered": 1315
     },
     {
         "Name": "스리랑카",
@@ -1531,9 +1531,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 88,
+        "confirmed": 92,
         "deaths": 1,
-        "recovered": 39
+        "recovered": 45
     },
     {
         "Name": "British Virgin Islands",
