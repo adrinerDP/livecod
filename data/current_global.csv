@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6431152,192818,3707000
+미국,美国,United States,6431160,192820,3707000
 브라질,巴西,Brazil,4123000,126230,3296702
-인도,印度,India,4113811,70679,3180865
+인도,印度,India,4114773,70704,3180999
 러시아,俄罗斯,Russia,1020310,17759,838126
 페루,秘鲁,Peru,683702,29687,506422
 콜롬비아,哥伦比亚,Colombia,658456,21156,507770
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,323565,4447,217852
 독일,德国,Germany,251056,9401,226208
 필리핀,菲律宾,Philippines,234570,3790,161668
 인도네시아,印度尼西亚,Indonesia,190665,7940,136401
-Ukraine,,Ukraine,133787,2811,61649
+Ukraine,,Ukraine,135894,2811,61649
 캐나다,加拿大,Canada,131495,9143,116136
 이스라엘,以色列,Israel,129173,1007,102104
 Bolivia,,Bolivia,120241,5398,69566
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,52165,420,42006
 네팔,尼泊尔,Nepal,45277,280,27127
 Ghana,,Ghana,44777,283,43693
 아르메니아,亚美尼亚,Armenia,44649,895,39823
-Kyrgyzstan,,Kyrgyzstan,44316,1060,39815
+Kyrgyzstan,,Kyrgyzstan,44403,1060,39826
 스위스,瑞士,Switzerland,43957,2013,37100
 Uzbekistan,,Uzbekistan,43293,343,40774
 Moldova,,Moldova,39473,1063,27799
