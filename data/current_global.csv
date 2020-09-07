@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6460421,193253,3726099
-인도,印度,India,4204613,71687,3250429
+인도,印度,India,4208645,71711,3250429
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1025505,17820,840949
 페루,秘鲁,Peru,689977,29838,515039
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,53289,428,42006
 코스타리카,哥斯达黎加,Costa Rica,46920,478,18211
 알제리,阿尔及利亚,Algeria,46364,1556,32745
 네팔,尼泊尔,Nepal,46257,289,28941
-아르메니아,亚美尼亚,Armenia,44783,897,40089
+아르메니아,亚美尼亚,Armenia,44845,900,40121
 Ghana,,Ghana,44777,283,43693
 Kyrgyzstan,,Kyrgyzstan,44458,1060,39960
 스위스,瑞士,Switzerland,44401,2013,37100
@@ -99,8 +99,8 @@ Maldives,,Maldives,8584,29,5936
 Haiti,,Haiti,8360,214,5933
 핀란드,芬兰,Finland,8291,336,7350
 Mauritania,,Mauritania,7142,160,6669
+Zimbabwe,,Zimbabwe,7116,208,5373
 룩셈부르크,卢森堡,Luxembourg,6950,124,6126
-Zimbabwe,,Zimbabwe,6837,206,5345
 Malawi,,Malawi,5614,175,3551
 Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
@@ -150,7 +150,7 @@ Cyprus,,Cyprus,1509,21,1237
 토고,多哥,Togo,1488,32,1106
 Guyana,,Guyana,1468,46,954
 Burkina Faso,,Burkina Faso,1452,55,1103
-라트비아,约旦,Latvia,1428,35,1187
+라트비아,约旦,Latvia,1429,35,1187
 Myanmar,,Myanmar,1419,8,385
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1307,82,1182

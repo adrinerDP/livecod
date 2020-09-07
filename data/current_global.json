@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4204613,
-        "deaths": 71687,
+        "confirmed": 4208645,
+        "deaths": 71711,
         "recovered": 3250429
     },
     {
@@ -443,9 +443,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 44783,
-        "deaths": 897,
-        "recovered": 40089
+        "confirmed": 44845,
+        "deaths": 900,
+        "recovered": 40121
     },
     {
         "Name": "Ghana",
@@ -800,20 +800,20 @@
         "recovered": 6669
     },
     {
+        "Name": "Zimbabwe",
+        "Name_ch": "",
+        "Name_en": "Zimbabwe",
+        "confirmed": 7116,
+        "deaths": 208,
+        "recovered": 5373
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "confirmed": 6950,
         "deaths": 124,
         "recovered": 6126
-    },
-    {
-        "Name": "Zimbabwe",
-        "Name_ch": "",
-        "Name_en": "Zimbabwe",
-        "confirmed": 6837,
-        "deaths": 206,
-        "recovered": 5345
     },
     {
         "Name": "Malawi",
@@ -1211,7 +1211,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1428,
+        "confirmed": 1429,
         "deaths": 35,
         "recovered": 1187
     },
