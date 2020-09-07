@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4137606,
-        "deaths": 126686,
+        "confirmed": 4139257,
+        "deaths": 126736,
         "recovered": 3317227
     },
     {
@@ -99,8 +99,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 347152,
-        "deaths": 41551,
+        "confirmed": 350100,
+        "deaths": 41554,
         "recovered": 0
     },
     {
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 252964,
-        "deaths": 9401,
+        "confirmed": 253120,
+        "deaths": 9403,
         "recovered": 227000
     },
     {
@@ -1176,6 +1176,14 @@
         "recovered": 1459
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1518,
+        "deaths": 8,
+        "recovered": 388
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -1214,14 +1222,6 @@
         "confirmed": 1429,
         "deaths": 35,
         "recovered": 1187
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1419,
-        "deaths": 8,
-        "recovered": 385
     },
     {
         "Name": "Guadeloupe",
