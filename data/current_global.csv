@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6473347,193388,3735226
+미국,美国,United States,6474897,193392,3735798
 인도,印度,India,4276777,72809,3320947
 브라질,巴西,Brazil,4139257,126736,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -12,7 +12,7 @@ Argentina,,Argentina,478792,9912,357388
 칠레,智利,Chile,424274,11652,395717
 이란,伊朗,Iran,388810,22410,335572
 영국,英国,UK,350100,41554,0
-프랑스,法国,France,328980,30726,87447
+프랑스,法国,France,328980,30726,87836
 Bangladesh,,Bangladesh,327359,4516,224573
 사우디아라비아,沙特阿拉伯,Saudi Arabia,321456,4107,297623
 파키스탄,巴基斯坦,Pakistan,298903,6345,286016
@@ -84,7 +84,7 @@ North Macedonia,,North Macedonia,15127,623,12486
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,12081,201,9266
-그리스,希腊,Greece,11524,289,3804
+그리스,希腊,Greece,11663,289,3804
 노르웨이,挪威,Norway,11462,264,9348
 Albania,,Albania,10406,319,6186
 DRC,,DRC,10233,260,9451
@@ -187,7 +187,7 @@ Barbados,,Barbados,178,7,154
 Bermuda,,Bermuda,175,9,158
 모나코,摩纳哥,Monaco,147,1,102
 Brunei,,Brunei,145,3,139
-Seychelles,,Seychelles,136,0,127
+Seychelles,,Seychelles,137,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
 Curaçao,,Curaçao,102,1,45
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
