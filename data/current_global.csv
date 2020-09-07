@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6479772,193438,3740396
-인도,印度,India,4276777,72809,3320947
+미국,美国,United States,6480562,193452,3740978
+인도,印度,India,4277584,72816,3321420
 브라질,巴西,Brazil,4147794,126960,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
@@ -29,8 +29,8 @@ Bolivia,,Bolivia,120769,7008,71489
 카타르,卡塔尔,Qatar,120348,205,117241
 에콰도르,厄瓜多尔,Ecuador,110092,10576,91242
 Kazakhstan,,Kazakhstan,106361,1588,99654
+도미니카 공화국,多明尼加共和国,Dominican Republic,99898,1864,73228
 이집트,埃及,Egypt,99863,5530,78108
-도미니카 공화국,多明尼加共和国,Dominican Republic,99333,1845,72567
 Panama,,Panama,97043,2086,69661
 루마니아,尼亚,Romania,95897,3926,40454
 쿠웨이트,科威特,Kuwait,90387,546,81037
@@ -88,7 +88,7 @@ Zambia,,Zambia,12776,295,11674
 노르웨이,挪威,Norway,11462,264,9348
 Albania,,Albania,10406,319,6186
 DRC,,DRC,10233,260,9451
-Guinea,,Guinea,9798,61,8928
+Guinea,,Guinea,9816,62,8956
 말레이시아,马来西亚,Malaysia,9459,128,9124
 French Guiana,,French Guiana,9355,62,8902
 헝가리,匈牙利,Hungary,8963,625,3961
@@ -96,12 +96,12 @@ Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8810,91,3806
 Maldives,,Maldives,8667,29,6052
 Gabon,,Gabon,8601,53,7424
-Haiti,,Haiti,8360,214,5933
+Haiti,,Haiti,8362,214,5933
 핀란드,芬兰,Finland,8327,336,7350
+Zimbabwe,,Zimbabwe,7298,210,5455
 Mauritania,,Mauritania,7142,160,6669
-Zimbabwe,,Zimbabwe,7116,208,5373
 룩셈부르크,卢森堡,Luxembourg,6950,124,6126
-Malawi,,Malawi,5614,175,3551
+Malawi,,Malawi,5621,176,3590
 Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
 Tunisia,,Tunisia,5041,93,1752
