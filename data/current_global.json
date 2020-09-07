@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 251744,
+        "confirmed": 252069,
         "deaths": 9401,
         "recovered": 227000
     },
@@ -299,8 +299,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 84985,
-        "deaths": 5835,
+        "confirmed": 85558,
+        "deaths": 5837,
         "recovered": 0
     },
     {
@@ -548,7 +548,7 @@
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
         "confirmed": 26779,
-        "deaths": 183,
+        "deaths": 184,
         "recovered": 17270
     },
     {
