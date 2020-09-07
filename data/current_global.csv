@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6480562,193452,3740978
+미국,美国,United States,6481241,193478,3741579
 인도,印度,India,4277584,72816,3321420
 브라질,巴西,Brazil,4147794,126960,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,327359,4516,224573
 파키스탄,巴基斯坦,Pakistan,298903,6345,286016
 터키,土耳其,Turkey,281509,6730,252152
 이탈리아,义大利,Italy,278784,35553,210238
-이라크,伊拉克,Iraq,260370,7512,198560
+이라크,伊拉克,Iraq,264684,7589,202859
 독일,德国,Germany,253625,9405,227000
 필리핀,菲律宾,Philippines,238727,3890,184906
 인도네시아,印度尼西亚,Indonesia,196989,8130,140652
@@ -82,7 +82,7 @@ Madagascar,,Madagascar,15352,202,14184
 North Macedonia,,North Macedonia,15127,623,12486
 세네갈,塞内加尔,Senegal,14014,291,10037
 Sudan,,Sudan,13437,833,6730
-Zambia,,Zambia,12776,295,11674
+Zambia,,Zambia,12836,295,11748
 크로아티아,克罗地亚,Croatia,12081,201,9266
 그리스,希腊,Greece,11663,289,3804
 노르웨이,挪威,Norway,11462,264,9348
@@ -105,9 +105,9 @@ Malawi,,Malawi,5621,176,3590
 Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
 Tunisia,,Tunisia,5041,93,1752
-Equatorial Guinea,,Equatorial Guinea,4972,83,4413
+Equatorial Guinea,,Equatorial Guinea,4985,83,4454
 홍콩,香港,Hong Kong,4890,98,4524
-Eswatini,,Eswatini,4853,94,3951
+Eswatini,,Eswatini,4884,94,4029
 CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
 슬로바키아,斯洛伐克,Slovakia,4636,37,2836
@@ -148,7 +148,7 @@ New Zealand,,New Zealand,1776,24,1634
 Uruguay,,Uruguay,1679,45,1459
 Myanmar,,Myanmar,1518,8,388
 Cyprus,,Cyprus,1510,22,1237
-토고,多哥,Togo,1488,32,1106
+토고,多哥,Togo,1493,33,1114
 Guyana,,Guyana,1468,46,954
 Burkina Faso,,Burkina Faso,1452,55,1103
 라트비아,约旦,Latvia,1429,35,1187

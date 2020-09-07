@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6480562,
-        "deaths": 193452,
-        "recovered": 3740978
+        "confirmed": 6481241,
+        "deaths": 193478,
+        "recovered": 3741579
     },
     {
         "Name": "인도",
@@ -155,9 +155,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 260370,
-        "deaths": 7512,
-        "recovered": 198560
+        "confirmed": 264684,
+        "deaths": 7589,
+        "recovered": 202859
     },
     {
         "Name": "독일",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12776,
+        "confirmed": 12836,
         "deaths": 295,
-        "recovered": 11674
+        "recovered": 11748
     },
     {
         "Name": "크로아티아",
@@ -851,9 +851,9 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 4972,
+        "confirmed": 4985,
         "deaths": 83,
-        "recovered": 4413
+        "recovered": 4454
     },
     {
         "Name": "홍콩",
@@ -867,9 +867,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4853,
+        "confirmed": 4884,
         "deaths": 94,
-        "recovered": 3951
+        "recovered": 4029
     },
     {
         "Name": "CAR",
@@ -1195,9 +1195,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1488,
-        "deaths": 32,
-        "recovered": 1106
+        "confirmed": 1493,
+        "deaths": 33,
+        "recovered": 1114
     },
     {
         "Name": "Guyana",
