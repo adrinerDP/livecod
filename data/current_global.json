@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6483479,
-        "deaths": 193482,
-        "recovered": 3743164
+        "confirmed": 6484670,
+        "deaths": 193507,
+        "recovered": 3754003
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4147794,
         "deaths": 126960,
-        "recovered": 3317227
+        "recovered": 3355564
     },
     {
         "Name": "러시아",
@@ -403,9 +403,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 55005,
-        "deaths": 1057,
-        "recovered": 43013
+        "confirmed": 55160,
+        "deaths": 1061,
+        "recovered": 43231
     },
     {
         "Name": "Venezuela",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 17089,
-        "deaths": 676,
-        "recovered": 12157
+        "confirmed": 17146,
+        "deaths": 677,
+        "recovered": 12189
     },
     {
         "Name": "Madagascar",
@@ -771,9 +771,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8601,
+        "confirmed": 8608,
         "deaths": 53,
-        "recovered": 7424
+        "recovered": 7533
     },
     {
         "Name": "Haiti",
@@ -803,17 +803,17 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7142,
+        "confirmed": 7165,
         "deaths": 160,
-        "recovered": 6669
+        "recovered": 6681
     },
     {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 6950,
+        "confirmed": 6960,
         "deaths": 124,
-        "recovered": 6126
+        "recovered": 6256
     },
     {
         "Name": "Malawi",
@@ -1080,20 +1080,20 @@
         "recovered": 1817
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2277,
+        "deaths": 37,
+        "recovered": 734
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 2277,
         "deaths": 13,
         "recovered": 1313
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2254,
-        "deaths": 35,
-        "recovered": 734
     },
     {
         "Name": "Guinea-Bissau",
@@ -1160,20 +1160,20 @@
         "recovered": 1634
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 1693,
+        "deaths": 45,
+        "recovered": 1466
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 1684,
         "deaths": 19,
         "recovered": 1315
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 1679,
-        "deaths": 45,
-        "recovered": 1459
     },
     {
         "Name": "Myanmar",
@@ -1235,9 +1235,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1307,
+        "confirmed": 1311,
         "deaths": 82,
-        "recovered": 1182
+        "recovered": 1190
     },
     {
         "Name": "안도라",

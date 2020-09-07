@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6483479,193482,3743164
+미국,美国,United States,6484670,193507,3754003
 인도,印度,India,4277584,72816,3321420
-브라질,巴西,Brazil,4147794,126960,3317227
+브라질,巴西,Brazil,4147794,126960,3355564
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
 콜롬비아,哥伦比亚,Colombia,671848,21615,529279
@@ -49,7 +49,7 @@ Honduras,,Honduras,64764,2007,13418
 Ethiopia,,Ethiopia,59648,933,21789
 싱가포르,新加坡,Singapore,57044,27,56408
 바레인,巴林,Bahrain,56076,200,51240
-나이지리아,尼日利亚,Nigeria,55005,1057,43013
+나이지리아,尼日利亚,Nigeria,55160,1061,43231
 Venezuela,,Venezuela,53289,428,42006
 코스타리카,哥斯达黎加,Costa Rica,48780,510,19083
 네팔,尼泊尔,Nepal,47236,300,30677
@@ -77,7 +77,7 @@ Paraguay,,Paraguay,22486,435,11133
 Libya,,Libya,18834,296,2126
 Ivory Coast,,Ivory Coast,18701,119,17599
 덴마크,丹麦,Denmark,18113,628,15833
-Bulgaria,,Bulgaria,17089,676,12157
+Bulgaria,,Bulgaria,17146,677,12189
 Madagascar,,Madagascar,15352,202,14184
 North Macedonia,,North Macedonia,15127,623,12486
 세네갈,塞内加尔,Senegal,14014,291,10037
@@ -95,12 +95,12 @@ French Guiana,,French Guiana,9355,62,8902
 Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8810,91,3806
 Maldives,,Maldives,8667,29,6052
-Gabon,,Gabon,8601,53,7424
+Gabon,,Gabon,8608,53,7533
 Haiti,,Haiti,8362,214,5933
 핀란드,芬兰,Finland,8327,336,7350
 Zimbabwe,,Zimbabwe,7298,210,5455
-Mauritania,,Mauritania,7142,160,6669
-룩셈부르크,卢森堡,Luxembourg,6950,124,6126
+Mauritania,,Mauritania,7165,160,6681
+룩셈부르크,卢森堡,Luxembourg,6960,124,6256
 Malawi,,Malawi,5621,176,3590
 Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
@@ -134,8 +134,8 @@ South Sudan,,South Sudan,2545,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
 Aruba,,Aruba,2482,15,1244
 요르단,约旦,Jordan,2478,17,1817
+Trinidad and Tobago,,Trinidad and Tobago,2277,37,734
 Réunion,,Réunion,2277,13,1313
-Trinidad and Tobago,,Trinidad and Tobago,2254,35,734
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2141,10,2050
@@ -144,8 +144,8 @@ Malta,,Malta,2076,14,1690
 Sierra Leone,,Sierra Leone,2054,71,1611
 Yemen,,Yemen,1989,573,1201
 New Zealand,,New Zealand,1776,24,1634
+Uruguay,,Uruguay,1693,45,1466
 조지아,格鲁吉亚,Georgia,1684,19,1315
-Uruguay,,Uruguay,1679,45,1459
 Myanmar,,Myanmar,1518,8,388
 Cyprus,,Cyprus,1510,22,1237
 토고,多哥,Togo,1493,33,1114
@@ -153,7 +153,7 @@ Guyana,,Guyana,1468,46,954
 Burkina Faso,,Burkina Faso,1452,55,1103
 라트비아,约旦,Latvia,1429,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
-Liberia,,Liberia,1307,82,1182
+Liberia,,Liberia,1311,82,1190
 안도라,安道尔,Andorra,1261,53,934
 Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
