@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6460421,
+        "confirmed": 6460470,
         "deaths": 193253,
         "recovered": 3726099
     },
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 89582,
-        "deaths": 544,
-        "recovered": 80521
+        "confirmed": 90387,
+        "deaths": 546,
+        "recovered": 81037
     },
     {
         "Name": "벨기에",
@@ -331,9 +331,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 72859,
-        "deaths": 711,
-        "recovered": 71864
+        "confirmed": 73031,
+        "deaths": 716,
+        "recovered": 71883
     },
     {
         "Name": "모로코",
@@ -619,9 +619,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 17883,
-        "deaths": 627,
-        "recovered": 15760
+        "confirmed": 18113,
+        "deaths": 628,
+        "recovered": 15833
     },
     {
         "Name": "Bulgaria",
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 13987,
-        "deaths": 290,
-        "recovered": 9922
+        "confirmed": 14014,
+        "deaths": 291,
+        "recovered": 10037
     },
     {
         "Name": "Sudan",
@@ -1277,7 +1277,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1049,
         "deaths": 35,
-        "recovered": 815
+        "recovered": 853
     },
     {
         "Name": "Chad",
