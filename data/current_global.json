@@ -544,6 +544,14 @@
         "recovered": 19053
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "confirmed": 26779,
+        "deaths": 183,
+        "recovered": 17270
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
@@ -558,14 +566,6 @@
         "confirmed": 26322,
         "deaths": 762,
         "recovered": 22603
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "confirmed": 26127,
-        "deaths": 181,
-        "recovered": 16843
     },
     {
         "Name": "Paraguay",
