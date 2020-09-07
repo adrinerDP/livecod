@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6476863,
-        "deaths": 193404,
-        "recovered": 3735798
+        "confirmed": 6478758,
+        "deaths": 193412,
+        "recovered": 3738643
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 638517,
-        "deaths": 14889,
-        "recovered": 563891
+        "confirmed": 639362,
+        "deaths": 15004,
+        "recovered": 566555
     },
     {
         "Name": "멕시코",
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 253120,
-        "deaths": 9403,
+        "confirmed": 253536,
+        "deaths": 9404,
         "recovered": 227000
     },
     {
@@ -416,20 +416,20 @@
         "recovered": 42006
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 48780,
+        "deaths": 510,
+        "recovered": 19083
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 47236,
         "deaths": 300,
         "recovered": 30677
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 46920,
-        "deaths": 478,
-        "recovered": 18211
     },
     {
         "Name": "알제리",
@@ -907,9 +907,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 4444,
+        "confirmed": 4557,
         "deaths": 27,
-        "recovered": 2615
+        "recovered": 2697
     },
     {
         "Name": "Rwanda",
