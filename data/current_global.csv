@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6460250,193250,3725970
+미국,美国,United States,6460421,193253,3726099
 인도,印度,India,4204613,71687,3250429
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1025505,17820,840949
@@ -22,9 +22,9 @@ Bangladesh,,Bangladesh,325157,4479,221275
 독일,德国,Germany,251724,9401,227000
 필리핀,菲律宾,Philippines,237365,3875,184687
 인도네시아,印度尼西亚,Indonesia,194109,8025,138575
-Ukraine,,Ukraine,135894,2846,62227
+Ukraine,,Ukraine,138068,2877,62606
 캐나다,加拿大,Canada,131895,9145,116357
-이스라엘,以色列,Israel,130644,1019,102477
+이스라엘,以色列,Israel,131641,1019,103846
 Bolivia,,Bolivia,120769,5398,71489
 카타르,卡塔尔,Qatar,120095,203,116998
 에콰도르,厄瓜多尔,Ecuador,118045,6724,102304
@@ -56,19 +56,19 @@ Venezuela,,Venezuela,53289,428,42006
 네팔,尼泊尔,Nepal,46257,289,28941
 아르메니아,亚美尼亚,Armenia,44783,897,40089
 Ghana,,Ghana,44777,283,43693
-Kyrgyzstan,,Kyrgyzstan,44403,1060,39826
+Kyrgyzstan,,Kyrgyzstan,44458,1060,39960
 스위스,瑞士,Switzerland,44401,2013,37100
-Uzbekistan,,Uzbekistan,43587,347,41225
+Uzbekistan,,Uzbekistan,43775,350,41277
 Moldova,,Moldova,39797,1063,27799
-아프가니스탄,阿富汗,Afghanistan,38398,1412,30537
+아프가니스탄,阿富汗,Afghanistan,38494,1415,30557
 아제르바이잔,阿塞拜疆,Azerbaijan,37329,548,34705
 Kenya,,Kenya,35103,597,21230
 세르비아,塞尔维亚,Serbia,31905,724,30637
 아일랜드,冰岛,Ireland,29672,1777,23364
 오스트리아,奥地利,Austria,29271,736,25043
 체코,捷克,Czechia,28156,436,19053
-호주,澳大利亚,Australia,26319,762,22467
-El Salvador,,El Salvador,26308,759,15815
+호주,澳大利亚,Australia,26322,762,22602
+El Salvador,,El Salvador,26308,764,15822
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
 Paraguay,,Paraguay,22486,435,11133
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
@@ -144,8 +144,8 @@ Malta,,Malta,2039,14,1627
 Botswana,,Botswana,2002,8,493
 Yemen,,Yemen,1987,572,1200
 New Zealand,,New Zealand,1776,24,1634
+조지아,格鲁吉亚,Georgia,1684,19,1315
 Uruguay,,Uruguay,1679,45,1459
-조지아,格鲁吉亚,Georgia,1650,19,1310
 Cyprus,,Cyprus,1509,21,1237
 토고,多哥,Togo,1488,32,1106
 Guyana,,Guyana,1468,46,954
@@ -181,7 +181,7 @@ Eritrea,,Eritrea,330,0,295
 Mongolia,,Mongolia,310,0,296
 캄보디아,柬埔寨,Cambodia,274,0,272
 Saint Martin,,Saint Martin,239,6,79
-부탄,不丹,Bhutan,228,0,150
+부탄,不丹,Bhutan,230,0,151
 Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,178,7,154
 Bermuda,,Bermuda,175,9,158
