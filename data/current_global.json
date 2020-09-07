@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6473314,
+        "confirmed": 6473347,
         "deaths": 193388,
         "recovered": 3735226
     },
@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4251587,
-        "deaths": 72321,
-        "recovered": 3298881
+        "confirmed": 4276777,
+        "deaths": 72809,
+        "recovered": 3320947
     },
     {
         "Name": "브라질",
@@ -108,7 +108,7 @@
         "Name_ch": "法国",
         "Name_en": "France",
         "confirmed": 328980,
-        "deaths": 30724,
+        "deaths": 30726,
         "recovered": 87447
     },
     {
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 109784,
-        "deaths": 10524,
+        "confirmed": 110092,
+        "deaths": 10576,
         "recovered": 91242
     },
     {
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11388,
+        "confirmed": 11462,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1120,6 +1120,14 @@
         "recovered": 2050
     },
     {
+        "Name": "Botswana",
+        "Name_ch": "",
+        "Name_en": "Botswana",
+        "confirmed": 2126,
+        "deaths": 9,
+        "recovered": 493
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -1136,20 +1144,12 @@
         "recovered": 1611
     },
     {
-        "Name": "Botswana",
-        "Name_ch": "",
-        "Name_en": "Botswana",
-        "confirmed": 2002,
-        "deaths": 8,
-        "recovered": 493
-    },
-    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 1987,
-        "deaths": 572,
-        "recovered": 1200
+        "confirmed": 1989,
+        "deaths": 573,
+        "recovered": 1201
     },
     {
         "Name": "New Zealand",
@@ -1187,8 +1187,8 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1509,
-        "deaths": 21,
+        "confirmed": 1510,
+        "deaths": 22,
         "recovered": 1237
     },
     {
