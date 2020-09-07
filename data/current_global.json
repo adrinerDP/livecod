@@ -396,7 +396,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 55415,
-        "deaths": 199,
+        "deaths": 200,
         "recovered": 50946
     },
     {
@@ -736,6 +736,14 @@
         "recovered": 8870
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 8963,
+        "deaths": 625,
+        "recovered": 3961
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
@@ -766,14 +774,6 @@
         "confirmed": 8584,
         "deaths": 29,
         "recovered": 5936
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 8387,
-        "deaths": 624,
-        "recovered": 3958
     },
     {
         "Name": "Haiti",
