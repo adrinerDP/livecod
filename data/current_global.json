@@ -107,9 +107,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 325157,
-        "deaths": 4479,
-        "recovered": 221275
+        "confirmed": 327359,
+        "deaths": 4516,
+        "recovered": 224573
     },
     {
         "Name": "프랑스",
@@ -291,9 +291,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 87072,
-        "deaths": 728,
-        "recovered": 82406
+        "confirmed": 87328,
+        "deaths": 734,
+        "recovered": 82805
     },
     {
         "Name": "스웨덴",
@@ -984,20 +984,20 @@
         "recovered": 1315
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 3190,
+        "deaths": 135,
+        "recovered": 2530
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 3171,
         "deaths": 134,
         "recovered": 730
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 3165,
-        "deaths": 135,
-        "recovered": 2483
     },
     {
         "Name": "스리랑카",
