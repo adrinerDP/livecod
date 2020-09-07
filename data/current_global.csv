@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6470816,193358,3734553
+미국,美国,United States,6473314,193388,3735226
 인도,印度,India,4251587,72321,3298881
 브라질,巴西,Brazil,4139257,126736,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -7,7 +7,7 @@
 콜롬비아,哥伦比亚,Colombia,666521,21412,518229
 남아프리카 공화국,南非共和国,South Africa,638517,14889,563891
 멕시코,墨西哥,Mexico,634023,67558,442268
-스페인,西班牙,Spain,517133,29418,0
+스페인,西班牙,Spain,525549,29516,0
 Argentina,,Argentina,478792,9912,357388
 칠레,智利,Chile,424274,11652,395717
 이란,伊朗,Iran,388810,22410,335572
@@ -16,7 +16,7 @@ Argentina,,Argentina,478792,9912,357388
 Bangladesh,,Bangladesh,327359,4516,224573
 사우디아라비아,沙特阿拉伯,Saudi Arabia,321456,4107,297623
 파키스탄,巴基斯坦,Pakistan,298903,6345,286016
-터키,土耳其,Turkey,279806,6673,251105
+터키,土耳其,Turkey,281509,6730,252152
 이탈리아,义大利,Italy,278784,35553,210238
 이라크,伊拉克,Iraq,260370,7512,198560
 독일,德国,Germany,253120,9403,227000
@@ -40,13 +40,13 @@ Panama,,Panama,97043,2086,69661
 Guatemala,,Guatemala,77828,2862,66584
 네덜란드,荷兰,Netherlands,75584,6243,0
 아랍에미리트,阿拉伯联合酋长国,UAE,74454,390,66533
+모로코,摩洛哥,Morocco,73780,1394,56096
 벨라루스,白俄罗斯,Belarus,73031,716,71883
-모로코,摩洛哥,Morocco,72394,1361,55274
 일본,日本,Japan,71419,1357,62076
 폴란드,波兰,Poland,71126,2124,55113
 Honduras,,Honduras,64764,2007,13418
 포르투갈,葡萄牙,Portugal,60507,1843,43016
-Ethiopia,,Ethiopia,58672,918,21307
+Ethiopia,,Ethiopia,59648,933,21789
 싱가포르,新加坡,Singapore,57044,27,56408
 바레인,巴林,Bahrain,55415,200,50946
 나이지리아,尼日利亚,Nigeria,55005,1057,43013
@@ -64,7 +64,7 @@ Moldova,,Moldova,40055,1074,27799
 아제르바이잔,阿塞拜疆,Azerbaijan,37418,551,34837
 Kenya,,Kenya,35205,599,21310
 세르비아,塞尔维亚,Serbia,31941,725,30637
-아일랜드,冰岛,Ireland,29672,1777,23364
+아일랜드,冰岛,Ireland,29774,1777,23364
 오스트리아,奥地利,Austria,29561,746,25300
 체코,捷克,Czechia,28374,436,19053
 팔레스타인,巴勒斯坦,Palestine,26779,184,17270
@@ -94,8 +94,8 @@ French Guiana,,French Guiana,9355,62,8902
 헝가리,匈牙利,Hungary,8963,625,3961
 Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8810,91,3806
+Maldives,,Maldives,8667,29,6052
 Gabon,,Gabon,8601,53,7424
-Maldives,,Maldives,8584,29,5936
 Haiti,,Haiti,8360,214,5933
 핀란드,芬兰,Finland,8327,336,7350
 Mauritania,,Mauritania,7142,160,6669
@@ -130,7 +130,7 @@ Lithuania,,Lithuania,3100,86,1955
 Angola,,Angola,2965,117,1198
 Mali,,Mali,2870,127,2246
 Bahamas,,Bahamas,2546,58,976
-South Sudan,,South Sudan,2544,48,1290
+South Sudan,,South Sudan,2545,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
 요르단,约旦,Jordan,2478,17,1817
 Aruba,,Aruba,2449,14,1206
@@ -154,7 +154,7 @@ Burkina Faso,,Burkina Faso,1452,55,1103
 라트비아,约旦,Latvia,1429,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1307,82,1182
-안도라,安道尔,Andorra,1215,53,928
+안도라,安道尔,Andorra,1261,53,934
 Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
