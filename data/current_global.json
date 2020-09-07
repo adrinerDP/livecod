@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6465902,
+        "confirmed": 6466498,
         "deaths": 193283,
         "recovered": 3726119
     },
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 120095,
-        "deaths": 203,
-        "recovered": 116998
+        "confirmed": 120348,
+        "deaths": 205,
+        "recovered": 117241
     },
     {
         "Name": "에콰도르",
@@ -731,9 +731,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9322,
+        "confirmed": 9355,
         "deaths": 62,
-        "recovered": 8870
+        "recovered": 8902
     },
     {
         "Name": "헝가리",
@@ -1080,6 +1080,14 @@
         "recovered": 1756
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 2277,
+        "deaths": 13,
+        "recovered": 1313
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1094,14 +1102,6 @@
         "confirmed": 2245,
         "deaths": 38,
         "recovered": 1127
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 2222,
-        "deaths": 13,
-        "recovered": 1313
     },
     {
         "Name": "Benin",
@@ -1520,20 +1520,20 @@
         "recovered": 97
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 102,
+        "deaths": 1,
+        "recovered": 45
+    },
+    {
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
         "confirmed": 95,
         "deaths": 3,
         "recovered": 91
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 92,
-        "deaths": 1,
-        "recovered": 45
     },
     {
         "Name": "British Virgin Islands",

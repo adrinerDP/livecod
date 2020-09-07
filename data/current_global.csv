@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6465902,193283,3726119
+미국,美国,United States,6466498,193283,3726119
 인도,印度,India,4236961,72033,3278999
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -26,7 +26,7 @@ Ukraine,,Ukraine,138068,2877,62606
 이스라엘,以色列,Israel,131970,1022,103849
 캐나다,加拿大,Canada,131895,9145,116357
 Bolivia,,Bolivia,120769,7008,71489
-카타르,卡塔尔,Qatar,120095,203,116998
+카타르,卡塔尔,Qatar,120348,205,117241
 에콰도르,厄瓜多尔,Ecuador,109784,10524,91242
 Kazakhstan,,Kazakhstan,106361,1588,99654
 이집트,埃及,Egypt,99863,5530,78108
@@ -90,7 +90,7 @@ Albania,,Albania,10406,319,6186
 DRC,,DRC,10233,260,9451
 Guinea,,Guinea,9798,61,8928
 말레이시아,马来西亚,Malaysia,9459,128,9124
-French Guiana,,French Guiana,9322,62,8870
+French Guiana,,French Guiana,9355,62,8902
 헝가리,匈牙利,Hungary,8963,625,3961
 Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8810,91,3806
@@ -134,9 +134,9 @@ South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
 Aruba,,Aruba,2449,14,1206
 요르단,约旦,Jordan,2411,16,1756
+Réunion,,Réunion,2277,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
-Réunion,,Réunion,2222,13,1313
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2141,10,2050
 Malta,,Malta,2076,14,1690
@@ -189,8 +189,8 @@ Bermuda,,Bermuda,175,9,158
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,136,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
+Curaçao,,Curaçao,102,1,45
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
-Curaçao,,Curaçao,92,1,45
 British Virgin Islands,,British Virgin Islands,63,1,10
 St. Vincent Grenadines,,St. Vincent Grenadines,61,0,58
 마카오,澳门,Macao,46,0,46
