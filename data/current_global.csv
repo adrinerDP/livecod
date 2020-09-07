@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6462189,193259,3726099
+미국,美国,United States,6463394,193266,3726119
 인도,印度,India,4224014,71844,3267231
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,327359,4516,224573
 터키,土耳其,Turkey,279806,6673,251105
 이탈리아,义大利,Italy,277634,35541,210015
 이라크,伊拉克,Iraq,260370,7512,198560
-독일,德国,Germany,252155,9401,227000
+독일,德国,Germany,252714,9401,227000
 필리핀,菲律宾,Philippines,238727,3890,184906
 인도네시아,印度尼西亚,Indonesia,196989,8130,140652
 Ukraine,,Ukraine,138068,2877,62606
@@ -93,7 +93,7 @@ Guinea,,Guinea,9798,61,8928
 French Guiana,,French Guiana,9322,62,8870
 헝가리,匈牙利,Hungary,8963,625,3961
 Tajikistan,,Tajikistan,8824,70,7616
-Namibia,,Namibia,8685,89,3786
+Namibia,,Namibia,8810,91,3806
 Gabon,,Gabon,8601,53,7424
 Maldives,,Maldives,8584,29,5936
 Haiti,,Haiti,8360,214,5933
@@ -117,7 +117,7 @@ Rwanda,,Rwanda,4374,19,2235
 Suriname,,Suriname,4346,85,3494
 Cabo Verde,,Cabo Verde,4330,42,3628
 Cuba,,Cuba,4309,101,3590
-Uganda,,Uganda,3667,41,1564
+Uganda,,Uganda,3776,44,1741
 태국,泰国,Thailand,3445,58,3281
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3362,97,2696
