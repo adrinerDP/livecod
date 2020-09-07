@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6478758,193412,3738643
+미국,美国,United States,6479411,193421,3738643
 인도,印度,India,4276777,72809,3320947
 브라질,巴西,Brazil,4139257,126736,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -19,12 +19,12 @@ Bangladesh,,Bangladesh,327359,4516,224573
 터키,土耳其,Turkey,281509,6730,252152
 이탈리아,义大利,Italy,278784,35553,210238
 이라크,伊拉克,Iraq,260370,7512,198560
-독일,德国,Germany,253536,9404,227000
+독일,德国,Germany,253625,9405,227000
 필리핀,菲律宾,Philippines,238727,3890,184906
 인도네시아,印度尼西亚,Indonesia,196989,8130,140652
 Ukraine,,Ukraine,138068,2877,62606
-이스라엘,以色列,Israel,133183,1026,105435
-캐나다,加拿大,Canada,132111,9146,116446
+이스라엘,以色列,Israel,133975,1026,105455
+캐나다,加拿大,Canada,132142,9146,116459
 Bolivia,,Bolivia,120769,7008,71489
 카타르,卡塔尔,Qatar,120348,205,117241
 에콰도르,厄瓜多尔,Ecuador,110092,10576,91242
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,53289,428,42006
 알제리,阿尔及利亚,Algeria,46653,1562,32985
 Ghana,,Ghana,44869,283,43801
 아르메니아,亚美尼亚,Armenia,44845,900,40121
-스위스,瑞士,Switzerland,44592,2014,37100
+스위스,瑞士,Switzerland,44592,2014,37700
 Kyrgyzstan,,Kyrgyzstan,44458,1060,39960
 Uzbekistan,,Uzbekistan,43893,352,41531
 Moldova,,Moldova,40055,1074,27799
@@ -132,8 +132,8 @@ Mali,,Mali,2870,127,2246
 Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2545,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
+Aruba,,Aruba,2482,15,1244
 요르단,约旦,Jordan,2478,17,1817
-Aruba,,Aruba,2449,14,1206
 Réunion,,Réunion,2277,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
