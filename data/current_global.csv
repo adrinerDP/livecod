@@ -20,14 +20,14 @@ Bangladesh,,Bangladesh,325157,4479,221275
 이탈리아,义大利,Italy,277634,35541,210015
 이라크,伊拉克,Iraq,260370,7512,198560
 독일,德国,Germany,251724,9401,227000
-필리핀,菲律宾,Philippines,237365,3875,184687
+필리핀,菲律宾,Philippines,238727,3890,184906
 인도네시아,印度尼西亚,Indonesia,194109,8025,138575
 Ukraine,,Ukraine,138068,2877,62606
+이스라엘,以色列,Israel,131970,1022,103849
 캐나다,加拿大,Canada,131895,9145,116357
-이스라엘,以色列,Israel,131641,1019,103846
-Bolivia,,Bolivia,120769,5398,71489
+Bolivia,,Bolivia,120769,7008,71489
 카타르,卡塔尔,Qatar,120095,203,116998
-에콰도르,厄瓜多尔,Ecuador,118045,6724,102304
+에콰도르,厄瓜多尔,Ecuador,109784,10524,91242
 Kazakhstan,,Kazakhstan,106361,1588,99654
 이집트,埃及,Egypt,99863,5530,78108
 도미니카 공화국,多明尼加共和国,Dominican Republic,99333,1845,72567
@@ -43,7 +43,7 @@ Guatemala,,Guatemala,77683,2852,66131
 벨라루스,白俄罗斯,Belarus,72859,711,71864
 모로코,摩洛哥,Morocco,72394,1361,55274
 일본,日本,Japan,71419,1357,62076
-폴란드,波兰,Poland,70824,2120,55113
+폴란드,波兰,Poland,71126,2124,55113
 Honduras,,Honduras,64764,2007,13418
 포르투갈,葡萄牙,Portugal,60258,1840,42953
 Ethiopia,,Ethiopia,58672,918,21307
@@ -65,10 +65,10 @@ Moldova,,Moldova,39797,1063,27799
 Kenya,,Kenya,35103,597,21230
 세르비아,塞尔维亚,Serbia,31905,724,30637
 아일랜드,冰岛,Ireland,29672,1777,23364
-오스트리아,奥地利,Austria,29271,736,25043
+오스트리아,奥地利,Austria,29561,746,25300
 체코,捷克,Czechia,28156,436,19053
-호주,澳大利亚,Australia,26322,762,22602
-El Salvador,,El Salvador,26308,764,15822
+El Salvador,,El Salvador,26413,764,16137
+호주,澳大利亚,Australia,26322,762,22603
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
 Paraguay,,Paraguay,22486,435,11133
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
@@ -106,7 +106,7 @@ Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
 Tunisia,,Tunisia,5041,93,1752
 Equatorial Guinea,,Equatorial Guinea,4972,83,4413
-홍콩,香港,Hong Kong,4879,94,4510
+홍콩,香港,Hong Kong,4890,98,4524
 Eswatini,,Eswatini,4853,94,3951
 CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
@@ -126,7 +126,7 @@ Syria,,Syria,3171,134,730
 슬로베니아,斯洛文尼亚,Slovenia,3165,135,2483
 스리랑카,斯里兰卡,Sri Lanka,3123,12,2925
 Jamaica,,Jamaica,3103,33,958
-Lithuania,,Lithuania,3083,86,1954
+Lithuania,,Lithuania,3100,86,1955
 Angola,,Angola,2965,117,1198
 Mali,,Mali,2842,127,2238
 South Sudan,,South Sudan,2544,48,1290
