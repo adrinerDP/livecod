@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6474897,
-        "deaths": 193392,
+        "confirmed": 6476863,
+        "deaths": 193404,
         "recovered": 3735798
     },
     {
@@ -920,6 +920,14 @@
         "recovered": 2235
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4358,
+        "deaths": 42,
+        "recovered": 3790
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -934,14 +942,6 @@
         "confirmed": 4346,
         "deaths": 85,
         "recovered": 3494
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4330,
-        "deaths": 42,
-        "recovered": 3628
     },
     {
         "Name": "Uganda",
@@ -1027,9 +1027,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 2965,
-        "deaths": 117,
-        "recovered": 1198
+        "confirmed": 2981,
+        "deaths": 120,
+        "recovered": 1215
     },
     {
         "Name": "Mali",
@@ -1491,7 +1491,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 147,
+        "confirmed": 153,
         "deaths": 1,
         "recovered": 102
     },

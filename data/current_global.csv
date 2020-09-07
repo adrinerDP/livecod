@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6474897,193392,3735798
+미국,美国,United States,6476863,193404,3735798
 인도,印度,India,4276777,72809,3320947
 브라질,巴西,Brazil,4139257,126736,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -114,9 +114,9 @@ Nicaragua,,Nicaragua,4668,141,2913
 Congo,,Congo,4628,102,1742
 Mozambique,,Mozambique,4444,27,2615
 Rwanda,,Rwanda,4374,19,2235
+Cabo Verde,,Cabo Verde,4358,42,3790
 Cuba,,Cuba,4352,102,3642
 Suriname,,Suriname,4346,85,3494
-Cabo Verde,,Cabo Verde,4330,42,3628
 Uganda,,Uganda,3776,44,1741
 태국,泰国,Thailand,3445,58,3281
 Mayotte,,Mayotte,3374,40,2964
@@ -127,7 +127,7 @@ Syria,,Syria,3171,134,730
 스리랑카,斯里兰卡,Sri Lanka,3123,12,2925
 Jamaica,,Jamaica,3103,33,958
 Lithuania,,Lithuania,3100,86,1955
-Angola,,Angola,2965,117,1198
+Angola,,Angola,2981,120,1215
 Mali,,Mali,2870,127,2246
 Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2545,48,1290
@@ -185,7 +185,7 @@ Saint Martin,,Saint Martin,239,6,79
 Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,178,7,154
 Bermuda,,Bermuda,175,9,158
-모나코,摩纳哥,Monaco,147,1,102
+모나코,摩纳哥,Monaco,153,1,102
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,137,0,127
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
