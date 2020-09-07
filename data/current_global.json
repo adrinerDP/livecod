@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6481241,
-        "deaths": 193478,
-        "recovered": 3741579
+        "confirmed": 6483479,
+        "deaths": 193482,
+        "recovered": 3743164
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 666521,
-        "deaths": 21412,
-        "recovered": 518229
+        "confirmed": 671848,
+        "deaths": 21615,
+        "recovered": 529279
     },
     {
         "Name": "남아프리카 공화국",
@@ -240,20 +240,20 @@
         "recovered": 99654
     },
     {
+        "Name": "이집트",
+        "Name_ch": "埃及",
+        "Name_en": "Egypt",
+        "confirmed": 100041,
+        "deaths": 5541,
+        "recovered": 79008
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "confirmed": 99898,
         "deaths": 1864,
         "recovered": 73228
-    },
-    {
-        "Name": "이집트",
-        "Name_ch": "埃及",
-        "Name_en": "Egypt",
-        "confirmed": 99863,
-        "deaths": 5530,
-        "recovered": 78108
     },
     {
         "Name": "Panama",
@@ -285,7 +285,7 @@
         "Name_en": "Belgium",
         "confirmed": 88367,
         "deaths": 9907,
-        "recovered": 18565
+        "recovered": 18567
     },
     {
         "Name": "오만",
@@ -347,9 +347,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 71419,
-        "deaths": 1357,
-        "recovered": 62076
+        "confirmed": 71856,
+        "deaths": 1363,
+        "recovered": 62536
     },
     {
         "Name": "폴란드",
@@ -395,9 +395,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 55415,
+        "confirmed": 56076,
         "deaths": 200,
-        "recovered": 50946
+        "recovered": 51240
     },
     {
         "Name": "나이지리아",
@@ -1331,7 +1331,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 626,
+        "confirmed": 628,
         "deaths": 48,
         "recovered": 575
     },

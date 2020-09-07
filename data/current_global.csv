@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6481241,193478,3741579
+미국,美国,United States,6483479,193482,3743164
 인도,印度,India,4277584,72816,3321420
 브라질,巴西,Brazil,4147794,126960,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
-콜롬비아,哥伦比亚,Colombia,666521,21412,518229
+콜롬비아,哥伦比亚,Colombia,671848,21615,529279
 남아프리카 공화국,南非共和国,South Africa,639362,15004,566555
 멕시코,墨西哥,Mexico,634023,67558,442268
 스페인,西班牙,Spain,525549,29516,0
@@ -29,12 +29,12 @@ Bolivia,,Bolivia,120769,7008,71489
 카타르,卡塔尔,Qatar,120348,205,117241
 에콰도르,厄瓜多尔,Ecuador,110092,10576,91242
 Kazakhstan,,Kazakhstan,106361,1588,99654
+이집트,埃及,Egypt,100041,5541,79008
 도미니카 공화국,多明尼加共和国,Dominican Republic,99898,1864,73228
-이집트,埃及,Egypt,99863,5530,78108
 Panama,,Panama,97043,2086,69661
 루마니아,尼亚,Romania,95897,3926,40454
 쿠웨이트,科威特,Kuwait,90387,546,81037
-벨기에,比利时,Belgium,88367,9907,18565
+벨기에,比利时,Belgium,88367,9907,18567
 오만,阿曼,Oman,87328,734,82805
 스웨덴,瑞典语,Sweden,85558,5837,0
 Guatemala,,Guatemala,77828,2862,66584
@@ -42,13 +42,13 @@ Guatemala,,Guatemala,77828,2862,66584
 아랍에미리트,阿拉伯联合酋长国,UAE,74454,390,66533
 모로코,摩洛哥,Morocco,73780,1394,56096
 벨라루스,白俄罗斯,Belarus,73031,716,71883
-일본,日本,Japan,71419,1357,62076
+일본,日本,Japan,71856,1363,62536
 폴란드,波兰,Poland,71126,2124,55113
 Honduras,,Honduras,64764,2007,13418
 포르투갈,葡萄牙,Portugal,60507,1843,43016
 Ethiopia,,Ethiopia,59648,933,21789
 싱가포르,新加坡,Singapore,57044,27,56408
-바레인,巴林,Bahrain,55415,200,50946
+바레인,巴林,Bahrain,56076,200,51240
 나이지리아,尼日利亚,Nigeria,55005,1057,43013
 Venezuela,,Venezuela,53289,428,42006
 코스타리카,哥斯达黎加,Costa Rica,48780,510,19083
@@ -165,7 +165,7 @@ Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 French Polynesia,,French Polynesia,694,0,360
-Channel Islands,,Channel Islands,626,48,575
+Channel Islands,,Channel Islands,628,48,575
 Turks and Caicos,,Turks and Caicos,598,5,264
 Sint Maarten,,Sint Maarten,511,19,302
 Tanzania,,Tanzania,509,21,183
