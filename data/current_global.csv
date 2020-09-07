@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6461353,193253,3726099
-인도,印度,India,4208645,71711,3250429
+인도,印度,India,4224014,71844,3267231
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
@@ -61,9 +61,9 @@ Kyrgyzstan,,Kyrgyzstan,44458,1060,39960
 Uzbekistan,,Uzbekistan,43775,350,41277
 Moldova,,Moldova,39797,1063,27799
 아프가니스탄,阿富汗,Afghanistan,38494,1415,30557
-아제르바이잔,阿塞拜疆,Azerbaijan,37329,548,34705
+아제르바이잔,阿塞拜疆,Azerbaijan,37418,551,34837
 Kenya,,Kenya,35103,597,21230
-세르비아,塞尔维亚,Serbia,31905,724,30637
+세르비아,塞尔维亚,Serbia,31941,725,30637
 아일랜드,冰岛,Ireland,29672,1777,23364
 오스트리아,奥地利,Austria,29561,746,25300
 체코,捷克,Czechia,28156,436,19053
@@ -71,7 +71,7 @@ Kenya,,Kenya,35103,597,21230
 El Salvador,,El Salvador,26413,764,16137
 호주,澳大利亚,Australia,26322,762,22603
 Paraguay,,Paraguay,22486,435,11133
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21660,664,14830
 레바논,黎巴嫩,Lebanon,20426,191,6139
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Libya,,Libya,18834,296,2126
@@ -87,12 +87,12 @@ Zambia,,Zambia,12776,295,11674
 그리스,希腊,Greece,11524,284,3804
 노르웨이,挪威,Norway,11388,264,9348
 Albania,,Albania,10255,316,6106
-DRC,,DRC,10210,260,9439
+DRC,,DRC,10233,260,9451
 Guinea,,Guinea,9798,61,8928
 말레이시아,马来西亚,Malaysia,9459,128,9124
 French Guiana,,French Guiana,9322,62,8870
 헝가리,匈牙利,Hungary,8963,625,3961
-Tajikistan,,Tajikistan,8792,70,7581
+Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8685,89,3786
 Gabon,,Gabon,8601,53,7424
 Maldives,,Maldives,8584,29,5936
@@ -129,9 +129,9 @@ Jamaica,,Jamaica,3103,33,958
 Lithuania,,Lithuania,3100,86,1955
 Angola,,Angola,2965,117,1198
 Mali,,Mali,2842,127,2238
+Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
-Bahamas,,Bahamas,2506,56,948
 Aruba,,Aruba,2449,14,1206
 요르단,约旦,Jordan,2411,16,1756
 Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
