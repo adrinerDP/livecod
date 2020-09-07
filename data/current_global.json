@@ -165,7 +165,7 @@
         "Name_en": "Germany",
         "confirmed": 251724,
         "deaths": 9401,
-        "recovered": 226208
+        "recovered": 227000
     },
     {
         "Name": "필리핀",
@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106301,
+        "confirmed": 106361,
         "deaths": 1588,
-        "recovered": 99523
+        "recovered": 99654
     },
     {
         "Name": "이집트",
@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 87825,
-        "deaths": 9906,
-        "recovered": 18555
+        "confirmed": 88367,
+        "deaths": 9907,
+        "recovered": 18565
     },
     {
         "Name": "오만",
@@ -1360,20 +1360,20 @@
         "recovered": 183
     },
     {
+        "Name": "Papua New Guinea",
+        "Name_ch": "",
+        "Name_en": "Papua New Guinea",
+        "confirmed": 497,
+        "deaths": 5,
+        "recovered": 232
+    },
+    {
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
         "confirmed": 493,
         "deaths": 7,
         "recovered": 473
-    },
-    {
-        "Name": "Papua New Guinea",
-        "Name_ch": "",
-        "Name_en": "Papua New Guinea",
-        "confirmed": 488,
-        "deaths": 5,
-        "recovered": 232
     },
     {
         "Name": "Burundi",
