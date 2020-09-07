@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6484670,193507,3754003
+미국,美国,United States,6485302,193511,3756248
 인도,印度,India,4277584,72816,3321420
-브라질,巴西,Brazil,4147794,126960,3355564
+브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
 콜롬비아,哥伦比亚,Colombia,671848,21615,529279
 남아프리카 공화국,南非共和国,South Africa,639362,15004,566555
 멕시코,墨西哥,Mexico,634023,67558,442268
 스페인,西班牙,Spain,525549,29516,0
-Argentina,,Argentina,478792,9912,357388
+Argentina,,Argentina,488007,10129,357388
 칠레,智利,Chile,424274,11652,395717
 이란,伊朗,Iran,388810,22410,335572
 영국,英国,UK,350100,41554,0
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,120769,7008,71489
 Kazakhstan,,Kazakhstan,106361,1588,99654
 이집트,埃及,Egypt,100041,5541,79008
 도미니카 공화국,多明尼加共和国,Dominican Republic,99898,1864,73228
-Panama,,Panama,97043,2086,69661
+Panama,,Panama,97578,2099,70247
 루마니아,尼亚,Romania,95897,3926,40454
 쿠웨이트,科威特,Kuwait,90387,546,81037
 벨기에,比利时,Belgium,88367,9907,18567
@@ -66,7 +66,7 @@ Kenya,,Kenya,35205,599,21310
 세르비아,塞尔维亚,Serbia,31941,725,30637
 아일랜드,冰岛,Ireland,29774,1777,23364
 오스트리아,奥地利,Austria,29561,746,25300
-체코,捷克,Czechia,28374,436,19053
+체코,捷克,Czechia,28716,437,19855
 팔레스타인,巴勒斯坦,Palestine,26779,184,17270
 El Salvador,,El Salvador,26413,764,16137
 호주,澳大利亚,Australia,26322,762,22603
@@ -85,7 +85,7 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12836,295,11748
 크로아티아,克罗地亚,Croatia,12081,201,9266
 그리스,希腊,Greece,11663,289,3804
-노르웨이,挪威,Norway,11462,264,9348
+노르웨이,挪威,Norway,11521,264,9348
 Albania,,Albania,10406,319,6186
 DRC,,DRC,10233,260,9451
 Guinea,,Guinea,9816,62,8956
@@ -101,10 +101,10 @@ Haiti,,Haiti,8362,214,5933
 Zimbabwe,,Zimbabwe,7298,210,5455
 Mauritania,,Mauritania,7165,160,6681
 룩셈부르크,卢森堡,Luxembourg,6960,124,6256
+Montenegro,,Montenegro,5659,109,4272
 Malawi,,Malawi,5621,176,3590
-Montenegro,,Montenegro,5553,108,4231
 Djibouti,,Djibouti,5388,61,5327
-Tunisia,,Tunisia,5041,93,1752
+Tunisia,,Tunisia,5124,94,1788
 Equatorial Guinea,,Equatorial Guinea,4985,83,4454
 홍콩,香港,Hong Kong,4890,98,4524
 Eswatini,,Eswatini,4884,94,4029
