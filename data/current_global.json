@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6479411,
-        "deaths": 193421,
-        "recovered": 3738643
+        "confirmed": 6479772,
+        "deaths": 193438,
+        "recovered": 3740396
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4139257,
-        "deaths": 126736,
+        "confirmed": 4147794,
+        "deaths": 126960,
         "recovered": 3317227
     },
     {
@@ -611,9 +611,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18588,
+        "confirmed": 18701,
         "deaths": 119,
-        "recovered": 17472
+        "recovered": 17599
     },
     {
         "Name": "덴마크",
@@ -915,9 +915,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4374,
+        "confirmed": 4409,
         "deaths": 19,
-        "recovered": 2235
+        "recovered": 2271
     },
     {
         "Name": "Cabo Verde",
@@ -1091,9 +1091,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 2250,
-        "deaths": 34,
-        "recovered": 724
+        "confirmed": 2254,
+        "deaths": 35,
+        "recovered": 734
     },
     {
         "Name": "Guinea-Bissau",
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1039,
+        "confirmed": 1040,
         "deaths": 79,
-        "recovered": 918
+        "recovered": 919
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1475,7 +1475,7 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 178,
+        "confirmed": 179,
         "deaths": 7,
         "recovered": 154
     },

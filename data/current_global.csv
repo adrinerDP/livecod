@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6479411,193421,3738643
+미국,美国,United States,6479772,193438,3740396
 인도,印度,India,4276777,72809,3320947
-브라질,巴西,Brazil,4139257,126736,3317227
+브라질,巴西,Brazil,4147794,126960,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
 콜롬비아,哥伦比亚,Colombia,666521,21412,518229
@@ -75,7 +75,7 @@ Paraguay,,Paraguay,22486,435,11133
 레바논,黎巴嫩,Lebanon,20826,200,6430
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Libya,,Libya,18834,296,2126
-Ivory Coast,,Ivory Coast,18588,119,17472
+Ivory Coast,,Ivory Coast,18701,119,17599
 덴마크,丹麦,Denmark,18113,628,15833
 Bulgaria,,Bulgaria,17089,676,12157
 Madagascar,,Madagascar,15352,202,14184
@@ -113,7 +113,7 @@ Nicaragua,,Nicaragua,4668,141,2913
 슬로바키아,斯洛伐克,Slovakia,4636,37,2836
 Congo,,Congo,4628,102,1742
 Mozambique,,Mozambique,4557,27,2697
-Rwanda,,Rwanda,4374,19,2235
+Rwanda,,Rwanda,4409,19,2271
 Cabo Verde,,Cabo Verde,4358,42,3790
 Cuba,,Cuba,4352,102,3642
 Suriname,,Suriname,4346,85,3494
@@ -135,7 +135,7 @@ South Sudan,,South Sudan,2545,48,1290
 Aruba,,Aruba,2482,15,1244
 요르단,约旦,Jordan,2478,17,1817
 Réunion,,Réunion,2277,13,1313
-Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
+Trinidad and Tobago,,Trinidad and Tobago,2254,35,734
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2141,10,2050
@@ -159,7 +159,7 @@ Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1049,35,853
-Chad,,Chad,1039,79,918
+Chad,,Chad,1040,79,919
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
 Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
@@ -183,7 +183,7 @@ Mongolia,,Mongolia,310,0,296
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,230,0,151
 Cayman Islands,,Cayman Islands,205,1,204
-Barbados,,Barbados,178,7,154
+Barbados,,Barbados,179,7,154
 Bermuda,,Bermuda,175,9,158
 모나코,摩纳哥,Monaco,153,1,102
 Brunei,,Brunei,145,3,139
