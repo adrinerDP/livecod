@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6459355,
-        "deaths": 193236,
-        "recovered": 3725476
+        "confirmed": 6460250,
+        "deaths": 193250,
+        "recovered": 3725970
     },
     {
         "Name": "인도",
@@ -571,9 +571,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 21871,
-        "deaths": 412,
-        "recovered": 10810
+        "confirmed": 22486,
+        "deaths": 435,
+        "recovered": 11133
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1080,20 +1080,20 @@
         "recovered": 1756
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2250,
+        "deaths": 34,
+        "recovered": 724
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "confirmed": 2245,
         "deaths": 38,
         "recovered": 1127
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2234,
-        "deaths": 33,
-        "recovered": 724
     },
     {
         "Name": "Réunion",
@@ -1331,7 +1331,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 631,
+        "confirmed": 626,
         "deaths": 48,
         "recovered": 575
     },
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 460,
+        "confirmed": 462,
         "deaths": 1,
         "recovered": 357
     },

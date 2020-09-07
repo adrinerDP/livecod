@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6459355,193236,3725476
+미국,美国,United States,6460250,193250,3725970
 인도,印度,India,4202562,71687,3247297
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1025505,17820,840949
@@ -70,7 +70,7 @@ Kenya,,Kenya,35103,597,21230
 El Salvador,,El Salvador,26308,759,15815
 호주,澳大利亚,Australia,26279,753,22467
 팔레스타인,巴勒斯坦,Palestine,26127,181,16843
-Paraguay,,Paraguay,21871,412,10810
+Paraguay,,Paraguay,22486,435,11133
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21560,655,14709
 레바논,黎巴嫩,Lebanon,20426,191,6139
 카메룬,喀麦隆,Cameroon,19604,415,18448
@@ -134,8 +134,8 @@ South Sudan,,South Sudan,2544,48,1290
 Bahamas,,Bahamas,2506,56,948
 Aruba,,Aruba,2449,14,1206
 요르단,约旦,Jordan,2411,16,1756
+Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
-Trinidad and Tobago,,Trinidad and Tobago,2234,33,724
 Réunion,,Réunion,2222,13,1313
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2141,10,2050
@@ -165,13 +165,13 @@ Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 French Polynesia,,French Polynesia,694,0,360
-Channel Islands,,Channel Islands,631,48,575
+Channel Islands,,Channel Islands,626,48,575
 Turks and Caicos,,Turks and Caicos,598,5,264
 Sint Maarten,,Sint Maarten,511,19,302
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,493,7,473
 Papua New Guinea,,Papua New Guinea,488,5,232
-Burundi,,Burundi,460,1,357
+Burundi,,Burundi,462,1,357
 Comoros,,Comoros,452,7,410
 Faeroe Islands,,Faeroe Islands,413,0,379
 Mauritius,,Mauritius,356,10,335
