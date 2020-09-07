@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6466820,193282,3726131
-인도,印度,India,4236961,72033,3278999
+미국,美国,United States,6469236,193305,3727743
+인도,印度,India,4251587,72321,3298881
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
@@ -53,7 +53,7 @@ Ethiopia,,Ethiopia,58672,918,21307
 Venezuela,,Venezuela,53289,428,42006
 네팔,尼泊尔,Nepal,47236,300,30677
 코스타리카,哥斯达黎加,Costa Rica,46920,478,18211
-알제리,阿尔及利亚,Algeria,46364,1556,32745
+알제리,阿尔及利亚,Algeria,46653,1562,32985
 Ghana,,Ghana,44869,283,43801
 아르메니아,亚美尼亚,Armenia,44845,900,40121
 스위스,瑞士,Switzerland,44592,2014,37100
@@ -66,7 +66,7 @@ Kenya,,Kenya,35205,599,21310
 세르비아,塞尔维亚,Serbia,31941,725,30637
 아일랜드,冰岛,Ireland,29672,1777,23364
 오스트리아,奥地利,Austria,29561,746,25300
-체코,捷克,Czechia,28156,436,19053
+체코,捷克,Czechia,28374,436,19053
 팔레스타인,巴勒斯坦,Palestine,26779,184,17270
 El Salvador,,El Salvador,26413,764,16137
 호주,澳大利亚,Australia,26322,762,22603
@@ -132,7 +132,7 @@ Mali,,Mali,2842,127,2238
 Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
-요르단,约旦,Jordan,2478,16,1817
+요르단,约旦,Jordan,2478,17,1817
 Aruba,,Aruba,2449,14,1206
 Réunion,,Réunion,2277,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
