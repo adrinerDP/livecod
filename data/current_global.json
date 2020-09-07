@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 251724,
+        "confirmed": 251744,
         "deaths": 9401,
         "recovered": 227000
     },
@@ -723,9 +723,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9397,
+        "confirmed": 9459,
         "deaths": 128,
-        "recovered": 9115
+        "recovered": 9124
     },
     {
         "Name": "French Guiana",
@@ -787,7 +787,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8291,
+        "confirmed": 8327,
         "deaths": 336,
         "recovered": 7350
     },
