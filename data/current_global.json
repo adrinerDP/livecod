@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 629409,
-        "deaths": 67326,
-        "recovered": 438754
+        "confirmed": 634023,
+        "deaths": 67558,
+        "recovered": 442268
     },
     {
         "Name": "스페인",
@@ -544,20 +544,20 @@
         "recovered": 19053
     },
     {
+        "Name": "호주",
+        "Name_ch": "澳大利亚",
+        "Name_en": "Australia",
+        "confirmed": 26319,
+        "deaths": 762,
+        "recovered": 22467
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 26308,
         "deaths": 759,
         "recovered": 15815
-    },
-    {
-        "Name": "호주",
-        "Name_ch": "澳大利亚",
-        "Name_en": "Australia",
-        "confirmed": 26279,
-        "deaths": 753,
-        "recovered": 22467
     },
     {
         "Name": "팔레스타인",
@@ -840,6 +840,14 @@
         "recovered": 5327
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 5041,
+        "deaths": 93,
+        "recovered": 1752
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -862,14 +870,6 @@
         "confirmed": 4853,
         "deaths": 94,
         "recovered": 3951
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 4776,
-        "deaths": 93,
-        "recovered": 1701
     },
     {
         "Name": "CAR",
@@ -1008,20 +1008,20 @@
         "recovered": 2925
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3103,
+        "deaths": 33,
+        "recovered": 958
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 3083,
         "deaths": 86,
         "recovered": 1954
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3024,
-        "deaths": 32,
-        "recovered": 950
     },
     {
         "Name": "Angola",
@@ -1155,9 +1155,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1772,
+        "confirmed": 1776,
         "deaths": 24,
-        "recovered": 1632
+        "recovered": 1634
     },
     {
         "Name": "Uruguay",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85122,
+        "confirmed": 85134,
         "deaths": 4634,
-        "recovered": 80302
+        "recovered": 80320
     }
 ]
