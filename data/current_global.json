@@ -357,7 +357,7 @@
         "Name_en": "Poland",
         "confirmed": 70824,
         "deaths": 2120,
-        "recovered": 54256
+        "recovered": 55113
     },
     {
         "Name": "Honduras",
@@ -675,9 +675,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 11964,
-        "deaths": 198,
-        "recovered": 9008
+        "confirmed": 12081,
+        "deaths": 201,
+        "recovered": 9266
     },
     {
         "Name": "그리스",
@@ -888,20 +888,20 @@
         "recovered": 2913
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 4636,
+        "deaths": 37,
+        "recovered": 2836
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
         "confirmed": 4628,
         "deaths": 102,
         "recovered": 1742
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 4614,
-        "deaths": 37,
-        "recovered": 2802
     },
     {
         "Name": "Mozambique",
@@ -1397,7 +1397,7 @@
         "Name_en": "Faeroe Islands",
         "confirmed": 413,
         "deaths": 0,
-        "recovered": 379
+        "recovered": 409
     },
     {
         "Name": "Mauritius",
