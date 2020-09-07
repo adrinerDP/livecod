@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6466498,193283,3726119
+미국,美国,United States,6466820,193282,3726131
 인도,印度,India,4236961,72033,3278999
 브라질,巴西,Brazil,4137606,126686,3317227
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -17,14 +17,14 @@ Bangladesh,,Bangladesh,327359,4516,224573
 사우디아라비아,沙特阿拉伯,Saudi Arabia,321456,4107,297623
 파키스탄,巴基斯坦,Pakistan,298903,6345,286016
 터키,土耳其,Turkey,279806,6673,251105
-이탈리아,义大利,Italy,277634,35541,210015
+이탈리아,义大利,Italy,278784,35553,210238
 이라크,伊拉克,Iraq,260370,7512,198560
-독일,德国,Germany,252714,9401,227000
+독일,德国,Germany,252964,9401,227000
 필리핀,菲律宾,Philippines,238727,3890,184906
 인도네시아,印度尼西亚,Indonesia,196989,8130,140652
 Ukraine,,Ukraine,138068,2877,62606
+캐나다,加拿大,Canada,132111,9146,116446
 이스라엘,以色列,Israel,131970,1022,103849
-캐나다,加拿大,Canada,131895,9145,116357
 Bolivia,,Bolivia,120769,7008,71489
 카타르,卡塔尔,Qatar,120348,205,117241
 에콰도르,厄瓜多尔,Ecuador,109784,10524,91242
@@ -54,8 +54,8 @@ Venezuela,,Venezuela,53289,428,42006
 네팔,尼泊尔,Nepal,47236,300,30677
 코스타리카,哥斯达黎加,Costa Rica,46920,478,18211
 알제리,阿尔及利亚,Algeria,46364,1556,32745
+Ghana,,Ghana,44869,283,43801
 아르메니아,亚美尼亚,Armenia,44845,900,40121
-Ghana,,Ghana,44777,283,43693
 스위스,瑞士,Switzerland,44592,2014,37100
 Kyrgyzstan,,Kyrgyzstan,44458,1060,39960
 Uzbekistan,,Uzbekistan,43775,350,41277
@@ -84,7 +84,7 @@ North Macedonia,,North Macedonia,15127,623,12486
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12776,295,11674
 크로아티아,克罗地亚,Croatia,12081,201,9266
-그리스,希腊,Greece,11524,284,3804
+그리스,希腊,Greece,11524,289,3804
 노르웨이,挪威,Norway,11388,264,9348
 Albania,,Albania,10406,319,6186
 DRC,,DRC,10233,260,9451
@@ -132,8 +132,8 @@ Mali,,Mali,2842,127,2238
 Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2544,48,1290
 에스토니아,爱沙尼亚,Estonia,2532,64,2176
+요르단,约旦,Jordan,2478,16,1817
 Aruba,,Aruba,2449,14,1206
-요르단,约旦,Jordan,2411,16,1756
 Réunion,,Réunion,2277,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2250,34,724
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
