@@ -267,9 +267,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 95897,
-        "deaths": 3926,
-        "recovered": 40454
+        "confirmed": 97033,
+        "deaths": 3967,
+        "recovered": 40838
     },
     {
         "Name": "쿠웨이트",
@@ -547,8 +547,8 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 26779,
-        "deaths": 184,
+        "confirmed": 27363,
+        "deaths": 190,
         "recovered": 17270
     },
     {
@@ -707,9 +707,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10233,
+        "confirmed": 10292,
         "deaths": 260,
-        "recovered": 9451
+        "recovered": 9501
     },
     {
         "Name": "Guinea",
@@ -1581,7 +1581,7 @@
         "Name_en": "New Caledonia",
         "confirmed": 26,
         "deaths": 0,
-        "recovered": 23
+        "recovered": 25
     },
     {
         "Name": "Saint Lucia",
