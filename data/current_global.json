@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6502075,
-        "deaths": 193831,
-        "recovered": 3776844
+        "confirmed": 6503671,
+        "deaths": 193856,
+        "recovered": 3779728
     },
     {
         "Name": "인도",
@@ -651,8 +651,8 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14014,
-        "deaths": 291,
+        "confirmed": 14044,
+        "deaths": 292,
         "recovered": 10037
     },
     {
@@ -883,9 +883,9 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4729,
+        "confirmed": 4735,
         "deaths": 62,
-        "recovered": 1818
+        "recovered": 1825
     },
     {
         "Name": "슬로바키아",
@@ -1139,9 +1139,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2055,
-        "deaths": 71,
-        "recovered": 1611
+        "confirmed": 2064,
+        "deaths": 72,
+        "recovered": 1613
     },
     {
         "Name": "Yemen",
@@ -1403,9 +1403,17 @@
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
-        "confirmed": 356,
+        "confirmed": 361,
         "deaths": 10,
         "recovered": 335
+    },
+    {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "confirmed": 341,
+        "deaths": 0,
+        "recovered": 295
     },
     {
         "Name": "Isle of Man",
@@ -1414,14 +1422,6 @@
         "confirmed": 337,
         "deaths": 24,
         "recovered": 312
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "confirmed": 330,
-        "deaths": 0,
-        "recovered": 295
     },
     {
         "Name": "지브롤터",
