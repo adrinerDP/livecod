@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6493058,193673,3760821
-인도,印度,India,4313129,73105,3352316
+인도,印度,India,4338267,73502,3377530
 브라질,巴西,Brazil,4150311,127084,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
 페루,秘鲁,Peru,691575,29976,522251
@@ -9,7 +9,7 @@
 멕시코,墨西哥,Mexico,637509,67781,446715
 스페인,西班牙,Spain,525549,29516,0
 Argentina,,Argentina,488007,10179,366590
-칠레,智利,Chile,424274,11652,395717
+칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,352520,41584,0
 Bangladesh,,Bangladesh,329251,4552,227809
@@ -72,7 +72,7 @@ El Salvador,,El Salvador,26511,765,16462
 호주,澳大利亚,Australia,26374,770,22724
 Paraguay,,Paraguay,23353,449,11524
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21961,669,15172
-레바논,黎巴嫩,Lebanon,20826,200,6430
+레바논,黎巴嫩,Lebanon,21324,207,6722
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Libya,,Libya,18834,296,2126
 Ivory Coast,,Ivory Coast,18701,119,17599
@@ -112,7 +112,7 @@ Eswatini,,Eswatini,4884,94,4029
 CAR,,CAR,4729,62,1818
 슬로바키아,斯洛伐克,Slovakia,4727,37,2913
 Nicaragua,,Nicaragua,4668,141,2913
-Mozambique,,Mozambique,4557,27,2697
+Mozambique,,Mozambique,4647,28,2715
 Rwanda,,Rwanda,4409,19,2271
 Suriname,,Suriname,4360,91,3544
 Cabo Verde,,Cabo Verde,4358,42,3790
@@ -121,8 +121,8 @@ Uganda,,Uganda,3900,46,1817
 태국,泰国,Thailand,3446,58,3284
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3362,97,2696
+Gambia,,Gambia,3275,99,1424
 Syria,,Syria,3229,137,744
-Gambia,,Gambia,3197,99,1315
 슬로베니아,斯洛文尼亚,Slovenia,3190,135,2530
 Jamaica,,Jamaica,3183,34,974
 Lithuania,,Lithuania,3131,86,1994

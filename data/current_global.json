@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4313129,
-        "deaths": 73105,
-        "recovered": 3352316
+        "confirmed": 4338267,
+        "deaths": 73502,
+        "recovered": 3377530
     },
     {
         "Name": "브라질",
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 424274,
-        "deaths": 11652,
-        "recovered": 395717
+        "confirmed": 425541,
+        "deaths": 11682,
+        "recovered": 397730
     },
     {
         "Name": "이란",
@@ -587,9 +587,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 20826,
-        "deaths": 200,
-        "recovered": 6430
+        "confirmed": 21324,
+        "deaths": 207,
+        "recovered": 6722
     },
     {
         "Name": "카메룬",
@@ -907,9 +907,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 4557,
-        "deaths": 27,
-        "recovered": 2697
+        "confirmed": 4647,
+        "deaths": 28,
+        "recovered": 2715
     },
     {
         "Name": "Rwanda",
@@ -976,20 +976,20 @@
         "recovered": 2696
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3275,
+        "deaths": 99,
+        "recovered": 1424
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 3229,
         "deaths": 137,
         "recovered": 744
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3197,
-        "deaths": 99,
-        "recovered": 1315
     },
     {
         "Name": "슬로베니아",
