@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6495264,193686,3767705
+미국,美国,United States,6495813,193699,3767731
 인도,印度,India,4363843,73894,3393583
 브라질,巴西,Brazil,4150311,127084,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -7,13 +7,13 @@
 콜롬비아,哥伦比亚,Colombia,671848,21615,529279
 남아프리카 공화국,南非共和国,South Africa,639362,15004,566555
 멕시코,墨西哥,Mexico,637509,67781,446715
-스페인,西班牙,Spain,525549,29516,0
+스페인,西班牙,Spain,534513,29594,0
 Argentina,,Argentina,488007,10179,366590
 칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,391112,22542,337414
-영국,英国,UK,352520,41584,0
+영국,英国,UK,352560,41586,0
+프랑스,法国,France,335524,30726,87836
 Bangladesh,,Bangladesh,329251,4552,227809
-프랑스,法国,France,328980,30726,87836
 사우디아라비아,沙特阿拉伯,Saudi Arabia,322237,4137,298246
 파키스탄,巴基斯坦,Pakistan,299233,6350,286157
 터키,土耳其,Turkey,283270,6782,253245
@@ -39,8 +39,8 @@ Panama,,Panama,97578,2099,70247
 스웨덴,瑞典语,Sweden,85707,5838,0
 Guatemala,,Guatemala,77828,2862,66584
 네덜란드,荷兰,Netherlands,76548,6244,0
+모로코,摩洛哥,Morocco,75721,1427,57239
 아랍에미리트,阿拉伯联合酋长国,UAE,75098,391,66943
-모로코,摩洛哥,Morocco,73780,1394,56096
 벨라루스,白俄罗斯,Belarus,73208,721,71916
 일본,日本,Japan,71856,1363,62536
 폴란드,波兰,Poland,71526,2136,55910
@@ -86,7 +86,7 @@ Zambia,,Zambia,12836,295,11748
 크로아티아,克罗地亚,Croatia,12285,203,9553
 그리스,希腊,Greece,11832,290,3804
 노르웨이,挪威,Norway,11560,264,9348
-Albania,,Albania,10553,319,6239
+Albania,,Albania,10553,321,6239
 DRC,,DRC,10292,260,9501
 Guinea,,Guinea,9816,62,8956
 말레이시아,马来西亚,Malaysia,9559,128,9136
@@ -125,15 +125,15 @@ Gambia,,Gambia,3275,99,1424
 Syria,,Syria,3229,137,744
 슬로베니아,斯洛文尼亚,Slovenia,3190,135,2530
 Jamaica,,Jamaica,3183,34,974
+스리랑카,斯里兰卡,Sri Lanka,3140,12,2935
 Lithuania,,Lithuania,3131,86,1994
-스리랑카,斯里兰卡,Sri Lanka,3131,12,2935
 Angola,,Angola,2981,120,1215
-Mali,,Mali,2870,127,2246
+Mali,,Mali,2882,127,2258
 Bahamas,,Bahamas,2585,59,976
+요르단,约旦,Jordan,2581,19,1885
 에스토니아,爱沙尼亚,Estonia,2564,64,2195
 South Sudan,,South Sudan,2545,48,1290
 Aruba,,Aruba,2482,15,1244
-요르단,约旦,Jordan,2478,17,1817
 Trinidad and Tobago,,Trinidad and Tobago,2347,38,743
 Réunion,,Réunion,2277,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
