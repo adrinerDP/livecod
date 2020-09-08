@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 88367,
-        "deaths": 9907,
-        "recovered": 18567
+        "confirmed": 88769,
+        "deaths": 9909,
+        "recovered": 18576
     },
     {
         "Name": "오만",
@@ -1379,9 +1379,9 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 462,
+        "confirmed": 466,
         "deaths": 1,
-        "recovered": 357
+        "recovered": 374
     },
     {
         "Name": "Comoros",
