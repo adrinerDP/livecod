@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6509310,
-        "deaths": 193934,
-        "recovered": 3786436
+        "confirmed": 6511012,
+        "deaths": 193953,
+        "recovered": 3787379
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4162073,
-        "deaths": 127464,
+        "confirmed": 4165124,
+        "deaths": 127517,
         "recovered": 3397234
     },
     {
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 110092,
-        "deaths": 10576,
+        "confirmed": 110757,
+        "deaths": 10627,
         "recovered": 91242
     },
     {
@@ -539,8 +539,8 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 29368,
-        "deaths": 440,
+        "confirmed": 29877,
+        "deaths": 441,
         "recovered": 20139
     },
     {
@@ -595,7 +595,7 @@
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
-        "confirmed": 19604,
+        "confirmed": 19848,
         "deaths": 415,
         "recovered": 18448
     },
@@ -856,6 +856,14 @@
         "recovered": 4454
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "confirmed": 4904,
+        "deaths": 96,
+        "recovered": 4059
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -870,14 +878,6 @@
         "confirmed": 4891,
         "deaths": 102,
         "recovered": 3887
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "confirmed": 4884,
-        "deaths": 94,
-        "recovered": 4029
     },
     {
         "Name": "Nicaragua",
@@ -920,6 +920,14 @@
         "recovered": 2307
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4419,
+        "deaths": 91,
+        "recovered": 3595
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -934,14 +942,6 @@
         "confirmed": 4377,
         "deaths": 104,
         "recovered": 3700
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4360,
-        "deaths": 91,
-        "recovered": 3544
     },
     {
         "Name": "Uganda",
@@ -971,9 +971,17 @@
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "confirmed": 3362,
+        "confirmed": 3371,
         "deaths": 97,
-        "recovered": 2696
+        "recovered": 2738
+    },
+    {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 3289,
+        "deaths": 140,
+        "recovered": 760
     },
     {
         "Name": "Gambia",
@@ -982,14 +990,6 @@
         "confirmed": 3275,
         "deaths": 99,
         "recovered": 1424
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 3229,
-        "deaths": 137,
-        "recovered": 744
     },
     {
         "Name": "슬로베니아",

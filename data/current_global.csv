@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6509310,193934,3786436
+미국,美国,United States,6511012,193953,3787379
 인도,印度,India,4367436,73923,3396027
-브라질,巴西,Brazil,4162073,127464,3397234
+브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
 페루,秘鲁,Peru,691575,29976,522251
 콜롬비아,哥伦比亚,Colombia,679513,21817,541462
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,140479,2934,63546
 캐나다,加拿大,Canada,133748,9153,117565
 Bolivia,,Bolivia,121604,7054,73150
 카타르,卡塔尔,Qatar,120579,205,117497
-에콰도르,厄瓜多尔,Ecuador,110092,10576,91242
+에콰도르,厄瓜多尔,Ecuador,110757,10627,91242
 Kazakhstan,,Kazakhstan,106425,1588,99893
 이집트,埃及,Egypt,100228,5560,79886
 도미니카 공화국,多明尼加共和国,Dominican Republic,100131,1889,73795
@@ -66,14 +66,14 @@ Kenya,,Kenya,35356,599,21483
 세르비아,塞尔维亚,Serbia,31994,727,30637
 오스트리아,奥地利,Austria,30081,747,25629
 아일랜드,冰岛,Ireland,30080,1778,23364
-체코,捷克,Czechia,29368,440,20139
+체코,捷克,Czechia,29877,441,20139
 팔레스타인,巴勒斯坦,Palestine,27363,190,17779
 El Salvador,,El Salvador,26511,765,16462
 호주,澳大利亚,Australia,26374,770,22724
 Paraguay,,Paraguay,23353,449,11524
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21961,669,15172
 레바논,黎巴嫩,Lebanon,21324,207,6722
-카메룬,喀麦隆,Cameroon,19604,415,18448
+카메룬,喀麦隆,Cameroon,19848,415,18448
 Libya,,Libya,19583,314,2247
 Ivory Coast,,Ivory Coast,18778,119,17688
 덴마크,丹麦,Denmark,18356,628,15907
@@ -106,23 +106,23 @@ Malawi,,Malawi,5630,176,3630
 Djibouti,,Djibouti,5388,61,5327
 Tunisia,,Tunisia,5124,94,1788
 Equatorial Guinea,,Equatorial Guinea,4985,83,4454
+Eswatini,,Eswatini,4904,96,4059
 홍콩,香港,Hong Kong,4896,99,4543
 Congo,,Congo,4891,102,3887
-Eswatini,,Eswatini,4884,94,4029
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4735,62,1825
 슬로바키아,斯洛伐克,Slovakia,4727,37,2913
 Mozambique,,Mozambique,4647,28,2715
 Rwanda,,Rwanda,4439,20,2307
+Suriname,,Suriname,4419,91,3595
 Cabo Verde,,Cabo Verde,4400,42,3851
 Cuba,,Cuba,4377,104,3700
-Suriname,,Suriname,4360,91,3544
 Uganda,,Uganda,3900,46,1817
 태국,泰国,Thailand,3446,58,3284
 Mayotte,,Mayotte,3374,40,2964
-Somalia,,Somalia,3362,97,2696
+Somalia,,Somalia,3371,97,2738
+Syria,,Syria,3289,140,760
 Gambia,,Gambia,3275,99,1424
-Syria,,Syria,3229,137,744
 슬로베니아,斯洛文尼亚,Slovenia,3190,135,2530
 Jamaica,,Jamaica,3183,34,974
 스리랑카,斯里兰卡,Sri Lanka,3140,12,2935
