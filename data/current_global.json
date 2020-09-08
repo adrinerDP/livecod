@@ -387,7 +387,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57044,
+        "confirmed": 57091,
         "deaths": 27,
         "recovered": 56408
     },
@@ -1371,9 +1371,9 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 494,
+        "confirmed": 495,
         "deaths": 7,
-        "recovered": 473
+        "recovered": 475
     },
     {
         "Name": "Burundi",
