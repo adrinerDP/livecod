@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6486417,193586,3758629
+미국,美国,United States,6486426,193586,3758629
 인도,印度,India,4284103,72843,3324060
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -12,14 +12,14 @@ Argentina,,Argentina,488007,10129,357388
 칠레,智利,Chile,424274,11652,395717
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,350100,41554,0
+Bangladesh,,Bangladesh,329251,4552,227809
 프랑스,法国,France,328980,30726,87836
-Bangladesh,,Bangladesh,327359,4516,224573
-사우디아라비아,沙特阿拉伯,Saudi Arabia,321456,4107,297623
+사우디아라비아,沙特阿拉伯,Saudi Arabia,322237,4137,298246
 파키스탄,巴基斯坦,Pakistan,299233,6350,286157
 터키,土耳其,Turkey,281509,6730,252152
 이탈리아,义大利,Italy,278784,35553,210238
 이라크,伊拉克,Iraq,264684,7589,202859
-독일,德国,Germany,253625,9405,227000
+독일,德国,Germany,254168,9407,227000
 필리핀,菲律宾,Philippines,241987,3916,185178
 인도네시아,印度尼西亚,Indonesia,200035,8230,142958
 Ukraine,,Ukraine,140479,2934,63546
@@ -63,7 +63,7 @@ Moldova,,Moldova,40055,1074,28578
 아프가니스탄,阿富汗,Afghanistan,38520,1418,30715
 아제르바이잔,阿塞拜疆,Azerbaijan,37418,551,34837
 Kenya,,Kenya,35205,599,21310
-세르비아,塞尔维亚,Serbia,31941,725,30637
+세르비아,塞尔维亚,Serbia,31994,727,30637
 오스트리아,奥地利,Austria,30081,747,25629
 아일랜드,冰岛,Ireland,29774,1777,23364
 체코,捷克,Czechia,28716,437,19855
@@ -79,7 +79,7 @@ Ivory Coast,,Ivory Coast,18701,119,17599
 덴마크,丹麦,Denmark,18356,628,15907
 Bulgaria,,Bulgaria,17146,677,12189
 Madagascar,,Madagascar,15435,206,14219
-North Macedonia,,North Macedonia,15127,623,12486
+North Macedonia,,North Macedonia,15226,631,12700
 세네갈,塞内加尔,Senegal,14014,291,10037
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12836,295,11748
@@ -158,7 +158,7 @@ Belize,,Belize,1307,16,314
 안도라,安道尔,Andorra,1261,53,934
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
-베트남,越南,Vietnam,1049,35,853
+베트남,越南,Vietnam,1054,35,868
 Chad,,Chad,1040,79,919
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
 French Polynesia,,French Polynesia,773,0,528

@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6486417,
+        "confirmed": 6486426,
         "deaths": 193586,
         "recovered": 3758629
     },
@@ -104,6 +104,14 @@
         "recovered": 0
     },
     {
+        "Name": "Bangladesh",
+        "Name_ch": "",
+        "Name_en": "Bangladesh",
+        "confirmed": 329251,
+        "deaths": 4552,
+        "recovered": 227809
+    },
+    {
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
@@ -112,20 +120,12 @@
         "recovered": 87836
     },
     {
-        "Name": "Bangladesh",
-        "Name_ch": "",
-        "Name_en": "Bangladesh",
-        "confirmed": 327359,
-        "deaths": 4516,
-        "recovered": 224573
-    },
-    {
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 321456,
-        "deaths": 4107,
-        "recovered": 297623
+        "confirmed": 322237,
+        "deaths": 4137,
+        "recovered": 298246
     },
     {
         "Name": "파키스탄",
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 253625,
-        "deaths": 9405,
+        "confirmed": 254168,
+        "deaths": 9407,
         "recovered": 227000
     },
     {
@@ -515,8 +515,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31941,
-        "deaths": 725,
+        "confirmed": 31994,
+        "deaths": 727,
         "recovered": 30637
     },
     {
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 15127,
-        "deaths": 623,
-        "recovered": 12486
+        "confirmed": 15226,
+        "deaths": 631,
+        "recovered": 12700
     },
     {
         "Name": "세네갈",
@@ -1275,9 +1275,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1049,
+        "confirmed": 1054,
         "deaths": 35,
-        "recovered": 853
+        "recovered": 868
     },
     {
         "Name": "Chad",
