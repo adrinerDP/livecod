@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6485708,
-        "deaths": 193536,
+        "confirmed": 6486313,
+        "deaths": 193586,
         "recovered": 3758629
     },
     {
@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 388810,
-        "deaths": 22410,
-        "recovered": 335572
+        "confirmed": 391112,
+        "deaths": 22542,
+        "recovered": 337414
     },
     {
         "Name": "영국",
