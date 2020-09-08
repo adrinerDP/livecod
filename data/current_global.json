@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 135043,
-        "deaths": 1026,
-        "recovered": 106294
+        "confirmed": 135288,
+        "deaths": 1031,
+        "recovered": 106297
     },
     {
         "Name": "캐나다",
@@ -888,20 +888,20 @@
         "recovered": 1818
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 4727,
+        "deaths": 37,
+        "recovered": 2913
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
         "confirmed": 4668,
         "deaths": 141,
         "recovered": 2913
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 4636,
-        "deaths": 37,
-        "recovered": 2836
     },
     {
         "Name": "Mozambique",
