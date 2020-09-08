@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106361,
+        "confirmed": 106425,
         "deaths": 1588,
-        "recovered": 99654
+        "recovered": 99893
     },
     {
         "Name": "이집트",
@@ -1547,7 +1547,7 @@
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "confirmed": 61,
+        "confirmed": 62,
         "deaths": 0,
         "recovered": 58
     },
