@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6501149,
-        "deaths": 193812,
-        "recovered": 3776159
+        "confirmed": 6502075,
+        "deaths": 193831,
+        "recovered": 3776844
     },
     {
         "Name": "인도",
@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 137159,
+        "confirmed": 137565,
         "deaths": 1040,
-        "recovered": 106996
+        "recovered": 107003
     },
     {
         "Name": "캐나다",
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 35205,
+        "confirmed": 35356,
         "deaths": 599,
-        "recovered": 21310
+        "recovered": 21483
     },
     {
         "Name": "세르비아",
@@ -611,9 +611,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18701,
+        "confirmed": 18778,
         "deaths": 119,
-        "recovered": 17599
+        "recovered": 17688
     },
     {
         "Name": "덴마크",
@@ -920,20 +920,20 @@
         "recovered": 2271
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4400,
+        "deaths": 42,
+        "recovered": 3851
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4360,
         "deaths": 91,
         "recovered": 3544
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4358,
-        "deaths": 42,
-        "recovered": 3790
     },
     {
         "Name": "Cuba",
@@ -1027,8 +1027,8 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 2981,
-        "deaths": 120,
+        "confirmed": 3033,
+        "deaths": 124,
         "recovered": 1215
     },
     {
@@ -1192,20 +1192,20 @@
         "recovered": 962
     },
     {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+        "confirmed": 1513,
+        "deaths": 34,
+        "recovered": 1127
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1510,
         "deaths": 22,
         "recovered": 1237
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "多哥",
-        "Name_en": "Togo",
-        "confirmed": 1493,
-        "deaths": 33,
-        "recovered": 1114
     },
     {
         "Name": "Burkina Faso",

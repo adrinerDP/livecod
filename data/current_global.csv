@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6501149,193812,3776159
+미국,美国,United States,6502075,193831,3776844
 인도,印度,India,4367436,73923,3396027
 브라질,巴西,Brazil,4150311,127084,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,329251,4552,227809
 필리핀,菲律宾,Philippines,241987,3916,185178
 인도네시아,印度尼西亚,Indonesia,200035,8230,142958
 Ukraine,,Ukraine,140479,2934,63546
-이스라엘,以色列,Israel,137159,1040,106996
+이스라엘,以色列,Israel,137565,1040,107003
 캐나다,加拿大,Canada,132680,9146,116900
 Bolivia,,Bolivia,121604,7054,73150
 카타르,卡塔尔,Qatar,120579,205,117497
@@ -62,7 +62,7 @@ Uzbekistan,,Uzbekistan,44281,358,41594
 Moldova,,Moldova,40556,1087,28578
 아프가니스탄,阿富汗,Afghanistan,38520,1418,30715
 아제르바이잔,阿塞拜疆,Azerbaijan,37557,552,34965
-Kenya,,Kenya,35205,599,21310
+Kenya,,Kenya,35356,599,21483
 세르비아,塞尔维亚,Serbia,31994,727,30637
 오스트리아,奥地利,Austria,30081,747,25629
 아일랜드,冰岛,Ireland,30080,1778,23364
@@ -75,7 +75,7 @@ Paraguay,,Paraguay,23353,449,11524
 레바논,黎巴嫩,Lebanon,21324,207,6722
 카메룬,喀麦隆,Cameroon,19604,415,18448
 Libya,,Libya,19583,314,2247
-Ivory Coast,,Ivory Coast,18701,119,17599
+Ivory Coast,,Ivory Coast,18778,119,17688
 덴마크,丹麦,Denmark,18356,628,15907
 Bulgaria,,Bulgaria,17146,677,12189
 Madagascar,,Madagascar,15435,206,14219
@@ -114,8 +114,8 @@ CAR,,CAR,4729,62,1818
 Nicaragua,,Nicaragua,4668,141,2913
 Mozambique,,Mozambique,4647,28,2715
 Rwanda,,Rwanda,4409,19,2271
+Cabo Verde,,Cabo Verde,4400,42,3851
 Suriname,,Suriname,4360,91,3544
-Cabo Verde,,Cabo Verde,4358,42,3790
 Cuba,,Cuba,4352,102,3642
 Uganda,,Uganda,3900,46,1817
 태국,泰国,Thailand,3446,58,3284
@@ -127,7 +127,7 @@ Syria,,Syria,3229,137,744
 Jamaica,,Jamaica,3183,34,974
 스리랑카,斯里兰卡,Sri Lanka,3140,12,2935
 Lithuania,,Lithuania,3131,86,1994
-Angola,,Angola,2981,120,1215
+Angola,,Angola,3033,124,1215
 Mali,,Mali,2882,127,2258
 Bahamas,,Bahamas,2585,59,976
 요르단,约旦,Jordan,2581,19,1885
@@ -148,8 +148,8 @@ New Zealand,,New Zealand,1782,24,1635
 Uruguay,,Uruguay,1693,45,1466
 Myanmar,,Myanmar,1610,8,388
 Guyana,,Guyana,1560,47,962
+토고,多哥,Togo,1513,34,1127
 Cyprus,,Cyprus,1510,22,1237
-토고,多哥,Togo,1493,33,1114
 Burkina Faso,,Burkina Faso,1463,56,1112
 라트비아,约旦,Latvia,1432,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
