@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6485568,
+        "confirmed": 6485575,
         "deaths": 193534,
-        "recovered": 3758619
+        "recovered": 3758629
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 634023,
-        "deaths": 67558,
-        "recovered": 442268
+        "confirmed": 637509,
+        "deaths": 67781,
+        "recovered": 446715
     },
     {
         "Name": "스페인",
@@ -563,9 +563,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26322,
-        "deaths": 762,
-        "recovered": 22603
+        "confirmed": 26372,
+        "deaths": 770,
+        "recovered": 22604
     },
     {
         "Name": "Paraguay",
@@ -1000,20 +1000,20 @@
         "recovered": 2530
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3183,
+        "deaths": 34,
+        "recovered": 974
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "confirmed": 3123,
         "deaths": 12,
         "recovered": 2926
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3103,
-        "deaths": 33,
-        "recovered": 958
     },
     {
         "Name": "Lithuania",
@@ -1155,9 +1155,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1776,
+        "confirmed": 1782,
         "deaths": 24,
-        "recovered": 1634
+        "recovered": 1635
     },
     {
         "Name": "Uruguay",
@@ -1371,7 +1371,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 493,
+        "confirmed": 494,
         "deaths": 7,
         "recovered": 473
     },
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85134,
+        "confirmed": 85144,
         "deaths": 4634,
-        "recovered": 80320
+        "recovered": 80335
     }
 ]

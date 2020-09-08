@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6485568,193534,3758619
+미국,美国,United States,6485575,193534,3758629
 인도,印度,India,4277584,72816,3321420
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,689977,29838,515039
 콜롬비아,哥伦比亚,Colombia,671848,21615,529279
 남아프리카 공화국,南非共和国,South Africa,639362,15004,566555
-멕시코,墨西哥,Mexico,634023,67558,442268
+멕시코,墨西哥,Mexico,637509,67781,446715
 스페인,西班牙,Spain,525549,29516,0
 Argentina,,Argentina,488007,10129,357388
 칠레,智利,Chile,424274,11652,395717
@@ -69,7 +69,7 @@ Kenya,,Kenya,35205,599,21310
 체코,捷克,Czechia,28716,437,19855
 팔레스타인,巴勒斯坦,Palestine,26779,184,17270
 El Salvador,,El Salvador,26413,764,16137
-호주,澳大利亚,Australia,26322,762,22603
+호주,澳大利亚,Australia,26372,770,22604
 Paraguay,,Paraguay,23353,449,11524
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21660,664,14830
 레바논,黎巴嫩,Lebanon,20826,200,6430
@@ -124,8 +124,8 @@ Somalia,,Somalia,3362,97,2696
 Syria,,Syria,3229,137,744
 Gambia,,Gambia,3197,99,1315
 슬로베니아,斯洛文尼亚,Slovenia,3190,135,2530
+Jamaica,,Jamaica,3183,34,974
 스리랑카,斯里兰卡,Sri Lanka,3123,12,2926
-Jamaica,,Jamaica,3103,33,958
 Lithuania,,Lithuania,3100,86,1955
 Angola,,Angola,2981,120,1215
 Mali,,Mali,2870,127,2246
@@ -143,7 +143,7 @@ Botswana,,Botswana,2126,9,493
 Malta,,Malta,2076,14,1690
 Sierra Leone,,Sierra Leone,2055,71,1611
 Yemen,,Yemen,1989,573,1201
-New Zealand,,New Zealand,1776,24,1634
+New Zealand,,New Zealand,1782,24,1635
 Uruguay,,Uruguay,1693,45,1466
 조지아,格鲁吉亚,Georgia,1684,19,1315
 Guyana,,Guyana,1560,47,962
@@ -170,7 +170,7 @@ Turks and Caicos,,Turks and Caicos,599,5,264
 Sint Maarten,,Sint Maarten,516,19,321
 Tanzania,,Tanzania,509,21,183
 Papua New Guinea,,Papua New Guinea,497,5,232
-대만,台湾,Taiwan,493,7,473
+대만,台湾,Taiwan,494,7,473
 Burundi,,Burundi,462,1,357
 Comoros,,Comoros,452,7,410
 Faeroe Islands,,Faeroe Islands,413,0,409
@@ -212,4 +212,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Saint Pierre Miquelon,,Saint Pierre Miquelon,9,0,5
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85134,4634,80320
+중국,中国,China,85144,4634,80335
