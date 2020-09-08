@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6488725,
-        "deaths": 193598,
+        "confirmed": 6490632,
+        "deaths": 193648,
         "recovered": 3759134
     },
     {
@@ -147,9 +147,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 278784,
-        "deaths": 35553,
-        "recovered": 210238
+        "confirmed": 280153,
+        "deaths": 35563,
+        "recovered": 210801
     },
     {
         "Name": "이라크",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 132142,
+        "confirmed": 132680,
         "deaths": 9146,
-        "recovered": 116459
+        "recovered": 116900
     },
     {
         "Name": "Bolivia",
@@ -323,9 +323,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 74454,
-        "deaths": 390,
-        "recovered": 66533
+        "confirmed": 75098,
+        "deaths": 391,
+        "recovered": 66943
     },
     {
         "Name": "모로코",
@@ -1040,20 +1040,20 @@
         "recovered": 2246
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 2585,
+        "deaths": 59,
+        "recovered": 976
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "confirmed": 2564,
         "deaths": 64,
         "recovered": 2195
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 2546,
-        "deaths": 58,
-        "recovered": 976
     },
     {
         "Name": "South Sudan",
