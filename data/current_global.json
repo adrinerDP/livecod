@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 90387,
-        "deaths": 546,
-        "recovered": 81037
+        "confirmed": 91244,
+        "deaths": 548,
+        "recovered": 81654
     },
     {
         "Name": "벨기에",
@@ -427,9 +427,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 47236,
-        "deaths": 300,
-        "recovered": 30677
+        "confirmed": 48138,
+        "deaths": 306,
+        "recovered": 32964
     },
     {
         "Name": "알제리",
@@ -491,9 +491,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38494,
-        "deaths": 1415,
-        "recovered": 30557
+        "confirmed": 38520,
+        "deaths": 1418,
+        "recovered": 30715
     },
     {
         "Name": "아제르바이잔",
@@ -1131,9 +1131,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2076,
+        "confirmed": 2099,
         "deaths": 14,
-        "recovered": 1690
+        "recovered": 1729
     },
     {
         "Name": "Sierra Leone",
@@ -1395,7 +1395,7 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 413,
+        "confirmed": 414,
         "deaths": 0,
         "recovered": 409
     },
