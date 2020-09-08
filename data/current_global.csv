@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6508246,193913,3785293
+미국,美国,United States,6509310,193934,3786436
 인도,印度,India,4367436,73923,3396027
 브라질,巴西,Brazil,4162073,127464,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -8,7 +8,7 @@
 남아프리카 공화국,南非共和国,South Africa,640441,15086,567729
 멕시코,墨西哥,Mexico,637509,67781,446715
 스페인,西班牙,Spain,534513,29594,0
-Argentina,,Argentina,488007,10179,366590
+Argentina,,Argentina,500034,10405,366590
 칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,352560,41586,0
@@ -49,7 +49,7 @@ Honduras,,Honduras,64814,2023,13828
 Ethiopia,,Ethiopia,60784,949,22677
 싱가포르,新加坡,Singapore,57091,27,56461
 바레인,巴林,Bahrain,56778,202,51574
-나이지리아,尼日利亚,Nigeria,55160,1061,43231
+나이지리아,尼日利亚,Nigeria,55456,1067,43334
 Venezuela,,Venezuela,54350,436,43753
 코스타리카,哥斯达黎加,Costa Rica,49897,531,19285
 네팔,尼泊尔,Nepal,48138,306,32964
@@ -88,7 +88,7 @@ Zambia,,Zambia,12952,297,11787
 노르웨이,挪威,Norway,11623,264,9348
 Albania,,Albania,10553,321,6239
 DRC,,DRC,10292,260,9501
-Guinea,,Guinea,9816,62,8956
+Guinea,,Guinea,9848,63,9009
 말레이시아,马来西亚,Malaysia,9559,128,9136
 French Guiana,,French Guiana,9387,62,8946
 헝가리,匈牙利,Hungary,9304,626,3972
@@ -101,7 +101,7 @@ Haiti,,Haiti,8376,214,5991
 Zimbabwe,,Zimbabwe,7388,218,5477
 Mauritania,,Mauritania,7165,160,6681
 룩셈부르크,卢森堡,Luxembourg,6974,124,6256
-Montenegro,,Montenegro,5659,109,4272
+Montenegro,,Montenegro,5875,112,4312
 Malawi,,Malawi,5630,176,3630
 Djibouti,,Djibouti,5388,61,5327
 Tunisia,,Tunisia,5124,94,1788
@@ -134,7 +134,7 @@ Bahamas,,Bahamas,2585,59,976
 에스토니아,爱沙尼亚,Estonia,2564,64,2195
 South Sudan,,South Sudan,2552,49,1290
 Aruba,,Aruba,2482,15,1244
-Trinidad and Tobago,,Trinidad and Tobago,2347,38,743
+Trinidad and Tobago,,Trinidad and Tobago,2391,39,743
 Réunion,,Réunion,2346,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
@@ -145,18 +145,18 @@ Sierra Leone,,Sierra Leone,2064,72,1613
 Yemen,,Yemen,1994,576,1203
 New Zealand,,New Zealand,1782,24,1635
 조지아,格鲁吉亚,Georgia,1729,19,1321
+Uruguay,,Uruguay,1712,45,1476
 Myanmar,,Myanmar,1709,10,460
-Uruguay,,Uruguay,1693,45,1466
-Guyana,,Guyana,1560,47,962
+Guyana,,Guyana,1613,48,1030
 토고,多哥,Togo,1513,34,1127
 Cyprus,,Cyprus,1511,22,1237
-Burkina Faso,,Burkina Faso,1463,56,1112
+Burkina Faso,,Burkina Faso,1466,56,1112
 라트비아,约旦,Latvia,1432,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
-Liberia,,Liberia,1311,82,1190
+Liberia,,Liberia,1311,82,1194
 Belize,,Belize,1307,16,314
 안도라,安道尔,Andorra,1261,53,934
-Niger,,Niger,1177,69,1091
+Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1054,35,868
 Chad,,Chad,1045,79,927
