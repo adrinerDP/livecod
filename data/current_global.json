@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 689977,
-        "deaths": 29838,
-        "recovered": 515039
+        "confirmed": 691575,
+        "deaths": 29976,
+        "recovered": 522251
     },
     {
         "Name": "콜롬비아",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 120769,
-        "deaths": 7008,
-        "recovered": 71489
+        "confirmed": 121604,
+        "deaths": 7054,
+        "recovered": 73150
     },
     {
         "Name": "카타르",
@@ -779,9 +779,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8362,
+        "confirmed": 8376,
         "deaths": 214,
-        "recovered": 5933
+        "recovered": 5991
     },
     {
         "Name": "핀란드",
@@ -1445,7 +1445,7 @@
         "Name_en": "Cambodia",
         "confirmed": 274,
         "deaths": 0,
-        "recovered": 272
+        "recovered": 273
     },
     {
         "Name": "Saint Martin",
