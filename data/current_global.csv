@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6485575,193534,3758629
-인도,印度,India,4280422,72816,3323950
+인도,印度,India,4284103,72843,3324060
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1030690,17871,843277
 페루,秘鲁,Peru,691575,29976,522251
@@ -48,7 +48,7 @@ Honduras,,Honduras,64814,2023,13828
 포르투갈,葡萄牙,Portugal,60507,1843,43016
 Ethiopia,,Ethiopia,59648,933,21789
 싱가포르,新加坡,Singapore,57044,27,56408
-바레인,巴林,Bahrain,56076,200,51240
+바레인,巴林,Bahrain,56076,202,51240
 나이지리아,尼日利亚,Nigeria,55160,1061,43231
 Venezuela,,Venezuela,54350,436,43753
 코스타리카,哥斯达黎加,Costa Rica,48780,510,19083
@@ -59,7 +59,7 @@ Ghana,,Ghana,45012,283,43898
 스위스,瑞士,Switzerland,44592,2014,37700
 Kyrgyzstan,,Kyrgyzstan,44487,1060,40092
 Uzbekistan,,Uzbekistan,44107,356,41594
-Moldova,,Moldova,40055,1074,27799
+Moldova,,Moldova,40055,1074,28578
 아프가니스탄,阿富汗,Afghanistan,38494,1415,30557
 아제르바이잔,阿塞拜疆,Azerbaijan,37418,551,34837
 Kenya,,Kenya,35205,599,21310
@@ -91,7 +91,7 @@ DRC,,DRC,10233,260,9451
 Guinea,,Guinea,9816,62,8956
 말레이시아,马来西亚,Malaysia,9459,128,9124
 French Guiana,,French Guiana,9355,62,8902
-헝가리,匈牙利,Hungary,8963,625,3961
+헝가리,匈牙利,Hungary,9304,626,3972
 Tajikistan,,Tajikistan,8824,70,7616
 Namibia,,Namibia,8810,91,3806
 Maldives,,Maldives,8667,29,6052
