@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6496457,193721,3768762
+미국,美国,United States,6497761,193746,3775602
 인도,印度,India,4363843,73894,3393583
 브라질,巴西,Brazil,4150311,127084,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -12,14 +12,14 @@ Argentina,,Argentina,488007,10179,366590
 칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,352560,41586,0
-프랑스,法国,France,335524,30726,88226
+프랑스,法国,France,335524,30764,88226
 Bangladesh,,Bangladesh,329251,4552,227809
 사우디아라비아,沙特阿拉伯,Saudi Arabia,322237,4137,298246
 파키스탄,巴基斯坦,Pakistan,299233,6350,286157
 터키,土耳其,Turkey,283270,6782,253245
 이탈리아,义大利,Italy,280153,35563,210801
 이라크,伊拉克,Iraq,269578,7657,206324
-독일,德国,Germany,254615,9407,227000
+독일,德国,Germany,254929,9409,227000
 필리핀,菲律宾,Philippines,241987,3916,185178
 인도네시아,印度尼西亚,Indonesia,200035,8230,142958
 Ukraine,,Ukraine,140479,2934,63546
@@ -132,10 +132,10 @@ Mali,,Mali,2882,127,2258
 Bahamas,,Bahamas,2585,59,976
 요르단,约旦,Jordan,2581,19,1885
 에스토니아,爱沙尼亚,Estonia,2564,64,2195
-South Sudan,,South Sudan,2545,48,1290
+South Sudan,,South Sudan,2552,49,1290
 Aruba,,Aruba,2482,15,1244
 Trinidad and Tobago,,Trinidad and Tobago,2347,38,743
-Réunion,,Réunion,2277,13,1313
+Réunion,,Réunion,2346,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2150,10,2060
@@ -159,7 +159,7 @@ Belize,,Belize,1307,16,314
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1054,35,868
-Chad,,Chad,1040,79,919
+Chad,,Chad,1045,79,927
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
 French Polynesia,,French Polynesia,773,0,528
 Martinique,,Martinique,758,18,98

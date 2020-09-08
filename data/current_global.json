@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6496457,
-        "deaths": 193721,
-        "recovered": 3768762
+        "confirmed": 6497761,
+        "deaths": 193746,
+        "recovered": 3775602
     },
     {
         "Name": "인도",
@@ -108,7 +108,7 @@
         "Name_ch": "法国",
         "Name_en": "France",
         "confirmed": 335524,
-        "deaths": 30726,
+        "deaths": 30764,
         "recovered": 88226
     },
     {
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 254615,
-        "deaths": 9407,
+        "confirmed": 254929,
+        "deaths": 9409,
         "recovered": 227000
     },
     {
@@ -1067,8 +1067,8 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2545,
-        "deaths": 48,
+        "confirmed": 2552,
+        "deaths": 49,
         "recovered": 1290
     },
     {
@@ -1091,7 +1091,7 @@
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "confirmed": 2277,
+        "confirmed": 2346,
         "deaths": 13,
         "recovered": 1313
     },
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1040,
+        "confirmed": 1045,
         "deaths": 79,
-        "recovered": 919
+        "recovered": 927
     },
     {
         "Name": "Sao Tome and Principe",
