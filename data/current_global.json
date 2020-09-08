@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6503671,
-        "deaths": 193856,
-        "recovered": 3779728
+        "confirmed": 6505572,
+        "deaths": 193871,
+        "recovered": 3781361
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4150311,
-        "deaths": 127084,
+        "confirmed": 4162073,
+        "deaths": 127464,
         "recovered": 3355564
     },
     {
@@ -307,9 +307,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 77828,
-        "deaths": 2862,
-        "recovered": 66584
+        "confirmed": 78721,
+        "deaths": 2890,
+        "recovered": 67462
     },
     {
         "Name": "네덜란드",
@@ -395,9 +395,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 56076,
+        "confirmed": 56778,
         "deaths": 202,
-        "recovered": 51240
+        "recovered": 51574
     },
     {
         "Name": "나이지리아",
@@ -915,9 +915,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4409,
-        "deaths": 19,
-        "recovered": 2271
+        "confirmed": 4439,
+        "deaths": 20,
+        "recovered": 2307
     },
     {
         "Name": "Cabo Verde",
@@ -928,20 +928,20 @@
         "recovered": 3851
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4377,
+        "deaths": 104,
+        "recovered": 3700
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4360,
         "deaths": 91,
         "recovered": 3544
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4352,
-        "deaths": 102,
-        "recovered": 3642
     },
     {
         "Name": "Uganda",
