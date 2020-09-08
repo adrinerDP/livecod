@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 298903,
-        "deaths": 6345,
-        "recovered": 286016
+        "confirmed": 299233,
+        "deaths": 6350,
+        "recovered": 286157
     },
     {
         "Name": "터키",
@@ -955,9 +955,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3445,
+        "confirmed": 3446,
         "deaths": 58,
-        "recovered": 3281
+        "recovered": 3284
     },
     {
         "Name": "Mayotte",
@@ -1459,7 +1459,7 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 230,
+        "confirmed": 233,
         "deaths": 0,
         "recovered": 151
     },
