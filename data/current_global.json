@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6485575,
-        "deaths": 193534,
+        "confirmed": 6485708,
+        "deaths": 193536,
         "recovered": 3758629
     },
     {
@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1030690,
-        "deaths": 17871,
-        "recovered": 843277
+        "confirmed": 1035789,
+        "deaths": 17993,
+        "recovered": 850049
     },
     {
         "Name": "페루",
@@ -355,8 +355,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 71126,
-        "deaths": 2124,
+        "confirmed": 71526,
+        "deaths": 2136,
         "recovered": 55910
     },
     {
@@ -451,9 +451,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 44845,
-        "deaths": 900,
-        "recovered": 40121
+        "confirmed": 44953,
+        "deaths": 903,
+        "recovered": 40592
     },
     {
         "Name": "스위스",
@@ -723,9 +723,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9459,
+        "confirmed": 9559,
         "deaths": 128,
-        "recovered": 9124
+        "recovered": 9136
     },
     {
         "Name": "French Guiana",
@@ -787,7 +787,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8327,
+        "confirmed": 8337,
         "deaths": 336,
         "recovered": 7350
     },
