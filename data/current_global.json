@@ -171,9 +171,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 238727,
-        "deaths": 3890,
-        "recovered": 184906
+        "confirmed": 241987,
+        "deaths": 3916,
+        "recovered": 185178
     },
     {
         "Name": "인도네시아",
@@ -357,7 +357,7 @@
         "Name_en": "Poland",
         "confirmed": 71126,
         "deaths": 2124,
-        "recovered": 55113
+        "recovered": 55910
     },
     {
         "Name": "Honduras",
@@ -1008,20 +1008,20 @@
         "recovered": 974
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 3131,
+        "deaths": 86,
+        "recovered": 1994
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "confirmed": 3123,
         "deaths": 12,
         "recovered": 2926
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 3100,
-        "deaths": 86,
-        "recovered": 1955
     },
     {
         "Name": "Angola",
@@ -1176,20 +1176,20 @@
         "recovered": 1466
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1610,
+        "deaths": 8,
+        "recovered": 388
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
         "confirmed": 1560,
         "deaths": 47,
         "recovered": 962
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1518,
-        "deaths": 8,
-        "recovered": 388
     },
     {
         "Name": "Cyprus",
@@ -1219,7 +1219,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1429,
+        "confirmed": 1432,
         "deaths": 35,
         "recovered": 1187
     },
