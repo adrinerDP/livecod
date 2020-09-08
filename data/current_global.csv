@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6486426,193586,3758629
+미국,美国,United States,6487274,193589,3758639
 인도,印度,India,4284103,72843,3324060
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -8,7 +8,7 @@
 남아프리카 공화국,南非共和国,South Africa,639362,15004,566555
 멕시코,墨西哥,Mexico,637509,67781,446715
 스페인,西班牙,Spain,525549,29516,0
-Argentina,,Argentina,488007,10129,357388
+Argentina,,Argentina,488007,10179,366590
 칠레,智利,Chile,424274,11652,395717
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,350100,41554,0
@@ -41,7 +41,7 @@ Guatemala,,Guatemala,77828,2862,66584
 네덜란드,荷兰,Netherlands,76548,6244,0
 아랍에미리트,阿拉伯联合酋长国,UAE,74454,390,66533
 모로코,摩洛哥,Morocco,73780,1394,56096
-벨라루스,白俄罗斯,Belarus,73031,716,71883
+벨라루스,白俄罗斯,Belarus,73208,721,71883
 일본,日本,Japan,71856,1363,62536
 폴란드,波兰,Poland,71526,2136,55910
 Honduras,,Honduras,64814,2023,13828
@@ -61,13 +61,13 @@ Kyrgyzstan,,Kyrgyzstan,44487,1060,40092
 Uzbekistan,,Uzbekistan,44107,356,41594
 Moldova,,Moldova,40055,1074,28578
 아프가니스탄,阿富汗,Afghanistan,38520,1418,30715
-아제르바이잔,阿塞拜疆,Azerbaijan,37418,551,34837
+아제르바이잔,阿塞拜疆,Azerbaijan,37557,552,34965
 Kenya,,Kenya,35205,599,21310
 세르비아,塞尔维亚,Serbia,31994,727,30637
 오스트리아,奥地利,Austria,30081,747,25629
 아일랜드,冰岛,Ireland,29774,1777,23364
 체코,捷克,Czechia,28716,437,19855
-팔레스타인,巴勒斯坦,Palestine,27363,190,17270
+팔레스타인,巴勒斯坦,Palestine,27363,190,17779
 El Salvador,,El Salvador,26511,765,16462
 호주,澳大利亚,Australia,26374,770,22724
 Paraguay,,Paraguay,23353,449,11524
@@ -85,14 +85,14 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,12836,295,11748
 크로아티아,克罗地亚,Croatia,12285,203,9553
 그리스,希腊,Greece,11663,289,3804
-노르웨이,挪威,Norway,11521,264,9348
+노르웨이,挪威,Norway,11560,264,9348
 Albania,,Albania,10406,319,6186
 DRC,,DRC,10292,260,9501
 Guinea,,Guinea,9816,62,8956
 말레이시아,马来西亚,Malaysia,9559,128,9136
 French Guiana,,French Guiana,9355,62,8902
 헝가리,匈牙利,Hungary,9304,626,3972
-Tajikistan,,Tajikistan,8824,70,7616
+Tajikistan,,Tajikistan,8860,70,7650
 Namibia,,Namibia,8810,91,3806
 Maldives,,Maldives,8667,29,6052
 Gabon,,Gabon,8608,53,7533
@@ -169,7 +169,7 @@ Channel Islands,,Channel Islands,628,48,575
 Turks and Caicos,,Turks and Caicos,599,5,264
 Sint Maarten,,Sint Maarten,516,19,321
 Tanzania,,Tanzania,509,21,183
-Papua New Guinea,,Papua New Guinea,497,5,232
+Papua New Guinea,,Papua New Guinea,503,5,232
 대만,台湾,Taiwan,495,7,475
 Burundi,,Burundi,466,1,374
 Comoros,,Comoros,452,7,410

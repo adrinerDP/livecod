@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6486426,
-        "deaths": 193586,
-        "recovered": 3758629
+        "confirmed": 6487274,
+        "deaths": 193589,
+        "recovered": 3758639
     },
     {
         "Name": "인도",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 488007,
-        "deaths": 10129,
-        "recovered": 357388
+        "deaths": 10179,
+        "recovered": 366590
     },
     {
         "Name": "칠레",
@@ -339,8 +339,8 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 73031,
-        "deaths": 716,
+        "confirmed": 73208,
+        "deaths": 721,
         "recovered": 71883
     },
     {
@@ -499,9 +499,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 37418,
-        "deaths": 551,
-        "recovered": 34837
+        "confirmed": 37557,
+        "deaths": 552,
+        "recovered": 34965
     },
     {
         "Name": "Kenya",
@@ -549,7 +549,7 @@
         "Name_en": "Palestine",
         "confirmed": 27363,
         "deaths": 190,
-        "recovered": 17270
+        "recovered": 17779
     },
     {
         "Name": "El Salvador",
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11521,
+        "confirmed": 11560,
         "deaths": 264,
         "recovered": 9348
     },
@@ -747,9 +747,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8824,
+        "confirmed": 8860,
         "deaths": 70,
-        "recovered": 7616
+        "recovered": 7650
     },
     {
         "Name": "Namibia",
@@ -1363,7 +1363,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 497,
+        "confirmed": 503,
         "deaths": 5,
         "recovered": 232
     },
