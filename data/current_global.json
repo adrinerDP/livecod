@@ -555,9 +555,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 26413,
-        "deaths": 764,
-        "recovered": 16137
+        "confirmed": 26511,
+        "deaths": 765,
+        "recovered": 16462
     },
     {
         "Name": "호주",
@@ -1160,20 +1160,20 @@
         "recovered": 1635
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 1729,
+        "deaths": 19,
+        "recovered": 1321
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "confirmed": 1693,
         "deaths": 45,
         "recovered": 1466
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 1684,
-        "deaths": 19,
-        "recovered": 1315
     },
     {
         "Name": "Guyana",
