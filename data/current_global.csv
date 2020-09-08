@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6495813,193699,3767731
+미국,美国,United States,6496457,193721,3768762
 인도,印度,India,4363843,73894,3393583
 브라질,巴西,Brazil,4150311,127084,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -12,13 +12,13 @@ Argentina,,Argentina,488007,10179,366590
 칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,391112,22542,337414
 영국,英国,UK,352560,41586,0
-프랑스,法国,France,335524,30726,87836
+프랑스,法国,France,335524,30726,88226
 Bangladesh,,Bangladesh,329251,4552,227809
 사우디아라비아,沙特阿拉伯,Saudi Arabia,322237,4137,298246
 파키스탄,巴基斯坦,Pakistan,299233,6350,286157
 터키,土耳其,Turkey,283270,6782,253245
 이탈리아,义大利,Italy,280153,35563,210801
-이라크,伊拉克,Iraq,264684,7589,202859
+이라크,伊拉克,Iraq,269578,7657,206324
 독일,德国,Germany,254615,9407,227000
 필리핀,菲律宾,Philippines,241987,3916,185178
 인도네시아,印度尼西亚,Indonesia,200035,8230,142958
@@ -74,7 +74,7 @@ Paraguay,,Paraguay,23353,449,11524
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21961,669,15172
 레바논,黎巴嫩,Lebanon,21324,207,6722
 카메룬,喀麦隆,Cameroon,19604,415,18448
-Libya,,Libya,18834,296,2126
+Libya,,Libya,19583,314,2247
 Ivory Coast,,Ivory Coast,18701,119,17599
 덴마크,丹麦,Denmark,18356,628,15907
 Bulgaria,,Bulgaria,17146,677,12189
@@ -92,8 +92,8 @@ Guinea,,Guinea,9816,62,8956
 말레이시아,马来西亚,Malaysia,9559,128,9136
 French Guiana,,French Guiana,9355,62,8902
 헝가리,匈牙利,Hungary,9304,626,3972
+Namibia,,Namibia,8928,91,3981
 Tajikistan,,Tajikistan,8860,70,7650
-Namibia,,Namibia,8810,91,3806
 Maldives,,Maldives,8741,29,6157
 Gabon,,Gabon,8608,53,7533
 Haiti,,Haiti,8376,214,5991
@@ -138,11 +138,11 @@ Trinidad and Tobago,,Trinidad and Tobago,2347,38,743
 Réunion,,Réunion,2277,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
-Iceland,,Iceland,2143,10,2057
+Iceland,,Iceland,2150,10,2060
 Botswana,,Botswana,2126,9,493
 Malta,,Malta,2099,14,1729
 Sierra Leone,,Sierra Leone,2055,71,1611
-Yemen,,Yemen,1989,573,1201
+Yemen,,Yemen,1994,576,1203
 New Zealand,,New Zealand,1782,24,1635
 조지아,格鲁吉亚,Georgia,1729,19,1321
 Uruguay,,Uruguay,1693,45,1466
@@ -165,7 +165,7 @@ French Polynesia,,French Polynesia,773,0,528
 Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-Channel Islands,,Channel Islands,628,48,575
+Channel Islands,,Channel Islands,629,48,575
 Turks and Caicos,,Turks and Caicos,599,5,264
 Sint Maarten,,Sint Maarten,516,19,321
 Tanzania,,Tanzania,509,21,183
