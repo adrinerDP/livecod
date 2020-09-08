@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6485426,193511,3757870
+미국,美国,United States,6485568,193534,3758619
 인도,印度,India,4277584,72816,3321420
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1030690,17871,843277
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,59648,933,21789
 싱가포르,新加坡,Singapore,57044,27,56408
 바레인,巴林,Bahrain,56076,200,51240
 나이지리아,尼日利亚,Nigeria,55160,1061,43231
-Venezuela,,Venezuela,53289,428,42006
+Venezuela,,Venezuela,54350,436,43753
 코스타리카,哥斯达黎加,Costa Rica,48780,510,19083
 네팔,尼泊尔,Nepal,47236,300,30677
 알제리,阿尔及利亚,Algeria,46653,1562,32985
@@ -70,7 +70,7 @@ Kenya,,Kenya,35205,599,21310
 팔레스타인,巴勒斯坦,Palestine,26779,184,17270
 El Salvador,,El Salvador,26413,764,16137
 호주,澳大利亚,Australia,26322,762,22603
-Paraguay,,Paraguay,22486,435,11133
+Paraguay,,Paraguay,23353,449,11524
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21660,664,14830
 레바논,黎巴嫩,Lebanon,20826,200,6430
 카메룬,喀麦隆,Cameroon,19604,415,18448
@@ -141,7 +141,7 @@ Benin,,Benin,2213,40,1793
 Iceland,,Iceland,2143,10,2057
 Botswana,,Botswana,2126,9,493
 Malta,,Malta,2076,14,1690
-Sierra Leone,,Sierra Leone,2054,71,1611
+Sierra Leone,,Sierra Leone,2055,71,1611
 Yemen,,Yemen,1989,573,1201
 New Zealand,,New Zealand,1776,24,1634
 Uruguay,,Uruguay,1693,45,1466
@@ -150,24 +150,24 @@ Guyana,,Guyana,1560,47,962
 Myanmar,,Myanmar,1518,8,388
 Cyprus,,Cyprus,1510,22,1237
 토고,多哥,Togo,1493,33,1114
-Burkina Faso,,Burkina Faso,1452,55,1103
+Burkina Faso,,Burkina Faso,1463,56,1112
 라트비아,约旦,Latvia,1429,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
 Liberia,,Liberia,1311,82,1190
+Belize,,Belize,1307,16,314
 안도라,安道尔,Andorra,1261,53,934
-Belize,,Belize,1194,15,287
 Niger,,Niger,1177,69,1091
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1049,35,853
 Chad,,Chad,1040,79,919
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
+French Polynesia,,French Polynesia,773,0,528
 Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-French Polynesia,,French Polynesia,694,0,360
 Channel Islands,,Channel Islands,628,48,575
-Turks and Caicos,,Turks and Caicos,598,5,264
-Sint Maarten,,Sint Maarten,511,19,302
+Turks and Caicos,,Turks and Caicos,599,5,264
+Sint Maarten,,Sint Maarten,516,19,321
 Tanzania,,Tanzania,509,21,183
 Papua New Guinea,,Papua New Guinea,497,5,232
 대만,台湾,Taiwan,493,7,473

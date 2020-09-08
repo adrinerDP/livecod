@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6485426,
-        "deaths": 193511,
-        "recovered": 3757870
+        "confirmed": 6485568,
+        "deaths": 193534,
+        "recovered": 3758619
     },
     {
         "Name": "인도",
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 53289,
-        "deaths": 428,
-        "recovered": 42006
+        "confirmed": 54350,
+        "deaths": 436,
+        "recovered": 43753
     },
     {
         "Name": "코스타리카",
@@ -571,9 +571,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 22486,
-        "deaths": 435,
-        "recovered": 11133
+        "confirmed": 23353,
+        "deaths": 449,
+        "recovered": 11524
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1139,7 +1139,7 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2054,
+        "confirmed": 2055,
         "deaths": 71,
         "recovered": 1611
     },
@@ -1211,9 +1211,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1452,
-        "deaths": 55,
-        "recovered": 1103
+        "confirmed": 1463,
+        "deaths": 56,
+        "recovered": 1112
     },
     {
         "Name": "라트비아",
@@ -1240,20 +1240,20 @@
         "recovered": 1190
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1307,
+        "deaths": 16,
+        "recovered": 314
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
         "confirmed": 1261,
         "deaths": 53,
         "recovered": 934
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1194,
-        "deaths": 15,
-        "recovered": 287
     },
     {
         "Name": "Niger",
@@ -1296,6 +1296,14 @@
         "recovered": 859
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 773,
+        "deaths": 0,
+        "recovered": 528
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -1320,14 +1328,6 @@
         "recovered": 651
     },
     {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 694,
-        "deaths": 0,
-        "recovered": 360
-    },
-    {
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
@@ -1339,7 +1339,7 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 598,
+        "confirmed": 599,
         "deaths": 5,
         "recovered": 264
     },
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 511,
+        "confirmed": 516,
         "deaths": 19,
-        "recovered": 302
+        "recovered": 321
     },
     {
         "Name": "Tanzania",
