@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6488716,
-        "deaths": 193596,
+        "confirmed": 6488725,
+        "deaths": 193598,
         "recovered": 3759134
     },
     {
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 120348,
+        "confirmed": 120579,
         "deaths": 205,
-        "recovered": 117241
+        "recovered": 117497
     },
     {
         "Name": "에콰도르",
@@ -341,7 +341,7 @@
         "Name_en": "Belarus",
         "confirmed": 73208,
         "deaths": 721,
-        "recovered": 71883
+        "recovered": 71916
     },
     {
         "Name": "일본",
@@ -389,7 +389,7 @@
         "Name_en": "Singapore",
         "confirmed": 57091,
         "deaths": 27,
-        "recovered": 56408
+        "recovered": 56461
     },
     {
         "Name": "바레인",
@@ -475,16 +475,16 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 44107,
-        "deaths": 356,
+        "confirmed": 44281,
+        "deaths": 358,
         "recovered": 41594
     },
     {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 40055,
-        "deaths": 1074,
+        "confirmed": 40556,
+        "deaths": 1087,
         "recovered": 28578
     },
     {
@@ -1019,9 +1019,9 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3126,
+        "confirmed": 3131,
         "deaths": 12,
-        "recovered": 2926
+        "recovered": 2935
     },
     {
         "Name": "Angola",
@@ -1083,9 +1083,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 2277,
-        "deaths": 37,
-        "recovered": 734
+        "confirmed": 2347,
+        "deaths": 38,
+        "recovered": 743
     },
     {
         "Name": "Réunion",

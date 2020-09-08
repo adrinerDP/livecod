@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6488716,193596,3759134
+미국,美国,United States,6488725,193598,3759134
 인도,印度,India,4313129,73105,3352316
 브라질,巴西,Brazil,4147794,127001,3355564
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -26,7 +26,7 @@ Ukraine,,Ukraine,140479,2934,63546
 이스라엘,以色列,Israel,135288,1031,106297
 캐나다,加拿大,Canada,132142,9146,116459
 Bolivia,,Bolivia,121604,7054,73150
-카타르,卡塔尔,Qatar,120348,205,117241
+카타르,卡塔尔,Qatar,120579,205,117497
 에콰도르,厄瓜多尔,Ecuador,110092,10576,91242
 Kazakhstan,,Kazakhstan,106425,1588,99893
 이집트,埃及,Egypt,100041,5541,79008
@@ -41,13 +41,13 @@ Guatemala,,Guatemala,77828,2862,66584
 네덜란드,荷兰,Netherlands,76548,6244,0
 아랍에미리트,阿拉伯联合酋长国,UAE,74454,390,66533
 모로코,摩洛哥,Morocco,73780,1394,56096
-벨라루스,白俄罗斯,Belarus,73208,721,71883
+벨라루스,白俄罗斯,Belarus,73208,721,71916
 일본,日本,Japan,71856,1363,62536
 폴란드,波兰,Poland,71526,2136,55910
 Honduras,,Honduras,64814,2023,13828
 포르투갈,葡萄牙,Portugal,60895,1846,43146
 Ethiopia,,Ethiopia,59648,933,21789
-싱가포르,新加坡,Singapore,57091,27,56408
+싱가포르,新加坡,Singapore,57091,27,56461
 바레인,巴林,Bahrain,56076,202,51240
 나이지리아,尼日利亚,Nigeria,55160,1061,43231
 Venezuela,,Venezuela,54350,436,43753
@@ -58,8 +58,8 @@ Ghana,,Ghana,45012,283,43898
 아르메니아,亚美尼亚,Armenia,44953,903,40592
 스위스,瑞士,Switzerland,44837,2017,37700
 Kyrgyzstan,,Kyrgyzstan,44487,1060,40092
-Uzbekistan,,Uzbekistan,44107,356,41594
-Moldova,,Moldova,40055,1074,28578
+Uzbekistan,,Uzbekistan,44281,358,41594
+Moldova,,Moldova,40556,1087,28578
 아프가니스탄,阿富汗,Afghanistan,38520,1418,30715
 아제르바이잔,阿塞拜疆,Azerbaijan,37557,552,34965
 Kenya,,Kenya,35205,599,21310
@@ -126,7 +126,7 @@ Gambia,,Gambia,3197,99,1315
 슬로베니아,斯洛文尼亚,Slovenia,3190,135,2530
 Jamaica,,Jamaica,3183,34,974
 Lithuania,,Lithuania,3131,86,1994
-스리랑카,斯里兰卡,Sri Lanka,3126,12,2926
+스리랑카,斯里兰卡,Sri Lanka,3131,12,2935
 Angola,,Angola,2981,120,1215
 Mali,,Mali,2870,127,2246
 에스토니아,爱沙尼亚,Estonia,2564,64,2195
@@ -134,7 +134,7 @@ Bahamas,,Bahamas,2546,58,976
 South Sudan,,South Sudan,2545,48,1290
 Aruba,,Aruba,2482,15,1244
 요르단,约旦,Jordan,2478,17,1817
-Trinidad and Tobago,,Trinidad and Tobago,2277,37,734
+Trinidad and Tobago,,Trinidad and Tobago,2347,38,743
 Réunion,,Réunion,2277,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
