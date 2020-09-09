@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6542577,
-        "deaths": 194942,
-        "recovered": 3826547
+        "confirmed": 6543702,
+        "deaths": 194945,
+        "recovered": 3827565
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4179471,
-        "deaths": 128119,
+        "confirmed": 4197889,
+        "deaths": 128539,
         "recovered": 3397234
     },
     {
@@ -307,9 +307,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 78721,
-        "deaths": 2890,
-        "recovered": 67462
+        "confirmed": 79622,
+        "deaths": 2897,
+        "recovered": 68308
     },
     {
         "Name": "모로코",
@@ -384,20 +384,20 @@
         "recovered": 43284
     },
     {
+        "Name": "바레인",
+        "Name_ch": "巴林",
+        "Name_en": "Bahrain",
+        "confirmed": 57450,
+        "deaths": 203,
+        "recovered": 51819
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
         "confirmed": 57166,
         "deaths": 27,
         "recovered": 56492
-    },
-    {
-        "Name": "바레인",
-        "Name_ch": "巴林",
-        "Name_en": "Bahrain",
-        "confirmed": 56778,
-        "deaths": 203,
-        "recovered": 51574
     },
     {
         "Name": "Venezuela",
@@ -715,9 +715,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 9848,
+        "confirmed": 9885,
         "deaths": 63,
-        "recovered": 9009
+        "recovered": 9068
     },
     {
         "Name": "헝가리",
@@ -739,9 +739,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9387,
+        "confirmed": 9418,
         "deaths": 62,
-        "recovered": 8946
+        "recovered": 8986
     },
     {
         "Name": "Namibia",
@@ -771,9 +771,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8608,
+        "confirmed": 8621,
         "deaths": 53,
-        "recovered": 7533
+        "recovered": 7618
     },
     {
         "Name": "핀란드",
@@ -896,6 +896,14 @@
         "recovered": 2913
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 4764,
+        "deaths": 28,
+        "recovered": 2763
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -904,20 +912,20 @@
         "recovered": 1825
     },
     {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 4647,
-        "deaths": 28,
-        "recovered": 2715
-    },
-    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "confirmed": 4473,
         "deaths": 43,
         "recovered": 3915
+    },
+    {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4459,
+        "deaths": 104,
+        "recovered": 3727
     },
     {
         "Name": "Rwanda",
@@ -934,14 +942,6 @@
         "confirmed": 4419,
         "deaths": 91,
         "recovered": 3595
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4377,
-        "deaths": 104,
-        "recovered": 3700
     },
     {
         "Name": "Uganda",
@@ -1211,9 +1211,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1466,
+        "confirmed": 1476,
         "deaths": 56,
-        "recovered": 1112
+        "recovered": 1118
     },
     {
         "Name": "라트비아",
@@ -1331,7 +1331,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 629,
+        "confirmed": 631,
         "deaths": 48,
         "recovered": 575
     },
