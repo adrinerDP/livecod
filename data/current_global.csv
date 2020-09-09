@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6514603,194064,3797504
+미국,美国,United States,6515538,194075,3797556
 인도,印度,India,4382518,74028,3406270
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,331078,4593,230804
 터키,土耳其,Turkey,283270,6782,253245
 이탈리아,义大利,Italy,280153,35563,210801
 이라크,伊拉克,Iraq,269578,7657,206324
-독일,德国,Germany,255041,9409,230600
+독일,德国,Germany,255267,9409,230600
 필리핀,菲律宾,Philippines,245143,3986,185543
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,78721,2890,67462
 일본,日本,Japan,72234,1377,63282
 폴란드,波兰,Poland,71947,2147,57135
 Honduras,,Honduras,65218,2034,14273
-포르투갈,葡萄牙,Portugal,60895,1846,43146
+포르투갈,葡萄牙,Portugal,61541,1849,43284
 Ethiopia,,Ethiopia,60784,949,22677
 싱가포르,新加坡,Singapore,57166,27,56461
 바레인,巴林,Bahrain,56778,202,51574
@@ -62,7 +62,7 @@ Kyrgyzstan,,Kyrgyzstan,44613,1061,40336
 Moldova,,Moldova,40556,1087,28578
 아프가니스탄,阿富汗,Afghanistan,38544,1420,31048
 아제르바이잔,阿塞拜疆,Azerbaijan,37732,555,35119
-Kenya,,Kenya,35356,599,21483
+Kenya,,Kenya,35460,607,21557
 세르비아,塞尔维亚,Serbia,32078,728,30780
 오스트리아,奥地利,Austria,30583,747,25764
 아일랜드,冰岛,Ireland,30080,1778,23364
@@ -85,7 +85,7 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13112,300,11839
 크로아티아,克罗地亚,Croatia,12626,206,9833
 그리스,希腊,Greece,11832,290,3804
-노르웨이,挪威,Norway,11623,264,9348
+노르웨이,挪威,Norway,11685,264,9348
 Albania,,Albania,10553,321,6239
 DRC,,DRC,10324,260,9523
 Guinea,,Guinea,9848,63,9009
@@ -143,7 +143,7 @@ Iceland,,Iceland,2153,10,2067
 Botswana,,Botswana,2126,9,493
 Sierra Leone,,Sierra Leone,2064,72,1613
 Yemen,,Yemen,1994,576,1203
-Myanmar,,Myanmar,1807,12,460
+Myanmar,,Myanmar,1889,12,553
 New Zealand,,New Zealand,1788,24,1639
 조지아,格鲁吉亚,Georgia,1773,19,1325
 Uruguay,,Uruguay,1712,45,1476
@@ -188,8 +188,8 @@ Bermuda,,Bermuda,175,9,158
 모나코,摩纳哥,Monaco,156,1,107
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,137,0,127
+Curaçao,,Curaçao,116,1,51
 리히텐슈타인,列支敦士登,Liechtenstein,108,1,105
-Curaçao,,Curaçao,107,1,48
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,63,1,10
 St. Vincent Grenadines,,St. Vincent Grenadines,62,0,58

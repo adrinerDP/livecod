@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6514603,
-        "deaths": 194064,
-        "recovered": 3797504
+        "confirmed": 6515538,
+        "deaths": 194075,
+        "recovered": 3797556
     },
     {
         "Name": "인도",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 255041,
+        "confirmed": 255267,
         "deaths": 9409,
         "recovered": 230600
     },
@@ -371,9 +371,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 60895,
-        "deaths": 1846,
-        "recovered": 43146
+        "confirmed": 61541,
+        "deaths": 1849,
+        "recovered": 43284
     },
     {
         "Name": "Ethiopia",
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 35356,
-        "deaths": 599,
-        "recovered": 21483
+        "confirmed": 35460,
+        "deaths": 607,
+        "recovered": 21557
     },
     {
         "Name": "세르비아",
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 11623,
+        "confirmed": 11685,
         "deaths": 264,
         "recovered": 9348
     },
@@ -1155,9 +1155,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 1807,
+        "confirmed": 1889,
         "deaths": 12,
-        "recovered": 460
+        "recovered": 553
     },
     {
         "Name": "New Zealand",
@@ -1512,20 +1512,20 @@
         "recovered": 127
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 116,
+        "deaths": 1,
+        "recovered": 51
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "confirmed": 108,
         "deaths": 1,
         "recovered": 105
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 107,
-        "deaths": 1,
-        "recovered": 48
     },
     {
         "Name": "Antigua and Barbuda",
