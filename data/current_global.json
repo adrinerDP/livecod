@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 299233,
-        "deaths": 6350,
-        "recovered": 286157
+        "confirmed": 299659,
+        "deaths": 6359,
+        "recovered": 286506
     },
     {
         "Name": "터키",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 233,
+        "confirmed": 234,
         "deaths": 0,
-        "recovered": 151
+        "recovered": 153
     },
     {
         "Name": "Cayman Islands",
