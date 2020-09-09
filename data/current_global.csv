@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6530286,194644,3818249
+미국,美国,United States,6533056,194737,3818249
 인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4179471,128119,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
 페루,秘鲁,Peru,696190,30123,529751
 콜롬비아,哥伦比亚,Colombia,679513,21817,541462
 멕시코,墨西哥,Mexico,642860,68484,451159
-남아프리카 공화국,南非共和国,South Africa,640441,15086,567729
+남아프리카 공화국,南非共和国,South Africa,642431,15168,569935
 스페인,西班牙,Spain,543379,29628,0
 Argentina,,Argentina,500034,10457,382490
 칠레,智利,Chile,427027,11702,399555
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,331078,4593,230804
 터키,土耳其,Turkey,284943,6837,254188
 이탈리아,义大利,Italy,281583,35577,211272
 이라크,伊拉克,Iraq,269578,7657,206324
-독일,德国,Germany,255681,9409,230600
+독일,德国,Germany,255993,9409,230600
 필리핀,菲律宾,Philippines,245143,3986,185543
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
@@ -185,7 +185,7 @@ Saint Martin,,Saint Martin,239,6,79
 Cayman Islands,,Cayman Islands,205,1,204
 Barbados,,Barbados,180,7,156
 Bermuda,,Bermuda,177,9,159
-모나코,摩纳哥,Monaco,156,1,107
+모나코,摩纳哥,Monaco,161,1,107
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,137,0,127
 Curaçao,,Curaçao,116,1,51
