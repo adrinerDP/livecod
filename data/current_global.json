@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6523197,
+        "confirmed": 6523365,
         "deaths": 194414,
-        "recovered": 3799897
+        "recovered": 3800310
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4417550,
-        "deaths": 74367,
-        "recovered": 3433604
+        "confirmed": 4431717,
+        "deaths": 74595,
+        "recovered": 3447671
     },
     {
         "Name": "브라질",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 255267,
+        "confirmed": 255681,
         "deaths": 9409,
         "recovered": 230600
     },
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 110757,
-        "deaths": 10627,
+        "confirmed": 112166,
+        "deaths": 10701,
         "recovered": 91242
     },
     {
@@ -240,20 +240,20 @@
         "recovered": 100042
     },
     {
+        "Name": "도미니카 공화국",
+        "Name_ch": "多明尼加共和国",
+        "Name_en": "Dominican Republic",
+        "confirmed": 100937,
+        "deaths": 1914,
+        "recovered": 74305
+    },
+    {
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
         "confirmed": 100228,
         "deaths": 5560,
         "recovered": 79886
-    },
-    {
-        "Name": "도미니카 공화국",
-        "Name_ch": "多明尼加共和国",
-        "Name_en": "Dominican Republic",
-        "confirmed": 100131,
-        "deaths": 1889,
-        "recovered": 73795
     },
     {
         "Name": "Panama",
@@ -587,9 +587,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 21324,
-        "deaths": 207,
-        "recovered": 6722
+        "confirmed": 21877,
+        "deaths": 212,
+        "recovered": 7024
     },
     {
         "Name": "Libya",
@@ -827,7 +827,7 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5630,
+        "confirmed": 5653,
         "deaths": 176,
         "recovered": 3630
     },
@@ -1483,9 +1483,9 @@
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "confirmed": 175,
+        "confirmed": 177,
         "deaths": 9,
-        "recovered": 158
+        "recovered": 159
     },
     {
         "Name": "모나코",
