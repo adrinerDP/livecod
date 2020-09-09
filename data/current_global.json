@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4367436,
+        "confirmed": 4370128,
         "deaths": 73923,
-        "recovered": 3396027
+        "recovered": 3398844
     },
     {
         "Name": "브라질",
@@ -400,20 +400,20 @@
         "recovered": 51574
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 55563,
+        "deaths": 444,
+        "recovered": 44435
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 55456,
         "deaths": 1067,
         "recovered": 43334
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 54350,
-        "deaths": 436,
-        "recovered": 43753
     },
     {
         "Name": "코스타리카",
@@ -955,9 +955,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3446,
+        "confirmed": 3447,
         "deaths": 58,
-        "recovered": 3284
+        "recovered": 3286
     },
     {
         "Name": "Mayotte",
@@ -1232,20 +1232,20 @@
         "recovered": 336
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1361,
+        "deaths": 16,
+        "recovered": 321
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "confirmed": 1311,
         "deaths": 82,
         "recovered": 1194
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1307,
-        "deaths": 16,
-        "recovered": 314
     },
     {
         "Name": "안도라",

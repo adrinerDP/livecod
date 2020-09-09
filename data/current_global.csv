@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6514231,194032,3796760
-인도,印度,India,4367436,73923,3396027
+인도,印度,India,4370128,73923,3398844
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
 페루,秘鲁,Peru,696190,30123,529751
@@ -49,8 +49,8 @@ Honduras,,Honduras,65218,2034,14273
 Ethiopia,,Ethiopia,60784,949,22677
 싱가포르,新加坡,Singapore,57091,27,56461
 바레인,巴林,Bahrain,56778,202,51574
+Venezuela,,Venezuela,55563,444,44435
 나이지리아,尼日利亚,Nigeria,55456,1067,43334
-Venezuela,,Venezuela,54350,436,43753
 코스타리카,哥斯达黎加,Costa Rica,49897,531,19285
 네팔,尼泊尔,Nepal,48138,306,32964
 알제리,阿尔及利亚,Algeria,46938,1571,33183
@@ -118,7 +118,7 @@ Suriname,,Suriname,4419,91,3595
 Cabo Verde,,Cabo Verde,4400,42,3851
 Cuba,,Cuba,4377,104,3700
 Uganda,,Uganda,3900,46,1817
-태국,泰国,Thailand,3446,58,3284
+태국,泰国,Thailand,3447,58,3286
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3371,97,2738
 Jamaica,,Jamaica,3323,36,992
@@ -153,8 +153,8 @@ Cyprus,,Cyprus,1511,22,1237
 Burkina Faso,,Burkina Faso,1466,56,1112
 라트비아,约旦,Latvia,1432,35,1187
 Guadeloupe,,Guadeloupe,1363,18,336
+Belize,,Belize,1361,16,321
 Liberia,,Liberia,1311,82,1194
-Belize,,Belize,1307,16,314
 안도라,安道尔,Andorra,1261,53,934
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1148,31,528
