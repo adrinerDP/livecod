@@ -187,8 +187,8 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 140479,
-        "deaths": 2934,
+        "confirmed": 143030,
+        "deaths": 2979,
         "recovered": 63546
     },
     {
@@ -1563,7 +1563,7 @@
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
-        "confirmed": 31,
+        "confirmed": 32,
         "deaths": 2,
         "recovered": 24
     },
