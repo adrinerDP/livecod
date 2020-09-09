@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 137565,
+        "confirmed": 138719,
         "deaths": 1040,
-        "recovered": 107003
+        "recovered": 107600
     },
     {
         "Name": "캐나다",
@@ -467,16 +467,16 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 44487,
-        "deaths": 1060,
-        "recovered": 40092
+        "confirmed": 44613,
+        "deaths": 1061,
+        "recovered": 40336
     },
     {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 44418,
-        "deaths": 360,
+        "confirmed": 44557,
+        "deaths": 362,
         "recovered": 41898
     },
     {
