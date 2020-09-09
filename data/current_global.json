@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 391112,
-        "deaths": 22542,
-        "recovered": 337414
+        "confirmed": 393425,
+        "deaths": 22669,
+        "recovered": 339111
     },
     {
         "Name": "영국",
@@ -267,9 +267,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 97033,
-        "deaths": 3967,
-        "recovered": 40838
+        "confirmed": 98304,
+        "deaths": 4018,
+        "recovered": 41002
     },
     {
         "Name": "쿠웨이트",
@@ -320,20 +320,20 @@
         "recovered": 0
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 75981,
+        "deaths": 393,
+        "recovered": 67359
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "confirmed": 75721,
         "deaths": 1427,
         "recovered": 57239
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "confirmed": 75098,
-        "deaths": 391,
-        "recovered": 66943
     },
     {
         "Name": "벨라루스",
@@ -440,6 +440,14 @@
         "recovered": 33183
     },
     {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+        "confirmed": 45306,
+        "deaths": 2018,
+        "recovered": 37700
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
@@ -454,14 +462,6 @@
         "confirmed": 45012,
         "deaths": 283,
         "recovered": 43898
-    },
-    {
-        "Name": "스위스",
-        "Name_ch": "瑞士",
-        "Name_en": "Switzerland",
-        "confirmed": 44837,
-        "deaths": 2018,
-        "recovered": 37700
     },
     {
         "Name": "Kyrgyzstan",
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14044,
-        "deaths": 292,
-        "recovered": 10037
+        "confirmed": 14102,
+        "deaths": 293,
+        "recovered": 10176
     },
     {
         "Name": "Sudan",
