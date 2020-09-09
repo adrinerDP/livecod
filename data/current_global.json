@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15435,
+        "confirmed": 15520,
         "deaths": 206,
-        "recovered": 14219
+        "recovered": 14243
     },
     {
         "Name": "North Macedonia",
@@ -992,20 +992,20 @@
         "recovered": 2587
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3293,
+        "deaths": 99,
+        "recovered": 1460
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 3289,
         "deaths": 140,
         "recovered": 760
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3275,
-        "deaths": 99,
-        "recovered": 1424
     },
     {
         "Name": "Lithuania",
@@ -1512,20 +1512,20 @@
         "recovered": 127
     },
     {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "confirmed": 108,
+        "deaths": 1,
+        "recovered": 105
+    },
+    {
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
         "confirmed": 107,
         "deaths": 1,
         "recovered": 48
-    },
-    {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "confirmed": 107,
-        "deaths": 1,
-        "recovered": 97
     },
     {
         "Name": "Antigua and Barbuda",
