@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6541171,
-        "deaths": 194884,
-        "recovered": 3825521
+        "confirmed": 6542577,
+        "deaths": 194942,
+        "recovered": 3826547
     },
     {
         "Name": "인도",
@@ -109,7 +109,7 @@
         "Name_en": "France",
         "confirmed": 344101,
         "deaths": 30794,
-        "recovered": 88226
+        "recovered": 88524
     },
     {
         "Name": "Bangladesh",
@@ -203,7 +203,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 134093,
+        "confirmed": 134096,
         "deaths": 9154,
         "recovered": 117945
     },
@@ -611,9 +611,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18778,
+        "confirmed": 18815,
         "deaths": 119,
-        "recovered": 17688
+        "recovered": 17770
     },
     {
         "Name": "덴마크",
@@ -976,6 +976,14 @@
         "recovered": 2738
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 3351,
+        "deaths": 143,
+        "recovered": 780
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
@@ -998,14 +1006,6 @@
         "confirmed": 3293,
         "deaths": 99,
         "recovered": 1460
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 3289,
-        "deaths": 140,
-        "recovered": 760
     },
     {
         "Name": "Lithuania",
@@ -1035,9 +1035,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2882,
-        "deaths": 127,
-        "recovered": 2258
+        "confirmed": 2898,
+        "deaths": 128,
+        "recovered": 2267
     },
     {
         "Name": "요르단",

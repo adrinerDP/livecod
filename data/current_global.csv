@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6541171,194884,3825521
+미국,美国,United States,6542577,194942,3826547
 인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4179471,128119,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -12,7 +12,7 @@ Argentina,,Argentina,500034,10457,382490
 칠레,智利,Chile,427027,11702,399555
 이란,伊朗,Iran,393425,22669,339111
 영국,英国,UK,355219,41594,0
-프랑스,法国,France,344101,30794,88226
+프랑스,法国,France,344101,30794,88524
 Bangladesh,,Bangladesh,331078,4593,230804
 사우디아라비아,沙特阿拉伯,Saudi Arabia,323012,4165,298966
 파키스탄,巴基斯坦,Pakistan,299659,6359,286506
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,331078,4593,230804
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
 이스라엘,以色列,Israel,141097,1054,108354
-캐나다,加拿大,Canada,134093,9154,117945
+캐나다,加拿大,Canada,134096,9154,117945
 Bolivia,,Bolivia,122308,7097,75098
 카타르,卡塔尔,Qatar,120846,205,117746
 에콰도르,厄瓜多尔,Ecuador,112166,10701,91242
@@ -75,7 +75,7 @@ Paraguay,,Paraguay,24214,463,11920
 레바논,黎巴嫩,Lebanon,21877,212,7024
 Libya,,Libya,20462,324,2329
 카메룬,喀麦隆,Cameroon,19848,415,18448
-Ivory Coast,,Ivory Coast,18778,119,17688
+Ivory Coast,,Ivory Coast,18815,119,17770
 덴마크,丹麦,Denmark,18607,628,15990
 Bulgaria,,Bulgaria,17313,692,12297
 Madagascar,,Madagascar,15520,206,14243
@@ -121,14 +121,14 @@ Uganda,,Uganda,4101,46,1876
 태국,泰国,Thailand,3447,58,3286
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3371,97,2738
+Syria,,Syria,3351,143,780
 Jamaica,,Jamaica,3323,36,992
 슬로베니아,斯洛文尼亚,Slovenia,3312,135,2587
 Gambia,,Gambia,3293,99,1460
-Syria,,Syria,3289,140,760
 Lithuania,,Lithuania,3163,86,2008
 스리랑카,斯里兰卡,Sri Lanka,3147,12,2946
 Angola,,Angola,3092,126,1245
-Mali,,Mali,2882,127,2258
+Mali,,Mali,2898,128,2267
 요르단,约旦,Jordan,2659,19,1919
 Bahamas,,Bahamas,2657,63,1088
 Aruba,,Aruba,2589,15,1293
