@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6519866,
-        "deaths": 194369,
-        "recovered": 3797612
+        "confirmed": 6521356,
+        "deaths": 194381,
+        "recovered": 3797941
     },
     {
         "Name": "인도",
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 425541,
-        "deaths": 11682,
-        "recovered": 397730
+        "confirmed": 427027,
+        "deaths": 11702,
+        "recovered": 399555
     },
     {
         "Name": "이란",
@@ -747,9 +747,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 8928,
-        "deaths": 91,
-        "recovered": 3981
+        "confirmed": 9108,
+        "deaths": 93,
+        "recovered": 4640
     },
     {
         "Name": "Tajikistan",
@@ -1080,20 +1080,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2493,
+        "deaths": 39,
+        "recovered": 749
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 2416,
         "deaths": 13,
         "recovered": 1313
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2391,
-        "deaths": 39,
-        "recovered": 743
     },
     {
         "Name": "Guinea-Bissau",
@@ -1107,7 +1107,7 @@
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
-        "confirmed": 2213,
+        "confirmed": 2242,
         "deaths": 40,
         "recovered": 1793
     },
@@ -1243,7 +1243,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1311,
+        "confirmed": 1313,
         "deaths": 82,
         "recovered": 1194
     },
