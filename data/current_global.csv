@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6514231,194032,3796760
+미국,美国,United States,6514376,194037,3797173
 인도,印度,India,4370128,73923,3398844
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -60,7 +60,7 @@ Ghana,,Ghana,45012,283,43898
 Kyrgyzstan,,Kyrgyzstan,44613,1061,40336
 Uzbekistan,,Uzbekistan,44557,362,41898
 Moldova,,Moldova,40556,1087,28578
-아프가니스탄,阿富汗,Afghanistan,38520,1418,30715
+아프가니스탄,阿富汗,Afghanistan,38544,1420,31048
 아제르바이잔,阿塞拜疆,Azerbaijan,37557,552,34965
 Kenya,,Kenya,35356,599,21483
 세르비아,塞尔维亚,Serbia,31994,727,30637
@@ -68,7 +68,7 @@ Kenya,,Kenya,35356,599,21483
 아일랜드,冰岛,Ireland,30080,1778,23364
 체코,捷克,Czechia,29877,441,20139
 팔레스타인,巴勒斯坦,Palestine,27363,190,17779
-El Salvador,,El Salvador,26511,765,16462
+El Salvador,,El Salvador,26511,770,16487
 호주,澳大利亚,Australia,26465,781,22725
 Paraguay,,Paraguay,24214,463,11920
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21961,669,15172
@@ -145,7 +145,7 @@ Sierra Leone,,Sierra Leone,2064,72,1613
 Yemen,,Yemen,1994,576,1203
 Myanmar,,Myanmar,1807,12,460
 New Zealand,,New Zealand,1788,24,1639
-조지아,格鲁吉亚,Georgia,1729,19,1321
+조지아,格鲁吉亚,Georgia,1773,19,1325
 Uruguay,,Uruguay,1712,45,1476
 Guyana,,Guyana,1613,48,1030
 토고,多哥,Togo,1513,34,1127
