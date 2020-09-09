@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6537006,194780,3821170
+미국,美国,United States,6541171,194884,3825521
 인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4179471,128119,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,61700,966,23054
 바레인,巴林,Bahrain,56778,203,51574
 Venezuela,,Venezuela,55563,444,44435
 나이지리아,尼日利亚,Nigeria,55456,1067,43334
-코스타리카,哥斯达黎加,Costa Rica,49897,531,19285
+코스타리카,哥斯达黎加,Costa Rica,51224,543,19544
 네팔,尼泊尔,Nepal,49219,312,33882
 알제리,阿尔及利亚,Algeria,47216,1581,33379
 스위스,瑞士,Switzerland,45306,2019,38100
@@ -148,14 +148,14 @@ New Zealand,,New Zealand,1788,24,1639
 조지아,格鲁吉亚,Georgia,1773,19,1325
 Uruguay,,Uruguay,1712,45,1476
 Guyana,,Guyana,1613,48,1030
+토고,多哥,Togo,1528,36,1144
 Cyprus,,Cyprus,1514,22,1237
-토고,多哥,Togo,1513,34,1127
 Burkina Faso,,Burkina Faso,1466,56,1112
 라트비아,约旦,Latvia,1443,35,1234
 Guadeloupe,,Guadeloupe,1363,18,336
 Belize,,Belize,1361,16,321
 Liberia,,Liberia,1313,82,1194
-안도라,安道尔,Andorra,1261,53,934
+안도라,安道尔,Andorra,1301,53,938
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1059,35,890
@@ -173,7 +173,7 @@ Papua New Guinea,,Papua New Guinea,503,5,232
 대만,台湾,Taiwan,495,7,475
 Burundi,,Burundi,466,1,374
 Comoros,,Comoros,456,7,415
-Faeroe Islands,,Faeroe Islands,414,0,409
+Faeroe Islands,,Faeroe Islands,415,0,410
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,341,0,295
 Isle of Man,,Isle of Man,337,24,312

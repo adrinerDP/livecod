@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6537006,
-        "deaths": 194780,
-        "recovered": 3821170
+        "confirmed": 6541171,
+        "deaths": 194884,
+        "recovered": 3825521
     },
     {
         "Name": "인도",
@@ -419,9 +419,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 49897,
-        "deaths": 531,
-        "recovered": 19285
+        "confirmed": 51224,
+        "deaths": 543,
+        "recovered": 19544
     },
     {
         "Name": "네팔",
@@ -1192,20 +1192,20 @@
         "recovered": 1030
     },
     {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+        "confirmed": 1528,
+        "deaths": 36,
+        "recovered": 1144
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1514,
         "deaths": 22,
         "recovered": 1237
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "多哥",
-        "Name_en": "Togo",
-        "confirmed": 1513,
-        "deaths": 34,
-        "recovered": 1127
     },
     {
         "Name": "Burkina Faso",
@@ -1251,9 +1251,9 @@
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
-        "confirmed": 1261,
+        "confirmed": 1301,
         "deaths": 53,
-        "recovered": 934
+        "recovered": 938
     },
     {
         "Name": "Niger",
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 414,
+        "confirmed": 415,
         "deaths": 0,
-        "recovered": 409
+        "recovered": 410
     },
     {
         "Name": "Mauritius",
