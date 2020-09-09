@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6516021,
-        "deaths": 194092,
-        "recovered": 3797571
+        "confirmed": 6519370,
+        "deaths": 194338,
+        "recovered": 3797612
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 133748,
+        "confirmed": 133897,
         "deaths": 9153,
-        "recovered": 117565
+        "recovered": 117701
     },
     {
         "Name": "Bolivia",
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 120579,
+        "confirmed": 120846,
         "deaths": 205,
-        "recovered": 117497
+        "recovered": 117746
     },
     {
         "Name": "에콰도르",
@@ -389,7 +389,7 @@
         "Name_en": "Singapore",
         "confirmed": 57166,
         "deaths": 27,
-        "recovered": 56461
+        "recovered": 56492
     },
     {
         "Name": "바레인",
@@ -755,9 +755,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 8860,
-        "deaths": 70,
-        "recovered": 7650
+        "confirmed": 8899,
+        "deaths": 71,
+        "recovered": 7683
     },
     {
         "Name": "Maldives",
@@ -781,7 +781,7 @@
         "Name_en": "Finland",
         "confirmed": 8430,
         "deaths": 337,
-        "recovered": 7350
+        "recovered": 7500
     },
     {
         "Name": "Haiti",
@@ -1019,7 +1019,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3140,
+        "confirmed": 3142,
         "deaths": 12,
         "recovered": 2946
     },
@@ -1080,20 +1080,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 2416,
+        "deaths": 13,
+        "recovered": 1313
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 2391,
         "deaths": 39,
         "recovered": 743
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 2346,
-        "deaths": 13,
-        "recovered": 1313
     },
     {
         "Name": "Guinea-Bissau",

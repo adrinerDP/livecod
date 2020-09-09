@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6516021,194092,3797571
+미국,美国,United States,6519370,194338,3797612
 인도,印度,India,4382518,74028,3406270
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -24,9 +24,9 @@ Bangladesh,,Bangladesh,331078,4593,230804
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
 이스라엘,以色列,Israel,139013,1048,107599
-캐나다,加拿大,Canada,133748,9153,117565
+캐나다,加拿大,Canada,133897,9153,117701
 Bolivia,,Bolivia,122308,7097,75098
-카타르,卡塔尔,Qatar,120579,205,117497
+카타르,卡塔尔,Qatar,120846,205,117746
 에콰도르,厄瓜多尔,Ecuador,110757,10627,91242
 Kazakhstan,,Kazakhstan,106498,1634,100042
 이집트,埃及,Egypt,100228,5560,79886
@@ -47,7 +47,7 @@ Guatemala,,Guatemala,78721,2890,67462
 Honduras,,Honduras,65218,2034,14273
 포르투갈,葡萄牙,Portugal,61541,1849,43284
 Ethiopia,,Ethiopia,60784,949,22677
-싱가포르,新加坡,Singapore,57166,27,56461
+싱가포르,新加坡,Singapore,57166,27,56492
 바레인,巴林,Bahrain,56778,202,51574
 Venezuela,,Venezuela,55563,444,44435
 나이지리아,尼日利亚,Nigeria,55456,1067,43334
@@ -93,10 +93,10 @@ Guinea,,Guinea,9848,63,9009
 말레이시아,马来西亚,Malaysia,9583,128,9143
 French Guiana,,French Guiana,9387,62,8946
 Namibia,,Namibia,8928,91,3981
-Tajikistan,,Tajikistan,8860,70,7650
+Tajikistan,,Tajikistan,8899,71,7683
 Maldives,,Maldives,8741,29,6157
 Gabon,,Gabon,8608,53,7533
-핀란드,芬兰,Finland,8430,337,7350
+핀란드,芬兰,Finland,8430,337,7500
 Haiti,,Haiti,8376,214,5991
 Zimbabwe,,Zimbabwe,7388,218,5477
 Mauritania,,Mauritania,7165,160,6681
@@ -126,7 +126,7 @@ Jamaica,,Jamaica,3323,36,992
 Gambia,,Gambia,3293,99,1460
 Syria,,Syria,3289,140,760
 Lithuania,,Lithuania,3163,86,2008
-스리랑카,斯里兰卡,Sri Lanka,3140,12,2946
+스리랑카,斯里兰卡,Sri Lanka,3142,12,2946
 Angola,,Angola,3033,124,1215
 Mali,,Mali,2882,127,2258
 Bahamas,,Bahamas,2657,63,1088
@@ -134,8 +134,8 @@ Aruba,,Aruba,2589,15,1293
 에스토니아,爱沙尼亚,Estonia,2585,64,2213
 요르단,约旦,Jordan,2581,19,1885
 South Sudan,,South Sudan,2552,49,1290
+Réunion,,Réunion,2416,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2391,39,743
-Réunion,,Réunion,2346,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2213,40,1793
 Malta,,Malta,2162,14,1760
