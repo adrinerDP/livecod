@@ -565,7 +565,7 @@
         "Name_en": "Australia",
         "confirmed": 26465,
         "deaths": 781,
-        "recovered": 22725
+        "recovered": 22863
     },
     {
         "Name": "Paraguay",
@@ -720,6 +720,14 @@
         "recovered": 9009
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 9715,
+        "deaths": 628,
+        "recovered": 3984
+    },
+    {
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
@@ -734,14 +742,6 @@
         "confirmed": 9387,
         "deaths": 62,
         "recovered": 8946
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 9304,
-        "deaths": 626,
-        "recovered": 3972
     },
     {
         "Name": "Namibia",
@@ -1040,20 +1040,20 @@
         "recovered": 2258
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 2657,
+        "deaths": 63,
+        "recovered": 1088
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 2589,
         "deaths": 15,
         "recovered": 1293
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 2585,
-        "deaths": 59,
-        "recovered": 976
     },
     {
         "Name": "요르단",
