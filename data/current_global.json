@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 88769,
-        "deaths": 9909,
-        "recovered": 18576
+        "confirmed": 89141,
+        "deaths": 9912,
+        "recovered": 18602
     },
     {
         "Name": "오만",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 64814,
-        "deaths": 2023,
-        "recovered": 13828
+        "confirmed": 65218,
+        "deaths": 2034,
+        "recovered": 14273
     },
     {
         "Name": "포르투갈",
@@ -1152,6 +1152,14 @@
         "recovered": 1203
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 1807,
+        "deaths": 12,
+        "recovered": 460
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -1174,14 +1182,6 @@
         "confirmed": 1712,
         "deaths": 45,
         "recovered": 1476
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1709,
-        "deaths": 10,
-        "recovered": 460
     },
     {
         "Name": "Guyana",
