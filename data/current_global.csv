@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6519370,194338,3797612
-인도,印度,India,4382518,74028,3406270
+미국,美国,United States,6519866,194369,3797612
+인도,印度,India,4417550,74367,3433604
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
 페루,秘鲁,Peru,696190,30123,529751
@@ -11,13 +11,13 @@
 Argentina,,Argentina,500034,10457,382490
 칠레,智利,Chile,425541,11682,397730
 이란,伊朗,Iran,393425,22669,339111
-영국,英国,UK,352560,41586,0
+영국,英国,UK,355219,41594,0
 프랑스,法国,France,335524,30764,88226
 Bangladesh,,Bangladesh,331078,4593,230804
 사우디아라비아,沙特阿拉伯,Saudi Arabia,323012,4165,298966
 파키스탄,巴基斯坦,Pakistan,299659,6359,286506
 터키,土耳其,Turkey,283270,6782,253245
-이탈리아,义大利,Italy,280153,35563,210801
+이탈리아,义大利,Italy,281583,35577,211272
 이라크,伊拉克,Iraq,269578,7657,206324
 독일,德国,Germany,255267,9409,230600
 필리핀,菲律宾,Philippines,245143,3986,185543
@@ -59,7 +59,7 @@ Ghana,,Ghana,45188,283,44042
 아르메니아,亚美尼亚,Armenia,45152,905,41023
 Uzbekistan,,Uzbekistan,44781,364,42162
 Kyrgyzstan,,Kyrgyzstan,44613,1061,40336
-Moldova,,Moldova,40556,1087,28962
+Moldova,,Moldova,41144,1096,28962
 아프가니스탄,阿富汗,Afghanistan,38544,1420,31048
 아제르바이잔,阿塞拜疆,Azerbaijan,37732,555,35119
 Kenya,,Kenya,35460,607,21557
@@ -84,7 +84,7 @@ North Macedonia,,North Macedonia,15293,634,12754
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13112,300,11839
 크로아티아,克罗地亚,Croatia,12626,206,9833
-그리스,希腊,Greece,11832,290,3804
+그리스,希腊,Greece,12080,293,3804
 노르웨이,挪威,Norway,11685,264,9348
 Albania,,Albania,10553,321,6239
 DRC,,DRC,10324,260,9523
@@ -94,7 +94,7 @@ Guinea,,Guinea,9848,63,9009
 French Guiana,,French Guiana,9387,62,8946
 Namibia,,Namibia,8928,91,3981
 Tajikistan,,Tajikistan,8899,71,7683
-Maldives,,Maldives,8741,29,6157
+Maldives,,Maldives,8741,31,6157
 Gabon,,Gabon,8608,53,7533
 핀란드,芬兰,Finland,8430,337,7500
 Haiti,,Haiti,8376,214,5991
@@ -129,10 +129,10 @@ Lithuania,,Lithuania,3163,86,2008
 스리랑카,斯里兰卡,Sri Lanka,3142,12,2946
 Angola,,Angola,3033,124,1215
 Mali,,Mali,2882,127,2258
+요르단,约旦,Jordan,2659,19,1919
 Bahamas,,Bahamas,2657,63,1088
 Aruba,,Aruba,2589,15,1293
 에스토니아,爱沙尼亚,Estonia,2585,64,2213
-요르단,约旦,Jordan,2581,19,1885
 South Sudan,,South Sudan,2552,49,1290
 Réunion,,Réunion,2416,13,1313
 Trinidad and Tobago,,Trinidad and Tobago,2391,39,743

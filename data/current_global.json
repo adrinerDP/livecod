@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6519370,
-        "deaths": 194338,
+        "confirmed": 6519866,
+        "deaths": 194369,
         "recovered": 3797612
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4382518,
-        "deaths": 74028,
-        "recovered": 3406270
+        "confirmed": 4417550,
+        "deaths": 74367,
+        "recovered": 3433604
     },
     {
         "Name": "브라질",
@@ -99,8 +99,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 352560,
-        "deaths": 41586,
+        "confirmed": 355219,
+        "deaths": 41594,
         "recovered": 0
     },
     {
@@ -147,9 +147,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 280153,
-        "deaths": 35563,
-        "recovered": 210801
+        "confirmed": 281583,
+        "deaths": 35577,
+        "recovered": 211272
     },
     {
         "Name": "이라크",
@@ -483,8 +483,8 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 40556,
-        "deaths": 1087,
+        "confirmed": 41144,
+        "deaths": 1096,
         "recovered": 28962
     },
     {
@@ -683,8 +683,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 11832,
-        "deaths": 290,
+        "confirmed": 12080,
+        "deaths": 293,
         "recovered": 3804
     },
     {
@@ -764,7 +764,7 @@
         "Name_ch": "",
         "Name_en": "Maldives",
         "confirmed": 8741,
-        "deaths": 29,
+        "deaths": 31,
         "recovered": 6157
     },
     {
@@ -1040,6 +1040,14 @@
         "recovered": 2258
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 2659,
+        "deaths": 19,
+        "recovered": 1919
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1062,14 +1070,6 @@
         "confirmed": 2585,
         "deaths": 64,
         "recovered": 2213
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 2581,
-        "deaths": 19,
-        "recovered": 1885
     },
     {
         "Name": "South Sudan",
