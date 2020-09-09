@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6514223,194032,3796296
+미국,美国,United States,6514231,194032,3796760
 인도,印度,India,4367436,73923,3396027
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
 페루,秘鲁,Peru,691575,29976,522251
 콜롬비아,哥伦比亚,Colombia,679513,21817,541462
+멕시코,墨西哥,Mexico,642860,68484,451159
 남아프리카 공화국,南非共和国,South Africa,640441,15086,567729
-멕시코,墨西哥,Mexico,637509,67781,446715
 스페인,西班牙,Spain,534513,29594,0
 Argentina,,Argentina,500034,10405,366590
 칠레,智利,Chile,425541,11682,397730
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,329251,4552,227809
 Ukraine,,Ukraine,140479,2934,63546
 이스라엘,以色列,Israel,137565,1040,107003
 캐나다,加拿大,Canada,133748,9153,117565
-Bolivia,,Bolivia,121604,7054,73150
+Bolivia,,Bolivia,122308,7097,75098
 카타르,卡塔尔,Qatar,120579,205,117497
 에콰도르,厄瓜多尔,Ecuador,110757,10627,91242
 Kazakhstan,,Kazakhstan,106425,1588,99893
@@ -121,10 +121,10 @@ Uganda,,Uganda,3900,46,1817
 태국,泰国,Thailand,3446,58,3284
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3371,97,2738
+Jamaica,,Jamaica,3323,36,992
 Syria,,Syria,3289,140,760
 Gambia,,Gambia,3275,99,1424
 슬로베니아,斯洛文尼亚,Slovenia,3232,135,2533
-Jamaica,,Jamaica,3183,34,974
 스리랑카,斯里兰卡,Sri Lanka,3140,12,2935
 Lithuania,,Lithuania,3131,86,1994
 Angola,,Angola,3033,124,1215
@@ -143,7 +143,7 @@ Botswana,,Botswana,2126,9,493
 Malta,,Malta,2099,14,1729
 Sierra Leone,,Sierra Leone,2064,72,1613
 Yemen,,Yemen,1994,576,1203
-New Zealand,,New Zealand,1782,24,1635
+New Zealand,,New Zealand,1788,24,1639
 조지아,格鲁吉亚,Georgia,1729,19,1321
 Uruguay,,Uruguay,1712,45,1476
 Myanmar,,Myanmar,1709,10,460
@@ -212,4 +212,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Saint Pierre Miquelon,,Saint Pierre Miquelon,9,0,5
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85144,4634,80335
+중국,中国,China,85146,4634,80347

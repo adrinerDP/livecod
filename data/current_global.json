@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6514223,
+        "confirmed": 6514231,
         "deaths": 194032,
-        "recovered": 3796296
+        "recovered": 3796760
     },
     {
         "Name": "인도",
@@ -48,20 +48,20 @@
         "recovered": 541462
     },
     {
+        "Name": "멕시코",
+        "Name_ch": "墨西哥",
+        "Name_en": "Mexico",
+        "confirmed": 642860,
+        "deaths": 68484,
+        "recovered": 451159
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
         "confirmed": 640441,
         "deaths": 15086,
         "recovered": 567729
-    },
-    {
-        "Name": "멕시코",
-        "Name_ch": "墨西哥",
-        "Name_en": "Mexico",
-        "confirmed": 637509,
-        "deaths": 67781,
-        "recovered": 446715
     },
     {
         "Name": "스페인",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 121604,
-        "deaths": 7054,
-        "recovered": 73150
+        "confirmed": 122308,
+        "deaths": 7097,
+        "recovered": 75098
     },
     {
         "Name": "카타르",
@@ -976,6 +976,14 @@
         "recovered": 2738
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3323,
+        "deaths": 36,
+        "recovered": 992
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
@@ -998,14 +1006,6 @@
         "confirmed": 3232,
         "deaths": 135,
         "recovered": 2533
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3183,
-        "deaths": 34,
-        "recovered": 974
     },
     {
         "Name": "스리랑카",
@@ -1155,9 +1155,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1782,
+        "confirmed": 1788,
         "deaths": 24,
-        "recovered": 1635
+        "recovered": 1639
     },
     {
         "Name": "조지아",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85144,
+        "confirmed": 85146,
         "deaths": 4634,
-        "recovered": 80335
+        "recovered": 80347
     }
 ]
