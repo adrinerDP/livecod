@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6514376,
+        "confirmed": 6514433,
         "deaths": 194037,
-        "recovered": 3797173
+        "recovered": 3797174
     },
     {
         "Name": "인도",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 91244,
-        "deaths": 548,
-        "recovered": 81654
+        "confirmed": 92082,
+        "deaths": 552,
+        "recovered": 82222
     },
     {
         "Name": "벨기에",
@@ -448,20 +448,20 @@
         "recovered": 37700
     },
     {
+        "Name": "Ghana",
+        "Name_ch": "",
+        "Name_en": "Ghana",
+        "confirmed": 45188,
+        "deaths": 283,
+        "recovered": 44042
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "confirmed": 45152,
         "deaths": 905,
         "recovered": 41023
-    },
-    {
-        "Name": "Ghana",
-        "Name_ch": "",
-        "Name_en": "Ghana",
-        "confirmed": 45012,
-        "deaths": 283,
-        "recovered": 43898
     },
     {
         "Name": "Kyrgyzstan",
@@ -541,23 +541,23 @@
         "Name_en": "Czechia",
         "confirmed": 29877,
         "deaths": 441,
-        "recovered": 20139
+        "recovered": 20164
     },
     {
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 27363,
-        "deaths": 190,
-        "recovered": 17779
+        "confirmed": 27919,
+        "deaths": 192,
+        "recovered": 18466
     },
     {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 26511,
+        "confirmed": 26602,
         "deaths": 770,
-        "recovered": 16487
+        "recovered": 16786
     },
     {
         "Name": "호주",
@@ -780,7 +780,7 @@
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 8430,
-        "deaths": 336,
+        "deaths": 337,
         "recovered": 7350
     },
     {
