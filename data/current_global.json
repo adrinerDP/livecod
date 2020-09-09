@@ -237,7 +237,7 @@
         "Name_en": "Kazakhstan",
         "confirmed": 106498,
         "deaths": 1634,
-        "recovered": 99893
+        "recovered": 100042
     },
     {
         "Name": "이집트",
@@ -475,9 +475,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 44281,
-        "deaths": 358,
-        "recovered": 41594
+        "confirmed": 44418,
+        "deaths": 360,
+        "recovered": 41898
     },
     {
         "Name": "Moldova",
