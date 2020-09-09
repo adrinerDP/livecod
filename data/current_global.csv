@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6547567,195155,3839255
+미국,美国,United States,6547904,195175,3839612
 인도,印度,India,4462965,75091,3466819
-브라질,巴西,Brazil,4197889,128539,3453336
+브라질,巴西,Brazil,4199332,128653,3453336
 러시아,俄罗斯,Russia,1041007,18135,856458
 페루,秘鲁,Peru,702776,30236,536959
 콜롬비아,哥伦比亚,Colombia,686856,22053,552885
@@ -64,8 +64,8 @@ Moldova,,Moldova,41144,1096,28962
 아제르바이잔,阿塞拜疆,Azerbaijan,37732,555,35119
 Kenya,,Kenya,35460,607,21557
 세르비아,塞尔维亚,Serbia,32078,728,30780
+체코,捷克,Czechia,31036,444,20374
 오스트리아,奥地利,Austria,30583,747,25764
-체코,捷克,Czechia,30576,444,20365
 아일랜드,冰岛,Ireland,30164,1781,23364
 팔레스타인,巴勒斯坦,Palestine,27919,192,18466
 El Salvador,,El Salvador,26602,770,16786
@@ -106,17 +106,17 @@ Malawi,,Malawi,5653,176,3630
 Tunisia,,Tunisia,5417,96,1862
 Djibouti,,Djibouti,5391,61,5327
 Equatorial Guinea,,Equatorial Guinea,4990,83,4479
-Eswatini,,Eswatini,4904,96,4059
+Eswatini,,Eswatini,4936,97,4077
 홍콩,香港,Hong Kong,4902,99,4557
 Congo,,Congo,4891,114,3887
 슬로바키아,斯洛伐克,Slovakia,4888,37,2947
 Nicaragua,,Nicaragua,4818,144,2913
 Mozambique,,Mozambique,4764,28,2763
-CAR,,CAR,4735,62,1825
+CAR,,CAR,4736,62,1825
 Cabo Verde,,Cabo Verde,4473,43,3915
 Rwanda,,Rwanda,4460,21,2325
 Cuba,,Cuba,4459,104,3727
-Suriname,,Suriname,4419,91,3595
+Suriname,,Suriname,4447,92,3622
 Uganda,,Uganda,4101,46,1876
 태국,泰国,Thailand,3447,58,3286
 Mayotte,,Mayotte,3374,40,2964
@@ -133,7 +133,7 @@ Aruba,,Aruba,2730,15,1351
 요르단,约旦,Jordan,2659,19,1919
 Bahamas,,Bahamas,2657,63,1088
 에스토니아,爱沙尼亚,Estonia,2585,64,2213
-South Sudan,,South Sudan,2552,49,1290
+South Sudan,,South Sudan,2555,49,1290
 Trinidad and Tobago,,Trinidad and Tobago,2493,39,749
 Réunion,,Réunion,2416,13,1313
 Guinea-Bissau,,Guinea-Bissau,2245,38,1127

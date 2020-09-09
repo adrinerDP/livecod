@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6547567,
-        "deaths": 195155,
-        "recovered": 3839255
+        "confirmed": 6547904,
+        "deaths": 195175,
+        "recovered": 3839612
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4197889,
-        "deaths": 128539,
+        "confirmed": 4199332,
+        "deaths": 128653,
         "recovered": 3453336
     },
     {
@@ -520,20 +520,20 @@
         "recovered": 30780
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 31036,
+        "deaths": 444,
+        "recovered": 20374
+    },
+    {
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
         "confirmed": 30583,
         "deaths": 747,
         "recovered": 25764
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 30576,
-        "deaths": 444,
-        "recovered": 20365
     },
     {
         "Name": "아일랜드",
@@ -859,9 +859,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4904,
-        "deaths": 96,
-        "recovered": 4059
+        "confirmed": 4936,
+        "deaths": 97,
+        "recovered": 4077
     },
     {
         "Name": "홍콩",
@@ -907,7 +907,7 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4735,
+        "confirmed": 4736,
         "deaths": 62,
         "recovered": 1825
     },
@@ -939,9 +939,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4419,
-        "deaths": 91,
-        "recovered": 3595
+        "confirmed": 4447,
+        "deaths": 92,
+        "recovered": 3622
     },
     {
         "Name": "Uganda",
@@ -1075,7 +1075,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2552,
+        "confirmed": 2555,
         "deaths": 49,
         "recovered": 1290
     },
