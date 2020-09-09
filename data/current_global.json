@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6533056,
-        "deaths": 194737,
-        "recovered": 3818249
+        "confirmed": 6537006,
+        "deaths": 194780,
+        "recovered": 3821170
     },
     {
         "Name": "인도",
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 255993,
-        "deaths": 9409,
+        "confirmed": 256334,
+        "deaths": 9411,
         "recovered": 230600
     },
     {
@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 140658,
-        "deaths": 1053,
-        "recovered": 108339
+        "confirmed": 141097,
+        "deaths": 1054,
+        "recovered": 108354
     },
     {
         "Name": "캐나다",
@@ -912,6 +912,14 @@
         "recovered": 2715
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4473,
+        "deaths": 43,
+        "recovered": 3915
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -926,14 +934,6 @@
         "confirmed": 4419,
         "deaths": 91,
         "recovered": 3595
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4400,
-        "deaths": 42,
-        "recovered": 3851
     },
     {
         "Name": "Cuba",
@@ -1027,9 +1027,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 3033,
-        "deaths": 124,
-        "recovered": 1215
+        "confirmed": 3092,
+        "deaths": 126,
+        "recovered": 1245
     },
     {
         "Name": "Mali",
@@ -1568,6 +1568,14 @@
         "recovered": 24
     },
     {
+        "Name": "Saint Lucia",
+        "Name_ch": "",
+        "Name_en": "Saint Lucia",
+        "confirmed": 27,
+        "deaths": 0,
+        "recovered": 26
+    },
+    {
         "Name": "Timor-Leste",
         "Name_ch": "",
         "Name_en": "Timor-Leste",
@@ -1582,14 +1590,6 @@
         "confirmed": 26,
         "deaths": 0,
         "recovered": 25
-    },
-    {
-        "Name": "Saint Lucia",
-        "Name_ch": "",
-        "Name_en": "Saint Lucia",
-        "confirmed": 26,
-        "deaths": 0,
-        "recovered": 26
     },
     {
         "Name": "Grenada",

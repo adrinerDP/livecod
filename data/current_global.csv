@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6533056,194737,3818249
+미국,美国,United States,6537006,194780,3821170
 인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4179471,128119,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -19,11 +19,11 @@ Bangladesh,,Bangladesh,331078,4593,230804
 터키,土耳其,Turkey,284943,6837,254188
 이탈리아,义大利,Italy,281583,35577,211272
 이라크,伊拉克,Iraq,269578,7657,206324
-독일,德国,Germany,255993,9409,230600
+독일,德国,Germany,256334,9411,230600
 필리핀,菲律宾,Philippines,245143,3986,185543
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
-이스라엘,以色列,Israel,140658,1053,108339
+이스라엘,以色列,Israel,141097,1054,108354
 캐나다,加拿大,Canada,134093,9154,117945
 Bolivia,,Bolivia,122308,7097,75098
 카타르,卡塔尔,Qatar,120846,205,117746
@@ -113,9 +113,9 @@ Congo,,Congo,4891,114,3887
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4735,62,1825
 Mozambique,,Mozambique,4647,28,2715
+Cabo Verde,,Cabo Verde,4473,43,3915
 Rwanda,,Rwanda,4439,20,2307
 Suriname,,Suriname,4419,91,3595
-Cabo Verde,,Cabo Verde,4400,42,3851
 Cuba,,Cuba,4377,104,3700
 Uganda,,Uganda,4101,46,1876
 태국,泰国,Thailand,3447,58,3286
@@ -127,7 +127,7 @@ Gambia,,Gambia,3293,99,1460
 Syria,,Syria,3289,140,760
 Lithuania,,Lithuania,3163,86,2008
 스리랑카,斯里兰卡,Sri Lanka,3147,12,2946
-Angola,,Angola,3033,124,1215
+Angola,,Angola,3092,126,1245
 Mali,,Mali,2882,127,2258
 요르단,约旦,Jordan,2659,19,1919
 Bahamas,,Bahamas,2657,63,1088
@@ -195,9 +195,9 @@ British Virgin Islands,,British Virgin Islands,63,1,10
 St. Vincent Grenadines,,St. Vincent Grenadines,62,0,58
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
+Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,25
 New Caledonia,,New Caledonia,26,0,25
-Saint Lucia,,Saint Lucia,26,0,26
 Grenada,,Grenada,24,0,24
 Dominica,,Dominica,22,0,18
 Laos,,Laos,22,0,21
