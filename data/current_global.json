@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6529319,
-        "deaths": 194624,
-        "recovered": 3817379
+        "confirmed": 6530286,
+        "deaths": 194644,
+        "recovered": 3818249
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4437787,
-        "deaths": 74695,
-        "recovered": 3451616
+        "confirmed": 4462965,
+        "deaths": 75091,
+        "recovered": 3466819
     },
     {
         "Name": "브라질",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 134077,
+        "confirmed": 134093,
         "deaths": 9154,
-        "recovered": 117939
+        "recovered": 117945
     },
     {
         "Name": "Bolivia",
@@ -368,20 +368,20 @@
         "recovered": 14273
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 61700,
+        "deaths": 966,
+        "recovered": 23054
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 61541,
         "deaths": 1849,
         "recovered": 43284
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 60784,
-        "deaths": 949,
-        "recovered": 22677
     },
     {
         "Name": "싱가포르",
@@ -1192,20 +1192,20 @@
         "recovered": 1030
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "confirmed": 1514,
+        "deaths": 22,
+        "recovered": 1237
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "confirmed": 1513,
         "deaths": 34,
         "recovered": 1127
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
-        "confirmed": 1511,
-        "deaths": 22,
-        "recovered": 1237
     },
     {
         "Name": "Burkina Faso",

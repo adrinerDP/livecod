@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6529319,194624,3817379
-인도,印度,India,4437787,74695,3451616
+미국,美国,United States,6530286,194644,3818249
+인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4179471,128119,3397234
 러시아,俄罗斯,Russia,1041007,18135,856458
 페루,秘鲁,Peru,696190,30123,529751
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,331078,4593,230804
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
 이스라엘,以色列,Israel,140658,1053,108339
-캐나다,加拿大,Canada,134077,9154,117939
+캐나다,加拿大,Canada,134093,9154,117945
 Bolivia,,Bolivia,122308,7097,75098
 카타르,卡塔尔,Qatar,120846,205,117746
 에콰도르,厄瓜多尔,Ecuador,112166,10701,91242
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,78721,2890,67462
 일본,日本,Japan,72234,1377,63282
 폴란드,波兰,Poland,71947,2147,57135
 Honduras,,Honduras,65218,2034,14273
+Ethiopia,,Ethiopia,61700,966,23054
 포르투갈,葡萄牙,Portugal,61541,1849,43284
-Ethiopia,,Ethiopia,60784,949,22677
 싱가포르,新加坡,Singapore,57166,27,56492
 바레인,巴林,Bahrain,56778,203,51574
 Venezuela,,Venezuela,55563,444,44435
@@ -148,8 +148,8 @@ New Zealand,,New Zealand,1788,24,1639
 조지아,格鲁吉亚,Georgia,1773,19,1325
 Uruguay,,Uruguay,1712,45,1476
 Guyana,,Guyana,1613,48,1030
+Cyprus,,Cyprus,1514,22,1237
 토고,多哥,Togo,1513,34,1127
-Cyprus,,Cyprus,1511,22,1237
 Burkina Faso,,Burkina Faso,1466,56,1112
 라트비아,约旦,Latvia,1443,35,1234
 Guadeloupe,,Guadeloupe,1363,18,336
