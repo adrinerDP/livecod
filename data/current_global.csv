@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6546532,195147,3835227
+미국,美国,United States,6547567,195155,3839255
 인도,印度,India,4462965,75091,3466819
 브라질,巴西,Brazil,4197889,128539,3453336
 러시아,俄罗斯,Russia,1041007,18135,856458
@@ -19,19 +19,19 @@ Bangladesh,,Bangladesh,331078,4593,230804
 터키,土耳其,Turkey,284943,6837,254188
 이탈리아,义大利,Italy,281583,35577,211272
 이라크,伊拉克,Iraq,273821,7732,209993
-독일,德国,Germany,256334,9411,230600
+독일,德国,Germany,256349,9410,231900
 필리핀,菲律宾,Philippines,245143,3986,185543
 인도네시아,印度尼西亚,Indonesia,203342,8336,145200
 Ukraine,,Ukraine,143030,2979,64703
 이스라엘,以色列,Israel,141097,1054,108354
-캐나다,加拿大,Canada,134096,9154,117945
+캐나다,加拿大,Canada,134194,9155,118149
 Bolivia,,Bolivia,122308,7097,75098
 카타르,卡塔尔,Qatar,120846,205,117746
 에콰도르,厄瓜多尔,Ecuador,112166,10701,91242
 Kazakhstan,,Kazakhstan,106498,1634,100042
 도미니카 공화국,多明尼加共和国,Dominican Republic,100937,1914,74305
 이집트,埃及,Egypt,100403,5577,80689
-Panama,,Panama,98407,2107,70751
+Panama,,Panama,99042,2116,71419
 루마니아,尼亚,Romania,98304,4018,41002
 쿠웨이트,科威特,Kuwait,92082,552,82222
 벨기에,比利时,Belgium,89141,9912,18602
@@ -99,9 +99,9 @@ Gabon,,Gabon,8621,53,7618
 핀란드,芬兰,Finland,8430,337,7500
 Haiti,,Haiti,8384,214,5991
 Zimbabwe,,Zimbabwe,7429,222,5542
-Mauritania,,Mauritania,7165,160,6681
-룩셈부르크,卢森堡,Luxembourg,6974,124,6256
-Montenegro,,Montenegro,5875,112,4312
+Mauritania,,Mauritania,7191,161,6701
+룩셈부르크,卢森堡,Luxembourg,7023,124,6292
+Montenegro,,Montenegro,6094,114,4350
 Malawi,,Malawi,5653,176,3630
 Tunisia,,Tunisia,5417,96,1862
 Djibouti,,Djibouti,5391,61,5327
@@ -114,8 +114,8 @@ Nicaragua,,Nicaragua,4818,144,2913
 Mozambique,,Mozambique,4764,28,2763
 CAR,,CAR,4735,62,1825
 Cabo Verde,,Cabo Verde,4473,43,3915
+Rwanda,,Rwanda,4460,21,2325
 Cuba,,Cuba,4459,104,3727
-Rwanda,,Rwanda,4439,20,2307
 Suriname,,Suriname,4419,91,3595
 Uganda,,Uganda,4101,46,1876
 태국,泰国,Thailand,3447,58,3286
@@ -146,8 +146,8 @@ Yemen,,Yemen,1999,576,1209
 Myanmar,,Myanmar,1889,12,553
 New Zealand,,New Zealand,1788,24,1639
 조지아,格鲁吉亚,Georgia,1773,19,1325
-Uruguay,,Uruguay,1712,45,1476
-Guyana,,Guyana,1613,48,1030
+Uruguay,,Uruguay,1741,45,1478
+Guyana,,Guyana,1703,48,1045
 토고,多哥,Togo,1528,36,1144
 Cyprus,,Cyprus,1514,22,1237
 Burkina Faso,,Burkina Faso,1476,56,1118
