@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6526716,
-        "deaths": 194463,
-        "recovered": 3807163
+        "confirmed": 6526938,
+        "deaths": 194473,
+        "recovered": 3816457
     },
     {
         "Name": "인도",
@@ -107,8 +107,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 335524,
-        "deaths": 30764,
+        "confirmed": 344101,
+        "deaths": 30794,
         "recovered": 88226
     },
     {
@@ -312,6 +312,14 @@
         "recovered": 67462
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 77878,
+        "deaths": 1453,
+        "recovered": 59723
+    },
+    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
@@ -326,14 +334,6 @@
         "confirmed": 75981,
         "deaths": 393,
         "recovered": 67359
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 75721,
-        "deaths": 1427,
-        "recovered": 57239
     },
     {
         "Name": "벨라루스",
@@ -396,7 +396,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 56778,
-        "deaths": 202,
+        "deaths": 203,
         "recovered": 51574
     },
     {
@@ -763,9 +763,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 8741,
+        "confirmed": 8834,
         "deaths": 31,
-        "recovered": 6157
+        "recovered": 6288
     },
     {
         "Name": "Gabon",
@@ -1147,9 +1147,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 1994,
+        "confirmed": 1999,
         "deaths": 576,
-        "recovered": 1203
+        "recovered": 1209
     },
     {
         "Name": "Myanmar",
