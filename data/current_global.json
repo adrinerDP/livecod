@@ -189,7 +189,7 @@
         "Name_en": "Ukraine",
         "confirmed": 143030,
         "deaths": 2979,
-        "recovered": 63546
+        "recovered": 64703
     },
     {
         "Name": "이스라엘",
@@ -444,7 +444,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 45306,
-        "deaths": 2018,
+        "deaths": 2019,
         "recovered": 38100
     },
     {
@@ -464,20 +464,20 @@
         "recovered": 41023
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "confirmed": 44781,
+        "deaths": 364,
+        "recovered": 42162
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
         "confirmed": 44613,
         "deaths": 1061,
         "recovered": 40336
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "confirmed": 44557,
-        "deaths": 362,
-        "recovered": 41898
     },
     {
         "Name": "Moldova",
@@ -515,9 +515,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 31994,
-        "deaths": 727,
-        "recovered": 30637
+        "confirmed": 32078,
+        "deaths": 728,
+        "recovered": 30780
     },
     {
         "Name": "오스트리아",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 15226,
-        "deaths": 631,
-        "recovered": 12700
+        "confirmed": 15293,
+        "deaths": 634,
+        "recovered": 12754
     },
     {
         "Name": "세네갈",
@@ -667,9 +667,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 12952,
-        "deaths": 297,
-        "recovered": 11787
+        "confirmed": 13112,
+        "deaths": 300,
+        "recovered": 11839
     },
     {
         "Name": "크로아티아",
