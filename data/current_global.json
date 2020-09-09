@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1035789,
-        "deaths": 17993,
-        "recovered": 850049
+        "confirmed": 1041007,
+        "deaths": 18135,
+        "recovered": 856458
     },
     {
         "Name": "페루",
@@ -387,7 +387,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57091,
+        "confirmed": 57166,
         "deaths": 27,
         "recovered": 56461
     },
@@ -1056,20 +1056,20 @@
         "recovered": 1293
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+        "confirmed": 2585,
+        "deaths": 64,
+        "recovered": 2213
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
         "confirmed": 2581,
         "deaths": 19,
         "recovered": 1885
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "爱沙尼亚",
-        "Name_en": "Estonia",
-        "confirmed": 2564,
-        "deaths": 64,
-        "recovered": 2195
     },
     {
         "Name": "South Sudan",
