@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6512407,193975,3789958
+미국,美国,United States,6514223,194032,3796296
 인도,印度,India,4367436,73923,3396027
 브라질,巴西,Brazil,4165124,127517,3397234
 러시아,俄罗斯,Russia,1035789,17993,850049
@@ -70,7 +70,7 @@ Kenya,,Kenya,35356,599,21483
 팔레스타인,巴勒斯坦,Palestine,27363,190,17779
 El Salvador,,El Salvador,26511,765,16462
 호주,澳大利亚,Australia,26374,770,22724
-Paraguay,,Paraguay,23353,449,11524
+Paraguay,,Paraguay,24214,463,11920
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,21961,669,15172
 레바논,黎巴嫩,Lebanon,21324,207,6722
 카메룬,喀麦隆,Cameroon,19848,415,18448
@@ -103,12 +103,12 @@ Mauritania,,Mauritania,7165,160,6681
 룩셈부르크,卢森堡,Luxembourg,6974,124,6256
 Montenegro,,Montenegro,5875,112,4312
 Malawi,,Malawi,5630,176,3630
+Tunisia,,Tunisia,5417,96,1862
 Djibouti,,Djibouti,5388,61,5327
-Tunisia,,Tunisia,5124,94,1788
 Equatorial Guinea,,Equatorial Guinea,4985,83,4454
 Eswatini,,Eswatini,4904,96,4059
 홍콩,香港,Hong Kong,4896,99,4543
-Congo,,Congo,4891,102,3887
+Congo,,Congo,4891,114,3887
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4735,62,1825
 슬로바키아,斯洛伐克,Slovakia,4727,37,2913
@@ -160,9 +160,9 @@ Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1148,31,528
 베트남,越南,Vietnam,1054,35,868
 Chad,,Chad,1045,79,927
+Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,898,15,859
 French Polynesia,,French Polynesia,773,0,528
-Martinique,,Martinique,758,18,98
 산마리노,圣马力诺,San Marino,716,42,660
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,629,48,575
@@ -183,13 +183,13 @@ Mongolia,,Mongolia,310,0,296
 Saint Martin,,Saint Martin,239,6,79
 부탄,不丹,Bhutan,233,0,151
 Cayman Islands,,Cayman Islands,205,1,204
-Barbados,,Barbados,179,7,154
+Barbados,,Barbados,180,7,156
 Bermuda,,Bermuda,175,9,158
-모나코,摩纳哥,Monaco,153,1,102
+모나코,摩纳哥,Monaco,156,1,107
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,137,0,127
+Curaçao,,Curaçao,107,1,48
 리히텐슈타인,列支敦士登,Liechtenstein,107,1,97
-Curaçao,,Curaçao,102,1,45
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,63,1,10
 St. Vincent Grenadines,,St. Vincent Grenadines,62,0,58
