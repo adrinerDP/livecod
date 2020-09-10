@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6559509,
-        "deaths": 195761,
-        "recovered": 3856749
+        "confirmed": 6560719,
+        "deaths": 195785,
+        "recovered": 3857432
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4547402,
-        "deaths": 76155,
-        "recovered": 3531212
+        "confirmed": 4555932,
+        "deaths": 76277,
+        "recovered": 3535136
     },
     {
         "Name": "브라질",
@@ -67,8 +67,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 543379,
-        "deaths": 29628,
+        "confirmed": 554143,
+        "deaths": 29699,
         "recovered": 0
     },
     {
@@ -107,8 +107,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 344101,
-        "deaths": 30794,
+        "confirmed": 353944,
+        "deaths": 30813,
         "recovered": 88524
     },
     {
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 284943,
-        "deaths": 6837,
-        "recovered": 254188
+        "confirmed": 286455,
+        "deaths": 6895,
+        "recovered": 255407
     },
     {
         "Name": "이탈리아",
@@ -243,9 +243,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 100937,
-        "deaths": 1914,
-        "recovered": 74305
+        "confirmed": 101716,
+        "deaths": 1926,
+        "recovered": 75034
     },
     {
         "Name": "이집트",
@@ -739,8 +739,8 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9418,
-        "deaths": 62,
+        "confirmed": 9462,
+        "deaths": 63,
         "recovered": 8986
     },
     {
@@ -1003,8 +1003,8 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3293,
-        "deaths": 99,
+        "confirmed": 3330,
+        "deaths": 100,
         "recovered": 1460
     },
     {
@@ -1091,7 +1091,7 @@
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "confirmed": 2416,
+        "confirmed": 2510,
         "deaths": 13,
         "recovered": 1313
     },
@@ -1211,7 +1211,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1514,
+        "confirmed": 1517,
         "deaths": 22,
         "recovered": 1237
     },
@@ -1363,7 +1363,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 504,
+        "confirmed": 507,
         "deaths": 5,
         "recovered": 232
     },
@@ -1411,9 +1411,9 @@
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
-        "confirmed": 341,
+        "confirmed": 361,
         "deaths": 0,
-        "recovered": 295
+        "recovered": 304
     },
     {
         "Name": "Isle of Man",
@@ -1491,7 +1491,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 161,
+        "confirmed": 165,
         "deaths": 1,
         "recovered": 107
     },
