@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6547904,
-        "deaths": 195175,
-        "recovered": 3839612
+        "confirmed": 6548343,
+        "deaths": 195184,
+        "recovered": 3840086
     },
     {
         "Name": "인도",
@@ -1064,6 +1064,14 @@
         "recovered": 1088
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2588,
+        "deaths": 39,
+        "recovered": 749
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -1078,14 +1086,6 @@
         "confirmed": 2555,
         "deaths": 49,
         "recovered": 1290
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2493,
-        "deaths": 39,
-        "recovered": 749
     },
     {
         "Name": "Réunion",
@@ -1267,7 +1267,7 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1148,
+        "confirmed": 1164,
         "deaths": 31,
         "recovered": 528
     },
