@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6583575,
-        "deaths": 196090,
-        "recovered": 3873077
+        "confirmed": 6583888,
+        "deaths": 196111,
+        "recovered": 3873357
     },
     {
         "Name": "인도",
@@ -256,20 +256,20 @@
         "recovered": 81597
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "confirmed": 99715,
+        "deaths": 2127,
+        "recovered": 72203
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "confirmed": 99684,
         "deaths": 4065,
         "recovered": 41010
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "confirmed": 99042,
-        "deaths": 2116,
-        "recovered": 71419
     },
     {
         "Name": "쿠웨이트",
@@ -1067,8 +1067,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 2663,
-        "deaths": 40,
+        "confirmed": 2698,
+        "deaths": 43,
         "recovered": 755
     },
     {
@@ -1184,20 +1184,20 @@
         "recovered": 1648
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 1759,
+        "deaths": 45,
+        "recovered": 1484
+    },
+    {
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
         "confirmed": 1750,
         "deaths": 49,
         "recovered": 1088
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 1741,
-        "deaths": 45,
-        "recovered": 1478
     },
     {
         "Name": "토고",
@@ -1219,9 +1219,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1476,
+        "confirmed": 1486,
         "deaths": 56,
-        "recovered": 1118
+        "recovered": 1123
     },
     {
         "Name": "라트비아",
