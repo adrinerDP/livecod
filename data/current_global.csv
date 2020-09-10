@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6553021,195285,3846772
-인도,印度,India,4482171,75197,3483039
+미국,美国,United States,6553538,195318,3846772
+인도,印度,India,4494389,75328,3490908
 브라질,巴西,Brazil,4199332,128653,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
@@ -9,7 +9,7 @@
 남아프리카 공화국,南非共和国,South Africa,642431,15168,569935
 스페인,西班牙,Spain,543379,29628,0
 Argentina,,Argentina,512293,10713,390098
-칠레,智利,Chile,427027,11702,399555
+칠레,智利,Chile,428669,11781,401356
 이란,伊朗,Iran,395488,22798,340842
 영국,英国,UK,355219,41594,0
 프랑스,法国,France,344101,30794,88524
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
 이스라엘,以色列,Israel,143049,1055,109775
-캐나다,加拿大,Canada,134294,9155,118271
+캐나다,加拿大,Canada,134464,9156,118271
 Bolivia,,Bolivia,123345,7146,77216
 카타르,卡塔尔,Qatar,121052,205,117978
 에콰도르,厄瓜多尔,Ecuador,112166,10701,91242
@@ -45,9 +45,9 @@ Guatemala,,Guatemala,79622,2897,68308
 일본,日本,Japan,72726,1393,64100
 폴란드,波兰,Poland,72453,2159,58069
 Honduras,,Honduras,65597,2044,15064
+포르투갈,葡萄牙,Portugal,62126,1852,43441
 Ethiopia,,Ethiopia,61700,966,23054
-포르투갈,葡萄牙,Portugal,61541,1849,43284
-바레인,巴林,Bahrain,57450,205,51819
+바레인,巴林,Bahrain,57450,206,51819
 싱가포르,新加坡,Singapore,57229,27,56492
 Venezuela,,Venezuela,56751,452,45318
 나이지리아,尼日利亚,Nigeria,55632,1070,43610
@@ -92,7 +92,7 @@ DRC,,DRC,10343,262,9533
 Guinea,,Guinea,9885,63,9068
 말레이시아,马来西亚,Malaysia,9628,128,9167
 French Guiana,,French Guiana,9418,62,8986
-Namibia,,Namibia,9108,93,4640
+Namibia,,Namibia,9256,96,4640
 Tajikistan,,Tajikistan,8939,72,7714
 Maldives,,Maldives,8834,31,6288
 Gabon,,Gabon,8621,53,7618
@@ -129,9 +129,9 @@ Lithuania,,Lithuania,3199,86,2030
 스리랑카,斯里兰卡,Sri Lanka,3152,12,2955
 Angola,,Angola,3092,126,1245
 Mali,,Mali,2898,128,2267
+요르단,约旦,Jordan,2739,20,1981
 Aruba,,Aruba,2730,15,1351
 Bahamas,,Bahamas,2721,63,1183
-요르단,约旦,Jordan,2659,19,1919
 에스토니아,爱沙尼亚,Estonia,2600,64,2223
 Trinidad and Tobago,,Trinidad and Tobago,2588,39,749
 South Sudan,,South Sudan,2555,49,1290
