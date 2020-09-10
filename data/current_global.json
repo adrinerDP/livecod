@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 331078,
-        "deaths": 4593,
-        "recovered": 230804
+        "confirmed": 332970,
+        "deaths": 4634,
+        "recovered": 233550
     },
     {
         "Name": "사우디아라비아",
@@ -731,9 +731,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9583,
+        "confirmed": 9628,
         "deaths": 128,
-        "recovered": 9143
+        "recovered": 9167
     },
     {
         "Name": "French Guiana",
