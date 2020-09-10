@@ -4,7 +4,7 @@
         "Name_ch": "美国",
         "Name_en": "United States",
         "confirmed": 6559509,
-        "deaths": 195590,
+        "deaths": 195761,
         "recovered": 3856749
     },
     {
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 256835,
+        "confirmed": 257088,
         "deaths": 9412,
         "recovered": 231900
     },
@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 143049,
-        "deaths": 1055,
-        "recovered": 109775
+        "confirmed": 144673,
+        "deaths": 1075,
+        "recovered": 109915
     },
     {
         "Name": "캐나다",
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 112166,
-        "deaths": 10701,
+        "confirmed": 113206,
+        "deaths": 10749,
         "recovered": 91242
     },
     {
@@ -539,7 +539,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 30164,
+        "confirmed": 30360,
         "deaths": 1781,
         "recovered": 23364
     },
@@ -587,9 +587,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 21877,
-        "deaths": 212,
-        "recovered": 7024
+        "confirmed": 22437,
+        "deaths": 219,
+        "recovered": 7312
     },
     {
         "Name": "Libya",
@@ -1019,7 +1019,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3152,
+        "confirmed": 3155,
         "deaths": 12,
         "recovered": 2955
     },
@@ -1035,9 +1035,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2898,
+        "confirmed": 2909,
         "deaths": 128,
-        "recovered": 2267
+        "recovered": 2269
     },
     {
         "Name": "요르단",
@@ -1107,8 +1107,8 @@
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "confirmed": 2245,
-        "deaths": 38,
+        "confirmed": 2275,
+        "deaths": 39,
         "recovered": 1127
     },
     {
@@ -1515,9 +1515,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 116,
+        "confirmed": 131,
         "deaths": 1,
-        "recovered": 51
+        "recovered": 55
     },
     {
         "Name": "리히텐슈타인",
