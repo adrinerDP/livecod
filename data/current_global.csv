@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6583888,196111,3873357
+미국,美国,United States,6585288,196132,3875666
 인도,印度,India,4559725,76304,3539983
-브라질,巴西,Brazil,4238446,129522,3497337
+브라질,巴西,Brazil,4239763,129575,3497337
 러시아,俄罗斯,Russia,1046370,18263,862373
-페루,秘鲁,Peru,702776,30236,536959
+페루,秘鲁,Peru,710067,30344,544745
 콜롬비아,哥伦比亚,Colombia,694664,22275,569479
 멕시코,墨西哥,Mexico,647507,69095,454982
 남아프리카 공화국,南非共和国,South Africa,644438,15265,573003
 스페인,西班牙,Spain,554143,29699,0
-Argentina,,Argentina,512293,10713,390098
+Argentina,,Argentina,524198,10907,390098
 칠레,智利,Chile,428669,11781,401356
 이란,伊朗,Iran,395488,22798,340842
 영국,英国,UK,358138,41608,0
@@ -63,8 +63,8 @@ Moldova,,Moldova,41704,1106,28962
 아프가니스탄,阿富汗,Afghanistan,38572,1420,31129
 아제르바이잔,阿塞拜疆,Azerbaijan,37874,556,35269
 Kenya,,Kenya,35603,612,22047
+체코,捷克,Czechia,32413,448,20787
 세르비아,塞尔维亚,Serbia,32136,729,30943
-체코,捷克,Czechia,31759,447,20724
 오스트리아,奥地利,Austria,31247,748,26043
 아일랜드,冰岛,Ireland,30360,1781,23364
 팔레스타인,巴勒斯坦,Palestine,28664,198,18821
@@ -116,7 +116,7 @@ CAR,,CAR,4747,62,1825
 Cabo Verde,,Cabo Verde,4557,43,3993
 Cuba,,Cuba,4551,106,3779
 Rwanda,,Rwanda,4479,22,2352
-Suriname,,Suriname,4447,92,3622
+Suriname,,Suriname,4477,93,3706
 Uganda,,Uganda,4291,48,1998
 태국,泰国,Thailand,3454,58,3310
 Jamaica,,Jamaica,3437,38,1019
@@ -158,11 +158,11 @@ Liberia,,Liberia,1315,82,1194
 안도라,安道尔,Andorra,1301,53,938
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1164,31,528
-베트남,越南,Vietnam,1059,35,890
+베트남,越南,Vietnam,1059,35,893
 Chad,,Chad,1051,79,932
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,901,15,866
-French Polynesia,,French Polynesia,795,0,528
+French Polynesia,,French Polynesia,857,0,576
 산마리노,圣马力诺,San Marino,722,42,662
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,631,48,575

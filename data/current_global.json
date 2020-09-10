@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6583888,
-        "deaths": 196111,
-        "recovered": 3873357
+        "confirmed": 6585288,
+        "deaths": 196132,
+        "recovered": 3875666
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4238446,
-        "deaths": 129522,
+        "confirmed": 4239763,
+        "deaths": 129575,
         "recovered": 3497337
     },
     {
@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 702776,
-        "deaths": 30236,
-        "recovered": 536959
+        "confirmed": 710067,
+        "deaths": 30344,
+        "recovered": 544745
     },
     {
         "Name": "콜롬비아",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 512293,
-        "deaths": 10713,
+        "confirmed": 524198,
+        "deaths": 10907,
         "recovered": 390098
     },
     {
@@ -512,20 +512,20 @@
         "recovered": 22047
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 32413,
+        "deaths": 448,
+        "recovered": 20787
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
         "confirmed": 32136,
         "deaths": 729,
         "recovered": 30943
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 31759,
-        "deaths": 447,
-        "recovered": 20724
     },
     {
         "Name": "오스트리아",
@@ -939,9 +939,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4447,
-        "deaths": 92,
-        "recovered": 3622
+        "confirmed": 4477,
+        "deaths": 93,
+        "recovered": 3706
     },
     {
         "Name": "Uganda",
@@ -1277,7 +1277,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1059,
         "deaths": 35,
-        "recovered": 890
+        "recovered": 893
     },
     {
         "Name": "Chad",
@@ -1307,9 +1307,9 @@
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "confirmed": 795,
+        "confirmed": 857,
         "deaths": 0,
-        "recovered": 528
+        "recovered": 576
     },
     {
         "Name": "산마리노",
