@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6583044,196087,3871763
+미국,美国,United States,6583575,196090,3873077
 인도,印度,India,4559725,76304,3539983
-브라질,巴西,Brazil,4238446,129522,3453336
+브라질,巴西,Brazil,4238446,129522,3497337
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
-콜롬비아,哥伦比亚,Colombia,686856,22053,552885
+콜롬비아,哥伦比亚,Colombia,694664,22275,569479
 멕시코,墨西哥,Mexico,647507,69095,454982
 남아프리카 공화국,南非共和国,South Africa,644438,15265,573003
 스페인,西班牙,Spain,554143,29699,0
@@ -30,7 +30,7 @@ Bolivia,,Bolivia,123345,7146,77216
 에콰도르,厄瓜多尔,Ecuador,113206,10749,91242
 Kazakhstan,,Kazakhstan,106584,1634,100248
 도미니카 공화국,多明尼加共和国,Dominican Republic,101716,1926,75034
-이집트,埃及,Egypt,100403,5577,80689
+이집트,埃及,Egypt,100557,5590,81597
 루마니아,尼亚,Romania,99684,4065,41010
 Panama,,Panama,99042,2116,71419
 쿠웨이트,科威特,Kuwait,92822,556,83040
@@ -42,7 +42,7 @@ Guatemala,,Guatemala,80306,2918,68927
 네덜란드,荷兰,Netherlands,78511,6249,0
 아랍에미리트,阿拉伯联合酋长国,UAE,76911,398,67945
 벨라루스,白俄罗斯,Belarus,73591,732,72203
-일본,日本,Japan,72726,1393,64100
+일본,日本,Japan,73221,1406,64835
 폴란드,波兰,Poland,72453,2159,58069
 Honduras,,Honduras,65597,2044,15064
 Ethiopia,,Ethiopia,62578,974,23640
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,62578,974,23640
 바레인,巴林,Bahrain,58207,207,52284
 싱가포르,新加坡,Singapore,57229,27,56558
 Venezuela,,Venezuela,56751,452,45318
-나이지리아,尼日利亚,Nigeria,55632,1070,43610
+나이지리아,尼日利亚,Nigeria,55829,1075,43810
 코스타리카,哥斯达黎加,Costa Rica,52549,567,20322
 네팔,尼泊尔,Nepal,50465,317,35700
 알제리,阿尔及利亚,Algeria,47488,1591,33562
@@ -77,7 +77,7 @@ Libya,,Libya,20939,339,2420
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,18924,629,16069
 Ivory Coast,,Ivory Coast,18869,119,17884
-Bulgaria,,Bulgaria,17435,702,12474
+Bulgaria,,Bulgaria,17598,706,12619
 Madagascar,,Madagascar,15624,208,14295
 North Macedonia,,North Macedonia,15414,637,12896
 세네갈,塞内加尔,Senegal,14150,293,10207
@@ -85,7 +85,7 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13214,300,11899
 크로아티아,克罗地亚,Croatia,12917,208,10142
 그리스,希腊,Greece,12452,297,3804
-노르웨이,挪威,Norway,11801,265,9348
+노르웨이,挪威,Norway,11867,265,9348
 Albania,,Albania,10860,324,6346
 DRC,,DRC,10343,262,9533
 헝가리,匈牙利,Hungary,10191,630,3990
@@ -101,7 +101,7 @@ Haiti,,Haiti,8429,215,5991
 Zimbabwe,,Zimbabwe,7453,222,5635
 Mauritania,,Mauritania,7222,161,6758
 룩셈부르크,卢森堡,Luxembourg,7088,124,6397
-Montenegro,,Montenegro,6094,114,4350
+Montenegro,,Montenegro,6222,114,4393
 Tunisia,,Tunisia,5882,99,1862
 Malawi,,Malawi,5655,176,3683
 Djibouti,,Djibouti,5394,61,5327
