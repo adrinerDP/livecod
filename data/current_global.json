@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6548343,
-        "deaths": 195184,
-        "recovered": 3840086
+        "confirmed": 6549177,
+        "deaths": 195211,
+        "recovered": 3845901
     },
     {
         "Name": "인도",
@@ -13,7 +13,7 @@
         "Name_en": "India",
         "confirmed": 4462965,
         "deaths": 75091,
-        "recovered": 3466819
+        "recovered": 3469084
     },
     {
         "Name": "브라질",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 500034,
-        "deaths": 10457,
+        "confirmed": 512293,
+        "deaths": 10658,
         "recovered": 382490
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 134194,
+        "confirmed": 134294,
         "deaths": 9155,
-        "recovered": 118149
+        "recovered": 118271
     },
     {
         "Name": "Bolivia",
@@ -400,20 +400,20 @@
         "recovered": 56492
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 56751,
+        "deaths": 452,
+        "recovered": 45318
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 55632,
         "deaths": 1070,
         "recovered": 43610
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 55563,
-        "deaths": 444,
-        "recovered": 44435
     },
     {
         "Name": "코스타리카",
@@ -571,9 +571,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 24214,
-        "deaths": 463,
-        "recovered": 11920
+        "confirmed": 25026,
+        "deaths": 474,
+        "recovered": 12309
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -876,7 +876,7 @@
         "Name_ch": "",
         "Name_en": "Congo",
         "confirmed": 4891,
-        "deaths": 114,
+        "deaths": 83,
         "recovered": 3887
     },
     {
@@ -1096,6 +1096,14 @@
         "recovered": 1313
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 2287,
+        "deaths": 23,
+        "recovered": 336
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -1224,14 +1232,6 @@
         "recovered": 1234
     },
     {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 1363,
-        "deaths": 18,
-        "recovered": 336
-    },
-    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1301,7 +1301,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 898,
         "deaths": 15,
-        "recovered": 859
+        "recovered": 862
     },
     {
         "Name": "French Polynesia",
@@ -1315,9 +1315,9 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 716,
+        "confirmed": 722,
         "deaths": 42,
-        "recovered": 660
+        "recovered": 662
     },
     {
         "Name": "일본크루즈",
