@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 120846,
+        "confirmed": 121052,
         "deaths": 205,
-        "recovered": 117746
+        "recovered": 117978
     },
     {
         "Name": "에콰도르",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 92082,
-        "deaths": 552,
-        "recovered": 82222
+        "confirmed": 92822,
+        "deaths": 556,
+        "recovered": 83040
     },
     {
         "Name": "벨기에",
@@ -608,20 +608,20 @@
         "recovered": 18448
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 18924,
+        "deaths": 629,
+        "recovered": 16069
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
         "confirmed": 18815,
         "deaths": 119,
         "recovered": 17770
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 18607,
-        "deaths": 628,
-        "recovered": 15990
     },
     {
         "Name": "Bulgaria",
@@ -947,9 +947,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 4101,
-        "deaths": 46,
-        "recovered": 1876
+        "confirmed": 4291,
+        "deaths": 48,
+        "recovered": 1998
     },
     {
         "Name": "태국",
