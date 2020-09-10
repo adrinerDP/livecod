@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6579224,
-        "deaths": 196045,
-        "recovered": 3869845
+        "confirmed": 6583044,
+        "deaths": 196087,
+        "recovered": 3871763
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4210556,
-        "deaths": 128857,
+        "confirmed": 4238446,
+        "deaths": 129522,
         "recovered": 3453336
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 134653,
-        "deaths": 9158,
-        "recovered": 118638
+        "confirmed": 134785,
+        "deaths": 9163,
+        "recovered": 118900
     },
     {
         "Name": "Bolivia",
@@ -1184,20 +1184,20 @@
         "recovered": 1648
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 1750,
+        "deaths": 49,
+        "recovered": 1088
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "confirmed": 1741,
         "deaths": 45,
         "recovered": 1478
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 1703,
-        "deaths": 48,
-        "recovered": 1045
     },
     {
         "Name": "토고",
