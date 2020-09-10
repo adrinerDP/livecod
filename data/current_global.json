@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 393425,
-        "deaths": 22669,
-        "recovered": 339111
+        "confirmed": 395488,
+        "deaths": 22798,
+        "recovered": 340842
     },
     {
         "Name": "영국",
@@ -1123,9 +1123,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2162,
+        "confirmed": 2204,
         "deaths": 14,
-        "recovered": 1760
+        "recovered": 1803
     },
     {
         "Name": "Iceland",
@@ -1592,6 +1592,22 @@
         "recovered": 25
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 25,
+        "deaths": 0,
+        "recovered": 7
+    },
+    {
+        "Name": "Dominica",
+        "Name_ch": "",
+        "Name_en": "Dominica",
+        "confirmed": 24,
+        "deaths": 0,
+        "recovered": 18
+    },
+    {
         "Name": "Grenada",
         "Name_ch": "",
         "Name_en": "Grenada",
@@ -1600,28 +1616,12 @@
         "recovered": 24
     },
     {
-        "Name": "Dominica",
-        "Name_ch": "",
-        "Name_en": "Dominica",
-        "confirmed": 22,
-        "deaths": 0,
-        "recovered": 18
-    },
-    {
         "Name": "Laos",
         "Name_ch": "",
         "Name_en": "Laos",
         "confirmed": 22,
         "deaths": 0,
         "recovered": 21
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 21,
-        "deaths": 0,
-        "recovered": 7
     },
     {
         "Name": "St. Barth",
@@ -1680,20 +1680,20 @@
         "recovered": 8
     },
     {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
+        "confirmed": 10,
+        "deaths": 0,
+        "recovered": 5
+    },
+    {
         "Name": "MS Zaandam",
         "Name_ch": "",
         "Name_en": "MS Zaandam",
         "confirmed": 9,
         "deaths": 2,
         "recovered": 0
-    },
-    {
-        "Name": "Saint Pierre Miquelon",
-        "Name_ch": "",
-        "Name_en": "Saint Pierre Miquelon",
-        "confirmed": 9,
-        "deaths": 0,
-        "recovered": 5
     },
     {
         "Name": "Anguilla",
