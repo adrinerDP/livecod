@@ -357,7 +357,7 @@
         "Name_en": "Poland",
         "confirmed": 71947,
         "deaths": 2147,
-        "recovered": 57135
+        "recovered": 58069
     },
     {
         "Name": "Honduras",
@@ -675,9 +675,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 12626,
-        "deaths": 206,
-        "recovered": 9833
+        "confirmed": 12917,
+        "deaths": 208,
+        "recovered": 10142
     },
     {
         "Name": "그리스",
