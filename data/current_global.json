@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6556947,
-        "deaths": 195550,
-        "recovered": 3856335
+        "confirmed": 6559445,
+        "deaths": 195589,
+        "recovered": 3856749
     },
     {
         "Name": "인도",
@@ -99,8 +99,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 355219,
-        "deaths": 41594,
+        "confirmed": 358138,
+        "deaths": 41608,
         "recovered": 0
     },
     {
@@ -397,7 +397,7 @@
         "Name_en": "Singapore",
         "confirmed": 57229,
         "deaths": 27,
-        "recovered": 56492
+        "recovered": 56558
     },
     {
         "Name": "Venezuela",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 15293,
-        "deaths": 634,
-        "recovered": 12754
+        "confirmed": 15414,
+        "deaths": 637,
+        "recovered": 12896
     },
     {
         "Name": "세네갈",
@@ -699,9 +699,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 10704,
-        "deaths": 322,
-        "recovered": 6284
+        "confirmed": 10860,
+        "deaths": 324,
+        "recovered": 6346
     },
     {
         "Name": "DRC",
@@ -1243,7 +1243,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1313,
+        "confirmed": 1315,
         "deaths": 82,
         "recovered": 1194
     },

@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6556947,195550,3856335
+미국,美国,United States,6559445,195589,3856749
 인도,印度,India,4494389,75328,3490908
 브라질,巴西,Brazil,4199332,128653,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
@@ -11,7 +11,7 @@
 Argentina,,Argentina,512293,10713,390098
 칠레,智利,Chile,428669,11781,401356
 이란,伊朗,Iran,395488,22798,340842
-영국,英国,UK,355219,41594,0
+영국,英国,UK,358138,41608,0
 프랑스,法国,France,344101,30794,88524
 Bangladesh,,Bangladesh,332970,4634,233550
 사우디아라비아,沙特阿拉伯,Saudi Arabia,323720,4189,299998
@@ -48,7 +48,7 @@ Honduras,,Honduras,65597,2044,15064
 포르투갈,葡萄牙,Portugal,62126,1852,43441
 Ethiopia,,Ethiopia,61700,966,23054
 바레인,巴林,Bahrain,57450,206,51819
-싱가포르,新加坡,Singapore,57229,27,56492
+싱가포르,新加坡,Singapore,57229,27,56558
 Venezuela,,Venezuela,56751,452,45318
 나이지리아,尼日利亚,Nigeria,55632,1070,43610
 코스타리카,哥斯达黎加,Costa Rica,51224,543,19544
@@ -79,14 +79,14 @@ Libya,,Libya,20939,339,2420
 Ivory Coast,,Ivory Coast,18815,119,17770
 Bulgaria,,Bulgaria,17435,702,12474
 Madagascar,,Madagascar,15624,208,14295
-North Macedonia,,North Macedonia,15293,634,12754
+North Macedonia,,North Macedonia,15414,637,12896
 세네갈,塞内加尔,Senegal,14150,293,10207
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13214,300,11899
 크로아티아,克罗地亚,Croatia,12917,208,10142
 그리스,希腊,Greece,12080,293,3804
 노르웨이,挪威,Norway,11801,265,9348
-Albania,,Albania,10704,322,6284
+Albania,,Albania,10860,324,6346
 DRC,,DRC,10343,262,9533
 헝가리,匈牙利,Hungary,10191,630,3990
 Guinea,,Guinea,9885,63,9068
@@ -154,7 +154,7 @@ Cyprus,,Cyprus,1514,22,1237
 Burkina Faso,,Burkina Faso,1476,56,1118
 라트비아,约旦,Latvia,1448,35,1248
 Belize,,Belize,1365,18,326
-Liberia,,Liberia,1313,82,1194
+Liberia,,Liberia,1315,82,1194
 안도라,安道尔,Andorra,1301,53,938
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1164,31,528
