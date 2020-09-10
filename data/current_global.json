@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4462965,
+        "confirmed": 4465863,
         "deaths": 75091,
-        "recovered": 3469084
+        "recovered": 3471783
     },
     {
         "Name": "브라질",
@@ -955,9 +955,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3447,
+        "confirmed": 3454,
         "deaths": 58,
-        "recovered": 3286
+        "recovered": 3310
     },
     {
         "Name": "Jamaica",
