@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6563484,195652,3857443
-인도,印度,India,4559725,76304,3537214
+미국,美国,United States,6573867,195935,3864787
+인도,印度,India,4559725,76304,3539983
 브라질,巴西,Brazil,4210556,128857,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 터키,土耳其,Turkey,286455,6895,255407
 이탈리아,义大利,Italy,283180,35587,211885
 이라크,伊拉克,Iraq,278418,7814,213817
-독일,德国,Germany,257088,9412,231900
+독일,德国,Germany,258107,9419,231900
 필리핀,菲律宾,Philippines,248947,4066,186058
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
@@ -37,8 +37,8 @@ Panama,,Panama,99042,2116,71419
 벨기에,比利时,Belgium,89691,9917,18635
 오만,阿曼,Oman,88337,762,83325
 스웨덴,瑞典语,Sweden,86194,5843,0
+Guatemala,,Guatemala,80306,2918,68927
 모로코,摩洛哥,Morocco,79767,1491,61850
-Guatemala,,Guatemala,79622,2897,68308
 네덜란드,荷兰,Netherlands,78511,6249,0
 아랍에미리트,阿拉伯联合酋长国,UAE,76911,398,67945
 벨라루스,白俄罗斯,Belarus,73591,732,72203
@@ -97,14 +97,14 @@ Tajikistan,,Tajikistan,8939,72,7714
 Maldives,,Maldives,8900,31,6559
 Gabon,,Gabon,8621,53,7618
 핀란드,芬兰,Finland,8469,337,7500
-Haiti,,Haiti,8384,214,5991
+Haiti,,Haiti,8429,215,5991
 Zimbabwe,,Zimbabwe,7429,222,5542
-Mauritania,,Mauritania,7191,161,6701
+Mauritania,,Mauritania,7222,161,6758
 룩셈부르크,卢森堡,Luxembourg,7088,124,6397
 Montenegro,,Montenegro,6094,114,4350
+Tunisia,,Tunisia,5882,99,1862
 Malawi,,Malawi,5653,176,3630
-Tunisia,,Tunisia,5417,96,1862
-Djibouti,,Djibouti,5391,61,5327
+Djibouti,,Djibouti,5394,61,5327
 슬로바키아,斯洛伐克,Slovakia,5066,37,3001
 Equatorial Guinea,,Equatorial Guinea,4990,83,4479
 Eswatini,,Eswatini,4936,97,4077
@@ -143,8 +143,8 @@ Malta,,Malta,2204,14,1803
 Iceland,,Iceland,2157,10,2072
 Myanmar,,Myanmar,2150,14,625
 Botswana,,Botswana,2126,9,493
-Sierra Leone,,Sierra Leone,2067,72,1622
-Yemen,,Yemen,1999,576,1209
+Sierra Leone,,Sierra Leone,2069,72,1622
+Yemen,,Yemen,2003,580,1211
 조지아,格鲁吉亚,Georgia,1830,19,1334
 New Zealand,,New Zealand,1792,24,1648
 Uruguay,,Uruguay,1741,45,1478
