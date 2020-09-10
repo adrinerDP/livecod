@@ -440,6 +440,14 @@
         "recovered": 33379
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 45326,
+        "deaths": 906,
+        "recovered": 41233
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
@@ -462,14 +470,6 @@
         "confirmed": 45160,
         "deaths": 368,
         "recovered": 42212
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 45152,
-        "deaths": 905,
-        "recovered": 41023
     },
     {
         "Name": "Kyrgyzstan",
