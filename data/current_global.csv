@@ -18,8 +18,8 @@ Bangladesh,,Bangladesh,332970,4634,233550
 파키스탄,巴基斯坦,Pakistan,299855,6365,287950
 터키,土耳其,Turkey,284943,6837,254188
 이탈리아,义大利,Italy,281583,35577,211272
-이라크,伊拉克,Iraq,273821,7732,209993
-독일,德国,Germany,256589,9411,231900
+이라크,伊拉克,Iraq,278418,7814,213817
+독일,德国,Germany,256835,9412,231900
 필리핀,菲律宾,Philippines,248947,4066,186058
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
@@ -40,7 +40,7 @@ Panama,,Panama,99042,2116,71419
 Guatemala,,Guatemala,79622,2897,68308
 네덜란드,荷兰,Netherlands,78511,6249,0
 모로코,摩洛哥,Morocco,77878,1453,59723
-아랍에미리트,阿拉伯联合酋长国,UAE,75981,393,67359
+아랍에미리트,阿拉伯联合酋长国,UAE,76911,398,67945
 벨라루스,白俄罗斯,Belarus,73591,732,72203
 일본,日本,Japan,72726,1393,64100
 폴란드,波兰,Poland,72453,2159,58069
@@ -85,7 +85,7 @@ Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13214,300,11899
 크로아티아,克罗地亚,Croatia,12917,208,10142
 그리스,希腊,Greece,12080,293,3804
-노르웨이,挪威,Norway,11746,264,9348
+노르웨이,挪威,Norway,11801,265,9348
 Albania,,Albania,10704,322,6284
 DRC,,DRC,10343,262,9533
 헝가리,匈牙利,Hungary,10191,630,3990
@@ -126,7 +126,7 @@ Somalia,,Somalia,3371,97,2738
 Syria,,Syria,3351,143,780
 Gambia,,Gambia,3293,99,1460
 Lithuania,,Lithuania,3199,86,2030
-스리랑카,斯里兰卡,Sri Lanka,3147,12,2955
+스리랑카,斯里兰卡,Sri Lanka,3152,12,2955
 Angola,,Angola,3092,126,1245
 Mali,,Mali,2898,128,2267
 Aruba,,Aruba,2730,15,1351
@@ -141,9 +141,9 @@ Guinea-Bissau,,Guinea-Bissau,2245,38,1127
 Benin,,Benin,2242,40,1793
 Malta,,Malta,2204,14,1803
 Iceland,,Iceland,2153,10,2067
+Myanmar,,Myanmar,2150,14,625
 Botswana,,Botswana,2126,9,493
 Sierra Leone,,Sierra Leone,2067,72,1622
-Myanmar,,Myanmar,2009,14,553
 Yemen,,Yemen,1999,576,1209
 조지아,格鲁吉亚,Georgia,1830,19,1334
 New Zealand,,New Zealand,1792,24,1648
@@ -189,7 +189,7 @@ Bermuda,,Bermuda,177,9,159
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,137,0,127
 Curaçao,,Curaçao,116,1,51
-리히텐슈타인,列支敦士登,Liechtenstein,108,1,105
+리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,63,1,10
 St. Vincent Grenadines,,St. Vincent Grenadines,62,0,58
