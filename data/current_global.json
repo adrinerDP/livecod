@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 642860,
-        "deaths": 68484,
-        "recovered": 451159
+        "confirmed": 647507,
+        "deaths": 69095,
+        "recovered": 454982
     },
     {
         "Name": "남아프리카 공화국",
@@ -1171,9 +1171,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1788,
+        "confirmed": 1792,
         "deaths": 24,
-        "recovered": 1639
+        "recovered": 1648
     },
     {
         "Name": "조지아",
@@ -1363,7 +1363,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 503,
+        "confirmed": 504,
         "deaths": 5,
         "recovered": 232
     },
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85146,
+        "confirmed": 85153,
         "deaths": 4634,
-        "recovered": 80347
+        "recovered": 80358
     }
 ]
