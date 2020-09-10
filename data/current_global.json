@@ -256,20 +256,20 @@
         "recovered": 80689
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 99684,
+        "deaths": 4065,
+        "recovered": 41010
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "confirmed": 99042,
         "deaths": 2116,
         "recovered": 71419
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 98304,
-        "deaths": 4018,
-        "recovered": 41002
     },
     {
         "Name": "쿠웨이트",
@@ -440,6 +440,14 @@
         "recovered": 33379
     },
     {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+        "confirmed": 45711,
+        "deaths": 2019,
+        "recovered": 38100
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
@@ -454,14 +462,6 @@
         "confirmed": 45313,
         "deaths": 283,
         "recovered": 44188
-    },
-    {
-        "Name": "스위스",
-        "Name_ch": "瑞士",
-        "Name_en": "Switzerland",
-        "confirmed": 45306,
-        "deaths": 2019,
-        "recovered": 38100
     },
     {
         "Name": "Uzbekistan",
@@ -1427,9 +1427,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 322,
+        "confirmed": 323,
         "deaths": 0,
-        "recovered": 277
+        "recovered": 287
     },
     {
         "Name": "Mongolia",
