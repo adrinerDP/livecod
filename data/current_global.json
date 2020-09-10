@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 299659,
-        "deaths": 6359,
-        "recovered": 286506
+        "confirmed": 299855,
+        "deaths": 6365,
+        "recovered": 287950
     },
     {
         "Name": "터키",
@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106498,
+        "confirmed": 106584,
         "deaths": 1634,
-        "recovered": 100042
+        "recovered": 100248
     },
     {
         "Name": "도미니카 공화국",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 65218,
-        "deaths": 2034,
-        "recovered": 14273
+        "confirmed": 65597,
+        "deaths": 2044,
+        "recovered": 15064
     },
     {
         "Name": "Ethiopia",
@@ -1152,20 +1152,20 @@
         "recovered": 1622
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 2009,
+        "deaths": 14,
+        "recovered": 553
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 1999,
         "deaths": 576,
         "recovered": 1209
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 1889,
-        "deaths": 12,
-        "recovered": 553
     },
     {
         "Name": "New Zealand",
@@ -1437,7 +1437,7 @@
         "Name_en": "Mongolia",
         "confirmed": 310,
         "deaths": 0,
-        "recovered": 296
+        "recovered": 298
     },
     {
         "Name": "캄보디아",
@@ -1461,7 +1461,7 @@
         "Name_en": "Bhutan",
         "confirmed": 234,
         "deaths": 0,
-        "recovered": 153
+        "recovered": 155
     },
     {
         "Name": "Cayman Islands",
