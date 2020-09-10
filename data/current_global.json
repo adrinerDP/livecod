@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4555932,
-        "deaths": 76277,
-        "recovered": 3535136
+        "confirmed": 4559725,
+        "deaths": 76304,
+        "recovered": 3537214
     },
     {
         "Name": "브라질",
@@ -109,7 +109,7 @@
         "Name_en": "France",
         "confirmed": 353944,
         "deaths": 30813,
-        "recovered": 88524
+        "recovered": 88742
     },
     {
         "Name": "Bangladesh",
@@ -304,6 +304,14 @@
         "recovered": 0
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 79767,
+        "deaths": 1491,
+        "recovered": 61850
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -318,14 +326,6 @@
         "confirmed": 78511,
         "deaths": 6249,
         "recovered": 0
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 77878,
-        "deaths": 1453,
-        "recovered": 59723
     },
     {
         "Name": "아랍에미리트",
@@ -368,20 +368,20 @@
         "recovered": 15064
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 62578,
+        "deaths": 974,
+        "recovered": 23640
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 62126,
         "deaths": 1852,
         "recovered": 43441
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 61700,
-        "deaths": 966,
-        "recovered": 23054
     },
     {
         "Name": "바레인",
@@ -763,9 +763,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 8834,
+        "confirmed": 8900,
         "deaths": 31,
-        "recovered": 6288
+        "recovered": 6559
     },
     {
         "Name": "Gabon",
@@ -888,20 +888,20 @@
         "recovered": 3887
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 4832,
+        "deaths": 31,
+        "recovered": 2857
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
         "confirmed": 4818,
         "deaths": 144,
         "recovered": 2913
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 4764,
-        "deaths": 28,
-        "recovered": 2763
     },
     {
         "Name": "CAR",

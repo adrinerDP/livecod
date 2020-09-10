@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6560719,195785,3857432
-인도,印度,India,4555932,76277,3535136
+인도,印度,India,4559725,76304,3537214
 브라질,巴西,Brazil,4210556,128857,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
@@ -12,7 +12,7 @@ Argentina,,Argentina,512293,10713,390098
 칠레,智利,Chile,428669,11781,401356
 이란,伊朗,Iran,395488,22798,340842
 영국,英国,UK,358138,41608,0
-프랑스,法国,France,353944,30813,88524
+프랑스,法国,France,353944,30813,88742
 Bangladesh,,Bangladesh,332970,4634,233550
 사우디아라비아,沙特阿拉伯,Saudi Arabia,323720,4189,299998
 파키스탄,巴基斯坦,Pakistan,299855,6365,287950
@@ -37,16 +37,16 @@ Panama,,Panama,99042,2116,71419
 벨기에,比利时,Belgium,89691,9917,18635
 오만,阿曼,Oman,88337,762,83325
 스웨덴,瑞典语,Sweden,86194,5843,0
+모로코,摩洛哥,Morocco,79767,1491,61850
 Guatemala,,Guatemala,79622,2897,68308
 네덜란드,荷兰,Netherlands,78511,6249,0
-모로코,摩洛哥,Morocco,77878,1453,59723
 아랍에미리트,阿拉伯联合酋长国,UAE,76911,398,67945
 벨라루스,白俄罗斯,Belarus,73591,732,72203
 일본,日本,Japan,72726,1393,64100
 폴란드,波兰,Poland,72453,2159,58069
 Honduras,,Honduras,65597,2044,15064
+Ethiopia,,Ethiopia,62578,974,23640
 포르투갈,葡萄牙,Portugal,62126,1852,43441
-Ethiopia,,Ethiopia,61700,966,23054
 바레인,巴林,Bahrain,57450,206,51819
 싱가포르,新加坡,Singapore,57229,27,56558
 Venezuela,,Venezuela,56751,452,45318
@@ -94,7 +94,7 @@ Guinea,,Guinea,9885,63,9068
 French Guiana,,French Guiana,9462,63,8986
 Namibia,,Namibia,9256,96,4767
 Tajikistan,,Tajikistan,8939,72,7714
-Maldives,,Maldives,8834,31,6288
+Maldives,,Maldives,8900,31,6559
 Gabon,,Gabon,8621,53,7618
 핀란드,芬兰,Finland,8469,337,7500
 Haiti,,Haiti,8384,214,5991
@@ -110,8 +110,8 @@ Equatorial Guinea,,Equatorial Guinea,4990,83,4479
 Eswatini,,Eswatini,4936,97,4077
 홍콩,香港,Hong Kong,4914,99,4582
 Congo,,Congo,4891,83,3887
+Mozambique,,Mozambique,4832,31,2857
 Nicaragua,,Nicaragua,4818,144,2913
-Mozambique,,Mozambique,4764,28,2763
 CAR,,CAR,4736,62,1825
 Cabo Verde,,Cabo Verde,4473,43,3915
 Rwanda,,Rwanda,4460,21,2325
