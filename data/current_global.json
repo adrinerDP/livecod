@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6576767,
-        "deaths": 196013,
-        "recovered": 3867321
+        "confirmed": 6579224,
+        "deaths": 196045,
+        "recovered": 3869845
     },
     {
         "Name": "인도",
@@ -387,9 +387,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 57450,
+        "confirmed": 58207,
         "deaths": 207,
-        "recovered": 51819
+        "recovered": 52284
     },
     {
         "Name": "싱가포르",
@@ -507,9 +507,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 35460,
-        "deaths": 607,
-        "recovered": 21557
+        "confirmed": 35603,
+        "deaths": 612,
+        "recovered": 22047
     },
     {
         "Name": "세르비아",
@@ -920,20 +920,20 @@
         "recovered": 3993
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4551,
+        "deaths": 106,
+        "recovered": 3779
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4479,
         "deaths": 22,
         "recovered": 2352
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4459,
-        "deaths": 104,
-        "recovered": 3727
     },
     {
         "Name": "Suriname",
@@ -1299,9 +1299,9 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 898,
+        "confirmed": 901,
         "deaths": 15,
-        "recovered": 862
+        "recovered": 866
     },
     {
         "Name": "French Polynesia",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 466,
+        "confirmed": 469,
         "deaths": 1,
         "recovered": 374
     },
@@ -1467,7 +1467,7 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 207,
+        "confirmed": 208,
         "deaths": 1,
         "recovered": 204
     },
