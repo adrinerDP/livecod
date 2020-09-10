@@ -388,7 +388,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 57450,
-        "deaths": 203,
+        "deaths": 204,
         "recovered": 51819
     },
     {
@@ -491,9 +491,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38544,
+        "confirmed": 38572,
         "deaths": 1420,
-        "recovered": 31048
+        "recovered": 31129
     },
     {
         "Name": "아제르바이잔",
@@ -712,20 +712,20 @@
         "recovered": 9523
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 10191,
+        "deaths": 630,
+        "recovered": 3990
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
         "confirmed": 9885,
         "deaths": 63,
         "recovered": 9068
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 9715,
-        "deaths": 628,
-        "recovered": 3984
     },
     {
         "Name": "말레이시아",
