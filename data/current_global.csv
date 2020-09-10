@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6549771,195245,3846659
-인도,印度,India,4470166,75119,3471783
+미국,美国,United States,6550824,195259,3846717
+인도,印度,India,4482171,75197,3483039
 브라질,巴西,Brazil,4199332,128653,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 터키,土耳其,Turkey,284943,6837,254188
 이탈리아,义大利,Italy,281583,35577,211272
 이라크,伊拉克,Iraq,273821,7732,209993
-독일,德国,Germany,256349,9410,231900
+독일,德国,Germany,256589,9411,231900
 필리핀,菲律宾,Philippines,248947,4066,186058
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
@@ -35,13 +35,13 @@ Kazakhstan,,Kazakhstan,106584,1634,100248
 Panama,,Panama,99042,2116,71419
 쿠웨이트,科威特,Kuwait,92822,556,83040
 벨기에,比利时,Belgium,89691,9917,18635
-오만,阿曼,Oman,87939,751,83115
-스웨덴,瑞典语,Sweden,85880,5842,0
+오만,阿曼,Oman,88337,762,83325
+스웨덴,瑞典语,Sweden,86194,5843,0
 Guatemala,,Guatemala,79622,2897,68308
+네덜란드,荷兰,Netherlands,78511,6249,0
 모로코,摩洛哥,Morocco,77878,1453,59723
-네덜란드,荷兰,Netherlands,77688,6246,0
 아랍에미리트,阿拉伯联合酋长国,UAE,75981,393,67359
-벨라루스,白俄罗斯,Belarus,73402,726,71999
+벨라루스,白俄罗斯,Belarus,73591,732,72203
 일본,日本,Japan,72726,1393,64100
 폴란드,波兰,Poland,72453,2159,58069
 Honduras,,Honduras,65597,2044,15064
@@ -55,19 +55,19 @@ Venezuela,,Venezuela,56751,452,45318
 네팔,尼泊尔,Nepal,49219,312,33882
 알제리,阿尔及利亚,Algeria,47216,1581,33379
 스위스,瑞士,Switzerland,45711,2019,38100
+Uzbekistan,,Uzbekistan,45473,370,42509
 아르메니아,亚美尼亚,Armenia,45326,906,41233
 Ghana,,Ghana,45313,283,44188
-Uzbekistan,,Uzbekistan,45160,368,42212
 Kyrgyzstan,,Kyrgyzstan,44684,1061,40487
 Moldova,,Moldova,41144,1096,28962
 아프가니스탄,阿富汗,Afghanistan,38572,1420,31129
-아제르바이잔,阿塞拜疆,Azerbaijan,37732,555,35119
+아제르바이잔,阿塞拜疆,Azerbaijan,37874,556,35269
 Kenya,,Kenya,35460,607,21557
 세르비아,塞尔维亚,Serbia,32078,728,30780
 오스트리아,奥地利,Austria,31247,748,26043
 체코,捷克,Czechia,31036,444,20374
 아일랜드,冰岛,Ireland,30164,1781,23364
-팔레스타인,巴勒斯坦,Palestine,27919,192,18466
+팔레스타인,巴勒斯坦,Palestine,28664,198,18821
 El Salvador,,El Salvador,26602,774,16807
 호주,澳大利亚,Australia,26513,788,23036
 Paraguay,,Paraguay,25026,474,12309
@@ -80,7 +80,7 @@ Ivory Coast,,Ivory Coast,18815,119,17770
 Bulgaria,,Bulgaria,17435,702,12474
 Madagascar,,Madagascar,15624,208,14295
 North Macedonia,,North Macedonia,15293,634,12754
-세네갈,塞内加尔,Senegal,14102,293,10176
+세네갈,塞内加尔,Senegal,14150,293,10207
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13112,300,11839
 크로아티아,克罗地亚,Croatia,12917,208,10142
