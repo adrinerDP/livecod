@@ -960,6 +960,14 @@
         "recovered": 3286
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3437,
+        "deaths": 38,
+        "recovered": 1019
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -982,14 +990,6 @@
         "confirmed": 3351,
         "deaths": 143,
         "recovered": 780
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3323,
-        "deaths": 36,
-        "recovered": 992
     },
     {
         "Name": "슬로베니아",
@@ -1451,9 +1451,9 @@
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "confirmed": 239,
+        "confirmed": 256,
         "deaths": 6,
-        "recovered": 79
+        "recovered": 107
     },
     {
         "Name": "부탄",
@@ -1467,7 +1467,7 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 205,
+        "confirmed": 207,
         "deaths": 1,
         "recovered": 204
     },
@@ -1627,7 +1627,7 @@
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "confirmed": 18,
+        "confirmed": 21,
         "deaths": 0,
         "recovered": 13
     },
