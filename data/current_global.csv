@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6559445,195589,3856749
-인도,印度,India,4494389,75328,3490908
-브라질,巴西,Brazil,4199332,128653,3453336
+미국,美国,United States,6559509,195590,3856749
+인도,印度,India,4547402,76155,3531212
+브라질,巴西,Brazil,4210556,128857,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
 페루,秘鲁,Peru,702776,30236,536959
 콜롬비아,哥伦比亚,Colombia,686856,22053,552885
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
 이스라엘,以色列,Israel,143049,1055,109775
-캐나다,加拿大,Canada,134464,9156,118271
+캐나다,加拿大,Canada,134653,9158,118638
 Bolivia,,Bolivia,123345,7146,77216
 카타르,卡塔尔,Qatar,121052,205,117978
 에콰도르,厄瓜多尔,Ecuador,112166,10701,91242
@@ -64,8 +64,8 @@ Moldova,,Moldova,41704,1106,28962
 아제르바이잔,阿塞拜疆,Azerbaijan,37874,556,35269
 Kenya,,Kenya,35460,607,21557
 세르비아,塞尔维亚,Serbia,32136,729,30943
+체코,捷克,Czechia,31759,447,20724
 오스트리아,奥地利,Austria,31247,748,26043
-체코,捷克,Czechia,31036,444,20374
 아일랜드,冰岛,Ireland,30164,1781,23364
 팔레스타인,巴勒斯坦,Palestine,28664,198,18821
 El Salvador,,El Salvador,26688,774,17106
@@ -74,7 +74,7 @@ Paraguay,,Paraguay,25026,474,12309
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,22544,680,15273
 레바논,黎巴嫩,Lebanon,21877,212,7024
 Libya,,Libya,20939,339,2420
-카메룬,喀麦隆,Cameroon,19848,415,18448
+카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,18924,629,16069
 Ivory Coast,,Ivory Coast,18815,119,17770
 Bulgaria,,Bulgaria,17435,702,12474
@@ -84,7 +84,7 @@ North Macedonia,,North Macedonia,15414,637,12896
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13214,300,11899
 크로아티아,克罗地亚,Croatia,12917,208,10142
-그리스,希腊,Greece,12080,293,3804
+그리스,希腊,Greece,12452,297,3804
 노르웨이,挪威,Norway,11801,265,9348
 Albania,,Albania,10860,324,6346
 DRC,,DRC,10343,262,9533
@@ -100,7 +100,7 @@ Gabon,,Gabon,8621,53,7618
 Haiti,,Haiti,8384,214,5991
 Zimbabwe,,Zimbabwe,7429,222,5542
 Mauritania,,Mauritania,7191,161,6701
-룩셈부르크,卢森堡,Luxembourg,7023,124,6292
+룩셈부르크,卢森堡,Luxembourg,7088,124,6397
 Montenegro,,Montenegro,6094,114,4350
 Malawi,,Malawi,5653,176,3630
 Tunisia,,Tunisia,5417,96,1862
@@ -132,8 +132,8 @@ Mali,,Mali,2898,128,2267
 요르단,约旦,Jordan,2739,20,1981
 Aruba,,Aruba,2730,15,1351
 Bahamas,,Bahamas,2721,63,1183
+Trinidad and Tobago,,Trinidad and Tobago,2663,40,755
 에스토니아,爱沙尼亚,Estonia,2600,64,2223
-Trinidad and Tobago,,Trinidad and Tobago,2588,39,749
 South Sudan,,South Sudan,2555,49,1290
 Réunion,,Réunion,2416,13,1313
 Guadeloupe,,Guadeloupe,2287,23,336
