@@ -968,6 +968,14 @@
         "recovered": 1019
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 3389,
+        "deaths": 135,
+        "recovered": 2620
+    },
+    {
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
@@ -992,14 +1000,6 @@
         "recovered": 780
     },
     {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 3312,
-        "deaths": 135,
-        "recovered": 2587
-    },
-    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
@@ -1021,7 +1021,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3147,
         "deaths": 12,
-        "recovered": 2946
+        "recovered": 2955
     },
     {
         "Name": "Angola",
