@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6549475,
-        "deaths": 195239,
-        "recovered": 3846095
+        "confirmed": 6549771,
+        "deaths": 195245,
+        "recovered": 3846659
     },
     {
         "Name": "인도",
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 203342,
-        "deaths": 8336,
-        "recovered": 145200
+        "confirmed": 207203,
+        "deaths": 8456,
+        "recovered": 147510
     },
     {
         "Name": "Ukraine",
@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 142582,
-        "deaths": 1054,
-        "recovered": 109757
+        "confirmed": 143049,
+        "deaths": 1055,
+        "recovered": 109775
     },
     {
         "Name": "캐나다",
@@ -355,8 +355,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 71947,
-        "deaths": 2147,
+        "confirmed": 72453,
+        "deaths": 2159,
         "recovered": 58069
     },
     {
@@ -520,20 +520,20 @@
         "recovered": 30780
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 31247,
+        "deaths": 748,
+        "recovered": 26043
+    },
+    {
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
         "confirmed": 31036,
         "deaths": 444,
         "recovered": 20374
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 30583,
-        "deaths": 747,
-        "recovered": 25764
     },
     {
         "Name": "아일랜드",
@@ -707,9 +707,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10324,
-        "deaths": 260,
-        "recovered": 9523
+        "confirmed": 10343,
+        "deaths": 262,
+        "recovered": 9533
     },
     {
         "Name": "헝가리",
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8430,
+        "confirmed": 8469,
         "deaths": 337,
         "recovered": 7500
     },
@@ -848,6 +848,14 @@
         "recovered": 5327
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 5066,
+        "deaths": 37,
+        "recovered": 3001
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -867,9 +875,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4902,
+        "confirmed": 4914,
         "deaths": 99,
-        "recovered": 4557
+        "recovered": 4582
     },
     {
         "Name": "Congo",
@@ -878,14 +886,6 @@
         "confirmed": 4891,
         "deaths": 83,
         "recovered": 3887
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 4888,
-        "deaths": 37,
-        "recovered": 2947
     },
     {
         "Name": "Nicaragua",
@@ -1227,9 +1227,9 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1443,
+        "confirmed": 1448,
         "deaths": 35,
-        "recovered": 1234
+        "recovered": 1248
     },
     {
         "Name": "Belize",
