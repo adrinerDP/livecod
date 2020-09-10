@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6562390,
-        "deaths": 195795,
+        "confirmed": 6563484,
+        "deaths": 195652,
         "recovered": 3857443
     },
     {
@@ -419,9 +419,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 51224,
-        "deaths": 543,
-        "recovered": 19544
+        "confirmed": 52549,
+        "deaths": 567,
+        "recovered": 20322
     },
     {
         "Name": "네팔",
@@ -741,7 +741,7 @@
         "Name_en": "French Guiana",
         "confirmed": 9462,
         "deaths": 63,
-        "recovered": 8986
+        "recovered": 9040
     },
     {
         "Name": "Namibia",
@@ -1040,20 +1040,20 @@
         "recovered": 2269
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "confirmed": 2819,
+        "deaths": 16,
+        "recovered": 1407
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
         "confirmed": 2739,
         "deaths": 20,
         "recovered": 1981
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "confirmed": 2730,
-        "deaths": 15,
-        "recovered": 1351
     },
     {
         "Name": "Bahamas",
