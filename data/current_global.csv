@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6573867,195935,3864787
+미국,美国,United States,6576582,196010,3867321
 인도,印度,India,4559725,76304,3539983
 브라질,巴西,Brazil,4210556,128857,3453336
 러시아,俄罗斯,Russia,1046370,18263,862373
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 필리핀,菲律宾,Philippines,248947,4066,186058
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
-이스라엘,以色列,Israel,144673,1075,109915
+이스라엘,以色列,Israel,145526,1077,109942
 캐나다,加拿大,Canada,134653,9158,118638
 Bolivia,,Bolivia,123345,7146,77216
 카타르,卡塔尔,Qatar,121052,205,117978
@@ -149,7 +149,7 @@ Yemen,,Yemen,2003,580,1211
 New Zealand,,New Zealand,1792,24,1648
 Uruguay,,Uruguay,1741,45,1478
 Guyana,,Guyana,1703,48,1045
-토고,多哥,Togo,1528,36,1144
+토고,多哥,Togo,1537,37,1145
 Cyprus,,Cyprus,1517,22,1237
 Burkina Faso,,Burkina Faso,1476,56,1118
 라트비아,约旦,Latvia,1448,35,1248
@@ -159,7 +159,7 @@ Liberia,,Liberia,1315,82,1194
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1164,31,528
 베트남,越南,Vietnam,1059,35,890
-Chad,,Chad,1048,79,931
+Chad,,Chad,1051,79,932
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,898,15,862
 French Polynesia,,French Polynesia,795,0,528
