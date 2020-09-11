@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6589020,196345,3880707
-인도,印度,India,4568770,76348,3544794
+인도,印度,India,4587777,76513,3562791
 브라질,巴西,Brazil,4239763,129575,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
 페루,秘鲁,Peru,710067,30344,544745
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,334762,4668,236024
 터키,土耳其,Turkey,286455,6895,255407
 이탈리아,义大利,Italy,283180,35587,211885
 이라크,伊拉克,Iraq,278418,7814,213817
-독일,德国,Germany,258125,9419,233300
+독일,德国,Germany,258769,9421,233300
 필리핀,菲律宾,Philippines,252964,4108,186606
 인도네시아,印度尼西亚,Indonesia,210940,8544,150217
 Ukraine,,Ukraine,148756,3076,67005
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,80306,2918,68927
 일본,日本,Japan,73221,1406,64835
 폴란드,波兰,Poland,73047,2169,58848
 Honduras,,Honduras,65802,2049,15577
+포르투갈,葡萄牙,Portugal,62813,1855,43644
 Ethiopia,,Ethiopia,62578,974,23640
-포르투갈,葡萄牙,Portugal,62126,1852,43441
 바레인,巴林,Bahrain,58207,208,52284
 Venezuela,,Venezuela,57823,460,46125
 싱가포르,新加坡,Singapore,57316,27,56558
@@ -79,13 +79,13 @@ Libya,,Libya,21908,352,2506
 Ivory Coast,,Ivory Coast,18869,119,17884
 Bulgaria,,Bulgaria,17598,706,12619
 Madagascar,,Madagascar,15669,209,14320
-North Macedonia,,North Macedonia,15414,637,12896
+North Macedonia,,North Macedonia,15555,642,12994
 세네갈,塞内加尔,Senegal,14193,293,10350
 Sudan,,Sudan,13437,833,6730
 Zambia,,Zambia,13214,300,11899
 크로아티아,克罗地亚,Croatia,13107,211,10466
 그리스,希腊,Greece,12452,297,3804
-노르웨이,挪威,Norway,11867,265,10371
+노르웨이,挪威,Norway,11924,265,10371
 헝가리,匈牙利,Hungary,10909,631,4014
 Albania,,Albania,10860,324,6346
 DRC,,DRC,10361,262,9622
@@ -138,7 +138,7 @@ South Sudan,,South Sudan,2555,49,1290
 Réunion,,Réunion,2510,14,1313
 Guadeloupe,,Guadeloupe,2287,23,336
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
-Myanmar,,Myanmar,2265,14,625
+Myanmar,,Myanmar,2256,14,625
 Botswana,,Botswana,2252,10,546
 Malta,,Malta,2247,15,1833
 Benin,,Benin,2242,40,1793
@@ -173,7 +173,7 @@ Papua New Guinea,,Papua New Guinea,507,5,232
 대만,台湾,Taiwan,498,7,475
 Burundi,,Burundi,469,1,374
 Comoros,,Comoros,456,7,415
-Faeroe Islands,,Faeroe Islands,415,0,410
+Faeroe Islands,,Faeroe Islands,416,0,410
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,337,24,312
