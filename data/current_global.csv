@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6588825,196345,3880706
+미국,美国,United States,6589020,196345,3880707
 인도,印度,India,4568770,76348,3544794
 브라질,巴西,Brazil,4239763,129575,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -14,12 +14,12 @@ Argentina,,Argentina,524198,10907,390098
 영국,英国,UK,358138,41608,0
 프랑스,法国,France,353944,30813,88742
 Bangladesh,,Bangladesh,334762,4668,236024
-사우디아라비아,沙特阿拉伯,Saudi Arabia,323720,4189,299998
+사우디아라비아,沙特阿拉伯,Saudi Arabia,324407,4213,300933
 파키스탄,巴基斯坦,Pakistan,300371,6370,288206
 터키,土耳其,Turkey,286455,6895,255407
 이탈리아,义大利,Italy,283180,35587,211885
 이라크,伊拉克,Iraq,278418,7814,213817
-독일,德国,Germany,258107,9419,233300
+독일,德国,Germany,258125,9419,233300
 필리핀,菲律宾,Philippines,252964,4108,186606
 인도네시아,印度尼西亚,Indonesia,210940,8544,150217
 Ukraine,,Ukraine,148756,3076,67005
@@ -33,13 +33,13 @@ Kazakhstan,,Kazakhstan,106661,1634,100409
 루마니아,尼亚,Romania,101075,4100,41010
 이집트,埃及,Egypt,100557,5590,81597
 Panama,,Panama,99715,2127,72203
-쿠웨이트,科威特,Kuwait,92822,556,83040
+쿠웨이트,科威特,Kuwait,93475,557,83660
 벨기에,比利时,Belgium,90568,9917,18659
 오만,阿曼,Oman,88337,762,83325
-스웨덴,瑞典语,Sweden,86194,5843,0
+스웨덴,瑞典语,Sweden,86505,5846,0
 Guatemala,,Guatemala,80306,2918,68927
+네덜란드,荷兰,Netherlands,79781,6252,0
 모로코,摩洛哥,Morocco,79767,1491,61850
-네덜란드,荷兰,Netherlands,78511,6249,0
 아랍에미리트,阿拉伯联合酋长国,UAE,77842,398,68462
 벨라루스,白俄罗斯,Belarus,73591,732,72203
 일본,日本,Japan,73221,1406,64835
@@ -55,13 +55,13 @@ Venezuela,,Venezuela,57823,460,46125
 네팔,尼泊尔,Nepal,51919,322,36672
 알제리,阿尔及利亚,Algeria,47488,1591,33562
 스위스,瑞士,Switzerland,46239,2020,38100
-Uzbekistan,,Uzbekistan,45927,375,42555
+Uzbekistan,,Uzbekistan,46160,377,42857
 아르메니아,亚美尼亚,Armenia,45503,909,41434
 Ghana,,Ghana,45388,285,44267
 Kyrgyzstan,,Kyrgyzstan,44684,1061,40487
 Moldova,,Moldova,41704,1106,28962
 아프가니스탄,阿富汗,Afghanistan,38606,1420,31154
-아제르바이잔,阿塞拜疆,Azerbaijan,37874,556,35269
+아제르바이잔,阿塞拜疆,Azerbaijan,38037,557,35440
 Kenya,,Kenya,35603,612,22047
 체코,捷克,Czechia,32413,448,20787
 세르비아,塞尔维亚,Serbia,32136,729,30943
@@ -142,7 +142,7 @@ Myanmar,,Myanmar,2265,14,625
 Botswana,,Botswana,2252,10,546
 Malta,,Malta,2247,15,1833
 Benin,,Benin,2242,40,1793
-Iceland,,Iceland,2157,10,2072
+Iceland,,Iceland,2161,10,2079
 Sierra Leone,,Sierra Leone,2069,72,1622
 Yemen,,Yemen,2003,580,1211
 조지아,格鲁吉亚,Georgia,1917,19,1354
@@ -188,7 +188,7 @@ Bermuda,,Bermuda,177,9,160
 모나코,摩纳哥,Monaco,165,1,107
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,138,0,136
-Curaçao,,Curaçao,131,1,55
+Curaçao,,Curaçao,135,1,55
 리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,63,1,10
