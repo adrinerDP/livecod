@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6585741,
-        "deaths": 196145,
-        "recovered": 3876168
+        "confirmed": 6587851,
+        "deaths": 196297,
+        "recovered": 3877887
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 134785,
+        "confirmed": 134924,
         "deaths": 9163,
-        "recovered": 118900
+        "recovered": 118990
     },
     {
         "Name": "Bolivia",
@@ -571,9 +571,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 25026,
-        "deaths": 474,
-        "recovered": 12309
+        "confirmed": 25631,
+        "deaths": 485,
+        "recovered": 12729
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1653,7 +1653,7 @@
         "Name_en": "Montserrat",
         "confirmed": 13,
         "deaths": 1,
-        "recovered": 12
+        "recovered": 11
     },
     {
         "Name": "Falkland Islands",

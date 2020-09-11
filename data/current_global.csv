@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6585741,196145,3876168
+미국,美国,United States,6587851,196297,3877887
 인도,印度,India,4559725,76304,3539983
 브라질,巴西,Brazil,4239763,129575,3497337
 러시아,俄罗斯,Russia,1046370,18263,862373
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,332970,4634,233550
 인도네시아,印度尼西亚,Indonesia,207203,8456,147510
 Ukraine,,Ukraine,145612,3023,65877
 이스라엘,以色列,Israel,145526,1077,109942
-캐나다,加拿大,Canada,134785,9163,118900
+캐나다,加拿大,Canada,134924,9163,118990
 Bolivia,,Bolivia,123345,7146,77216
 카타르,卡塔尔,Qatar,121052,205,117978
 에콰도르,厄瓜多尔,Ecuador,113206,10749,91242
@@ -70,7 +70,7 @@ Kenya,,Kenya,35603,612,22047
 팔레스타인,巴勒斯坦,Palestine,28664,198,18821
 El Salvador,,El Salvador,26688,774,17106
 호주,澳大利亚,Australia,26513,788,23036
-Paraguay,,Paraguay,25026,474,12309
+Paraguay,,Paraguay,25631,485,12729
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,22544,680,15273
 레바논,黎巴嫩,Lebanon,22437,219,7312
 Libya,,Libya,20939,339,2420
@@ -205,7 +205,7 @@ Laos,,Laos,22,0,21
 St. Barth,,St. Barth,21,0,13
 Saint Kitts and Nevis,,Saint Kitts and Nevis,17,0,17
 Greenland,,Greenland,14,0,14
-Montserrat,,Montserrat,13,1,12
+Montserrat,,Montserrat,13,1,11
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12
 Western Sahara,,Western Sahara,10,1,8
