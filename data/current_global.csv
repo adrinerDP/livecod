@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6627728,197223,3893297
+미국,美国,United States,6630863,197248,3893437
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4282164,130396,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -29,7 +29,7 @@ Bolivia,,Bolivia,124205,7193,79483
 카타르,卡塔尔,Qatar,121287,205,118199
 에콰도르,厄瓜多尔,Ecuador,113206,10749,91242
 Kazakhstan,,Kazakhstan,106661,1634,100409
-도미니카 공화국,多明尼加共和国,Dominican Republic,101716,1926,75034
+도미니카 공화국,多明尼加共和国,Dominican Republic,102232,1941,75747
 루마니아,尼亚,Romania,101075,4100,41010
 이집트,埃及,Egypt,100557,5590,81597
 Panama,,Panama,99715,2127,72203
@@ -77,7 +77,7 @@ Libya,,Libya,21908,352,2506
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19216,629,16139
 Ivory Coast,,Ivory Coast,18916,119,17960
-Bulgaria,,Bulgaria,17598,706,12619
+Bulgaria,,Bulgaria,17799,713,12750
 Madagascar,,Madagascar,15669,209,14320
 North Macedonia,,North Macedonia,15555,642,12994
 세네갈,塞内加尔,Senegal,14193,293,10350
@@ -128,6 +128,7 @@ Gambia,,Gambia,3362,100,1582
 Angola,,Angola,3279,131,1288
 Lithuania,,Lithuania,3243,86,2049
 스리랑카,斯里兰卡,Sri Lanka,3162,12,2969
+Guadeloupe,,Guadeloupe,3080,24,837
 요르단,约旦,Jordan,2945,21,2084
 Mali,,Mali,2912,128,2271
 Aruba,,Aruba,2819,16,1407
@@ -137,7 +138,6 @@ Trinidad and Tobago,,Trinidad and Tobago,2777,45,762
 Réunion,,Réunion,2623,14,1313
 South Sudan,,South Sudan,2568,49,1290
 Myanmar,,Myanmar,2422,14,625
-Guadeloupe,,Guadeloupe,2287,23,336
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Botswana,,Botswana,2252,10,546
 Malta,,Malta,2247,15,1833
@@ -183,7 +183,7 @@ Mongolia,,Mongolia,311,0,298
 Saint Martin,,Saint Martin,256,6,107
 부탄,不丹,Bhutan,238,0,155
 Cayman Islands,,Cayman Islands,208,1,204
-Barbados,,Barbados,180,7,157
+Barbados,,Barbados,180,7,158
 Bermuda,,Bermuda,177,9,160
 모나코,摩纳哥,Monaco,168,1,123
 Brunei,,Brunei,145,3,139

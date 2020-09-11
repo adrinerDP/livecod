@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6627728,
-        "deaths": 197223,
-        "recovered": 3893297
+        "confirmed": 6630863,
+        "deaths": 197248,
+        "recovered": 3893437
     },
     {
         "Name": "인도",
@@ -243,9 +243,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 101716,
-        "deaths": 1926,
-        "recovered": 75034
+        "confirmed": 102232,
+        "deaths": 1941,
+        "recovered": 75747
     },
     {
         "Name": "루마니아",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 17598,
-        "deaths": 706,
-        "recovered": 12619
+        "confirmed": 17799,
+        "deaths": 713,
+        "recovered": 12750
     },
     {
         "Name": "Madagascar",
@@ -1032,6 +1032,14 @@
         "recovered": 2969
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 3080,
+        "deaths": 24,
+        "recovered": 837
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
@@ -1102,14 +1110,6 @@
         "confirmed": 2422,
         "deaths": 14,
         "recovered": 625
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 2287,
-        "deaths": 23,
-        "recovered": 336
     },
     {
         "Name": "Guinea-Bissau",
@@ -1477,7 +1477,7 @@
         "Name_en": "Barbados",
         "confirmed": 180,
         "deaths": 7,
-        "recovered": 157
+        "recovered": 158
     },
     {
         "Name": "Bermuda",
