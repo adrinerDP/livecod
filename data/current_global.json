@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6599038,
-        "deaths": 196520,
+        "confirmed": 6606679,
+        "deaths": 196747,
         "recovered": 3883499
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4646069,
-        "deaths": 77356,
-        "recovered": 3613040
+        "confirmed": 4653302,
+        "deaths": 77461,
+        "recovered": 3616208
     },
     {
         "Name": "브라질",
@@ -67,8 +67,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 554143,
-        "deaths": 29699,
+        "confirmed": 566326,
+        "deaths": 29747,
         "recovered": 0
     },
     {
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 286455,
-        "deaths": 6895,
-        "recovered": 255407
+        "confirmed": 288126,
+        "deaths": 6951,
+        "recovered": 256524
     },
     {
         "Name": "이탈리아",
@@ -1048,6 +1048,14 @@
         "recovered": 1407
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 2814,
+        "deaths": 65,
+        "recovered": 1220
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1062,14 +1070,6 @@
         "confirmed": 2739,
         "deaths": 20,
         "recovered": 1981
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 2721,
-        "deaths": 63,
-        "recovered": 1183
     },
     {
         "Name": "에스토니아",
@@ -1163,8 +1163,8 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2003,
-        "deaths": 580,
+        "confirmed": 2007,
+        "deaths": 582,
         "recovered": 1211
     },
     {
