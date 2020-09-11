@@ -237,7 +237,7 @@
         "Name_en": "Kazakhstan",
         "confirmed": 106661,
         "deaths": 1634,
-        "recovered": 100248
+        "recovered": 100409
     },
     {
         "Name": "도미니카 공화국",
@@ -1435,7 +1435,7 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 310,
+        "confirmed": 311,
         "deaths": 0,
         "recovered": 298
     },
