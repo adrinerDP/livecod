@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 524198,
-        "deaths": 10907,
-        "recovered": 390098
+        "deaths": 10994,
+        "recovered": 400121
     },
     {
         "Name": "칠레",
@@ -339,9 +339,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 73591,
-        "deaths": 732,
-        "recovered": 72203
+        "confirmed": 73784,
+        "deaths": 738,
+        "recovered": 72369
     },
     {
         "Name": "일본",
@@ -523,9 +523,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32136,
-        "deaths": 729,
-        "recovered": 30943
+        "confirmed": 32228,
+        "deaths": 730,
+        "recovered": 31100
     },
     {
         "Name": "오스트리아",
