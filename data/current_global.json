@@ -184,20 +184,20 @@
         "recovered": 147510
     },
     {
+        "Name": "이스라엘",
+        "Name_ch": "以色列",
+        "Name_en": "Israel",
+        "confirmed": 146542,
+        "deaths": 1077,
+        "recovered": 111539
+    },
+    {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
         "confirmed": 145612,
         "deaths": 3023,
         "recovered": 65877
-    },
-    {
-        "Name": "이스라엘",
-        "Name_ch": "以色列",
-        "Name_en": "Israel",
-        "confirmed": 145526,
-        "deaths": 1077,
-        "recovered": 109942
     },
     {
         "Name": "캐나다",
@@ -440,20 +440,20 @@
         "recovered": 33562
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "confirmed": 45927,
+        "deaths": 375,
+        "recovered": 42555
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 45711,
         "deaths": 2020,
         "recovered": 38100
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "confirmed": 45679,
-        "deaths": 373,
-        "recovered": 42555
     },
     {
         "Name": "아르메니아",
