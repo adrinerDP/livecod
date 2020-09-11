@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6607415,196762,3883741
+미국,美国,United States,6608623,196810,3884654
 인도,印度,India,4653302,77461,3616208
 브라질,巴西,Brazil,4251455,129865,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -11,8 +11,8 @@
 Argentina,,Argentina,524198,10994,400121
 칠레,智利,Chile,430535,11850,403064
 이란,伊朗,Iran,397801,22913,342539
+프랑스,法国,France,363350,30893,89059
 영국,英国,UK,361677,41614,0
-프랑스,法国,France,353944,30813,88742
 Bangladesh,,Bangladesh,334762,4668,236024
 사우디아라비아,沙特阿拉伯,Saudi Arabia,324407,4213,300933
 파키스탄,巴基斯坦,Pakistan,300371,6370,288206
@@ -66,7 +66,7 @@ Kenya,,Kenya,35793,616,22442
 체코,捷克,Czechia,33322,450,21140
 세르비아,塞尔维亚,Serbia,32228,730,31100
 오스트리아,奥地利,Austria,31827,750,26257
-아일랜드,冰岛,Ireland,30360,1781,23364
+아일랜드,冰岛,Ireland,30571,1781,23364
 팔레스타인,巴勒斯坦,Palestine,29256,204,19788
 El Salvador,,El Salvador,26773,777,17433
 호주,澳大利亚,Australia,26565,797,23217
@@ -101,16 +101,16 @@ Haiti,,Haiti,8429,215,5991
 Zimbabwe,,Zimbabwe,7453,222,5635
 Mauritania,,Mauritania,7222,161,6758
 룩셈부르크,卢森堡,Luxembourg,7159,124,6397
+Tunisia,,Tunisia,6259,103,1956
 Montenegro,,Montenegro,6222,114,4393
-Tunisia,,Tunisia,5882,99,1862
 Malawi,,Malawi,5655,176,3683
 Djibouti,,Djibouti,5394,61,5327
 슬로바키아,斯洛伐克,Slovakia,5252,37,3081
 Eswatini,,Eswatini,4994,98,4103
 Equatorial Guinea,,Equatorial Guinea,4990,83,4479
 홍콩,香港,Hong Kong,4926,99,4597
+Mozambique,,Mozambique,4918,31,2899
 Congo,,Congo,4891,83,3887
-Mozambique,,Mozambique,4832,31,2857
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4747,62,1825
 Cuba,,Cuba,4593,106,3844
