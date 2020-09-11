@@ -2218,5 +2218,15 @@
         "recovered_delta": 337,
         "deaths": 346,
         "deaths_delta": 2
+    },
+    {
+        "date": "9/10",
+        "quarantine": 3953,
+        "confirmed": 21919,
+        "confirmed_delta": 176,
+        "recovered": 17616,
+        "recovered_delta": 256,
+        "deaths": 350,
+        "deaths_delta": 4
     }
 ]
