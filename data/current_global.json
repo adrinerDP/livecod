@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6612515,
-        "deaths": 196856,
-        "recovered": 3886185
+        "confirmed": 6619139,
+        "deaths": 196970,
+        "recovered": 3887636
     },
     {
         "Name": "인도",
@@ -163,7 +163,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 259529,
+        "confirmed": 259720,
         "deaths": 9423,
         "recovered": 233300
     },
@@ -419,9 +419,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 52549,
-        "deaths": 567,
-        "recovered": 20322
+        "confirmed": 53969,
+        "deaths": 583,
+        "recovered": 20710
     },
     {
         "Name": "네팔",
@@ -619,9 +619,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 18869,
+        "confirmed": 18916,
         "deaths": 119,
-        "recovered": 17884
+        "recovered": 17960
     },
     {
         "Name": "Bulgaria",
@@ -1032,6 +1032,14 @@
         "recovered": 2969
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 2945,
+        "deaths": 21,
+        "recovered": 2084
+    },
+    {
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
@@ -1062,14 +1070,6 @@
         "confirmed": 2777,
         "deaths": 45,
         "recovered": 762
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 2739,
-        "deaths": 20,
-        "recovered": 1981
     },
     {
         "Name": "에스토니아",
