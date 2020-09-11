@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 121052,
+        "confirmed": 121287,
         "deaths": 205,
-        "recovered": 117978
+        "recovered": 118199
     },
     {
         "Name": "에콰도르",
@@ -427,9 +427,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 50465,
-        "deaths": 317,
-        "recovered": 35700
+        "confirmed": 51919,
+        "deaths": 322,
+        "recovered": 36672
     },
     {
         "Name": "알제리",
@@ -1275,9 +1275,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1059,
+        "confirmed": 1060,
         "deaths": 35,
-        "recovered": 893
+        "recovered": 902
     },
     {
         "Name": "Chad",
