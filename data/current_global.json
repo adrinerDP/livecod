@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6610026,
-        "deaths": 196816,
-        "recovered": 3885709
+        "confirmed": 6612515,
+        "deaths": 196856,
+        "recovered": 3886185
     },
     {
         "Name": "인도",
@@ -304,6 +304,14 @@
         "recovered": 0
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 82197,
+        "deaths": 1524,
+        "recovered": 64194
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
@@ -318,14 +326,6 @@
         "confirmed": 79781,
         "deaths": 6252,
         "recovered": 0
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 79767,
-        "deaths": 1491,
-        "recovered": 61850
     },
     {
         "Name": "아랍에미리트",
@@ -835,9 +835,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5655,
-        "deaths": 176,
-        "recovered": 3683
+        "confirmed": 5669,
+        "deaths": 177,
+        "recovered": 3720
     },
     {
         "Name": "Djibouti",
@@ -859,9 +859,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 4994,
+        "confirmed": 5025,
         "deaths": 98,
-        "recovered": 4103
+        "recovered": 4165
     },
     {
         "Name": "Equatorial Guinea",
@@ -870,6 +870,14 @@
         "confirmed": 4990,
         "deaths": 83,
         "recovered": 4479
+    },
+    {
+        "Name": "Congo",
+        "Name_ch": "",
+        "Name_en": "Congo",
+        "confirmed": 4928,
+        "deaths": 88,
+        "recovered": 3887
     },
     {
         "Name": "홍콩",
@@ -886,14 +894,6 @@
         "confirmed": 4918,
         "deaths": 31,
         "recovered": 2899
-    },
-    {
-        "Name": "Congo",
-        "Name_ch": "",
-        "Name_en": "Congo",
-        "confirmed": 4891,
-        "deaths": 83,
-        "recovered": 3887
     },
     {
         "Name": "Nicaragua",
@@ -1272,20 +1272,20 @@
         "recovered": 528
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "confirmed": 1081,
+        "deaths": 79,
+        "recovered": 934
+    },
+    {
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
         "confirmed": 1060,
         "deaths": 35,
         "recovered": 902
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "confirmed": 1051,
-        "deaths": 79,
-        "recovered": 932
     },
     {
         "Name": "Martinique",

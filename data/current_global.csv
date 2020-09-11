@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6610026,196816,3885709
+미국,美国,United States,6612515,196856,3886185
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4251455,129865,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -37,9 +37,9 @@ Panama,,Panama,99715,2127,72203
 벨기에,比利时,Belgium,90568,9917,18659
 오만,阿曼,Oman,88337,762,83325
 스웨덴,瑞典语,Sweden,86505,5846,0
+모로코,摩洛哥,Morocco,82197,1524,64194
 Guatemala,,Guatemala,81009,2929,69703
 네덜란드,荷兰,Netherlands,79781,6252,0
-모로코,摩洛哥,Morocco,79767,1491,61850
 아랍에미리트,阿拉伯联合酋长国,UAE,77842,398,68462
 벨라루스,白俄罗斯,Belarus,73784,738,72369
 일본,日本,Japan,73221,1406,64835
@@ -103,14 +103,14 @@ Mauritania,,Mauritania,7222,161,6758
 룩셈부르크,卢森堡,Luxembourg,7159,124,6397
 Tunisia,,Tunisia,6259,103,1956
 Montenegro,,Montenegro,6222,114,4393
-Malawi,,Malawi,5655,176,3683
+Malawi,,Malawi,5669,177,3720
 Djibouti,,Djibouti,5394,61,5327
 슬로바키아,斯洛伐克,Slovakia,5252,37,3081
-Eswatini,,Eswatini,4994,98,4103
+Eswatini,,Eswatini,5025,98,4165
 Equatorial Guinea,,Equatorial Guinea,4990,83,4479
+Congo,,Congo,4928,88,3887
 홍콩,香港,Hong Kong,4926,99,4597
 Mozambique,,Mozambique,4918,31,2899
-Congo,,Congo,4891,83,3887
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4747,62,1825
 Cuba,,Cuba,4593,106,3844
@@ -158,8 +158,8 @@ Belize,,Belize,1399,19,360
 Liberia,,Liberia,1315,82,1199
 Niger,,Niger,1178,69,1099
 Lesotho,,Lesotho,1164,31,528
+Chad,,Chad,1081,79,934
 베트남,越南,Vietnam,1060,35,902
-Chad,,Chad,1051,79,932
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,901,15,866
 French Polynesia,,French Polynesia,857,0,576
