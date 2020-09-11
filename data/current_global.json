@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6589020,
-        "deaths": 196345,
-        "recovered": 3880707
+        "confirmed": 6593195,
+        "deaths": 196376,
+        "recovered": 3882232
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4592533,
-        "deaths": 76546,
-        "recovered": 3565949
+        "confirmed": 4601997,
+        "deaths": 76676,
+        "recovered": 3578494
     },
     {
         "Name": "브라질",
@@ -195,9 +195,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 147379,
-        "deaths": 1086,
-        "recovered": 111556
+        "confirmed": 148564,
+        "deaths": 1090,
+        "recovered": 111728
     },
     {
         "Name": "캐나다",
@@ -485,7 +485,7 @@
         "Name_en": "Moldova",
         "confirmed": 41704,
         "deaths": 1106,
-        "recovered": 28962
+        "recovered": 30437
     },
     {
         "Name": "아프가니스탄",
@@ -667,8 +667,8 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 13214,
-        "deaths": 300,
+        "confirmed": 13323,
+        "deaths": 306,
         "recovered": 11899
     },
     {
@@ -1048,6 +1048,14 @@
         "recovered": 1407
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2777,
+        "deaths": 45,
+        "recovered": 762
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
@@ -1062,14 +1070,6 @@
         "confirmed": 2721,
         "deaths": 63,
         "recovered": 1183
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2698,
-        "deaths": 43,
-        "recovered": 755
     },
     {
         "Name": "에스토니아",
