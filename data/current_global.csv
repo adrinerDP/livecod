@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6619139,196970,3887636
+미국,美国,United States,6621321,196996,3887908
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4251455,129865,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
 페루,秘鲁,Peru,710067,30344,544745
 콜롬비아,哥伦比亚,Colombia,694664,22275,569479
 멕시코,墨西哥,Mexico,652364,69649,458850
-남아프리카 공화국,南非共和国,South Africa,644438,15265,573003
+남아프리카 공화국,南非共和国,South Africa,646398,15378,574587
 스페인,西班牙,Spain,576697,29747,0
 Argentina,,Argentina,524198,10994,400121
 칠레,智利,Chile,430535,11850,403064
@@ -113,9 +113,9 @@ Congo,,Congo,4928,88,3887
 Mozambique,,Mozambique,4918,31,2899
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4747,62,1825
+Cabo Verde,,Cabo Verde,4651,44,4076
 Cuba,,Cuba,4593,106,3844
-Cabo Verde,,Cabo Verde,4557,43,3993
-Rwanda,,Rwanda,4479,22,2352
+Rwanda,,Rwanda,4534,22,2450
 Suriname,,Suriname,4477,93,3706
 Uganda,,Uganda,4377,49,1998
 Jamaica,,Jamaica,3511,40,1019
@@ -125,8 +125,8 @@ Syria,,Syria,3416,147,797
 Somalia,,Somalia,3376,98,2791
 Mayotte,,Mayotte,3374,40,2964
 Gambia,,Gambia,3362,100,1582
+Angola,,Angola,3279,131,1288
 Lithuania,,Lithuania,3243,86,2049
-Angola,,Angola,3217,130,1277
 스리랑카,斯里兰卡,Sri Lanka,3162,12,2969
 요르단,约旦,Jordan,2945,21,2084
 Mali,,Mali,2912,128,2271
@@ -135,7 +135,7 @@ Bahamas,,Bahamas,2814,65,1220
 Trinidad and Tobago,,Trinidad and Tobago,2777,45,762
 에스토니아,爱沙尼亚,Estonia,2632,64,2233
 Réunion,,Réunion,2623,14,1313
-South Sudan,,South Sudan,2555,49,1290
+South Sudan,,South Sudan,2568,49,1290
 Myanmar,,Myanmar,2422,14,625
 Guadeloupe,,Guadeloupe,2287,23,336
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
@@ -161,7 +161,7 @@ Lesotho,,Lesotho,1164,31,528
 Chad,,Chad,1081,79,934
 베트남,越南,Vietnam,1060,35,902
 Martinique,,Martinique,939,18,98
-Sao Tome and Principe,,Sao Tome and Principe,901,15,866
+Sao Tome and Principe,,Sao Tome and Principe,906,15,866
 French Polynesia,,French Polynesia,857,0,576
 산마리노,圣马力诺,San Marino,722,42,662
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651

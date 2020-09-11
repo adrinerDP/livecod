@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6619139,
-        "deaths": 196970,
-        "recovered": 3887636
+        "confirmed": 6621321,
+        "deaths": 196996,
+        "recovered": 3887908
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 644438,
-        "deaths": 15265,
-        "recovered": 573003
+        "confirmed": 646398,
+        "deaths": 15378,
+        "recovered": 574587
     },
     {
         "Name": "스페인",
@@ -912,6 +912,14 @@
         "recovered": 1825
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4651,
+        "deaths": 44,
+        "recovered": 4076
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -920,20 +928,12 @@
         "recovered": 3844
     },
     {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4557,
-        "deaths": 43,
-        "recovered": 3993
-    },
-    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4479,
+        "confirmed": 4534,
         "deaths": 22,
-        "recovered": 2352
+        "recovered": 2450
     },
     {
         "Name": "Suriname",
@@ -1008,20 +1008,20 @@
         "recovered": 1582
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 3279,
+        "deaths": 131,
+        "recovered": 1288
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 3243,
         "deaths": 86,
         "recovered": 2049
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 3217,
-        "deaths": 130,
-        "recovered": 1277
     },
     {
         "Name": "스리랑카",
@@ -1091,7 +1091,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2555,
+        "confirmed": 2568,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1299,7 +1299,7 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 901,
+        "confirmed": 906,
         "deaths": 15,
         "recovered": 866
     },
