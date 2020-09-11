@@ -440,20 +440,20 @@
         "recovered": 33562
     },
     {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+        "confirmed": 46239,
+        "deaths": 2020,
+        "recovered": 38100
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "confirmed": 45927,
         "deaths": 375,
         "recovered": 42555
-    },
-    {
-        "Name": "스위스",
-        "Name_ch": "瑞士",
-        "Name_en": "Switzerland",
-        "confirmed": 45711,
-        "deaths": 2020,
-        "recovered": 38100
     },
     {
         "Name": "아르메니아",
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14150,
+        "confirmed": 14193,
         "deaths": 293,
-        "recovered": 10207
+        "recovered": 10350
     },
     {
         "Name": "Sudan",
@@ -715,9 +715,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10343,
+        "confirmed": 10361,
         "deaths": 262,
-        "recovered": 9533
+        "recovered": 9622
     },
     {
         "Name": "Guinea",
@@ -1128,20 +1128,20 @@
         "recovered": 546
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2247,
+        "deaths": 15,
+        "recovered": 1833
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
         "confirmed": 2242,
         "deaths": 40,
         "recovered": 1793
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 2204,
-        "deaths": 14,
-        "recovered": 1803
     },
     {
         "Name": "Iceland",
@@ -1429,7 +1429,7 @@
         "Name_en": "Gibraltar",
         "confirmed": 323,
         "deaths": 0,
-        "recovered": 287
+        "recovered": 289
     },
     {
         "Name": "Mongolia",
