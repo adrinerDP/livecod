@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8469,
+        "confirmed": 8512,
         "deaths": 337,
         "recovered": 7500
     },
@@ -875,9 +875,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4914,
+        "confirmed": 4926,
         "deaths": 99,
-        "recovered": 4582
+        "recovered": 4597
     },
     {
         "Name": "Congo",
