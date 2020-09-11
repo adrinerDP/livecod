@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6625768,
-        "deaths": 197206,
-        "recovered": 3892271
+        "confirmed": 6627728,
+        "deaths": 197223,
+        "recovered": 3893297
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4251455,
-        "deaths": 129865,
+        "confirmed": 4282164,
+        "deaths": 130396,
         "recovered": 3497337
     },
     {
@@ -387,9 +387,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 58207,
+        "confirmed": 58839,
         "deaths": 208,
-        "recovered": 52284
+        "recovered": 52776
     },
     {
         "Name": "Venezuela",
@@ -968,20 +968,20 @@
         "recovered": 2662
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 3476,
+        "deaths": 150,
+        "recovered": 812
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
         "confirmed": 3461,
         "deaths": 58,
         "recovered": 3312
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 3416,
-        "deaths": 147,
-        "recovered": 797
     },
     {
         "Name": "Somalia",
@@ -1491,9 +1491,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 165,
+        "confirmed": 168,
         "deaths": 1,
-        "recovered": 107
+        "recovered": 123
     },
     {
         "Name": "Brunei",
@@ -1539,9 +1539,9 @@
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
-        "confirmed": 63,
+        "confirmed": 64,
         "deaths": 1,
-        "recovered": 10
+        "recovered": 30
     },
     {
         "Name": "St. Vincent Grenadines",
