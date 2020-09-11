@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6588448,
-        "deaths": 196332,
-        "recovered": 3880688
+        "confirmed": 6588825,
+        "deaths": 196345,
+        "recovered": 3880706
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4566726,
-        "deaths": 76336,
-        "recovered": 3542663
+        "confirmed": 4568770,
+        "deaths": 76348,
+        "recovered": 3544794
     },
     {
         "Name": "브라질",
@@ -467,9 +467,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 45313,
-        "deaths": 283,
-        "recovered": 44188
+        "confirmed": 45388,
+        "deaths": 285,
+        "recovered": 44267
     },
     {
         "Name": "Kyrgyzstan",
@@ -547,9 +547,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 28664,
-        "deaths": 198,
-        "recovered": 18821
+        "confirmed": 29256,
+        "deaths": 204,
+        "recovered": 19788
     },
     {
         "Name": "El Salvador",
@@ -611,9 +611,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 18924,
+        "confirmed": 19216,
         "deaths": 629,
-        "recovered": 16069
+        "recovered": 16139
     },
     {
         "Name": "Ivory Coast",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15624,
-        "deaths": 208,
-        "recovered": 14295
+        "confirmed": 15669,
+        "deaths": 209,
+        "recovered": 14320
     },
     {
         "Name": "North Macedonia",
@@ -1003,9 +1003,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3330,
+        "confirmed": 3362,
         "deaths": 100,
-        "recovered": 1460
+        "recovered": 1582
     },
     {
         "Name": "Lithuania",

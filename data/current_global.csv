@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6588448,196332,3880688
-인도,印度,India,4566726,76336,3542663
+미국,美国,United States,6588825,196345,3880706
+인도,印度,India,4568770,76348,3544794
 브라질,巴西,Brazil,4239763,129575,3497337
 러시아,俄罗斯,Russia,1051874,18365,868107
 페루,秘鲁,Peru,710067,30344,544745
@@ -57,7 +57,7 @@ Venezuela,,Venezuela,57823,460,46125
 스위스,瑞士,Switzerland,46239,2020,38100
 Uzbekistan,,Uzbekistan,45927,375,42555
 아르메니아,亚美尼亚,Armenia,45503,909,41434
-Ghana,,Ghana,45313,283,44188
+Ghana,,Ghana,45388,285,44267
 Kyrgyzstan,,Kyrgyzstan,44684,1061,40487
 Moldova,,Moldova,41704,1106,28962
 아프가니스탄,阿富汗,Afghanistan,38606,1420,31154
@@ -67,7 +67,7 @@ Kenya,,Kenya,35603,612,22047
 세르비아,塞尔维亚,Serbia,32136,729,30943
 오스트리아,奥地利,Austria,31827,750,26257
 아일랜드,冰岛,Ireland,30360,1781,23364
-팔레스타인,巴勒斯坦,Palestine,28664,198,18821
+팔레스타인,巴勒斯坦,Palestine,29256,204,19788
 El Salvador,,El Salvador,26773,777,17433
 호주,澳大利亚,Australia,26565,797,23217
 Paraguay,,Paraguay,25631,485,12729
@@ -75,10 +75,10 @@ Paraguay,,Paraguay,25631,485,12729
 레바논,黎巴嫩,Lebanon,22437,219,7312
 Libya,,Libya,20939,339,2420
 카메룬,喀麦隆,Cameroon,20009,415,18837
-덴마크,丹麦,Denmark,18924,629,16069
+덴마크,丹麦,Denmark,19216,629,16139
 Ivory Coast,,Ivory Coast,18869,119,17884
 Bulgaria,,Bulgaria,17598,706,12619
-Madagascar,,Madagascar,15624,208,14295
+Madagascar,,Madagascar,15669,209,14320
 North Macedonia,,North Macedonia,15414,637,12896
 세네갈,塞内加尔,Senegal,14193,293,10350
 Sudan,,Sudan,13437,833,6730
@@ -124,7 +124,7 @@ Jamaica,,Jamaica,3511,40,1019
 Syria,,Syria,3416,147,797
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3371,97,2738
-Gambia,,Gambia,3330,100,1460
+Gambia,,Gambia,3362,100,1582
 Lithuania,,Lithuania,3243,86,2049
 Angola,,Angola,3217,130,1277
 스리랑카,斯里兰卡,Sri Lanka,3155,12,2955
