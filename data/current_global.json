@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6596819,
-        "deaths": 196454,
-        "recovered": 3882295
+        "confirmed": 6598228,
+        "deaths": 196479,
+        "recovered": 3883479
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4239763,
-        "deaths": 129575,
+        "confirmed": 4251455,
+        "deaths": 129865,
         "recovered": 3497337
     },
     {
@@ -435,9 +435,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 47488,
-        "deaths": 1591,
-        "recovered": 33562
+        "confirmed": 47752,
+        "deaths": 1599,
+        "recovered": 33723
     },
     {
         "Name": "스위스",
@@ -507,17 +507,17 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 35603,
-        "deaths": 612,
-        "recovered": 22047
+        "confirmed": 35793,
+        "deaths": 616,
+        "recovered": 22442
     },
     {
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 32413,
-        "deaths": 448,
-        "recovered": 20787
+        "confirmed": 33322,
+        "deaths": 450,
+        "recovered": 21140
     },
     {
         "Name": "세르비아",
