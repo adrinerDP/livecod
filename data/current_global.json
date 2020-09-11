@@ -184,20 +184,20 @@
         "recovered": 147510
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "confirmed": 148756,
+        "deaths": 3076,
+        "recovered": 67005
+    },
+    {
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
         "confirmed": 146542,
         "deaths": 1077,
         "recovered": 111539
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "confirmed": 145612,
-        "deaths": 3023,
-        "recovered": 65877
     },
     {
         "Name": "캐나다",
@@ -563,9 +563,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26564,
+        "confirmed": 26565,
         "deaths": 797,
-        "recovered": 23216
+        "recovered": 23217
     },
     {
         "Name": "Paraguay",
