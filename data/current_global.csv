@@ -1,8 +1,8 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6588181,196331,3880153
-인도,印度,India,4562414,76304,3542663
+인도,印度,India,4566726,76336,3542663
 브라질,巴西,Brazil,4239763,129575,3497337
-러시아,俄罗斯,Russia,1046370,18263,862373
+러시아,俄罗斯,Russia,1051874,18365,868107
 페루,秘鲁,Peru,710067,30344,544745
 콜롬비아,哥伦比亚,Colombia,694664,22275,569479
 멕시코,墨西哥,Mexico,652364,69649,458850
@@ -47,7 +47,7 @@ Guatemala,,Guatemala,80306,2918,68927
 Honduras,,Honduras,65802,2049,15577
 Ethiopia,,Ethiopia,62578,974,23640
 포르투갈,葡萄牙,Portugal,62126,1852,43441
-바레인,巴林,Bahrain,58207,207,52284
+바레인,巴林,Bahrain,58207,208,52284
 Venezuela,,Venezuela,57823,460,46125
 싱가포르,新加坡,Singapore,57229,27,56558
 나이지리아,尼日利亚,Nigeria,55829,1075,43810
@@ -125,15 +125,15 @@ Syria,,Syria,3416,147,797
 Mayotte,,Mayotte,3374,40,2964
 Somalia,,Somalia,3371,97,2738
 Gambia,,Gambia,3330,100,1460
+Lithuania,,Lithuania,3243,86,2049
 Angola,,Angola,3217,130,1277
-Lithuania,,Lithuania,3199,86,2030
 스리랑카,斯里兰卡,Sri Lanka,3155,12,2955
 Mali,,Mali,2909,128,2269
 Aruba,,Aruba,2819,16,1407
 요르단,约旦,Jordan,2739,20,1981
 Bahamas,,Bahamas,2721,63,1183
 Trinidad and Tobago,,Trinidad and Tobago,2698,43,755
-에스토니아,爱沙尼亚,Estonia,2600,64,2223
+에스토니아,爱沙尼亚,Estonia,2632,64,2233
 South Sudan,,South Sudan,2555,49,1290
 Réunion,,Réunion,2510,14,1313
 Guadeloupe,,Guadeloupe,2287,23,336
