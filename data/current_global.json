@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 6588181,
         "deaths": 196331,
-        "recovered": 3879960
+        "recovered": 3880153
     },
     {
         "Name": "인도",
@@ -1092,7 +1092,7 @@
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 2510,
-        "deaths": 13,
+        "deaths": 14,
         "recovered": 1313
     },
     {
@@ -1110,6 +1110,14 @@
         "confirmed": 2275,
         "deaths": 39,
         "recovered": 1127
+    },
+    {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 2265,
+        "deaths": 14,
+        "recovered": 625
     },
     {
         "Name": "Botswana",
@@ -1144,14 +1152,6 @@
         "recovered": 2072
     },
     {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 2150,
-        "deaths": 14,
-        "recovered": 625
-    },
-    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1171,9 +1171,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 1830,
+        "confirmed": 1917,
         "deaths": 19,
-        "recovered": 1334
+        "recovered": 1354
     },
     {
         "Name": "New Zealand",
