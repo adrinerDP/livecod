@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 6588163,
         "deaths": 196328,
-        "recovered": 3879733
+        "recovered": 3879960
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 647507,
-        "deaths": 69095,
-        "recovered": 454982
+        "confirmed": 652364,
+        "deaths": 69649,
+        "recovered": 458850
     },
     {
         "Name": "남아프리카 공화국",
@@ -563,9 +563,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26513,
-        "deaths": 788,
-        "recovered": 23036
+        "confirmed": 26564,
+        "deaths": 797,
+        "recovered": 23039
     },
     {
         "Name": "Paraguay",
@@ -952,20 +952,20 @@
         "recovered": 1998
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3511,
+        "deaths": 40,
+        "recovered": 1019
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
         "confirmed": 3454,
         "deaths": 58,
         "recovered": 3310
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3437,
-        "deaths": 38,
-        "recovered": 1019
     },
     {
         "Name": "Syria",
@@ -1179,9 +1179,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1792,
+        "confirmed": 1793,
         "deaths": 24,
-        "recovered": 1648
+        "recovered": 1655
     },
     {
         "Name": "Uruguay",
@@ -1445,7 +1445,7 @@
         "Name_en": "Cambodia",
         "confirmed": 274,
         "deaths": 0,
-        "recovered": 273
+        "recovered": 274
     },
     {
         "Name": "Saint Martin",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85153,
+        "confirmed": 85168,
         "deaths": 4634,
-        "recovered": 80358
+        "recovered": 80377
     }
 ]
