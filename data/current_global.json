@@ -459,9 +459,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 45503,
-        "deaths": 909,
-        "recovered": 41434
+        "confirmed": 45675,
+        "deaths": 911,
+        "recovered": 41605
     },
     {
         "Name": "Ghana",
@@ -696,20 +696,20 @@
         "recovered": 10371
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 11825,
+        "deaths": 633,
+        "recovered": 4058
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "confirmed": 11021,
         "deaths": 327,
         "recovered": 6443
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 10909,
-        "deaths": 631,
-        "recovered": 4014
     },
     {
         "Name": "DRC",
@@ -1107,7 +1107,7 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 2422,
+        "confirmed": 2445,
         "deaths": 14,
         "recovered": 625
     },
