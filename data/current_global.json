@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4665469,
-        "deaths": 77548,
-        "recovered": 3626106
+        "confirmed": 4688470,
+        "deaths": 77768,
+        "recovered": 3648534
     },
     {
         "Name": "브라질",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 535705,
-        "deaths": 11148,
-        "recovered": 400121
+        "deaths": 11206,
+        "recovered": 409771
     },
     {
         "Name": "칠레",
@@ -531,8 +531,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32228,
-        "deaths": 730,
+        "confirmed": 32300,
+        "deaths": 731,
         "recovered": 31100
     },
     {
@@ -664,20 +664,20 @@
         "recovered": 6731
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 13466,
+        "deaths": 312,
+        "recovered": 12007
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "confirmed": 13368,
         "deaths": 218,
         "recovered": 10721
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "confirmed": 13323,
-        "deaths": 306,
-        "recovered": 11899
     },
     {
         "Name": "그리스",
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8512,
+        "confirmed": 8557,
         "deaths": 337,
         "recovered": 7500
     },
@@ -1064,20 +1064,20 @@
         "recovered": 1451
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 2874,
+        "deaths": 67,
+        "recovered": 1285
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 2825,
         "deaths": 50,
         "recovered": 762
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 2814,
-        "deaths": 65,
-        "recovered": 1220
     },
     {
         "Name": "에스토니아",
