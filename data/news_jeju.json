@@ -24,6 +24,10 @@
         "link": "http://www.segye.com/content/html/2020/09/10/20200910515180.html?OutUrl=naver"
     },
     {
+        "title": "제주 42번 코로나 확진자, 13일 만에 퇴원",
+        "link": "http://www.newsjeju.net/news/articleView.html?idxno=350435"
+    },
+    {
         "title": "제주도 53번째 코로나19 확진자 발생...'산방산온천 직원'",
         "link": "http://www.headlinejeju.co.kr/news/articleView.html?idxno=427140"
     },
@@ -34,9 +38,5 @@
     {
         "title": "제주 코로나19 확진자 3명 퇴원…18명 격리치료",
         "link": "https://www.news1.kr/articles/?4056091"
-    },
-    {
-        "title": "제주 51번째 확진자 동선 공개…접촉자 15명 격리",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002622&ref=A"
     }
 ]

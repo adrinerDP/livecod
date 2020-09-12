@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4659984,
-        "deaths": 77506,
-        "recovered": 3624196
+        "confirmed": 4663930,
+        "deaths": 77537,
+        "recovered": 3624375
     },
     {
         "Name": "브라질",
@@ -171,9 +171,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 252964,
-        "deaths": 4108,
-        "recovered": 186606
+        "confirmed": 257863,
+        "deaths": 4292,
+        "recovered": 187116
     },
     {
         "Name": "인도네시아",
@@ -403,7 +403,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57315,
+        "confirmed": 57357,
         "deaths": 27,
         "recovered": 56607
     },
@@ -664,20 +664,20 @@
         "recovered": 6731
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 13368,
+        "deaths": 218,
+        "recovered": 10721
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
         "confirmed": 13323,
         "deaths": 306,
         "recovered": 11899
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 13107,
-        "deaths": 211,
-        "recovered": 10466
     },
     {
         "Name": "그리스",
