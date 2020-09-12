@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6652721,197678,3927057
-인도,印度,India,4742743,78552,3693206
+미국,美国,United States,6653674,197700,3927077
+인도,印度,India,4750370,78598,3697905
 브라질,巴西,Brazil,4297949,130870,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
 페루,秘鲁,Peru,716670,30470,552214
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,336044,4702,238271
 터키,土耳其,Turkey,289635,6999,257731
 이라크,伊拉克,Iraq,286778,7941,221283
 이탈리아,义大利,Italy,286297,35603,213191
-독일,德国,Germany,260277,9424,234850
+독일,德国,Germany,260286,9424,234850
 필리핀,菲律宾,Philippines,257863,4292,187116
 인도네시아,印度尼西亚,Indonesia,214746,8650,152458
 이스라엘,以色列,Israel,152525,1101,113494
@@ -54,8 +54,8 @@ Venezuela,,Venezuela,58663,468,46960
 코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
 네팔,尼泊尔,Nepal,53120,336,37524
 알제리,阿尔及利亚,Algeria,48007,1605,33875
+Uzbekistan,,Uzbekistan,46721,384,43359
 스위스,瑞士,Switzerland,46704,2020,38500
-Uzbekistan,,Uzbekistan,46498,382,43023
 아르메니아,亚美尼亚,Armenia,45675,911,41605
 Ghana,,Ghana,45434,286,44342
 Kyrgyzstan,,Kyrgyzstan,44828,1063,40779
@@ -71,9 +71,9 @@ Kenya,,Kenya,35969,619,22771
 El Salvador,,El Salvador,26851,782,17874
 호주,澳大利亚,Australia,26607,803,23329
 Paraguay,,Paraguay,26512,496,13181
-레바논,黎巴嫩,Lebanon,23669,239,7312
+레바논,黎巴嫩,Lebanon,23669,239,7936
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23138,690,15922
-Libya,,Libya,21908,352,2506
+Libya,,Libya,22348,354,2506
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19557,630,16247
 Ivory Coast,,Ivory Coast,18916,119,17960
@@ -106,16 +106,16 @@ Tunisia,,Tunisia,6259,103,1956
 Malawi,,Malawi,5669,177,3720
 슬로바키아,斯洛伐克,Slovakia,5453,38,3114
 Djibouti,,Djibouti,5394,61,5327
+Eswatini,,Eswatini,5050,98,4188
 Mozambique,,Mozambique,5040,35,2905
-Eswatini,,Eswatini,5025,98,4165
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
 홍콩,香港,Hong Kong,4939,100,4613
 Congo,,Congo,4928,88,3887
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4749,62,1825
 Uganda,,Uganda,4703,52,1998
+Cuba,,Cuba,4653,108,3878
 Cabo Verde,,Cabo Verde,4651,44,4076
-Cuba,,Cuba,4593,106,3844
 Rwanda,,Rwanda,4534,22,2450
 Suriname,,Suriname,4529,93,3747
 슬로베니아,斯洛文尼亚,Slovenia,3603,135,2699
