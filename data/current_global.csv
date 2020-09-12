@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6637388,197435,3918494
+미국,美国,United States,6638044,197461,3918810
 인도,印度,India,4665469,77548,3626106
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -26,23 +26,23 @@ Ukraine,,Ukraine,151859,3148,68346
 이스라엘,以色列,Israel,148564,1090,111728
 캐나다,加拿大,Canada,135626,9163,119674
 Bolivia,,Bolivia,125172,7250,81240
-카타르,卡塔尔,Qatar,121287,205,118199
+카타르,卡塔尔,Qatar,121523,205,118475
 에콰도르,厄瓜多尔,Ecuador,114732,10836,91242
 Kazakhstan,,Kazakhstan,106729,1634,100518
 루마니아,尼亚,Romania,102386,4127,42811
 도미니카 공화국,多明尼加共和国,Dominican Republic,102232,1941,75747
 이집트,埃及,Egypt,100708,5607,82473
 Panama,,Panama,100330,2140,72858
-쿠웨이트,科威特,Kuwait,93475,557,83660
+쿠웨이트,科威特,Kuwait,94211,558,84404
 벨기에,比利时,Belgium,91537,9919,18689
 오만,阿曼,Oman,88337,762,83325
 스웨덴,瑞典语,Sweden,86505,5846,0
 모로코,摩洛哥,Morocco,82197,1524,64194
+네덜란드,荷兰,Netherlands,81012,6253,0
 Guatemala,,Guatemala,81009,2929,69703
-네덜란드,荷兰,Netherlands,79781,6252,0
 아랍에미리트,阿拉伯联合酋长国,UAE,78849,399,68983
+벨라루스,白俄罗斯,Belarus,73975,744,72547
 일본,日本,Japan,73901,1412,65590
-벨라루스,白俄罗斯,Belarus,73784,738,72369
 폴란드,波兰,Poland,73650,2182,59725
 Honduras,,Honduras,66049,2058,16613
 Ethiopia,,Ethiopia,63367,986,24024
@@ -75,12 +75,12 @@ Paraguay,,Paraguay,26512,496,13181
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,22834,686,15672
 Libya,,Libya,21908,352,2506
 카메룬,喀麦隆,Cameroon,20009,415,18837
-덴마크,丹麦,Denmark,19216,629,16139
+덴마크,丹麦,Denmark,19557,630,16247
 Ivory Coast,,Ivory Coast,18916,119,17960
 Bulgaria,,Bulgaria,17799,713,12750
 Madagascar,,Madagascar,15737,210,14349
-North Macedonia,,North Macedonia,15555,642,12994
-세네갈,塞内加尔,Senegal,14193,293,10350
+North Macedonia,,North Macedonia,15694,646,13128
+세네갈,塞内加尔,Senegal,14237,295,10373
 Sudan,,Sudan,13470,834,6731
 크로아티아,克罗地亚,Croatia,13368,218,10721
 Zambia,,Zambia,13323,306,11899
@@ -108,8 +108,8 @@ Malawi,,Malawi,5669,177,3720
 Djibouti,,Djibouti,5394,61,5327
 Eswatini,,Eswatini,5025,98,4165
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
+홍콩,香港,Hong Kong,4939,100,4613
 Congo,,Congo,4928,88,3887
-홍콩,香港,Hong Kong,4926,99,4597
 Mozambique,,Mozambique,4918,31,2899
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4749,62,1825
@@ -127,7 +127,7 @@ Somalia,,Somalia,3376,98,2791
 Mayotte,,Mayotte,3374,40,2964
 Lithuania,,Lithuania,3296,86,2070
 Angola,,Angola,3279,131,1288
-스리랑카,斯里兰卡,Sri Lanka,3169,12,2969
+스리랑카,斯里兰卡,Sri Lanka,3172,12,2983
 Guadeloupe,,Guadeloupe,3080,24,837
 요르단,约旦,Jordan,2945,21,2084
 Mali,,Mali,2912,128,2271
