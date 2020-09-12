@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6657598,
-        "deaths": 197751,
-        "recovered": 3928107
+        "confirmed": 6658977,
+        "deaths": 197764,
+        "recovered": 3928482
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4750370,
-        "deaths": 78598,
-        "recovered": 3697905
+        "confirmed": 4751788,
+        "deaths": 78614,
+        "recovered": 3699306
     },
     {
         "Name": "브라질",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 136102,
+        "confirmed": 136119,
         "deaths": 9170,
-        "recovered": 120004
+        "recovered": 120071
     },
     {
         "Name": "Bolivia",
@@ -747,9 +747,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9494,
+        "confirmed": 9521,
         "deaths": 63,
-        "recovered": 9078
+        "recovered": 9132
     },
     {
         "Name": "Maldives",
@@ -835,9 +835,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5669,
+        "confirmed": 5678,
         "deaths": 177,
-        "recovered": 3720
+        "recovered": 3724
     },
     {
         "Name": "슬로바키아",
@@ -1008,20 +1008,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 3335,
+        "deaths": 132,
+        "recovered": 1289
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 3296,
         "deaths": 86,
         "recovered": 2070
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 3279,
-        "deaths": 131,
-        "recovered": 1288
     },
     {
         "Name": "스리랑카",
@@ -1275,9 +1275,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1081,
-        "deaths": 79,
-        "recovered": 934
+        "confirmed": 1083,
+        "deaths": 80,
+        "recovered": 938
     },
     {
         "Name": "베트남",
