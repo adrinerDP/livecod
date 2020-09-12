@@ -3,7 +3,7 @@
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1051874,18365,868107
-페루,秘鲁,Peru,710067,30344,544745
+페루,秘鲁,Peru,716670,30470,552214
 콜롬비아,哥伦比亚,Colombia,702088,22518,582694
 멕시코,墨西哥,Mexico,658299,70183,463764
 남아프리카 공화국,南非共和国,South Africa,646398,15378,574587
@@ -15,7 +15,7 @@ Argentina,,Argentina,535705,11148,400121
 영국,英国,UK,361677,41614,0
 Bangladesh,,Bangladesh,334762,4668,236024
 사우디아라비아,沙特阿拉伯,Saudi Arabia,324407,4213,300933
-파키스탄,巴基斯坦,Pakistan,300371,6370,288206
+파키스탄,巴基斯坦,Pakistan,300955,6373,288536
 터키,土耳其,Turkey,288126,6951,256524
 이탈리아,义大利,Italy,284796,35597,212432
 이라크,伊拉克,Iraq,282672,7881,217396
@@ -153,7 +153,7 @@ Guyana,,Guyana,1763,52,1144
 Cyprus,,Cyprus,1520,22,1237
 Burkina Faso,,Burkina Faso,1499,56,1127
 라트비아,约旦,Latvia,1459,35,1248
-Belize,,Belize,1399,19,360
+Belize,,Belize,1435,19,404
 안도라,安道尔,Andorra,1344,53,943
 Liberia,,Liberia,1315,82,1199
 Lesotho,,Lesotho,1245,33,528
@@ -165,9 +165,9 @@ Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,866
 산마리노,圣马力诺,San Marino,722,42,662
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-Turks and Caicos,,Turks and Caicos,638,5,270
+Turks and Caicos,,Turks and Caicos,641,5,270
 Channel Islands,,Channel Islands,633,48,575
-Sint Maarten,,Sint Maarten,530,19,333
+Sint Maarten,,Sint Maarten,531,19,387
 Tanzania,,Tanzania,509,21,183
 Papua New Guinea,,Papua New Guinea,508,5,232
 대만,台湾,Taiwan,498,7,475
@@ -192,7 +192,7 @@ Curaçao,,Curaçao,135,1,55
 리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,64,1,30
-St. Vincent Grenadines,,St. Vincent Grenadines,62,0,61
+St. Vincent Grenadines,,St. Vincent Grenadines,64,0,61
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
 Saint Lucia,,Saint Lucia,27,0,26

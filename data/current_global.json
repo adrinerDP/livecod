@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 710067,
-        "deaths": 30344,
-        "recovered": 544745
+        "confirmed": 716670,
+        "deaths": 30470,
+        "recovered": 552214
     },
     {
         "Name": "콜롬비아",
@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 300371,
-        "deaths": 6370,
-        "recovered": 288206
+        "confirmed": 300955,
+        "deaths": 6373,
+        "recovered": 288536
     },
     {
         "Name": "터키",
@@ -1235,9 +1235,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1399,
+        "confirmed": 1435,
         "deaths": 19,
-        "recovered": 360
+        "recovered": 404
     },
     {
         "Name": "안도라",
@@ -1331,7 +1331,7 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 638,
+        "confirmed": 641,
         "deaths": 5,
         "recovered": 270
     },
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 530,
+        "confirmed": 531,
         "deaths": 19,
-        "recovered": 333
+        "recovered": 387
     },
     {
         "Name": "Tanzania",
@@ -1547,7 +1547,7 @@
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
-        "confirmed": 62,
+        "confirmed": 64,
         "deaths": 0,
         "recovered": 61
     },
