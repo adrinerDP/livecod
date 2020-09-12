@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6649404,197675,3920225
-인도,印度,India,4713112,78031,3670187
+미국,美国,United States,6651730,197675,3921118
+인도,印度,India,4740521,78509,3690505
 브라질,巴西,Brazil,4297949,130870,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
 페루,秘鲁,Peru,716670,30470,552214
@@ -16,14 +16,14 @@ Argentina,,Argentina,535705,11206,409771
 Bangladesh,,Bangladesh,336044,4702,238271
 사우디아라비아,沙特阿拉伯,Saudi Arabia,325050,4240,301836
 파키스탄,巴基斯坦,Pakistan,300955,6373,288536
-터키,土耳其,Turkey,288126,6951,256524
+터키,土耳其,Turkey,289635,6999,257731
 이라크,伊拉克,Iraq,286778,7941,221283
 이탈리아,义大利,Italy,286297,35603,213191
-독일,德国,Germany,260149,9424,234850
+독일,德国,Germany,260277,9424,234850
 필리핀,菲律宾,Philippines,257863,4292,187116
 인도네시아,印度尼西亚,Indonesia,214746,8650,152458
+이스라엘,以色列,Israel,152525,1101,113494
 Ukraine,,Ukraine,151859,3148,68346
-이스라엘,以色列,Israel,148564,1090,111728
 캐나다,加拿大,Canada,136102,9170,120004
 Bolivia,,Bolivia,125172,7250,81240
 카타르,卡塔尔,Qatar,121523,205,118475
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,81009,2929,69703
 일본,日本,Japan,73901,1412,65590
 폴란드,波兰,Poland,73650,2182,59725
 Honduras,,Honduras,66049,2058,16613
-Ethiopia,,Ethiopia,63367,986,24024
+Ethiopia,,Ethiopia,63888,996,24493
 포르투갈,葡萄牙,Portugal,63310,1860,43894
 바레인,巴林,Bahrain,58839,210,52776
 Venezuela,,Venezuela,58663,468,46960
@@ -53,7 +53,7 @@ Venezuela,,Venezuela,58663,468,46960
 나이지리아,尼日利亚,Nigeria,56017,1076,43998
 코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
 네팔,尼泊尔,Nepal,53120,336,37524
-알제리,阿尔及利亚,Algeria,47752,1599,33723
+알제리,阿尔及利亚,Algeria,48007,1605,33875
 스위스,瑞士,Switzerland,46704,2020,38500
 Uzbekistan,,Uzbekistan,46498,382,43023
 아르메니아,亚美尼亚,Armenia,45675,911,41605
@@ -62,17 +62,17 @@ Kyrgyzstan,,Kyrgyzstan,44828,1063,40779
 Moldova,,Moldova,42714,1117,30437
 아프가니스탄,阿富汗,Afghanistan,38641,1420,31234
 아제르바이잔,阿塞拜疆,Azerbaijan,38172,559,35607
-Kenya,,Kenya,35793,616,22442
+Kenya,,Kenya,35969,619,22771
 체코,捷克,Czechia,34744,453,21150
 오스트리아,奥地利,Austria,32696,754,26579
 세르비아,塞尔维亚,Serbia,32300,731,31100
-아일랜드,冰岛,Ireland,30571,1781,23364
+아일랜드,冰岛,Ireland,30730,1783,23364
 팔레스타인,巴勒斯坦,Palestine,29906,210,19979
 El Salvador,,El Salvador,26851,782,17874
 호주,澳大利亚,Australia,26607,803,23329
 Paraguay,,Paraguay,26512,496,13181
+레바논,黎巴嫩,Lebanon,23669,239,7312
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23138,690,15922
-레바논,黎巴嫩,Lebanon,22983,229,7312
 Libya,,Libya,21908,352,2506
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19557,630,16247
@@ -106,11 +106,11 @@ Tunisia,,Tunisia,6259,103,1956
 Malawi,,Malawi,5669,177,3720
 슬로바키아,斯洛伐克,Slovakia,5453,38,3114
 Djibouti,,Djibouti,5394,61,5327
+Mozambique,,Mozambique,5040,35,2905
 Eswatini,,Eswatini,5025,98,4165
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
 홍콩,香港,Hong Kong,4939,100,4613
 Congo,,Congo,4928,88,3887
-Mozambique,,Mozambique,4918,31,2899
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4749,62,1825
 Uganda,,Uganda,4703,52,1998
@@ -130,20 +130,20 @@ Angola,,Angola,3279,131,1288
 스리랑카,斯里兰卡,Sri Lanka,3195,12,2983
 Guadeloupe,,Guadeloupe,3080,24,837
 요르단,约旦,Jordan,3062,22,2156
-Mali,,Mali,2912,128,2271
+Mali,,Mali,2916,128,2276
 Aruba,,Aruba,2898,18,1451
 Trinidad and Tobago,,Trinidad and Tobago,2892,50,766
 Bahamas,,Bahamas,2874,67,1285
+Réunion,,Réunion,2723,14,1313
 에스토니아,爱沙尼亚,Estonia,2655,64,2252
-Réunion,,Réunion,2623,14,1313
 Myanmar,,Myanmar,2595,16,676
-South Sudan,,South Sudan,2568,49,1290
+South Sudan,,South Sudan,2578,49,1290
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Malta,,Malta,2274,15,1850
 Botswana,,Botswana,2252,10,546
 Benin,,Benin,2242,40,1793
 Iceland,,Iceland,2161,10,2079
-Sierra Leone,,Sierra Leone,2087,72,1622
+Sierra Leone,,Sierra Leone,2096,72,1634
 조지아,格鲁吉亚,Georgia,2075,19,1363
 Yemen,,Yemen,2007,582,1211
 New Zealand,,New Zealand,1795,24,1663
@@ -173,7 +173,7 @@ Papua New Guinea,,Papua New Guinea,508,5,232
 대만,台湾,Taiwan,498,7,475
 Burundi,,Burundi,469,1,374
 Comoros,,Comoros,456,7,415
-Faeroe Islands,,Faeroe Islands,416,0,410
+Faeroe Islands,,Faeroe Islands,418,0,410
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,337,24,312
@@ -189,7 +189,7 @@ Bermuda,,Bermuda,177,9,161
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,139,0,136
 Curaçao,,Curaçao,135,1,55
-리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
+리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,64,1,30
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,61
