@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6645033,
-        "deaths": 197626,
-        "recovered": 3918896
+        "confirmed": 6646432,
+        "deaths": 197641,
+        "recovered": 3919169
     },
     {
         "Name": "인도",
@@ -96,20 +96,20 @@
         "recovered": 344516
     },
     {
+        "Name": "영국",
+        "Name_ch": "英国",
+        "Name_en": "UK",
+        "confirmed": 365174,
+        "deaths": 41623,
+        "recovered": 0
+    },
+    {
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
         "confirmed": 363350,
         "deaths": 30893,
         "recovered": 89059
-    },
-    {
-        "Name": "영국",
-        "Name_ch": "英国",
-        "Name_en": "UK",
-        "confirmed": 361677,
-        "deaths": 41614,
-        "recovered": 0
     },
     {
         "Name": "Bangladesh",
@@ -405,7 +405,7 @@
         "Name_en": "Singapore",
         "confirmed": 57357,
         "deaths": 27,
-        "recovered": 56607
+        "recovered": 56699
     },
     {
         "Name": "나이지리아",
@@ -1043,9 +1043,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 2945,
-        "deaths": 21,
-        "recovered": 2084
+        "confirmed": 3062,
+        "deaths": 22,
+        "recovered": 2156
     },
     {
         "Name": "Mali",
@@ -1507,7 +1507,7 @@
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "confirmed": 138,
+        "confirmed": 139,
         "deaths": 0,
         "recovered": 136
     },

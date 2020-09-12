@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6645033,197626,3918896
+미국,美国,United States,6646432,197641,3919169
 인도,印度,India,4688470,77768,3648534
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -11,8 +11,8 @@
 Argentina,,Argentina,535705,11206,409771
 칠레,智利,Chile,432666,11895,404919
 이란,伊朗,Iran,399940,23029,344516
+영국,英国,UK,365174,41623,0
 프랑스,法国,France,363350,30893,89059
-영국,英国,UK,361677,41614,0
 Bangladesh,,Bangladesh,336044,4702,238271
 사우디아라비아,沙特阿拉伯,Saudi Arabia,325050,4240,301836
 파키스탄,巴基斯坦,Pakistan,300955,6373,288536
@@ -49,7 +49,7 @@ Ethiopia,,Ethiopia,63367,986,24024
 포르투갈,葡萄牙,Portugal,63310,1860,43894
 바레인,巴林,Bahrain,58839,210,52776
 Venezuela,,Venezuela,58663,468,46960
-싱가포르,新加坡,Singapore,57357,27,56607
+싱가포르,新加坡,Singapore,57357,27,56699
 나이지리아,尼日利亚,Nigeria,56017,1076,43998
 코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
 네팔,尼泊尔,Nepal,53120,336,37524
@@ -129,7 +129,7 @@ Lithuania,,Lithuania,3296,86,2070
 Angola,,Angola,3279,131,1288
 스리랑카,斯里兰卡,Sri Lanka,3172,12,2983
 Guadeloupe,,Guadeloupe,3080,24,837
-요르단,约旦,Jordan,2945,21,2084
+요르단,约旦,Jordan,3062,22,2156
 Mali,,Mali,2912,128,2271
 Aruba,,Aruba,2898,18,1451
 Bahamas,,Bahamas,2874,67,1285
@@ -187,7 +187,7 @@ Barbados,,Barbados,180,7,158
 Bermuda,,Bermuda,177,9,161
 모나코,摩纳哥,Monaco,168,1,123
 Brunei,,Brunei,145,3,139
-Seychelles,,Seychelles,138,0,136
+Seychelles,,Seychelles,139,0,136
 Curaçao,,Curaçao,135,1,55
 리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
