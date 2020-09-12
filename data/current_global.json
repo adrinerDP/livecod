@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1051874,
-        "deaths": 18365,
-        "recovered": 868107
+        "confirmed": 1057362,
+        "deaths": 18484,
+        "recovered": 873535
     },
     {
         "Name": "페루",
@@ -388,7 +388,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 58839,
-        "deaths": 208,
+        "deaths": 210,
         "recovered": 52776
     },
     {
@@ -491,9 +491,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38606,
+        "confirmed": 38641,
         "deaths": 1420,
-        "recovered": 31154
+        "recovered": 31234
     },
     {
         "Name": "아제르바이잔",
@@ -1083,9 +1083,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2632,
+        "confirmed": 2655,
         "deaths": 64,
-        "recovered": 2233
+        "recovered": 2252
     },
     {
         "Name": "Réunion",
