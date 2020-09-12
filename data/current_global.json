@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6639386,
-        "deaths": 197473,
+        "confirmed": 6641046,
+        "deaths": 197498,
         "recovered": 3918810
     },
     {
@@ -163,8 +163,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 259825,
-        "deaths": 9423,
+        "confirmed": 260149,
+        "deaths": 9424,
         "recovered": 234850
     },
     {
@@ -483,8 +483,8 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 42183,
-        "deaths": 1114,
+        "confirmed": 42714,
+        "deaths": 1117,
         "recovered": 30437
     },
     {
@@ -736,20 +736,20 @@
         "recovered": 9189
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 9604,
+        "deaths": 98,
+        "recovered": 5811
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
         "confirmed": 9494,
         "deaths": 63,
         "recovered": 9078
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 9437,
-        "deaths": 98,
-        "recovered": 4898
     },
     {
         "Name": "Tajikistan",
