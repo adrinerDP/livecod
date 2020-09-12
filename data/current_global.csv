@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6636006,197395,3917738
+미국,美国,United States,6636247,197421,3917962
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1051874,18365,868107
 페루,秘鲁,Peru,710067,30344,544745
 콜롬비아,哥伦比亚,Colombia,702088,22518,582694
-멕시코,墨西哥,Mexico,652364,69649,458850
+멕시코,墨西哥,Mexico,658299,70183,463764
 남아프리카 공화국,南非共和国,South Africa,646398,15378,574587
 스페인,西班牙,Spain,576697,29747,0
 Argentina,,Argentina,535705,11148,400121
@@ -70,7 +70,7 @@ Kenya,,Kenya,35793,616,22442
 팔레스타인,巴勒斯坦,Palestine,29256,204,19788
 El Salvador,,El Salvador,26773,777,17433
 호주,澳大利亚,Australia,26565,797,23217
-Paraguay,,Paraguay,25631,485,12729
+Paraguay,,Paraguay,26512,496,13181
 레바논,黎巴嫩,Lebanon,22983,229,7312
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,22834,686,15672
 Libya,,Libya,21908,352,2506
@@ -146,7 +146,7 @@ Iceland,,Iceland,2161,10,2079
 Sierra Leone,,Sierra Leone,2087,72,1622
 Yemen,,Yemen,2007,582,1211
 조지아,格鲁吉亚,Georgia,1917,19,1354
-New Zealand,,New Zealand,1793,24,1655
+New Zealand,,New Zealand,1795,24,1663
 Uruguay,,Uruguay,1773,45,1490
 Guyana,,Guyana,1763,52,1144
 토고,多哥,Togo,1548,37,1166
@@ -212,4 +212,4 @@ Western Sahara,,Western Sahara,10,1,8
 Saint Pierre Miquelon,,Saint Pierre Miquelon,10,0,5
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85168,4634,80377
+중국,中国,China,85174,4634,80386
