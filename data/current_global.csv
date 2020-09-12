@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6637240,197435,3918491
+미국,美国,United States,6637336,197435,3918492
 인도,印度,India,4663930,77537,3624375
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -54,8 +54,8 @@ Venezuela,,Venezuela,58663,468,46960
 코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
 네팔,尼泊尔,Nepal,51919,322,36672
 알제리,阿尔及利亚,Algeria,47752,1599,33723
+스위스,瑞士,Switzerland,46704,2020,38500
 Uzbekistan,,Uzbekistan,46498,382,43023
-스위스,瑞士,Switzerland,46239,2020,38500
 아르메니아,亚美尼亚,Armenia,45675,911,41605
 Ghana,,Ghana,45388,285,44267
 Kyrgyzstan,,Kyrgyzstan,44828,1063,40779
@@ -78,7 +78,7 @@ Libya,,Libya,21908,352,2506
 덴마크,丹麦,Denmark,19216,629,16139
 Ivory Coast,,Ivory Coast,18916,119,17960
 Bulgaria,,Bulgaria,17799,713,12750
-Madagascar,,Madagascar,15669,209,14320
+Madagascar,,Madagascar,15737,210,14349
 North Macedonia,,North Macedonia,15555,642,12994
 세네갈,塞内加尔,Senegal,14193,293,10350
 Sudan,,Sudan,13470,834,6731
@@ -139,8 +139,8 @@ Réunion,,Réunion,2623,14,1313
 South Sudan,,South Sudan,2568,49,1290
 Myanmar,,Myanmar,2445,14,625
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
+Malta,,Malta,2274,15,1850
 Botswana,,Botswana,2252,10,546
-Malta,,Malta,2247,15,1833
 Benin,,Benin,2242,40,1793
 Iceland,,Iceland,2161,10,2079
 Sierra Leone,,Sierra Leone,2087,72,1622

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6637240,
+        "confirmed": 6637336,
         "deaths": 197435,
-        "recovered": 3918491
+        "recovered": 3918492
     },
     {
         "Name": "인도",
@@ -440,20 +440,20 @@
         "recovered": 33723
     },
     {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+        "confirmed": 46704,
+        "deaths": 2020,
+        "recovered": 38500
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "confirmed": 46498,
         "deaths": 382,
         "recovered": 43023
-    },
-    {
-        "Name": "스위스",
-        "Name_ch": "瑞士",
-        "Name_en": "Switzerland",
-        "confirmed": 46239,
-        "deaths": 2020,
-        "recovered": 38500
     },
     {
         "Name": "아르메니아",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15669,
-        "deaths": 209,
-        "recovered": 14320
+        "confirmed": 15737,
+        "deaths": 210,
+        "recovered": 14349
     },
     {
         "Name": "North Macedonia",
@@ -1120,20 +1120,20 @@
         "recovered": 1127
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2274,
+        "deaths": 15,
+        "recovered": 1850
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 2252,
         "deaths": 10,
         "recovered": 546
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 2247,
-        "deaths": 15,
-        "recovered": 1833
     },
     {
         "Name": "Benin",
