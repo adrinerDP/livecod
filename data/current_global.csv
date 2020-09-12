@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6671026,197979,3941807
+미국,美国,United States,6672366,198008,3942161
 인도,印度,India,4751788,78614,3699306
 브라질,巴西,Brazil,4315687,131210,3553421
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -102,7 +102,7 @@ Zimbabwe,,Zimbabwe,7508,224,5675
 Mauritania,,Mauritania,7274,161,6804
 룩셈부르크,卢森堡,Luxembourg,7194,124,6397
 Tunisia,,Tunisia,6635,107,1991
-Montenegro,,Montenegro,6385,115,4460
+Montenegro,,Montenegro,6530,118,4491
 Malawi,,Malawi,5678,177,3724
 슬로바키아,斯洛伐克,Slovakia,5453,38,3114
 Djibouti,,Djibouti,5394,61,5327
@@ -118,8 +118,8 @@ Uganda,,Uganda,4703,52,1998
 Cuba,,Cuba,4653,108,3878
 Rwanda,,Rwanda,4565,22,2544
 Suriname,,Suriname,4529,93,3747
+Jamaica,,Jamaica,3623,40,1072
 슬로베니아,斯洛文尼亚,Slovenia,3603,135,2699
-Jamaica,,Jamaica,3511,40,1019
 Syria,,Syria,3506,152,827
 태국,泰国,Thailand,3466,58,3312
 Gambia,,Gambia,3376,102,1617
@@ -142,16 +142,16 @@ Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Malta,,Malta,2274,15,1850
 Botswana,,Botswana,2252,10,546
 Benin,,Benin,2242,40,1793
-Iceland,,Iceland,2161,10,2079
+Iceland,,Iceland,2162,10,2085
 Sierra Leone,,Sierra Leone,2096,72,1634
 조지아,格鲁吉亚,Georgia,2075,19,1363
-Yemen,,Yemen,2007,582,1211
+Yemen,,Yemen,2009,582,1211
 Guyana,,Guyana,1812,54,1191
 New Zealand,,New Zealand,1795,24,1663
-Uruguay,,Uruguay,1773,45,1490
+Uruguay,,Uruguay,1780,45,1502
 토고,多哥,Togo,1555,37,1189
 Cyprus,,Cyprus,1520,22,1237
-Burkina Faso,,Burkina Faso,1499,56,1127
+Burkina Faso,,Burkina Faso,1514,56,1127
 라트비아,约旦,Latvia,1464,35,1248
 Belize,,Belize,1435,19,404
 안도라,安道尔,Andorra,1344,53,943
@@ -185,7 +185,7 @@ Saint Martin,,Saint Martin,256,6,107
 Cayman Islands,,Cayman Islands,208,1,204
 Barbados,,Barbados,180,7,158
 Bermuda,,Bermuda,177,9,161
-모나코,摩纳哥,Monaco,168,1,123
+모나코,摩纳哥,Monaco,169,1,123
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,139,0,136
 Curaçao,,Curaçao,135,1,55

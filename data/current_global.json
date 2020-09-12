@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6671026,
-        "deaths": 197979,
-        "recovered": 3941807
+        "confirmed": 6672366,
+        "deaths": 198008,
+        "recovered": 3942161
     },
     {
         "Name": "인도",
@@ -827,9 +827,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 6385,
-        "deaths": 115,
-        "recovered": 4460
+        "confirmed": 6530,
+        "deaths": 118,
+        "recovered": 4491
     },
     {
         "Name": "Malawi",
@@ -952,20 +952,20 @@
         "recovered": 3747
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 3623,
+        "deaths": 40,
+        "recovered": 1072
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
         "confirmed": 3603,
         "deaths": 135,
         "recovered": 2699
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 3511,
-        "deaths": 40,
-        "recovered": 1019
     },
     {
         "Name": "Syria",
@@ -1147,9 +1147,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2161,
+        "confirmed": 2162,
         "deaths": 10,
-        "recovered": 2079
+        "recovered": 2085
     },
     {
         "Name": "Sierra Leone",
@@ -1171,7 +1171,7 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2007,
+        "confirmed": 2009,
         "deaths": 582,
         "recovered": 1211
     },
@@ -1195,9 +1195,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1773,
+        "confirmed": 1780,
         "deaths": 45,
-        "recovered": 1490
+        "recovered": 1502
     },
     {
         "Name": "토고",
@@ -1219,7 +1219,7 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1499,
+        "confirmed": 1514,
         "deaths": 56,
         "recovered": 1127
     },
@@ -1491,7 +1491,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 168,
+        "confirmed": 169,
         "deaths": 1,
         "recovered": 123
     },
