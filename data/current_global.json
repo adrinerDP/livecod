@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6644255,
-        "deaths": 197597,
-        "recovered": 3918867
+        "confirmed": 6645033,
+        "deaths": 197626,
+        "recovered": 3918896
     },
     {
         "Name": "인도",
@@ -912,6 +912,14 @@
         "recovered": 1825
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 4703,
+        "deaths": 52,
+        "recovered": 1998
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -942,14 +950,6 @@
         "confirmed": 4529,
         "deaths": 93,
         "recovered": 3747
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 4377,
-        "deaths": 49,
-        "recovered": 1998
     },
     {
         "Name": "슬로베니아",
@@ -1096,20 +1096,20 @@
         "recovered": 1313
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 2595,
+        "deaths": 16,
+        "recovered": 676
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "confirmed": 2568,
         "deaths": 49,
         "recovered": 1290
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 2445,
-        "deaths": 14,
-        "recovered": 625
     },
     {
         "Name": "Guinea-Bissau",
