@@ -187,9 +187,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 148756,
-        "deaths": 3076,
-        "recovered": 67005
+        "confirmed": 151859,
+        "deaths": 3148,
+        "recovered": 68346
     },
     {
         "Name": "이스라엘",
@@ -443,8 +443,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 46272,
-        "deaths": 380,
+        "confirmed": 46498,
+        "deaths": 382,
         "recovered": 43023
     },
     {
@@ -475,9 +475,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 44761,
+        "confirmed": 44828,
         "deaths": 1063,
-        "recovered": 40631
+        "recovered": 40779
     },
     {
         "Name": "Moldova",
@@ -556,8 +556,8 @@
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 26773,
-        "deaths": 777,
-        "recovered": 17433
+        "deaths": 782,
+        "recovered": 17446
     },
     {
         "Name": "호주",
