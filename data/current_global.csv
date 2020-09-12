@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6634332,197361,3913980
+미국,美国,United States,6636006,197395,3917738
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -48,7 +48,7 @@ Honduras,,Honduras,65802,2049,15577
 Ethiopia,,Ethiopia,63367,986,24024
 포르투갈,葡萄牙,Portugal,62813,1855,43644
 바레인,巴林,Bahrain,58839,208,52776
-Venezuela,,Venezuela,57823,460,46125
+Venezuela,,Venezuela,58663,468,46960
 싱가포르,新加坡,Singapore,57315,27,56607
 나이지리아,尼日利亚,Nigeria,56017,1076,43998
 코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
@@ -156,8 +156,8 @@ Burkina Faso,,Burkina Faso,1499,56,1127
 Belize,,Belize,1399,19,360
 안도라,安道尔,Andorra,1344,53,943
 Liberia,,Liberia,1315,82,1199
+Lesotho,,Lesotho,1245,33,528
 Niger,,Niger,1178,69,1100
-Lesotho,,Lesotho,1164,31,528
 Chad,,Chad,1081,79,934
 베트남,越南,Vietnam,1060,35,902
 French Polynesia,,French Polynesia,953,2,642
@@ -169,7 +169,7 @@ Turks and Caicos,,Turks and Caicos,638,5,270
 Channel Islands,,Channel Islands,633,48,575
 Sint Maarten,,Sint Maarten,530,19,333
 Tanzania,,Tanzania,509,21,183
-Papua New Guinea,,Papua New Guinea,507,5,232
+Papua New Guinea,,Papua New Guinea,508,5,232
 대만,台湾,Taiwan,498,7,475
 Burundi,,Burundi,469,1,374
 Comoros,,Comoros,456,7,415
@@ -192,7 +192,7 @@ Curaçao,,Curaçao,135,1,55
 리히텐슈타인,列支敦士登,Liechtenstein,109,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,64,1,30
-St. Vincent Grenadines,,St. Vincent Grenadines,62,0,58
+St. Vincent Grenadines,,St. Vincent Grenadines,62,0,61
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
 Saint Lucia,,Saint Lucia,27,0,26

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6634332,
-        "deaths": 197361,
-        "recovered": 3913980
+        "confirmed": 6636006,
+        "deaths": 197395,
+        "recovered": 3917738
     },
     {
         "Name": "인도",
@@ -395,9 +395,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 57823,
-        "deaths": 460,
-        "recovered": 46125
+        "confirmed": 58663,
+        "deaths": 468,
+        "recovered": 46960
     },
     {
         "Name": "싱가포르",
@@ -1256,20 +1256,20 @@
         "recovered": 1199
     },
     {
+        "Name": "Lesotho",
+        "Name_ch": "",
+        "Name_en": "Lesotho",
+        "confirmed": 1245,
+        "deaths": 33,
+        "recovered": 528
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "confirmed": 1178,
         "deaths": 69,
         "recovered": 1100
-    },
-    {
-        "Name": "Lesotho",
-        "Name_ch": "",
-        "Name_en": "Lesotho",
-        "confirmed": 1164,
-        "deaths": 31,
-        "recovered": 528
     },
     {
         "Name": "Chad",
@@ -1363,7 +1363,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 507,
+        "confirmed": 508,
         "deaths": 5,
         "recovered": 232
     },
@@ -1549,7 +1549,7 @@
         "Name_en": "St. Vincent Grenadines",
         "confirmed": 62,
         "deaths": 0,
-        "recovered": 58
+        "recovered": 61
     },
     {
         "Name": "마카오",
