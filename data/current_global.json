@@ -440,20 +440,20 @@
         "recovered": 33723
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "confirmed": 46272,
+        "deaths": 380,
+        "recovered": 43023
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 46239,
         "deaths": 2020,
         "recovered": 38100
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "confirmed": 46160,
-        "deaths": 377,
-        "recovered": 42857
     },
     {
         "Name": "아르메니아",
@@ -979,7 +979,7 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3461,
+        "confirmed": 3466,
         "deaths": 58,
         "recovered": 3312
     },
