@@ -355,9 +355,9 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 73047,
-        "deaths": 2169,
-        "recovered": 58848
+        "confirmed": 73650,
+        "deaths": 2182,
+        "recovered": 59725
     },
     {
         "Name": "Honduras",
@@ -840,20 +840,20 @@
         "recovered": 3720
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 5453,
+        "deaths": 38,
+        "recovered": 3114
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
         "confirmed": 5394,
         "deaths": 61,
         "recovered": 5327
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 5252,
-        "deaths": 37,
-        "recovered": 3081
     },
     {
         "Name": "Eswatini",
