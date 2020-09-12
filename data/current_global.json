@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6636266,
-        "deaths": 197421,
-        "recovered": 3917962
+        "confirmed": 6637240,
+        "deaths": 197435,
+        "recovered": 3918491
     },
     {
         "Name": "인도",
@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 334762,
-        "deaths": 4668,
-        "recovered": 236024
+        "confirmed": 336044,
+        "deaths": 4702,
+        "recovered": 238271
     },
     {
         "Name": "사우디아라비아",
@@ -237,7 +237,7 @@
         "Name_en": "Kazakhstan",
         "confirmed": 106729,
         "deaths": 1634,
-        "recovered": 100409
+        "recovered": 100518
     },
     {
         "Name": "도미니카 공화국",
@@ -520,20 +520,20 @@
         "recovered": 21140
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 32696,
+        "deaths": 754,
+        "recovered": 26579
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
         "confirmed": 32228,
         "deaths": 730,
         "recovered": 31100
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 31827,
-        "deaths": 750,
-        "recovered": 26257
     },
     {
         "Name": "아일랜드",
