@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6636247,
+        "confirmed": 6636266,
         "deaths": 197421,
         "recovered": 3917962
     },
@@ -1160,20 +1160,20 @@
         "recovered": 1622
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 2075,
+        "deaths": 19,
+        "recovered": 1363
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 2007,
         "deaths": 582,
         "recovered": 1211
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 1917,
-        "deaths": 19,
-        "recovered": 1354
     },
     {
         "Name": "New Zealand",
