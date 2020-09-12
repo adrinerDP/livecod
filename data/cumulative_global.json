@@ -1396,5 +1396,11 @@
         "confirmed": 28161434.0,
         "deaths": 909479.0,
         "recovered": 18992383.0
+    },
+    {
+        "date": "9/11",
+        "confirmed": 28481413.0,
+        "deaths": 915356.0,
+        "recovered": 19215800.0
     }
 ]
