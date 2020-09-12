@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6663196,197839,3932625
+미국,美国,United States,6665876,197896,3933687
 인도,印度,India,4751788,78614,3699306
 브라질,巴西,Brazil,4297949,130870,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,63888,996,24493
 Venezuela,,Venezuela,58663,468,46960
 싱가포르,新加坡,Singapore,57357,27,56699
 나이지리아,尼日利亚,Nigeria,56017,1076,43998
-코스타리카,哥斯达黎加,Costa Rica,53969,583,20710
+코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
 네팔,尼泊尔,Nepal,53120,336,37524
 알제리,阿尔及利亚,Algeria,48007,1605,33875
 Uzbekistan,,Uzbekistan,46721,384,43359
@@ -98,8 +98,8 @@ Tajikistan,,Tajikistan,9014,72,7782
 Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8557,337,7500
 Haiti,,Haiti,8478,219,6120
-Zimbabwe,,Zimbabwe,7479,224,5660
-Mauritania,,Mauritania,7266,161,6786
+Zimbabwe,,Zimbabwe,7508,224,5675
+Mauritania,,Mauritania,7274,161,6804
 룩셈부르크,卢森堡,Luxembourg,7159,124,6397
 Montenegro,,Montenegro,6385,115,4460
 Tunisia,,Tunisia,6259,103,1956
@@ -120,7 +120,7 @@ Rwanda,,Rwanda,4534,22,2450
 Suriname,,Suriname,4529,93,3747
 슬로베니아,斯洛文尼亚,Slovenia,3603,135,2699
 Jamaica,,Jamaica,3511,40,1019
-Syria,,Syria,3476,150,812
+Syria,,Syria,3506,152,827
 태국,泰国,Thailand,3466,58,3312
 Gambia,,Gambia,3376,102,1617
 Somalia,,Somalia,3376,98,2791
