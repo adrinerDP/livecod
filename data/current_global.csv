@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6646432,197641,3919169
-인도,印度,India,4688470,77768,3648534
-브라질,巴西,Brazil,4283978,130474,3530655
+미국,美国,United States,6649404,197675,3920225
+인도,印度,India,4713112,78031,3670187
+브라질,巴西,Brazil,4297949,130870,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
 페루,秘鲁,Peru,716670,30470,552214
 콜롬비아,哥伦比亚,Colombia,702088,22518,582694
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,336044,4702,238271
 인도네시아,印度尼西亚,Indonesia,214746,8650,152458
 Ukraine,,Ukraine,151859,3148,68346
 이스라엘,以色列,Israel,148564,1090,111728
-캐나다,加拿大,Canada,135626,9163,119674
+캐나다,加拿大,Canada,136102,9170,120004
 Bolivia,,Bolivia,125172,7250,81240
 카타르,卡塔尔,Qatar,121523,205,118475
 에콰도르,厄瓜多尔,Ecuador,114732,10836,91242
@@ -63,7 +63,7 @@ Moldova,,Moldova,42714,1117,30437
 아프가니스탄,阿富汗,Afghanistan,38641,1420,31234
 아제르바이잔,阿塞拜疆,Azerbaijan,38172,559,35607
 Kenya,,Kenya,35793,616,22442
-체코,捷克,Czechia,33860,450,21140
+체코,捷克,Czechia,34744,453,21150
 오스트리아,奥地利,Austria,32696,754,26579
 세르비아,塞尔维亚,Serbia,32300,731,31100
 아일랜드,冰岛,Ireland,30571,1781,23364
@@ -84,10 +84,10 @@ North Macedonia,,North Macedonia,15694,646,13128
 Sudan,,Sudan,13470,834,6731
 Zambia,,Zambia,13466,312,12007
 크로아티아,克罗地亚,Croatia,13368,218,10721
-그리스,希腊,Greece,12734,300,3804
+그리스,希腊,Greece,13036,302,3804
 노르웨이,挪威,Norway,12050,265,10371
 헝가리,匈牙利,Hungary,11825,633,4058
-Albania,,Albania,11021,327,6443
+Albania,,Albania,11185,330,6494
 DRC,,DRC,10385,262,9719
 Guinea,,Guinea,9979,63,9189
 말레이시아,马来西亚,Malaysia,9868,128,9189
@@ -127,13 +127,13 @@ Somalia,,Somalia,3376,98,2791
 Mayotte,,Mayotte,3374,40,2964
 Lithuania,,Lithuania,3296,86,2070
 Angola,,Angola,3279,131,1288
-스리랑카,斯里兰卡,Sri Lanka,3172,12,2983
+스리랑카,斯里兰卡,Sri Lanka,3195,12,2983
 Guadeloupe,,Guadeloupe,3080,24,837
 요르단,约旦,Jordan,3062,22,2156
 Mali,,Mali,2912,128,2271
 Aruba,,Aruba,2898,18,1451
+Trinidad and Tobago,,Trinidad and Tobago,2892,50,766
 Bahamas,,Bahamas,2874,67,1285
-Trinidad and Tobago,,Trinidad and Tobago,2825,50,762
 에스토니아,爱沙尼亚,Estonia,2655,64,2252
 Réunion,,Réunion,2623,14,1313
 Myanmar,,Myanmar,2595,16,676

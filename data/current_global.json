@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6646432,
-        "deaths": 197641,
-        "recovered": 3919169
+        "confirmed": 6649404,
+        "deaths": 197675,
+        "recovered": 3920225
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4688470,
-        "deaths": 77768,
-        "recovered": 3648534
+        "confirmed": 4713112,
+        "deaths": 78031,
+        "recovered": 3670187
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4283978,
-        "deaths": 130474,
+        "confirmed": 4297949,
+        "deaths": 130870,
         "recovered": 3530655
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 135626,
-        "deaths": 9163,
-        "recovered": 119674
+        "confirmed": 136102,
+        "deaths": 9170,
+        "recovered": 120004
     },
     {
         "Name": "Bolivia",
@@ -515,9 +515,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 33860,
-        "deaths": 450,
-        "recovered": 21140
+        "confirmed": 34744,
+        "deaths": 453,
+        "recovered": 21150
     },
     {
         "Name": "오스트리아",
@@ -683,8 +683,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 12734,
-        "deaths": 300,
+        "confirmed": 13036,
+        "deaths": 302,
         "recovered": 3804
     },
     {
@@ -707,9 +707,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 11021,
-        "deaths": 327,
-        "recovered": 6443
+        "confirmed": 11185,
+        "deaths": 330,
+        "recovered": 6494
     },
     {
         "Name": "DRC",
@@ -1027,7 +1027,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3172,
+        "confirmed": 3195,
         "deaths": 12,
         "recovered": 2983
     },
@@ -1064,20 +1064,20 @@
         "recovered": 1451
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 2892,
+        "deaths": 50,
+        "recovered": 766
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
         "confirmed": 2874,
         "deaths": 67,
         "recovered": 1285
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 2825,
-        "deaths": 50,
-        "recovered": 762
     },
     {
         "Name": "에스토니아",
