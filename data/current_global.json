@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6658977,
-        "deaths": 197764,
-        "recovered": 3928482
+        "confirmed": 6663196,
+        "deaths": 197839,
+        "recovered": 3932625
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 646398,
-        "deaths": 15378,
-        "recovered": 574587
+        "confirmed": 648214,
+        "deaths": 15427,
+        "recovered": 576423
     },
     {
         "Name": "스페인",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 152525,
-        "deaths": 1101,
-        "recovered": 113494
+        "confirmed": 152722,
+        "deaths": 1103,
+        "recovered": 113496
     },
     {
         "Name": "Ukraine",
@@ -912,6 +912,14 @@
         "recovered": 1825
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 4711,
+        "deaths": 44,
+        "recovered": 4104
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -926,14 +934,6 @@
         "confirmed": 4653,
         "deaths": 108,
         "recovered": 3878
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4651,
-        "deaths": 44,
-        "recovered": 4076
     },
     {
         "Name": "Rwanda",
@@ -1203,9 +1203,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1548,
+        "confirmed": 1555,
         "deaths": 37,
-        "recovered": 1166
+        "recovered": 1189
     },
     {
         "Name": "Cyprus",
