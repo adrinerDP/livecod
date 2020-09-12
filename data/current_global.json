@@ -555,9 +555,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 26773,
+        "confirmed": 26851,
         "deaths": 782,
-        "recovered": 17446
+        "recovered": 17874
     },
     {
         "Name": "호주",
@@ -1227,7 +1227,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1459,
+        "confirmed": 1464,
         "deaths": 35,
         "recovered": 1248
     },
