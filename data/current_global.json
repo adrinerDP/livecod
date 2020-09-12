@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6651730,
-        "deaths": 197675,
-        "recovered": 3921118
+        "confirmed": 6652721,
+        "deaths": 197678,
+        "recovered": 3927057
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4740521,
-        "deaths": 78509,
-        "recovered": 3690505
+        "confirmed": 4742743,
+        "deaths": 78552,
+        "recovered": 3693206
     },
     {
         "Name": "브라질",
@@ -307,9 +307,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 82197,
-        "deaths": 1524,
-        "recovered": 64194
+        "confirmed": 84435,
+        "deaths": 1553,
+        "recovered": 65867
     },
     {
         "Name": "네덜란드",
@@ -467,9 +467,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 45388,
-        "deaths": 285,
-        "recovered": 44267
+        "confirmed": 45434,
+        "deaths": 286,
+        "recovered": 44342
     },
     {
         "Name": "Kyrgyzstan",
@@ -752,20 +752,20 @@
         "recovered": 9078
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "confirmed": 9052,
+        "deaths": 31,
+        "recovered": 7055
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
         "confirmed": 9014,
         "deaths": 72,
         "recovered": 7782
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "confirmed": 8990,
-        "deaths": 31,
-        "recovered": 6846
     },
     {
         "Name": "Gabon",
@@ -1251,9 +1251,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1315,
+        "confirmed": 1316,
         "deaths": 82,
-        "recovered": 1199
+        "recovered": 1210
     },
     {
         "Name": "Lesotho",
