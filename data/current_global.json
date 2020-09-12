@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6633993,
-        "deaths": 197351,
-        "recovered": 3913714
+        "confirmed": 6634332,
+        "deaths": 197361,
+        "recovered": 3913980
     },
     {
         "Name": "인도",
@@ -267,9 +267,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 99715,
-        "deaths": 2127,
-        "recovered": 72203
+        "confirmed": 100330,
+        "deaths": 2140,
+        "recovered": 72858
     },
     {
         "Name": "쿠웨이트",
@@ -723,9 +723,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 9946,
+        "confirmed": 9979,
         "deaths": 63,
-        "recovered": 9100
+        "recovered": 9189
     },
     {
         "Name": "말레이시아",
@@ -771,9 +771,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8621,
+        "confirmed": 8643,
         "deaths": 53,
-        "recovered": 7618
+        "recovered": 7706
     },
     {
         "Name": "핀란드",
@@ -939,9 +939,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4477,
+        "confirmed": 4529,
         "deaths": 93,
-        "recovered": 3706
+        "recovered": 3747
     },
     {
         "Name": "Uganda",
@@ -1288,6 +1288,14 @@
         "recovered": 902
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 953,
+        "deaths": 2,
+        "recovered": 642
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
@@ -1302,14 +1310,6 @@
         "confirmed": 906,
         "deaths": 15,
         "recovered": 866
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 857,
-        "deaths": 0,
-        "recovered": 576
     },
     {
         "Name": "산마리노",

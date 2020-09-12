@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6633993,197351,3913714
+미국,美国,United States,6634332,197361,3913980
 인도,印度,India,4657379,77506,3621438
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1051874,18365,868107
@@ -32,7 +32,7 @@ Kazakhstan,,Kazakhstan,106661,1634,100409
 도미니카 공화국,多明尼加共和国,Dominican Republic,102232,1941,75747
 루마니아,尼亚,Romania,101075,4100,41010
 이집트,埃及,Egypt,100708,5607,82473
-Panama,,Panama,99715,2127,72203
+Panama,,Panama,100330,2140,72858
 쿠웨이트,科威特,Kuwait,93475,557,83660
 벨기에,比利时,Belgium,90568,9917,18659
 오만,阿曼,Oman,88337,762,83325
@@ -89,13 +89,13 @@ Zambia,,Zambia,13323,306,11899
 Albania,,Albania,11021,327,6443
 헝가리,匈牙利,Hungary,10909,631,4014
 DRC,,DRC,10361,262,9622
-Guinea,,Guinea,9946,63,9100
+Guinea,,Guinea,9979,63,9189
 말레이시아,马来西亚,Malaysia,9810,128,9181
 French Guiana,,French Guiana,9494,63,9078
 Namibia,,Namibia,9437,98,4898
 Maldives,,Maldives,8990,31,6846
 Tajikistan,,Tajikistan,8977,72,7747
-Gabon,,Gabon,8621,53,7618
+Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8512,337,7500
 Haiti,,Haiti,8457,216,6120
 Zimbabwe,,Zimbabwe,7479,224,5660
@@ -116,7 +116,7 @@ CAR,,CAR,4749,62,1825
 Cabo Verde,,Cabo Verde,4651,44,4076
 Cuba,,Cuba,4593,106,3844
 Rwanda,,Rwanda,4534,22,2450
-Suriname,,Suriname,4477,93,3706
+Suriname,,Suriname,4529,93,3747
 Uganda,,Uganda,4377,49,1998
 Jamaica,,Jamaica,3511,40,1019
 슬로베니아,斯洛文尼亚,Slovenia,3497,135,2662
@@ -160,9 +160,9 @@ Niger,,Niger,1178,69,1100
 Lesotho,,Lesotho,1164,31,528
 Chad,,Chad,1081,79,934
 베트남,越南,Vietnam,1060,35,902
+French Polynesia,,French Polynesia,953,2,642
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,866
-French Polynesia,,French Polynesia,857,0,576
 산마리노,圣马力诺,San Marino,722,42,662
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,638,5,270
