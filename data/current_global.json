@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6667482,
-        "deaths": 197916,
-        "recovered": 3934713
+        "confirmed": 6667909,
+        "deaths": 197940,
+        "recovered": 3935081
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4297949,
-        "deaths": 130870,
+        "confirmed": 4315687,
+        "deaths": 131210,
         "recovered": 3530655
     },
     {
@@ -312,20 +312,20 @@
         "recovered": 65867
     },
     {
+        "Name": "Guatemala",
+        "Name_ch": "",
+        "Name_en": "Guatemala",
+        "confirmed": 81658,
+        "deaths": 2949,
+        "recovered": 70403
+    },
+    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
         "confirmed": 81012,
         "deaths": 6253,
         "recovered": 0
-    },
-    {
-        "Name": "Guatemala",
-        "Name_ch": "",
-        "Name_en": "Guatemala",
-        "confirmed": 81009,
-        "deaths": 2929,
-        "recovered": 69703
     },
     {
         "Name": "아랍에미리트",
@@ -387,9 +387,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 58839,
-        "deaths": 210,
-        "recovered": 52776
+        "confirmed": 59586,
+        "deaths": 211,
+        "recovered": 53192
     },
     {
         "Name": "Venezuela",
