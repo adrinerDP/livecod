@@ -165,7 +165,7 @@
         "Name_en": "Germany",
         "confirmed": 259725,
         "deaths": 9423,
-        "recovered": 233300
+        "recovered": 234850
     },
     {
         "Name": "필리핀",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 124205,
-        "deaths": 7193,
-        "recovered": 79483
+        "confirmed": 125172,
+        "deaths": 7250,
+        "recovered": 81240
     },
     {
         "Name": "카타르",
@@ -235,7 +235,7 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106661,
+        "confirmed": 106729,
         "deaths": 1634,
         "recovered": 100409
     },
@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 90568,
-        "deaths": 9917,
-        "recovered": 18659
+        "confirmed": 91537,
+        "deaths": 9919,
+        "recovered": 18689
     },
     {
         "Name": "오만",
@@ -563,8 +563,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26565,
-        "deaths": 797,
+        "confirmed": 26603,
+        "deaths": 803,
         "recovered": 23217
     },
     {
@@ -1589,7 +1589,7 @@
         "Name_en": "New Caledonia",
         "confirmed": 26,
         "deaths": 0,
-        "recovered": 25
+        "recovered": 26
     },
     {
         "Name": "Caribbean Netherlands",
