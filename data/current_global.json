@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 397801,
-        "deaths": 22913,
-        "recovered": 342539
+        "confirmed": 399940,
+        "deaths": 23029,
+        "recovered": 344516
     },
     {
         "Name": "프랑스",
@@ -240,20 +240,20 @@
         "recovered": 100518
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 102386,
+        "deaths": 4127,
+        "recovered": 42811
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "confirmed": 102232,
         "deaths": 1941,
         "recovered": 75747
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 101075,
-        "deaths": 4100,
-        "recovered": 41010
     },
     {
         "Name": "이집트",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 77842,
-        "deaths": 398,
-        "recovered": 68462
+        "confirmed": 78849,
+        "deaths": 399,
+        "recovered": 68983
     },
     {
         "Name": "일본",
@@ -1427,9 +1427,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 323,
+        "confirmed": 327,
         "deaths": 0,
-        "recovered": 289
+        "recovered": 294
     },
     {
         "Name": "Mongolia",
