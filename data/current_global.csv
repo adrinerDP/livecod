@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6639344,197472,3918810
+미국,美国,United States,6639386,197473,3918810
 인도,印度,India,4688470,77768,3648534
 브라질,巴西,Brazil,4283978,130474,3530655
 러시아,俄罗斯,Russia,1057362,18484,873535
@@ -14,7 +14,7 @@ Argentina,,Argentina,535705,11206,409771
 프랑스,法国,France,363350,30893,89059
 영국,英国,UK,361677,41614,0
 Bangladesh,,Bangladesh,336044,4702,238271
-사우디아라비아,沙特阿拉伯,Saudi Arabia,324407,4213,300933
+사우디아라비아,沙特阿拉伯,Saudi Arabia,325050,4240,301836
 파키스탄,巴基斯坦,Pakistan,300955,6373,288536
 터키,土耳其,Turkey,288126,6951,256524
 이탈리아,义大利,Italy,284796,35597,212432
@@ -46,7 +46,7 @@ Guatemala,,Guatemala,81009,2929,69703
 폴란드,波兰,Poland,73650,2182,59725
 Honduras,,Honduras,66049,2058,16613
 Ethiopia,,Ethiopia,63367,986,24024
-포르투갈,葡萄牙,Portugal,62813,1855,43644
+포르투갈,葡萄牙,Portugal,63310,1860,43894
 바레인,巴林,Bahrain,58839,210,52776
 Venezuela,,Venezuela,58663,468,46960
 싱가포르,新加坡,Singapore,57357,27,56607
@@ -71,8 +71,8 @@ Kenya,,Kenya,35793,616,22442
 El Salvador,,El Salvador,26851,782,17874
 호주,澳大利亚,Australia,26607,803,23329
 Paraguay,,Paraguay,26512,496,13181
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23138,690,15922
 레바논,黎巴嫩,Lebanon,22983,229,7312
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,22834,686,15672
 Libya,,Libya,21908,352,2506
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19557,630,16247
@@ -85,7 +85,7 @@ Sudan,,Sudan,13470,834,6731
 Zambia,,Zambia,13466,312,12007
 크로아티아,克罗地亚,Croatia,13368,218,10721
 그리스,希腊,Greece,12734,300,3804
-노르웨이,挪威,Norway,12003,265,10371
+노르웨이,挪威,Norway,12050,265,10371
 헝가리,匈牙利,Hungary,11825,633,4058
 Albania,,Albania,11021,327,6443
 DRC,,DRC,10385,262,9719
@@ -93,11 +93,11 @@ Guinea,,Guinea,9979,63,9189
 말레이시아,马来西亚,Malaysia,9868,128,9189
 French Guiana,,French Guiana,9494,63,9078
 Namibia,,Namibia,9437,98,4898
+Tajikistan,,Tajikistan,9014,72,7782
 Maldives,,Maldives,8990,31,6846
-Tajikistan,,Tajikistan,8977,72,7747
 Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8557,337,7500
-Haiti,,Haiti,8457,216,6120
+Haiti,,Haiti,8478,219,6120
 Zimbabwe,,Zimbabwe,7479,224,5660
 Mauritania,,Mauritania,7266,161,6786
 룩셈부르크,卢森堡,Luxembourg,7159,124,6397

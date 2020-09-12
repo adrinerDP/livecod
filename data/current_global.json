@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6639344,
-        "deaths": 197472,
+        "confirmed": 6639386,
+        "deaths": 197473,
         "recovered": 3918810
     },
     {
@@ -123,9 +123,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 324407,
-        "deaths": 4213,
-        "recovered": 300933
+        "confirmed": 325050,
+        "deaths": 4240,
+        "recovered": 301836
     },
     {
         "Name": "파키스탄",
@@ -379,9 +379,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 62813,
-        "deaths": 1855,
-        "recovered": 43644
+        "confirmed": 63310,
+        "deaths": 1860,
+        "recovered": 43894
     },
     {
         "Name": "바레인",
@@ -576,20 +576,20 @@
         "recovered": 13181
     },
     {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "波斯尼亚和黑塞哥维那",
+        "Name_en": "Bosnia and Herzegovina",
+        "confirmed": 23138,
+        "deaths": 690,
+        "recovered": 15922
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
         "confirmed": 22983,
         "deaths": 229,
         "recovered": 7312
-    },
-    {
-        "Name": "보스니아 헤르체고비나",
-        "Name_ch": "波斯尼亚和黑塞哥维那",
-        "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 22834,
-        "deaths": 686,
-        "recovered": 15672
     },
     {
         "Name": "Libya",
@@ -691,7 +691,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12003,
+        "confirmed": 12050,
         "deaths": 265,
         "recovered": 10371
     },
@@ -752,20 +752,20 @@
         "recovered": 4898
     },
     {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "confirmed": 9014,
+        "deaths": 72,
+        "recovered": 7782
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
         "confirmed": 8990,
         "deaths": 31,
         "recovered": 6846
-    },
-    {
-        "Name": "Tajikistan",
-        "Name_ch": "",
-        "Name_en": "Tajikistan",
-        "confirmed": 8977,
-        "deaths": 72,
-        "recovered": 7747
     },
     {
         "Name": "Gabon",
@@ -787,8 +787,8 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8457,
-        "deaths": 216,
+        "confirmed": 8478,
+        "deaths": 219,
         "recovered": 6120
     },
     {
