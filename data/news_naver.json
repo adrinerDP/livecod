@@ -12,10 +12,6 @@
         "link": "http://news.kmib.co.kr/article/view.asp?arcid=0015006023&code=61121111&cp=nv"
     },
     {
-        "title": "전 세계 코로나 2900만명 눈앞…하루 확진자도 31만명 돌파",
-        "link": "http://www.joseilbo.com/news/news_read.php?uid=406086&class=42&grp="
-    },
-    {
         "title": "[종합] 코로나19 확진자 121명 증가...서울 30명, 경기 27명, 대구 14명",
         "link": "http://www.fnnews.com/news/202009130943592034"
     },
@@ -32,11 +28,15 @@
         "link": "http://yna.kr/AKR20200913024800065?did=1195m"
     },
     {
-        "title": "中학자 \"코로나, 우한 연구소서 나왔다…과학적 증거 곧 공개\"",
-        "link": "https://news.joins.com/article/olink/23465409"
+        "title": "서울 코로나 신규확진자 31명, 한달만에 최저…양성률은 1.1%",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300342.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[속보]文대통령 \"코로나, 확산세 진정...이겨낼 수 있다\"",
-        "link": "http://www.fnnews.com/news/202009131916595793"
+        "title": "코로나19 어제 신규 확진자 121명…11일째 ‘100명대’ 지속",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
+    },
+    {
+        "title": "코로나19 신규 확진자 121명…지역발생 한달만에 99명",
+        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
     }
 ]
