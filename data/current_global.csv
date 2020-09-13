@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6674763,198120,3945717
-인도,印度,India,4751788,78614,3699306
+미국,美国,United States,6676601,198128,3950354
+인도,印度,India,4751788,78614,3699298
 브라질,巴西,Brazil,4315858,131274,3553421
 러시아,俄罗斯,Russia,1057362,18484,873535
 페루,秘鲁,Peru,722832,30593,559321
 콜롬비아,哥伦比亚,Colombia,708964,22734,592820
-멕시코,墨西哥,Mexico,658299,70183,463764
+멕시코,墨西哥,Mexico,663973,70604,467525
 남아프리카 공화국,南非共和国,South Africa,648214,15427,576423
 스페인,西班牙,Spain,576697,29747,0
 Argentina,,Argentina,546481,11263,409771
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,336044,4702,238271
 인도네시아,印度尼西亚,Indonesia,214746,8650,152458
 이스라엘,以色列,Israel,152722,1103,113496
 Ukraine,,Ukraine,151859,3148,68346
-캐나다,加拿大,Canada,136119,9170,120071
+캐나다,加拿大,Canada,136141,9170,120075
 Bolivia,,Bolivia,125172,7250,81240
 카타르,卡塔尔,Qatar,121523,205,118475
 에콰도르,厄瓜多尔,Ecuador,116451,10864,91242
@@ -68,12 +68,12 @@ Kenya,,Kenya,35969,619,22771
 세르비아,塞尔维亚,Serbia,32300,731,31100
 아일랜드,冰岛,Ireland,30730,1783,23364
 팔레스타인,巴勒斯坦,Palestine,29906,210,19979
+Paraguay,,Paraguay,27324,514,13679
 El Salvador,,El Salvador,26851,782,17874
-호주,澳大利亚,Australia,26607,803,23329
-Paraguay,,Paraguay,26512,496,13181
+호주,澳大利亚,Australia,26651,810,23340
 레바논,黎巴嫩,Lebanon,23669,239,7936
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23138,690,15922
-Libya,,Libya,22348,354,2506
+Libya,,Libya,22348,354,12100
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19557,630,16247
 Ivory Coast,,Ivory Coast,18916,119,17960
@@ -147,7 +147,7 @@ Sierra Leone,,Sierra Leone,2096,72,1634
 조지아,格鲁吉亚,Georgia,2075,19,1363
 Yemen,,Yemen,2009,582,1211
 Guyana,,Guyana,1812,54,1191
-New Zealand,,New Zealand,1795,24,1663
+New Zealand,,New Zealand,1797,24,1676
 Uruguay,,Uruguay,1780,45,1502
 토고,多哥,Togo,1555,37,1189
 Cyprus,,Cyprus,1523,22,1281
@@ -159,7 +159,7 @@ Liberia,,Liberia,1316,82,1210
 Lesotho,,Lesotho,1245,33,528
 Niger,,Niger,1178,69,1100
 Chad,,Chad,1083,80,938
-베트남,越南,Vietnam,1060,35,902
+베트남,越南,Vietnam,1060,35,910
 French Polynesia,,French Polynesia,953,2,642
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,866
@@ -187,11 +187,11 @@ Barbados,,Barbados,180,7,158
 Bermuda,,Bermuda,177,9,161
 모나코,摩纳哥,Monaco,169,1,123
 Brunei,,Brunei,145,3,139
+Curaçao,,Curaçao,145,1,56
 Seychelles,,Seychelles,139,0,136
-Curaçao,,Curaçao,135,1,55
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
-British Virgin Islands,,British Virgin Islands,64,1,30
+British Virgin Islands,,British Virgin Islands,66,1,37
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,61
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85174,4634,80386
+중국,中国,China,85184,4634,80399

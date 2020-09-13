@@ -1,7 +1,27 @@
 ﻿[
     {
-        "title": "코로나19 신규 확진자 136명…10일째 100명대",
-        "link": "http://www.hani.co.kr/arti/society/health/961869.html"
+        "title": "[속보]코로나19 어제 신규 확진자 121명…11일째 '100명대' 지속",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000219395"
+    },
+    {
+        "title": "[속보] 코로나19 신규확진 121명…11일째 100명대",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009130025&t=NN"
+    },
+    {
+        "title": "[종합] 코로나19 확진자 121명 증가...서울 30명, 경기 27명, 대구 14명",
+        "link": "http://www.fnnews.com/news/202009130943592034"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 한달만에 99명",
+        "link": "http://www.hani.co.kr/arti/society/health/961892.html"
+    },
+    {
+        "title": "[속보] 코로나19 신규 확진자 121명…지역발생 99명",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009130938001&code=940601"
+    },
+    {
+        "title": "코로나19 신규 확진자 136명…열흘째 100명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5002826&ref=A"
     },
     {
         "title": "조용했던 함양군 '발칵'…곳곳 접촉 택시기사발 확진자들",
@@ -12,31 +32,11 @@
         "link": "http://yna.kr/AKR20200912057400073?did=1195m"
     },
     {
-        "title": "광주·전남 코로나19 진정…9~11일 한 자릿수, 12일 '0'(종합)",
-        "link": "http://www.newsis.com/view/?id=NISX20200913_0001163983&cID=10201&pID=10200"
+        "title": "[속보] 전세계 코로나 신규 확진자 31만···사상 최고치 경신",
+        "link": "https://www.sedaily.com/NewsView/1Z7U90QXSS"
     },
     {
-        "title": "박능후 \"확진자 100명대 아래로 안 꺾여···매우 우려스러워\"",
-        "link": "https://www.sedaily.com/NewsView/1Z7TSJEDWE"
-    },
-    {
-        "title": "제주 산방산온천 확진자, 다른 목욕탕도 이용해",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009120063&t=NN"
-    },
-    {
-        "title": "[코로나19] 양주시 하늘궁 집합금지명령…확진자 방문",
-        "link": "http://www.fnnews.com/news/202009121904253101"
-    },
-    {
-        "title": "'코로나19' 신규 확진자 136명…거리두기 2.5단계 연장여부 13일 결정",
-        "link": "http://www.inews24.com/view/1298725"
-    },
-    {
-        "title": "코로나19 신규 확진자 136명, 열흘째 100명대",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009120934001&code=940100"
-    },
-    {
-        "title": "메르켈, 코로나19 통제반대시위에 \"비판 자유지만 평화적으로\"",
-        "link": "http://yna.kr/AKR20200913001400082?did=1195m"
+        "title": "코로나 확진 121명, 사회적 거리두기 2.5단계 완화 '안갯속'(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/09/13/2020091300183.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
 ]
