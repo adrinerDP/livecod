@@ -235,9 +235,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 106729,
+        "confirmed": 106803,
         "deaths": 1634,
-        "recovered": 100518
+        "recovered": 100615
     },
     {
         "Name": "도미니카 공화국",
@@ -283,9 +283,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 91537,
-        "deaths": 9919,
-        "recovered": 18689
+        "confirmed": 92478,
+        "deaths": 9923,
+        "recovered": 18709
     },
     {
         "Name": "오만",
