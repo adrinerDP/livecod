@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 121523,
+        "confirmed": 121740,
         "deaths": 205,
-        "recovered": 118475
+        "recovered": 118682
     },
     {
         "Name": "에콰도르",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 94211,
-        "deaths": 558,
-        "recovered": 84404
+        "confirmed": 94764,
+        "deaths": 560,
+        "recovered": 84995
     },
     {
         "Name": "벨기에",
@@ -344,20 +344,20 @@
         "recovered": 66280
     },
     {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+        "confirmed": 74173,
+        "deaths": 750,
+        "recovered": 72584
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "confirmed": 74152,
         "deaths": 2188,
         "recovered": 60659
-    },
-    {
-        "Name": "벨라루스",
-        "Name_ch": "白俄罗斯",
-        "Name_en": "Belarus",
-        "confirmed": 73975,
-        "deaths": 744,
-        "recovered": 72547
     },
     {
         "Name": "Honduras",
@@ -611,9 +611,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 19557,
-        "deaths": 630,
-        "recovered": 16247
+        "confirmed": 19890,
+        "deaths": 631,
+        "recovered": 16333
     },
     {
         "Name": "Ivory Coast",
@@ -1128,20 +1128,20 @@
         "recovered": 1127
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "confirmed": 2267,
+        "deaths": 40,
+        "recovered": 1942
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 2252,
         "deaths": 10,
         "recovered": 546
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "confirmed": 2242,
-        "deaths": 40,
-        "recovered": 1793
     },
     {
         "Name": "조지아",
