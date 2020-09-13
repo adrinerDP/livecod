@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6676601,
-        "deaths": 198128,
-        "recovered": 3950354
+        "confirmed": 6678149,
+        "deaths": 198148,
+        "recovered": 3950599
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4754356,
-        "deaths": 78614,
-        "recovered": 3702595
+        "confirmed": 4764786,
+        "deaths": 78727,
+        "recovered": 3708257
     },
     {
         "Name": "브라질",
@@ -451,8 +451,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 46850,
-        "deaths": 386,
+        "confirmed": 47042,
+        "deaths": 388,
         "recovered": 43511
     },
     {
@@ -563,9 +563,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 26851,
+        "confirmed": 26928,
         "deaths": 785,
-        "recovered": 17885
+        "recovered": 18397
     },
     {
         "Name": "호주",
@@ -587,9 +587,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 23138,
-        "deaths": 690,
-        "recovered": 15922
+        "confirmed": 23465,
+        "deaths": 696,
+        "recovered": 16038
     },
     {
         "Name": "Libya",
@@ -632,20 +632,20 @@
         "recovered": 12758
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "confirmed": 15791,
+        "deaths": 648,
+        "recovered": 13184
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
         "confirmed": 15757,
         "deaths": 211,
         "recovered": 14368
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "confirmed": 15694,
-        "deaths": 646,
-        "recovered": 13128
     },
     {
         "Name": "세네갈",
@@ -984,20 +984,20 @@
         "recovered": 3312
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "confirmed": 3389,
+        "deaths": 98,
+        "recovered": 2803
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
         "confirmed": 3376,
         "deaths": 102,
         "recovered": 1617
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "confirmed": 3376,
-        "deaths": 98,
-        "recovered": 2791
     },
     {
         "Name": "Mayotte",

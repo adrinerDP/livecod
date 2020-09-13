@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6676601,198128,3950354
-인도,印度,India,4754356,78614,3702595
+미국,美国,United States,6678149,198148,3950599
+인도,印度,India,4764786,78727,3708257
 브라질,巴西,Brazil,4315858,131274,3553421
 러시아,俄罗斯,Russia,1062811,18578,876225
 페루,秘鲁,Peru,722832,30593,559321
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,59630,477,47729
 네팔,尼泊尔,Nepal,53120,336,37524
 알제리,阿尔及利亚,Algeria,48007,1605,33875
 스위스,瑞士,Switzerland,47179,2021,38900
-Uzbekistan,,Uzbekistan,46850,386,43511
+Uzbekistan,,Uzbekistan,47042,388,43511
 아르메니아,亚美尼亚,Armenia,45862,916,41659
 Ghana,,Ghana,45434,286,44342
 Kyrgyzstan,,Kyrgyzstan,44828,1063,40779
@@ -69,17 +69,17 @@ Kenya,,Kenya,35969,619,22771
 아일랜드,冰岛,Ireland,30730,1783,23364
 팔레스타인,巴勒斯坦,Palestine,30574,221,20082
 Paraguay,,Paraguay,27324,514,13679
-El Salvador,,El Salvador,26851,785,17885
+El Salvador,,El Salvador,26928,785,18397
 호주,澳大利亚,Australia,26651,810,23462
 레바논,黎巴嫩,Lebanon,23669,239,7936
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23138,690,15922
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23465,696,16038
 Libya,,Libya,22781,362,12183
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19557,630,16247
 Ivory Coast,,Ivory Coast,18916,119,17960
 Bulgaria,,Bulgaria,17891,717,12758
+North Macedonia,,North Macedonia,15791,648,13184
 Madagascar,,Madagascar,15757,211,14368
-North Macedonia,,North Macedonia,15694,646,13128
 세네갈,塞内加尔,Senegal,14280,297,10520
 크로아티아,克罗地亚,Croatia,13533,224,10899
 Sudan,,Sudan,13470,834,6731
@@ -122,8 +122,8 @@ Rwanda,,Rwanda,4565,22,2544
 Jamaica,,Jamaica,3623,40,1072
 Syria,,Syria,3506,152,827
 태국,泰国,Thailand,3473,58,3312
+Somalia,,Somalia,3389,98,2803
 Gambia,,Gambia,3376,102,1617
-Somalia,,Somalia,3376,98,2791
 Mayotte,,Mayotte,3374,40,2964
 Angola,,Angola,3335,132,1289
 Lithuania,,Lithuania,3335,87,2070
