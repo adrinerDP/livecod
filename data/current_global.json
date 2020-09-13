@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 66049,
-        "deaths": 2058,
-        "recovered": 16613
+        "confirmed": 67136,
+        "deaths": 2065,
+        "recovered": 17760
     },
     {
         "Name": "Ethiopia",
@@ -1235,9 +1235,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1435,
+        "confirmed": 1458,
         "deaths": 19,
-        "recovered": 404
+        "recovered": 458
     },
     {
         "Name": "안도라",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 531,
+        "confirmed": 533,
         "deaths": 19,
-        "recovered": 387
+        "recovered": 430
     },
     {
         "Name": "Tanzania",
@@ -1443,7 +1443,7 @@
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "confirmed": 274,
+        "confirmed": 275,
         "deaths": 0,
         "recovered": 274
     },
