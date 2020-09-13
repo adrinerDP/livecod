@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6706524,198474,3968885
+미국,美国,United States,6706840,198474,3971373
 인도,印度,India,4845003,79754,3777044
-브라질,巴西,Brazil,4330455,131625,3573958
+브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1062811,18578,876225
-페루,秘鲁,Peru,722832,30593,559321
+페루,秘鲁,Peru,729619,30710,566796
 콜롬비아,哥伦比亚,Colombia,716319,22924,599385
 멕시코,墨西哥,Mexico,663973,70604,467525
 남아프리카 공화국,南非共和国,South Africa,649793,15447,577906
 스페인,西班牙,Spain,576697,29747,0
-Argentina,,Argentina,546481,11307,419513
+Argentina,,Argentina,555537,11352,419513
 칠레,智利,Chile,434748,11949,406326
 이란,伊朗,Iran,402029,23157,346242
 프랑스,法国,France,381094,30916,89059
@@ -62,8 +62,8 @@ Kyrgyzstan,,Kyrgyzstan,44881,1063,40922
 Moldova,,Moldova,42978,1123,30437
 아프가니스탄,阿富汗,Afghanistan,38716,1420,31638
 아제르바이잔,阿塞拜疆,Azerbaijan,38327,562,35756
+체코,捷克,Czechia,36188,456,21294
 Kenya,,Kenya,36157,622,23067
-체코,捷克,Czechia,35933,456,21209
 오스트리아,奥地利,Austria,33159,756,26760
 세르비아,塞尔维亚,Serbia,32408,733,31100
 아일랜드,冰岛,Ireland,30985,1784,23364
@@ -93,14 +93,14 @@ Guinea,,Guinea,10045,63,9292
 말레이시아,马来西亚,Malaysia,9915,128,9196
 Namibia,,Namibia,9719,101,6543
 French Guiana,,French Guiana,9521,63,9132
-Maldives,,Maldives,9052,32,7055
+Maldives,,Maldives,9173,32,7326
 Tajikistan,,Tajikistan,9049,72,7816
 Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8580,337,7500
 Haiti,,Haiti,8493,219,6120
-Zimbabwe,,Zimbabwe,7508,224,5675
+Zimbabwe,,Zimbabwe,7526,224,5678
 Mauritania,,Mauritania,7276,161,6825
-룩셈부르크,卢森堡,Luxembourg,7194,124,6397
+룩셈부르크,卢森堡,Luxembourg,7238,124,6397
 Montenegro,,Montenegro,6712,120,4507
 Tunisia,,Tunisia,6635,107,1991
 Malawi,,Malawi,5690,177,3731
@@ -117,7 +117,7 @@ Uganda,,Uganda,4799,55,2256
 CAR,,CAR,4749,62,1825
 Cuba,,Cuba,4684,108,3930
 Rwanda,,Rwanda,4591,22,2556
-Suriname,,Suriname,4579,93,3788
+Suriname,,Suriname,4582,93,3850
 Jamaica,,Jamaica,3771,42,1149
 슬로베니아,斯洛文尼亚,Slovenia,3702,135,2730
 Syria,,Syria,3540,155,842
@@ -147,8 +147,8 @@ Iceland,,Iceland,2165,10,2092
 Sierra Leone,,Sierra Leone,2109,72,1636
 Yemen,,Yemen,2011,583,1212
 Guyana,,Guyana,1853,56,1215
+Uruguay,,Uruguay,1808,45,1513
 New Zealand,,New Zealand,1797,24,1676
-Uruguay,,Uruguay,1780,45,1502
 Burkina Faso,,Burkina Faso,1707,56,1135
 토고,多哥,Togo,1572,37,1190
 Cyprus,,Cyprus,1526,22,1281
