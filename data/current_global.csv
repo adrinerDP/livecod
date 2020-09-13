@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6678149,198148,3950599
+미국,美国,United States,6679023,198150,3950599
 인도,印度,India,4764786,78727,3708257
 브라질,巴西,Brazil,4315858,131274,3553421
 러시아,俄罗斯,Russia,1062811,18578,876225
@@ -8,7 +8,7 @@
 멕시코,墨西哥,Mexico,663973,70604,467525
 남아프리카 공화국,南非共和国,South Africa,648214,15427,576423
 스페인,西班牙,Spain,576697,29747,0
-Argentina,,Argentina,546481,11263,409771
+Argentina,,Argentina,546481,11307,419513
 칠레,智利,Chile,432666,11895,404919
 이란,伊朗,Iran,402029,23157,346242
 프랑스,法国,France,373911,30910,89059
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,337520,4733,240643
 독일,德国,Germany,260546,9427,235300
 인도네시아,印度尼西亚,Indonesia,218382,8723,155010
 Ukraine,,Ukraine,154335,3178,68893
-이스라엘,以色列,Israel,153217,1103,114624
+이스라엘,以色列,Israel,153759,1108,114635
 캐나다,加拿大,Canada,136141,9170,120075
 Bolivia,,Bolivia,125982,7297,82796
 카타르,卡塔尔,Qatar,121740,205,118682
@@ -45,14 +45,14 @@ Guatemala,,Guatemala,81658,2949,70403
 벨라루스,白俄罗斯,Belarus,74173,750,72584
 폴란드,波兰,Poland,74152,2188,60659
 Honduras,,Honduras,67136,2065,17770
+포르투갈,葡萄牙,Portugal,63983,1867,44069
 Ethiopia,,Ethiopia,63888,996,24493
-포르투갈,葡萄牙,Portugal,63310,1860,43894
 Venezuela,,Venezuela,59630,477,47729
 바레인,巴林,Bahrain,59586,211,53192
 싱가포르,新加坡,Singapore,57406,27,56699
 나이지리아,尼日利亚,Nigeria,56177,1078,44088
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
-네팔,尼泊尔,Nepal,53120,336,37524
+네팔,尼泊尔,Nepal,54159,345,38697
 알제리,阿尔及利亚,Algeria,48007,1605,33875
 스위스,瑞士,Switzerland,47179,2021,38900
 Uzbekistan,,Uzbekistan,47042,388,43511
@@ -65,7 +65,7 @@ Moldova,,Moldova,42714,1117,30437
 Kenya,,Kenya,35969,619,22771
 체코,捷克,Czechia,35401,453,21209
 오스트리아,奥地利,Austria,33159,756,26760
-세르비아,塞尔维亚,Serbia,32300,731,31100
+세르비아,塞尔维亚,Serbia,32408,733,31100
 아일랜드,冰岛,Ireland,30730,1783,23364
 팔레스타인,巴勒斯坦,Palestine,30574,221,20082
 Paraguay,,Paraguay,27324,514,13679
@@ -81,9 +81,9 @@ Bulgaria,,Bulgaria,17891,717,12758
 North Macedonia,,North Macedonia,15791,648,13184
 Madagascar,,Madagascar,15757,211,14368
 세네갈,塞内加尔,Senegal,14280,297,10520
+Zambia,,Zambia,13539,312,12260
 크로아티아,克罗地亚,Croatia,13533,224,10899
 Sudan,,Sudan,13470,834,6731
-Zambia,,Zambia,13466,312,12007
 그리스,希腊,Greece,13036,302,3804
 헝가리,匈牙利,Hungary,12309,637,4069
 노르웨이,挪威,Norway,12079,265,10371
@@ -91,7 +91,7 @@ Albania,,Albania,11185,330,6494
 DRC,,DRC,10390,264,9756
 Guinea,,Guinea,10020,63,9251
 말레이시아,马来西亚,Malaysia,9915,128,9196
-Namibia,,Namibia,9604,98,5811
+Namibia,,Namibia,9719,101,6543
 French Guiana,,French Guiana,9521,63,9132
 Maldives,,Maldives,9052,32,7055
 Tajikistan,,Tajikistan,9014,72,7782
@@ -159,7 +159,7 @@ Liberia,,Liberia,1316,82,1210
 Lesotho,,Lesotho,1245,33,528
 Niger,,Niger,1178,69,1100
 Chad,,Chad,1083,80,938
-베트남,越南,Vietnam,1060,35,910
+베트남,越南,Vietnam,1063,35,918
 French Polynesia,,French Polynesia,953,2,642
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,866
