@@ -123,9 +123,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 325050,
-        "deaths": 4240,
-        "recovered": 301836
+        "confirmed": 325651,
+        "deaths": 4268,
+        "recovered": 302870
     },
     {
         "Name": "파키스탄",
@@ -312,20 +312,20 @@
         "recovered": 65867
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 82099,
+        "deaths": 6254,
+        "recovered": 0
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "confirmed": 81658,
         "deaths": 2949,
         "recovered": 70403
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 81012,
-        "deaths": 6253,
-        "recovered": 0
     },
     {
         "Name": "아랍에미리트",
