@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6705405,198464,3966166
+미국,美国,United States,6705774,198469,3966320
 인도,印度,India,4845003,79754,3777044
-브라질,巴西,Brazil,4330455,131625,3553421
+브라질,巴西,Brazil,4330455,131625,3573958
 러시아,俄罗斯,Russia,1062811,18578,876225
 페루,秘鲁,Peru,722832,30593,559321
-콜롬비아,哥伦比亚,Colombia,708964,22734,592820
+콜롬비아,哥伦比亚,Colombia,716319,22924,599385
 멕시코,墨西哥,Mexico,663973,70604,467525
 남아프리카 공화국,南非共和国,South Africa,649793,15447,577906
 스페인,西班牙,Spain,576697,29747,0
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,154335,3178,68893
 캐나다,加拿大,Canada,136642,9171,120430
 Bolivia,,Bolivia,125982,7297,82796
 카타르,卡塔尔,Qatar,121740,205,118682
-에콰도르,厄瓜多尔,Ecuador,116451,10864,91242
+에콰도르,厄瓜多尔,Ecuador,118594,10903,97063
 Kazakhstan,,Kazakhstan,106803,1634,100615
 도미니카 공화국,多明尼加共和国,Dominican Republic,103660,1968,77182
 루마니아,尼亚,Romania,103495,4163,43025
@@ -39,7 +39,7 @@ Panama,,Panama,101041,2155,73476
 모로코,摩洛哥,Morocco,86686,1578,67528
 스웨덴,瑞典语,Sweden,86505,5846,0
 네덜란드,荷兰,Netherlands,82099,6254,0
-Guatemala,,Guatemala,81658,2949,70403
+Guatemala,,Guatemala,81909,2957,70927
 아랍에미리트,阿拉伯联合酋长国,UAE,79489,399,69451
 일본,日本,Japan,74544,1423,66280
 벨라루스,白俄罗斯,Belarus,74173,750,72584
@@ -47,8 +47,8 @@ Guatemala,,Guatemala,81658,2949,70403
 Honduras,,Honduras,67136,2065,17770
 Ethiopia,,Ethiopia,64301,1013,24983
 포르투갈,葡萄牙,Portugal,63983,1867,44069
+바레인,巴林,Bahrain,60307,212,53681
 Venezuela,,Venezuela,59630,477,47729
-바레인,巴林,Bahrain,59586,211,53192
 싱가포르,新加坡,Singapore,57406,27,56764
 나이지리아,尼日利亚,Nigeria,56177,1078,44088
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
@@ -77,7 +77,7 @@ Libya,,Libya,22781,362,12183
 카메룬,喀麦隆,Cameroon,20009,415,18837
 덴마크,丹麦,Denmark,19890,631,16333
 Ivory Coast,,Ivory Coast,19013,120,18112
-Bulgaria,,Bulgaria,17891,717,12758
+Bulgaria,,Bulgaria,17918,720,12767
 North Macedonia,,North Macedonia,15791,648,13184
 Madagascar,,Madagascar,15757,211,14368
 세네갈,塞内加尔,Senegal,14280,297,10520
@@ -103,7 +103,7 @@ Mauritania,,Mauritania,7276,161,6825
 룩셈부르크,卢森堡,Luxembourg,7194,124,6397
 Tunisia,,Tunisia,6635,107,1991
 Montenegro,,Montenegro,6530,118,4491
-Malawi,,Malawi,5678,177,3724
+Malawi,,Malawi,5690,177,3731
 슬로바키아,斯洛伐克,Slovakia,5532,38,3124
 Djibouti,,Djibouti,5395,61,5330
 Mozambique,,Mozambique,5269,35,2960

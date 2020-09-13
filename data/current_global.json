@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6705405,
-        "deaths": 198464,
-        "recovered": 3966166
+        "confirmed": 6705774,
+        "deaths": 198469,
+        "recovered": 3966320
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4330455,
         "deaths": 131625,
-        "recovered": 3553421
+        "recovered": 3573958
     },
     {
         "Name": "러시아",
@@ -43,9 +43,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 708964,
-        "deaths": 22734,
-        "recovered": 592820
+        "confirmed": 716319,
+        "deaths": 22924,
+        "recovered": 599385
     },
     {
         "Name": "멕시코",
@@ -227,9 +227,9 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 116451,
-        "deaths": 10864,
-        "recovered": 91242
+        "confirmed": 118594,
+        "deaths": 10903,
+        "recovered": 97063
     },
     {
         "Name": "Kazakhstan",
@@ -323,9 +323,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 81658,
-        "deaths": 2949,
-        "recovered": 70403
+        "confirmed": 81909,
+        "deaths": 2957,
+        "recovered": 70927
     },
     {
         "Name": "아랍에미리트",
@@ -384,20 +384,20 @@
         "recovered": 44069
     },
     {
+        "Name": "바레인",
+        "Name_ch": "巴林",
+        "Name_en": "Bahrain",
+        "confirmed": 60307,
+        "deaths": 212,
+        "recovered": 53681
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
         "confirmed": 59630,
         "deaths": 477,
         "recovered": 47729
-    },
-    {
-        "Name": "바레인",
-        "Name_ch": "巴林",
-        "Name_en": "Bahrain",
-        "confirmed": 59586,
-        "deaths": 211,
-        "recovered": 53192
     },
     {
         "Name": "싱가포르",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 17891,
-        "deaths": 717,
-        "recovered": 12758
+        "confirmed": 17918,
+        "deaths": 720,
+        "recovered": 12767
     },
     {
         "Name": "North Macedonia",
@@ -835,9 +835,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5678,
+        "confirmed": 5690,
         "deaths": 177,
-        "recovered": 3724
+        "recovered": 3731
     },
     {
         "Name": "슬로바키아",
