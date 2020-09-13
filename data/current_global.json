@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6679023,
-        "deaths": 198150,
-        "recovered": 3950599
+        "confirmed": 6681197,
+        "deaths": 198167,
+        "recovered": 3950619
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4764786,
-        "deaths": 78727,
-        "recovered": 3708257
+        "confirmed": 4788593,
+        "deaths": 78931,
+        "recovered": 3730949
     },
     {
         "Name": "브라질",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 260546,
+        "confirmed": 260787,
         "deaths": 9427,
         "recovered": 235300
     },
@@ -483,8 +483,8 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 42714,
-        "deaths": 1117,
+        "confirmed": 42978,
+        "deaths": 1123,
         "recovered": 30437
     },
     {
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9014,
+        "confirmed": 9049,
         "deaths": 72,
-        "recovered": 7782
+        "recovered": 7816
     },
     {
         "Name": "Gabon",
@@ -904,6 +904,14 @@
         "recovered": 2913
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 4799,
+        "deaths": 55,
+        "recovered": 2256
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -918,14 +926,6 @@
         "confirmed": 4711,
         "deaths": 44,
         "recovered": 4104
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 4703,
-        "deaths": 52,
-        "recovered": 1998
     },
     {
         "Name": "Cuba",

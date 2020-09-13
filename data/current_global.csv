@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6679023,198150,3950599
-인도,印度,India,4764786,78727,3708257
+미국,美国,United States,6681197,198167,3950619
+인도,印度,India,4788593,78931,3730949
 브라질,巴西,Brazil,4315858,131274,3553421
 러시아,俄罗斯,Russia,1062811,18578,876225
 페루,秘鲁,Peru,722832,30593,559321
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,337520,4733,240643
 이라크,伊拉克,Iraq,286778,7941,221283
 이탈리아,义大利,Italy,286297,35603,213191
 필리핀,菲律宾,Philippines,261216,4371,207568
-독일,德国,Germany,260546,9427,235300
+독일,德国,Germany,260787,9427,235300
 인도네시아,印度尼西亚,Indonesia,218382,8723,155010
 Ukraine,,Ukraine,154335,3178,68893
 이스라엘,以色列,Israel,153759,1108,114635
@@ -59,7 +59,7 @@ Uzbekistan,,Uzbekistan,47042,388,43511
 아르메니아,亚美尼亚,Armenia,45862,916,41659
 Ghana,,Ghana,45434,286,44342
 Kyrgyzstan,,Kyrgyzstan,44828,1063,40779
-Moldova,,Moldova,42714,1117,30437
+Moldova,,Moldova,42978,1123,30437
 아프가니스탄,阿富汗,Afghanistan,38716,1420,31638
 아제르바이잔,阿塞拜疆,Azerbaijan,38172,559,35607
 Kenya,,Kenya,35969,619,22771
@@ -94,7 +94,7 @@ Guinea,,Guinea,10020,63,9251
 Namibia,,Namibia,9719,101,6543
 French Guiana,,French Guiana,9521,63,9132
 Maldives,,Maldives,9052,32,7055
-Tajikistan,,Tajikistan,9014,72,7782
+Tajikistan,,Tajikistan,9049,72,7816
 Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8580,337,7500
 Haiti,,Haiti,8478,219,6120
@@ -112,9 +112,9 @@ Equatorial Guinea,,Equatorial Guinea,4996,83,4490
 홍콩,香港,Hong Kong,4958,100,4630
 Congo,,Congo,4928,88,3887
 Nicaragua,,Nicaragua,4818,144,2913
+Uganda,,Uganda,4799,55,2256
 CAR,,CAR,4749,62,1825
 Cabo Verde,,Cabo Verde,4711,44,4104
-Uganda,,Uganda,4703,52,1998
 Cuba,,Cuba,4653,108,3878
 Suriname,,Suriname,4579,93,3788
 Rwanda,,Rwanda,4565,22,2544
