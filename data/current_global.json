@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 399940,
-        "deaths": 23029,
-        "recovered": 344516
+        "confirmed": 402029,
+        "deaths": 23157,
+        "recovered": 346242
     },
     {
         "Name": "프랑스",
@@ -440,20 +440,20 @@
         "recovered": 33875
     },
     {
+        "Name": "스위스",
+        "Name_ch": "瑞士",
+        "Name_en": "Switzerland",
+        "confirmed": 47179,
+        "deaths": 2021,
+        "recovered": 38900
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "confirmed": 46850,
         "deaths": 386,
         "recovered": 43511
-    },
-    {
-        "Name": "스위스",
-        "Name_ch": "瑞士",
-        "Name_en": "Switzerland",
-        "confirmed": 46704,
-        "deaths": 2020,
-        "recovered": 38500
     },
     {
         "Name": "아르메니아",
@@ -635,9 +635,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15737,
-        "deaths": 210,
-        "recovered": 14349
+        "confirmed": 15757,
+        "deaths": 211,
+        "recovered": 14368
     },
     {
         "Name": "North Macedonia",
@@ -883,9 +883,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4939,
+        "confirmed": 4958,
         "deaths": 100,
-        "recovered": 4613
+        "recovered": 4630
     },
     {
         "Name": "Congo",
@@ -1112,20 +1112,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2352,
+        "deaths": 15,
+        "recovered": 1872
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "confirmed": 2275,
         "deaths": 39,
         "recovered": 1127
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 2274,
-        "deaths": 15,
-        "recovered": 1850
     },
     {
         "Name": "Botswana",
