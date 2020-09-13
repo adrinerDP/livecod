@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 336044,
-        "deaths": 4702,
-        "recovered": 238271
+        "confirmed": 337520,
+        "deaths": 4733,
+        "recovered": 240643
     },
     {
         "Name": "사우디아라비아",
@@ -344,20 +344,20 @@
         "recovered": 66280
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 74152,
+        "deaths": 2188,
+        "recovered": 60659
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
         "confirmed": 73975,
         "deaths": 744,
         "recovered": 72547
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 73650,
-        "deaths": 2182,
-        "recovered": 60659
     },
     {
         "Name": "Honduras",
@@ -573,7 +573,7 @@
         "Name_en": "Australia",
         "confirmed": 26651,
         "deaths": 810,
-        "recovered": 23340
+        "recovered": 23462
     },
     {
         "Name": "레바논",
@@ -715,9 +715,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10385,
-        "deaths": 262,
-        "recovered": 9719
+        "confirmed": 10390,
+        "deaths": 264,
+        "recovered": 9756
     },
     {
         "Name": "Guinea",
@@ -1027,9 +1027,9 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3195,
+        "confirmed": 3204,
         "deaths": 12,
-        "recovered": 2983
+        "recovered": 2996
     },
     {
         "Name": "Guadeloupe",
@@ -1092,7 +1092,7 @@
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 2723,
-        "deaths": 14,
+        "deaths": 15,
         "recovered": 1313
     },
     {
