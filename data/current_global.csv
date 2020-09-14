@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6707036,198476,3971516
+미국,美国,United States,6708458,198520,3974715
 인도,印度,India,4845003,79754,3777044
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1062811,18578,876225
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,337520,4733,240643
 인도네시아,印度尼西亚,Indonesia,218382,8723,155010
 이스라엘,以色列,Israel,155604,1119,114998
 Ukraine,,Ukraine,154335,3178,68893
-캐나다,加拿大,Canada,136659,9171,120430
+캐나다,加拿大,Canada,136659,9171,120431
 Bolivia,,Bolivia,125982,7297,82796
 카타르,卡塔尔,Qatar,121740,205,118682
 에콰도르,厄瓜多尔,Ecuador,118594,10903,97063
@@ -47,8 +47,8 @@ Guatemala,,Guatemala,81909,2957,70927
 Honduras,,Honduras,67136,2065,17770
 Ethiopia,,Ethiopia,64301,1013,24983
 포르투갈,葡萄牙,Portugal,63983,1867,44069
+Venezuela,,Venezuela,60540,485,48644
 바레인,巴林,Bahrain,60307,212,53681
-Venezuela,,Venezuela,59630,477,47729
 싱가포르,新加坡,Singapore,57406,27,56764
 나이지리아,尼日利亚,Nigeria,56256,1082,44152
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
@@ -183,7 +183,7 @@ Mongolia,,Mongolia,311,0,298
 Saint Martin,,Saint Martin,256,6,107
 부탄,不丹,Bhutan,244,0,159
 Cayman Islands,,Cayman Islands,208,1,204
-Barbados,,Barbados,180,7,158
+Barbados,,Barbados,181,7,164
 Bermuda,,Bermuda,177,9,161
 모나코,摩纳哥,Monaco,171,1,128
 Curaçao,,Curaçao,157,1,57
