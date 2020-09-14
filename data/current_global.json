@@ -443,8 +443,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 47423,
-        "deaths": 392,
+        "confirmed": 47620,
+        "deaths": 394,
         "recovered": 44002
     },
     {
@@ -564,8 +564,8 @@
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 26928,
-        "deaths": 785,
-        "recovered": 18397
+        "deaths": 788,
+        "recovered": 18410
     },
     {
         "Name": "호주",
