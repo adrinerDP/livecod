@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 6708458,
         "deaths": 198520,
-        "recovered": 3974715
+        "recovered": 3974949
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 663973,
-        "deaths": 70604,
-        "recovered": 467525
+        "confirmed": 668381,
+        "deaths": 70821,
+        "recovered": 471623
     },
     {
         "Name": "남아프리카 공화국",
@@ -1195,9 +1195,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1797,
+        "confirmed": 1798,
         "deaths": 24,
-        "recovered": 1676
+        "recovered": 1678
     },
     {
         "Name": "Burkina Faso",
