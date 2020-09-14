@@ -403,7 +403,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57406,
+        "confirmed": 57454,
         "deaths": 27,
         "recovered": 56764
     },
@@ -1099,7 +1099,7 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2676,
+        "confirmed": 2698,
         "deaths": 64,
         "recovered": 2256
     },
