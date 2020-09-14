@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6706840,
-        "deaths": 198474,
-        "recovered": 3971373
+        "confirmed": 6707036,
+        "deaths": 198476,
+        "recovered": 3971516
     },
     {
         "Name": "인도",
@@ -555,9 +555,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 27324,
-        "deaths": 514,
-        "recovered": 13679
+        "confirmed": 27817,
+        "deaths": 525,
+        "recovered": 14288
     },
     {
         "Name": "El Salvador",
@@ -867,9 +867,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5050,
+        "confirmed": 5075,
         "deaths": 98,
-        "recovered": 4188
+        "recovered": 4229
     },
     {
         "Name": "Equatorial Guinea",
@@ -984,6 +984,14 @@
         "recovered": 3312
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3405,
+        "deaths": 103,
+        "recovered": 1723
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
@@ -998,14 +1006,6 @@
         "confirmed": 3388,
         "deaths": 134,
         "recovered": 1301
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3376,
-        "deaths": 102,
-        "recovered": 1617
     },
     {
         "Name": "Mayotte",
@@ -1267,9 +1267,9 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1178,
+        "confirmed": 1180,
         "deaths": 69,
-        "recovered": 1100
+        "recovered": 1104
     },
     {
         "Name": "Chad",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 906,
         "deaths": 15,
-        "recovered": 866
+        "recovered": 870
     },
     {
         "Name": "산마리노",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 471,
+        "confirmed": 472,
         "deaths": 1,
         "recovered": 374
     },

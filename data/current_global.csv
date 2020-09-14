@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6706840,198474,3971373
+미국,美国,United States,6707036,198476,3971516
 인도,印度,India,4845003,79754,3777044
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1062811,18578,876225
@@ -68,7 +68,7 @@ Kenya,,Kenya,36157,622,23067
 세르비아,塞尔维亚,Serbia,32408,733,31100
 아일랜드,冰岛,Ireland,30985,1784,23364
 팔레스타인,巴勒斯坦,Palestine,30574,221,20082
-Paraguay,,Paraguay,27324,514,13679
+Paraguay,,Paraguay,27817,525,14288
 El Salvador,,El Salvador,26928,785,18397
 호주,澳大利亚,Australia,26651,810,23462
 레바논,黎巴嫩,Lebanon,24310,241,8334
@@ -107,7 +107,7 @@ Malawi,,Malawi,5690,177,3731
 슬로바키아,斯洛伐克,Slovakia,5532,38,3124
 Djibouti,,Djibouti,5395,61,5330
 Mozambique,,Mozambique,5269,35,2960
-Eswatini,,Eswatini,5050,98,4188
+Eswatini,,Eswatini,5075,98,4229
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
 홍콩,香港,Hong Kong,4958,100,4630
 Congo,,Congo,4928,88,3887
@@ -122,9 +122,9 @@ Jamaica,,Jamaica,3771,42,1149
 슬로베니아,斯洛文尼亚,Slovenia,3702,135,2730
 Syria,,Syria,3540,155,842
 태국,泰国,Thailand,3473,58,3312
+Gambia,,Gambia,3405,103,1723
 Somalia,,Somalia,3389,98,2803
 Angola,,Angola,3388,134,1301
-Gambia,,Gambia,3376,102,1617
 Mayotte,,Mayotte,3374,40,2964
 Lithuania,,Lithuania,3335,87,2070
 요르단,约旦,Jordan,3314,24,2206
@@ -157,12 +157,12 @@ Belize,,Belize,1458,19,458
 안도라,安道尔,Andorra,1344,53,943
 Liberia,,Liberia,1319,82,1210
 Lesotho,,Lesotho,1245,33,528
-Niger,,Niger,1178,69,1100
+Niger,,Niger,1180,69,1104
 Chad,,Chad,1084,80,938
 베트남,越南,Vietnam,1063,35,918
 French Polynesia,,French Polynesia,953,2,642
 Martinique,,Martinique,939,18,98
-Sao Tome and Principe,,Sao Tome and Principe,906,15,866
+Sao Tome and Principe,,Sao Tome and Principe,906,15,870
 산마리노,圣马力诺,San Marino,722,42,662
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,644,5,276
@@ -171,7 +171,7 @@ Sint Maarten,,Sint Maarten,533,19,430
 Papua New Guinea,,Papua New Guinea,510,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,498,7,475
-Burundi,,Burundi,471,1,374
+Burundi,,Burundi,472,1,374
 Comoros,,Comoros,456,7,415
 Faeroe Islands,,Faeroe Islands,423,0,410
 Mauritius,,Mauritius,361,10,335
