@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6744613,198868,4019427
+미국,美国,United States,6745427,198882,4020551
 인도,印度,India,4926914,80808,3856246
 브라질,巴西,Brazil,4345610,132006,3613184
 러시아,俄罗斯,Russia,1068320,18635,878700
 페루,秘鲁,Peru,733860,30812,573364
-콜롬비아,哥伦比亚,Colombia,716319,22924,599385
+콜롬비아,哥伦比亚,Colombia,721892,23123,606925
 멕시코,墨西哥,Mexico,668381,70821,471623
 남아프리카 공화국,南非共和国,South Africa,650749,15499,579289
 스페인,西班牙,Spain,593730,29848,0
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,339332,4759,243155
 터키,土耳其,Turkey,292878,7119,260058
 이탈리아,义大利,Italy,288761,35624,213950
 필리핀,菲律宾,Philippines,265888,4630,207504
-독일,德国,Germany,263210,9435,235700
+독일,德国,Germany,263221,9436,237550
 인도네시아,印度尼西亚,Indonesia,221523,8841,158405
 이스라엘,以色列,Israel,160368,1136,118570
 Ukraine,,Ukraine,156797,3211,69543
-캐나다,加拿大,Canada,136972,9172,120564
+캐나다,加拿大,Canada,138010,9179,121224
 Bolivia,,Bolivia,126791,7344,84286
 카타르,卡塔尔,Qatar,121975,207,118931
 에콰도르,厄瓜多尔,Ecuador,118911,10922,97063
@@ -32,16 +32,16 @@ Kazakhstan,,Kazakhstan,106855,1634,100627
 루마니아,尼亚,Romania,104187,4185,43244
 도미니카 공화국,多明尼加共和国,Dominican Republic,104110,1984,77790
 Panama,,Panama,101745,2166,74107
-이집트,埃及,Egypt,101009,5648,84161
+이집트,埃及,Egypt,101177,5661,84969
 쿠웨이트,科威特,Kuwait,95472,563,85501
 벨기에,比利时,Belgium,93455,9925,18723
 오만,阿曼,Oman,90222,790,83928
 모로코,摩洛哥,Morocco,88203,1614,68970
 스웨덴,瑞典语,Sweden,86505,5846,0
 네덜란드,荷兰,Netherlands,83399,6256,0
-Guatemala,,Guatemala,81909,2957,70927
+Guatemala,,Guatemala,82172,2972,71352
 아랍에미리트,阿拉伯联合酋长国,UAE,80266,399,69981
-일본,日本,Japan,75218,1439,66899
+일본,日本,Japan,75657,1442,67242
 폴란드,波兰,Poland,74529,2203,61097
 벨라루스,白俄罗斯,Belarus,74360,756,72609
 Honduras,,Honduras,67789,2079,17873
@@ -86,7 +86,7 @@ Zambia,,Zambia,13720,320,12380
 Sudan,,Sudan,13535,836,6759
 그리스,希腊,Greece,13420,310,3804
 헝가리,匈牙利,Hungary,13153,642,4117
-노르웨이,挪威,Norway,12219,265,10371
+노르웨이,挪威,Norway,12276,265,10371
 Albania,,Albania,11520,338,6615
 DRC,,DRC,10390,264,9756
 Guinea,,Guinea,10061,63,9352
@@ -99,10 +99,10 @@ Gabon,,Gabon,8654,53,7785
 핀란드,芬兰,Finland,8627,337,7500
 Haiti,,Haiti,8499,219,6120
 Zimbabwe,,Zimbabwe,7526,224,5678
+Tunisia,,Tunisia,7382,117,2175
 Mauritania,,Mauritania,7295,161,6835
 룩셈부르크,卢森堡,Luxembourg,7238,124,6397
 Montenegro,,Montenegro,6712,120,4507
-Tunisia,,Tunisia,6635,107,1991
 Malawi,,Malawi,5690,177,3731
 슬로바키아,斯洛伐克,Slovakia,5580,38,3129
 Mozambique,,Mozambique,5482,35,3024
@@ -172,7 +172,7 @@ Papua New Guinea,,Papua New Guinea,511,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,499,7,476
 Burundi,,Burundi,472,1,374
-Comoros,,Comoros,456,7,415
+Comoros,,Comoros,457,7,427
 Faeroe Islands,,Faeroe Islands,423,0,412
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
