@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6711345,
+        "confirmed": 6711415,
         "deaths": 198562,
-        "recovered": 3975154
+        "recovered": 3975172
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 261359,
-        "deaths": 9428,
+        "confirmed": 261895,
+        "deaths": 9429,
         "recovered": 235700
     },
     {
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 47620,
-        "deaths": 394,
-        "recovered": 44002
+        "confirmed": 47836,
+        "deaths": 396,
+        "recovered": 44375
     },
     {
         "Name": "스위스",
@@ -499,9 +499,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 38327,
-        "deaths": 562,
-        "recovered": 35756
+        "confirmed": 38403,
+        "deaths": 564,
+        "recovered": 35860
     },
     {
         "Name": "체코",
@@ -656,20 +656,20 @@
         "recovered": 10563
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 13720,
+        "deaths": 320,
+        "recovered": 12380
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "confirmed": 13598,
         "deaths": 227,
         "recovered": 11151
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "confirmed": 13539,
-        "deaths": 312,
-        "recovered": 12260
     },
     {
         "Name": "Sudan",
@@ -739,9 +739,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 9719,
-        "deaths": 101,
-        "recovered": 6543
+        "confirmed": 9818,
+        "deaths": 103,
+        "recovered": 6693
     },
     {
         "Name": "French Guiana",
@@ -1251,9 +1251,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1319,
+        "confirmed": 1321,
         "deaths": 82,
-        "recovered": 1210
+        "recovered": 1213
     },
     {
         "Name": "Lesotho",
@@ -1653,7 +1653,7 @@
         "Name_en": "Montserrat",
         "confirmed": 13,
         "deaths": 1,
-        "recovered": 11
+        "recovered": 12
     },
     {
         "Name": "Falkland Islands",

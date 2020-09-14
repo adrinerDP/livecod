@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6711345,198562,3975154
+미국,美国,United States,6711415,198562,3975172
 인도,印度,India,4850887,79784,3780107
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,339332,4759,243155
 이라크,伊拉克,Iraq,290309,8014,224705
 이탈리아,义大利,Italy,287753,35610,213634
 필리핀,菲律宾,Philippines,265888,4630,207504
-독일,德国,Germany,261359,9428,235700
+독일,德国,Germany,261895,9429,235700
 인도네시아,印度尼西亚,Indonesia,221523,8841,158405
 이스라엘,以色列,Israel,156823,1126,115128
 Ukraine,,Ukraine,156797,3211,69543
@@ -54,14 +54,14 @@ Venezuela,,Venezuela,60540,485,48644
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
 네팔,尼泊尔,Nepal,54159,345,38697
 알제리,阿尔及利亚,Algeria,48254,1612,34037
-Uzbekistan,,Uzbekistan,47620,394,44002
+Uzbekistan,,Uzbekistan,47836,396,44375
 스위스,瑞士,Switzerland,47436,2025,38900
 아르메니아,亚美尼亚,Armenia,45969,919,41693
 Ghana,,Ghana,45434,286,44342
 Kyrgyzstan,,Kyrgyzstan,44928,1063,41023
 Moldova,,Moldova,42978,1123,30437
 아프가니스탄,阿富汗,Afghanistan,38772,1425,32073
-아제르바이잔,阿塞拜疆,Azerbaijan,38327,562,35756
+아제르바이잔,阿塞拜疆,Azerbaijan,38403,564,35860
 체코,捷克,Czechia,36188,456,21294
 Kenya,,Kenya,36157,622,23067
 오스트리아,奥地利,Austria,33541,757,27010
@@ -81,8 +81,8 @@ Bulgaria,,Bulgaria,17918,720,12767
 North Macedonia,,North Macedonia,15827,652,13315
 Madagascar,,Madagascar,15769,213,14411
 세네갈,塞内加尔,Senegal,14306,297,10563
+Zambia,,Zambia,13720,320,12380
 크로아티아,克罗地亚,Croatia,13598,227,11151
-Zambia,,Zambia,13539,312,12260
 Sudan,,Sudan,13516,835,6757
 그리스,希腊,Greece,13240,305,3804
 헝가리,匈牙利,Hungary,13153,642,4117
@@ -91,7 +91,7 @@ Albania,,Albania,11353,334,6569
 DRC,,DRC,10390,264,9756
 Guinea,,Guinea,10045,63,9292
 말레이시아,马来西亚,Malaysia,9946,128,9203
-Namibia,,Namibia,9719,101,6543
+Namibia,,Namibia,9818,103,6693
 French Guiana,,French Guiana,9521,63,9132
 Maldives,,Maldives,9173,32,7326
 Tajikistan,,Tajikistan,9088,72,7853
@@ -155,7 +155,7 @@ Cyprus,,Cyprus,1526,22,1281
 Belize,,Belize,1480,19,492
 라트비아,约旦,Latvia,1477,35,1248
 안도라,安道尔,Andorra,1344,53,943
-Liberia,,Liberia,1319,82,1210
+Liberia,,Liberia,1321,82,1213
 Lesotho,,Lesotho,1245,33,528
 Niger,,Niger,1180,69,1104
 Chad,,Chad,1084,80,938
@@ -205,7 +205,7 @@ Laos,,Laos,23,0,22
 St. Barth,,St. Barth,21,0,13
 Saint Kitts and Nevis,,Saint Kitts and Nevis,17,0,17
 Greenland,,Greenland,14,0,14
-Montserrat,,Montserrat,13,1,11
+Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12
 Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
