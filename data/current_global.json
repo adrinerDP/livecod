@@ -451,8 +451,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 47179,
-        "deaths": 2021,
+        "confirmed": 47436,
+        "deaths": 2023,
         "recovered": 38900
     },
     {
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14280,
+        "confirmed": 14306,
         "deaths": 297,
-        "recovered": 10520
+        "recovered": 10563
     },
     {
         "Name": "크로아티아",
@@ -1112,20 +1112,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2405,
+        "deaths": 16,
+        "recovered": 1890
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 2392,
         "deaths": 19,
         "recovered": 1369
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 2352,
-        "deaths": 15,
-        "recovered": 1872
     },
     {
         "Name": "Guinea-Bissau",
@@ -1515,7 +1515,7 @@
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "confirmed": 139,
+        "confirmed": 140,
         "deaths": 0,
         "recovered": 136
     },
