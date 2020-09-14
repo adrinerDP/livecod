@@ -131,9 +131,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 301481,
-        "deaths": 6379,
-        "recovered": 289429
+        "confirmed": 302020,
+        "deaths": 6383,
+        "recovered": 289806
     },
     {
         "Name": "터키",
@@ -1224,20 +1224,20 @@
         "recovered": 1281
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1480,
+        "deaths": 19,
+        "recovered": 492
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "confirmed": 1474,
         "deaths": 35,
         "recovered": 1248
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1458,
-        "deaths": 19,
-        "recovered": 458
     },
     {
         "Name": "안도라",
@@ -1437,7 +1437,7 @@
         "Name_en": "Mongolia",
         "confirmed": 311,
         "deaths": 0,
-        "recovered": 298
+        "recovered": 300
     },
     {
         "Name": "캄보디아",
