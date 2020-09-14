@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6743477,
-        "deaths": 198855,
-        "recovered": 4015408
+        "confirmed": 6744613,
+        "deaths": 198868,
+        "recovered": 4019427
     },
     {
         "Name": "인도",
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4335066,
-        "deaths": 131736,
-        "recovered": 3573958
+        "confirmed": 4345610,
+        "deaths": 132006,
+        "recovered": 3613184
     },
     {
         "Name": "러시아",
@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 729619,
-        "deaths": 30710,
-        "recovered": 566796
+        "confirmed": 733860,
+        "deaths": 30812,
+        "recovered": 573364
     },
     {
         "Name": "콜롬비아",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 17918,
-        "deaths": 720,
-        "recovered": 12767
+        "confirmed": 18061,
+        "deaths": 729,
+        "recovered": 12930
     },
     {
         "Name": "North Macedonia",
@@ -1203,9 +1203,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1707,
+        "confirmed": 1717,
         "deaths": 56,
-        "recovered": 1135
+        "recovered": 1137
     },
     {
         "Name": "토고",
@@ -1475,9 +1475,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 181,
+        "confirmed": 183,
         "deaths": 7,
-        "recovered": 164
+        "recovered": 165
     },
     {
         "Name": "Bermuda",
