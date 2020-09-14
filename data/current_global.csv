@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6708458,198520,3974949
-인도,印度,India,4845003,79754,3777044
+인도,印度,India,4846427,79754,3780107
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1062811,18578,876225
 페루,秘鲁,Peru,729619,30710,566796
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,60540,485,48644
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
 네팔,尼泊尔,Nepal,54159,345,38697
 알제리,阿尔及利亚,Algeria,48254,1612,34037
-Uzbekistan,,Uzbekistan,47287,390,43866
+Uzbekistan,,Uzbekistan,47423,392,44002
 스위스,瑞士,Switzerland,47179,2021,38900
 아르메니아,亚美尼亚,Armenia,45862,916,41659
 Ghana,,Ghana,45434,286,44342
@@ -121,7 +121,7 @@ Suriname,,Suriname,4582,93,3850
 Jamaica,,Jamaica,3771,42,1149
 슬로베니아,斯洛文尼亚,Slovenia,3702,135,2730
 Syria,,Syria,3540,155,842
-태국,泰国,Thailand,3473,58,3312
+태국,泰国,Thailand,3475,58,3312
 Gambia,,Gambia,3405,103,1723
 Somalia,,Somalia,3389,98,2803
 Angola,,Angola,3388,134,1301
@@ -168,7 +168,7 @@ Sao Tome and Principe,,Sao Tome and Principe,906,15,870
 Turks and Caicos,,Turks and Caicos,646,5,532
 Channel Islands,,Channel Islands,633,48,575
 Sint Maarten,,Sint Maarten,549,19,430
-Papua New Guinea,,Papua New Guinea,510,6,232
+Papua New Guinea,,Papua New Guinea,511,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,498,7,475
 Burundi,,Burundi,472,1,374
@@ -181,7 +181,7 @@ Isle of Man,,Isle of Man,337,24,312
 Mongolia,,Mongolia,311,0,300
 캄보디아,柬埔寨,Cambodia,275,0,274
 Saint Martin,,Saint Martin,256,6,107
-부탄,不丹,Bhutan,244,0,159
+부탄,不丹,Bhutan,245,0,161
 Cayman Islands,,Cayman Islands,208,1,204
 Barbados,,Barbados,181,7,164
 Bermuda,,Bermuda,177,9,161
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85184,4634,80399
+중국,中国,China,85194,4634,80415
