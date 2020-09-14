@@ -459,9 +459,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 45862,
-        "deaths": 916,
-        "recovered": 41659
+        "confirmed": 45969,
+        "deaths": 919,
+        "recovered": 41693
     },
     {
         "Name": "Ghana",
@@ -1235,7 +1235,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1474,
+        "confirmed": 1477,
         "deaths": 35,
         "recovered": 1248
     },
