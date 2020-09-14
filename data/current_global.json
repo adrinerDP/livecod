@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6741547,
-        "deaths": 198848,
-        "recovered": 4013007
+        "confirmed": 6743477,
+        "deaths": 198855,
+        "recovered": 4015408
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 649793,
-        "deaths": 15447,
-        "recovered": 577906
+        "confirmed": 650749,
+        "deaths": 15499,
+        "recovered": 579289
     },
     {
         "Name": "스페인",
@@ -755,9 +755,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 9173,
-        "deaths": 32,
-        "recovered": 7326
+        "confirmed": 9243,
+        "deaths": 33,
+        "recovered": 7536
     },
     {
         "Name": "Tajikistan",
@@ -875,9 +875,9 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 4996,
+        "confirmed": 5000,
         "deaths": 83,
-        "recovered": 4490
+        "recovered": 4496
     },
     {
         "Name": "Uganda",
@@ -931,9 +931,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 4684,
+        "confirmed": 4726,
         "deaths": 108,
-        "recovered": 3930
+        "recovered": 4040
     },
     {
         "Name": "Rwanda",
@@ -1163,7 +1163,7 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2109,
+        "confirmed": 2111,
         "deaths": 72,
         "recovered": 1636
     },
@@ -1171,9 +1171,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2011,
+        "confirmed": 2013,
         "deaths": 583,
-        "recovered": 1212
+        "recovered": 1215
     },
     {
         "Name": "Guyana",

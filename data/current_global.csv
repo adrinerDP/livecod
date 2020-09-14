@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6741547,198848,4013007
+미국,美国,United States,6743477,198855,4015408
 인도,印度,India,4926914,80808,3856246
 브라질,巴西,Brazil,4335066,131736,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
 페루,秘鲁,Peru,729619,30710,566796
 콜롬비아,哥伦比亚,Colombia,716319,22924,599385
 멕시코,墨西哥,Mexico,668381,70821,471623
-남아프리카 공화국,南非共和国,South Africa,649793,15447,577906
+남아프리카 공화국,南非共和国,South Africa,650749,15499,579289
 스페인,西班牙,Spain,593730,29848,0
 Argentina,,Argentina,555537,11412,428953
 칠레,智利,Chile,436433,12013,407725
@@ -93,7 +93,7 @@ Guinea,,Guinea,10061,63,9352
 말레이시아,马来西亚,Malaysia,9946,128,9203
 Namibia,,Namibia,9818,103,6693
 French Guiana,,French Guiana,9552,63,9156
-Maldives,,Maldives,9173,32,7326
+Maldives,,Maldives,9243,33,7536
 Tajikistan,,Tajikistan,9088,72,7853
 Gabon,,Gabon,8654,53,7785
 핀란드,芬兰,Finland,8627,337,7500
@@ -108,14 +108,14 @@ Malawi,,Malawi,5690,177,3731
 Mozambique,,Mozambique,5482,35,3024
 Djibouti,,Djibouti,5396,61,5331
 Eswatini,,Eswatini,5075,98,4229
-Equatorial Guinea,,Equatorial Guinea,4996,83,4490
+Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 Uganda,,Uganda,4978,56,2317
 홍콩,香港,Hong Kong,4972,101,4635
 Congo,,Congo,4928,88,3887
 Cabo Verde,,Cabo Verde,4839,45,4240
 Nicaragua,,Nicaragua,4818,144,2913
 CAR,,CAR,4749,62,1825
-Cuba,,Cuba,4684,108,3930
+Cuba,,Cuba,4726,108,4040
 Rwanda,,Rwanda,4602,22,2736
 Suriname,,Suriname,4582,93,3850
 Jamaica,,Jamaica,3771,42,1149
@@ -144,8 +144,8 @@ Malta,,Malta,2405,16,1890
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Benin,,Benin,2267,40,1942
 Iceland,,Iceland,2168,10,2095
-Sierra Leone,,Sierra Leone,2109,72,1636
-Yemen,,Yemen,2011,583,1212
+Sierra Leone,,Sierra Leone,2111,72,1636
+Yemen,,Yemen,2013,583,1215
 Guyana,,Guyana,1884,56,1265
 Uruguay,,Uruguay,1808,45,1513
 New Zealand,,New Zealand,1798,24,1678
