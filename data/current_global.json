@@ -536,20 +536,20 @@
         "recovered": 31100
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "confirmed": 31362,
+        "deaths": 226,
+        "recovered": 21406
+    },
+    {
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
         "confirmed": 30985,
         "deaths": 1784,
         "recovered": 23364
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "confirmed": 30574,
-        "deaths": 221,
-        "recovered": 20082
     },
     {
         "Name": "Paraguay",
@@ -643,9 +643,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15757,
-        "deaths": 211,
-        "recovered": 14368
+        "confirmed": 15769,
+        "deaths": 213,
+        "recovered": 14411
     },
     {
         "Name": "세네갈",
