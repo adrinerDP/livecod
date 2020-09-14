@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6708458,
-        "deaths": 198520,
-        "recovered": 3974949
+        "confirmed": 6710031,
+        "deaths": 198533,
+        "recovered": 3975097
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4846427,
-        "deaths": 79754,
+        "confirmed": 4850887,
+        "deaths": 79784,
         "recovered": 3780107
     },
     {
@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 402029,
-        "deaths": 23157,
-        "recovered": 346242
+        "confirmed": 404648,
+        "deaths": 23313,
+        "recovered": 348013
     },
     {
         "Name": "프랑스",
@@ -240,20 +240,20 @@
         "recovered": 100627
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 104187,
+        "deaths": 4185,
+        "recovered": 43244
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "confirmed": 103660,
         "deaths": 1968,
         "recovered": 77182
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 103495,
-        "deaths": 4163,
-        "recovered": 43025
     },
     {
         "Name": "Panama",
@@ -491,9 +491,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38716,
-        "deaths": 1420,
-        "recovered": 31638
+        "confirmed": 38772,
+        "deaths": 1425,
+        "recovered": 32073
     },
     {
         "Name": "아제르바이잔",
@@ -1429,7 +1429,7 @@
         "Name_en": "Gibraltar",
         "confirmed": 330,
         "deaths": 0,
-        "recovered": 298
+        "recovered": 303
     },
     {
         "Name": "Mongolia",

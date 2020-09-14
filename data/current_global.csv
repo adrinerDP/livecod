@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6708458,198520,3974949
-인도,印度,India,4846427,79754,3780107
+미국,美国,United States,6710031,198533,3975097
+인도,印度,India,4850887,79784,3780107
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
 페루,秘鲁,Peru,729619,30710,566796
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,576697,29747,0
 Argentina,,Argentina,555537,11352,419513
 칠레,智利,Chile,434748,11949,406326
-이란,伊朗,Iran,402029,23157,346242
+이란,伊朗,Iran,404648,23313,348013
 프랑스,法国,France,381094,30916,89059
 영국,英国,UK,368504,41628,0
 Bangladesh,,Bangladesh,339332,4759,243155
@@ -29,8 +29,8 @@ Bolivia,,Bolivia,126791,7344,84286
 카타르,卡塔尔,Qatar,121740,205,118682
 에콰도르,厄瓜多尔,Ecuador,118594,10903,97063
 Kazakhstan,,Kazakhstan,106855,1634,100627
+루마니아,尼亚,Romania,104187,4185,43244
 도미니카 공화국,多明尼加共和国,Dominican Republic,103660,1968,77182
-루마니아,尼亚,Romania,103495,4163,43025
 Panama,,Panama,101745,2166,74107
 이집트,埃及,Egypt,101009,5648,84161
 쿠웨이트,科威特,Kuwait,94764,560,84995
@@ -60,7 +60,7 @@ Uzbekistan,,Uzbekistan,47620,394,44002
 Ghana,,Ghana,45434,286,44342
 Kyrgyzstan,,Kyrgyzstan,44928,1063,41023
 Moldova,,Moldova,42978,1123,30437
-아프가니스탄,阿富汗,Afghanistan,38716,1420,31638
+아프가니스탄,阿富汗,Afghanistan,38772,1425,32073
 아제르바이잔,阿塞拜疆,Azerbaijan,38327,562,35756
 체코,捷克,Czechia,36188,456,21294
 Kenya,,Kenya,36157,622,23067
@@ -177,7 +177,7 @@ Faeroe Islands,,Faeroe Islands,423,0,412
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,337,24,312
-지브롤터,直布罗陀,Gibraltar,330,0,298
+지브롤터,直布罗陀,Gibraltar,330,0,303
 Mongolia,,Mongolia,311,0,300
 캄보디아,柬埔寨,Cambodia,275,0,274
 Saint Martin,,Saint Martin,256,6,107
