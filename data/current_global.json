@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6711415,
-        "deaths": 198562,
-        "recovered": 3975172
+        "confirmed": 6712072,
+        "deaths": 198572,
+        "recovered": 3975176
     },
     {
         "Name": "인도",
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 434748,
-        "deaths": 11949,
-        "recovered": 406326
+        "confirmed": 436433,
+        "deaths": 12013,
+        "recovered": 407725
     },
     {
         "Name": "이란",
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 121740,
-        "deaths": 205,
-        "recovered": 118682
+        "confirmed": 121975,
+        "deaths": 207,
+        "recovered": 118931
     },
     {
         "Name": "에콰도르",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12154,
+        "confirmed": 12219,
         "deaths": 265,
         "recovered": 10371
     },
@@ -851,9 +851,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5395,
+        "confirmed": 5396,
         "deaths": 61,
-        "recovered": 5330
+        "recovered": 5331
     },
     {
         "Name": "Mozambique",

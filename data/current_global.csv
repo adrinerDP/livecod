@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6711415,198562,3975172
+미국,美国,United States,6712072,198572,3975176
 인도,印度,India,4850887,79784,3780107
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
@@ -9,7 +9,7 @@
 남아프리카 공화국,南非共和国,South Africa,649793,15447,577906
 스페인,西班牙,Spain,576697,29747,0
 Argentina,,Argentina,555537,11352,419513
-칠레,智利,Chile,434748,11949,406326
+칠레,智利,Chile,436433,12013,407725
 이란,伊朗,Iran,404648,23313,348013
 프랑스,法国,France,381094,30916,89059
 영국,英国,UK,368504,41628,0
@@ -26,7 +26,7 @@ Bangladesh,,Bangladesh,339332,4759,243155
 Ukraine,,Ukraine,156797,3211,69543
 캐나다,加拿大,Canada,136659,9171,120431
 Bolivia,,Bolivia,126791,7344,84286
-카타르,卡塔尔,Qatar,121740,205,118682
+카타르,卡塔尔,Qatar,121975,207,118931
 에콰도르,厄瓜多尔,Ecuador,118594,10903,97063
 Kazakhstan,,Kazakhstan,106855,1634,100627
 루마니아,尼亚,Romania,104187,4185,43244
@@ -86,7 +86,7 @@ Zambia,,Zambia,13720,320,12380
 Sudan,,Sudan,13516,835,6757
 그리스,希腊,Greece,13240,305,3804
 헝가리,匈牙利,Hungary,13153,642,4117
-노르웨이,挪威,Norway,12154,265,10371
+노르웨이,挪威,Norway,12219,265,10371
 Albania,,Albania,11353,334,6569
 DRC,,DRC,10390,264,9756
 Guinea,,Guinea,10045,63,9292
@@ -105,7 +105,7 @@ Montenegro,,Montenegro,6712,120,4507
 Tunisia,,Tunisia,6635,107,1991
 Malawi,,Malawi,5690,177,3731
 슬로바키아,斯洛伐克,Slovakia,5580,38,3129
-Djibouti,,Djibouti,5395,61,5330
+Djibouti,,Djibouti,5396,61,5331
 Mozambique,,Mozambique,5269,35,2960
 Eswatini,,Eswatini,5075,98,4229
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
