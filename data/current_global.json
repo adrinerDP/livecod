@@ -184,20 +184,20 @@
         "recovered": 155010
     },
     {
+        "Name": "Ukraine",
+        "Name_ch": "",
+        "Name_en": "Ukraine",
+        "confirmed": 156797,
+        "deaths": 3211,
+        "recovered": 69543
+    },
+    {
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
         "confirmed": 156596,
         "deaths": 1119,
         "recovered": 115122
-    },
-    {
-        "Name": "Ukraine",
-        "Name_ch": "",
-        "Name_en": "Ukraine",
-        "confirmed": 154335,
-        "deaths": 3178,
-        "recovered": 68893
     },
     {
         "Name": "캐나다",
@@ -1112,6 +1112,14 @@
         "recovered": 1290
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 2392,
+        "deaths": 19,
+        "recovered": 1369
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -1142,14 +1150,6 @@
         "confirmed": 2252,
         "deaths": 10,
         "recovered": 546
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 2227,
-        "deaths": 19,
-        "recovered": 1369
     },
     {
         "Name": "Iceland",
