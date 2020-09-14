@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6716377,
-        "deaths": 198620,
-        "recovered": 3981334
+        "confirmed": 6718969,
+        "deaths": 198643,
+        "recovered": 3981346
     },
     {
         "Name": "인도",
@@ -107,8 +107,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 368504,
-        "deaths": 41628,
+        "confirmed": 371125,
+        "deaths": 41637,
         "recovered": 0
     },
     {
@@ -136,20 +136,20 @@
         "recovered": 289806
     },
     {
+        "Name": "이라크",
+        "Name_ch": "伊拉克",
+        "Name_en": "Iraq",
+        "confirmed": 294478,
+        "deaths": 8086,
+        "recovered": 229132
+    },
+    {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
         "confirmed": 291162,
         "deaths": 7056,
         "recovered": 258833
-    },
-    {
-        "Name": "이라크",
-        "Name_ch": "伊拉克",
-        "Name_en": "Iraq",
-        "confirmed": 290309,
-        "deaths": 8014,
-        "recovered": 224705
     },
     {
         "Name": "이탈리아",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 79489,
+        "confirmed": 80266,
         "deaths": 399,
-        "recovered": 69451
+        "recovered": 69981
     },
     {
         "Name": "일본",
@@ -427,9 +427,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 54159,
-        "deaths": 345,
-        "recovered": 38697
+        "confirmed": 55329,
+        "deaths": 360,
+        "recovered": 39576
     },
     {
         "Name": "알제리",
@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 47436,
         "deaths": 2025,
-        "recovered": 38900
+        "recovered": 39600
     },
     {
         "Name": "아르메니아",
@@ -683,8 +683,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 13240,
-        "deaths": 305,
+        "confirmed": 13420,
+        "deaths": 310,
         "recovered": 3804
     },
     {
@@ -1419,7 +1419,7 @@
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
-        "confirmed": 337,
+        "confirmed": 339,
         "deaths": 24,
         "recovered": 312
     },
