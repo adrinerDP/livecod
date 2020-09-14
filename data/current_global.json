@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 125982,
-        "deaths": 7297,
-        "recovered": 82796
+        "confirmed": 126791,
+        "deaths": 7344,
+        "recovered": 84286
     },
     {
         "Name": "카타르",
@@ -1067,8 +1067,8 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 2932,
-        "deaths": 20,
+        "confirmed": 3015,
+        "deaths": 24,
         "recovered": 699
     },
     {
