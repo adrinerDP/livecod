@@ -2,7 +2,7 @@
 미국,美国,United States,6708458,198520,3974949
 인도,印度,India,4846427,79754,3780107
 브라질,巴西,Brazil,4330455,131663,3573958
-러시아,俄罗斯,Russia,1062811,18578,876225
+러시아,俄罗斯,Russia,1068320,18635,878700
 페루,秘鲁,Peru,729619,30710,566796
 콜롬비아,哥伦比亚,Colombia,716319,22924,599385
 멕시코,墨西哥,Mexico,668381,70821,471623
@@ -19,8 +19,8 @@ Bangladesh,,Bangladesh,337520,4733,240643
 터키,土耳其,Turkey,291162,7056,258833
 이라크,伊拉克,Iraq,290309,8014,224705
 이탈리아,义大利,Italy,287753,35610,213634
+필리핀,菲律宾,Philippines,265888,4630,207504
 독일,德国,Germany,261359,9428,235700
-필리핀,菲律宾,Philippines,261216,4371,207568
 인도네시아,印度尼西亚,Indonesia,218382,8723,155010
 이스라엘,以色列,Israel,156823,1126,115128
 Ukraine,,Ukraine,156797,3211,69543
@@ -42,8 +42,8 @@ Panama,,Panama,101745,2166,74107
 Guatemala,,Guatemala,81909,2957,70927
 아랍에미리트,阿拉伯联合酋长国,UAE,79489,399,69451
 일본,日本,Japan,75218,1439,66899
+폴란드,波兰,Poland,74529,2203,61097
 벨라루스,白俄罗斯,Belarus,74173,750,72584
-폴란드,波兰,Poland,74152,2188,61097
 Honduras,,Honduras,67789,2079,17873
 Ethiopia,,Ethiopia,64301,1013,24983
 포르투갈,葡萄牙,Portugal,63983,1867,44069
@@ -96,7 +96,7 @@ French Guiana,,French Guiana,9521,63,9132
 Maldives,,Maldives,9173,32,7326
 Tajikistan,,Tajikistan,9049,72,7816
 Gabon,,Gabon,8643,53,7706
-핀란드,芬兰,Finland,8580,337,7500
+핀란드,芬兰,Finland,8627,337,7500
 Haiti,,Haiti,8493,219,6120
 Zimbabwe,,Zimbabwe,7526,224,5678
 Mauritania,,Mauritania,7276,161,6825
@@ -109,7 +109,7 @@ Djibouti,,Djibouti,5395,61,5330
 Mozambique,,Mozambique,5269,35,2960
 Eswatini,,Eswatini,5075,98,4229
 Equatorial Guinea,,Equatorial Guinea,4996,83,4490
-홍콩,香港,Hong Kong,4958,100,4630
+홍콩,香港,Hong Kong,4972,101,4635
 Congo,,Congo,4928,88,3887
 Nicaragua,,Nicaragua,4818,144,2913
 Cabo Verde,,Cabo Verde,4813,44,4119
@@ -119,7 +119,7 @@ Cuba,,Cuba,4684,108,3930
 Rwanda,,Rwanda,4591,22,2556
 Suriname,,Suriname,4582,93,3850
 Jamaica,,Jamaica,3771,42,1149
-슬로베니아,斯洛文尼亚,Slovenia,3702,135,2730
+슬로베니아,斯洛文尼亚,Slovenia,3749,135,2730
 Syria,,Syria,3540,155,842
 태국,泰国,Thailand,3475,58,3312
 Gambia,,Gambia,3405,103,1723
@@ -201,7 +201,7 @@ New Caledonia,,New Caledonia,26,0,26
 Caribbean Netherlands,,Caribbean Netherlands,25,0,7
 Dominica,,Dominica,24,0,18
 Grenada,,Grenada,24,0,24
-Laos,,Laos,23,0,21
+Laos,,Laos,23,0,22
 St. Barth,,St. Barth,21,0,13
 Saint Kitts and Nevis,,Saint Kitts and Nevis,17,0,17
 Greenland,,Greenland,14,0,14

@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1062811,
-        "deaths": 18578,
-        "recovered": 876225
+        "confirmed": 1068320,
+        "deaths": 18635,
+        "recovered": 878700
     },
     {
         "Name": "페루",
@@ -160,20 +160,20 @@
         "recovered": 213634
     },
     {
+        "Name": "필리핀",
+        "Name_ch": "菲律宾",
+        "Name_en": "Philippines",
+        "confirmed": 265888,
+        "deaths": 4630,
+        "recovered": 207504
+    },
+    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
         "confirmed": 261359,
         "deaths": 9428,
         "recovered": 235700
-    },
-    {
-        "Name": "필리핀",
-        "Name_ch": "菲律宾",
-        "Name_en": "Philippines",
-        "confirmed": 261216,
-        "deaths": 4371,
-        "recovered": 207568
     },
     {
         "Name": "인도네시아",
@@ -344,20 +344,20 @@
         "recovered": 66899
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 74529,
+        "deaths": 2203,
+        "recovered": 61097
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
         "confirmed": 74173,
         "deaths": 750,
         "recovered": 72584
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 74152,
-        "deaths": 2188,
-        "recovered": 61097
     },
     {
         "Name": "Honduras",
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8580,
+        "confirmed": 8627,
         "deaths": 337,
         "recovered": 7500
     },
@@ -883,9 +883,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4958,
-        "deaths": 100,
-        "recovered": 4630
+        "confirmed": 4972,
+        "deaths": 101,
+        "recovered": 4635
     },
     {
         "Name": "Congo",
@@ -963,7 +963,7 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 3702,
+        "confirmed": 3749,
         "deaths": 135,
         "recovered": 2730
     },
@@ -1621,7 +1621,7 @@
         "Name_en": "Laos",
         "confirmed": 23,
         "deaths": 0,
-        "recovered": 21
+        "recovered": 22
     },
     {
         "Name": "St. Barth",
