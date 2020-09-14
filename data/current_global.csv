@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6732244,198775,4007889
-인도,印度,India,4926734,80827,3855983
+미국,美国,United States,6737948,198828,4011486
+인도,印度,India,4926914,80808,3856246
 브라질,巴西,Brazil,4335066,131736,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
 페루,秘鲁,Peru,729619,30710,566796
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,339332,4759,243155
 터키,土耳其,Turkey,292878,7119,260058
 이탈리아,义大利,Italy,288761,35624,213950
 필리핀,菲律宾,Philippines,265888,4630,207504
-독일,德国,Germany,263075,9433,235700
+독일,德国,Germany,263210,9435,235700
 인도네시아,印度尼西亚,Indonesia,221523,8841,158405
-이스라엘,以色列,Israel,159290,1136,118547
+이스라엘,以色列,Israel,160368,1136,118570
 Ukraine,,Ukraine,156797,3211,69543
 캐나다,加拿大,Canada,136972,9172,120564
 Bolivia,,Bolivia,126791,7344,84286
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,81909,2957,70927
 폴란드,波兰,Poland,74529,2203,61097
 벨라루스,白俄罗斯,Belarus,74360,756,72609
 Honduras,,Honduras,67789,2079,17873
+Ethiopia,,Ethiopia,64786,1022,25333
 포르투갈,葡萄牙,Portugal,64596,1871,44185
-Ethiopia,,Ethiopia,64301,1013,24983
 Venezuela,,Venezuela,60540,485,48644
 바레인,巴林,Bahrain,60307,212,53681
 싱가포르,新加坡,Singapore,57454,27,56802
@@ -83,7 +83,7 @@ Madagascar,,Madagascar,15769,213,14411
 세네갈,塞内加尔,Senegal,14306,297,10563
 Zambia,,Zambia,13720,320,12380
 크로아티아,克罗地亚,Croatia,13598,227,11151
-Sudan,,Sudan,13516,835,6757
+Sudan,,Sudan,13535,836,6759
 그리스,希腊,Greece,13420,310,3804
 헝가리,匈牙利,Hungary,13153,642,4117
 노르웨이,挪威,Norway,12219,265,10371
@@ -99,7 +99,7 @@ Gabon,,Gabon,8643,53,7706
 핀란드,芬兰,Finland,8627,337,7500
 Haiti,,Haiti,8499,219,6120
 Zimbabwe,,Zimbabwe,7526,224,5678
-Mauritania,,Mauritania,7276,161,6825
+Mauritania,,Mauritania,7295,161,6835
 룩셈부르크,卢森堡,Luxembourg,7238,124,6397
 Montenegro,,Montenegro,6712,120,4507
 Tunisia,,Tunisia,6635,107,1991
@@ -112,8 +112,8 @@ Equatorial Guinea,,Equatorial Guinea,4996,83,4490
 Uganda,,Uganda,4978,56,2317
 홍콩,香港,Hong Kong,4972,101,4635
 Congo,,Congo,4928,88,3887
+Cabo Verde,,Cabo Verde,4839,45,4240
 Nicaragua,,Nicaragua,4818,144,2913
-Cabo Verde,,Cabo Verde,4813,44,4119
 CAR,,CAR,4749,62,1825
 Cuba,,Cuba,4684,108,3930
 Rwanda,,Rwanda,4591,22,2556
@@ -132,7 +132,7 @@ Mayotte,,Mayotte,3374,40,2964
 Myanmar,,Myanmar,3195,32,790
 Trinidad and Tobago,,Trinidad and Tobago,3091,54,787
 Guadeloupe,,Guadeloupe,3080,24,837
-Aruba,,Aruba,3046,18,1542
+Aruba,,Aruba,3060,20,1566
 Bahamas,,Bahamas,2974,67,1344
 Mali,,Mali,2935,128,2289
 Réunion,,Réunion,2872,15,1313
@@ -186,7 +186,7 @@ Cayman Islands,,Cayman Islands,208,1,204
 Barbados,,Barbados,181,7,164
 Bermuda,,Bermuda,177,9,161
 모나코,摩纳哥,Monaco,177,1,132
-Curaçao,,Curaçao,157,1,57
+Curaçao,,Curaçao,161,1,58
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,140,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
