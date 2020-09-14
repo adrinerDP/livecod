@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6715050,
-        "deaths": 198605,
-        "recovered": 3976209
+        "confirmed": 6716377,
+        "deaths": 198620,
+        "recovered": 3981334
     },
     {
         "Name": "인도",
@@ -77,7 +77,7 @@
         "Name_en": "Argentina",
         "confirmed": 555537,
         "deaths": 11412,
-        "recovered": 419513
+        "recovered": 428953
     },
     {
         "Name": "칠레",
@@ -155,9 +155,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 287753,
-        "deaths": 35610,
-        "recovered": 213634
+        "confirmed": 288761,
+        "deaths": 35624,
+        "recovered": 213950
     },
     {
         "Name": "필리핀",
@@ -251,9 +251,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 103660,
-        "deaths": 1968,
-        "recovered": 77182
+        "confirmed": 104110,
+        "deaths": 1984,
+        "recovered": 77790
     },
     {
         "Name": "Panama",
@@ -405,7 +405,7 @@
         "Name_en": "Singapore",
         "confirmed": 57454,
         "deaths": 27,
-        "recovered": 56764
+        "recovered": 56802
     },
     {
         "Name": "나이지리아",
@@ -1040,6 +1040,14 @@
         "recovered": 3005
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 3091,
+        "deaths": 54,
+        "recovered": 787
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
@@ -1054,14 +1062,6 @@
         "confirmed": 3046,
         "deaths": 18,
         "recovered": 1542
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 3042,
-        "deaths": 53,
-        "recovered": 772
     },
     {
         "Name": "Myanmar",
@@ -1091,7 +1091,7 @@
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
-        "confirmed": 2805,
+        "confirmed": 2872,
         "deaths": 15,
         "recovered": 1313
     },
@@ -1107,7 +1107,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2578,
+        "confirmed": 2587,
         "deaths": 49,
         "recovered": 1290
     },

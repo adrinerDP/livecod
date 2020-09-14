@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6715050,198605,3976209
+미국,美国,United States,6716377,198620,3981334
 인도,印度,India,4878042,80026,3809549
 브라질,巴西,Brazil,4330455,131663,3573958
 러시아,俄罗斯,Russia,1068320,18635,878700
@@ -8,7 +8,7 @@
 멕시코,墨西哥,Mexico,668381,70821,471623
 남아프리카 공화국,南非共和国,South Africa,649793,15447,577906
 스페인,西班牙,Spain,576697,29747,0
-Argentina,,Argentina,555537,11412,419513
+Argentina,,Argentina,555537,11412,428953
 칠레,智利,Chile,436433,12013,407725
 이란,伊朗,Iran,404648,23313,348013
 프랑스,法国,France,381094,30916,89059
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,339332,4759,243155
 파키스탄,巴基斯坦,Pakistan,302020,6383,289806
 터키,土耳其,Turkey,291162,7056,258833
 이라크,伊拉克,Iraq,290309,8014,224705
-이탈리아,义大利,Italy,287753,35610,213634
+이탈리아,义大利,Italy,288761,35624,213950
 필리핀,菲律宾,Philippines,265888,4630,207504
 독일,德国,Germany,261895,9429,235700
 인도네시아,印度尼西亚,Indonesia,221523,8841,158405
@@ -30,7 +30,7 @@ Bolivia,,Bolivia,126791,7344,84286
 에콰도르,厄瓜多尔,Ecuador,118594,10903,97063
 Kazakhstan,,Kazakhstan,106855,1634,100627
 루마니아,尼亚,Romania,104187,4185,43244
-도미니카 공화국,多明尼加共和国,Dominican Republic,103660,1968,77182
+도미니카 공화국,多明尼加共和国,Dominican Republic,104110,1984,77790
 Panama,,Panama,101745,2166,74107
 이집트,埃及,Egypt,101009,5648,84161
 쿠웨이트,科威特,Kuwait,95472,563,85501
@@ -49,7 +49,7 @@ Honduras,,Honduras,67789,2079,17873
 Ethiopia,,Ethiopia,64301,1013,24983
 Venezuela,,Venezuela,60540,485,48644
 바레인,巴林,Bahrain,60307,212,53681
-싱가포르,新加坡,Singapore,57454,27,56764
+싱가포르,新加坡,Singapore,57454,27,56802
 나이지리아,尼日利亚,Nigeria,56256,1082,44152
 코스타리카,哥斯达黎加,Costa Rica,55454,590,20928
 네팔,尼泊尔,Nepal,54159,345,38697
@@ -129,15 +129,15 @@ Lithuania,,Lithuania,3386,87,2071
 Mayotte,,Mayotte,3374,40,2964
 요르단,约旦,Jordan,3314,24,2206
 스리랑카,斯里兰卡,Sri Lanka,3253,13,3005
+Trinidad and Tobago,,Trinidad and Tobago,3091,54,787
 Guadeloupe,,Guadeloupe,3080,24,837
 Aruba,,Aruba,3046,18,1542
-Trinidad and Tobago,,Trinidad and Tobago,3042,53,772
 Myanmar,,Myanmar,3015,24,699
 Bahamas,,Bahamas,2974,67,1344
 Mali,,Mali,2924,128,2285
-Réunion,,Réunion,2805,15,1313
+Réunion,,Réunion,2872,15,1313
 에스토니아,爱沙尼亚,Estonia,2698,64,2256
-South Sudan,,South Sudan,2578,49,1290
+South Sudan,,South Sudan,2587,49,1290
 Malta,,Malta,2405,16,1890
 조지아,格鲁吉亚,Georgia,2392,19,1369
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
