@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6718969,
-        "deaths": 198643,
-        "recovered": 3981346
+        "confirmed": 6720083,
+        "deaths": 198660,
+        "recovered": 3982262
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4330455,
-        "deaths": 131663,
+        "confirmed": 4335066,
+        "deaths": 131736,
         "recovered": 3573958
     },
     {
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 261895,
-        "deaths": 9429,
+        "confirmed": 262688,
+        "deaths": 9431,
         "recovered": 235700
     },
     {
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 118594,
-        "deaths": 10903,
+        "confirmed": 118911,
+        "deaths": 10922,
         "recovered": 97063
     },
     {
@@ -507,9 +507,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 36188,
-        "deaths": 456,
-        "recovered": 21294
+        "confirmed": 36722,
+        "deaths": 465,
+        "recovered": 22020
     },
     {
         "Name": "Kenya",
@@ -1040,6 +1040,14 @@
         "recovered": 3005
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 3195,
+        "deaths": 32,
+        "recovered": 790
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1064,14 +1072,6 @@
         "recovered": 1542
     },
     {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 3015,
-        "deaths": 24,
-        "recovered": 699
-    },
-    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1083,9 +1083,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2924,
+        "confirmed": 2935,
         "deaths": 128,
-        "recovered": 2285
+        "recovered": 2289
     },
     {
         "Name": "Réunion",
