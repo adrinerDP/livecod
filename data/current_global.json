@@ -291,9 +291,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 89746,
-        "deaths": 780,
-        "recovered": 83771
+        "confirmed": 90222,
+        "deaths": 790,
+        "recovered": 83928
     },
     {
         "Name": "모로코",
@@ -573,7 +573,7 @@
         "Name_en": "Australia",
         "confirmed": 26692,
         "deaths": 816,
-        "recovered": 23465
+        "recovered": 23578
     },
     {
         "Name": "레바논",
@@ -1397,7 +1397,7 @@
         "Name_en": "Faeroe Islands",
         "confirmed": 423,
         "deaths": 0,
-        "recovered": 410
+        "recovered": 412
     },
     {
         "Name": "Mauritius",
