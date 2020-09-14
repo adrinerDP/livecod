@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6710031,
-        "deaths": 198533,
-        "recovered": 3975097
+        "confirmed": 6710588,
+        "deaths": 198542,
+        "recovered": 3975154
     },
     {
         "Name": "인도",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 94764,
-        "deaths": 560,
-        "recovered": 84995
+        "confirmed": 95472,
+        "deaths": 563,
+        "recovered": 85501
     },
     {
         "Name": "벨기에",
@@ -600,20 +600,20 @@
         "recovered": 12183
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 20237,
+        "deaths": 633,
+        "recovered": 16437
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 20167,
         "deaths": 415,
         "recovered": 18837
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 19890,
-        "deaths": 631,
-        "recovered": 16333
     },
     {
         "Name": "Ivory Coast",
@@ -635,9 +635,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 15791,
-        "deaths": 648,
-        "recovered": 13184
+        "confirmed": 15827,
+        "deaths": 652,
+        "recovered": 13315
     },
     {
         "Name": "Madagascar",
@@ -880,6 +880,14 @@
         "recovered": 4490
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 4978,
+        "deaths": 56,
+        "recovered": 2317
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -910,14 +918,6 @@
         "confirmed": 4813,
         "deaths": 44,
         "recovered": 4119
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 4799,
-        "deaths": 55,
-        "recovered": 2256
     },
     {
         "Name": "CAR",
@@ -1035,8 +1035,8 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3234,
-        "deaths": 12,
+        "confirmed": 3235,
+        "deaths": 13,
         "recovered": 3005
     },
     {
