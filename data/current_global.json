@@ -587,9 +587,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 23635,
-        "deaths": 705,
-        "recovered": 16166
+        "confirmed": 23929,
+        "deaths": 725,
+        "recovered": 16701
     },
     {
         "Name": "Libya",
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 20237,
+        "confirmed": 20571,
         "deaths": 633,
-        "recovered": 16437
+        "recovered": 16557
     },
     {
         "Name": "카메룬",
@@ -1568,6 +1568,14 @@
         "recovered": 24
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 17
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
@@ -1590,14 +1598,6 @@
         "confirmed": 26,
         "deaths": 0,
         "recovered": 26
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 25,
-        "deaths": 0,
-        "recovered": 7
     },
     {
         "Name": "Dominica",
