@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6747314,
-        "deaths": 198937,
-        "recovered": 4021492
+        "confirmed": 6748571,
+        "deaths": 198972,
+        "recovered": 4023989
     },
     {
         "Name": "인도",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 555537,
-        "deaths": 11412,
+        "confirmed": 565446,
+        "deaths": 11667,
         "recovered": 428953
     },
     {
@@ -819,9 +819,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 7238,
+        "confirmed": 7244,
         "deaths": 124,
-        "recovered": 6397
+        "recovered": 6555
     },
     {
         "Name": "Montenegro",
@@ -867,9 +867,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5075,
-        "deaths": 98,
-        "recovered": 4229
+        "confirmed": 5104,
+        "deaths": 101,
+        "recovered": 4374
     },
     {
         "Name": "Equatorial Guinea",
@@ -923,9 +923,9 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4749,
+        "confirmed": 4772,
         "deaths": 62,
-        "recovered": 1825
+        "recovered": 1828
     },
     {
         "Name": "Cuba",
@@ -936,6 +936,14 @@
         "recovered": 4040
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4611,
+        "deaths": 95,
+        "recovered": 3935
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
@@ -944,20 +952,12 @@
         "recovered": 2736
     },
     {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4582,
-        "deaths": 93,
-        "recovered": 3850
-    },
-    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 3771,
-        "deaths": 42,
-        "recovered": 1149
+        "confirmed": 3933,
+        "deaths": 44,
+        "recovered": 1161
     },
     {
         "Name": "슬로베니아",
@@ -1219,9 +1219,9 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1526,
+        "confirmed": 1534,
         "deaths": 22,
-        "recovered": 1281
+        "recovered": 1282
     },
     {
         "Name": "Belize",
