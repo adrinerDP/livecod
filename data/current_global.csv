@@ -10,10 +10,10 @@
 스페인,西班牙,Spain,593730,29848,0
 Argentina,,Argentina,565446,11667,428953
 칠레,智利,Chile,436433,12013,407725
-이란,伊朗,Iran,404648,23313,348013
+이란,伊朗,Iran,407353,23453,349984
 프랑스,法国,France,387252,30950,89507
 영국,英国,UK,371125,41637,0
-Bangladesh,,Bangladesh,339332,4759,243155
+Bangladesh,,Bangladesh,341056,4802,245594
 사우디아라비아,沙特阿拉伯,Saudi Arabia,326258,4305,303930
 파키스탄,巴基斯坦,Pakistan,302424,6389,290261
 이라크,伊拉克,Iraq,294478,8086,229132
@@ -35,7 +35,7 @@ Panama,,Panama,102204,2173,74782
 이집트,埃及,Egypt,101177,5661,84969
 쿠웨이트,科威特,Kuwait,95472,563,85501
 벨기에,比利时,Belgium,94306,9927,18737
-오만,阿曼,Oman,90222,790,83928
+오만,阿曼,Oman,90660,797,84113
 모로코,摩洛哥,Morocco,88203,1614,68970
 스웨덴,瑞典语,Sweden,86505,5846,0
 네덜란드,荷兰,Netherlands,83399,6256,0
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,61569,494,49371
 네팔,尼泊尔,Nepal,55329,360,39576
 알제리,阿尔及利亚,Algeria,48496,1620,34204
 Uzbekistan,,Uzbekistan,48192,400,44526
-스위스,瑞士,Switzerland,47436,2025,39600
+스위스,瑞士,Switzerland,47751,2025,39600
 아르메니아,亚美尼亚,Armenia,46119,920,41941
 Ghana,,Ghana,45601,294,44679
 Kyrgyzstan,,Kyrgyzstan,44999,1063,41103
@@ -80,7 +80,7 @@ Ivory Coast,,Ivory Coast,19066,120,18174
 Bulgaria,,Bulgaria,18061,729,12930
 North Macedonia,,North Macedonia,15827,652,13315
 Madagascar,,Madagascar,15769,213,14411
-세네갈,塞内加尔,Senegal,14306,297,10563
+세네갈,塞内加尔,Senegal,14529,298,10692
 헝가리,匈牙利,Hungary,13879,646,4130
 크로아티아,克罗地亚,Croatia,13749,230,11412
 Zambia,,Zambia,13720,320,12380
@@ -110,7 +110,7 @@ Djibouti,,Djibouti,5396,61,5331
 Eswatini,,Eswatini,5104,101,4374
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 Uganda,,Uganda,4978,56,2317
-홍콩,香港,Hong Kong,4972,101,4635
+홍콩,香港,Hong Kong,4976,101,4635
 Congo,,Congo,4934,88,3887
 Cabo Verde,,Cabo Verde,4839,45,4240
 Nicaragua,,Nicaragua,4818,144,2913
@@ -177,8 +177,8 @@ Faeroe Islands,,Faeroe Islands,423,0,412
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,339,24,312
+지브롤터,直布罗陀,Gibraltar,334,0,307
 Saint Martin,,Saint Martin,330,6,206
-지브롤터,直布罗陀,Gibraltar,330,0,303
 Mongolia,,Mongolia,311,0,301
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,246,0,173

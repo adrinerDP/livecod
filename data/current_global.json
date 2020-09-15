@@ -91,9 +91,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 404648,
-        "deaths": 23313,
-        "recovered": 348013
+        "confirmed": 407353,
+        "deaths": 23453,
+        "recovered": 349984
     },
     {
         "Name": "프랑스",
@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 339332,
-        "deaths": 4759,
-        "recovered": 243155
+        "confirmed": 341056,
+        "deaths": 4802,
+        "recovered": 245594
     },
     {
         "Name": "사우디아라비아",
@@ -291,9 +291,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 90222,
-        "deaths": 790,
-        "recovered": 83928
+        "confirmed": 90660,
+        "deaths": 797,
+        "recovered": 84113
     },
     {
         "Name": "모로코",
@@ -451,7 +451,7 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 47436,
+        "confirmed": 47751,
         "deaths": 2025,
         "recovered": 39600
     },
@@ -651,9 +651,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14306,
-        "deaths": 297,
-        "recovered": 10563
+        "confirmed": 14529,
+        "deaths": 298,
+        "recovered": 10692
     },
     {
         "Name": "헝가리",
@@ -891,7 +891,7 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 4972,
+        "confirmed": 4976,
         "deaths": 101,
         "recovered": 4635
     },
@@ -1424,20 +1424,20 @@
         "recovered": 312
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 334,
+        "deaths": 0,
+        "recovered": 307
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "confirmed": 330,
         "deaths": 6,
         "recovered": 206
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 330,
-        "deaths": 0,
-        "recovered": 303
     },
     {
         "Name": "Mongolia",
