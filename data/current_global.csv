@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6785830,200098,4059526
+미국,美国,United States,6787151,200147,4060417
 인도,印度,India,5018034,82091,3939111
-브라질,巴西,Brazil,4382263,133119,3671128
+브라질,巴西,Brazil,4384299,133207,3671128
 러시아,俄罗斯,Russia,1073849,18785,884305
 페루,秘鲁,Peru,738020,30927,580753
 콜롬비아,哥伦比亚,Colombia,728590,23288,607978
 멕시코,墨西哥,Mexico,671716,71049,475795
 남아프리카 공화국,南非共和国,South Africa,651521,15641,583126
 스페인,西班牙,Spain,603167,30004,0
-Argentina,,Argentina,565446,11710,438883
+Argentina,,Argentina,577338,11852,438883
 칠레,智利,Chile,437983,12040,409944
 이란,伊朗,Iran,407353,23453,349984
 프랑스,法国,France,395104,30999,89891
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,341056,4802,245594
 터키,土耳其,Turkey,294620,7186,261260
 이탈리아,义大利,Italy,289990,35633,214645
 필리핀,菲律宾,Philippines,269407,4663,207352
-독일,德国,Germany,264837,9445,237550
+독일,德国,Germany,264844,9445,239100
 인도네시아,印度尼西亚,Indonesia,225030,8965,161065
 이스라엘,以色列,Israel,164402,1147,120727
 Ukraine,,Ukraine,159702,3264,70810
-캐나다,加拿大,Canada,138582,9188,121567
+캐나다,加拿大,Canada,138803,9188,121840
 Bolivia,,Bolivia,127619,7394,85198
 카타르,卡塔尔,Qatar,122214,208,119144
 에콰도르,厄瓜多尔,Ecuador,119553,10963,97063
@@ -60,9 +60,9 @@ Uzbekistan,,Uzbekistan,48429,402,44942
 Ghana,,Ghana,45655,294,44797
 Kyrgyzstan,,Kyrgyzstan,44999,1063,41103
 Moldova,,Moldova,43734,1143,32293
+체코,捷克,Czechia,38896,476,22613
 아프가니스탄,阿富汗,Afghanistan,38815,1426,32098
 아제르바이잔,阿塞拜疆,Azerbaijan,38517,566,35998
-체코,捷克,Czechia,38187,476,22526
 Kenya,,Kenya,36205,624,23243
 오스트리아,奥地利,Austria,34305,757,27354
 세르비아,塞尔维亚,Serbia,32511,735,31313
@@ -86,7 +86,7 @@ Zambia,,Zambia,13819,324,12590
 크로아티아,克罗地亚,Croatia,13749,230,11412
 그리스,希腊,Greece,13730,313,3804
 Sudan,,Sudan,13535,836,6759
-노르웨이,挪威,Norway,12330,265,10371
+노르웨이,挪威,Norway,12393,265,10371
 Albania,,Albania,11672,340,6668
 DRC,,DRC,10401,267,9817
 Guinea,,Guinea,10111,63,9444
@@ -102,13 +102,13 @@ Tunisia,,Tunisia,7623,123,2262
 Zimbabwe,,Zimbabwe,7576,224,5783
 Mauritania,,Mauritania,7319,161,6839
 룩셈부르크,卢森堡,Luxembourg,7284,124,6555
-Montenegro,,Montenegro,6900,121,4589
+Montenegro,,Montenegro,7061,123,4692
 슬로바키아,斯洛伐克,Slovakia,5768,38,3214
 Mozambique,,Mozambique,5713,37,3181
 Malawi,,Malawi,5701,178,3762
 Djibouti,,Djibouti,5396,61,5331
+Eswatini,,Eswatini,5128,101,4401
 Uganda,,Uganda,5123,58,2333
-Eswatini,,Eswatini,5104,101,4374
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 홍콩,香港,Hong Kong,4976,102,4646
 Congo,,Congo,4934,88,3887
@@ -146,7 +146,7 @@ Benin,,Benin,2267,40,1942
 Iceland,,Iceland,2174,10,2102
 Sierra Leone,,Sierra Leone,2126,72,1640
 Yemen,,Yemen,2016,583,1219
-Guyana,,Guyana,1884,56,1265
+Guyana,,Guyana,1958,58,1302
 Uruguay,,Uruguay,1827,45,1545
 New Zealand,,New Zealand,1801,24,1694
 Burkina Faso,,Burkina Faso,1717,56,1137
