@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6776992,199860,4052454
+미국,美国,United States,6778044,199887,4053554
 인도,印度,India,5018034,82091,3939111
 브라질,巴西,Brazil,4382263,133119,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
@@ -89,7 +89,7 @@ Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12330,265,10371
 Albania,,Albania,11672,340,6668
 DRC,,DRC,10401,267,9817
-Guinea,,Guinea,10061,63,9352
+Guinea,,Guinea,10111,63,9444
 말레이시아,马来西亚,Malaysia,9969,128,9209
 Namibia,,Namibia,9901,106,7358
 French Guiana,,French Guiana,9578,64,9202
@@ -101,7 +101,7 @@ Haiti,,Haiti,8499,219,6120
 Zimbabwe,,Zimbabwe,7531,224,5690
 Tunisia,,Tunisia,7382,117,2175
 Mauritania,,Mauritania,7319,161,6839
-룩셈부르크,卢森堡,Luxembourg,7244,124,6555
+룩셈부르크,卢森堡,Luxembourg,7284,124,6555
 Montenegro,,Montenegro,6900,121,4589
 슬로바키아,斯洛伐克,Slovakia,5768,38,3214
 Mozambique,,Mozambique,5713,37,3181
@@ -112,7 +112,7 @@ Eswatini,,Eswatini,5104,101,4374
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 홍콩,香港,Hong Kong,4976,102,4646
 Congo,,Congo,4934,88,3887
-Cabo Verde,,Cabo Verde,4839,45,4240
+Cabo Verde,,Cabo Verde,4904,46,4294
 Nicaragua,,Nicaragua,4818,144,2913
 Cuba,,Cuba,4803,108,4119
 CAR,,CAR,4772,62,1828
@@ -125,7 +125,7 @@ Syria,,Syria,3614,160,871
 Angola,,Angola,3569,139,1332
 Myanmar,,Myanmar,3502,35,832
 태국,泰国,Thailand,3480,58,3315
-Gambia,,Gambia,3405,103,1723
+Gambia,,Gambia,3428,105,1737
 Lithuania,,Lithuania,3397,87,2094
 Somalia,,Somalia,3389,98,2803
 Mayotte,,Mayotte,3374,40,2964

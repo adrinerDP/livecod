@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6776992,
-        "deaths": 199860,
-        "recovered": 4052454
+        "confirmed": 6778044,
+        "deaths": 199887,
+        "recovered": 4053554
     },
     {
         "Name": "인도",
@@ -723,9 +723,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10061,
+        "confirmed": 10111,
         "deaths": 63,
-        "recovered": 9352
+        "recovered": 9444
     },
     {
         "Name": "말레이시아",
@@ -819,7 +819,7 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 7244,
+        "confirmed": 7284,
         "deaths": 124,
         "recovered": 6555
     },
@@ -907,9 +907,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 4839,
-        "deaths": 45,
-        "recovered": 4240
+        "confirmed": 4904,
+        "deaths": 46,
+        "recovered": 4294
     },
     {
         "Name": "Nicaragua",
@@ -1011,9 +1011,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3405,
-        "deaths": 103,
-        "recovered": 1723
+        "confirmed": 3428,
+        "deaths": 105,
+        "recovered": 1737
     },
     {
         "Name": "Lithuania",
