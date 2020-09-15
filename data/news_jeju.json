@@ -1,15 +1,11 @@
 ﻿[
     {
-        "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
-        "link": "http://www.fnnews.com/news/202009151114117192"
-    },
-    {
-        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
-    },
-    {
         "title": "제주서 가족 3명 코로나 확진…\"자녀 등교자제 학교 접촉 막아\"(종합)",
         "link": "http://yna.kr/AKR20200915011951056?did=1195m"
+    },
+    {
+        "title": "수도권 다녀온 일가족 확진…제주도, 54~56번 동선 공개",
+        "link": "http://www.fnnews.com/news/202009151114117192"
     },
     {
         "title": "제주 코로나19 확진자 3명 발생…수도권 방문 일가족",
@@ -18,6 +14,18 @@
     {
         "title": "성남 코로나19 확진자, 1박 2일 제주도 여행",
         "link": "http://www.obsnews.co.kr/news/articleView.html?idxno=1232640"
+    },
+    {
+        "title": "코로나 확진자 다녀간 한라산 대피소 5곳 폐쇄",
+        "link": "https://www.ytn.co.kr/_ln/0115_202009151611286915"
+    },
+    {
+        "title": "코로나 확진자로 한라산 대피소·쉼터 임시 폐쇄…\"등산은 가능\"",
+        "link": "http://yna.kr/AKR20200915137800056?did=1195m"
+    },
+    {
+        "title": "제주 코로나19 확진자 3명 발생…수도권 방문",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004451&ref=A"
     },
     {
         "title": "성남 ‘코로나19’ 확진자…검사 전 1박 2일 제주여행",
@@ -30,13 +38,5 @@
     {
         "title": "제주서 수도권 방문 일가족 3명 코로나19 집단 감염",
         "link": "http://www.hani.co.kr/arti/area/jeju/962162.html"
-    },
-    {
-        "title": "제주 30-31번 확진자 JDC 직원 부부 완치 '퇴원'",
-        "link": "http://www.jejusori.net/news/articleView.html?idxno=320130"
-    },
-    {
-        "title": "제주서 일가족 3명 코로나 확진…동선·접촉자 공개",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5004791&ref=A"
     }
 ]
