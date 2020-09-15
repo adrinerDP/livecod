@@ -987,9 +987,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3475,
+        "confirmed": 3480,
         "deaths": 58,
-        "recovered": 3312
+        "recovered": 3315
     },
     {
         "Name": "Angola",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 245,
+        "confirmed": 246,
         "deaths": 0,
-        "recovered": 161
+        "recovered": 173
     },
     {
         "Name": "Cayman Islands",
