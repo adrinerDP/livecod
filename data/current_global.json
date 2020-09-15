@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6764598,
-        "deaths": 199622,
-        "recovered": 4043637
+        "confirmed": 6767454,
+        "deaths": 199666,
+        "recovered": 4044480
     },
     {
         "Name": "인도",
@@ -920,20 +920,20 @@
         "recovered": 2913
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 4803,
+        "deaths": 108,
+        "recovered": 4119
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
         "confirmed": 4772,
         "deaths": 62,
         "recovered": 1828
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4726,
-        "deaths": 108,
-        "recovered": 4040
     },
     {
         "Name": "Suriname",
