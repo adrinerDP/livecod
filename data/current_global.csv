@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6752122,199166,4029477
+미국,美国,United States,6753195,199216,4029477
 인도,印度,India,4963097,81168,3887371
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
@@ -49,7 +49,7 @@ Honduras,,Honduras,68620,2087,18487
 Ethiopia,,Ethiopia,64786,1022,25333
 Venezuela,,Venezuela,61569,494,49371
 바레인,巴林,Bahrain,60965,213,54204
-싱가포르,新加坡,Singapore,57488,27,56802
+싱가포르,新加坡,Singapore,57488,27,56884
 코스타리카,哥斯达黎加,Costa Rica,57361,621,21206
 네팔,尼泊尔,Nepal,56788,371,40638
 나이지리아,尼日利亚,Nigeria,56388,1083,44337
@@ -87,7 +87,7 @@ Zambia,,Zambia,13819,324,12590
 그리스,希腊,Greece,13730,313,3804
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12330,265,10371
-Albania,,Albania,11520,338,6615
+Albania,,Albania,11672,340,6668
 DRC,,DRC,10401,267,9817
 Guinea,,Guinea,10061,63,9352
 말레이시아,马来西亚,Malaysia,9969,128,9209
@@ -120,8 +120,8 @@ Suriname,,Suriname,4611,95,3935
 Rwanda,,Rwanda,4602,22,2736
 Jamaica,,Jamaica,3933,44,1161
 슬로베니아,斯洛文尼亚,Slovenia,3831,135,2789
+요르단,约旦,Jordan,3677,26,2311
 Syria,,Syria,3576,157,858
-요르단,约旦,Jordan,3528,26,2255
 Myanmar,,Myanmar,3502,35,832
 태국,泰国,Thailand,3480,58,3315
 Angola,,Angola,3439,136,1324
