@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4930236,
-        "deaths": 80808,
+        "confirmed": 4933188,
+        "deaths": 80833,
         "recovered": 3859399
     },
     {
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 565446,
-        "deaths": 11667,
-        "recovered": 428953
+        "deaths": 11710,
+        "recovered": 438883
     },
     {
         "Name": "칠레",
@@ -123,9 +123,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 326258,
-        "deaths": 4305,
-        "recovered": 303930
+        "confirmed": 326930,
+        "deaths": 4338,
+        "recovered": 305022
     },
     {
         "Name": "파키스탄",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 263407,
+        "confirmed": 263568,
         "deaths": 9437,
         "recovered": 237550
     },
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 121975,
-        "deaths": 207,
-        "recovered": 118931
+        "confirmed": 122214,
+        "deaths": 208,
+        "recovered": 119144
     },
     {
         "Name": "에콰도르",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 80266,
-        "deaths": 399,
-        "recovered": 69981
+        "confirmed": 80940,
+        "deaths": 401,
+        "recovered": 70635
     },
     {
         "Name": "일본",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 74360,
-        "deaths": 756,
-        "recovered": 72609
+        "confirmed": 74552,
+        "deaths": 761,
+        "recovered": 72661
     },
     {
         "Name": "Honduras",
@@ -368,20 +368,20 @@
         "recovered": 18487
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 65021,
+        "deaths": 1875,
+        "recovered": 44362
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 64786,
         "deaths": 1022,
         "recovered": 25333
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 64596,
-        "deaths": 1871,
-        "recovered": 44185
     },
     {
         "Name": "Venezuela",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 48192,
-        "deaths": 400,
-        "recovered": 44526
+        "confirmed": 48429,
+        "deaths": 402,
+        "recovered": 44942
     },
     {
         "Name": "스위스",
@@ -531,9 +531,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32437,
-        "deaths": 733,
-        "recovered": 31285
+        "confirmed": 32511,
+        "deaths": 735,
+        "recovered": 31313
     },
     {
         "Name": "팔레스타인",
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9088,
-        "deaths": 72,
-        "recovered": 7853
+        "confirmed": 9129,
+        "deaths": 73,
+        "recovered": 7896
     },
     {
         "Name": "핀란드",
@@ -1043,9 +1043,9 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3262,
+        "confirmed": 3266,
         "deaths": 13,
-        "recovered": 3005
+        "recovered": 3016
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1155,9 +1155,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2168,
+        "confirmed": 2174,
         "deaths": 10,
-        "recovered": 2095
+        "recovered": 2102
     },
     {
         "Name": "Sierra Leone",
