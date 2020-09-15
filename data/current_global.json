@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6769655,
-        "deaths": 199707,
-        "recovered": 4044873
+        "confirmed": 6773684,
+        "deaths": 199814,
+        "recovered": 4049097
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 650749,
-        "deaths": 15499,
-        "recovered": 579289
+        "confirmed": 651521,
+        "deaths": 15641,
+        "recovered": 583126
     },
     {
         "Name": "스페인",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 162273,
-        "deaths": 1141,
-        "recovered": 120443
+        "confirmed": 164402,
+        "deaths": 1147,
+        "recovered": 120727
     },
     {
         "Name": "Ukraine",
@@ -400,20 +400,20 @@
         "recovered": 54204
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 58137,
+        "deaths": 633,
+        "recovered": 21536
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
         "confirmed": 57488,
         "deaths": 27,
         "recovered": 56884
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 57361,
-        "deaths": 621,
-        "recovered": 21206
     },
     {
         "Name": "네팔",
@@ -979,9 +979,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3576,
-        "deaths": 157,
-        "recovered": 858
+        "confirmed": 3614,
+        "deaths": 160,
+        "recovered": 871
     },
     {
         "Name": "Myanmar",
