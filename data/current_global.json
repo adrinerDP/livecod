@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 160368,
-        "deaths": 1136,
-        "recovered": 118570
+        "confirmed": 162273,
+        "deaths": 1141,
+        "recovered": 120443
     },
     {
         "Name": "Ukraine",
@@ -731,9 +731,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9946,
+        "confirmed": 9969,
         "deaths": 128,
-        "recovered": 9203
+        "recovered": 9209
     },
     {
         "Name": "Namibia",
@@ -768,20 +768,20 @@
         "recovered": 7853
     },
     {
+        "Name": "핀란드",
+        "Name_ch": "芬兰",
+        "Name_en": "Finland",
+        "confirmed": 8725,
+        "deaths": 337,
+        "recovered": 7500
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "confirmed": 8654,
         "deaths": 53,
         "recovered": 7785
-    },
-    {
-        "Name": "핀란드",
-        "Name_ch": "芬兰",
-        "Name_en": "Finland",
-        "confirmed": 8627,
-        "deaths": 337,
-        "recovered": 7500
     },
     {
         "Name": "Haiti",
