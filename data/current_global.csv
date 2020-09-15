@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6781650,199992,4055349
+미국,美国,United States,6785830,200098,4059526
 인도,印度,India,5018034,82091,3939111
-브라질,巴西,Brazil,4382263,133119,3613184
+브라질,巴西,Brazil,4382263,133119,3671128
 러시아,俄罗斯,Russia,1073849,18785,884305
 페루,秘鲁,Peru,738020,30927,580753
-콜롬비아,哥伦比亚,Colombia,721892,23123,606925
+콜롬비아,哥伦比亚,Colombia,728590,23288,607978
 멕시코,墨西哥,Mexico,671716,71049,475795
 남아프리카 공화국,南非共和国,South Africa,651521,15641,583126
 스페인,西班牙,Spain,603167,30004,0
@@ -32,7 +32,7 @@ Kazakhstan,,Kazakhstan,106920,1634,100836
 루마니아,尼亚,Romania,105298,4236,43244
 도미니카 공화국,多明尼加共和国,Dominican Republic,104803,1998,78387
 Panama,,Panama,102204,2173,74782
-이집트,埃及,Egypt,101177,5661,84969
+이집트,埃及,Egypt,101340,5679,85745
 쿠웨이트,科威特,Kuwait,96301,568,86219
 벨기에,比利时,Belgium,94306,9927,18737
 오만,阿曼,Oman,90660,797,84113
@@ -57,7 +57,7 @@ Venezuela,,Venezuela,61569,494,49371
 Uzbekistan,,Uzbekistan,48429,402,44942
 스위스,瑞士,Switzerland,47751,2028,39900
 아르메니아,亚美尼亚,Armenia,46119,920,41941
-Ghana,,Ghana,45601,294,44679
+Ghana,,Ghana,45655,294,44797
 Kyrgyzstan,,Kyrgyzstan,44999,1063,41103
 Moldova,,Moldova,43734,1143,32293
 아프가니스탄,阿富汗,Afghanistan,38815,1426,32098
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,27088,792,19450
 Libya,,Libya,24144,383,13252
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,23929,725,16701
 덴마크,丹麦,Denmark,20571,633,16557
-카메룬,喀麦隆,Cameroon,20228,415,18837
+카메룬,喀麦隆,Cameroon,20271,415,18837
 Ivory Coast,,Ivory Coast,19100,120,18228
 Bulgaria,,Bulgaria,18216,736,13057
 North Macedonia,,North Macedonia,15925,661,13418
@@ -97,9 +97,9 @@ Maldives,,Maldives,9328,33,7729
 Tajikistan,,Tajikistan,9129,73,7896
 핀란드,芬兰,Finland,8725,339,7500
 Gabon,,Gabon,8654,53,7785
-Haiti,,Haiti,8499,219,6120
-Zimbabwe,,Zimbabwe,7531,224,5690
-Tunisia,,Tunisia,7382,117,2175
+Haiti,,Haiti,8530,220,6181
+Tunisia,,Tunisia,7623,123,2262
+Zimbabwe,,Zimbabwe,7576,224,5783
 Mauritania,,Mauritania,7319,161,6839
 룩셈부르크,卢森堡,Luxembourg,7284,124,6555
 Montenegro,,Montenegro,6900,121,4589
@@ -130,7 +130,7 @@ Lithuania,,Lithuania,3397,87,2094
 Somalia,,Somalia,3389,98,2803
 Mayotte,,Mayotte,3374,40,2964
 스리랑카,斯里兰卡,Sri Lanka,3271,13,3016
-Trinidad and Tobago,,Trinidad and Tobago,3183,56,798
+Trinidad and Tobago,,Trinidad and Tobago,3223,56,798
 Aruba,,Aruba,3152,22,1610
 Guadeloupe,,Guadeloupe,3080,24,837
 Bahamas,,Bahamas,3008,68,1391
@@ -147,7 +147,7 @@ Iceland,,Iceland,2174,10,2102
 Sierra Leone,,Sierra Leone,2126,72,1640
 Yemen,,Yemen,2016,583,1219
 Guyana,,Guyana,1884,56,1265
-Uruguay,,Uruguay,1812,45,1528
+Uruguay,,Uruguay,1827,45,1545
 New Zealand,,New Zealand,1801,24,1694
 Burkina Faso,,Burkina Faso,1717,56,1137
 토고,多哥,Togo,1595,40,1219
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,311,0,301
 부탄,不丹,Bhutan,246,0,173
 Cayman Islands,,Cayman Islands,208,1,204
 Barbados,,Barbados,183,7,165
-Bermuda,,Bermuda,177,9,161
+Bermuda,,Bermuda,177,9,164
 모나코,摩纳哥,Monaco,177,1,132
 Curaçao,,Curaçao,169,1,61
 Brunei,,Brunei,145,3,139
@@ -192,7 +192,7 @@ Seychelles,,Seychelles,140,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,66,1,37
-St. Vincent Grenadines,,St. Vincent Grenadines,64,0,61
+St. Vincent Grenadines,,St. Vincent Grenadines,64,0,62
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
 Caribbean Netherlands,,Caribbean Netherlands,28,1,17
