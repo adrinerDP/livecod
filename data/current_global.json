@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6748571,
-        "deaths": 198972,
-        "recovered": 4023989
+        "confirmed": 6748858,
+        "deaths": 198974,
+        "recovered": 4026210
     },
     {
         "Name": "인도",
@@ -467,9 +467,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 45493,
-        "deaths": 289,
-        "recovered": 44471
+        "confirmed": 45601,
+        "deaths": 294,
+        "recovered": 44679
     },
     {
         "Name": "Kyrgyzstan",
@@ -1051,8 +1051,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3091,
-        "deaths": 54,
+        "confirmed": 3141,
+        "deaths": 55,
         "recovered": 787
     },
     {
@@ -1272,6 +1272,14 @@
         "recovered": 1104
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1099,
+        "deaths": 2,
+        "recovered": 672
+    },
+    {
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
@@ -1285,15 +1293,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1063,
         "deaths": 35,
-        "recovered": 918
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 953,
-        "deaths": 2,
-        "recovered": 642
+        "recovered": 926
     },
     {
         "Name": "Martinique",
@@ -1424,6 +1424,14 @@
         "recovered": 312
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 330,
+        "deaths": 6,
+        "recovered": 206
+    },
+    {
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
@@ -1446,14 +1454,6 @@
         "confirmed": 275,
         "deaths": 0,
         "recovered": 274
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "confirmed": 256,
-        "deaths": 6,
-        "recovered": 107
     },
     {
         "Name": "부탄",
@@ -1627,9 +1627,9 @@
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "confirmed": 21,
+        "confirmed": 23,
         "deaths": 0,
-        "recovered": 13
+        "recovered": 16
     },
     {
         "Name": "Saint Kitts and Nevis",

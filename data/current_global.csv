@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6748571,198972,4023989
+미국,美国,United States,6748858,198974,4026210
 인도,印度,India,4926914,80808,3856246
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1068320,18635,878700
@@ -57,7 +57,7 @@ Venezuela,,Venezuela,60540,485,48644
 Uzbekistan,,Uzbekistan,47836,396,44375
 스위스,瑞士,Switzerland,47436,2025,39600
 아르메니아,亚美尼亚,Armenia,45969,919,41693
-Ghana,,Ghana,45493,289,44471
+Ghana,,Ghana,45601,294,44679
 Kyrgyzstan,,Kyrgyzstan,44928,1063,41023
 Moldova,,Moldova,43207,1129,30437
 아프가니스탄,阿富汗,Afghanistan,38772,1425,32073
@@ -130,7 +130,7 @@ Lithuania,,Lithuania,3386,87,2071
 Mayotte,,Mayotte,3374,40,2964
 스리랑카,斯里兰卡,Sri Lanka,3262,13,3005
 Myanmar,,Myanmar,3195,32,790
-Trinidad and Tobago,,Trinidad and Tobago,3091,54,787
+Trinidad and Tobago,,Trinidad and Tobago,3141,55,787
 Guadeloupe,,Guadeloupe,3080,24,837
 Aruba,,Aruba,3060,20,1566
 Bahamas,,Bahamas,2974,67,1344
@@ -158,9 +158,9 @@ Belize,,Belize,1480,19,492
 Liberia,,Liberia,1321,82,1213
 Lesotho,,Lesotho,1245,33,528
 Niger,,Niger,1180,69,1104
+French Polynesia,,French Polynesia,1099,2,672
 Chad,,Chad,1085,81,940
-베트남,越南,Vietnam,1063,35,918
-French Polynesia,,French Polynesia,953,2,642
+베트남,越南,Vietnam,1063,35,926
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,870
 산마리노,圣马力诺,San Marino,722,42,662
@@ -177,10 +177,10 @@ Faeroe Islands,,Faeroe Islands,423,0,412
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,339,24,312
+Saint Martin,,Saint Martin,330,6,206
 지브롤터,直布罗陀,Gibraltar,330,0,303
 Mongolia,,Mongolia,311,0,300
 캄보디아,柬埔寨,Cambodia,275,0,274
-Saint Martin,,Saint Martin,256,6,107
 부탄,不丹,Bhutan,245,0,161
 Cayman Islands,,Cayman Islands,208,1,204
 Barbados,,Barbados,183,7,165
@@ -202,7 +202,7 @@ Caribbean Netherlands,,Caribbean Netherlands,25,0,7
 Dominica,,Dominica,24,0,18
 Grenada,,Grenada,24,0,24
 Laos,,Laos,23,0,22
-St. Barth,,St. Barth,21,0,13
+St. Barth,,St. Barth,23,0,16
 Saint Kitts and Nevis,,Saint Kitts and Nevis,17,0,17
 Greenland,,Greenland,14,0,14
 Montserrat,,Montserrat,13,1,12
