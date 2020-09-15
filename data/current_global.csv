@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6749289,199000,4027826
+미국,美国,United States,6749406,199018,4028602
 인도,印度,India,4930236,80808,3859399
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,341056,4802,245594
 터키,土耳其,Turkey,292878,7119,260058
 이탈리아,义大利,Italy,288761,35624,213950
 필리핀,菲律宾,Philippines,269407,4663,207352
-독일,德国,Germany,263221,9436,237550
+독일,德国,Germany,263407,9437,237550
 인도네시아,印度尼西亚,Indonesia,225030,8965,161065
 이스라엘,以色列,Israel,162273,1141,120443
 Ukraine,,Ukraine,159702,3264,69543
@@ -29,7 +29,7 @@ Bolivia,,Bolivia,127619,7394,85198
 카타르,卡塔尔,Qatar,121975,207,118931
 에콰도르,厄瓜多尔,Ecuador,118911,10922,97063
 Kazakhstan,,Kazakhstan,106920,1634,100836
-루마니아,尼亚,Romania,104187,4185,43244
+루마니아,尼亚,Romania,105298,4236,43244
 도미니카 공화국,多明尼加共和国,Dominican Republic,104110,1984,77790
 Panama,,Panama,102204,2173,74782
 이집트,埃及,Egypt,101177,5661,84969
@@ -51,8 +51,8 @@ Venezuela,,Venezuela,61569,494,49371
 바레인,巴林,Bahrain,60965,213,54204
 싱가포르,新加坡,Singapore,57488,27,56802
 코스타리카,哥斯达黎加,Costa Rica,57361,621,21206
+네팔,尼泊尔,Nepal,56788,371,40638
 나이지리아,尼日利亚,Nigeria,56388,1083,44337
-네팔,尼泊尔,Nepal,55329,360,39576
 알제리,阿尔及利亚,Algeria,48496,1620,34204
 Uzbekistan,,Uzbekistan,48192,400,44526
 스위스,瑞士,Switzerland,47751,2025,39600
@@ -110,7 +110,7 @@ Djibouti,,Djibouti,5396,61,5331
 Eswatini,,Eswatini,5104,101,4374
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 Uganda,,Uganda,4978,56,2317
-홍콩,香港,Hong Kong,4976,101,4635
+홍콩,香港,Hong Kong,4976,102,4646
 Congo,,Congo,4934,88,3887
 Cabo Verde,,Cabo Verde,4839,45,4240
 Nicaragua,,Nicaragua,4818,144,2913
@@ -140,7 +140,7 @@ Réunion,,Réunion,2872,15,1313
 South Sudan,,South Sudan,2587,49,1290
 조지아,格鲁吉亚,Georgia,2562,19,1369
 Botswana,,Botswana,2463,11,575
-Malta,,Malta,2405,16,1890
+Malta,,Malta,2454,16,1931
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Benin,,Benin,2267,40,1942
 Iceland,,Iceland,2168,10,2095

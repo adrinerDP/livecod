@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6749289,
-        "deaths": 199000,
-        "recovered": 4027826
+        "confirmed": 6749406,
+        "deaths": 199018,
+        "recovered": 4028602
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 263221,
-        "deaths": 9436,
+        "confirmed": 263407,
+        "deaths": 9437,
         "recovered": 237550
     },
     {
@@ -243,8 +243,8 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 104187,
-        "deaths": 4185,
+        "confirmed": 105298,
+        "deaths": 4236,
         "recovered": 43244
     },
     {
@@ -416,20 +416,20 @@
         "recovered": 21206
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 56788,
+        "deaths": 371,
+        "recovered": 40638
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
         "confirmed": 56388,
         "deaths": 1083,
         "recovered": 44337
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 55329,
-        "deaths": 360,
-        "recovered": 39576
     },
     {
         "Name": "알제리",
@@ -892,8 +892,8 @@
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
         "confirmed": 4976,
-        "deaths": 101,
-        "recovered": 4635
+        "deaths": 102,
+        "recovered": 4646
     },
     {
         "Name": "Congo",
@@ -1131,9 +1131,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2405,
+        "confirmed": 2454,
         "deaths": 16,
-        "recovered": 1890
+        "recovered": 1931
     },
     {
         "Name": "Guinea-Bissau",
