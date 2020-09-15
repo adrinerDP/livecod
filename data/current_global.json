@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6775053,
-        "deaths": 199843,
-        "recovered": 4049667
+        "confirmed": 6776992,
+        "deaths": 199860,
+        "recovered": 4052454
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4356690,
-        "deaths": 132297,
+        "confirmed": 4382263,
+        "deaths": 133119,
         "recovered": 3613184
     },
     {
@@ -739,9 +739,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 9818,
-        "deaths": 103,
-        "recovered": 6693
+        "confirmed": 9901,
+        "deaths": 106,
+        "recovered": 7358
     },
     {
         "Name": "French Guiana",
@@ -851,9 +851,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5697,
+        "confirmed": 5701,
         "deaths": 178,
-        "recovered": 3742
+        "recovered": 3762
     },
     {
         "Name": "Djibouti",
@@ -936,20 +936,20 @@
         "recovered": 1828
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4624,
+        "deaths": 22,
+        "recovered": 2767
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4611,
         "deaths": 95,
         "recovered": 3935
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4602,
-        "deaths": 22,
-        "recovered": 2736
     },
     {
         "Name": "Jamaica",
@@ -1211,9 +1211,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1578,
+        "confirmed": 1595,
         "deaths": 40,
-        "recovered": 1204
+        "recovered": 1219
     },
     {
         "Name": "Cyprus",
