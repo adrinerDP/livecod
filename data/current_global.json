@@ -555,9 +555,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 27817,
-        "deaths": 525,
-        "recovered": 14288
+        "confirmed": 28367,
+        "deaths": 539,
+        "recovered": 14814
     },
     {
         "Name": "El Salvador",
@@ -1075,9 +1075,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 2974,
-        "deaths": 67,
-        "recovered": 1344
+        "confirmed": 3008,
+        "deaths": 68,
+        "recovered": 1391
     },
     {
         "Name": "Mali",
