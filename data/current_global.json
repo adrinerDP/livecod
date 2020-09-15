@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6758987,
-        "deaths": 199418,
-        "recovered": 4040860
+        "confirmed": 6764598,
+        "deaths": 199622,
+        "recovered": 4043637
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5009290,
-        "deaths": 82045,
-        "recovered": 3933455
+        "confirmed": 5017930,
+        "deaths": 82088,
+        "recovered": 3939048
     },
     {
         "Name": "브라질",
@@ -99,9 +99,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 387252,
-        "deaths": 30950,
-        "recovered": 89507
+        "confirmed": 395104,
+        "deaths": 30999,
+        "recovered": 89891
     },
     {
         "Name": "영국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 264169,
+        "confirmed": 264375,
         "deaths": 9442,
         "recovered": 237550
     },
@@ -368,20 +368,20 @@
         "recovered": 18487
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 65486,
+        "deaths": 1035,
+        "recovered": 25988
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 65021,
         "deaths": 1875,
         "recovered": 44362
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 64786,
-        "deaths": 1022,
-        "recovered": 25333
     },
     {
         "Name": "Venezuela",
@@ -747,9 +747,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9552,
-        "deaths": 63,
-        "recovered": 9156
+        "confirmed": 9578,
+        "deaths": 64,
+        "recovered": 9202
     },
     {
         "Name": "Maldives",
@@ -1083,9 +1083,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 2935,
+        "confirmed": 2940,
         "deaths": 128,
-        "recovered": 2289
+        "recovered": 2302
     },
     {
         "Name": "Réunion",
@@ -1107,7 +1107,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2587,
+        "confirmed": 2592,
         "deaths": 49,
         "recovered": 1290
     },

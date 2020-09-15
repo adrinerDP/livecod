@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6758987,199418,4040860
-인도,印度,India,5009290,82045,3933455
+미국,美国,United States,6764598,199622,4043637
+인도,印度,India,5017930,82088,3939048
 브라질,巴西,Brazil,4356690,132297,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
 페루,秘鲁,Peru,733860,30812,573364
@@ -11,7 +11,7 @@
 Argentina,,Argentina,565446,11710,438883
 칠레,智利,Chile,437983,12040,409944
 이란,伊朗,Iran,407353,23453,349984
-프랑스,法国,France,387252,30950,89507
+프랑스,法国,France,395104,30999,89891
 영국,英国,UK,374228,41664,0
 Bangladesh,,Bangladesh,341056,4802,245594
 사우디아라비아,沙特阿拉伯,Saudi Arabia,326930,4338,305022
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,341056,4802,245594
 터키,土耳其,Turkey,294620,7186,261260
 이탈리아,义大利,Italy,289990,35633,214645
 필리핀,菲律宾,Philippines,269407,4663,207352
-독일,德国,Germany,264169,9442,237550
+독일,德国,Germany,264375,9442,237550
 인도네시아,印度尼西亚,Indonesia,225030,8965,161065
 이스라엘,以色列,Israel,162273,1141,120443
 Ukraine,,Ukraine,159702,3264,70810
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,82172,2972,71352
 폴란드,波兰,Poland,75134,2227,61548
 벨라루스,白俄罗斯,Belarus,74552,761,72661
 Honduras,,Honduras,68620,2087,18487
+Ethiopia,,Ethiopia,65486,1035,25988
 포르투갈,葡萄牙,Portugal,65021,1875,44362
-Ethiopia,,Ethiopia,64786,1022,25333
 Venezuela,,Venezuela,61569,494,49371
 바레인,巴林,Bahrain,60965,213,54204
 싱가포르,新加坡,Singapore,57488,27,56884
@@ -92,7 +92,7 @@ DRC,,DRC,10401,267,9817
 Guinea,,Guinea,10061,63,9352
 말레이시아,马来西亚,Malaysia,9969,128,9209
 Namibia,,Namibia,9818,103,6693
-French Guiana,,French Guiana,9552,63,9156
+French Guiana,,French Guiana,9578,64,9202
 Maldives,,Maldives,9328,33,7729
 Tajikistan,,Tajikistan,9129,73,7896
 핀란드,芬兰,Finland,8725,339,7500
@@ -134,10 +134,10 @@ Trinidad and Tobago,,Trinidad and Tobago,3183,56,798
 Guadeloupe,,Guadeloupe,3080,24,837
 Aruba,,Aruba,3060,20,1566
 Bahamas,,Bahamas,3008,68,1391
-Mali,,Mali,2935,128,2289
+Mali,,Mali,2940,128,2302
 Réunion,,Réunion,2902,15,1313
 에스토니아,爱沙尼亚,Estonia,2722,64,2286
-South Sudan,,South Sudan,2587,49,1290
+South Sudan,,South Sudan,2592,49,1290
 조지아,格鲁吉亚,Georgia,2562,19,1369
 Botswana,,Botswana,2463,11,575
 Malta,,Malta,2454,16,1931
