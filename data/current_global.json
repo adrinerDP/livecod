@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6755222,
-        "deaths": 199245,
-        "recovered": 4030500
+        "confirmed": 6758709,
+        "deaths": 199410,
+        "recovered": 4040498
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 4963097,
-        "deaths": 81168,
-        "recovered": 3887371
+        "confirmed": 5009290,
+        "deaths": 82045,
+        "recovered": 3933455
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4349544,
-        "deaths": 132117,
+        "confirmed": 4356690,
+        "deaths": 132297,
         "recovered": 3613184
     },
     {
@@ -203,7 +203,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 138010,
+        "confirmed": 138555,
         "deaths": 9179,
         "recovered": 121224
     },
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 118911,
-        "deaths": 10922,
+        "confirmed": 119553,
+        "deaths": 10963,
         "recovered": 97063
     },
     {
@@ -435,9 +435,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 48496,
-        "deaths": 1620,
-        "recovered": 34204
+        "confirmed": 48734,
+        "deaths": 1632,
+        "recovered": 34385
     },
     {
         "Name": "Uzbekistan",
