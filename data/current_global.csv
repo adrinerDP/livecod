@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6751048,199148,4028756
-인도,印度,India,4933188,80833,3859399
+미국,美国,United States,6751113,199148,4028794
+인도,印度,India,4948992,81039,3873627
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
 페루,秘鲁,Peru,733860,30812,573364
@@ -20,10 +20,10 @@ Bangladesh,,Bangladesh,341056,4802,245594
 터키,土耳其,Turkey,292878,7119,260058
 이탈리아,义大利,Italy,288761,35624,213950
 필리핀,菲律宾,Philippines,269407,4663,207352
-독일,德国,Germany,263568,9437,237550
+독일,德国,Germany,263721,9437,237550
 인도네시아,印度尼西亚,Indonesia,225030,8965,161065
 이스라엘,以色列,Israel,162273,1141,120443
-Ukraine,,Ukraine,159702,3264,69543
+Ukraine,,Ukraine,159702,3264,70810
 캐나다,加拿大,Canada,138010,9179,121224
 Bolivia,,Bolivia,127619,7394,85198
 카타르,卡塔尔,Qatar,122214,208,119144
@@ -82,13 +82,13 @@ North Macedonia,,North Macedonia,15925,661,13418
 Madagascar,,Madagascar,15803,214,14452
 세네갈,塞内加尔,Senegal,14529,298,10692
 헝가리,匈牙利,Hungary,13879,646,4130
+Zambia,,Zambia,13819,324,12590
 크로아티아,克罗地亚,Croatia,13749,230,11412
-Zambia,,Zambia,13720,320,12380
 Sudan,,Sudan,13535,836,6759
 그리스,希腊,Greece,13420,310,3804
 노르웨이,挪威,Norway,12276,265,10371
 Albania,,Albania,11520,338,6615
-DRC,,DRC,10390,264,9807
+DRC,,DRC,10401,267,9817
 Guinea,,Guinea,10061,63,9352
 말레이시아,马来西亚,Malaysia,9969,128,9209
 Namibia,,Namibia,9818,103,6693
@@ -107,9 +107,9 @@ Montenegro,,Montenegro,6900,121,4589
 Malawi,,Malawi,5697,178,3742
 Mozambique,,Mozambique,5482,35,3024
 Djibouti,,Djibouti,5396,61,5331
+Uganda,,Uganda,5123,58,2333
 Eswatini,,Eswatini,5104,101,4374
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
-Uganda,,Uganda,4978,56,2317
 홍콩,香港,Hong Kong,4976,102,4646
 Congo,,Congo,4934,88,3887
 Cabo Verde,,Cabo Verde,4839,45,4240
@@ -122,13 +122,13 @@ Jamaica,,Jamaica,3933,44,1161
 슬로베니아,斯洛文尼亚,Slovenia,3831,135,2789
 Syria,,Syria,3576,157,858
 요르단,约旦,Jordan,3528,26,2255
+Myanmar,,Myanmar,3502,35,832
 태국,泰国,Thailand,3480,58,3315
 Angola,,Angola,3439,136,1324
 Gambia,,Gambia,3405,103,1723
 Lithuania,,Lithuania,3397,87,2094
 Somalia,,Somalia,3389,98,2803
 Mayotte,,Mayotte,3374,40,2964
-Myanmar,,Myanmar,3299,32,790
 스리랑카,斯里兰卡,Sri Lanka,3266,13,3016
 Trinidad and Tobago,,Trinidad and Tobago,3141,55,787
 Guadeloupe,,Guadeloupe,3080,24,837
