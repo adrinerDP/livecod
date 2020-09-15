@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6749406,199018,4028602
+미국,美国,United States,6751048,199148,4028756
 인도,印度,India,4930236,80808,3859399
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
@@ -33,12 +33,12 @@ Kazakhstan,,Kazakhstan,106920,1634,100836
 도미니카 공화국,多明尼加共和国,Dominican Republic,104110,1984,77790
 Panama,,Panama,102204,2173,74782
 이집트,埃及,Egypt,101177,5661,84969
-쿠웨이트,科威特,Kuwait,95472,563,85501
+쿠웨이트,科威特,Kuwait,96301,568,86219
 벨기에,比利时,Belgium,94306,9927,18737
 오만,阿曼,Oman,90660,797,84113
 모로코,摩洛哥,Morocco,88203,1614,68970
-스웨덴,瑞典语,Sweden,86505,5846,0
-네덜란드,荷兰,Netherlands,83399,6256,0
+스웨덴,瑞典语,Sweden,87345,5851,0
+네덜란드,荷兰,Netherlands,84778,6258,0
 Guatemala,,Guatemala,82172,2972,71352
 아랍에미리트,阿拉伯联合酋长国,UAE,80266,399,69981
 일본,日本,Japan,75657,1442,67242
@@ -61,12 +61,12 @@ Ghana,,Ghana,45601,294,44679
 Kyrgyzstan,,Kyrgyzstan,44999,1063,41103
 Moldova,,Moldova,43207,1129,30437
 아프가니스탄,阿富汗,Afghanistan,38815,1426,32098
-아제르바이잔,阿塞拜疆,Azerbaijan,38403,564,35860
+아제르바이잔,阿塞拜疆,Azerbaijan,38517,566,35998
 체코,捷克,Czechia,37222,465,22020
 Kenya,,Kenya,36205,624,23243
 오스트리아,奥地利,Austria,34305,757,27354
 세르비아,塞尔维亚,Serbia,32437,733,31285
-팔레스타인,巴勒斯坦,Palestine,31362,226,21406
+팔레스타인,巴勒斯坦,Palestine,32250,229,21804
 아일랜드,冰岛,Ireland,31192,1784,23364
 Paraguay,,Paraguay,28367,539,14814
 El Salvador,,El Salvador,27088,792,19450
@@ -78,7 +78,7 @@ Libya,,Libya,23515,368,12762
 카메룬,喀麦隆,Cameroon,20228,415,18837
 Ivory Coast,,Ivory Coast,19066,120,18174
 Bulgaria,,Bulgaria,18061,729,12930
-North Macedonia,,North Macedonia,15827,652,13315
+North Macedonia,,North Macedonia,15925,661,13418
 Madagascar,,Madagascar,15803,214,14452
 세네갈,塞内加尔,Senegal,14529,298,10692
 헝가리,匈牙利,Hungary,13879,646,4130
@@ -95,7 +95,7 @@ Namibia,,Namibia,9818,103,6693
 French Guiana,,French Guiana,9552,63,9156
 Maldives,,Maldives,9243,33,7536
 Tajikistan,,Tajikistan,9088,72,7853
-핀란드,芬兰,Finland,8725,337,7500
+핀란드,芬兰,Finland,8725,339,7500
 Gabon,,Gabon,8654,53,7785
 Haiti,,Haiti,8499,219,6120
 Zimbabwe,,Zimbabwe,7531,224,5690
@@ -195,7 +195,7 @@ British Virgin Islands,,British Virgin Islands,66,1,37
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,61
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
-Caribbean Netherlands,,Caribbean Netherlands,28,0,17
+Caribbean Netherlands,,Caribbean Netherlands,28,1,17
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,26
 New Caledonia,,New Caledonia,26,0,26

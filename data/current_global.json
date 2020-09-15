@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6749406,
-        "deaths": 199018,
-        "recovered": 4028602
+        "confirmed": 6751048,
+        "deaths": 199148,
+        "recovered": 4028756
     },
     {
         "Name": "인도",
@@ -275,9 +275,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 95472,
-        "deaths": 563,
-        "recovered": 85501
+        "confirmed": 96301,
+        "deaths": 568,
+        "recovered": 86219
     },
     {
         "Name": "벨기에",
@@ -307,16 +307,16 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 86505,
-        "deaths": 5846,
+        "confirmed": 87345,
+        "deaths": 5851,
         "recovered": 0
     },
     {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 83399,
-        "deaths": 6256,
+        "confirmed": 84778,
+        "deaths": 6258,
         "recovered": 0
     },
     {
@@ -499,9 +499,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 38403,
-        "deaths": 564,
-        "recovered": 35860
+        "confirmed": 38517,
+        "deaths": 566,
+        "recovered": 35998
     },
     {
         "Name": "체코",
@@ -539,9 +539,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 31362,
-        "deaths": 226,
-        "recovered": 21406
+        "confirmed": 32250,
+        "deaths": 229,
+        "recovered": 21804
     },
     {
         "Name": "아일랜드",
@@ -635,9 +635,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 15827,
-        "deaths": 652,
-        "recovered": 13315
+        "confirmed": 15925,
+        "deaths": 661,
+        "recovered": 13418
     },
     {
         "Name": "Madagascar",
@@ -772,7 +772,7 @@
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 8725,
-        "deaths": 337,
+        "deaths": 339,
         "recovered": 7500
     },
     {
@@ -1572,7 +1572,7 @@
         "Name_ch": "",
         "Name_en": "Caribbean Netherlands",
         "confirmed": 28,
-        "deaths": 0,
+        "deaths": 1,
         "recovered": 17
     },
     {
