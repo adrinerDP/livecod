@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6754131,199224,4029785
+미국,美国,United States,6755222,199245,4030500
 인도,印度,India,4963097,81168,3887371
 브라질,巴西,Brazil,4349544,132117,3613184
 러시아,俄罗斯,Russia,1073849,18785,884305
@@ -16,8 +16,8 @@ Argentina,,Argentina,565446,11710,438883
 Bangladesh,,Bangladesh,341056,4802,245594
 사우디아라비아,沙特阿拉伯,Saudi Arabia,326930,4338,305022
 파키스탄,巴基斯坦,Pakistan,302424,6389,290261
-이라크,伊拉克,Iraq,294478,8086,229132
-터키,土耳其,Turkey,292878,7119,260058
+이라크,伊拉克,Iraq,298702,8166,233346
+터키,土耳其,Turkey,294620,7186,261260
 이탈리아,义大利,Italy,289990,35633,214645
 필리핀,菲律宾,Philippines,269407,4663,207352
 독일,德国,Germany,263954,9437,237550
@@ -62,7 +62,7 @@ Kyrgyzstan,,Kyrgyzstan,44999,1063,41103
 Moldova,,Moldova,43734,1143,32293
 아프가니스탄,阿富汗,Afghanistan,38815,1426,32098
 아제르바이잔,阿塞拜疆,Azerbaijan,38517,566,35998
-체코,捷克,Czechia,37222,465,22020
+체코,捷克,Czechia,38187,476,22526
 Kenya,,Kenya,36205,624,23243
 오스트리아,奥地利,Austria,34305,757,27354
 세르비아,塞尔维亚,Serbia,32511,735,31313
@@ -163,17 +163,17 @@ Chad,,Chad,1085,81,940
 베트남,越南,Vietnam,1063,35,926
 Martinique,,Martinique,939,18,98
 Sao Tome and Principe,,Sao Tome and Principe,906,15,870
-산마리노,圣马力诺,San Marino,722,42,662
+산마리노,圣马力诺,San Marino,723,42,663
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,648,5,532
-Channel Islands,,Channel Islands,633,48,575
+Channel Islands,,Channel Islands,639,48,575
 Sint Maarten,,Sint Maarten,549,19,430
 Papua New Guinea,,Papua New Guinea,511,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,499,7,476
 Burundi,,Burundi,472,1,374
 Comoros,,Comoros,457,7,427
-Faeroe Islands,,Faeroe Islands,423,0,412
+Faeroe Islands,,Faeroe Islands,428,0,412
 Mauritius,,Mauritius,361,10,335
 Eritrea,,Eritrea,361,0,304
 Isle of Man,,Isle of Man,339,24,312

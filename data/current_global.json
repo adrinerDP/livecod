@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6754131,
-        "deaths": 199224,
-        "recovered": 4029785
+        "confirmed": 6755222,
+        "deaths": 199245,
+        "recovered": 4030500
     },
     {
         "Name": "인도",
@@ -139,17 +139,17 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 294478,
-        "deaths": 8086,
-        "recovered": 229132
+        "confirmed": 298702,
+        "deaths": 8166,
+        "recovered": 233346
     },
     {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 292878,
-        "deaths": 7119,
-        "recovered": 260058
+        "confirmed": 294620,
+        "deaths": 7186,
+        "recovered": 261260
     },
     {
         "Name": "이탈리아",
@@ -507,9 +507,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 37222,
-        "deaths": 465,
-        "recovered": 22020
+        "confirmed": 38187,
+        "deaths": 476,
+        "recovered": 22526
     },
     {
         "Name": "Kenya",
@@ -1315,9 +1315,9 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 722,
+        "confirmed": 723,
         "deaths": 42,
-        "recovered": 662
+        "recovered": 663
     },
     {
         "Name": "일본크루즈",
@@ -1339,7 +1339,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 633,
+        "confirmed": 639,
         "deaths": 48,
         "recovered": 575
     },
@@ -1395,7 +1395,7 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 423,
+        "confirmed": 428,
         "deaths": 0,
         "recovered": 412
     },
