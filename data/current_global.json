@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6802097,
-        "deaths": 200770,
-        "recovered": 4087090
+        "confirmed": 6803754,
+        "deaths": 200852,
+        "recovered": 4088403
     },
     {
         "Name": "인도",
@@ -101,7 +101,7 @@
         "Name_en": "France",
         "confirmed": 404888,
         "deaths": 31045,
-        "recovered": 89891
+        "recovered": 90335
     },
     {
         "Name": "영국",
@@ -923,9 +923,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 4803,
-        "deaths": 108,
-        "recovered": 4119
+        "confirmed": 4876,
+        "deaths": 109,
+        "recovered": 4131
     },
     {
         "Name": "CAR",
@@ -1019,9 +1019,17 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3428,
-        "deaths": 105,
-        "recovered": 1737
+        "confirmed": 3440,
+        "deaths": 107,
+        "recovered": 1851
+    },
+    {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 3426,
+        "deaths": 26,
+        "recovered": 837
     },
     {
         "Name": "Somalia",
@@ -1062,14 +1070,6 @@
         "confirmed": 3152,
         "deaths": 22,
         "recovered": 1610
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 3080,
-        "deaths": 24,
-        "recovered": 837
     },
     {
         "Name": "Bahamas",
