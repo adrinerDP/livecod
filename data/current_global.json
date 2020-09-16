@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6797153,
-        "deaths": 200667,
-        "recovered": 4069609
+        "confirmed": 6798195,
+        "deaths": 200679,
+        "recovered": 4070239
     },
     {
         "Name": "인도",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 266355,
+        "confirmed": 266541,
         "deaths": 9447,
         "recovered": 239100
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 139118,
-        "deaths": 9190,
-        "recovered": 121840
+        "confirmed": 139421,
+        "deaths": 9193,
+        "recovered": 121994
     },
     {
         "Name": "Bolivia",
@@ -396,7 +396,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 61643,
-        "deaths": 215,
+        "deaths": 216,
         "recovered": 54831
     },
     {
@@ -419,7 +419,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57515,
+        "confirmed": 57514,
         "deaths": 27,
         "recovered": 56884
     },
@@ -443,9 +443,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 48734,
-        "deaths": 1632,
-        "recovered": 34385
+        "confirmed": 48966,
+        "deaths": 1645,
+        "recovered": 34517
     },
     {
         "Name": "스위스",
@@ -491,9 +491,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 38896,
-        "deaths": 476,
-        "recovered": 22613
+        "confirmed": 40186,
+        "deaths": 481,
+        "recovered": 22896
     },
     {
         "Name": "아프가니스탄",
@@ -971,9 +971,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 3677,
+        "confirmed": 3852,
         "deaths": 26,
-        "recovered": 2311
+        "recovered": 2349
     },
     {
         "Name": "Myanmar",
