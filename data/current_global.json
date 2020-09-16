@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 341056,
-        "deaths": 4802,
-        "recovered": 245594
+        "confirmed": 342671,
+        "deaths": 4823,
+        "recovered": 247969
     },
     {
         "Name": "사우디아라비아",
@@ -291,9 +291,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 90660,
-        "deaths": 797,
-        "recovered": 84113
+        "confirmed": 91196,
+        "deaths": 805,
+        "recovered": 84363
     },
     {
         "Name": "모로코",
@@ -396,7 +396,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 61643,
-        "deaths": 213,
+        "deaths": 215,
         "recovered": 54831
     },
     {
@@ -523,9 +523,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 34305,
-        "deaths": 757,
-        "recovered": 27354
+        "confirmed": 35073,
+        "deaths": 758,
+        "recovered": 27655
     },
     {
         "Name": "세르비아",
@@ -715,9 +715,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10401,
+        "confirmed": 10414,
         "deaths": 267,
-        "recovered": 9817
+        "recovered": 9827
     },
     {
         "Name": "Guinea",
@@ -1107,9 +1107,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2722,
+        "confirmed": 2756,
         "deaths": 64,
-        "recovered": 2286
+        "recovered": 2318
     },
     {
         "Name": "South Sudan",
