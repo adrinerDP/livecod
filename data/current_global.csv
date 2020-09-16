@@ -1,8 +1,8 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6788147,200197,4068086
-인도,印度,India,5020359,82091,3942360
+인도,印度,India,5025043,82124,3942360
 브라질,巴西,Brazil,4384299,133207,3671128
-러시아,俄罗斯,Russia,1073849,18785,884305
+러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
 콜롬비아,哥伦比亚,Colombia,728590,23288,607978
 멕시코,墨西哥,Mexico,676487,71678,481068
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,341056,4802,245594
 이탈리아,义大利,Italy,289990,35633,214645
 필리핀,菲律宾,Philippines,272934,4732,207858
 독일,德国,Germany,264844,9445,239100
-인도네시아,印度尼西亚,Indonesia,225030,8965,161065
+인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,166794,1147,122785
 Ukraine,,Ukraine,162660,3340,72324
 캐나다,加拿大,Canada,138803,9188,121840
@@ -42,7 +42,7 @@ Panama,,Panama,102832,2187,75592
 Guatemala,,Guatemala,82684,2984,71983
 아랍에미리트,阿拉伯联合酋长国,UAE,80940,401,70635
 일본,日本,Japan,75958,1451,67831
-폴란드,波兰,Poland,75134,2227,62110
+폴란드,波兰,Poland,75734,2237,62110
 벨라루스,白俄罗斯,Belarus,74552,761,72661
 Honduras,,Honduras,68620,2087,18487
 Ethiopia,,Ethiopia,65486,1035,25988
@@ -103,7 +103,7 @@ Zimbabwe,,Zimbabwe,7576,224,5783
 Mauritania,,Mauritania,7319,161,6839
 룩셈부르크,卢森堡,Luxembourg,7284,124,6561
 Montenegro,,Montenegro,7061,123,4692
-슬로바키아,斯洛伐克,Slovakia,5768,38,3214
+슬로바키아,斯洛伐克,Slovakia,5860,38,3220
 Mozambique,,Mozambique,5713,37,3181
 Malawi,,Malawi,5701,178,3762
 Djibouti,,Djibouti,5396,61,5331
@@ -119,7 +119,7 @@ CAR,,CAR,4772,62,1828
 Suriname,,Suriname,4625,95,3996
 Rwanda,,Rwanda,4624,22,2767
 Jamaica,,Jamaica,4042,46,1163
-슬로베니아,斯洛文尼亚,Slovenia,3831,135,2789
+슬로베니아,斯洛文尼亚,Slovenia,3954,135,2844
 요르단,约旦,Jordan,3677,26,2311
 Myanmar,,Myanmar,3636,39,832
 Syria,,Syria,3614,160,871

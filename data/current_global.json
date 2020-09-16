@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5020359,
-        "deaths": 82091,
+        "confirmed": 5025043,
+        "deaths": 82124,
         "recovered": 3942360
     },
     {
@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1073849,
-        "deaths": 18785,
-        "recovered": 884305
+        "confirmed": 1079519,
+        "deaths": 18917,
+        "recovered": 890114
     },
     {
         "Name": "페루",
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 225030,
-        "deaths": 8965,
-        "recovered": 161065
+        "confirmed": 228993,
+        "deaths": 9100,
+        "recovered": 164101
     },
     {
         "Name": "이스라엘",
@@ -347,8 +347,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 75134,
-        "deaths": 2227,
+        "confirmed": 75734,
+        "deaths": 2237,
         "recovered": 62110
     },
     {
@@ -835,9 +835,9 @@
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 5768,
+        "confirmed": 5860,
         "deaths": 38,
-        "recovered": 3214
+        "recovered": 3220
     },
     {
         "Name": "Mozambique",
@@ -963,9 +963,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 3831,
+        "confirmed": 3954,
         "deaths": 135,
-        "recovered": 2789
+        "recovered": 2844
     },
     {
         "Name": "요르단",
