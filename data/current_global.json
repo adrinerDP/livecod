@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 577338,
-        "deaths": 11852,
-        "recovered": 438883
+        "deaths": 11910,
+        "recovered": 448263
     },
     {
         "Name": "칠레",
@@ -219,9 +219,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 122214,
+        "confirmed": 122449,
         "deaths": 208,
-        "recovered": 119144
+        "recovered": 119400
     },
     {
         "Name": "에콰도르",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12393,
+        "confirmed": 12431,
         "deaths": 265,
         "recovered": 10371
     },
