@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6824072,201231,4101232
+미국,美国,United States,6824664,201246,4101620
 인도,印度,India,5115893,83230,4022049
 브라질,巴西,Brazil,4419083,134106,3720312
 러시아,俄罗斯,Russia,1079519,18917,890114
@@ -51,8 +51,8 @@ Venezuela,,Venezuela,62655,502,50361
 바레인,巴林,Bahrain,62484,216,55444
 코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
 네팔,尼泊尔,Nepal,58327,379,41706
-싱가포르,新加坡,Singapore,57514,27,56884
-나이지리아,尼日利亚,Nigeria,56478,1088,44430
+싱가포르,新加坡,Singapore,57514,27,56955
+나이지리아,尼日利亚,Nigeria,56604,1091,47872
 Uzbekistan,,Uzbekistan,49015,407,45422
 알제리,阿尔及利亚,Algeria,48966,1645,34517
 스위스,瑞士,Switzerland,48265,2039,39900
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,27163,796,19960
 Libya,,Libya,24936,394,13498
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24211,736,16990
 덴마크,丹麦,Denmark,20571,633,16557
-카메룬,喀麦隆,Cameroon,20271,415,18837
+카메룬,喀麦隆,Cameroon,20303,415,18837
 Ivory Coast,,Ivory Coast,19132,120,18289
 Bulgaria,,Bulgaria,18390,739,13241
 North Macedonia,,North Macedonia,16088,668,13550
@@ -89,7 +89,7 @@ Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12498,265,10371
 Albania,,Albania,11816,343,6733
 DRC,,DRC,10414,267,9827
-Guinea,,Guinea,10111,63,9444
+Guinea,,Guinea,10154,63,9612
 말레이시아,马来西亚,Malaysia,10031,128,9235
 Namibia,,Namibia,9964,108,7502
 French Guiana,,French Guiana,9595,65,9235
@@ -98,9 +98,9 @@ Tajikistan,,Tajikistan,9171,73,7941
 핀란드,芬兰,Finland,8750,339,7700
 Gabon,,Gabon,8654,53,7785
 Haiti,,Haiti,8530,220,6181
-Tunisia,,Tunisia,7623,123,2262
+Tunisia,,Tunisia,8100,129,2309
 Zimbabwe,,Zimbabwe,7576,224,5783
-Mauritania,,Mauritania,7319,161,6839
+Mauritania,,Mauritania,7332,161,6844
 룩셈부르크,卢森堡,Luxembourg,7284,124,6561
 Montenegro,,Montenegro,7061,123,4692
 Mozambique,,Mozambique,5994,39,3267
@@ -131,7 +131,7 @@ Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
 Mayotte,,Mayotte,3374,40,2964
 Aruba,,Aruba,3328,22,1676
-Trinidad and Tobago,,Trinidad and Tobago,3293,57,810
+Trinidad and Tobago,,Trinidad and Tobago,3327,58,810
 스리랑카,斯里兰卡,Sri Lanka,3271,13,3021
 Bahamas,,Bahamas,3032,69,1482
 Réunion,,Réunion,3002,15,1313
@@ -186,7 +186,7 @@ Cayman Islands,,Cayman Islands,208,1,204
 Curaçao,,Curaçao,192,1,68
 Barbados,,Barbados,184,7,169
 모나코,摩纳哥,Monaco,181,1,137
-Bermuda,,Bermuda,177,9,164
+Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,140,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105

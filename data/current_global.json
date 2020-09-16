@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6824072,
-        "deaths": 201231,
-        "recovered": 4101232
+        "confirmed": 6824664,
+        "deaths": 201246,
+        "recovered": 4101620
     },
     {
         "Name": "인도",
@@ -421,15 +421,15 @@
         "Name_en": "Singapore",
         "confirmed": 57514,
         "deaths": 27,
-        "recovered": 56884
+        "recovered": 56955
     },
     {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 56478,
-        "deaths": 1088,
-        "recovered": 44430
+        "confirmed": 56604,
+        "deaths": 1091,
+        "recovered": 47872
     },
     {
         "Name": "Uzbekistan",
@@ -611,7 +611,7 @@
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
-        "confirmed": 20271,
+        "confirmed": 20303,
         "deaths": 415,
         "recovered": 18837
     },
@@ -723,9 +723,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10111,
+        "confirmed": 10154,
         "deaths": 63,
-        "recovered": 9444
+        "recovered": 9612
     },
     {
         "Name": "말레이시아",
@@ -795,9 +795,9 @@
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "confirmed": 7623,
-        "deaths": 123,
-        "recovered": 2262
+        "confirmed": 8100,
+        "deaths": 129,
+        "recovered": 2309
     },
     {
         "Name": "Zimbabwe",
@@ -811,9 +811,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7319,
+        "confirmed": 7332,
         "deaths": 161,
-        "recovered": 6839
+        "recovered": 6844
     },
     {
         "Name": "룩셈부르크",
@@ -1059,8 +1059,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3293,
-        "deaths": 57,
+        "confirmed": 3327,
+        "deaths": 58,
         "recovered": 810
     },
     {
@@ -1499,7 +1499,7 @@
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "confirmed": 177,
+        "confirmed": 178,
         "deaths": 9,
         "recovered": 164
     },
