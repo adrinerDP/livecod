@@ -432,20 +432,20 @@
         "recovered": 44430
     },
     {
+        "Name": "Uzbekistan",
+        "Name_ch": "",
+        "Name_en": "Uzbekistan",
+        "confirmed": 48776,
+        "deaths": 405,
+        "recovered": 45058
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 48734,
         "deaths": 1632,
         "recovered": 34385
-    },
-    {
-        "Name": "Uzbekistan",
-        "Name_ch": "",
-        "Name_en": "Uzbekistan",
-        "confirmed": 48565,
-        "deaths": 403,
-        "recovered": 45058
     },
     {
         "Name": "스위스",
@@ -571,9 +571,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26778,
+        "confirmed": 26779,
         "deaths": 824,
-        "recovered": 23652
+        "recovered": 23726
     },
     {
         "Name": "레바논",
