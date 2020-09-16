@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6798195,
-        "deaths": 200679,
-        "recovered": 4070239
+        "confirmed": 6799740,
+        "deaths": 200712,
+        "recovered": 4085778
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4384860,
-        "deaths": 133217,
+        "confirmed": 4392351,
+        "deaths": 133355,
         "recovered": 3671128
     },
     {
@@ -67,8 +67,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 603167,
-        "deaths": 30004,
+        "confirmed": 614360,
+        "deaths": 30243,
         "recovered": 0
     },
     {
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 437983,
-        "deaths": 12040,
-        "recovered": 409944
+        "confirmed": 439287,
+        "deaths": 12058,
+        "recovered": 411853
     },
     {
         "Name": "이란",
@@ -139,9 +139,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 298702,
-        "deaths": 8166,
-        "recovered": 233346
+        "confirmed": 303059,
+        "deaths": 8248,
+        "recovered": 237241
     },
     {
         "Name": "터키",
@@ -251,9 +251,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 104803,
-        "deaths": 1998,
-        "recovered": 78387
+        "confirmed": 105521,
+        "deaths": 2009,
+        "recovered": 78891
     },
     {
         "Name": "Panama",
@@ -579,9 +579,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 25449,
-        "deaths": 252,
-        "recovered": 9216
+        "confirmed": 26083,
+        "deaths": 259,
+        "recovered": 9634
     },
     {
         "Name": "Libya",
@@ -1171,9 +1171,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2016,
+        "confirmed": 2019,
         "deaths": 583,
-        "recovered": 1219
+        "recovered": 1221
     },
     {
         "Name": "Guyana",
