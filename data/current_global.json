@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6818215,
-        "deaths": 201030,
-        "recovered": 4097174
+        "confirmed": 6821533,
+        "deaths": 201093,
+        "recovered": 4098391
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4392351,
-        "deaths": 133355,
+        "confirmed": 4419083,
+        "deaths": 134106,
         "recovered": 3671128
     },
     {
