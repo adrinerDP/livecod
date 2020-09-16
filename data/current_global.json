@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6814236,
-        "deaths": 200975,
-        "recovered": 4093316
+        "confirmed": 6815944,
+        "deaths": 201013,
+        "recovered": 4095633
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 169352,
-        "deaths": 1163,
-        "recovered": 123044
+        "confirmed": 170465,
+        "deaths": 1165,
+        "recovered": 123219
     },
     {
         "Name": "Ukraine",
@@ -619,9 +619,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19100,
+        "confirmed": 19132,
         "deaths": 120,
-        "recovered": 18228
+        "recovered": 18289
     },
     {
         "Name": "Bulgaria",
@@ -1048,6 +1048,14 @@
         "recovered": 2964
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "confirmed": 3328,
+        "deaths": 22,
+        "recovered": 1676
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
@@ -1062,14 +1070,6 @@
         "confirmed": 3271,
         "deaths": 13,
         "recovered": 3021
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "confirmed": 3152,
-        "deaths": 22,
-        "recovered": 1610
     },
     {
         "Name": "Bahamas",
@@ -1291,9 +1291,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1087,
+        "confirmed": 1090,
         "deaths": 81,
-        "recovered": 944
+        "recovered": 960
     },
     {
         "Name": "베트남",
