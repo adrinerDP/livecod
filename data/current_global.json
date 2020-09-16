@@ -411,7 +411,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57488,
+        "confirmed": 57515,
         "deaths": 27,
         "recovered": 56884
     },
@@ -821,7 +821,7 @@
         "Name_en": "Luxembourg",
         "confirmed": 7284,
         "deaths": 124,
-        "recovered": 6555
+        "recovered": 6561
     },
     {
         "Name": "Montenegro",
