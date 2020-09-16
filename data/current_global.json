@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6799990,
-        "deaths": 200720,
-        "recovered": 4086057
+        "confirmed": 6802097,
+        "deaths": 200770,
+        "recovered": 4087090
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5111858,
-        "deaths": 83206,
-        "recovered": 4017533
+        "confirmed": 5112431,
+        "deaths": 83208,
+        "recovered": 4017778
     },
     {
         "Name": "브라질",
@@ -99,8 +99,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 395104,
-        "deaths": 30999,
+        "confirmed": 404888,
+        "deaths": 31045,
         "recovered": 89891
     },
     {
@@ -368,20 +368,20 @@
         "recovered": 18487
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 66224,
+        "deaths": 1045,
+        "recovered": 26665
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 65626,
         "deaths": 1878,
         "recovered": 44528
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 65486,
-        "deaths": 1035,
-        "recovered": 25988
     },
     {
         "Name": "Venezuela",
@@ -547,8 +547,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 31549,
-        "deaths": 1787,
+        "confirmed": 31799,
+        "deaths": 1788,
         "recovered": 23364
     },
     {
@@ -1491,9 +1491,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 178,
+        "confirmed": 181,
         "deaths": 1,
-        "recovered": 133
+        "recovered": 137
     },
     {
         "Name": "Bermuda",

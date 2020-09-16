@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6799990,200720,4086057
-인도,印度,India,5111858,83206,4017533
+미국,美国,United States,6802097,200770,4087090
+인도,印度,India,5112431,83208,4017778
 브라질,巴西,Brazil,4392351,133355,3671128
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
@@ -11,7 +11,7 @@
 Argentina,,Argentina,577338,11910,448263
 칠레,智利,Chile,439287,12058,411853
 이란,伊朗,Iran,410334,23632,352019
-프랑스,法国,France,395104,30999,89891
+프랑스,法国,France,404888,31045,89891
 영국,英国,UK,378219,41684,0
 Bangladesh,,Bangladesh,342671,4823,247969
 사우디아라비아,沙特阿拉伯,Saudi Arabia,327551,4369,306004
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,82684,2984,71983
 폴란드,波兰,Poland,75734,2237,62110
 벨라루스,白俄罗斯,Belarus,74763,767,72810
 Honduras,,Honduras,68620,2087,18487
+Ethiopia,,Ethiopia,66224,1045,26665
 포르투갈,葡萄牙,Portugal,65626,1878,44528
-Ethiopia,,Ethiopia,65486,1035,25988
 Venezuela,,Venezuela,62655,502,50361
 바레인,巴林,Bahrain,61643,216,54831
 네팔,尼泊尔,Nepal,58327,379,41706
@@ -67,7 +67,7 @@ Kenya,,Kenya,36301,634,23364
 오스트리아,奥地利,Austria,35073,758,27655
 팔레스타인,巴勒斯坦,Palestine,33006,243,22209
 세르비아,塞尔维亚,Serbia,32613,736,31411
-아일랜드,冰岛,Ireland,31549,1787,23364
+아일랜드,冰岛,Ireland,31799,1788,23364
 Paraguay,,Paraguay,29298,552,15261
 El Salvador,,El Salvador,27163,796,19960
 호주,澳大利亚,Australia,26779,824,23726
@@ -185,7 +185,7 @@ Mongolia,,Mongolia,311,0,301
 Cayman Islands,,Cayman Islands,208,1,204
 Curaçao,,Curaçao,192,1,61
 Barbados,,Barbados,184,7,169
-모나코,摩纳哥,Monaco,178,1,133
+모나코,摩纳哥,Monaco,181,1,137
 Bermuda,,Bermuda,177,9,164
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,140,0,136
