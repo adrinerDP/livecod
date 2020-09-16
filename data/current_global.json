@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6796567,
-        "deaths": 200650,
+        "confirmed": 6797153,
+        "deaths": 200667,
         "recovered": 4069609
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5060818,
-        "deaths": 82504,
-        "recovered": 3976413
+        "confirmed": 5079933,
+        "deaths": 82669,
+        "recovered": 3995071
     },
     {
         "Name": "브라질",
@@ -155,9 +155,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 289990,
-        "deaths": 35633,
-        "recovered": 214645
+        "confirmed": 291442,
+        "deaths": 35645,
+        "recovered": 215265
     },
     {
         "Name": "필리핀",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 265964,
+        "confirmed": 266355,
         "deaths": 9447,
         "recovered": 239100
     },
@@ -664,6 +664,14 @@
         "recovered": 4153
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 14041,
+        "deaths": 316,
+        "recovered": 3804
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -678,14 +686,6 @@
         "confirmed": 13887,
         "deaths": 326,
         "recovered": 12869
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 13730,
-        "deaths": 313,
-        "recovered": 3804
     },
     {
         "Name": "Sudan",
@@ -955,9 +955,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 4042,
+        "confirmed": 4164,
         "deaths": 46,
-        "recovered": 1163
+        "recovered": 1180
     },
     {
         "Name": "슬로베니아",
