@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6788147,200197,4068086
+미국,美国,United States,6788471,200197,4068704
 인도,印度,India,5025043,82124,3942360
 브라질,巴西,Brazil,4384299,133207,3671128
 러시아,俄罗斯,Russia,1079519,18917,890114
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,603167,30004,0
 Argentina,,Argentina,577338,11852,438883
 칠레,智利,Chile,437983,12040,409944
-이란,伊朗,Iran,407353,23453,349984
+이란,伊朗,Iran,410334,23632,352019
 프랑스,法国,France,395104,30999,89891
 영국,英国,UK,374228,41664,0
 Bangladesh,,Bangladesh,342671,4823,247969
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 터키,土耳其,Turkey,294620,7186,261260
 이탈리아,义大利,Italy,289990,35633,214645
 필리핀,菲律宾,Philippines,272934,4732,207858
-독일,德国,Germany,264844,9445,239100
+독일,德国,Germany,264868,9445,239100
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,166794,1147,122785
 Ukraine,,Ukraine,162660,3340,72324
@@ -28,8 +28,8 @@ Ukraine,,Ukraine,162660,3340,72324
 Bolivia,,Bolivia,128286,7447,86216
 카타르,卡塔尔,Qatar,122214,208,119144
 에콰도르,厄瓜多尔,Ecuador,119553,10963,97063
+루마니아,尼亚,Romania,107011,4285,43244
 Kazakhstan,,Kazakhstan,106984,1671,101267
-루마니아,尼亚,Romania,105298,4236,43244
 도미니카 공화국,多明尼加共和国,Dominican Republic,104803,1998,78387
 Panama,,Panama,102832,2187,75592
 이집트,埃及,Egypt,101340,5679,85745
@@ -40,7 +40,7 @@ Panama,,Panama,102832,2187,75592
 스웨덴,瑞典语,Sweden,87345,5851,0
 네덜란드,荷兰,Netherlands,84778,6258,0
 Guatemala,,Guatemala,82684,2984,71983
-아랍에미리트,阿拉伯联合酋长国,UAE,80940,401,70635
+아랍에미리트,阿拉伯联合酋长国,UAE,81782,402,71456
 일본,日本,Japan,75958,1451,67831
 폴란드,波兰,Poland,75734,2237,62110
 벨라루스,白俄罗斯,Belarus,74552,761,72661
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,62655,502,50361
 나이지리아,尼日利亚,Nigeria,56478,1088,44430
 Uzbekistan,,Uzbekistan,48776,405,45058
 알제리,阿尔及利亚,Algeria,48734,1632,34385
-스위스,瑞士,Switzerland,47751,2028,39900
+스위스,瑞士,Switzerland,48265,2028,39900
 아르메니아,亚美尼亚,Armenia,46376,923,42069
 Ghana,,Ghana,45655,294,44797
 Kyrgyzstan,,Kyrgyzstan,45072,1063,41210
@@ -95,7 +95,7 @@ Namibia,,Namibia,9901,106,7358
 French Guiana,,French Guiana,9578,64,9202
 Maldives,,Maldives,9328,33,7729
 Tajikistan,,Tajikistan,9129,73,7896
-핀란드,芬兰,Finland,8750,339,7500
+핀란드,芬兰,Finland,8750,339,7700
 Gabon,,Gabon,8654,53,7785
 Haiti,,Haiti,8530,220,6181
 Tunisia,,Tunisia,7623,123,2262
@@ -176,8 +176,8 @@ Comoros,,Comoros,467,7,446
 Faeroe Islands,,Faeroe Islands,428,0,412
 Mauritius,,Mauritius,365,10,338
 Eritrea,,Eritrea,364,0,305
+지브롤터,直布罗陀,Gibraltar,340,0,309
 Isle of Man,,Isle of Man,339,24,312
-지브롤터,直布罗陀,Gibraltar,334,0,307
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,311,0,301
 캄보디아,柬埔寨,Cambodia,275,0,274
