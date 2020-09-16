@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6821533,201093,4098391
+미국,美国,United States,6822907,201200,4100757
 인도,印度,India,5115893,83230,4022049
-브라질,巴西,Brazil,4419083,134106,3671128
+브라질,巴西,Brazil,4419083,134106,3720312
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
-콜롬비아,哥伦比亚,Colombia,728590,23288,607978
+콜롬비아,哥伦比亚,Colombia,736377,23478,610078
 멕시코,墨西哥,Mexico,676487,71678,481068
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
 스페인,西班牙,Spain,614360,30243,0
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,170465,1165,123219
 Ukraine,,Ukraine,162660,3340,72324
-캐나다,加拿大,Canada,139454,9193,122008
+캐나다,加拿大,Canada,139625,9193,122175
 Bolivia,,Bolivia,128286,7447,86216
 카타르,卡塔尔,Qatar,122449,208,119400
 에콰도르,厄瓜多尔,Ecuador,121525,10996,97063
@@ -48,7 +48,7 @@ Honduras,,Honduras,68620,2087,18487
 Ethiopia,,Ethiopia,66224,1045,26665
 포르투갈,葡萄牙,Portugal,65626,1878,44528
 Venezuela,,Venezuela,62655,502,50361
-바레인,巴林,Bahrain,61643,216,54831
+바레인,巴林,Bahrain,62484,216,55444
 코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
 네팔,尼泊尔,Nepal,58327,379,41706
 싱가포르,新加坡,Singapore,57514,27,56884
@@ -121,8 +121,8 @@ Suriname,,Suriname,4625,95,3996
 Jamaica,,Jamaica,4164,46,1180
 슬로베니아,斯洛文尼亚,Slovenia,3954,135,2844
 요르단,约旦,Jordan,3852,26,2349
+Myanmar,,Myanmar,3821,40,908
 Syria,,Syria,3654,163,889
-Myanmar,,Myanmar,3636,39,832
 Angola,,Angola,3569,139,1332
 태국,泰国,Thailand,3490,58,3316
 Lithuania,,Lithuania,3442,87,2125
@@ -150,7 +150,7 @@ Guyana,,Guyana,1958,58,1302
 Uruguay,,Uruguay,1827,45,1545
 New Zealand,,New Zealand,1802,25,1698
 Burkina Faso,,Burkina Faso,1733,56,1141
-토고,多哥,Togo,1595,40,1219
+토고,多哥,Togo,1608,40,1230
 Cyprus,,Cyprus,1540,22,1282
 Belize,,Belize,1528,19,663
 라트비아,约旦,Latvia,1486,35,1248
@@ -183,7 +183,7 @@ Mongolia,,Mongolia,311,0,301
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,246,0,175
 Cayman Islands,,Cayman Islands,208,1,204
-Curaçao,,Curaçao,192,1,61
+Curaçao,,Curaçao,192,1,68
 Barbados,,Barbados,184,7,169
 모나코,摩纳哥,Monaco,181,1,137
 Bermuda,,Bermuda,177,9,164

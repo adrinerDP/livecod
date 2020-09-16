@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6821533,
-        "deaths": 201093,
-        "recovered": 4098391
+        "confirmed": 6822907,
+        "deaths": 201200,
+        "recovered": 4100757
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4419083,
         "deaths": 134106,
-        "recovered": 3671128
+        "recovered": 3720312
     },
     {
         "Name": "러시아",
@@ -43,9 +43,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 728590,
-        "deaths": 23288,
-        "recovered": 607978
+        "confirmed": 736377,
+        "deaths": 23478,
+        "recovered": 610078
     },
     {
         "Name": "멕시코",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 139454,
+        "confirmed": 139625,
         "deaths": 9193,
-        "recovered": 122008
+        "recovered": 122175
     },
     {
         "Name": "Bolivia",
@@ -395,9 +395,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 61643,
+        "confirmed": 62484,
         "deaths": 216,
-        "recovered": 54831
+        "recovered": 55444
     },
     {
         "Name": "코스타리카",
@@ -976,20 +976,20 @@
         "recovered": 2349
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 3821,
+        "deaths": 40,
+        "recovered": 908
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 3654,
         "deaths": 163,
         "recovered": 889
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 3636,
-        "deaths": 39,
-        "recovered": 832
     },
     {
         "Name": "Angola",
@@ -1211,9 +1211,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1595,
+        "confirmed": 1608,
         "deaths": 40,
-        "recovered": 1219
+        "recovered": 1230
     },
     {
         "Name": "Cyprus",
@@ -1477,7 +1477,7 @@
         "Name_en": "Curaçao",
         "confirmed": 192,
         "deaths": 1,
-        "recovered": 61
+        "recovered": 68
     },
     {
         "Name": "Barbados",
