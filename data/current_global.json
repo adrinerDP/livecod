@@ -459,9 +459,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 46119,
-        "deaths": 920,
-        "recovered": 41941
+        "confirmed": 46376,
+        "deaths": 923,
+        "recovered": 42069
     },
     {
         "Name": "Ghana",
@@ -659,9 +659,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 13879,
-        "deaths": 646,
-        "recovered": 4130
+        "confirmed": 14460,
+        "deaths": 654,
+        "recovered": 4153
     },
     {
         "Name": "Zambia",
@@ -1008,20 +1008,20 @@
         "recovered": 3316
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 3442,
+        "deaths": 87,
+        "recovered": 2125
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
         "confirmed": 3428,
         "deaths": 105,
         "recovered": 1737
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 3397,
-        "deaths": 87,
-        "recovered": 2094
     },
     {
         "Name": "Somalia",
