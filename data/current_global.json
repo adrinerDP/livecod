@@ -499,9 +499,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38815,
-        "deaths": 1426,
-        "recovered": 32098
+        "confirmed": 38855,
+        "deaths": 1436,
+        "recovered": 32503
     },
     {
         "Name": "아제르바이잔",
@@ -1235,7 +1235,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1482,
+        "confirmed": 1486,
         "deaths": 35,
         "recovered": 1248
     },
@@ -1413,7 +1413,7 @@
         "Name_en": "Eritrea",
         "confirmed": 364,
         "deaths": 0,
-        "recovered": 304
+        "recovered": 305
     },
     {
         "Name": "Isle of Man",
