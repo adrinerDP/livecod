@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6808919,200909,4089914
+미국,美国,United States,6814236,200975,4093316
 인도,印度,India,5115893,83230,4022049
 브라질,巴西,Brazil,4392351,133355,3671128
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
 콜롬비아,哥伦比亚,Colombia,728590,23288,607978
 멕시코,墨西哥,Mexico,676487,71678,481068
-남아프리카 공화국,南非共和国,South Africa,651521,15641,583126
+남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
 스페인,西班牙,Spain,614360,30243,0
 Argentina,,Argentina,577338,11910,448263
 칠레,智利,Chile,439287,12058,411853
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,342671,4823,247969
 터키,土耳其,Turkey,296391,7249,262602
 이탈리아,义大利,Italy,291442,35645,215265
 필리핀,菲律宾,Philippines,272934,4732,207858
-독일,德国,Germany,266541,9447,239100
+독일,德国,Germany,266865,9449,239100
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,169352,1163,123044
 Ukraine,,Ukraine,162660,3340,72324
-캐나다,加拿大,Canada,139421,9193,121994
+캐나다,加拿大,Canada,139454,9193,122008
 Bolivia,,Bolivia,128286,7447,86216
 카타르,卡塔尔,Qatar,122449,208,119400
 에콰도르,厄瓜多尔,Ecuador,121525,10996,97063
@@ -49,8 +49,8 @@ Ethiopia,,Ethiopia,66224,1045,26665
 포르투갈,葡萄牙,Portugal,65626,1878,44528
 Venezuela,,Venezuela,62655,502,50361
 바레인,巴林,Bahrain,61643,216,54831
+코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
 네팔,尼泊尔,Nepal,58327,379,41706
-코스타리카,哥斯达黎加,Costa Rica,58137,633,21536
 싱가포르,新加坡,Singapore,57514,27,56884
 나이지리아,尼日利亚,Nigeria,56478,1088,44430
 Uzbekistan,,Uzbekistan,49015,407,45422
@@ -105,7 +105,7 @@ Mauritania,,Mauritania,7319,161,6839
 Montenegro,,Montenegro,7061,123,4692
 Mozambique,,Mozambique,5994,39,3267
 슬로바키아,斯洛伐克,Slovakia,5860,38,3220
-Malawi,,Malawi,5701,178,3762
+Malawi,,Malawi,5704,178,3764
 Djibouti,,Djibouti,5396,61,5331
 Uganda,,Uganda,5266,60,2404
 Eswatini,,Eswatini,5128,101,4401
@@ -116,8 +116,8 @@ Congo,,Congo,4934,88,3887
 Cabo Verde,,Cabo Verde,4904,46,4294
 Cuba,,Cuba,4876,109,4131
 CAR,,CAR,4772,62,1828
+Rwanda,,Rwanda,4634,22,2789
 Suriname,,Suriname,4625,95,3996
-Rwanda,,Rwanda,4624,22,2767
 Jamaica,,Jamaica,4164,46,1180
 슬로베니아,斯洛文尼亚,Slovenia,3954,135,2844
 요르단,约旦,Jordan,3852,26,2349
