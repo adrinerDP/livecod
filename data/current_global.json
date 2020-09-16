@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6805335,
-        "deaths": 200861,
-        "recovered": 4089513
+        "confirmed": 6808919,
+        "deaths": 200909,
+        "recovered": 4089914
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5112431,
-        "deaths": 83208,
-        "recovered": 4017778
+        "confirmed": 5115893,
+        "deaths": 83230,
+        "recovered": 4022049
     },
     {
         "Name": "브라질",
@@ -1163,9 +1163,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2126,
+        "confirmed": 2133,
         "deaths": 72,
-        "recovered": 1640
+        "recovered": 1646
     },
     {
         "Name": "Yemen",
@@ -1243,15 +1243,15 @@
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
-        "confirmed": 1438,
+        "confirmed": 1483,
         "deaths": 53,
-        "recovered": 945
+        "recovered": 1054
     },
     {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1327,
+        "confirmed": 1332,
         "deaths": 82,
         "recovered": 1214
     },
