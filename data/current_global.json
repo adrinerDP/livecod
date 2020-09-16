@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 48776,
-        "deaths": 405,
-        "recovered": 45058
+        "confirmed": 49015,
+        "deaths": 407,
+        "recovered": 45422
     },
     {
         "Name": "알제리",
@@ -452,7 +452,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 48265,
-        "deaths": 2029,
+        "deaths": 2036,
         "recovered": 39900
     },
     {
@@ -539,9 +539,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32511,
-        "deaths": 735,
-        "recovered": 31313
+        "confirmed": 32613,
+        "deaths": 736,
+        "recovered": 31411
     },
     {
         "Name": "아일랜드",
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9129,
+        "confirmed": 9171,
         "deaths": 73,
-        "recovered": 7896
+        "recovered": 7941
     },
     {
         "Name": "핀란드",
