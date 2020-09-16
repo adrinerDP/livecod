@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6799740,200712,4085778
-인도,印度,India,5079933,82669,3995071
+미국,美国,United States,6799990,200720,4086057
+인도,印度,India,5111858,83206,4017533
 브라질,巴西,Brazil,4392351,133355,3671128
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
@@ -17,17 +17,17 @@ Bangladesh,,Bangladesh,342671,4823,247969
 사우디아라비아,沙特阿拉伯,Saudi Arabia,327551,4369,306004
 파키스탄,巴基斯坦,Pakistan,303089,6393,290760
 이라크,伊拉克,Iraq,303059,8248,237241
-터키,土耳其,Turkey,294620,7186,261260
+터키,土耳其,Turkey,296391,7249,262602
 이탈리아,义大利,Italy,291442,35645,215265
 필리핀,菲律宾,Philippines,272934,4732,207858
 독일,德国,Germany,266541,9447,239100
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
-이스라엘,以色列,Israel,166794,1147,122785
+이스라엘,以色列,Israel,169352,1163,123044
 Ukraine,,Ukraine,162660,3340,72324
 캐나다,加拿大,Canada,139421,9193,121994
 Bolivia,,Bolivia,128286,7447,86216
 카타르,卡塔尔,Qatar,122449,208,119400
-에콰도르,厄瓜多尔,Ecuador,119553,10963,97063
+에콰도르,厄瓜多尔,Ecuador,121525,10996,97063
 루마니아,尼亚,Romania,107011,4285,43244
 Kazakhstan,,Kazakhstan,106984,1671,101267
 도미니카 공화국,多明尼加共和国,Dominican Republic,105521,2009,78891
@@ -35,8 +35,8 @@ Panama,,Panama,102832,2187,75592
 이집트,埃及,Egypt,101340,5679,85745
 쿠웨이트,科威特,Kuwait,96999,571,87187
 벨기에,比利时,Belgium,94795,9930,18789
+모로코,摩洛哥,Morocco,92016,1686,72968
 오만,阿曼,Oman,91196,805,84363
-모로코,摩洛哥,Morocco,90324,1648,71047
 스웨덴,瑞典语,Sweden,87575,5860,0
 네덜란드,荷兰,Netherlands,86320,6260,0
 Guatemala,,Guatemala,82684,2984,71983
@@ -93,7 +93,7 @@ Guinea,,Guinea,10111,63,9444
 말레이시아,马来西亚,Malaysia,10031,128,9235
 Namibia,,Namibia,9964,108,7502
 French Guiana,,French Guiana,9578,64,9202
-Maldives,,Maldives,9328,33,7729
+Maldives,,Maldives,9427,33,7903
 Tajikistan,,Tajikistan,9171,73,7941
 핀란드,芬兰,Finland,8750,339,7700
 Gabon,,Gabon,8654,53,7785
@@ -103,8 +103,8 @@ Zimbabwe,,Zimbabwe,7576,224,5783
 Mauritania,,Mauritania,7319,161,6839
 룩셈부르크,卢森堡,Luxembourg,7284,124,6561
 Montenegro,,Montenegro,7061,123,4692
+Mozambique,,Mozambique,5994,39,3267
 슬로바키아,斯洛伐克,Slovakia,5860,38,3220
-Mozambique,,Mozambique,5713,37,3181
 Malawi,,Malawi,5701,178,3762
 Djibouti,,Djibouti,5396,61,5331
 Uganda,,Uganda,5266,60,2404
@@ -138,7 +138,7 @@ Réunion,,Réunion,3002,15,1313
 Mali,,Mali,2966,128,2311
 조지아,格鲁吉亚,Georgia,2758,19,1412
 에스토니아,爱沙尼亚,Estonia,2756,64,2318
-South Sudan,,South Sudan,2592,49,1290
+South Sudan,,South Sudan,2594,49,1290
 Malta,,Malta,2560,16,1953
 Botswana,,Botswana,2463,11,575
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
@@ -168,7 +168,7 @@ Sao Tome and Principe,,Sao Tome and Principe,907,15,871
 Turks and Caicos,,Turks and Caicos,650,5,557
 Channel Islands,,Channel Islands,639,48,575
 Sint Maarten,,Sint Maarten,549,19,468
-Papua New Guinea,,Papua New Guinea,511,6,232
+Papua New Guinea,,Papua New Guinea,516,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,500,7,477
 Burundi,,Burundi,472,1,374
@@ -183,10 +183,10 @@ Mongolia,,Mongolia,311,0,301
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,246,0,175
 Cayman Islands,,Cayman Islands,208,1,204
+Curaçao,,Curaçao,192,1,61
 Barbados,,Barbados,184,7,169
 모나코,摩纳哥,Monaco,178,1,133
 Bermuda,,Bermuda,177,9,164
-Curaçao,,Curaçao,169,1,61
 Brunei,,Brunei,145,3,139
 Seychelles,,Seychelles,140,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105

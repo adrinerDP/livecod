@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6799740,
-        "deaths": 200712,
-        "recovered": 4085778
+        "confirmed": 6799990,
+        "deaths": 200720,
+        "recovered": 4086057
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5079933,
-        "deaths": 82669,
-        "recovered": 3995071
+        "confirmed": 5111858,
+        "deaths": 83206,
+        "recovered": 4017533
     },
     {
         "Name": "브라질",
@@ -147,9 +147,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 294620,
-        "deaths": 7186,
-        "recovered": 261260
+        "confirmed": 296391,
+        "deaths": 7249,
+        "recovered": 262602
     },
     {
         "Name": "이탈리아",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 166794,
-        "deaths": 1147,
-        "recovered": 122785
+        "confirmed": 169352,
+        "deaths": 1163,
+        "recovered": 123044
     },
     {
         "Name": "Ukraine",
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 119553,
-        "deaths": 10963,
+        "confirmed": 121525,
+        "deaths": 10996,
         "recovered": 97063
     },
     {
@@ -288,20 +288,20 @@
         "recovered": 18789
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 92016,
+        "deaths": 1686,
+        "recovered": 72968
+    },
+    {
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
         "confirmed": 91196,
         "deaths": 805,
         "recovered": 84363
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 90324,
-        "deaths": 1648,
-        "recovered": 71047
     },
     {
         "Name": "스웨덴",
@@ -755,9 +755,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 9328,
+        "confirmed": 9427,
         "deaths": 33,
-        "recovered": 7729
+        "recovered": 7903
     },
     {
         "Name": "Tajikistan",
@@ -832,20 +832,20 @@
         "recovered": 4692
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 5994,
+        "deaths": 39,
+        "recovered": 3267
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "confirmed": 5860,
         "deaths": 38,
         "recovered": 3220
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 5713,
-        "deaths": 37,
-        "recovered": 3181
     },
     {
         "Name": "Malawi",
@@ -1115,7 +1115,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2592,
+        "confirmed": 2594,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1355,7 +1355,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 511,
+        "confirmed": 516,
         "deaths": 6,
         "recovered": 232
     },
@@ -1472,6 +1472,14 @@
         "recovered": 204
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 192,
+        "deaths": 1,
+        "recovered": 61
+    },
+    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
@@ -1494,14 +1502,6 @@
         "confirmed": 177,
         "deaths": 9,
         "recovered": 164
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 169,
-        "deaths": 1,
-        "recovered": 61
     },
     {
         "Name": "Brunei",
