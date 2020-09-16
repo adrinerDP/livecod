@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6791999,
-        "deaths": 200465,
+        "confirmed": 6796567,
+        "deaths": 200650,
         "recovered": 4069609
     },
     {
@@ -107,8 +107,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 374228,
-        "deaths": 41664,
+        "confirmed": 378219,
+        "deaths": 41684,
         "recovered": 0
     },
     {
@@ -1040,20 +1040,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 3293,
+        "deaths": 57,
+        "recovered": 810
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "confirmed": 3271,
         "deaths": 13,
         "recovered": 3021
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 3223,
-        "deaths": 56,
-        "recovered": 798
     },
     {
         "Name": "Aruba",
