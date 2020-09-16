@@ -555,9 +555,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 28367,
-        "deaths": 539,
-        "recovered": 14814
+        "confirmed": 29298,
+        "deaths": 552,
+        "recovered": 15261
     },
     {
         "Name": "El Salvador",
@@ -571,8 +571,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26739,
-        "deaths": 816,
+        "confirmed": 26778,
+        "deaths": 824,
         "recovered": 23652
     },
     {
@@ -1195,9 +1195,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1801,
-        "deaths": 24,
-        "recovered": 1694
+        "confirmed": 1802,
+        "deaths": 25,
+        "recovered": 1698
     },
     {
         "Name": "Burkina Faso",
@@ -1227,9 +1227,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1501,
+        "confirmed": 1528,
         "deaths": 19,
-        "recovered": 540
+        "recovered": 663
     },
     {
         "Name": "라트비아",
@@ -1400,20 +1400,20 @@
         "recovered": 412
     },
     {
+        "Name": "Mauritius",
+        "Name_ch": "",
+        "Name_en": "Mauritius",
+        "confirmed": 365,
+        "deaths": 10,
+        "recovered": 338
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
         "confirmed": 364,
         "deaths": 0,
         "recovered": 304
-    },
-    {
-        "Name": "Mauritius",
-        "Name_ch": "",
-        "Name_en": "Mauritius",
-        "confirmed": 362,
-        "deaths": 10,
-        "recovered": 335
     },
     {
         "Name": "Isle of Man",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85202,
+        "confirmed": 85214,
         "deaths": 4634,
-        "recovered": 80426
+        "recovered": 80437
     }
 ]
