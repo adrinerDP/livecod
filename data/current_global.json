@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 74552,
-        "deaths": 761,
-        "recovered": 72661
+        "confirmed": 74763,
+        "deaths": 767,
+        "recovered": 72810
     },
     {
         "Name": "Honduras",
@@ -400,6 +400,14 @@
         "recovered": 54831
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 58327,
+        "deaths": 379,
+        "recovered": 41706
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
@@ -414,14 +422,6 @@
         "confirmed": 57515,
         "deaths": 27,
         "recovered": 56884
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 56788,
-        "deaths": 371,
-        "recovered": 40638
     },
     {
         "Name": "나이지리아",
@@ -643,17 +643,17 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15803,
-        "deaths": 214,
-        "recovered": 14452
+        "confirmed": 15871,
+        "deaths": 215,
+        "recovered": 14482
     },
     {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14529,
-        "deaths": 298,
-        "recovered": 10692
+        "confirmed": 14568,
+        "deaths": 299,
+        "recovered": 10756
     },
     {
         "Name": "헝가리",
@@ -1120,20 +1120,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Malta",
+        "Name_ch": "",
+        "Name_en": "Malta",
+        "confirmed": 2560,
+        "deaths": 16,
+        "recovered": 1953
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 2463,
         "deaths": 11,
         "recovered": 575
-    },
-    {
-        "Name": "Malta",
-        "Name_ch": "",
-        "Name_en": "Malta",
-        "confirmed": 2454,
-        "deaths": 16,
-        "recovered": 1931
     },
     {
         "Name": "Guinea-Bissau",
