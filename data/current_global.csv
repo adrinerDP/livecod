@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6788640,200217,4068704
-인도,印度,India,5025043,82124,3942360
+미국,美国,United States,6789877,200280,4069054
+인도,印度,India,5041681,82286,3960965
 브라질,巴西,Brazil,4384299,133207,3671128
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
@@ -14,7 +14,7 @@ Argentina,,Argentina,577338,11852,438883
 프랑스,法国,France,395104,30999,89891
 영국,英国,UK,374228,41664,0
 Bangladesh,,Bangladesh,342671,4823,247969
-사우디아라비아,沙特阿拉伯,Saudi Arabia,326930,4338,305022
+사우디아라비아,沙特阿拉伯,Saudi Arabia,327551,4369,306004
 파키스탄,巴基斯坦,Pakistan,303089,6393,290760
 이라크,伊拉克,Iraq,298702,8166,233346
 터키,土耳其,Turkey,294620,7186,261260
@@ -65,15 +65,15 @@ Moldova,,Moldova,43734,1143,32293
 아제르바이잔,阿塞拜疆,Azerbaijan,38658,569,36149
 Kenya,,Kenya,36301,634,23364
 오스트리아,奥地利,Austria,35073,758,27655
+팔레스타인,巴勒斯坦,Palestine,33006,243,22209
 세르비아,塞尔维亚,Serbia,32511,735,31313
-팔레스타인,巴勒斯坦,Palestine,32250,229,21804
 아일랜드,冰岛,Ireland,31549,1787,23364
 Paraguay,,Paraguay,29298,552,15261
 El Salvador,,El Salvador,27088,796,19450
 호주,澳大利亚,Australia,26779,824,23726
 레바논,黎巴嫩,Lebanon,25449,252,9216
+Libya,,Libya,24936,394,13498
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24211,736,16990
-Libya,,Libya,24144,383,13252
 덴마크,丹麦,Denmark,20571,633,16557
 카메룬,喀麦隆,Cameroon,20271,415,18837
 Ivory Coast,,Ivory Coast,19100,120,18228
@@ -83,7 +83,7 @@ Madagascar,,Madagascar,15871,215,14482
 세네갈,塞内加尔,Senegal,14568,299,10756
 헝가리,匈牙利,Hungary,14460,654,4153
 크로아티아,克罗地亚,Croatia,14029,236,11690
-Zambia,,Zambia,13819,324,12590
+Zambia,,Zambia,13887,326,12869
 그리스,希腊,Greece,13730,313,3804
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12393,265,10371
@@ -129,7 +129,7 @@ Lithuania,,Lithuania,3442,87,2125
 Gambia,,Gambia,3428,105,1737
 Somalia,,Somalia,3390,98,2812
 Mayotte,,Mayotte,3374,40,2964
-스리랑카,斯里兰卡,Sri Lanka,3271,13,3016
+스리랑카,斯里兰卡,Sri Lanka,3271,13,3021
 Trinidad and Tobago,,Trinidad and Tobago,3223,56,798
 Aruba,,Aruba,3152,22,1610
 Guadeloupe,,Guadeloupe,3080,24,837
