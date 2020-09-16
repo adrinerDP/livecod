@@ -731,9 +731,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 9969,
+        "confirmed": 10031,
         "deaths": 128,
-        "recovered": 9209
+        "recovered": 9235
     },
     {
         "Name": "Namibia",
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8725,
+        "confirmed": 8750,
         "deaths": 339,
         "recovered": 7500
     },
