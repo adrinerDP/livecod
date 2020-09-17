@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6859410,
-        "deaths": 201935,
-        "recovered": 4139800
+        "confirmed": 6860410,
+        "deaths": 201961,
+        "recovered": 4140212
     },
     {
         "Name": "인도",
@@ -619,9 +619,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19132,
+        "confirmed": 19158,
         "deaths": 120,
-        "recovered": 18289
+        "recovered": 18330
     },
     {
         "Name": "Bulgaria",
@@ -987,17 +987,17 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 3675,
-        "deaths": 143,
-        "recovered": 1401
+        "confirmed": 3789,
+        "deaths": 144,
+        "recovered": 1405
     },
     {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3654,
-        "deaths": 163,
-        "recovered": 889
+        "confirmed": 3691,
+        "deaths": 165,
+        "recovered": 903
     },
     {
         "Name": "Lithuania",
