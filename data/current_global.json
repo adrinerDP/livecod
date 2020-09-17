@@ -648,20 +648,20 @@
         "recovered": 14482
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 15170,
+        "deaths": 663,
+        "recovered": 4227
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
         "confirmed": 14568,
         "deaths": 299,
         "recovered": 10756
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 14460,
-        "deaths": 654,
-        "recovered": 4153
     },
     {
         "Name": "그리스",
@@ -1235,8 +1235,8 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1486,
-        "deaths": 35,
+        "confirmed": 1494,
+        "deaths": 36,
         "recovered": 1248
     },
     {
