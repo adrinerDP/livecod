@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6829847,201403,4120133
+미국,美国,United States,6829951,201403,4120133
 인도,印度,India,5128918,83338,4029525
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -72,13 +72,13 @@ Paraguay,,Paraguay,30419,566,15740
 El Salvador,,El Salvador,27249,801,20392
 호주,澳大利亚,Australia,26813,832,23792
 레바논,黎巴嫩,Lebanon,26083,259,9634
-Libya,,Libya,24936,394,13498
+Libya,,Libya,25822,409,13908
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24211,736,16990
 덴마크,丹麦,Denmark,21393,635,16918
 카메룬,喀麦隆,Cameroon,20303,415,18837
 Ivory Coast,,Ivory Coast,19132,120,18289
 Bulgaria,,Bulgaria,18390,739,13241
-North Macedonia,,North Macedonia,16088,668,13550
+North Macedonia,,North Macedonia,16274,675,13635
 Madagascar,,Madagascar,15925,216,14547
 헝가리,匈牙利,Hungary,15170,663,4227
 세네갈,塞内加尔,Senegal,14618,300,10923
@@ -94,7 +94,7 @@ Guinea,,Guinea,10154,63,9612
 Namibia,,Namibia,9964,108,7502
 French Guiana,,French Guiana,9595,65,9235
 Maldives,,Maldives,9427,33,7903
-Tajikistan,,Tajikistan,9171,73,7941
+Tajikistan,,Tajikistan,9214,73,7988
 핀란드,芬兰,Finland,8799,339,7700
 Gabon,,Gabon,8678,53,7827
 Haiti,,Haiti,8541,220,6258
@@ -107,7 +107,7 @@ Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,5994,39,3267
 Malawi,,Malawi,5704,178,3764
 Djibouti,,Djibouti,5399,61,5333
-Uganda,,Uganda,5266,60,2404
+Uganda,,Uganda,5380,60,2489
 Eswatini,,Eswatini,5155,101,4418
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 홍콩,香港,Hong Kong,4994,102,4682

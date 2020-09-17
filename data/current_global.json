@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6829847,
+        "confirmed": 6829951,
         "deaths": 201403,
         "recovered": 4120133
     },
@@ -587,9 +587,9 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 24936,
-        "deaths": 394,
-        "recovered": 13498
+        "confirmed": 25822,
+        "deaths": 409,
+        "recovered": 13908
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -635,9 +635,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 16088,
-        "deaths": 668,
-        "recovered": 13550
+        "confirmed": 16274,
+        "deaths": 675,
+        "recovered": 13635
     },
     {
         "Name": "Madagascar",
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9171,
+        "confirmed": 9214,
         "deaths": 73,
-        "recovered": 7941
+        "recovered": 7988
     },
     {
         "Name": "핀란드",
@@ -867,9 +867,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 5266,
+        "confirmed": 5380,
         "deaths": 60,
-        "recovered": 2404
+        "recovered": 2489
     },
     {
         "Name": "Eswatini",
