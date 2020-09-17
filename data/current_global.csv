@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6868572,202112,4145473
+미국,美国,United States,6869770,202130,4146209
 인도,印度,India,5212686,84404,4109828
-브라질,巴西,Brazil,4455386,134935,3753082
+브라질,巴西,Brazil,4457443,135031,3753082
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
 콜롬비아,哥伦比亚,Colombia,743945,23665,615457
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,293025,35658,215954
 필리핀,菲律宾,Philippines,276289,4785,208096
-독일,德国,Germany,269035,9455,239100
+독일,德国,Germany,269042,9457,241300
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,175256,1169,126329
 Ukraine,,Ukraine,166244,3400,73913
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,128872,7478,87031
 루마니아,尼亚,Romania,108690,4312,43244
 Kazakhstan,,Kazakhstan,107056,1671,101455
 도미니카 공화국,多明尼加共和国,Dominican Republic,106136,2022,79363
-Panama,,Panama,103466,2198,76787
+Panama,,Panama,104138,2213,77881
 이집트,埃及,Egypt,101641,5715,87158
 쿠웨이트,科威特,Kuwait,97824,575,87911
 벨기에,比利时,Belgium,95948,9935,18810
@@ -60,7 +60,7 @@ Uzbekistan,,Uzbekistan,49627,413,45970
 Ghana,,Ghana,45714,294,44896
 Kyrgyzstan,,Kyrgyzstan,45153,1063,41317
 Moldova,,Moldova,44983,1170,33239
-체코,捷克,Czechia,42739,488,23321
+체코,捷克,Czechia,44155,489,23377
 아프가니스탄,阿富汗,Afghanistan,38872,1436,32505
 아제르바이잔,阿塞拜疆,Azerbaijan,38777,571,36289
 Kenya,,Kenya,36576,642,23611
@@ -99,10 +99,10 @@ Tajikistan,,Tajikistan,9214,73,7988
 Gabon,,Gabon,8678,53,7827
 Tunisia,,Tunisia,8570,133,2342
 Haiti,,Haiti,8556,220,6315
-Zimbabwe,,Zimbabwe,7598,224,5823
-룩셈부르크,卢森堡,Luxembourg,7394,124,6593
+Zimbabwe,,Zimbabwe,7633,224,5841
+룩셈부르크,卢森堡,Luxembourg,7541,124,6641
+Montenegro,,Montenegro,7503,129,4892
 Mauritania,,Mauritania,7346,161,6865
-Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,6161,39,3393
 슬로바키아,斯洛伐克,Slovakia,6021,39,3288
 Malawi,,Malawi,5711,179,4000
@@ -130,8 +130,8 @@ Gambia,,Gambia,3440,107,1851
 Trinidad and Tobago,,Trinidad and Tobago,3434,60,1469
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
+Aruba,,Aruba,3382,23,1742
 Mayotte,,Mayotte,3374,40,2964
-Aruba,,Aruba,3328,22,1676
 스리랑카,斯里兰卡,Sri Lanka,3274,13,3043
 Réunion,,Réunion,3099,15,1794
 Bahamas,,Bahamas,3087,69,1533
@@ -147,7 +147,7 @@ Iceland,,Iceland,2189,10,2104
 Sierra Leone,,Sierra Leone,2133,72,1646
 Yemen,,Yemen,2022,585,1221
 Guyana,,Guyana,1958,58,1302
-Uruguay,,Uruguay,1856,45,1559
+Uruguay,,Uruguay,1876,46,1582
 New Zealand,,New Zealand,1809,25,1707
 Burkina Faso,,Burkina Faso,1767,56,1166
 토고,多哥,Togo,1618,41,1243
