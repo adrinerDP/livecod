@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6854767,201849,4137645
-인도,印度,India,5212623,84400,4107515
+미국,美国,United States,6859410,201935,4139800
+인도,印度,India,5212686,84404,4109828
 브라질,巴西,Brazil,4430227,134363,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,625651,30405,0
 Argentina,,Argentina,589012,12229,456347
 칠레,智利,Chile,441150,12142,413928
-프랑스,法国,France,415481,31095,90335
+프랑스,法国,France,415481,31095,90840
 이란,伊朗,Iran,413149,23808,353848
 영국,英国,UK,381614,41705,0
 Bangladesh,,Bangladesh,344264,4859,250412
@@ -90,8 +90,8 @@ Sudan,,Sudan,13535,836,6759
 Albania,,Albania,11948,347,6788
 DRC,,DRC,10442,267,9840
 Guinea,,Guinea,10154,63,9612
+Namibia,,Namibia,10078,108,7685
 말레이시아,马来西亚,Malaysia,10052,128,9250
-Namibia,,Namibia,9964,108,7502
 French Guiana,,French Guiana,9623,65,9267
 Maldives,,Maldives,9494,33,8033
 Tajikistan,,Tajikistan,9214,73,7988
@@ -116,8 +116,8 @@ Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
 Cuba,,Cuba,4933,109,4230
 CAR,,CAR,4782,62,1830
+Rwanda,,Rwanda,4653,23,2817
 Suriname,,Suriname,4645,95,4089
-Rwanda,,Rwanda,4634,22,2789
 Jamaica,,Jamaica,4374,51,1225
 요르단,约旦,Jordan,4131,26,2415
 슬로베니아,斯洛文尼亚,Slovenia,4058,136,2897

@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6854767,
-        "deaths": 201849,
-        "recovered": 4137645
+        "confirmed": 6859410,
+        "deaths": 201935,
+        "recovered": 4139800
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5212623,
-        "deaths": 84400,
-        "recovered": 4107515
+        "confirmed": 5212686,
+        "deaths": 84404,
+        "recovered": 4109828
     },
     {
         "Name": "브라질",
@@ -93,7 +93,7 @@
         "Name_en": "France",
         "confirmed": 415481,
         "deaths": 31095,
-        "recovered": 90335
+        "recovered": 90840
     },
     {
         "Name": "이란",
@@ -728,20 +728,20 @@
         "recovered": 9612
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 10078,
+        "deaths": 108,
+        "recovered": 7685
+    },
+    {
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
         "confirmed": 10052,
         "deaths": 128,
         "recovered": 9250
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 9964,
-        "deaths": 108,
-        "recovered": 7502
     },
     {
         "Name": "French Guiana",
@@ -936,20 +936,20 @@
         "recovered": 1830
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4653,
+        "deaths": 23,
+        "recovered": 2817
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4645,
         "deaths": 95,
         "recovered": 4089
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4634,
-        "deaths": 22,
-        "recovered": 2789
     },
     {
         "Name": "Jamaica",
