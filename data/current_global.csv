@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6844174,201736,4133422
+미국,美国,United States,6844652,201751,4133422
 인도,印度,India,5205760,84340,4098225
 브라질,巴西,Brazil,4430227,134363,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,293025,35658,215954
 필리핀,菲律宾,Philippines,276289,4785,208096
-독일,德国,Germany,267512,9451,239100
+독일,德国,Germany,268069,9452,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,172322,1163,125671
 Ukraine,,Ukraine,166244,3400,73913
@@ -30,12 +30,12 @@ Bolivia,,Bolivia,128872,7478,87031
 에콰도르,厄瓜多尔,Ecuador,122257,11029,97063
 루마니아,尼亚,Romania,108690,4312,43244
 Kazakhstan,,Kazakhstan,107056,1671,101455
-도미니카 공화국,多明尼加共和国,Dominican Republic,105521,2009,78891
+도미니카 공화국,多明尼加共和国,Dominican Republic,106136,2022,79363
 Panama,,Panama,103466,2198,76787
 이집트,埃及,Egypt,101500,5696,86549
 쿠웨이트,科威特,Kuwait,97824,575,87911
 벨기에,比利时,Belgium,95948,9935,18810
-모로코,摩洛哥,Morocco,92016,1686,72968
+모로코,摩洛哥,Morocco,94504,1714,74930
 오만,阿曼,Oman,91753,818,84648
 네덜란드,荷兰,Netherlands,88073,6266,0
 스웨덴,瑞典语,Sweden,87885,5864,0
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,82924,3009,72562
 일본,日本,Japan,76448,1461,68532
 벨라루스,白俄罗斯,Belarus,74987,771,72967
 Honduras,,Honduras,69660,2102,19983
+Ethiopia,,Ethiopia,66913,1060,27085
 포르투갈,葡萄牙,Portugal,66396,1888,44794
-Ethiopia,,Ethiopia,66224,1045,26665
 Venezuela,,Venezuela,63416,511,51274
 바레인,巴林,Bahrain,62484,216,55444
 네팔,尼泊尔,Nepal,59573,383,42949
@@ -92,8 +92,8 @@ DRC,,DRC,10442,267,9840
 Guinea,,Guinea,10154,63,9612
 말레이시아,马来西亚,Malaysia,10052,128,9250
 Namibia,,Namibia,9964,108,7502
-French Guiana,,French Guiana,9595,65,9235
-Maldives,,Maldives,9427,33,7903
+French Guiana,,French Guiana,9623,65,9267
+Maldives,,Maldives,9494,33,8033
 Tajikistan,,Tajikistan,9214,73,7988
 핀란드,芬兰,Finland,8799,339,7700
 Gabon,,Gabon,8678,53,7827
@@ -109,12 +109,12 @@ Malawi,,Malawi,5704,178,3764
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5380,60,2489
 Eswatini,,Eswatini,5155,101,4418
-Equatorial Guinea,,Equatorial Guinea,5000,83,4496
+Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 홍콩,香港,Hong Kong,4994,102,4682
 Cabo Verde,,Cabo Verde,4978,47,4430
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
-Cuba,,Cuba,4876,109,4131
+Cuba,,Cuba,4933,109,4230
 CAR,,CAR,4782,62,1830
 Suriname,,Suriname,4645,95,4089
 Rwanda,,Rwanda,4634,22,2789
@@ -140,7 +140,7 @@ Mali,,Mali,2966,128,2311
 에스토니아,爱沙尼亚,Estonia,2778,64,2337
 Malta,,Malta,2595,16,1978
 South Sudan,,South Sudan,2594,49,1290
-Botswana,,Botswana,2463,11,575
+Botswana,,Botswana,2567,13,624
 Benin,,Benin,2280,40,1942
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Iceland,,Iceland,2189,10,2104
@@ -174,7 +174,7 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,472,1,374
 Comoros,,Comoros,467,7,446
 Faeroe Islands,,Faeroe Islands,429,0,412
-Mauritius,,Mauritius,365,10,338
+Mauritius,,Mauritius,366,10,338
 Eritrea,,Eritrea,364,0,305
 지브롤터,直布罗陀,Gibraltar,343,0,313
 Isle of Man,,Isle of Man,339,24,312
