@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6831720,
-        "deaths": 201440,
-        "recovered": 4120430
+        "confirmed": 6833746,
+        "deaths": 201489,
+        "recovered": 4120574
     },
     {
         "Name": "인도",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 267442,
+        "confirmed": 267512,
         "deaths": 9451,
         "recovered": 239100
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 139747,
-        "deaths": 9193,
-        "recovered": 122449
+        "confirmed": 140040,
+        "deaths": 9196,
+        "recovered": 122452
     },
     {
         "Name": "Bolivia",
@@ -368,20 +368,20 @@
         "recovered": 19983
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 66396,
+        "deaths": 1888,
+        "recovered": 44794
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 66224,
         "deaths": 1045,
         "recovered": 26665
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 65626,
-        "deaths": 1878,
-        "recovered": 44528
     },
     {
         "Name": "Venezuela",
@@ -483,9 +483,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 44361,
-        "deaths": 1159,
-        "recovered": 32732
+        "confirmed": 44983,
+        "deaths": 1170,
+        "recovered": 33239
     },
     {
         "Name": "체코",
@@ -960,6 +960,14 @@
         "recovered": 1180
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 4131,
+        "deaths": 26,
+        "recovered": 2415
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
@@ -974,14 +982,6 @@
         "confirmed": 4043,
         "deaths": 46,
         "recovered": 944
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 3852,
-        "deaths": 26,
-        "recovered": 2349
     },
     {
         "Name": "Angola",
