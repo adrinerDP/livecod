@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6868278,202119,4145009
+미국,美国,United States,6868572,202112,4145473
 인도,印度,India,5212686,84404,4109828
 브라질,巴西,Brazil,4455386,134935,3753082
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -8,7 +8,7 @@
 멕시코,墨西哥,Mexico,680931,71978,485024
 남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
 스페인,西班牙,Spain,625651,30405,0
-Argentina,,Argentina,589012,12229,456347
+Argentina,,Argentina,601713,12460,456347
 칠레,智利,Chile,441150,12142,413928
 프랑스,法国,France,415481,31095,90840
 이란,伊朗,Iran,413149,23808,353848
@@ -84,7 +84,7 @@ Madagascar,,Madagascar,15925,216,14547
 세네갈,塞内加尔,Senegal,14618,300,10923
 그리스,希腊,Greece,14400,325,3804
 크로아티아,克罗地亚,Croatia,14279,238,11933
-Zambia,,Zambia,13887,326,12869
+Zambia,,Zambia,13928,326,13029
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12571,266,10371
 Albania,,Albania,11948,347,6788
@@ -101,7 +101,7 @@ Tunisia,,Tunisia,8570,133,2342
 Haiti,,Haiti,8556,220,6315
 Zimbabwe,,Zimbabwe,7598,224,5823
 룩셈부르크,卢森堡,Luxembourg,7394,124,6593
-Mauritania,,Mauritania,7332,161,6844
+Mauritania,,Mauritania,7346,161,6865
 Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,6161,39,3393
 슬로바키아,斯洛伐克,Slovakia,6021,39,3288
