@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6850700,201821,4136370
+미국,美国,United States,6854767,201849,4137645
 인도,印度,India,5212623,84400,4107515
 브라질,巴西,Brazil,4430227,134363,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 필리핀,菲律宾,Philippines,276289,4785,208096
 독일,德国,Germany,268258,9452,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
-이스라엘,以色列,Israel,172322,1163,125671
+이스라엘,以色列,Israel,175256,1169,126329
 Ukraine,,Ukraine,166244,3400,73913
 캐나다,加拿大,Canada,140539,9199,122836
 Bolivia,,Bolivia,128872,7478,87031
@@ -49,8 +49,8 @@ Ethiopia,,Ethiopia,66913,1060,27085
 포르투갈,葡萄牙,Portugal,66396,1888,44794
 Venezuela,,Venezuela,63416,511,51274
 바레인,巴林,Bahrain,62484,216,55444
+코스타리카,哥斯达黎加,Costa Rica,60818,666,22662
 네팔,尼泊尔,Nepal,59573,383,42949
-코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
 싱가포르,新加坡,Singapore,57532,27,57039
 나이지리아,尼日利亚,Nigeria,56604,1091,47872
 Uzbekistan,,Uzbekistan,49627,413,45970
@@ -105,7 +105,7 @@ Mauritania,,Mauritania,7332,161,6844
 Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,6161,39,3393
 슬로바키아,斯洛伐克,Slovakia,6021,39,3288
-Malawi,,Malawi,5704,178,3764
+Malawi,,Malawi,5711,179,4000
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5380,60,2489
 Eswatini,,Eswatini,5155,101,4418

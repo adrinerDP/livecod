@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6850700,
-        "deaths": 201821,
-        "recovered": 4136370
+        "confirmed": 6854767,
+        "deaths": 201849,
+        "recovered": 4137645
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 172322,
-        "deaths": 1163,
-        "recovered": 125671
+        "confirmed": 175256,
+        "deaths": 1169,
+        "recovered": 126329
     },
     {
         "Name": "Ukraine",
@@ -400,20 +400,20 @@
         "recovered": 55444
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 60818,
+        "deaths": 666,
+        "recovered": 22662
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 59573,
         "deaths": 383,
         "recovered": 42949
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 59516,
-        "deaths": 649,
-        "recovered": 21752
     },
     {
         "Name": "싱가포르",
@@ -851,9 +851,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5704,
-        "deaths": 178,
-        "recovered": 3764
+        "confirmed": 5711,
+        "deaths": 179,
+        "recovered": 4000
     },
     {
         "Name": "Djibouti",
