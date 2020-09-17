@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6864081,
-        "deaths": 202067,
-        "recovered": 4142656
+        "confirmed": 6868153,
+        "deaths": 202118,
+        "recovered": 4144704
     },
     {
         "Name": "인도",
@@ -267,9 +267,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 101500,
-        "deaths": 5696,
-        "recovered": 86549
+        "confirmed": 101641,
+        "deaths": 5715,
+        "recovered": 87158
     },
     {
         "Name": "쿠웨이트",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 18390,
-        "deaths": 739,
-        "recovered": 13241
+        "confirmed": 18544,
+        "deaths": 749,
+        "recovered": 13391
     },
     {
         "Name": "North Macedonia",
@@ -787,9 +787,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8541,
+        "confirmed": 8556,
         "deaths": 220,
-        "recovered": 6258
+        "recovered": 6315
     },
     {
         "Name": "Tunisia",
@@ -1171,8 +1171,8 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2019,
-        "deaths": 583,
+        "confirmed": 2022,
+        "deaths": 585,
         "recovered": 1221
     },
     {
@@ -1203,9 +1203,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1748,
+        "confirmed": 1767,
         "deaths": 56,
-        "recovered": 1162
+        "recovered": 1166
     },
     {
         "Name": "토고",
@@ -1280,20 +1280,20 @@
         "recovered": 98
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "confirmed": 1115,
+        "deaths": 81,
+        "recovered": 962
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "confirmed": 1099,
         "deaths": 2,
         "recovered": 672
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "confirmed": 1090,
-        "deaths": 81,
-        "recovered": 960
     },
     {
         "Name": "베트남",
