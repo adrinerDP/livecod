@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6828698,201366,4119782
+미국,美国,United States,6829319,201386,4119784
 인도,印度,India,5122846,83257,4025079
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 터키,土耳其,Turkey,296391,7249,262602
 이탈리아,义大利,Italy,291442,35645,215265
 필리핀,菲律宾,Philippines,276289,4785,208096
-독일,德国,Germany,266865,9449,239100
+독일,德国,Germany,267182,9451,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,172322,1163,125671
 Ukraine,,Ukraine,166244,3400,73913
@@ -33,7 +33,7 @@ Kazakhstan,,Kazakhstan,107056,1671,101455
 도미니카 공화국,多明尼加共和国,Dominican Republic,105521,2009,78891
 Panama,,Panama,103466,2198,76787
 이집트,埃及,Egypt,101500,5696,86549
-쿠웨이트,科威特,Kuwait,96999,571,87187
+쿠웨이트,科威特,Kuwait,97824,575,87911
 벨기에,比利时,Belgium,95948,9935,18810
 모로코,摩洛哥,Morocco,92016,1686,72968
 오만,阿曼,Oman,91753,818,84648
@@ -79,7 +79,7 @@ Libya,,Libya,24936,394,13498
 Ivory Coast,,Ivory Coast,19132,120,18289
 Bulgaria,,Bulgaria,18390,739,13241
 North Macedonia,,North Macedonia,16088,668,13550
-Madagascar,,Madagascar,15871,215,14482
+Madagascar,,Madagascar,15925,216,14547
 헝가리,匈牙利,Hungary,15170,663,4227
 세네갈,塞内加尔,Senegal,14618,300,10923
 크로아티아,克罗地亚,Croatia,14279,238,11933
