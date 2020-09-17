@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6825711,201266,4102888
+미국,美国,United States,6825967,201278,4103090
 인도,印度,India,5115893,83230,4022049
-브라질,巴西,Brazil,4419083,134106,3720312
+브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,738020,30927,580753
 콜롬비아,哥伦比亚,Colombia,736377,23478,610078
 멕시코,墨西哥,Mexico,676487,71678,481068
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
 스페인,西班牙,Spain,614360,30243,0
-Argentina,,Argentina,577338,11910,448263
+Argentina,,Argentina,589012,12116,448263
 칠레,智利,Chile,439287,12058,411853
 이란,伊朗,Iran,410334,23632,352019
 프랑스,法国,France,404888,31045,90335
@@ -97,12 +97,12 @@ Maldives,,Maldives,9427,33,7903
 Tajikistan,,Tajikistan,9171,73,7941
 핀란드,芬兰,Finland,8750,339,7700
 Gabon,,Gabon,8678,53,7827
-Haiti,,Haiti,8530,220,6181
+Haiti,,Haiti,8541,220,6258
 Tunisia,,Tunisia,8100,129,2309
-Zimbabwe,,Zimbabwe,7576,224,5783
+Zimbabwe,,Zimbabwe,7598,224,5823
+룩셈부르크,卢森堡,Luxembourg,7394,124,6593
 Mauritania,,Mauritania,7332,161,6844
-룩셈부르크,卢森堡,Luxembourg,7284,124,6561
-Montenegro,,Montenegro,7061,123,4692
+Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,5994,39,3267
 슬로바키아,斯洛伐克,Slovakia,5860,38,3220
 Malawi,,Malawi,5704,178,3764
@@ -115,9 +115,9 @@ Cabo Verde,,Cabo Verde,4978,47,4430
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
 Cuba,,Cuba,4876,109,4131
-CAR,,CAR,4772,62,1828
+CAR,,CAR,4782,62,1830
+Suriname,,Suriname,4645,95,4089
 Rwanda,,Rwanda,4634,22,2789
-Suriname,,Suriname,4625,95,3996
 Jamaica,,Jamaica,4164,46,1180
 슬로베니아,斯洛文尼亚,Slovenia,3954,135,2844
 요르단,约旦,Jordan,3852,26,2349
