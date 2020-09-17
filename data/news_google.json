@@ -1,7 +1,7 @@
 ﻿[
     {
-        "title": "Coronavirus: South Africa eases strict lockdown as cases drop",
-        "link": "https://www.bbc.com/news/world-africa-54186040"
+        "title": "'Confounding': Covid may have already peaked in many African countries",
+        "link": "https://www.theguardian.com/global-development/2020/sep/16/confounding-covid-may-have-already-peaked-africa"
     },
     {
         "title": "Coronavirus live news: infections surge in Czech Republic; India reports 97,894 new cases",
@@ -16,12 +16,16 @@
         "link": "https://thepublicsradio.org/article/the-latest-czech-republic-sees-record-2100-new-virus-cases"
     },
     {
-        "title": "Asia Today: India's gov't criticized for handling of virus",
-        "link": "https://www.taiwannews.com.tw/en/news/4010982"
+        "title": "Prime Minister Narendra Modi: The leader who followed his Raj Dharma",
+        "link": "https://www.opindia.com/2020/09/prime-minister-narendra-modi-birthday-raj-dharma-good-governance/"
     },
     {
         "title": "Global report: China locks down border city in response to two Covid cases",
         "link": "https://www.theguardian.com/world/2020/sep/17/global-report-chinese-border-city-enters-wartime-mode-to-tackle-covid-outbreak"
+    },
+    {
+        "title": "Trump disputes CDC head's vaccine timeline and mask claims",
+        "link": "https://www.cnn.com/2020/09/16/politics/donald-trump-coronavirus-masks-health-experts/index.html"
     },
     {
         "title": "Czech Republic coronavirus updates, September 17: new daily record hit with more than 2,000 cases - Prague, Czech Republic",
@@ -34,9 +38,5 @@
     {
         "title": "Makeshift hospital in Yunnan leads to fears of new outbreak in China",
         "link": "https://www.taiwannews.com.tw/en/news/4010915"
-    },
-    {
-        "title": "Top WHO scientist: Pre-coronavirus life won't return till 2022",
-        "link": "https://www.foxnews.com/world/leading-who-scientist-cautions-world-may-not-return-to-normal-until-2022"
     }
 ]

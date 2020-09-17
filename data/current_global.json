@@ -523,9 +523,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 35073,
+        "confirmed": 35853,
         "deaths": 758,
-        "recovered": 27655
+        "recovered": 28044
     },
     {
         "Name": "팔레스타인",
@@ -731,9 +731,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 10031,
+        "confirmed": 10052,
         "deaths": 128,
-        "recovered": 9235
+        "recovered": 9250
     },
     {
         "Name": "Namibia",
