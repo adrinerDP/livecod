@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6841486,
-        "deaths": 201652,
-        "recovered": 4133068
+        "confirmed": 6844149,
+        "deaths": 201699,
+        "recovered": 4133363
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5141905,
-        "deaths": 83433,
-        "recovered": 4039986
+        "confirmed": 5169981,
+        "deaths": 83735,
+        "recovered": 4068260
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4421686,
-        "deaths": 134174,
+        "confirmed": 4430227,
+        "deaths": 134363,
         "recovered": 3720312
     },
     {
@@ -227,8 +227,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 121525,
-        "deaths": 10996,
+        "confirmed": 122257,
+        "deaths": 11029,
         "recovered": 97063
     },
     {
@@ -491,9 +491,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 41032,
-        "deaths": 482,
-        "recovered": 22931
+        "confirmed": 42739,
+        "deaths": 488,
+        "recovered": 23321
     },
     {
         "Name": "아프가니스탄",
@@ -699,8 +699,8 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12498,
-        "deaths": 265,
+        "confirmed": 12571,
+        "deaths": 266,
         "recovered": 10371
     },
     {
@@ -1251,7 +1251,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1332,
+        "confirmed": 1333,
         "deaths": 82,
         "recovered": 1214
     },
@@ -1523,9 +1523,9 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 111,
+        "confirmed": 112,
         "deaths": 1,
-        "recovered": 105
+        "recovered": 108
     },
     {
         "Name": "Antigua and Barbuda",
