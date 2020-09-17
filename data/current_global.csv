@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6828301,201348,4119158
-인도,印度,India,5118253,83230,4025079
+인도,印度,India,5122846,83257,4025079
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 이탈리아,义大利,Italy,291442,35645,215265
 필리핀,菲律宾,Philippines,276289,4785,208096
 독일,德国,Germany,266865,9449,239100
-인도네시아,印度尼西亚,Indonesia,228993,9100,164101
+인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,171768,1165,125619
 Ukraine,,Ukraine,166244,3400,73913
 캐나다,加拿大,Canada,139747,9193,122449
@@ -41,8 +41,8 @@ Panama,,Panama,103466,2198,76787
 네덜란드,荷兰,Netherlands,86320,6260,0
 Guatemala,,Guatemala,82924,3009,72562
 아랍에미리트,阿拉伯联合酋长国,UAE,81782,402,71456
+폴란드,波兰,Poland,76571,2253,62725
 일본,日本,Japan,76448,1461,68532
-폴란드,波兰,Poland,75734,2237,62725
 벨라루스,白俄罗斯,Belarus,74763,767,72810
 Honduras,,Honduras,69660,2102,19983
 Ethiopia,,Ethiopia,66224,1045,26665
@@ -69,7 +69,7 @@ Kenya,,Kenya,36393,637,23529
 세르비아,塞尔维亚,Serbia,32613,736,31411
 아일랜드,冰岛,Ireland,31799,1788,23364
 Paraguay,,Paraguay,30419,566,15740
-El Salvador,,El Salvador,27163,801,19960
+El Salvador,,El Salvador,27249,801,20392
 호주,澳大利亚,Australia,26813,832,23792
 레바논,黎巴嫩,Lebanon,26083,259,9634
 Libya,,Libya,24936,394,13498
@@ -95,7 +95,7 @@ Namibia,,Namibia,9964,108,7502
 French Guiana,,French Guiana,9595,65,9235
 Maldives,,Maldives,9427,33,7903
 Tajikistan,,Tajikistan,9171,73,7941
-핀란드,芬兰,Finland,8750,339,7700
+핀란드,芬兰,Finland,8799,339,7700
 Gabon,,Gabon,8678,53,7827
 Haiti,,Haiti,8541,220,6258
 Tunisia,,Tunisia,8100,129,2309
@@ -110,7 +110,7 @@ Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5266,60,2404
 Eswatini,,Eswatini,5155,101,4418
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
-홍콩,香港,Hong Kong,4985,102,4663
+홍콩,香港,Hong Kong,4994,102,4682
 Cabo Verde,,Cabo Verde,4978,47,4430
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
@@ -119,13 +119,13 @@ CAR,,CAR,4782,62,1830
 Suriname,,Suriname,4645,95,4089
 Rwanda,,Rwanda,4634,22,2789
 Jamaica,,Jamaica,4164,46,1180
-슬로베니아,斯洛文尼亚,Slovenia,3954,135,2844
+슬로베니아,斯洛文尼亚,Slovenia,4058,136,2897
 Myanmar,,Myanmar,3894,46,908
 요르단,约旦,Jordan,3852,26,2349
 Angola,,Angola,3675,143,1401
 Syria,,Syria,3654,163,889
+Lithuania,,Lithuania,3504,87,2149
 태국,泰国,Thailand,3490,58,3325
-Lithuania,,Lithuania,3442,87,2125
 Gambia,,Gambia,3440,107,1851
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
