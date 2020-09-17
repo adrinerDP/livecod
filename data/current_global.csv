@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6862590,201990,4141168
+미국,美国,United States,6864081,202067,4142656
 인도,印度,India,5212686,84404,4109828
-브라질,巴西,Brazil,4430227,134363,3720312
+브라질,巴西,Brazil,4455386,134935,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
 콜롬비아,哥伦比亚,Colombia,736377,23478,610078
 멕시코,墨西哥,Mexico,680931,71978,485024
-남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
+남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
 스페인,西班牙,Spain,625651,30405,0
 Argentina,,Argentina,589012,12229,456347
 칠레,智利,Chile,441150,12142,413928
@@ -109,9 +109,9 @@ Malawi,,Malawi,5711,179,4000
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5380,60,2489
 Eswatini,,Eswatini,5155,101,4418
+Cabo Verde,,Cabo Verde,5063,49,4465
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 홍콩,香港,Hong Kong,4994,102,4682
-Cabo Verde,,Cabo Verde,4978,47,4430
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
 Cuba,,Cuba,4933,109,4230
@@ -150,8 +150,8 @@ Guyana,,Guyana,1958,58,1302
 Uruguay,,Uruguay,1856,45,1559
 New Zealand,,New Zealand,1809,25,1707
 Burkina Faso,,Burkina Faso,1748,56,1162
-토고,多哥,Togo,1608,40,1230
-Cyprus,,Cyprus,1548,22,1282
+토고,多哥,Togo,1618,41,1243
+Cyprus,,Cyprus,1558,22,1282
 Belize,,Belize,1536,19,696
 라트비아,约旦,Latvia,1494,36,1248
 안도라,安道尔,Andorra,1483,53,1054

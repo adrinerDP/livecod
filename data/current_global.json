@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6862590,
-        "deaths": 201990,
-        "recovered": 4141168
+        "confirmed": 6864081,
+        "deaths": 202067,
+        "recovered": 4142656
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4430227,
-        "deaths": 134363,
+        "confirmed": 4455386,
+        "deaths": 134935,
         "recovered": 3720312
     },
     {
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 653444,
-        "deaths": 15705,
-        "recovered": 584195
+        "confirmed": 655572,
+        "deaths": 15772,
+        "recovered": 585303
     },
     {
         "Name": "스페인",
@@ -880,6 +880,14 @@
         "recovered": 4418
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 5063,
+        "deaths": 49,
+        "recovered": 4465
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -894,14 +902,6 @@
         "confirmed": 4994,
         "deaths": 102,
         "recovered": 4682
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 4978,
-        "deaths": 47,
-        "recovered": 4430
     },
     {
         "Name": "Nicaragua",
@@ -1211,15 +1211,15 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1608,
-        "deaths": 40,
-        "recovered": 1230
+        "confirmed": 1618,
+        "deaths": 41,
+        "recovered": 1243
     },
     {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1548,
+        "confirmed": 1558,
         "deaths": 22,
         "recovered": 1282
     },
