@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1079519,
-        "deaths": 18917,
-        "recovered": 890114
+        "confirmed": 1085281,
+        "deaths": 19061,
+        "recovered": 895868
     },
     {
         "Name": "페루",
@@ -1107,9 +1107,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2756,
+        "confirmed": 2778,
         "deaths": 64,
-        "recovered": 2318
+        "recovered": 2337
     },
     {
         "Name": "South Sudan",
