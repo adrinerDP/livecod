@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6838553,
-        "deaths": 201631,
-        "recovered": 4120574
+        "confirmed": 6841486,
+        "deaths": 201652,
+        "recovered": 4133068
     },
     {
         "Name": "인도",
@@ -128,20 +128,20 @@
         "recovered": 307207
     },
     {
+        "Name": "이라크",
+        "Name_ch": "伊拉克",
+        "Name_en": "Iraq",
+        "confirmed": 307385,
+        "deaths": 8332,
+        "recovered": 241100
+    },
+    {
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
         "confirmed": 303634,
         "deaths": 6399,
         "recovered": 291169
-    },
-    {
-        "Name": "이라크",
-        "Name_ch": "伊拉克",
-        "Name_en": "Iraq",
-        "confirmed": 303059,
-        "deaths": 8248,
-        "recovered": 237241
     },
     {
         "Name": "터키",
@@ -155,9 +155,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 291442,
-        "deaths": 35645,
-        "recovered": 215265
+        "confirmed": 293025,
+        "deaths": 35658,
+        "recovered": 215954
     },
     {
         "Name": "필리핀",
@@ -664,20 +664,20 @@
         "recovered": 10923
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 14400,
+        "deaths": 325,
+        "recovered": 3804
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "confirmed": 14279,
         "deaths": 238,
         "recovered": 11933
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 14041,
-        "deaths": 316,
-        "recovered": 3804
     },
     {
         "Name": "Zambia",
@@ -1048,20 +1048,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 3336,
+        "deaths": 58,
+        "recovered": 814
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 3328,
         "deaths": 22,
         "recovered": 1676
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 3327,
-        "deaths": 58,
-        "recovered": 810
     },
     {
         "Name": "스리랑카",
