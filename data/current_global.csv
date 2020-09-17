@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6868153,202118,4144704
+미국,美国,United States,6868278,202119,4145009
 인도,印度,India,5212686,84404,4109828
-브라질,巴西,Brazil,4455386,134935,3720312
+브라질,巴西,Brazil,4455386,134935,3753082
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
-콜롬비아,哥伦比亚,Colombia,736377,23478,610078
+콜롬비아,哥伦比亚,Colombia,743945,23665,615457
 멕시코,墨西哥,Mexico,680931,71978,485024
 남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
 스페인,西班牙,Spain,625651,30405,0
@@ -39,20 +39,20 @@ Panama,,Panama,103466,2198,76787
 오만,阿曼,Oman,91753,818,84648
 네덜란드,荷兰,Netherlands,88073,6266,0
 스웨덴,瑞典语,Sweden,87885,5864,0
-Guatemala,,Guatemala,82924,3009,72562
+Guatemala,,Guatemala,83664,3036,73260
 아랍에미리트,阿拉伯联合酋长国,UAE,82568,402,72117
+일본,日本,Japan,77009,1473,69253
 폴란드,波兰,Poland,76571,2253,62725
-일본,日本,Japan,76448,1461,68532
 벨라루스,白俄罗斯,Belarus,74987,771,72967
 Honduras,,Honduras,69660,2102,19983
 Ethiopia,,Ethiopia,66913,1060,27085
 포르투갈,葡萄牙,Portugal,66396,1888,44794
 Venezuela,,Venezuela,63416,511,51274
-바레인,巴林,Bahrain,62484,216,55444
+바레인,巴林,Bahrain,63189,217,56087
 코스타리카,哥斯达黎加,Costa Rica,60818,666,22662
 네팔,尼泊尔,Nepal,59573,383,42949
 싱가포르,新加坡,Singapore,57532,27,57039
-나이지리아,尼日利亚,Nigeria,56604,1091,47872
+나이지리아,尼日利亚,Nigeria,56735,1093,48092
 Uzbekistan,,Uzbekistan,49627,413,45970
 알제리,阿尔及利亚,Algeria,49194,1654,34675
 스위스,瑞士,Switzerland,48795,2042,39900
@@ -97,8 +97,8 @@ Maldives,,Maldives,9494,33,8033
 Tajikistan,,Tajikistan,9214,73,7988
 핀란드,芬兰,Finland,8799,339,7700
 Gabon,,Gabon,8678,53,7827
+Tunisia,,Tunisia,8570,133,2342
 Haiti,,Haiti,8556,220,6315
-Tunisia,,Tunisia,8100,129,2309
 Zimbabwe,,Zimbabwe,7598,224,5823
 룩셈부르크,卢森堡,Luxembourg,7394,124,6593
 Mauritania,,Mauritania,7332,161,6844
@@ -127,10 +127,10 @@ Syria,,Syria,3691,165,903
 Lithuania,,Lithuania,3504,87,2149
 태국,泰国,Thailand,3490,58,3325
 Gambia,,Gambia,3440,107,1851
+Trinidad and Tobago,,Trinidad and Tobago,3434,60,1469
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
 Mayotte,,Mayotte,3374,40,2964
-Trinidad and Tobago,,Trinidad and Tobago,3336,58,814
 Aruba,,Aruba,3328,22,1676
 스리랑카,斯里兰卡,Sri Lanka,3274,13,3043
 Réunion,,Réunion,3099,15,1794
@@ -192,7 +192,7 @@ Seychelles,,Seychelles,141,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,112,1,108
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,66,1,37
-St. Vincent Grenadines,,St. Vincent Grenadines,64,0,62
+St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
 Caribbean Netherlands,,Caribbean Netherlands,32,1,17
