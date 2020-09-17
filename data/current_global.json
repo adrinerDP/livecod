@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6844652,
-        "deaths": 201751,
-        "recovered": 4133422
+        "confirmed": 6849277,
+        "deaths": 201820,
+        "recovered": 4135769
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5205760,
-        "deaths": 84340,
-        "recovered": 4098225
+        "confirmed": 5212623,
+        "deaths": 84400,
+        "recovered": 4107515
     },
     {
         "Name": "브라질",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 268069,
+        "confirmed": 268258,
         "deaths": 9452,
         "recovered": 239100
     },
@@ -1072,20 +1072,20 @@
         "recovered": 3043
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 3099,
+        "deaths": 15,
+        "recovered": 1794
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
         "confirmed": 3087,
         "deaths": 69,
         "recovered": 1533
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 3002,
-        "deaths": 15,
-        "recovered": 1313
     },
     {
         "Name": "Mali",
@@ -1464,6 +1464,14 @@
         "recovered": 175
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 210,
+        "deaths": 1,
+        "recovered": 74
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1472,12 +1480,12 @@
         "recovered": 204
     },
     {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 192,
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+        "confirmed": 186,
         "deaths": 1,
-        "recovered": 68
+        "recovered": 147
     },
     {
         "Name": "Barbados",
@@ -1486,14 +1494,6 @@
         "confirmed": 185,
         "deaths": 7,
         "recovered": 171
-    },
-    {
-        "Name": "모나코",
-        "Name_ch": "摩纳哥",
-        "Name_en": "Monaco",
-        "confirmed": 181,
-        "deaths": 1,
-        "recovered": 137
     },
     {
         "Name": "Bermuda",

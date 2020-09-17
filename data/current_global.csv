@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6844652,201751,4133422
-인도,印度,India,5205760,84340,4098225
+미국,美国,United States,6849277,201820,4135769
+인도,印度,India,5212623,84400,4107515
 브라질,巴西,Brazil,4430227,134363,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,293025,35658,215954
 필리핀,菲律宾,Philippines,276289,4785,208096
-독일,德国,Germany,268069,9452,239100
+독일,德国,Germany,268258,9452,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,172322,1163,125671
 Ukraine,,Ukraine,166244,3400,73913
@@ -133,8 +133,8 @@ Mayotte,,Mayotte,3374,40,2964
 Trinidad and Tobago,,Trinidad and Tobago,3336,58,814
 Aruba,,Aruba,3328,22,1676
 스리랑카,斯里兰卡,Sri Lanka,3274,13,3043
+Réunion,,Réunion,3099,15,1794
 Bahamas,,Bahamas,3087,69,1533
-Réunion,,Réunion,3002,15,1313
 Mali,,Mali,2966,128,2311
 조지아,格鲁吉亚,Georgia,2937,19,1422
 에스토니아,爱沙尼亚,Estonia,2778,64,2337
@@ -182,10 +182,10 @@ Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,311,0,301
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,246,0,175
+Curaçao,,Curaçao,210,1,74
 Cayman Islands,,Cayman Islands,208,1,204
-Curaçao,,Curaçao,192,1,68
+모나코,摩纳哥,Monaco,186,1,147
 Barbados,,Barbados,185,7,171
-모나코,摩纳哥,Monaco,181,1,137
 Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,141
 Seychelles,,Seychelles,141,0,136
