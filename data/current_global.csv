@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6844149,201699,4133363
+미국,美国,United States,6844174,201736,4133422
 인도,印度,India,5205760,84340,4098225
 브라질,巴西,Brazil,4430227,134363,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -7,11 +7,11 @@
 콜롬비아,哥伦比亚,Colombia,736377,23478,610078
 멕시코,墨西哥,Mexico,680931,71978,485024
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
-스페인,西班牙,Spain,614360,30243,0
+스페인,西班牙,Spain,625651,30405,0
 Argentina,,Argentina,589012,12229,456347
 칠레,智利,Chile,441150,12142,413928
+프랑스,法国,France,415481,31095,90335
 이란,伊朗,Iran,413149,23808,353848
-프랑스,法国,France,404888,31045,90335
 영국,英国,UK,381614,41705,0
 Bangladesh,,Bangladesh,344264,4859,250412
 사우디아라비아,沙特阿拉伯,Saudi Arabia,328144,4399,307207
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,63416,511,51274
 싱가포르,新加坡,Singapore,57532,27,57039
 나이지리아,尼日利亚,Nigeria,56604,1091,47872
 Uzbekistan,,Uzbekistan,49627,413,45970
-알제리,阿尔及利亚,Algeria,48966,1645,34517
+알제리,阿尔及利亚,Algeria,49194,1654,34675
 스위스,瑞士,Switzerland,48795,2042,39900
 아르메니아,亚美尼亚,Armenia,46671,925,42231
 Ghana,,Ghana,45714,294,44896
@@ -67,7 +67,7 @@ Kenya,,Kenya,36576,642,23611
 오스트리아,奥地利,Austria,35853,758,28044
 팔레스타인,巴勒斯坦,Palestine,33843,244,23060
 세르비아,塞尔维亚,Serbia,32695,738,31512
-아일랜드,冰岛,Ireland,31799,1788,23364
+아일랜드,冰岛,Ireland,32023,1789,23364
 Paraguay,,Paraguay,30419,566,15740
 El Salvador,,El Salvador,27249,801,20392
 호주,澳大利亚,Australia,26813,832,23792
@@ -103,8 +103,8 @@ Zimbabwe,,Zimbabwe,7598,224,5823
 룩셈부르크,卢森堡,Luxembourg,7394,124,6593
 Mauritania,,Mauritania,7332,161,6844
 Montenegro,,Montenegro,7291,126,4764
+Mozambique,,Mozambique,6161,39,3393
 슬로바키아,斯洛伐克,Slovakia,6021,39,3288
-Mozambique,,Mozambique,5994,39,3267
 Malawi,,Malawi,5704,178,3764
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5380,60,2489
@@ -118,10 +118,10 @@ Cuba,,Cuba,4876,109,4131
 CAR,,CAR,4782,62,1830
 Suriname,,Suriname,4645,95,4089
 Rwanda,,Rwanda,4634,22,2789
-Jamaica,,Jamaica,4164,46,1180
+Jamaica,,Jamaica,4374,51,1225
 요르단,约旦,Jordan,4131,26,2415
 슬로베니아,斯洛文尼亚,Slovenia,4058,136,2897
-Myanmar,,Myanmar,4043,46,944
+Myanmar,,Myanmar,4043,60,944
 Angola,,Angola,3675,143,1401
 Syria,,Syria,3654,163,889
 Lithuania,,Lithuania,3504,87,2149
