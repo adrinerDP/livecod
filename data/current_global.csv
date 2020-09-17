@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 이라크,伊拉克,Iraq,303059,8248,237241
 터키,土耳其,Turkey,296391,7249,262602
 이탈리아,义大利,Italy,291442,35645,215265
-필리핀,菲律宾,Philippines,272934,4732,207858
+필리핀,菲律宾,Philippines,276289,4785,208096
 독일,德国,Germany,266865,9449,239100
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,171768,1165,125619
@@ -42,7 +42,7 @@ Panama,,Panama,103466,2198,76787
 Guatemala,,Guatemala,82924,3009,72562
 아랍에미리트,阿拉伯联合酋长国,UAE,81782,402,71456
 일본,日本,Japan,76448,1461,68532
-폴란드,波兰,Poland,75734,2237,62110
+폴란드,波兰,Poland,75734,2237,62725
 벨라루스,白俄罗斯,Belarus,74763,767,72810
 Honduras,,Honduras,69660,2102,19983
 Ethiopia,,Ethiopia,66224,1045,26665
@@ -51,7 +51,7 @@ Venezuela,,Venezuela,63416,511,51274
 바레인,巴林,Bahrain,62484,216,55444
 코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
 네팔,尼泊尔,Nepal,58327,379,41706
-싱가포르,新加坡,Singapore,57514,27,56955
+싱가포르,新加坡,Singapore,57532,27,56955
 나이지리아,尼日利亚,Nigeria,56604,1091,47872
 Uzbekistan,,Uzbekistan,49385,411,45474
 알제리,阿尔及利亚,Algeria,48966,1645,34517
@@ -61,7 +61,7 @@ Ghana,,Ghana,45655,294,44797
 Kyrgyzstan,,Kyrgyzstan,45153,1063,41317
 Moldova,,Moldova,44361,1159,32732
 체코,捷克,Czechia,41032,482,22931
-아프가니스탄,阿富汗,Afghanistan,38855,1436,32503
+아프가니스탄,阿富汗,Afghanistan,38872,1436,32505
 아제르바이잔,阿塞拜疆,Azerbaijan,38658,569,36149
 Kenya,,Kenya,36393,637,23529
 오스트리아,奥地利,Austria,35073,758,27655
@@ -82,8 +82,8 @@ North Macedonia,,North Macedonia,16088,668,13550
 Madagascar,,Madagascar,15871,215,14482
 헝가리,匈牙利,Hungary,15170,663,4227
 세네갈,塞内加尔,Senegal,14568,299,10756
+크로아티아,克罗地亚,Croatia,14279,238,11933
 그리스,希腊,Greece,14041,316,3804
-크로아티아,克罗地亚,Croatia,14029,236,11690
 Zambia,,Zambia,13887,326,12869
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12498,265,10371
@@ -103,8 +103,8 @@ Zimbabwe,,Zimbabwe,7598,224,5823
 룩셈부르크,卢森堡,Luxembourg,7394,124,6593
 Mauritania,,Mauritania,7332,161,6844
 Montenegro,,Montenegro,7291,126,4764
+슬로바키아,斯洛伐克,Slovakia,6021,39,3288
 Mozambique,,Mozambique,5994,39,3267
-슬로바키아,斯洛伐克,Slovakia,5860,38,3220
 Malawi,,Malawi,5704,178,3764
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5266,60,2404
@@ -187,7 +187,7 @@ Curaçao,,Curaçao,192,1,68
 Barbados,,Barbados,185,7,171
 모나코,摩纳哥,Monaco,181,1,137
 Bermuda,,Bermuda,178,9,164
-Brunei,,Brunei,145,3,139
+Brunei,,Brunei,145,3,141
 Seychelles,,Seychelles,140,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91

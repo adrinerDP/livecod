@@ -163,9 +163,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 272934,
-        "deaths": 4732,
-        "recovered": 207858
+        "confirmed": 276289,
+        "deaths": 4785,
+        "recovered": 208096
     },
     {
         "Name": "독일",
@@ -349,7 +349,7 @@
         "Name_en": "Poland",
         "confirmed": 75734,
         "deaths": 2237,
-        "recovered": 62110
+        "recovered": 62725
     },
     {
         "Name": "벨라루스",
@@ -419,7 +419,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57514,
+        "confirmed": 57532,
         "deaths": 27,
         "recovered": 56955
     },
@@ -499,9 +499,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 38855,
+        "confirmed": 38872,
         "deaths": 1436,
-        "recovered": 32503
+        "recovered": 32505
     },
     {
         "Name": "아제르바이잔",
@@ -664,20 +664,20 @@
         "recovered": 10756
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 14279,
+        "deaths": 238,
+        "recovered": 11933
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
         "confirmed": 14041,
         "deaths": 316,
         "recovered": 3804
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 14029,
-        "deaths": 236,
-        "recovered": 11690
     },
     {
         "Name": "Zambia",
@@ -832,20 +832,20 @@
         "recovered": 4764
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 6021,
+        "deaths": 39,
+        "recovered": 3288
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
         "confirmed": 5994,
         "deaths": 39,
         "recovered": 3267
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 5860,
-        "deaths": 38,
-        "recovered": 3220
     },
     {
         "Name": "Malawi",
@@ -1509,7 +1509,7 @@
         "Name_en": "Brunei",
         "confirmed": 145,
         "deaths": 3,
-        "recovered": 139
+        "recovered": 141
     },
     {
         "Name": "Seychelles",
