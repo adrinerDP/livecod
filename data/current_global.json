@@ -232,20 +232,20 @@
         "recovered": 97063
     },
     {
+        "Name": "Kazakhstan",
+        "Name_ch": "",
+        "Name_en": "Kazakhstan",
+        "confirmed": 107056,
+        "deaths": 1671,
+        "recovered": 101455
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "confirmed": 107011,
         "deaths": 4285,
         "recovered": 43244
-    },
-    {
-        "Name": "Kazakhstan",
-        "Name_ch": "",
-        "Name_en": "Kazakhstan",
-        "confirmed": 106984,
-        "deaths": 1671,
-        "recovered": 101267
     },
     {
         "Name": "도미니카 공화국",
