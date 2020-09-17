@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6828301,201348,4119158
+미국,美国,United States,6828698,201366,4119782
 인도,印度,India,5122846,83257,4025079
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,344264,4859,250412
 필리핀,菲律宾,Philippines,276289,4785,208096
 독일,德国,Germany,266865,9449,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
-이스라엘,以色列,Israel,171768,1165,125619
+이스라엘,以色列,Israel,172322,1163,125671
 Ukraine,,Ukraine,166244,3400,73913
 캐나다,加拿大,Canada,139747,9193,122449
 Bolivia,,Bolivia,128872,7478,87031
@@ -36,7 +36,7 @@ Panama,,Panama,103466,2198,76787
 쿠웨이트,科威特,Kuwait,96999,571,87187
 벨기에,比利时,Belgium,95948,9935,18810
 모로코,摩洛哥,Morocco,92016,1686,72968
-오만,阿曼,Oman,91196,805,84363
+오만,阿曼,Oman,91753,818,84648
 스웨덴,瑞典语,Sweden,87575,5860,0
 네덜란드,荷兰,Netherlands,86320,6260,0
 Guatemala,,Guatemala,82924,3009,72562
@@ -49,13 +49,13 @@ Ethiopia,,Ethiopia,66224,1045,26665
 포르투갈,葡萄牙,Portugal,65626,1878,44528
 Venezuela,,Venezuela,63416,511,51274
 바레인,巴林,Bahrain,62484,216,55444
+네팔,尼泊尔,Nepal,59573,383,42949
 코스타리카,哥斯达黎加,Costa Rica,59516,649,21752
-네팔,尼泊尔,Nepal,58327,379,41706
 싱가포르,新加坡,Singapore,57532,27,56955
 나이지리아,尼日利亚,Nigeria,56604,1091,47872
 Uzbekistan,,Uzbekistan,49385,411,45474
 알제리,阿尔及利亚,Algeria,48966,1645,34517
-스위스,瑞士,Switzerland,48265,2039,39900
+스위스,瑞士,Switzerland,48795,2041,39900
 아르메니아,亚美尼亚,Armenia,46671,925,42231
 Ghana,,Ghana,45655,294,44797
 Kyrgyzstan,,Kyrgyzstan,45153,1063,41317
@@ -65,7 +65,7 @@ Moldova,,Moldova,44361,1159,32732
 아제르바이잔,阿塞拜疆,Azerbaijan,38658,569,36149
 Kenya,,Kenya,36393,637,23529
 오스트리아,奥地利,Austria,35853,758,28044
-팔레스타인,巴勒斯坦,Palestine,33006,243,22209
+팔레스타인,巴勒斯坦,Palestine,33843,244,23060
 세르비아,塞尔维亚,Serbia,32613,736,31411
 아일랜드,冰岛,Ireland,31799,1788,23364
 Paraguay,,Paraguay,30419,566,15740
@@ -81,14 +81,14 @@ Bulgaria,,Bulgaria,18390,739,13241
 North Macedonia,,North Macedonia,16088,668,13550
 Madagascar,,Madagascar,15871,215,14482
 헝가리,匈牙利,Hungary,15170,663,4227
-세네갈,塞内加尔,Senegal,14568,299,10756
+세네갈,塞内加尔,Senegal,14618,300,10923
 크로아티아,克罗地亚,Croatia,14279,238,11933
 그리스,希腊,Greece,14041,316,3804
 Zambia,,Zambia,13887,326,12869
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12498,265,10371
 Albania,,Albania,11816,343,6733
-DRC,,DRC,10414,267,9827
+DRC,,DRC,10442,267,9840
 Guinea,,Guinea,10154,63,9612
 말레이시아,马来西亚,Malaysia,10052,128,9250
 Namibia,,Namibia,9964,108,7502
@@ -138,8 +138,8 @@ Réunion,,Réunion,3002,15,1313
 Mali,,Mali,2966,128,2311
 조지아,格鲁吉亚,Georgia,2937,19,1422
 에스토니아,爱沙尼亚,Estonia,2778,64,2337
+Malta,,Malta,2595,16,1978
 South Sudan,,South Sudan,2594,49,1290
-Malta,,Malta,2560,16,1953
 Botswana,,Botswana,2463,11,575
 Benin,,Benin,2280,40,1942
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
@@ -161,7 +161,7 @@ Niger,,Niger,1182,69,1104
 Martinique,,Martinique,1122,18,98
 French Polynesia,,French Polynesia,1099,2,672
 Chad,,Chad,1090,81,960
-베트남,越南,Vietnam,1063,35,936
+베트남,越南,Vietnam,1066,35,940
 Sao Tome and Principe,,Sao Tome and Principe,907,15,871
 산마리노,圣马力诺,San Marino,723,42,663
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
@@ -176,7 +176,7 @@ Comoros,,Comoros,467,7,446
 Faeroe Islands,,Faeroe Islands,428,0,412
 Mauritius,,Mauritius,365,10,338
 Eritrea,,Eritrea,364,0,305
-지브롤터,直布罗陀,Gibraltar,340,0,309
+지브롤터,直布罗陀,Gibraltar,343,0,313
 Isle of Man,,Isle of Man,339,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,311,0,301
