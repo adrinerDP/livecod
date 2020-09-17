@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6828116,201346,4119111
+미국,美国,United States,6828301,201348,4119158
 인도,印度,India,5115893,83230,4022049
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1079519,18917,890114
 페루,秘鲁,Peru,744400,31051,587717
 콜롬비아,哥伦比亚,Colombia,736377,23478,610078
-멕시코,墨西哥,Mexico,676487,71678,481068
+멕시코,墨西哥,Mexico,680931,71978,485024
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
 스페인,西班牙,Spain,614360,30243,0
 Argentina,,Argentina,589012,12116,448263
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 이스라엘,以色列,Israel,170465,1165,123219
 Ukraine,,Ukraine,162660,3340,72324
 캐나다,加拿大,Canada,139747,9193,122449
-Bolivia,,Bolivia,128286,7447,86216
+Bolivia,,Bolivia,128872,7478,87031
 카타르,卡塔尔,Qatar,122449,208,119400
 에콰도르,厄瓜多尔,Ecuador,121525,10996,97063
 루마니아,尼亚,Romania,107011,4285,43244
@@ -70,7 +70,7 @@ Kenya,,Kenya,36301,634,23364
 아일랜드,冰岛,Ireland,31799,1788,23364
 Paraguay,,Paraguay,30419,566,15740
 El Salvador,,El Salvador,27163,796,19960
-호주,澳大利亚,Australia,26779,824,23726
+호주,澳大利亚,Australia,26812,832,23726
 레바논,黎巴嫩,Lebanon,26083,259,9634
 Libya,,Libya,24936,394,13498
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24211,736,16990
@@ -148,7 +148,7 @@ Sierra Leone,,Sierra Leone,2133,72,1646
 Yemen,,Yemen,2019,583,1221
 Guyana,,Guyana,1958,58,1302
 Uruguay,,Uruguay,1856,45,1559
-New Zealand,,New Zealand,1802,25,1698
+New Zealand,,New Zealand,1809,25,1707
 Burkina Faso,,Burkina Faso,1748,56,1162
 토고,多哥,Togo,1608,40,1230
 Cyprus,,Cyprus,1548,22,1282
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85214,4634,80437
+중국,中国,China,85223,4634,80448

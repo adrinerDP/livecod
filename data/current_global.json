@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6828116,
-        "deaths": 201346,
-        "recovered": 4119111
+        "confirmed": 6828301,
+        "deaths": 201348,
+        "recovered": 4119158
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 676487,
-        "deaths": 71678,
-        "recovered": 481068
+        "confirmed": 680931,
+        "deaths": 71978,
+        "recovered": 485024
     },
     {
         "Name": "남아프리카 공화국",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 128286,
-        "deaths": 7447,
-        "recovered": 86216
+        "confirmed": 128872,
+        "deaths": 7478,
+        "recovered": 87031
     },
     {
         "Name": "카타르",
@@ -571,8 +571,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26779,
-        "deaths": 824,
+        "confirmed": 26812,
+        "deaths": 832,
         "recovered": 23726
     },
     {
@@ -1195,9 +1195,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1802,
+        "confirmed": 1809,
         "deaths": 25,
-        "recovered": 1698
+        "recovered": 1707
     },
     {
         "Name": "Burkina Faso",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85214,
+        "confirmed": 85223,
         "deaths": 4634,
-        "recovered": 80437
+        "recovered": 80448
     }
 ]
