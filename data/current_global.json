@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 170465,
+        "confirmed": 171768,
         "deaths": 1165,
-        "recovered": 123219
+        "recovered": 125619
     },
     {
         "Name": "Ukraine",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 49015,
-        "deaths": 407,
-        "recovered": 45422
+        "confirmed": 49162,
+        "deaths": 409,
+        "recovered": 45474
     },
     {
         "Name": "알제리",
@@ -515,9 +515,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 36301,
-        "deaths": 634,
-        "recovered": 23364
+        "confirmed": 36393,
+        "deaths": 637,
+        "recovered": 23529
     },
     {
         "Name": "오스트리아",
@@ -571,9 +571,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26812,
+        "confirmed": 26813,
         "deaths": 832,
-        "recovered": 23726
+        "recovered": 23792
     },
     {
         "Name": "레바논",
