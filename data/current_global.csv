@@ -1,9 +1,9 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6825967,201278,4103090
+미국,美国,United States,6827790,201321,4106142
 인도,印度,India,5115893,83230,4022049
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1079519,18917,890114
-페루,秘鲁,Peru,738020,30927,580753
+페루,秘鲁,Peru,744400,31051,587717
 콜롬비아,哥伦比亚,Colombia,736377,23478,610078
 멕시코,墨西哥,Mexico,676487,71678,481068
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,342671,4823,247969
 인도네시아,印度尼西亚,Indonesia,228993,9100,164101
 이스라엘,以色列,Israel,170465,1165,123219
 Ukraine,,Ukraine,162660,3340,72324
-캐나다,加拿大,Canada,139625,9193,122175
+캐나다,加拿大,Canada,139747,9193,122273
 Bolivia,,Bolivia,128286,7447,86216
 카타르,卡塔尔,Qatar,122449,208,119400
 에콰도르,厄瓜多尔,Ecuador,121525,10996,97063
@@ -68,7 +68,7 @@ Kenya,,Kenya,36301,634,23364
 팔레스타인,巴勒斯坦,Palestine,33006,243,22209
 세르비아,塞尔维亚,Serbia,32613,736,31411
 아일랜드,冰岛,Ireland,31799,1788,23364
-Paraguay,,Paraguay,29298,552,15261
+Paraguay,,Paraguay,30419,566,15740
 El Salvador,,El Salvador,27163,796,19960
 호주,澳大利亚,Australia,26779,824,23726
 레바논,黎巴嫩,Lebanon,26083,259,9634
@@ -106,9 +106,9 @@ Montenegro,,Montenegro,7291,126,4764
 Mozambique,,Mozambique,5994,39,3267
 슬로바키아,斯洛伐克,Slovakia,5860,38,3220
 Malawi,,Malawi,5704,178,3764
-Djibouti,,Djibouti,5396,61,5331
+Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5266,60,2404
-Eswatini,,Eswatini,5128,101,4401
+Eswatini,,Eswatini,5155,101,4418
 Equatorial Guinea,,Equatorial Guinea,5000,83,4496
 홍콩,香港,Hong Kong,4985,102,4663
 Cabo Verde,,Cabo Verde,4978,47,4430
@@ -133,7 +133,7 @@ Mayotte,,Mayotte,3374,40,2964
 Aruba,,Aruba,3328,22,1676
 Trinidad and Tobago,,Trinidad and Tobago,3327,58,810
 스리랑카,斯里兰卡,Sri Lanka,3271,13,3021
-Bahamas,,Bahamas,3032,69,1482
+Bahamas,,Bahamas,3087,69,1533
 Réunion,,Réunion,3002,15,1313
 Mali,,Mali,2966,128,2311
 조지아,格鲁吉亚,Georgia,2758,19,1412
@@ -141,8 +141,8 @@ Mali,,Mali,2966,128,2311
 South Sudan,,South Sudan,2594,49,1290
 Malta,,Malta,2560,16,1953
 Botswana,,Botswana,2463,11,575
+Benin,,Benin,2280,40,1942
 Guinea-Bissau,,Guinea-Bissau,2275,39,1127
-Benin,,Benin,2267,40,1942
 Iceland,,Iceland,2189,10,2104
 Sierra Leone,,Sierra Leone,2133,72,1646
 Yemen,,Yemen,2019,583,1221
