@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6829319,
-        "deaths": 201386,
-        "recovered": 4119784
+        "confirmed": 6829847,
+        "deaths": 201403,
+        "recovered": 4120133
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5122846,
-        "deaths": 83257,
-        "recovered": 4025079
+        "confirmed": 5128918,
+        "deaths": 83338,
+        "recovered": 4029525
     },
     {
         "Name": "브라질",
@@ -304,19 +304,19 @@
         "recovered": 84648
     },
     {
-        "Name": "스웨덴",
-        "Name_ch": "瑞典语",
-        "Name_en": "Sweden",
-        "confirmed": 87575,
-        "deaths": 5860,
-        "recovered": 0
-    },
-    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 86320,
-        "deaths": 6260,
+        "confirmed": 88073,
+        "deaths": 6266,
+        "recovered": 0
+    },
+    {
+        "Name": "스웨덴",
+        "Name_ch": "瑞典语",
+        "Name_en": "Sweden",
+        "confirmed": 87885,
+        "deaths": 5864,
         "recovered": 0
     },
     {
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 20571,
-        "deaths": 633,
-        "recovered": 16557
+        "confirmed": 21393,
+        "deaths": 635,
+        "recovered": 16918
     },
     {
         "Name": "카메룬",
@@ -1515,7 +1515,7 @@
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "confirmed": 140,
+        "confirmed": 141,
         "deaths": 0,
         "recovered": 136
     },

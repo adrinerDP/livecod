@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6829319,201386,4119784
-인도,印度,India,5122846,83257,4025079
+미국,美国,United States,6829847,201403,4120133
+인도,印度,India,5128918,83338,4029525
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
 페루,秘鲁,Peru,744400,31051,587717
@@ -37,8 +37,8 @@ Panama,,Panama,103466,2198,76787
 벨기에,比利时,Belgium,95948,9935,18810
 모로코,摩洛哥,Morocco,92016,1686,72968
 오만,阿曼,Oman,91753,818,84648
-스웨덴,瑞典语,Sweden,87575,5860,0
-네덜란드,荷兰,Netherlands,86320,6260,0
+네덜란드,荷兰,Netherlands,88073,6266,0
+스웨덴,瑞典语,Sweden,87885,5864,0
 Guatemala,,Guatemala,82924,3009,72562
 아랍에미리트,阿拉伯联合酋长国,UAE,82568,402,72117
 폴란드,波兰,Poland,76571,2253,62725
@@ -74,7 +74,7 @@ El Salvador,,El Salvador,27249,801,20392
 레바논,黎巴嫩,Lebanon,26083,259,9634
 Libya,,Libya,24936,394,13498
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24211,736,16990
-덴마크,丹麦,Denmark,20571,633,16557
+덴마크,丹麦,Denmark,21393,635,16918
 카메룬,喀麦隆,Cameroon,20303,415,18837
 Ivory Coast,,Ivory Coast,19132,120,18289
 Bulgaria,,Bulgaria,18390,739,13241
@@ -188,7 +188,7 @@ Barbados,,Barbados,185,7,171
 모나코,摩纳哥,Monaco,181,1,137
 Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,141
-Seychelles,,Seychelles,140,0,136
+Seychelles,,Seychelles,141,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,111,1,105
 Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,66,1,37
