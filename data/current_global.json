@@ -387,9 +387,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 62655,
-        "deaths": 502,
-        "recovered": 50361
+        "confirmed": 63416,
+        "deaths": 511,
+        "recovered": 51274
     },
     {
         "Name": "바레인",
@@ -968,20 +968,20 @@
         "recovered": 2844
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 3894,
+        "deaths": 46,
+        "recovered": 908
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
         "confirmed": 3852,
         "deaths": 26,
         "recovered": 2349
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 3821,
-        "deaths": 40,
-        "recovered": 908
     },
     {
         "Name": "Angola",
