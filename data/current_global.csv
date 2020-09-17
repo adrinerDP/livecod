@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6829951,201403,4120133
+미국,美国,United States,6829998,201405,4120205
 인도,印度,India,5141905,83433,4039986
 브라질,巴西,Brazil,4421686,134174,3720312
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -8,19 +8,19 @@
 멕시코,墨西哥,Mexico,680931,71978,485024
 남아프리카 공화국,南非共和国,South Africa,653444,15705,584195
 스페인,西班牙,Spain,614360,30243,0
-Argentina,,Argentina,589012,12116,448263
+Argentina,,Argentina,589012,12229,456347
 칠레,智利,Chile,439287,12058,411853
 이란,伊朗,Iran,413149,23808,353848
 프랑스,法国,France,404888,31045,90335
 영국,英国,UK,378219,41684,0
 Bangladesh,,Bangladesh,344264,4859,250412
-사우디아라비아,沙特阿拉伯,Saudi Arabia,327551,4369,306004
+사우디아라비아,沙特阿拉伯,Saudi Arabia,328144,4399,307207
 파키스탄,巴基斯坦,Pakistan,303634,6399,291169
 이라크,伊拉克,Iraq,303059,8248,237241
 터키,土耳其,Turkey,296391,7249,262602
 이탈리아,义大利,Italy,291442,35645,215265
 필리핀,菲律宾,Philippines,276289,4785,208096
-독일,德国,Germany,267293,9451,239100
+독일,德国,Germany,267442,9451,239100
 인도네시아,印度尼西亚,Indonesia,232628,9222,166686
 이스라엘,以色列,Israel,172322,1163,125671
 Ukraine,,Ukraine,166244,3400,73913
@@ -57,13 +57,13 @@ Uzbekistan,,Uzbekistan,49627,413,45970
 알제리,阿尔及利亚,Algeria,48966,1645,34517
 스위스,瑞士,Switzerland,48795,2042,39900
 아르메니아,亚美尼亚,Armenia,46671,925,42231
-Ghana,,Ghana,45655,294,44797
+Ghana,,Ghana,45714,294,44896
 Kyrgyzstan,,Kyrgyzstan,45153,1063,41317
 Moldova,,Moldova,44361,1159,32732
 체코,捷克,Czechia,41032,482,22931
 아프가니스탄,阿富汗,Afghanistan,38872,1436,32505
 아제르바이잔,阿塞拜疆,Azerbaijan,38777,571,36289
-Kenya,,Kenya,36393,637,23529
+Kenya,,Kenya,36576,642,23611
 오스트리아,奥地利,Austria,35853,758,28044
 팔레스타인,巴勒斯坦,Palestine,33843,244,23060
 세르비아,塞尔维亚,Serbia,32695,738,31512
@@ -120,7 +120,7 @@ Suriname,,Suriname,4645,95,4089
 Rwanda,,Rwanda,4634,22,2789
 Jamaica,,Jamaica,4164,46,1180
 슬로베니아,斯洛文尼亚,Slovenia,4058,136,2897
-Myanmar,,Myanmar,3894,46,908
+Myanmar,,Myanmar,4043,46,944
 요르단,约旦,Jordan,3852,26,2349
 Angola,,Angola,3675,143,1401
 Syria,,Syria,3654,163,889
@@ -132,7 +132,7 @@ Somalia,,Somalia,3390,98,2812
 Mayotte,,Mayotte,3374,40,2964
 Aruba,,Aruba,3328,22,1676
 Trinidad and Tobago,,Trinidad and Tobago,3327,58,810
-스리랑카,斯里兰卡,Sri Lanka,3271,13,3021
+스리랑카,斯里兰卡,Sri Lanka,3274,13,3043
 Bahamas,,Bahamas,3087,69,1533
 Réunion,,Réunion,3002,15,1313
 Mali,,Mali,2966,128,2311
@@ -195,7 +195,7 @@ British Virgin Islands,,British Virgin Islands,66,1,37
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,62
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,24
-Caribbean Netherlands,,Caribbean Netherlands,28,1,17
+Caribbean Netherlands,,Caribbean Netherlands,32,1,17
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,26
 New Caledonia,,New Caledonia,26,0,26
