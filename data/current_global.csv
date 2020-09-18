@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6918358,203066,4182446
+미국,美国,United States,6918712,203073,4182772
 인도,印度,India,5305475,85625,4205201
 브라질,巴西,Brazil,4495183,135793,3789139
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -41,18 +41,18 @@ Panama,,Panama,104138,2213,77881
 스웨덴,瑞典语,Sweden,88237,5865,0
 Guatemala,,Guatemala,84344,3076,73748
 아랍에미리트,阿拉伯联合酋长国,UAE,83433,403,72790
+일본,日本,Japan,77494,1482,69899
 폴란드,波兰,Poland,77328,2270,63312
-일본,日本,Japan,77009,1473,69253
 벨라루스,白俄罗斯,Belarus,75230,773,73098
 Honduras,,Honduras,70120,2122,20677
 Ethiopia,,Ethiopia,67515,1072,27638
 포르투갈,葡萄牙,Portugal,67176,1894,45053
 Venezuela,,Venezuela,64284,520,52564
-바레인,巴林,Bahrain,63189,220,56087
+바레인,巴林,Bahrain,63879,220,56700
 코스타리카,哥斯达黎加,Costa Rica,62374,686,23160
 네팔,尼泊尔,Nepal,61593,390,43820
 싱가포르,新加坡,Singapore,57543,27,57071
-나이지리아,尼日利亚,Nigeria,56735,1093,48092
+나이지리아,尼日利亚,Nigeria,56956,1094,48305
 Uzbekistan,,Uzbekistan,50253,419,46527
 알제리,阿尔及利亚,Algeria,49413,1659,34818
 스위스,瑞士,Switzerland,49283,2045,40500
@@ -93,16 +93,16 @@ Guinea,,Guinea,10231,63,9660
 Namibia,,Namibia,10207,108,7947
 말레이시아,马来西亚,Malaysia,10147,129,9264
 French Guiana,,French Guiana,9659,65,9298
-Maldives,,Maldives,9494,33,8033
+Maldives,,Maldives,9568,33,8077
 Tajikistan,,Tajikistan,9259,73,8026
 핀란드,芬兰,Finland,8858,339,7700
-Gabon,,Gabon,8678,53,7827
+Gabon,,Gabon,8696,53,7848
 Haiti,,Haiti,8600,221,6363
 Tunisia,,Tunisia,8570,133,2342
 룩셈부르크,卢森堡,Luxembourg,7718,124,6703
 Zimbabwe,,Zimbabwe,7647,224,5883
 Montenegro,,Montenegro,7503,129,4892
-Mauritania,,Mauritania,7346,161,6865
+Mauritania,,Mauritania,7361,161,6882
 Mozambique,,Mozambique,6264,40,3502
 슬로바키아,斯洛伐克,Slovakia,6256,39,3390
 Malawi,,Malawi,5716,179,4026
@@ -115,7 +115,7 @@ Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 홍콩,香港,Hong Kong,4997,103,4696
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
-CAR,,CAR,4782,62,1830
+CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4671,95,4160
 Rwanda,,Rwanda,4671,25,2845
 Myanmar,,Myanmar,4467,70,1130
