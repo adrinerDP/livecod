@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6912344,202923,4180029
+미국,美国,United States,6915362,203025,4181275
 인도,印度,India,5305475,85625,4205201
 브라질,巴西,Brazil,4466828,135203,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -76,7 +76,7 @@ Libya,,Libya,26438,418,14207
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24897,752,17365
 덴마크,丹麦,Denmark,21847,635,17110
 카메룬,喀麦隆,Cameroon,20303,415,18837
-Ivory Coast,,Ivory Coast,19158,120,18330
+Ivory Coast,,Ivory Coast,19200,120,18392
 Bulgaria,,Bulgaria,18544,749,13391
 North Macedonia,,North Macedonia,16417,683,13732
 헝가리,匈牙利,Hungary,16111,669,4240
@@ -107,7 +107,7 @@ Mozambique,,Mozambique,6264,40,3502
 슬로바키아,斯洛伐克,Slovakia,6256,39,3390
 Malawi,,Malawi,5716,179,4026
 Uganda,,Uganda,5594,61,2544
-Djibouti,,Djibouti,5399,61,5333
+Djibouti,,Djibouti,5403,61,5333
 Eswatini,,Eswatini,5191,103,4439
 Cabo Verde,,Cabo Verde,5141,50,4548
 Cuba,,Cuba,5004,111,4249
@@ -149,7 +149,7 @@ Guyana,,Guyana,2027,60,1302
 Yemen,,Yemen,2024,585,1221
 Uruguay,,Uruguay,1876,46,1582
 New Zealand,,New Zealand,1809,25,1714
-Burkina Faso,,Burkina Faso,1767,56,1166
+Burkina Faso,,Burkina Faso,1797,56,1173
 토고,多哥,Togo,1618,41,1243
 Belize,,Belize,1567,19,742
 Cyprus,,Cyprus,1565,22,1282
@@ -158,8 +158,8 @@ Cyprus,,Cyprus,1565,22,1282
 Liberia,,Liberia,1334,82,1214
 Lesotho,,Lesotho,1327,33,687
 Niger,,Niger,1183,69,1104
+Chad,,Chad,1147,81,966
 Martinique,,Martinique,1122,18,98
-Chad,,Chad,1115,81,962
 French Polynesia,,French Polynesia,1099,2,672
 베트남,越南,Vietnam,1068,35,941
 Sao Tome and Principe,,Sao Tome and Principe,907,15,873

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6912344,
-        "deaths": 202923,
-        "recovered": 4180029
+        "confirmed": 6915362,
+        "deaths": 203025,
+        "recovered": 4181275
     },
     {
         "Name": "인도",
@@ -619,9 +619,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19158,
+        "confirmed": 19200,
         "deaths": 120,
-        "recovered": 18330
+        "recovered": 18392
     },
     {
         "Name": "Bulgaria",
@@ -867,7 +867,7 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5399,
+        "confirmed": 5403,
         "deaths": 61,
         "recovered": 5333
     },
@@ -1203,9 +1203,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1767,
+        "confirmed": 1797,
         "deaths": 56,
-        "recovered": 1166
+        "recovered": 1173
     },
     {
         "Name": "토고",
@@ -1272,20 +1272,20 @@
         "recovered": 1104
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "confirmed": 1147,
+        "deaths": 81,
+        "recovered": 966
+    },
+    {
         "Name": "Martinique",
         "Name_ch": "",
         "Name_en": "Martinique",
         "confirmed": 1122,
         "deaths": 18,
         "recovered": 98
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "confirmed": 1115,
-        "deaths": 81,
-        "recovered": 962
     },
     {
         "Name": "French Polynesia",
