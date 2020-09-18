@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6894549,202640,4170206
+미국,美国,United States,6897735,202691,4171374
 인도,印度,India,5305387,85621,4203017
 브라질,巴西,Brazil,4466828,135203,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -10,7 +10,7 @@
 남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
 Argentina,,Argentina,601713,12491,467286
 칠레,智利,Chile,442827,12199,415981
-프랑스,法国,France,428696,31095,90840
+프랑스,法国,France,428696,31249,91574
 이란,伊朗,Iran,416198,23952,355505
 영국,英国,UK,385936,41732,0
 Bangladesh,,Bangladesh,345805,4881,252335
@@ -35,7 +35,7 @@ Panama,,Panama,104138,2213,77881
 이집트,埃及,Egypt,101641,5715,87158
 쿠웨이트,科威特,Kuwait,98528,580,88776
 벨기에,比利时,Belgium,97976,9936,18854
-모로코,摩洛哥,Morocco,94504,1714,74930
+모로코,摩洛哥,Morocco,97264,1755,76690
 오만,阿曼,Oman,91753,818,84648
 네덜란드,荷兰,Netherlands,90047,6273,0
 스웨덴,瑞典语,Sweden,88237,5865,0
@@ -146,7 +146,7 @@ Guinea-Bissau,,Guinea-Bissau,2275,39,1127
 Iceland,,Iceland,2230,10,2112
 Sierra Leone,,Sierra Leone,2133,72,1646
 Guyana,,Guyana,2027,60,1302
-Yemen,,Yemen,2022,585,1221
+Yemen,,Yemen,2024,585,1221
 Uruguay,,Uruguay,1876,46,1582
 New Zealand,,New Zealand,1809,25,1714
 Burkina Faso,,Burkina Faso,1767,56,1166
