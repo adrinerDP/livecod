@@ -243,9 +243,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107056,
+        "confirmed": 107134,
         "deaths": 1671,
-        "recovered": 101455
+        "recovered": 101610
     },
     {
         "Name": "도미니카 공화국",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 69660,
-        "deaths": 2102,
-        "recovered": 19983
+        "confirmed": 70120,
+        "deaths": 2122,
+        "recovered": 20677
     },
     {
         "Name": "Ethiopia",
@@ -571,7 +571,7 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26864,
+        "confirmed": 26861,
         "deaths": 837,
         "recovered": 23793
     },
@@ -1216,20 +1216,20 @@
         "recovered": 1243
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1567,
+        "deaths": 19,
+        "recovered": 742
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1558,
         "deaths": 22,
         "recovered": 1282
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1536,
-        "deaths": 19,
-        "recovered": 696
     },
     {
         "Name": "라트비아",
@@ -1347,7 +1347,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 557,
+        "confirmed": 565,
         "deaths": 19,
         "recovered": 477
     },
