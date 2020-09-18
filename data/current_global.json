@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6889530,
-        "deaths": 202535,
-        "recovered": 4157714
+        "confirmed": 6891936,
+        "deaths": 202552,
+        "recovered": 4159095
     },
     {
         "Name": "인도",
@@ -251,9 +251,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 106136,
-        "deaths": 2022,
-        "recovered": 79363
+        "confirmed": 106732,
+        "deaths": 2034,
+        "recovered": 80179
     },
     {
         "Name": "Panama",
@@ -491,9 +491,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 44155,
-        "deaths": 489,
-        "recovered": 23377
+        "confirmed": 45228,
+        "deaths": 494,
+        "recovered": 23652
     },
     {
         "Name": "아제르바이잔",
