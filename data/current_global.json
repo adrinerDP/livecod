@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6869770,
-        "deaths": 202130,
-        "recovered": 4146209
+        "confirmed": 6872525,
+        "deaths": 202168,
+        "recovered": 4150147
     },
     {
         "Name": "인도",
@@ -875,9 +875,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5155,
-        "deaths": 101,
-        "recovered": 4418
+        "confirmed": 5191,
+        "deaths": 103,
+        "recovered": 4439
     },
     {
         "Name": "Cabo Verde",
@@ -936,20 +936,20 @@
         "recovered": 1830
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4671,
+        "deaths": 95,
+        "recovered": 4160
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4653,
         "deaths": 23,
         "recovered": 2817
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4645,
-        "deaths": 95,
-        "recovered": 4089
     },
     {
         "Name": "Jamaica",
@@ -1019,9 +1019,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3440,
+        "confirmed": 3473,
         "deaths": 107,
-        "recovered": 1851
+        "recovered": 1951
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1072,20 +1072,20 @@
         "recovered": 3043
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3177,
+        "deaths": 69,
+        "recovered": 1626
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 3099,
         "deaths": 15,
         "recovered": 1794
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3087,
-        "deaths": 69,
-        "recovered": 1533
     },
     {
         "Name": "Mali",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 907,
         "deaths": 15,
-        "recovered": 871
+        "recovered": 873
     },
     {
         "Name": "산마리노",
@@ -1565,7 +1565,7 @@
         "Name_en": "Fiji",
         "confirmed": 32,
         "deaths": 2,
-        "recovered": 24
+        "recovered": 26
     },
     {
         "Name": "Caribbean Netherlands",

@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6869770,202130,4146209
+미국,美国,United States,6872525,202168,4150147
 인도,印度,India,5212686,84404,4109828
 브라질,巴西,Brazil,4457443,135031,3753082
 러시아,俄罗斯,Russia,1085281,19061,895868
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,6161,39,3393
 Malawi,,Malawi,5711,179,4000
 Djibouti,,Djibouti,5399,61,5333
 Uganda,,Uganda,5380,60,2489
-Eswatini,,Eswatini,5155,101,4418
+Eswatini,,Eswatini,5191,103,4439
 Cabo Verde,,Cabo Verde,5063,49,4465
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 홍콩,香港,Hong Kong,4994,102,4682
@@ -116,8 +116,8 @@ Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
 Cuba,,Cuba,4933,109,4230
 CAR,,CAR,4782,62,1830
+Suriname,,Suriname,4671,95,4160
 Rwanda,,Rwanda,4653,23,2817
-Suriname,,Suriname,4645,95,4089
 Jamaica,,Jamaica,4374,51,1225
 요르단,约旦,Jordan,4131,26,2415
 슬로베니아,斯洛文尼亚,Slovenia,4058,136,2897
@@ -126,15 +126,15 @@ Angola,,Angola,3789,144,1405
 Syria,,Syria,3691,165,903
 Lithuania,,Lithuania,3504,87,2149
 태국,泰国,Thailand,3490,58,3325
-Gambia,,Gambia,3440,107,1851
+Gambia,,Gambia,3473,107,1951
 Trinidad and Tobago,,Trinidad and Tobago,3434,60,1469
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
 Aruba,,Aruba,3382,23,1742
 Mayotte,,Mayotte,3374,40,2964
 스리랑카,斯里兰卡,Sri Lanka,3274,13,3043
+Bahamas,,Bahamas,3177,69,1626
 Réunion,,Réunion,3099,15,1794
-Bahamas,,Bahamas,3087,69,1533
 Mali,,Mali,2966,128,2311
 조지아,格鲁吉亚,Georgia,2937,19,1422
 에스토니아,爱沙尼亚,Estonia,2778,64,2337
@@ -162,7 +162,7 @@ Martinique,,Martinique,1122,18,98
 Chad,,Chad,1115,81,962
 French Polynesia,,French Polynesia,1099,2,672
 베트남,越南,Vietnam,1066,35,940
-Sao Tome and Principe,,Sao Tome and Principe,907,15,871
+Sao Tome and Principe,,Sao Tome and Principe,907,15,873
 산마리노,圣马力诺,San Marino,723,42,663
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,659,5,561
@@ -194,7 +194,7 @@ Antigua and Barbuda,,Antigua and Barbuda,95,3,91
 British Virgin Islands,,British Virgin Islands,66,1,37
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
-Fiji,,Fiji,32,2,24
+Fiji,,Fiji,32,2,26
 Caribbean Netherlands,,Caribbean Netherlands,32,1,17
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,26
