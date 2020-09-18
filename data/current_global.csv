@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6880852,202306,4156472
+미국,美国,United States,6883863,202379,4156587
 인도,印度,India,5247627,84717,4143247
 브라질,巴西,Brazil,4457443,135031,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -12,7 +12,7 @@ Argentina,,Argentina,601713,12491,467286
 칠레,智利,Chile,442827,12199,415981
 이란,伊朗,Iran,416198,23952,355505
 프랑스,法国,France,415481,31095,90840
-영국,英国,UK,381614,41705,0
+영국,英国,UK,385936,41732,0
 Bangladesh,,Bangladesh,345805,4881,252335
 사우디아라비아,沙特阿拉伯,Saudi Arabia,328720,4430,308352
 이라크,伊拉克,Iraq,311690,8408,245305
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,345805,4881,252335
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,294932,35668,216807
 필리핀,菲律宾,Philippines,279526,4830,208790
-독일,德国,Germany,270123,9462,241300
+독일,德国,Germany,270149,9462,241300
 인도네시아,印度尼西亚,Indonesia,236519,9336,170774
 이스라엘,以色列,Israel,179071,1196,130024
 Ukraine,,Ukraine,169472,3468,75486
@@ -58,8 +58,8 @@ Uzbekistan,,Uzbekistan,50253,419,46527
 알제리,阿尔及利亚,Algeria,49194,1654,34675
 아르메니아,亚美尼亚,Armenia,46910,926,42369
 Ghana,,Ghana,45714,294,44896
+Moldova,,Moldova,45648,1186,33734
 Kyrgyzstan,,Kyrgyzstan,45244,1063,41415
-Moldova,,Moldova,44983,1170,33239
 체코,捷克,Czechia,44155,489,23377
 아제르바이잔,阿塞拜疆,Azerbaijan,38894,572,36424
 아프가니스탄,阿富汗,Afghanistan,38883,1437,32576
@@ -152,7 +152,7 @@ New Zealand,,New Zealand,1809,25,1714
 Burkina Faso,,Burkina Faso,1767,56,1166
 토고,多哥,Togo,1618,41,1243
 Belize,,Belize,1567,19,742
-Cyprus,,Cyprus,1558,22,1282
+Cyprus,,Cyprus,1565,22,1282
 라트비아,约旦,Latvia,1498,36,1248
 안도라,安道尔,Andorra,1483,53,1054
 Liberia,,Liberia,1333,82,1214

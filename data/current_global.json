@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6880852,
-        "deaths": 202306,
-        "recovered": 4156472
+        "confirmed": 6883863,
+        "deaths": 202379,
+        "recovered": 4156587
     },
     {
         "Name": "인도",
@@ -107,8 +107,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 381614,
-        "deaths": 41705,
+        "confirmed": 385936,
+        "deaths": 41732,
         "recovered": 0
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 270123,
+        "confirmed": 270149,
         "deaths": 9462,
         "recovered": 241300
     },
@@ -472,20 +472,20 @@
         "recovered": 44896
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "confirmed": 45648,
+        "deaths": 1186,
+        "recovered": 33734
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
         "confirmed": 45244,
         "deaths": 1063,
         "recovered": 41415
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "confirmed": 44983,
-        "deaths": 1170,
-        "recovered": 33239
     },
     {
         "Name": "체코",
@@ -1227,7 +1227,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1558,
+        "confirmed": 1565,
         "deaths": 22,
         "recovered": 1282
     },
