@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6877617,
-        "deaths": 202266,
-        "recovered": 4155933
+        "confirmed": 6879675,
+        "deaths": 202304,
+        "recovered": 4156240
     },
     {
         "Name": "인도",
@@ -83,9 +83,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 441150,
-        "deaths": 12142,
-        "recovered": 413928
+        "confirmed": 442827,
+        "deaths": 12199,
+        "recovered": 415981
     },
     {
         "Name": "이란",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 176933,
-        "deaths": 1169,
-        "recovered": 129394
+        "confirmed": 179071,
+        "deaths": 1196,
+        "recovered": 130024
     },
     {
         "Name": "Ukraine",
@@ -952,20 +952,20 @@
         "recovered": 2817
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 4467,
+        "deaths": 70,
+        "recovered": 1130
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "confirmed": 4374,
         "deaths": 51,
         "recovered": 1225
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 4299,
-        "deaths": 68,
-        "recovered": 944
     },
     {
         "Name": "슬로베니아",
