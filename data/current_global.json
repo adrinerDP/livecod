@@ -35,9 +35,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 744400,
-        "deaths": 31051,
-        "recovered": 587717
+        "confirmed": 750098,
+        "deaths": 31146,
+        "recovered": 594513
     },
     {
         "Name": "콜롬비아",
@@ -272,20 +272,20 @@
         "recovered": 87158
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 97976,
+        "deaths": 9936,
+        "recovered": 18854
+    },
+    {
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
         "confirmed": 97824,
         "deaths": 575,
         "recovered": 87911
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 95948,
-        "deaths": 9935,
-        "recovered": 18810
     },
     {
         "Name": "모로코",
@@ -960,6 +960,14 @@
         "recovered": 1225
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 4299,
+        "deaths": 61,
+        "recovered": 944
+    },
+    {
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
@@ -974,14 +982,6 @@
         "confirmed": 4058,
         "deaths": 136,
         "recovered": 2897
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 4043,
-        "deaths": 60,
-        "recovered": 944
     },
     {
         "Name": "Angola",
