@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6883863,202379,4156587
+미국,美国,United States,6889530,202535,4157714
 인도,印度,India,5247627,84717,4143247
 브라질,巴西,Brazil,4457443,135031,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,345805,4881,252335
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,294932,35668,216807
 필리핀,菲律宾,Philippines,279526,4830,208790
-독일,德国,Germany,270149,9462,241300
+독일,德国,Germany,270653,9463,241300
 인도네시아,印度尼西亚,Indonesia,236519,9336,170774
 이스라엘,以色列,Israel,179071,1196,130024
 Ukraine,,Ukraine,169472,3468,75486
@@ -51,7 +51,7 @@ Venezuela,,Venezuela,64284,520,52564
 바레인,巴林,Bahrain,63189,218,56087
 네팔,尼泊尔,Nepal,61593,390,43820
 코스타리카,哥斯达黎加,Costa Rica,60818,666,22662
-싱가포르,新加坡,Singapore,57543,27,57039
+싱가포르,新加坡,Singapore,57543,27,57071
 나이지리아,尼日利亚,Nigeria,56735,1093,48092
 Uzbekistan,,Uzbekistan,50253,419,46527
 스위스,瑞士,Switzerland,49283,2045,39900
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,15971,217,14587
 Zambia,,Zambia,13928,326,13029
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12644,266,10371
-Albania,,Albania,11948,347,6788
+Albania,,Albania,12073,353,6831
 DRC,,DRC,10442,267,9840
 Guinea,,Guinea,10183,63,9642
 말레이시아,马来西亚,Malaysia,10147,129,9264
@@ -126,9 +126,9 @@ Angola,,Angola,3789,144,1405
 Syria,,Syria,3691,165,903
 Lithuania,,Lithuania,3565,87,2181
 Mayotte,,Mayotte,3541,40,2964
+Trinidad and Tobago,,Trinidad and Tobago,3512,60,822
 태국,泰国,Thailand,3497,58,3328
 Gambia,,Gambia,3473,107,1951
-Trinidad and Tobago,,Trinidad and Tobago,3434,60,1469
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
 Aruba,,Aruba,3382,23,1742
@@ -155,7 +155,7 @@ Belize,,Belize,1567,19,742
 Cyprus,,Cyprus,1565,22,1282
 라트비아,约旦,Latvia,1498,36,1248
 안도라,安道尔,Andorra,1483,53,1054
-Liberia,,Liberia,1333,82,1214
+Liberia,,Liberia,1334,82,1214
 Lesotho,,Lesotho,1327,33,687
 Niger,,Niger,1183,69,1104
 Martinique,,Martinique,1122,18,98
