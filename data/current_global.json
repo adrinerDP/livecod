@@ -139,9 +139,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 303634,
-        "deaths": 6399,
-        "recovered": 291169
+        "confirmed": 304386,
+        "deaths": 6408,
+        "recovered": 291683
     },
     {
         "Name": "터키",
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 659,
+        "confirmed": 663,
         "deaths": 5,
-        "recovered": 561
+        "recovered": 565
     },
     {
         "Name": "Channel Islands",
@@ -1445,7 +1445,7 @@
         "Name_en": "Mongolia",
         "confirmed": 311,
         "deaths": 0,
-        "recovered": 301
+        "recovered": 302
     },
     {
         "Name": "캄보디아",
