@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6897735,
-        "deaths": 202691,
-        "recovered": 4171374
+        "confirmed": 6897886,
+        "deaths": 202693,
+        "recovered": 4171407
     },
     {
         "Name": "인도",
@@ -720,6 +720,14 @@
         "recovered": 9863
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 10207,
+        "deaths": 108,
+        "recovered": 7947
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -734,14 +742,6 @@
         "confirmed": 10147,
         "deaths": 129,
         "recovered": 9264
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 10078,
-        "deaths": 108,
-        "recovered": 7685
     },
     {
         "Name": "French Guiana",
@@ -883,9 +883,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 5063,
-        "deaths": 49,
-        "recovered": 4465
+        "confirmed": 5141,
+        "deaths": 50,
+        "recovered": 4548
     },
     {
         "Name": "Equatorial Guinea",
@@ -995,9 +995,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3691,
-        "deaths": 165,
-        "recovered": 903
+        "confirmed": 3731,
+        "deaths": 168,
+        "recovered": 918
     },
     {
         "Name": "Lithuania",
@@ -1072,6 +1072,14 @@
         "recovered": 3060
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 3194,
+        "deaths": 15,
+        "recovered": 1794
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1086,14 +1094,6 @@
         "confirmed": 3119,
         "deaths": 19,
         "recovered": 1435
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 3099,
-        "deaths": 15,
-        "recovered": 1794
     },
     {
         "Name": "Mali",
@@ -1467,9 +1467,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 210,
+        "confirmed": 228,
         "deaths": 1,
-        "recovered": 74
+        "recovered": 83
     },
     {
         "Name": "Cayman Islands",
