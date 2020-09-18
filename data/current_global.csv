@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6915362,203025,4181275
+미국,美国,United States,6916494,203026,4181839
 인도,印度,India,5305475,85625,4205201
-브라질,巴西,Brazil,4466828,135203,3753082
+브라질,巴西,Brazil,4495183,135793,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
 페루,秘鲁,Peru,750098,31146,594513
 콜롬비아,哥伦比亚,Colombia,743945,23665,615457
@@ -57,7 +57,7 @@ Uzbekistan,,Uzbekistan,50253,419,46527
 알제리,阿尔及利亚,Algeria,49413,1659,34818
 스위스,瑞士,Switzerland,49283,2045,39900
 아르메니아,亚美尼亚,Armenia,46910,926,42369
-Ghana,,Ghana,45714,294,44896
+Ghana,,Ghana,45760,295,44973
 Moldova,,Moldova,45648,1186,33734
 Kyrgyzstan,,Kyrgyzstan,45244,1063,41415
 체코,捷克,Czechia,45228,494,23652
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,27346,804,20825
 Libya,,Libya,26438,418,14207
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24897,752,17365
 덴마크,丹麦,Denmark,21847,635,17110
-카메룬,喀麦隆,Cameroon,20303,415,18837
+카메룬,喀麦隆,Cameroon,20371,416,19124
 Ivory Coast,,Ivory Coast,19200,120,18392
 Bulgaria,,Bulgaria,18544,749,13391
 North Macedonia,,North Macedonia,16417,683,13732
@@ -84,7 +84,7 @@ Madagascar,,Madagascar,15971,217,14587
 그리스,希腊,Greece,14738,327,3804
 세네갈,塞内加尔,Senegal,14645,301,11051
 크로아티아,克罗地亚,Croatia,14513,244,12169
-Zambia,,Zambia,13928,326,13029
+Zambia,,Zambia,14022,329,13207
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12708,267,10371
 Albania,,Albania,12073,353,6831
@@ -97,9 +97,9 @@ Maldives,,Maldives,9494,33,8033
 Tajikistan,,Tajikistan,9259,73,8026
 핀란드,芬兰,Finland,8858,339,7700
 Gabon,,Gabon,8678,53,7827
+Haiti,,Haiti,8600,221,6363
 Tunisia,,Tunisia,8570,133,2342
-Haiti,,Haiti,8556,220,6315
-Zimbabwe,,Zimbabwe,7633,224,5841
+Zimbabwe,,Zimbabwe,7647,224,5883
 룩셈부르크,卢森堡,Luxembourg,7541,124,6641
 Montenegro,,Montenegro,7503,129,4892
 Mauritania,,Mauritania,7346,161,6865
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,6264,40,3502
 Malawi,,Malawi,5716,179,4026
 Uganda,,Uganda,5594,61,2544
 Djibouti,,Djibouti,5403,61,5333
-Eswatini,,Eswatini,5191,103,4439
+Eswatini,,Eswatini,5215,103,4478
 Cabo Verde,,Cabo Verde,5141,50,4548
 Cuba,,Cuba,5004,111,4249
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
@@ -162,7 +162,7 @@ Chad,,Chad,1147,81,966
 Martinique,,Martinique,1122,18,98
 French Polynesia,,French Polynesia,1099,2,672
 베트남,越南,Vietnam,1068,35,941
-Sao Tome and Principe,,Sao Tome and Principe,907,15,873
+Sao Tome and Principe,,Sao Tome and Principe,908,15,873
 산마리노,圣马力诺,San Marino,723,42,663
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,663,5,565
@@ -185,7 +185,7 @@ Mongolia,,Mongolia,311,0,302
 Curaçao,,Curaçao,228,1,83
 Cayman Islands,,Cayman Islands,208,1,204
 모나코,摩纳哥,Monaco,191,1,152
-Barbados,,Barbados,185,7,171
+Barbados,,Barbados,185,7,172
 Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,141
 Seychelles,,Seychelles,141,0,136
