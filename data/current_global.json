@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6916494,
-        "deaths": 203026,
-        "recovered": 4181839
+        "confirmed": 6918240,
+        "deaths": 203064,
+        "recovered": 4182446
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 270653,
-        "deaths": 9463,
+        "confirmed": 271244,
+        "deaths": 9464,
         "recovered": 241300
     },
     {
@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 49283,
         "deaths": 2045,
-        "recovered": 39900
+        "recovered": 40500
     },
     {
         "Name": "아르메니아",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 18544,
-        "deaths": 749,
-        "recovered": 13391
+        "confirmed": 18733,
+        "deaths": 753,
+        "recovered": 13510
     },
     {
         "Name": "North Macedonia",
@@ -800,20 +800,20 @@
         "recovered": 2342
     },
     {
+        "Name": "룩셈부르크",
+        "Name_ch": "卢森堡",
+        "Name_en": "Luxembourg",
+        "confirmed": 7718,
+        "deaths": 124,
+        "recovered": 6703
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "confirmed": 7647,
         "deaths": 224,
         "recovered": 5883
-    },
-    {
-        "Name": "룩셈부르크",
-        "Name_ch": "卢森堡",
-        "Name_en": "Luxembourg",
-        "confirmed": 7541,
-        "deaths": 124,
-        "recovered": 6641
     },
     {
         "Name": "Montenegro",
@@ -1040,6 +1040,14 @@
         "recovered": 1951
     },
     {
+        "Name": "Aruba",
+        "Name_ch": "",
+        "Name_en": "Aruba",
+        "confirmed": 3460,
+        "deaths": 23,
+        "recovered": 2128
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
@@ -1054,14 +1062,6 @@
         "confirmed": 3390,
         "deaths": 98,
         "recovered": 2812
-    },
-    {
-        "Name": "Aruba",
-        "Name_ch": "",
-        "Name_en": "Aruba",
-        "confirmed": 3382,
-        "deaths": 23,
-        "recovered": 1742
     },
     {
         "Name": "스리랑카",
@@ -1211,9 +1211,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1618,
+        "confirmed": 1640,
         "deaths": 41,
-        "recovered": 1243
+        "recovered": 1251
     },
     {
         "Name": "Belize",
@@ -1541,7 +1541,7 @@
         "Name_en": "British Virgin Islands",
         "confirmed": 69,
         "deaths": 1,
-        "recovered": 40
+        "recovered": 48
     },
     {
         "Name": "St. Vincent Grenadines",
