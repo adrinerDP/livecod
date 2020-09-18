@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6876375,202237,4155933
-인도,印度,India,5219211,84434,4112551
+미국,美国,United States,6877617,202266,4155933
+인도,印度,India,5228478,84505,4125742
 브라질,巴西,Brazil,4457443,135031,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
 페루,秘鲁,Peru,750098,31146,594513
@@ -8,7 +8,7 @@
 멕시코,墨西哥,Mexico,684113,72179,488416
 남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
 스페인,西班牙,Spain,625651,30405,0
-Argentina,,Argentina,601713,12460,456347
+Argentina,,Argentina,601713,12491,467286
 칠레,智利,Chile,441150,12142,413928
 이란,伊朗,Iran,416198,23952,355505
 프랑스,法国,France,415481,31095,90840
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,345805,4881,252335
 터키,土耳其,Turkey,298039,7315,263745
 이탈리아,义大利,Italy,293025,35658,215954
 필리핀,菲律宾,Philippines,279526,4830,208790
-독일,德国,Germany,269898,9462,241300
+독일,德国,Germany,270123,9462,241300
 인도네시아,印度尼西亚,Indonesia,236519,9336,170774
 이스라엘,以色列,Israel,176933,1169,129394
 Ukraine,,Ukraine,169472,3468,75486
@@ -28,7 +28,7 @@ Ukraine,,Ukraine,169472,3468,75486
 Bolivia,,Bolivia,129419,7511,87716
 카타르,卡塔尔,Qatar,122917,209,119822
 에콰도르,厄瓜多尔,Ecuador,122257,11029,97063
-루마니아,尼亚,Romania,108690,4312,43244
+루마니아,尼亚,Romania,110217,4360,43244
 Kazakhstan,,Kazakhstan,107134,1671,101610
 도미니카 공화국,多明尼加共和国,Dominican Republic,106136,2022,79363
 Panama,,Panama,104138,2213,77881
@@ -45,15 +45,15 @@ Guatemala,,Guatemala,83664,3036,73260
 일본,日本,Japan,77009,1473,69253
 벨라루스,白俄罗斯,Belarus,75230,773,73098
 Honduras,,Honduras,70120,2122,20677
+포르투갈,葡萄牙,Portugal,67176,1894,45053
 Ethiopia,,Ethiopia,66913,1060,27085
-포르투갈,葡萄牙,Portugal,66396,1888,44794
 Venezuela,,Venezuela,64284,520,52564
 바레인,巴林,Bahrain,63189,218,56087
 네팔,尼泊尔,Nepal,61593,390,43820
 코스타리카,哥斯达黎加,Costa Rica,60818,666,22662
 싱가포르,新加坡,Singapore,57543,27,57039
 나이지리아,尼日利亚,Nigeria,56735,1093,48092
-Uzbekistan,,Uzbekistan,49761,415,46092
+Uzbekistan,,Uzbekistan,50253,419,46527
 스위스,瑞士,Switzerland,49283,2044,39900
 알제리,阿尔及利亚,Algeria,49194,1654,34675
 아르메니아,亚美尼亚,Armenia,46910,926,42369
@@ -63,10 +63,10 @@ Moldova,,Moldova,44983,1170,33239
 체코,捷克,Czechia,44155,489,23377
 아제르바이잔,阿塞拜疆,Azerbaijan,38894,572,36424
 아프가니스탄,阿富汗,Afghanistan,38883,1437,32576
+Kenya,,Kenya,36724,646,23709
 오스트리아,奥地利,Austria,36661,763,28451
-Kenya,,Kenya,36576,642,23611
 팔레스타인,巴勒斯坦,Palestine,34401,250,23333
-세르비아,塞尔维亚,Serbia,32695,738,31512
+세르비아,塞尔维亚,Serbia,32757,739,31411
 아일랜드,冰岛,Ireland,32023,1789,23364
 Paraguay,,Paraguay,31113,584,16313
 El Salvador,,El Salvador,27346,804,20825
@@ -78,7 +78,7 @@ Libya,,Libya,26438,418,14207
 카메룬,喀麦隆,Cameroon,20303,415,18837
 Ivory Coast,,Ivory Coast,19158,120,18330
 Bulgaria,,Bulgaria,18544,749,13391
-North Macedonia,,North Macedonia,16274,675,13635
+North Macedonia,,North Macedonia,16417,683,13732
 헝가리,匈牙利,Hungary,16111,669,4240
 Madagascar,,Madagascar,15971,217,14587
 세네갈,塞内加尔,Senegal,14645,301,11051
@@ -94,7 +94,7 @@ Guinea,,Guinea,10183,63,9642
 Namibia,,Namibia,10078,108,7685
 French Guiana,,French Guiana,9623,65,9267
 Maldives,,Maldives,9494,33,8033
-Tajikistan,,Tajikistan,9214,73,7988
+Tajikistan,,Tajikistan,9259,73,8026
 핀란드,芬兰,Finland,8858,339,7700
 Gabon,,Gabon,8678,53,7827
 Tunisia,,Tunisia,8570,133,2342
@@ -194,8 +194,8 @@ Antigua and Barbuda,,Antigua and Barbuda,95,3,92
 British Virgin Islands,,British Virgin Islands,69,1,40
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
+Caribbean Netherlands,,Caribbean Netherlands,36,1,17
 Fiji,,Fiji,32,2,26
-Caribbean Netherlands,,Caribbean Netherlands,32,1,17
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,26
 New Caledonia,,New Caledonia,26,0,26

@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6876375,
-        "deaths": 202237,
+        "confirmed": 6877617,
+        "deaths": 202266,
         "recovered": 4155933
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5219211,
-        "deaths": 84434,
-        "recovered": 4112551
+        "confirmed": 5228478,
+        "deaths": 84505,
+        "recovered": 4125742
     },
     {
         "Name": "브라질",
@@ -76,8 +76,8 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 601713,
-        "deaths": 12460,
-        "recovered": 456347
+        "deaths": 12491,
+        "recovered": 467286
     },
     {
         "Name": "칠레",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 269898,
+        "confirmed": 270123,
         "deaths": 9462,
         "recovered": 241300
     },
@@ -235,8 +235,8 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 108690,
-        "deaths": 4312,
+        "confirmed": 110217,
+        "deaths": 4360,
         "recovered": 43244
     },
     {
@@ -368,20 +368,20 @@
         "recovered": 20677
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 67176,
+        "deaths": 1894,
+        "recovered": 45053
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 66913,
         "deaths": 1060,
         "recovered": 27085
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 66396,
-        "deaths": 1888,
-        "recovered": 44794
     },
     {
         "Name": "Venezuela",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 49761,
-        "deaths": 415,
-        "recovered": 46092
+        "confirmed": 50253,
+        "deaths": 419,
+        "recovered": 46527
     },
     {
         "Name": "스위스",
@@ -512,20 +512,20 @@
         "recovered": 32576
     },
     {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "confirmed": 36724,
+        "deaths": 646,
+        "recovered": 23709
+    },
+    {
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
         "confirmed": 36661,
         "deaths": 763,
         "recovered": 28451
-    },
-    {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "confirmed": 36576,
-        "deaths": 642,
-        "recovered": 23611
     },
     {
         "Name": "팔레스타인",
@@ -539,9 +539,9 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32695,
-        "deaths": 738,
-        "recovered": 31512
+        "confirmed": 32757,
+        "deaths": 739,
+        "recovered": 31411
     },
     {
         "Name": "아일랜드",
@@ -635,9 +635,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 16274,
-        "deaths": 675,
-        "recovered": 13635
+        "confirmed": 16417,
+        "deaths": 683,
+        "recovered": 13732
     },
     {
         "Name": "헝가리",
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9214,
+        "confirmed": 9259,
         "deaths": 73,
-        "recovered": 7988
+        "recovered": 8026
     },
     {
         "Name": "핀란드",
@@ -1560,20 +1560,20 @@
         "recovered": 46
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 36,
+        "deaths": 1,
+        "recovered": 17
+    },
+    {
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
         "confirmed": 32,
         "deaths": 2,
         "recovered": 26
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 32,
-        "deaths": 1,
-        "recovered": 17
     },
     {
         "Name": "Saint Lucia",
