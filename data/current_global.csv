@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6897886,202693,4171407
+미국,美国,United States,6907424,202814,4173086
 인도,印度,India,5305387,85621,4203017
 브라질,巴西,Brazil,4466828,135203,3753082
 러시아,俄罗斯,Russia,1091186,19195,901207
@@ -7,7 +7,7 @@
 콜롬비아,哥伦比亚,Colombia,743945,23665,615457
 멕시코,墨西哥,Mexico,684113,72179,488416
 스페인,西班牙,Spain,659334,30495,0
-남아프리카 공화국,南非共和国,South Africa,655572,15772,585303
+남아프리카 공화국,南非共和国,South Africa,657627,15857,586844
 Argentina,,Argentina,601713,12491,467286
 칠레,智利,Chile,442827,12199,415981
 프랑스,法国,France,428696,31249,91574
@@ -110,11 +110,11 @@ Uganda,,Uganda,5594,61,2544
 Djibouti,,Djibouti,5399,61,5333
 Eswatini,,Eswatini,5191,103,4439
 Cabo Verde,,Cabo Verde,5141,50,4548
+Cuba,,Cuba,5004,111,4249
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 홍콩,香港,Hong Kong,4997,103,4696
 Nicaragua,,Nicaragua,4961,147,2913
 Congo,,Congo,4934,88,3887
-Cuba,,Cuba,4933,109,4230
 CAR,,CAR,4782,62,1830
 Suriname,,Suriname,4671,95,4160
 Rwanda,,Rwanda,4653,23,2817
@@ -122,7 +122,7 @@ Myanmar,,Myanmar,4467,70,1130
 Jamaica,,Jamaica,4374,51,1225
 요르단,约旦,Jordan,4344,29,2511
 슬로베니아,斯洛文尼亚,Slovenia,4195,140,2939
-Angola,,Angola,3789,144,1405
+Angola,,Angola,3848,147,1443
 Syria,,Syria,3731,168,918
 Lithuania,,Lithuania,3565,87,2181
 Mayotte,,Mayotte,3541,40,2964
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,311,0,302
 부탄,不丹,Bhutan,252,0,182
 Curaçao,,Curaçao,228,1,83
 Cayman Islands,,Cayman Islands,208,1,204
-모나코,摩纳哥,Monaco,186,1,147
+모나코,摩纳哥,Monaco,191,1,152
 Barbados,,Barbados,185,7,171
 Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,141

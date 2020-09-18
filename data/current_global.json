@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6897886,
-        "deaths": 202693,
-        "recovered": 4171407
+        "confirmed": 6907424,
+        "deaths": 202814,
+        "recovered": 4173086
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 655572,
-        "deaths": 15772,
-        "recovered": 585303
+        "confirmed": 657627,
+        "deaths": 15857,
+        "recovered": 586844
     },
     {
         "Name": "Argentina",
@@ -888,6 +888,14 @@
         "recovered": 4548
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 5004,
+        "deaths": 111,
+        "recovered": 4249
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -918,14 +926,6 @@
         "confirmed": 4934,
         "deaths": 88,
         "recovered": 3887
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 4933,
-        "deaths": 109,
-        "recovered": 4230
     },
     {
         "Name": "CAR",
@@ -987,9 +987,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 3789,
-        "deaths": 144,
-        "recovered": 1405
+        "confirmed": 3848,
+        "deaths": 147,
+        "recovered": 1443
     },
     {
         "Name": "Syria",
@@ -1483,9 +1483,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 186,
+        "confirmed": 191,
         "deaths": 1,
-        "recovered": 147
+        "recovered": 152
     },
     {
         "Name": "Barbados",
