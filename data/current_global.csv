@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6965485,203732,4216603
+미국,美国,United States,6966251,203819,4217858
 인도,印度,India,5398230,86774,4299724
-브라질,巴西,Brazil,4528240,136532,3820095
+브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,762865,31369,607837
 콜롬비아,哥伦比亚,Colombia,758398,24039,627685
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,65174,530,54218
 Uzbekistan,,Uzbekistan,50992,427,47271
 알제리,阿尔及利亚,Algeria,49623,1665,34923
 스위스,瑞士,Switzerland,49283,2045,40500
-체코,捷克,Czechia,47285,499,24018
+체코,捷克,Czechia,48306,499,24228
 아르메니아,亚美尼亚,Armenia,47154,928,42551
 Moldova,,Moldova,46336,1201,34236
 Ghana,,Ghana,45877,297,45081
@@ -99,8 +99,8 @@ Tunisia,,Tunisia,9110,138,2366
 핀란드,芬兰,Finland,8922,339,7700
 Gabon,,Gabon,8696,53,7848
 Haiti,,Haiti,8600,221,6363
+Montenegro,,Montenegro,7898,134,5129
 룩셈부르크,卢森堡,Luxembourg,7804,124,6703
-Montenegro,,Montenegro,7711,133,4997
 Zimbabwe,,Zimbabwe,7672,225,5914
 Mauritania,,Mauritania,7365,161,6927
 슬로바키아,斯洛伐克,Slovakia,6546,39,3519
@@ -147,7 +147,7 @@ Benin,,Benin,2280,40,1950
 Guyana,,Guyana,2168,64,1331
 Sierra Leone,,Sierra Leone,2159,72,1650
 Yemen,,Yemen,2026,585,1221
-Uruguay,,Uruguay,1890,46,1603
+Uruguay,,Uruguay,1904,46,1612
 Burkina Faso,,Burkina Faso,1816,56,1176
 New Zealand,,New Zealand,1811,25,1719
 토고,多哥,Togo,1659,41,1259

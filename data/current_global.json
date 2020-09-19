@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6965485,
-        "deaths": 203732,
-        "recovered": 4216603
+        "confirmed": 6966251,
+        "deaths": 203819,
+        "recovered": 4217858
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4528240,
-        "deaths": 136532,
+        "confirmed": 4528347,
+        "deaths": 136565,
         "recovered": 3820095
     },
     {
@@ -459,9 +459,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 47285,
+        "confirmed": 48306,
         "deaths": 499,
-        "recovered": 24018
+        "recovered": 24228
     },
     {
         "Name": "아르메니아",
@@ -800,20 +800,20 @@
         "recovered": 6363
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 7898,
+        "deaths": 134,
+        "recovered": 5129
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "confirmed": 7804,
         "deaths": 124,
         "recovered": 6703
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 7711,
-        "deaths": 133,
-        "recovered": 4997
     },
     {
         "Name": "Zimbabwe",
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1890,
+        "confirmed": 1904,
         "deaths": 46,
-        "recovered": 1603
+        "recovered": 1612
     },
     {
         "Name": "Burkina Faso",
