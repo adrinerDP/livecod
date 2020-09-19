@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6952723,
-        "deaths": 203503,
+        "confirmed": 6955007,
+        "deaths": 203565,
         "recovered": 4203484
     },
     {
@@ -747,9 +747,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9659,
+        "confirmed": 9692,
         "deaths": 65,
-        "recovered": 9298
+        "recovered": 9341
     },
     {
         "Name": "Maldives",
@@ -1216,20 +1216,20 @@
         "recovered": 1251
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "confirmed": 1590,
+        "deaths": 22,
+        "recovered": 1282
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
         "confirmed": 1590,
         "deaths": 20,
         "recovered": 812
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
-        "confirmed": 1580,
-        "deaths": 22,
-        "recovered": 1282
     },
     {
         "Name": "안도라",
