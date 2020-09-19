@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6932705,203282,4193222
+미국,美国,United States,6937030,203361,4193283
 인도,印度,India,5329983,85765,4225803
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1097251,19339,906462
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,347372,4913,254386
 이라크,伊拉克,Iraq,315597,8491,249539
 파키스탄,巴基斯坦,Pakistan,305031,6415,292044
 터키,土耳其,Turkey,299810,7377,264805
-이탈리아,义大利,Italy,294932,35668,216807
+이탈리아,义大利,Italy,296569,35692,217716
 필리핀,菲律宾,Philippines,283460,4930,209885
 독일,德国,Germany,271672,9466,243000
 인도네시아,印度尼西亚,Indonesia,240687,9448,174350
@@ -51,7 +51,7 @@ Venezuela,,Venezuela,65174,530,54218
 바레인,巴林,Bahrain,63879,221,56700
 네팔,尼泊尔,Nepal,62797,401,45267
 코스타리카,哥斯达黎加,Costa Rica,62374,686,23160
-싱가포르,新加坡,Singapore,57558,27,57071
+싱가포르,新加坡,Singapore,57558,27,57142
 나이지리아,尼日利亚,Nigeria,56956,1094,48305
 Uzbekistan,,Uzbekistan,50634,423,46645
 알제리,阿尔及利亚,Algeria,49413,1659,34818
@@ -79,14 +79,14 @@ Libya,,Libya,27234,436,14679
 Ivory Coast,,Ivory Coast,19200,120,18392
 Bulgaria,,Bulgaria,18733,753,13510
 헝가리,匈牙利,Hungary,16920,675,4382
-North Macedonia,,North Macedonia,16417,683,13732
+North Macedonia,,North Macedonia,16557,689,13792
 Madagascar,,Madagascar,16020,219,14630
 그리스,希腊,Greece,14738,327,9989
 크로아티아,克罗地亚,Croatia,14725,244,12353
 세네갈,塞内加尔,Senegal,14688,302,11153
 Zambia,,Zambia,14022,329,13207
 Sudan,,Sudan,13535,836,6759
-노르웨이,挪威,Norway,12769,267,10371
+노르웨이,挪威,Norway,12820,267,10371
 Albania,,Albania,12226,358,6888
 DRC,,DRC,10488,268,9891
 Namibia,,Namibia,10292,111,7969
@@ -120,7 +120,7 @@ CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4691,96,4280
 Rwanda,,Rwanda,4671,25,2845
 Jamaica,,Jamaica,4571,55,1264
-요르단,约旦,Jordan,4344,29,2511
+요르단,约旦,Jordan,4540,30,2672
 슬로베니아,斯洛文尼亚,Slovenia,4309,141,2981
 Angola,,Angola,3848,147,1443
 Trinidad and Tobago,,Trinidad and Tobago,3739,60,1586

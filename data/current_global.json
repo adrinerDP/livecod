@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6932705,
-        "deaths": 203282,
-        "recovered": 4193222
+        "confirmed": 6937030,
+        "deaths": 203361,
+        "recovered": 4193283
     },
     {
         "Name": "인도",
@@ -155,9 +155,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 294932,
-        "deaths": 35668,
-        "recovered": 216807
+        "confirmed": 296569,
+        "deaths": 35692,
+        "recovered": 217716
     },
     {
         "Name": "필리핀",
@@ -421,7 +421,7 @@
         "Name_en": "Singapore",
         "confirmed": 57558,
         "deaths": 27,
-        "recovered": 57071
+        "recovered": 57142
     },
     {
         "Name": "나이지리아",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 16417,
-        "deaths": 683,
-        "recovered": 13732
+        "confirmed": 16557,
+        "deaths": 689,
+        "recovered": 13792
     },
     {
         "Name": "Madagascar",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12769,
+        "confirmed": 12820,
         "deaths": 267,
         "recovered": 10371
     },
@@ -971,9 +971,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 4344,
-        "deaths": 29,
-        "recovered": 2511
+        "confirmed": 4540,
+        "deaths": 30,
+        "recovered": 2672
     },
     {
         "Name": "슬로베니아",
