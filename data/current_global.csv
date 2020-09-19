@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6925941,203171,4191894
-인도,印度,India,5308014,85625,4208431
+인도,印度,India,5312537,85650,4208431
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,756412,31283,600795
@@ -28,7 +28,7 @@ Ukraine,,Ukraine,172712,3516,76754
 Bolivia,,Bolivia,130051,7550,88457
 에콰도르,厄瓜多尔,Ecuador,124129,11044,97063
 카타르,卡塔尔,Qatar,122917,209,119822
-루마니아,尼亚,Romania,110217,4360,88235
+루마니아,尼亚,Romania,111550,4402,89119
 Kazakhstan,,Kazakhstan,107199,1671,101822
 도미니카 공화국,多明尼加共和国,Dominican Republic,106732,2034,80179
 Panama,,Panama,104879,2229,79093
@@ -53,12 +53,12 @@ Venezuela,,Venezuela,65174,530,54218
 네팔,尼泊尔,Nepal,61593,390,43820
 싱가포르,新加坡,Singapore,57558,27,57071
 나이지리아,尼日利亚,Nigeria,56956,1094,48305
-Uzbekistan,,Uzbekistan,50253,419,46527
+Uzbekistan,,Uzbekistan,50634,423,46645
 알제리,阿尔及利亚,Algeria,49413,1659,34818
 스위스,瑞士,Switzerland,49283,2045,40500
 아르메니아,亚美尼亚,Armenia,47154,928,42551
 체코,捷克,Czechia,46262,495,23858
-Ghana,,Ghana,45760,295,44973
+Ghana,,Ghana,45857,295,45029
 Moldova,,Moldova,45648,1186,33734
 Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 아프가니스탄,阿富汗,Afghanistan,38919,1437,32576
@@ -88,7 +88,7 @@ Zambia,,Zambia,14022,329,13207
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12769,267,10371
 Albania,,Albania,12073,353,6831
-DRC,,DRC,10456,268,9863
+DRC,,DRC,10488,268,9891
 Guinea,,Guinea,10231,63,9660
 Namibia,,Namibia,10207,108,7947
 말레이시아,马来西亚,Malaysia,10167,130,9315
@@ -103,8 +103,8 @@ Haiti,,Haiti,8600,221,6363
 Montenegro,,Montenegro,7711,133,4997
 Zimbabwe,,Zimbabwe,7647,224,5883
 Mauritania,,Mauritania,7361,161,6882
+슬로바키아,斯洛伐克,Slovakia,6546,39,3519
 Mozambique,,Mozambique,6264,40,3502
-슬로바키아,斯洛伐克,Slovakia,6256,39,3390
 Malawi,,Malawi,5716,179,4026
 Uganda,,Uganda,5594,61,2544
 Djibouti,,Djibouti,5403,61,5333
@@ -133,7 +133,7 @@ Aruba,,Aruba,3460,23,2128
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
 조지아,格鲁吉亚,Georgia,3306,19,1481
-스리랑카,斯里兰卡,Sri Lanka,3281,13,3060
+스리랑카,斯里兰卡,Sri Lanka,3281,13,3070
 Réunion,,Réunion,3194,15,1794
 Bahamas,,Bahamas,3177,69,1626
 Mali,,Mali,2991,128,2332
@@ -176,7 +176,7 @@ Comoros,,Comoros,470,7,449
 Faeroe Islands,,Faeroe Islands,430,0,412
 Mauritius,,Mauritius,366,10,338
 Eritrea,,Eritrea,364,0,305
-지브롤터,直布罗陀,Gibraltar,346,0,315
+지브롤터,直布罗陀,Gibraltar,350,0,322
 Isle of Man,,Isle of Man,339,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,311,0,302

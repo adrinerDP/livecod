@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5308014,
-        "deaths": 85625,
+        "confirmed": 5312537,
+        "deaths": 85650,
         "recovered": 4208431
     },
     {
@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 110217,
-        "deaths": 4360,
-        "recovered": 88235
+        "confirmed": 111550,
+        "deaths": 4402,
+        "recovered": 89119
     },
     {
         "Name": "Kazakhstan",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 50253,
-        "deaths": 419,
-        "recovered": 46527
+        "confirmed": 50634,
+        "deaths": 423,
+        "recovered": 46645
     },
     {
         "Name": "알제리",
@@ -475,9 +475,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 45760,
+        "confirmed": 45857,
         "deaths": 295,
-        "recovered": 44973
+        "recovered": 45029
     },
     {
         "Name": "Moldova",
@@ -715,9 +715,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10456,
+        "confirmed": 10488,
         "deaths": 268,
-        "recovered": 9863
+        "recovered": 9891
     },
     {
         "Name": "Guinea",
@@ -832,20 +832,20 @@
         "recovered": 6882
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 6546,
+        "deaths": 39,
+        "recovered": 3519
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
         "confirmed": 6264,
         "deaths": 40,
         "recovered": 3502
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 6256,
-        "deaths": 39,
-        "recovered": 3390
     },
     {
         "Name": "Malawi",
@@ -1077,7 +1077,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3281,
         "deaths": 13,
-        "recovered": 3060
+        "recovered": 3070
     },
     {
         "Name": "Réunion",
@@ -1419,9 +1419,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 346,
+        "confirmed": 350,
         "deaths": 0,
-        "recovered": 315
+        "recovered": 322
     },
     {
         "Name": "Isle of Man",

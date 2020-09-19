@@ -1,5 +1,13 @@
 ﻿[
     {
+        "title": "[속보] 현대차 울산공장 확진자 발생…2월 이후 두 번째",
+        "link": "https://www.hankyung.com/life/article/2020091975797"
+    },
+    {
+        "title": "코로나19 신규 확진 110명…국내 발생 나흘째 100명대",
+        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008219&ref=A"
+    },
+    {
         "title": "쿠팡 ‘남양주2배송캠프’ 폐쇄…코로나19 확진자 발생",
         "link": "https://cnbc.sbs.co.kr/article_hub/10000996886?division=NAVER"
     },
@@ -12,10 +20,6 @@
         "link": "http://www.fnnews.com/news/202009191331280311"
     },
     {
-        "title": "“코로나19 백신 횟수 2회 예상...안전성 검증 뒤 시작할 것”(종합)",
-        "link": "https://www.seoul.co.kr/news/newsView.php?id=20200919500057&wlog_tag3=naver"
-    },
-    {
         "title": "서울 신림동 사우나에 확진자 3명 다녀가",
         "link": "http://yna.kr/AKR20200919050600004?did=1195m"
     },
@@ -24,16 +28,12 @@
         "link": "https://www.nocutnews.co.kr/news/5415192"
     },
     {
-        "title": "[속보] 현대차 울산공장 확진자 발생…2월 이후 두 번째",
-        "link": "https://www.hankyung.com/life/article/2020091975797"
-    },
-    {
-        "title": "코로나19 신규 확진 110명…국내 발생 나흘째 100명대",
-        "link": "http://news.kbs.co.kr/news/view.do?ncd=5008219&ref=A"
-    },
-    {
         "title": "코로나19 신규 확진자 110명…36일째 100명대",
         "link": "http://www.hani.co.kr/arti/society/health/962805.html"
+    },
+    {
+        "title": "\"코로나19 백신 접종 2회 예상…선행 접종국 참고\"",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202009190088&t=NN"
     },
     {
         "title": "코로나19 신규확진자 110명… 지역발생 106명 4일째 세 자릿수",
