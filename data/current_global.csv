@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6939696,203421,4193356
+미국,美国,United States,6943461,203455,4194597
 인도,印度,India,5351723,86043,4249648
-브라질,巴西,Brazil,4497434,135857,3789139
+브라질,巴西,Brazil,4503002,136035,3789139
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,756412,31283,600795
 콜롬비아,哥伦比亚,Colombia,750471,23850,621521
@@ -17,7 +17,7 @@ Bangladesh,,Bangladesh,347372,4913,254386
 사우디아라비아,沙特阿拉伯,Saudi Arabia,329271,4458,309430
 이라크,伊拉克,Iraq,315597,8491,249539
 파키스탄,巴基斯坦,Pakistan,305031,6415,292044
-터키,土耳其,Turkey,299810,7377,264805
+터키,土耳其,Turkey,301348,7445,266117
 이탈리아,义大利,Italy,296569,35692,217716
 필리핀,菲律宾,Philippines,283460,4930,209885
 독일,德国,Germany,271672,9466,243000
@@ -54,11 +54,11 @@ Venezuela,,Venezuela,65174,530,54218
 싱가포르,新加坡,Singapore,57558,27,57142
 나이지리아,尼日利亚,Nigeria,56956,1094,48305
 Uzbekistan,,Uzbekistan,50634,423,46645
-알제리,阿尔及利亚,Algeria,49413,1659,34818
+알제리,阿尔及利亚,Algeria,49623,1665,34923
 스위스,瑞士,Switzerland,49283,2045,40500
+체코,捷克,Czechia,47285,499,24018
 아르메니아,亚美尼亚,Armenia,47154,928,42551
 Moldova,,Moldova,46336,1201,34236
-체코,捷克,Czechia,46262,495,23858
 Ghana,,Ghana,45877,297,45081
 Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 아제르바이잔,阿塞拜疆,Azerbaijan,39042,574,36601
@@ -69,7 +69,7 @@ Kenya,,Kenya,36829,646,23777
 세르비아,塞尔维亚,Serbia,32840,740,31411
 아일랜드,冰岛,Ireland,32271,1792,23364
 Paraguay,,Paraguay,32127,611,16921
-레바논,黎巴嫩,Lebanon,27518,281,10739
+레바논,黎巴嫩,Lebanon,28297,286,11440
 El Salvador,,El Salvador,27428,808,21247
 Libya,,Libya,27234,436,14679
 호주,澳大利亚,Australia,26885,844,23962
@@ -127,8 +127,8 @@ Trinidad and Tobago,,Trinidad and Tobago,3739,60,1586
 Syria,,Syria,3731,168,918
 Lithuania,,Lithuania,3664,87,2197
 Mayotte,,Mayotte,3541,40,2964
+Gambia,,Gambia,3504,108,1992
 태국,泰国,Thailand,3500,59,3338
-Gambia,,Gambia,3485,108,1973
 Aruba,,Aruba,3460,23,2128
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3390,98,2812
