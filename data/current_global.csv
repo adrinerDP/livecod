@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6928412,203188,4192774
-인도,印度,India,5322415,85710,4220511
+미국,美国,United States,6929395,203230,4192774
+인도,印度,India,5323907,85731,4221471
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,756412,31283,600795
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,347372,4913,254386
 터키,土耳其,Turkey,299810,7377,264805
 이탈리아,义大利,Italy,294932,35668,216807
 필리핀,菲律宾,Philippines,283460,4930,209885
-독일,德国,Germany,271480,9466,243000
+독일,德国,Germany,271672,9466,243000
 인도네시아,印度尼西亚,Indonesia,240687,9448,174350
 이스라엘,以色列,Israel,179071,1196,130024
 Ukraine,,Ukraine,172712,3516,76754
@@ -65,7 +65,7 @@ Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 아프가니스탄,阿富汗,Afghanistan,38919,1437,32576
 오스트리아,奥地利,Austria,37474,765,28961
 Kenya,,Kenya,36829,646,23777
-팔레스타인,巴勒斯坦,Palestine,34401,250,23333
+팔레스타인,巴勒斯坦,Palestine,35003,253,23446
 세르비아,塞尔维亚,Serbia,32840,740,31411
 아일랜드,冰岛,Ireland,32271,1792,23364
 Paraguay,,Paraguay,32127,611,16921
@@ -73,7 +73,7 @@ Paraguay,,Paraguay,32127,611,16921
 El Salvador,,El Salvador,27428,808,21247
 Libya,,Libya,27234,436,14679
 호주,澳大利亚,Australia,26885,844,23962
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,24897,752,17365
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25217,758,17489
 덴마크,丹麦,Denmark,22436,635,17316
 카메룬,喀麦隆,Cameroon,20371,416,19124
 Ivory Coast,,Ivory Coast,19200,120,18392
@@ -81,7 +81,7 @@ Bulgaria,,Bulgaria,18733,753,13510
 헝가리,匈牙利,Hungary,16920,675,4382
 North Macedonia,,North Macedonia,16417,683,13732
 Madagascar,,Madagascar,16020,219,14630
-그리스,希腊,Greece,14738,327,3804
+그리스,希腊,Greece,14738,327,9989
 크로아티아,克罗地亚,Croatia,14725,244,12353
 세네갈,塞内加尔,Senegal,14688,302,11153
 Zambia,,Zambia,14022,329,13207
@@ -89,8 +89,8 @@ Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12769,267,10371
 Albania,,Albania,12073,353,6831
 DRC,,DRC,10488,268,9891
+Namibia,,Namibia,10292,111,7969
 Guinea,,Guinea,10231,63,9660
-Namibia,,Namibia,10207,108,7947
 말레이시아,马来西亚,Malaysia,10167,130,9315
 French Guiana,,French Guiana,9659,65,9298
 Maldives,,Maldives,9568,33,8077
@@ -115,10 +115,10 @@ Cuba,,Cuba,5004,111,4249
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Congo,,Congo,4980,89,3887
 Nicaragua,,Nicaragua,4961,147,2913
+Myanmar,,Myanmar,4870,81,1188
 CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4691,96,4280
 Rwanda,,Rwanda,4671,25,2845
-Myanmar,,Myanmar,4621,81,1130
 Jamaica,,Jamaica,4571,55,1264
 요르단,约旦,Jordan,4344,29,2511
 슬로베니아,斯洛文尼亚,Slovenia,4309,141,2981
@@ -189,7 +189,7 @@ Barbados,,Barbados,185,7,172
 Bermuda,,Bermuda,178,9,164
 Brunei,,Brunei,145,3,142
 Seychelles,,Seychelles,141,0,136
-리히텐슈타인,列支敦士登,Liechtenstein,112,1,108
+리히텐슈타인,列支敦士登,Liechtenstein,113,1,109
 Antigua and Barbuda,,Antigua and Barbuda,95,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
