@@ -496,20 +496,20 @@
         "recovered": 41484
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "confirmed": 38919,
+        "deaths": 1437,
+        "recovered": 32576
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "confirmed": 38894,
         "deaths": 572,
         "recovered": 36424
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
-        "confirmed": 38883,
-        "deaths": 1437,
-        "recovered": 32576
     },
     {
         "Name": "Kenya",
