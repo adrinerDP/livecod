@@ -336,20 +336,20 @@
         "recovered": 72790
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 78330,
+        "deaths": 2282,
+        "recovered": 63861
+    },
+    {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
         "confirmed": 77494,
         "deaths": 1482,
         "recovered": 69899
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 77328,
-        "deaths": 2270,
-        "recovered": 63312
     },
     {
         "Name": "벨라루스",
@@ -768,6 +768,14 @@
         "recovered": 8026
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 9110,
+        "deaths": 138,
+        "recovered": 2366
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
@@ -790,14 +798,6 @@
         "confirmed": 8600,
         "deaths": 221,
         "recovered": 6363
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 8570,
-        "deaths": 133,
-        "recovered": 2342
     },
     {
         "Name": "룩셈부르크",
@@ -888,6 +888,14 @@
         "recovered": 4548
     },
     {
+        "Name": "홍콩",
+        "Name_ch": "香港",
+        "Name_en": "Hong Kong",
+        "confirmed": 5010,
+        "deaths": 103,
+        "recovered": 4707
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -902,14 +910,6 @@
         "confirmed": 5002,
         "deaths": 83,
         "recovered": 4509
-    },
-    {
-        "Name": "홍콩",
-        "Name_ch": "香港",
-        "Name_en": "Hong Kong",
-        "confirmed": 4997,
-        "deaths": 103,
-        "recovered": 4696
     },
     {
         "Name": "Congo",
@@ -1000,20 +1000,20 @@
         "recovered": 918
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 3664,
+        "deaths": 87,
+        "recovered": 2197
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 3651,
         "deaths": 60,
         "recovered": 1586
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 3565,
-        "deaths": 87,
-        "recovered": 2181
     },
     {
         "Name": "Mayotte",
