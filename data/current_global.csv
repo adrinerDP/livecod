@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6925610,203140,4191757
+미국,美国,United States,6925941,203171,4191894
 인도,印度,India,5305475,85625,4205201
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1091186,19195,901207
 페루,秘鲁,Peru,756412,31283,600795
 콜롬비아,哥伦比亚,Colombia,750471,23850,621521
-멕시코,墨西哥,Mexico,684113,72179,488416
+멕시코,墨西哥,Mexico,688954,72803,492192
 스페인,西班牙,Spain,659334,30495,0
 남아프리카 공화국,南非共和国,South Africa,657627,15857,586844
 Argentina,,Argentina,613658,12656,467286
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,345805,4881,252335
 터키,土耳其,Turkey,299810,7377,264805
 이탈리아,义大利,Italy,294932,35668,216807
 필리핀,菲律宾,Philippines,279526,4830,208790
-독일,德国,Germany,271244,9464,241300
+독일,德国,Germany,271244,9464,243000
 인도네시아,印度尼西亚,Indonesia,236519,9336,170774
 이스라엘,以色列,Israel,179071,1196,130024
 Ukraine,,Ukraine,169472,3468,75486
@@ -148,7 +148,7 @@ Sierra Leone,,Sierra Leone,2153,72,1649
 Guyana,,Guyana,2102,62,1314
 Yemen,,Yemen,2024,585,1221
 Uruguay,,Uruguay,1890,46,1603
-New Zealand,,New Zealand,1809,25,1714
+New Zealand,,New Zealand,1811,25,1714
 Burkina Faso,,Burkina Faso,1797,56,1173
 토고,多哥,Togo,1640,41,1251
 Belize,,Belize,1567,19,742
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85255,4634,80456
+중국,中国,China,85269,4634,80464
