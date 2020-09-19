@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5312537,
-        "deaths": 85650,
-        "recovered": 4208431
+        "confirmed": 5322415,
+        "deaths": 85710,
+        "recovered": 4220511
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 271244,
-        "deaths": 9464,
+        "confirmed": 271480,
+        "deaths": 9466,
         "recovered": 243000
     },
     {
@@ -368,20 +368,20 @@
         "recovered": 21149
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 68025,
+        "deaths": 1899,
+        "recovered": 45404
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 67515,
         "deaths": 1072,
         "recovered": 27638
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 67176,
-        "deaths": 1894,
-        "recovered": 45053
     },
     {
         "Name": "Venezuela",
@@ -396,7 +396,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 63879,
-        "deaths": 220,
+        "deaths": 221,
         "recovered": 56700
     },
     {
@@ -496,20 +496,20 @@
         "recovered": 41484
     },
     {
+        "Name": "아제르바이잔",
+        "Name_ch": "阿塞拜疆",
+        "Name_en": "Azerbaijan",
+        "confirmed": 39042,
+        "deaths": 574,
+        "recovered": 36601
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "confirmed": 38919,
         "deaths": 1437,
         "recovered": 32576
-    },
-    {
-        "Name": "아제르바이잔",
-        "Name_ch": "阿塞拜疆",
-        "Name_en": "Azerbaijan",
-        "confirmed": 38894,
-        "deaths": 572,
-        "recovered": 36424
     },
     {
         "Name": "오스트리아",
@@ -523,9 +523,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 36724,
+        "confirmed": 36829,
         "deaths": 646,
-        "recovered": 23709
+        "recovered": 23777
     },
     {
         "Name": "팔레스타인",
@@ -539,8 +539,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32757,
-        "deaths": 739,
+        "confirmed": 32840,
+        "deaths": 740,
         "recovered": 31411
     },
     {
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 21847,
+        "confirmed": 22436,
         "deaths": 635,
-        "recovered": 17110
+        "recovered": 17316
     },
     {
         "Name": "카메룬",
@@ -763,9 +763,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9259,
+        "confirmed": 9303,
         "deaths": 73,
-        "recovered": 8026
+        "recovered": 8066
     },
     {
         "Name": "Tunisia",
@@ -1075,7 +1075,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3281,
+        "confirmed": 3282,
         "deaths": 13,
         "recovered": 3070
     },
@@ -1264,6 +1264,14 @@
         "recovered": 1214
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1209,
+        "deaths": 2,
+        "recovered": 966
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
@@ -1286,14 +1294,6 @@
         "confirmed": 1122,
         "deaths": 18,
         "recovered": 98
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1111,
-        "deaths": 2,
-        "recovered": 873
     },
     {
         "Name": "베트남",
@@ -1395,7 +1395,7 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 430,
+        "confirmed": 431,
         "deaths": 0,
         "recovered": 412
     },
@@ -1509,7 +1509,7 @@
         "Name_en": "Brunei",
         "confirmed": 145,
         "deaths": 3,
-        "recovered": 141
+        "recovered": 142
     },
     {
         "Name": "Seychelles",
