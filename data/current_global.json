@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1091186,
-        "deaths": 19195,
-        "recovered": 901207
+        "confirmed": 1097251,
+        "deaths": 19339,
+        "recovered": 906462
     },
     {
         "Name": "페루",
@@ -419,7 +419,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57543,
+        "confirmed": 57558,
         "deaths": 27,
         "recovered": 57071
     },
@@ -1107,9 +1107,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2814,
+        "confirmed": 2875,
         "deaths": 64,
-        "recovered": 2357
+        "recovered": 2374
     },
     {
         "Name": "Malta",
