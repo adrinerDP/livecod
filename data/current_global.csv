@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6961358,203702,4214779
+미국,美国,United States,6965485,203732,4216603
 인도,印度,India,5398230,86774,4299724
 브라질,巴西,Brazil,4528240,136532,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,347372,4913,254386
 터키,土耳其,Turkey,301348,7445,266117
 이탈리아,义大利,Italy,296569,35692,217716
 필리핀,菲律宾,Philippines,283460,4930,209885
-독일,德国,Germany,272080,9466,243000
+독일,德国,Germany,272308,9466,243500
 인도네시아,印度尼西亚,Indonesia,240687,9448,174350
 이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,172712,3516,76754
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,130051,7550,88457
 루마니아,尼亚,Romania,111550,4402,89119
 도미니카 공화국,多明尼加共和国,Dominican Republic,107700,2044,80820
 Kazakhstan,,Kazakhstan,107199,1671,101822
-Panama,,Panama,104879,2229,79093
+Panama,,Panama,105601,2247,80190
 이집트,埃及,Egypt,101900,5750,88666
 모로코,摩洛哥,Morocco,99816,1795,79008
 벨기에,比利时,Belgium,99649,9937,18908
@@ -52,7 +52,7 @@ Venezuela,,Venezuela,65174,530,54218
 코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
 네팔,尼泊尔,Nepal,62797,401,45267
 싱가포르,新加坡,Singapore,57558,27,57142
-나이지리아,尼日利亚,Nigeria,56956,1094,48305
+나이지리아,尼日利亚,Nigeria,57145,1095,48431
 Uzbekistan,,Uzbekistan,50992,427,47271
 알제리,阿尔及利亚,Algeria,49623,1665,34923
 스위스,瑞士,Switzerland,49283,2045,40500
@@ -86,7 +86,7 @@ Madagascar,,Madagascar,16020,219,14630
 세네갈,塞内加尔,Senegal,14688,302,11153
 Zambia,,Zambia,14022,329,13207
 Sudan,,Sudan,13535,836,6759
-노르웨이,挪威,Norway,12820,267,10371
+노르웨이,挪威,Norway,12858,267,10371
 Albania,,Albania,12226,358,6888
 DRC,,DRC,10488,268,9891
 Namibia,,Namibia,10292,111,7969
@@ -99,7 +99,7 @@ Tunisia,,Tunisia,9110,138,2366
 핀란드,芬兰,Finland,8922,339,7700
 Gabon,,Gabon,8696,53,7848
 Haiti,,Haiti,8600,221,6363
-룩셈부르크,卢森堡,Luxembourg,7718,124,6703
+룩셈부르크,卢森堡,Luxembourg,7804,124,6703
 Montenegro,,Montenegro,7711,133,4997
 Zimbabwe,,Zimbabwe,7672,225,5914
 Mauritania,,Mauritania,7365,161,6927
