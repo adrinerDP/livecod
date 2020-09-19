@@ -227,9 +227,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 122917,
+        "confirmed": 123146,
         "deaths": 209,
-        "recovered": 119822
+        "recovered": 120089
     },
     {
         "Name": "루마니아",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 83433,
-        "deaths": 403,
-        "recovered": 72790
+        "confirmed": 84242,
+        "deaths": 404,
+        "recovered": 73512
     },
     {
         "Name": "폴란드",
@@ -651,9 +651,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 15971,
-        "deaths": 217,
-        "recovered": 14587
+        "confirmed": 16020,
+        "deaths": 219,
+        "recovered": 14630
     },
     {
         "Name": "그리스",
@@ -675,9 +675,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14645,
-        "deaths": 301,
-        "recovered": 11051
+        "confirmed": 14688,
+        "deaths": 302,
+        "recovered": 11153
     },
     {
         "Name": "Zambia",
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8858,
+        "confirmed": 8922,
         "deaths": 339,
         "recovered": 7700
     },
@@ -1115,9 +1115,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2634,
-        "deaths": 17,
-        "recovered": 1996
+        "confirmed": 2699,
+        "deaths": 19,
+        "recovered": 2017
     },
     {
         "Name": "South Sudan",
@@ -1136,6 +1136,14 @@
         "recovered": 624
     },
     {
+        "Name": "Iceland",
+        "Name_ch": "",
+        "Name_en": "Iceland",
+        "confirmed": 2307,
+        "deaths": 10,
+        "recovered": 2116
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
@@ -1150,14 +1158,6 @@
         "confirmed": 2280,
         "deaths": 40,
         "recovered": 1950
-    },
-    {
-        "Name": "Iceland",
-        "Name_ch": "",
-        "Name_en": "Iceland",
-        "confirmed": 2230,
-        "deaths": 10,
-        "recovered": 2112
     },
     {
         "Name": "Sierra Leone",
@@ -1301,7 +1301,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1068,
         "deaths": 35,
-        "recovered": 941
+        "recovered": 942
     },
     {
         "Name": "Sao Tome and Principe",
