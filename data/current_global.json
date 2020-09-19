@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6924058,
-        "deaths": 203133,
-        "recovered": 4187164
+        "confirmed": 6925610,
+        "deaths": 203140,
+        "recovered": 4191757
     },
     {
         "Name": "인도",
@@ -555,9 +555,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 31113,
-        "deaths": 584,
-        "recovered": 16313
+        "confirmed": 32127,
+        "deaths": 611,
+        "recovered": 16921
     },
     {
         "Name": "레바논",
@@ -1291,9 +1291,9 @@
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "confirmed": 1099,
+        "confirmed": 1111,
         "deaths": 2,
-        "recovered": 672
+        "recovered": 873
     },
     {
         "Name": "베트남",
@@ -1317,7 +1317,7 @@
         "Name_en": "San Marino",
         "confirmed": 723,
         "deaths": 42,
-        "recovered": 663
+        "recovered": 669
     },
     {
         "Name": "일본크루즈",
