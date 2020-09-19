@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6932274,203274,4192962
-인도,印度,India,5323907,85731,4221471
+미국,美国,United States,6932705,203282,4193222
+인도,印度,India,5329983,85765,4225803
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,756412,31283,600795
@@ -22,15 +22,15 @@ Bangladesh,,Bangladesh,347372,4913,254386
 필리핀,菲律宾,Philippines,283460,4930,209885
 독일,德国,Germany,271672,9466,243000
 인도네시아,印度尼西亚,Indonesia,240687,9448,174350
-이스라엘,以色列,Israel,179071,1196,130024
+이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,172712,3516,76754
 캐나다,加拿大,Canada,141911,9205,123723
 Bolivia,,Bolivia,130051,7550,88457
 에콰도르,厄瓜多尔,Ecuador,124129,11044,97063
 카타르,卡塔尔,Qatar,123146,209,120089
 루마니아,尼亚,Romania,111550,4402,89119
+도미니카 공화국,多明尼加共和国,Dominican Republic,107700,2044,80820
 Kazakhstan,,Kazakhstan,107199,1671,101822
-도미니카 공화국,多明尼加共和国,Dominican Republic,106732,2034,80179
 Panama,,Panama,104879,2229,79093
 이집트,埃及,Egypt,101772,5733,87958
 벨기에,比利时,Belgium,99649,9937,18908
@@ -43,7 +43,7 @@ Guatemala,,Guatemala,84344,3076,73748
 아랍에미리트,阿拉伯联合酋长国,UAE,84242,404,73512
 폴란드,波兰,Poland,78330,2282,63861
 일본,日本,Japan,77494,1482,69899
-벨라루스,白俄罗斯,Belarus,75230,773,73098
+벨라루스,白俄罗斯,Belarus,75461,776,73212
 Honduras,,Honduras,70611,2146,21149
 포르투갈,葡萄牙,Portugal,68025,1899,45404
 Ethiopia,,Ethiopia,67515,1072,27638
@@ -57,9 +57,9 @@ Uzbekistan,,Uzbekistan,50634,423,46645
 알제리,阿尔及利亚,Algeria,49413,1659,34818
 스위스,瑞士,Switzerland,49283,2045,40500
 아르메니아,亚美尼亚,Armenia,47154,928,42551
+Moldova,,Moldova,46336,1201,34236
 체코,捷克,Czechia,46262,495,23858
 Ghana,,Ghana,45857,295,45029
-Moldova,,Moldova,45648,1186,33734
 Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 아제르바이잔,阿塞拜疆,Azerbaijan,39042,574,36601
 아프가니스탄,阿富汗,Afghanistan,38919,1437,32576
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,16020,219,14630
 Zambia,,Zambia,14022,329,13207
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12769,267,10371
-Albania,,Albania,12073,353,6831
+Albania,,Albania,12226,358,6888
 DRC,,DRC,10488,268,9891
 Namibia,,Namibia,10292,111,7969
 Guinea,,Guinea,10231,63,9660
@@ -123,9 +123,9 @@ Jamaica,,Jamaica,4571,55,1264
 요르단,约旦,Jordan,4344,29,2511
 슬로베니아,斯洛文尼亚,Slovenia,4309,141,2981
 Angola,,Angola,3848,147,1443
+Trinidad and Tobago,,Trinidad and Tobago,3739,60,1586
 Syria,,Syria,3731,168,918
 Lithuania,,Lithuania,3664,87,2197
-Trinidad and Tobago,,Trinidad and Tobago,3651,60,1586
 Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3500,59,3338
 Gambia,,Gambia,3485,108,1973
