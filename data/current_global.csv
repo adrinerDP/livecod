@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6960651,203695,4214502
-인도,印度,India,5392645,86704,4295946
-브라질,巴西,Brazil,4503002,136035,3789139
+미국,美国,United States,6960766,203695,4214569
+인도,印度,India,5398230,86774,4299724
+브라질,巴西,Brazil,4528240,136532,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,756412,31283,600795
 콜롬비아,哥伦比亚,Colombia,750471,23850,621521
@@ -48,7 +48,7 @@ Honduras,,Honduras,70611,2146,21149
 Ethiopia,,Ethiopia,68131,1089,27939
 포르투갈,葡萄牙,Portugal,68025,1899,45404
 Venezuela,,Venezuela,65174,530,54218
-바레인,巴林,Bahrain,63879,221,56700
+바레인,巴林,Bahrain,64499,221,57299
 코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
 네팔,尼泊尔,Nepal,62797,401,45267
 싱가포르,新加坡,Singapore,57558,27,57142
@@ -109,7 +109,7 @@ Uganda,,Uganda,6017,63,2581
 Malawi,,Malawi,5718,179,4030
 Djibouti,,Djibouti,5403,61,5333
 Eswatini,,Eswatini,5215,103,4478
-Cabo Verde,,Cabo Verde,5141,50,4548
+Cabo Verde,,Cabo Verde,5186,50,4581
 Cuba,,Cuba,5055,113,4284
 홍콩,香港,Hong Kong,5010,103,4707
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
@@ -123,8 +123,8 @@ Rwanda,,Rwanda,4689,26,2910
 요르단,约旦,Jordan,4540,30,2672
 슬로베니아,斯洛文尼亚,Slovenia,4309,141,2981
 Angola,,Angola,3901,147,1445
+Syria,,Syria,3765,170,932
 Trinidad and Tobago,,Trinidad and Tobago,3739,60,1586
-Syria,,Syria,3731,168,918
 Lithuania,,Lithuania,3664,87,2197
 Mayotte,,Mayotte,3541,40,2964
 Gambia,,Gambia,3504,108,1992
@@ -144,12 +144,12 @@ Botswana,,Botswana,2567,13,624
 Iceland,,Iceland,2307,10,2116
 Guinea-Bissau,,Guinea-Bissau,2303,39,1127
 Benin,,Benin,2280,40,1950
+Guyana,,Guyana,2168,64,1331
 Sierra Leone,,Sierra Leone,2159,72,1650
-Guyana,,Guyana,2102,62,1314
 Yemen,,Yemen,2026,585,1221
 Uruguay,,Uruguay,1890,46,1603
+Burkina Faso,,Burkina Faso,1816,56,1176
 New Zealand,,New Zealand,1811,25,1719
-Burkina Faso,,Burkina Faso,1797,56,1173
 토고,多哥,Togo,1659,41,1259
 Cyprus,,Cyprus,1590,22,1282
 Belize,,Belize,1590,20,812

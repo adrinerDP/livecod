@@ -3,25 +3,25 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6960651,
+        "confirmed": 6960766,
         "deaths": 203695,
-        "recovered": 4214502
+        "recovered": 4214569
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5392645,
-        "deaths": 86704,
-        "recovered": 4295946
+        "confirmed": 5398230,
+        "deaths": 86774,
+        "recovered": 4299724
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4503002,
-        "deaths": 136035,
-        "recovered": 3789139
+        "confirmed": 4528240,
+        "deaths": 136532,
+        "recovered": 3820095
     },
     {
         "Name": "러시아",
@@ -395,9 +395,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 63879,
+        "confirmed": 64499,
         "deaths": 221,
-        "recovered": 56700
+        "recovered": 57299
     },
     {
         "Name": "코스타리카",
@@ -883,9 +883,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 5141,
+        "confirmed": 5186,
         "deaths": 50,
-        "recovered": 4548
+        "recovered": 4581
     },
     {
         "Name": "Cuba",
@@ -992,20 +992,20 @@
         "recovered": 1445
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 3765,
+        "deaths": 170,
+        "recovered": 932
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 3739,
         "deaths": 60,
         "recovered": 1586
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 3731,
-        "deaths": 168,
-        "recovered": 918
     },
     {
         "Name": "Lithuania",
@@ -1160,20 +1160,20 @@
         "recovered": 1950
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 2168,
+        "deaths": 64,
+        "recovered": 1331
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
         "confirmed": 2159,
         "deaths": 72,
         "recovered": 1650
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 2102,
-        "deaths": 62,
-        "recovered": 1314
     },
     {
         "Name": "Yemen",
@@ -1192,20 +1192,20 @@
         "recovered": 1603
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 1816,
+        "deaths": 56,
+        "recovered": 1176
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
         "confirmed": 1811,
         "deaths": 25,
         "recovered": 1719
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 1797,
-        "deaths": 56,
-        "recovered": 1173
     },
     {
         "Name": "토고",
