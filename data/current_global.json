@@ -163,9 +163,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 279526,
-        "deaths": 4830,
-        "recovered": 208790
+        "confirmed": 283460,
+        "deaths": 4930,
+        "recovered": 209885
     },
     {
         "Name": "독일",
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 236519,
-        "deaths": 9336,
-        "recovered": 170774
+        "confirmed": 240687,
+        "deaths": 9448,
+        "recovered": 174350
     },
     {
         "Name": "이스라엘",
@@ -512,20 +512,20 @@
         "recovered": 36424
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 37474,
+        "deaths": 765,
+        "recovered": 28961
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "confirmed": 36724,
         "deaths": 646,
         "recovered": 23709
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 36661,
-        "deaths": 763,
-        "recovered": 28451
     },
     {
         "Name": "팔레스타인",
@@ -571,9 +571,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 27346,
+        "confirmed": 27428,
         "deaths": 808,
-        "recovered": 20847
+        "recovered": 21247
     },
     {
         "Name": "호주",
@@ -664,20 +664,20 @@
         "recovered": 3804
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 14725,
+        "deaths": 244,
+        "recovered": 12353
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
         "confirmed": 14645,
         "deaths": 301,
         "recovered": 11051
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 14513,
-        "deaths": 244,
-        "recovered": 12169
     },
     {
         "Name": "Zambia",
