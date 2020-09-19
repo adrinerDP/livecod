@@ -272,20 +272,20 @@
         "recovered": 87958
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 99649,
+        "deaths": 9937,
+        "recovered": 18908
+    },
+    {
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
         "confirmed": 98528,
         "deaths": 580,
         "recovered": 88776
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 97976,
-        "deaths": 9936,
-        "recovered": 18854
     },
     {
         "Name": "모로코",
@@ -1219,9 +1219,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1567,
-        "deaths": 19,
-        "recovered": 742
+        "confirmed": 1590,
+        "deaths": 20,
+        "recovered": 812
     },
     {
         "Name": "Cyprus",
