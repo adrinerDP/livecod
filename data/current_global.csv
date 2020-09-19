@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6920430,203096,4185480
+미국,美国,United States,6924058,203133,4187164
 인도,印度,India,5305475,85625,4205201
 브라질,巴西,Brazil,4497434,135857,3789139
 러시아,俄罗斯,Russia,1091186,19195,901207
+페루,秘鲁,Peru,756412,31283,600795
 콜롬비아,哥伦比亚,Colombia,750471,23850,621521
-페루,秘鲁,Peru,750098,31146,594513
 멕시코,墨西哥,Mexico,684113,72179,488416
 스페인,西班牙,Spain,659334,30495,0
 남아프리카 공화국,南非共和国,South Africa,657627,15857,586844
-Argentina,,Argentina,601713,12491,467286
+Argentina,,Argentina,613658,12656,467286
 칠레,智利,Chile,442827,12199,415981
 프랑스,法国,France,428696,31249,91574
 이란,伊朗,Iran,416198,23952,355505
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,129419,7511,87716
 루마니아,尼亚,Romania,110217,4360,88235
 Kazakhstan,,Kazakhstan,107134,1671,101610
 도미니카 공화국,多明尼加共和国,Dominican Republic,106732,2034,80179
-Panama,,Panama,104138,2213,77881
+Panama,,Panama,104879,2229,79093
 이집트,埃及,Egypt,101772,5733,87958
 쿠웨이트,科威特,Kuwait,98528,580,88776
 벨기에,比利时,Belgium,97976,9936,18854
@@ -116,10 +116,10 @@ Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Congo,,Congo,4980,89,3887
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
-Suriname,,Suriname,4671,95,4160
+Suriname,,Suriname,4691,96,4280
 Rwanda,,Rwanda,4671,25,2845
+Jamaica,,Jamaica,4571,55,1264
 Myanmar,,Myanmar,4467,70,1130
-Jamaica,,Jamaica,4374,51,1225
 요르단,约旦,Jordan,4344,29,2511
 슬로베니아,斯洛文尼亚,Slovenia,4195,140,2939
 Angola,,Angola,3848,147,1443
@@ -155,8 +155,8 @@ Belize,,Belize,1567,19,742
 Cyprus,,Cyprus,1565,22,1282
 안도라,安道尔,Andorra,1564,53,1164
 라트비아,约旦,Latvia,1498,36,1248
+Lesotho,,Lesotho,1390,33,754
 Liberia,,Liberia,1334,82,1214
-Lesotho,,Lesotho,1327,33,687
 Niger,,Niger,1183,69,1104
 Chad,,Chad,1147,81,966
 Martinique,,Martinique,1122,18,98
