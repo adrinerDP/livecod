@@ -632,20 +632,20 @@
         "recovered": 13510
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 16920,
+        "deaths": 675,
+        "recovered": 4382
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
         "confirmed": 16417,
         "deaths": 683,
         "recovered": 13732
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 16111,
-        "deaths": 669,
-        "recovered": 4240
     },
     {
         "Name": "Madagascar",
@@ -1243,7 +1243,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1498,
+        "confirmed": 1515,
         "deaths": 36,
         "recovered": 1248
     },
