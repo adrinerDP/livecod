@@ -1024,20 +1024,20 @@
         "recovered": 2964
     },
     {
+        "Name": "태국",
+        "Name_ch": "泰国",
+        "Name_en": "Thailand",
+        "confirmed": 3506,
+        "deaths": 59,
+        "recovered": 3340
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
         "confirmed": 3504,
         "deaths": 108,
         "recovered": 1992
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "泰国",
-        "Name_en": "Thailand",
-        "confirmed": 3500,
-        "deaths": 59,
-        "recovered": 3338
     },
     {
         "Name": "Aruba",
@@ -1216,20 +1216,20 @@
         "recovered": 1259
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1606,
+        "deaths": 20,
+        "recovered": 876
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1590,
         "deaths": 22,
         "recovered": 1282
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1590,
-        "deaths": 20,
-        "recovered": 812
     },
     {
         "Name": "안도라",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 258,
+        "confirmed": 259,
         "deaths": 0,
-        "recovered": 186
+        "recovered": 190
     },
     {
         "Name": "Curaçao",
