@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6972163,203880,4223996
+미국,美国,United States,6972440,203881,4223996
 인도,印度,India,5417274,86909,4313402
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -18,13 +18,13 @@ Bangladesh,,Bangladesh,348918,4939,256565
 이라크,伊拉克,Iraq,319035,8555,253591
 파키스탄,巴基斯坦,Pakistan,305671,6416,292303
 터키,土耳其,Turkey,301348,7445,266117
-이탈리아,义大利,Italy,296569,35692,217716
+이탈리아,义大利,Italy,298156,35707,218351
 필리핀,菲律宾,Philippines,286743,4984,229865
 독일,德国,Germany,272670,9466,243500
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,175678,3557,77512
-캐나다,加拿大,Canada,142774,9211,124187
+캐나다,加拿大,Canada,143141,9212,124378
 Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,125620,11084,97063
 카타르,卡塔尔,Qatar,123376,210,120303
@@ -117,10 +117,10 @@ Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Congo,,Congo,4986,89,3887
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
+요르단,约旦,Jordan,4779,30,2844
 Jamaica,,Jamaica,4758,60,1327
 Suriname,,Suriname,4709,97,4383
 Rwanda,,Rwanda,4689,26,2910
-요르단,约旦,Jordan,4540,30,2672
 슬로베니아,斯洛文尼亚,Slovenia,4420,142,3023
 Angola,,Angola,3901,147,1445
 Trinidad and Tobago,,Trinidad and Tobago,3853,61,1695
@@ -133,7 +133,7 @@ Gambia,,Gambia,3526,108,1992
 Aruba,,Aruba,3460,23,2128
 Somalia,,Somalia,3442,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837
-스리랑카,斯里兰卡,Sri Lanka,3284,13,3088
+스리랑카,斯里兰卡,Sri Lanka,3287,13,3088
 Bahamas,,Bahamas,3214,73,1679
 Réunion,,Réunion,3194,15,2482
 Mali,,Mali,3006,128,2349
