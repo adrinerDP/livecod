@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6973529,
-        "deaths": 203892,
-        "recovered": 4224307
+        "confirmed": 6980408,
+        "deaths": 203949,
+        "recovered": 4225993
     },
     {
         "Name": "인도",
@@ -995,9 +995,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3853,
-        "deaths": 61,
-        "recovered": 1695
+        "confirmed": 3866,
+        "deaths": 64,
+        "recovered": 1753
     },
     {
         "Name": "Syria",
