@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6967214,203824,4217939
+미국,美国,United States,6967400,203824,4223693
 인도,印度,India,5398230,86774,4299724
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
@@ -66,9 +66,9 @@ Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 오스트리아,奥地利,Austria,37474,765,28961
 Kenya,,Kenya,36829,646,23777
 팔레스타인,巴勒斯坦,Palestine,35003,253,23446
+Paraguay,,Paraguay,33015,636,17535
 세르비아,塞尔维亚,Serbia,32840,740,31411
 아일랜드,冰岛,Ireland,32538,1792,23364
-Paraguay,,Paraguay,32127,611,16921
 레바논,黎巴嫩,Lebanon,28297,286,11440
 El Salvador,,El Salvador,27428,808,21247
 Libya,,Libya,27234,436,14679
@@ -162,7 +162,7 @@ Niger,,Niger,1183,69,1104
 Chad,,Chad,1149,81,966
 Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,942
-Sao Tome and Principe,,Sao Tome and Principe,908,15,873
+Sao Tome and Principe,,Sao Tome and Principe,908,15,876
 산마리노,圣马力诺,San Marino,723,42,669
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,667,5,567
@@ -172,7 +172,7 @@ Papua New Guinea,,Papua New Guinea,516,6,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,506,7,479
 Burundi,,Burundi,473,1,374
-Comoros,,Comoros,470,7,449
+Comoros,,Comoros,470,7,450
 Faeroe Islands,,Faeroe Islands,431,0,412
 Mauritius,,Mauritius,366,10,338
 Eritrea,,Eritrea,364,0,305
@@ -182,15 +182,15 @@ Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,311,0,302
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,258,0,186
-Curaçao,,Curaçao,228,1,83
+Curaçao,,Curaçao,247,1,88
 Cayman Islands,,Cayman Islands,208,1,204
-모나코,摩纳哥,Monaco,191,1,152
+모나코,摩纳哥,Monaco,192,1,152
 Barbados,,Barbados,185,7,172
-Bermuda,,Bermuda,178,9,164
+Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
 Seychelles,,Seychelles,141,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,113,1,109
-Antigua and Barbuda,,Antigua and Barbuda,95,3,92
+Antigua and Barbuda,,Antigua and Barbuda,96,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46

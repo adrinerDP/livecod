@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6967214,
+        "confirmed": 6967400,
         "deaths": 203824,
-        "recovered": 4217939
+        "recovered": 4223693
     },
     {
         "Name": "인도",
@@ -536,6 +536,14 @@
         "recovered": 23446
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 33015,
+        "deaths": 636,
+        "recovered": 17535
+    },
+    {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
@@ -550,14 +558,6 @@
         "confirmed": 32538,
         "deaths": 1792,
         "recovered": 23364
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 32127,
-        "deaths": 611,
-        "recovered": 16921
     },
     {
         "Name": "레바논",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 908,
         "deaths": 15,
-        "recovered": 873
+        "recovered": 876
     },
     {
         "Name": "산마리노",
@@ -1389,7 +1389,7 @@
         "Name_en": "Comoros",
         "confirmed": 470,
         "deaths": 7,
-        "recovered": 449
+        "recovered": 450
     },
     {
         "Name": "Faeroe Islands",
@@ -1467,9 +1467,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 228,
+        "confirmed": 247,
         "deaths": 1,
-        "recovered": 83
+        "recovered": 88
     },
     {
         "Name": "Cayman Islands",
@@ -1483,7 +1483,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 191,
+        "confirmed": 192,
         "deaths": 1,
         "recovered": 152
     },
@@ -1499,9 +1499,9 @@
         "Name": "Bermuda",
         "Name_ch": "",
         "Name_en": "Bermuda",
-        "confirmed": 178,
+        "confirmed": 180,
         "deaths": 9,
-        "recovered": 164
+        "recovered": 166
     },
     {
         "Name": "Brunei",
@@ -1531,7 +1531,7 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 95,
+        "confirmed": 96,
         "deaths": 3,
         "recovered": 92
     },
