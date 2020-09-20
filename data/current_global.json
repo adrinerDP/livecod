@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6970044,
-        "deaths": 203851,
-        "recovered": 4223987
+        "confirmed": 6972163,
+        "deaths": 203880,
+        "recovered": 4223996
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5412565,
-        "deaths": 86893,
-        "recovered": 4310645
+        "confirmed": 5417274,
+        "deaths": 86909,
+        "recovered": 4313402
     },
     {
         "Name": "브라질",
@@ -568,20 +568,20 @@
         "recovered": 11440
     },
     {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "confirmed": 27949,
+        "deaths": 444,
+        "recovered": 15068
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 27553,
         "deaths": 811,
         "recovered": 21561
-    },
-    {
-        "Name": "Libya",
-        "Name_ch": "",
-        "Name_en": "Libya",
-        "confirmed": 27234,
-        "deaths": 436,
-        "recovered": 14679
     },
     {
         "Name": "호주",
@@ -707,9 +707,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 12226,
-        "deaths": 358,
-        "recovered": 6888
+        "confirmed": 12385,
+        "deaths": 362,
+        "recovered": 6940
     },
     {
         "Name": "DRC",
@@ -723,9 +723,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 10292,
-        "deaths": 111,
-        "recovered": 7969
+        "confirmed": 10377,
+        "deaths": 112,
+        "recovered": 8033
     },
     {
         "Name": "Guinea",
