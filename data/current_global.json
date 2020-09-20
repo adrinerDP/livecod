@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6968918,
-        "deaths": 203844,
-        "recovered": 4223918
+        "confirmed": 6969917,
+        "deaths": 203851,
+        "recovered": 4223987
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5405252,
-        "deaths": 86796,
-        "recovered": 4303043
+        "confirmed": 5412565,
+        "deaths": 86893,
+        "recovered": 4310645
     },
     {
         "Name": "브라질",
@@ -291,9 +291,17 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 99049,
-        "deaths": 581,
-        "recovered": 89498
+        "confirmed": 99434,
+        "deaths": 584,
+        "recovered": 90168
+    },
+    {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 93778,
+        "deaths": 6279,
+        "recovered": 0
     },
     {
         "Name": "오만",
@@ -302,14 +310,6 @@
         "confirmed": 93475,
         "deaths": 846,
         "recovered": 85418
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 91934,
-        "deaths": 6275,
-        "recovered": 0
     },
     {
         "Name": "스웨덴",
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 22436,
-        "deaths": 635,
-        "recovered": 17316
+        "confirmed": 22905,
+        "deaths": 638,
+        "recovered": 17514
     },
     {
         "Name": "카메룬",
@@ -675,9 +675,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14688,
+        "confirmed": 14714,
         "deaths": 302,
-        "recovered": 11153
+        "recovered": 11260
     },
     {
         "Name": "Zambia",
