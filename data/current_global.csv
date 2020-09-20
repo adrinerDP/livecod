@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6980408,203949,4225993
+미국,美国,United States,6983136,203957,4227447
 인도,印度,India,5418681,86926,4314606
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -17,14 +17,14 @@ Bangladesh,,Bangladesh,348918,4939,256565
 사우디아라비아,沙特阿拉伯,Saudi Arabia,329754,4485,310439
 이라크,伊拉克,Iraq,319035,8555,253591
 파키스탄,巴基斯坦,Pakistan,305671,6416,292303
-터키,土耳其,Turkey,301348,7445,266117
+터키,土耳其,Turkey,302867,7506,266117
 이탈리아,义大利,Italy,298156,35707,218351
 필리핀,菲律宾,Philippines,286743,4984,229865
 독일,德国,Germany,272670,9466,243500
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,175678,3557,77512
-캐나다,加拿大,Canada,143141,9212,124378
+캐나다,加拿大,Canada,143603,9217,124684
 Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,125620,11084,97063
 카타르,卡塔尔,Qatar,123376,210,120303
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,65949,539,55155
 Uzbekistan,,Uzbekistan,51235,429,47271
 알제리,阿尔及利亚,Algeria,49623,1665,34923
 스위스,瑞士,Switzerland,49283,2045,40500
-체코,捷克,Czechia,48306,499,24228
+체코,捷克,Czechia,48881,502,24744
 아르메니아,亚美尼亚,Armenia,47431,930,42608
 Moldova,,Moldova,46596,1203,34236
 Ghana,,Ghana,46004,297,45153
@@ -69,7 +69,7 @@ Kenya,,Kenya,36981,648,23887
 Paraguay,,Paraguay,33015,636,17535
 세르비아,塞尔维亚,Serbia,32908,741,31411
 아일랜드,冰岛,Ireland,32538,1792,23364
-레바논,黎巴嫩,Lebanon,28297,286,11440
+레바논,黎巴嫩,Lebanon,29303,297,12047
 Libya,,Libya,27949,444,15068
 El Salvador,,El Salvador,27553,811,21561
 호주,澳大利亚,Australia,26898,849,24062
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,27553,811,21561
 Ivory Coast,,Ivory Coast,19269,120,18392
 Bulgaria,,Bulgaria,18819,755,13558
 헝가리,匈牙利,Hungary,17990,683,4391
-North Macedonia,,North Macedonia,16557,689,13792
+North Macedonia,,North Macedonia,16735,693,13863
 Madagascar,,Madagascar,16053,223,14646
 그리스,希腊,Greece,15142,338,9989
 크로아티아,克罗地亚,Croatia,14922,248,12536
@@ -103,8 +103,8 @@ Montenegro,,Montenegro,7898,134,5129
 룩셈부르크,卢森堡,Luxembourg,7804,124,6703
 Zimbabwe,,Zimbabwe,7672,225,5914
 Mauritania,,Mauritania,7365,161,6927
+Mozambique,,Mozambique,6771,43,3622
 슬로바키아,斯洛伐克,Slovakia,6677,39,3548
-Mozambique,,Mozambique,6537,41,3620
 Uganda,,Uganda,6287,63,2616
 Malawi,,Malawi,5718,179,4030
 Myanmar,,Myanmar,5541,92,1260
