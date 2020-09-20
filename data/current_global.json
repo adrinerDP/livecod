@@ -339,8 +339,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 78330,
-        "deaths": 2282,
+        "confirmed": 79240,
+        "deaths": 2293,
         "recovered": 64302
     },
     {
@@ -907,7 +907,7 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5010,
+        "confirmed": 5033,
         "deaths": 103,
         "recovered": 4708
     },
@@ -979,9 +979,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 4309,
-        "deaths": 141,
-        "recovered": 2981
+        "confirmed": 4420,
+        "deaths": 142,
+        "recovered": 3023
     },
     {
         "Name": "Angola",
