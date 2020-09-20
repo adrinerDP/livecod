@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5400619,
-        "deaths": 86774,
+        "confirmed": 5405252,
+        "deaths": 86796,
         "recovered": 4303043
     },
     {
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8922,
+        "confirmed": 8980,
         "deaths": 339,
         "recovered": 7700
     },
