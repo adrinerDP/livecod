@@ -1441,14 +1441,14 @@
     },
     {
         "date": "9/18",
-        "confirmed": 30406197.0,
-        "deaths": 950520.0,
-        "recovered": 20683110.0
+        "confirmed": 30499534.0,
+        "deaths": 951767.0,
+        "recovered": 20778990.0
     },
     {
         "date": "9/19",
-        "confirmed": 30685001.0,
-        "deaths": 955843.0,
-        "recovered": 20922189.0
+        "confirmed": 30777606.0,
+        "deaths": 956976.0,
+        "recovered": 21016801.0
     }
 ]
