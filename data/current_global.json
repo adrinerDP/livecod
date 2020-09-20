@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6993927,
-        "deaths": 204018,
-        "recovered": 4241834
+        "confirmed": 6994855,
+        "deaths": 204049,
+        "recovered": 4243370
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5483663,
-        "deaths": 87896,
-        "recovered": 4391078
+        "confirmed": 5485612,
+        "deaths": 87909,
+        "recovered": 4392650
     },
     {
         "Name": "브라질",
@@ -619,9 +619,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19269,
+        "confirmed": 19320,
         "deaths": 120,
-        "recovered": 18392
+        "recovered": 18460
     },
     {
         "Name": "Bulgaria",
@@ -960,20 +960,20 @@
         "recovered": 2844
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4711,
+        "deaths": 26,
+        "recovered": 2961
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4709,
         "deaths": 97,
         "recovered": 4383
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4689,
-        "deaths": 26,
-        "recovered": 2910
     },
     {
         "Name": "슬로베니아",
