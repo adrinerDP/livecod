@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6967403,
-        "deaths": 203824,
+        "confirmed": 6967420,
+        "deaths": 203828,
         "recovered": 4223693
     },
     {
@@ -419,7 +419,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57558,
+        "confirmed": 57576,
         "deaths": 27,
         "recovered": 57142
     },
@@ -496,20 +496,20 @@
         "recovered": 41484
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "confirmed": 39044,
+        "deaths": 1441,
+        "recovered": 32576
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "confirmed": 39042,
         "deaths": 574,
         "recovered": 36601
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
-        "confirmed": 38919,
-        "deaths": 1437,
-        "recovered": 32576
     },
     {
         "Name": "오스트리아",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26897,
+        "confirmed": 26898,
         "deaths": 849,
-        "recovered": 23967
+        "recovered": 24062
     },
     {
         "Name": "보스니아 헤르체고비나",
