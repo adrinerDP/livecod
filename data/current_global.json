@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 272311,
+        "confirmed": 272342,
         "deaths": 9466,
         "recovered": 243500
     },
@@ -227,9 +227,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 123146,
-        "deaths": 209,
-        "recovered": 120089
+        "confirmed": 123376,
+        "deaths": 210,
+        "recovered": 120303
     },
     {
         "Name": "루마니아",
@@ -496,20 +496,20 @@
         "recovered": 41484
     },
     {
+        "Name": "아제르바이잔",
+        "Name_ch": "阿塞拜疆",
+        "Name_en": "Azerbaijan",
+        "confirmed": 39188,
+        "deaths": 575,
+        "recovered": 36755
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "confirmed": 39044,
         "deaths": 1441,
         "recovered": 32576
-    },
-    {
-        "Name": "아제르바이잔",
-        "Name_ch": "阿塞拜疆",
-        "Name_en": "Azerbaijan",
-        "confirmed": 39042,
-        "deaths": 574,
-        "recovered": 36601
     },
     {
         "Name": "오스트리아",
@@ -876,7 +876,7 @@
         "Name_ch": "",
         "Name_en": "Myanmar",
         "confirmed": 5263,
-        "deaths": 81,
+        "deaths": 89,
         "recovered": 1188
     },
     {

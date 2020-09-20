@@ -20,14 +20,14 @@ Bangladesh,,Bangladesh,348918,4939,256565
 터키,土耳其,Turkey,301348,7445,266117
 이탈리아,义大利,Italy,296569,35692,217716
 필리핀,菲律宾,Philippines,286743,4984,229865
-독일,德国,Germany,272311,9466,243500
+독일,德国,Germany,272342,9466,243500
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,175678,3557,77512
 캐나다,加拿大,Canada,142774,9211,124187
 Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,125620,11084,97063
-카타르,卡塔尔,Qatar,123146,209,120089
+카타르,卡塔尔,Qatar,123376,210,120303
 루마니아,尼亚,Romania,112781,4435,89771
 도미니카 공화국,多明尼加共和国,Dominican Republic,107700,2044,80820
 Kazakhstan,,Kazakhstan,107262,1671,101877
@@ -61,8 +61,8 @@ Uzbekistan,,Uzbekistan,51235,429,47271
 Moldova,,Moldova,46336,1201,34236
 Ghana,,Ghana,46004,297,45153
 Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
+아제르바이잔,阿塞拜疆,Azerbaijan,39188,575,36755
 아프가니스탄,阿富汗,Afghanistan,39044,1441,32576
-아제르바이잔,阿塞拜疆,Azerbaijan,39042,574,36601
 오스트리아,奥地利,Austria,38095,766,29229
 Kenya,,Kenya,36829,646,23777
 팔레스타인,巴勒斯坦,Palestine,35686,262,23700
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,6537,41,3620
 Uganda,,Uganda,6017,63,2581
 Malawi,,Malawi,5718,179,4030
 Djibouti,,Djibouti,5403,61,5333
-Myanmar,,Myanmar,5263,81,1188
+Myanmar,,Myanmar,5263,89,1188
 Eswatini,,Eswatini,5245,104,4571
 Cabo Verde,,Cabo Verde,5186,50,4581
 Cuba,,Cuba,5055,113,4284
