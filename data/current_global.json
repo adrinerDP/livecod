@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 172712,
-        "deaths": 3516,
-        "recovered": 76754
+        "confirmed": 175678,
+        "deaths": 3557,
+        "recovered": 77512
     },
     {
         "Name": "캐나다",
@@ -744,6 +744,14 @@
         "recovered": 9315
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 9736,
+        "deaths": 155,
+        "recovered": 2386
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -766,14 +774,6 @@
         "confirmed": 9303,
         "deaths": 73,
         "recovered": 8066
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 9110,
-        "deaths": 138,
-        "recovered": 2366
     },
     {
         "Name": "핀란드",
