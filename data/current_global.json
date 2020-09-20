@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1097251,
-        "deaths": 19339,
-        "recovered": 906462
+        "confirmed": 1103399,
+        "deaths": 19418,
+        "recovered": 909357
     },
     {
         "Name": "페루",
@@ -909,7 +909,7 @@
         "Name_en": "Hong Kong",
         "confirmed": 5010,
         "deaths": 103,
-        "recovered": 4707
+        "recovered": 4708
     },
     {
         "Name": "Equatorial Guinea",
@@ -1011,9 +1011,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 3664,
+        "confirmed": 3744,
         "deaths": 87,
-        "recovered": 2197
+        "recovered": 2198
     },
     {
         "Name": "Mayotte",
@@ -1107,9 +1107,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 2875,
+        "confirmed": 2924,
         "deaths": 64,
-        "recovered": 2374
+        "recovered": 2377
     },
     {
         "Name": "Malta",
