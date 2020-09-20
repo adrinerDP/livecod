@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6967400,
+        "confirmed": 6967403,
         "deaths": 203824,
         "recovered": 4223693
     },
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 688954,
-        "deaths": 72803,
-        "recovered": 492192
+        "confirmed": 694121,
+        "deaths": 73258,
+        "recovered": 496224
     },
     {
         "Name": "남아프리카 공화국",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 130051,
-        "deaths": 7550,
-        "recovered": 88457
+        "confirmed": 130470,
+        "deaths": 7586,
+        "recovered": 89032
     },
     {
         "Name": "에콰도르",
@@ -387,9 +387,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 65174,
-        "deaths": 530,
-        "recovered": 54218
+        "confirmed": 65949,
+        "deaths": 539,
+        "recovered": 55155
     },
     {
         "Name": "바레인",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26885,
-        "deaths": 844,
-        "recovered": 23962
+        "confirmed": 26897,
+        "deaths": 849,
+        "recovered": 23967
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85269,
+        "confirmed": 85279,
         "deaths": 4634,
-        "recovered": 80464
+        "recovered": 80477
     }
 ]

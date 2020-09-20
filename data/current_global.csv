@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6967400,203824,4223693
+미국,美国,United States,6967403,203824,4223693
 인도,印度,India,5398230,86774,4299724
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
 페루,秘鲁,Peru,762865,31369,607837
 콜롬비아,哥伦比亚,Colombia,758398,24039,627685
-멕시코,墨西哥,Mexico,688954,72803,492192
+멕시코,墨西哥,Mexico,694121,73258,496224
 남아프리카 공화국,南非共和国,South Africa,659656,15940,589434
 스페인,西班牙,Spain,659334,30495,0
 Argentina,,Argentina,622934,12799,478077
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,347372,4913,254386
 이스라엘,以色列,Israel,183602,1226,132449
 Ukraine,,Ukraine,172712,3516,76754
 캐나다,加拿大,Canada,142774,9211,124187
-Bolivia,,Bolivia,130051,7550,88457
+Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,125620,11084,97063
 카타르,卡塔尔,Qatar,123146,209,120089
 루마니아,尼亚,Romania,111550,4402,89119
@@ -47,7 +47,7 @@ Guatemala,,Guatemala,85152,3105,74497
 Honduras,,Honduras,70611,2146,21149
 Ethiopia,,Ethiopia,68131,1089,27939
 포르투갈,葡萄牙,Portugal,68025,1899,45404
-Venezuela,,Venezuela,65174,530,54218
+Venezuela,,Venezuela,65949,539,55155
 바레인,巴林,Bahrain,64499,221,57299
 코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
 네팔,尼泊尔,Nepal,62797,401,45267
@@ -72,7 +72,7 @@ Paraguay,,Paraguay,33015,636,17535
 레바논,黎巴嫩,Lebanon,28297,286,11440
 El Salvador,,El Salvador,27428,808,21247
 Libya,,Libya,27234,436,14679
-호주,澳大利亚,Australia,26885,844,23962
+호주,澳大利亚,Australia,26897,849,23967
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25217,758,17489
 덴마크,丹麦,Denmark,22436,635,17316
 카메룬,喀麦隆,Cameroon,20431,416,19124
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85269,4634,80464
+중국,中国,China,85279,4634,80477
