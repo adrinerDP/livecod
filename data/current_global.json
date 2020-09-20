@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6987484,
-        "deaths": 204009,
+        "confirmed": 6988618,
+        "deaths": 204012,
         "recovered": 4237481
     },
     {
@@ -59,9 +59,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 659656,
-        "deaths": 15940,
-        "recovered": 589434
+        "confirmed": 661211,
+        "deaths": 15953,
+        "recovered": 590071
     },
     {
         "Name": "스페인",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 272670,
-        "deaths": 9466,
+        "confirmed": 273477,
+        "deaths": 9470,
         "recovered": 243500
     },
     {
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 75461,
-        "deaths": 776,
-        "recovered": 73212
+        "confirmed": 75674,
+        "deaths": 780,
+        "recovered": 73265
     },
     {
         "Name": "Honduras",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 51235,
-        "deaths": 429,
-        "recovered": 47271
+        "confirmed": 51640,
+        "deaths": 433,
+        "recovered": 47932
     },
     {
         "Name": "알제리",
@@ -1003,9 +1003,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3765,
-        "deaths": 170,
-        "recovered": 932
+        "confirmed": 3800,
+        "deaths": 172,
+        "recovered": 946
     },
     {
         "Name": "Lithuania",

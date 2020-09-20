@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6987484,204009,4237481
+미국,美国,United States,6988618,204012,4237481
 인도,印度,India,5483663,87896,4391078
 브라질,巴西,Brazil,4531539,136677,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
 페루,秘鲁,Peru,762865,31369,607837
 콜롬비아,哥伦比亚,Colombia,758398,24039,627685
 멕시코,墨西哥,Mexico,694121,73258,496224
-남아프리카 공화국,南非共和国,South Africa,659656,15940,589434
+남아프리카 공화국,南非共和国,South Africa,661211,15953,590071
 스페인,西班牙,Spain,659334,30495,0
 Argentina,,Argentina,622934,12909,488231
 칠레,智利,Chile,446274,12286,419746
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,348918,4939,256565
 터키,土耳其,Turkey,302867,7506,267233
 이탈리아,义大利,Italy,298156,35707,218351
 필리핀,菲律宾,Philippines,286743,4984,229865
-독일,德国,Germany,272670,9466,243500
+독일,德国,Germany,273477,9470,243500
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,187396,1236,133898
 Ukraine,,Ukraine,175678,3557,77512
@@ -43,7 +43,7 @@ Guatemala,,Guatemala,85152,3105,74497
 아랍에미리트,阿拉伯联合酋长国,UAE,84916,404,74273
 폴란드,波兰,Poland,79240,2293,64302
 일본,日本,Japan,78073,1495,70495
-벨라루스,白俄罗斯,Belarus,75461,776,73212
+벨라루스,白俄罗斯,Belarus,75674,780,73265
 Honduras,,Honduras,71143,2166,21810
 Ethiopia,,Ethiopia,68820,1096,28314
 포르투갈,葡萄牙,Portugal,68577,1912,45596
@@ -53,7 +53,7 @@ Venezuela,,Venezuela,65949,539,55155
 코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
 싱가포르,新加坡,Singapore,57576,27,57181
 나이지리아,尼日利亚,Nigeria,57145,1095,48431
-Uzbekistan,,Uzbekistan,51235,429,47271
+Uzbekistan,,Uzbekistan,51640,433,47932
 알제리,阿尔及利亚,Algeria,49826,1672,35047
 스위스,瑞士,Switzerland,49283,2045,40500
 체코,捷克,Czechia,48881,502,24744
@@ -124,7 +124,7 @@ Rwanda,,Rwanda,4689,26,2910
 슬로베니아,斯洛文尼亚,Slovenia,4420,142,3023
 Angola,,Angola,3901,147,1445
 Trinidad and Tobago,,Trinidad and Tobago,3866,64,1753
-Syria,,Syria,3765,170,932
+Syria,,Syria,3800,172,946
 Lithuania,,Lithuania,3744,87,2198
 Aruba,,Aruba,3551,23,2239
 Mayotte,,Mayotte,3541,40,2964
