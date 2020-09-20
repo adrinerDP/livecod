@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7000191,204113,4245816
+미국,美国,United States,7000896,204115,4247969
 인도,印度,India,5485612,87909,4392650
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -55,8 +55,8 @@ Venezuela,,Venezuela,66656,547,56096
 나이지리아,尼日利亚,Nigeria,57242,1098,48569
 Uzbekistan,,Uzbekistan,51640,433,47932
 알제리,阿尔及利亚,Algeria,49826,1672,35047
+체코,捷克,Czechia,49290,503,24755
 스위스,瑞士,Switzerland,49283,2045,40500
-체코,捷克,Czechia,48881,502,24744
 아르메니아,亚美尼亚,Armenia,47431,930,42608
 Moldova,,Moldova,46596,1203,34236
 Ghana,,Ghana,46004,297,45153
@@ -85,8 +85,8 @@ Madagascar,,Madagascar,16053,223,14646
 크로아티아,克罗地亚,Croatia,14922,248,12536
 세네갈,塞内加尔,Senegal,14714,302,11260
 Zambia,,Zambia,14131,330,13365
-Sudan,,Sudan,13535,836,6759
-노르웨이,挪威,Norway,12883,267,10371
+Sudan,,Sudan,13555,836,6760
+노르웨이,挪威,Norway,12897,267,10371
 Albania,,Albania,12385,362,6940
 DRC,,DRC,10515,271,9930
 Namibia,,Namibia,10377,112,8033
@@ -98,9 +98,9 @@ French Guiana,,French Guiana,9692,65,9341
 Tajikistan,,Tajikistan,9346,73,8108
 핀란드,芬兰,Finland,8980,339,7700
 Gabon,,Gabon,8696,53,7848
-Haiti,,Haiti,8600,221,6363
+Haiti,,Haiti,8619,221,6363
+룩셈부르크,卢森堡,Luxembourg,7907,124,6703
 Montenegro,,Montenegro,7898,134,5129
-룩셈부르크,卢森堡,Luxembourg,7804,124,6703
 Zimbabwe,,Zimbabwe,7672,225,5914
 Mauritania,,Mauritania,7368,161,6951
 Mozambique,,Mozambique,6771,43,3622
@@ -158,7 +158,7 @@ Cyprus,,Cyprus,1590,22,1282
 Lesotho,,Lesotho,1390,33,754
 Liberia,,Liberia,1335,82,1216
 French Polynesia,,French Polynesia,1271,2,1028
-Niger,,Niger,1183,69,1104
+Niger,,Niger,1188,69,1104
 Chad,,Chad,1151,81,967
 Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,942

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7000191,
-        "deaths": 204113,
-        "recovered": 4245816
+        "confirmed": 7000896,
+        "deaths": 204115,
+        "recovered": 4247969
     },
     {
         "Name": "인도",
@@ -448,20 +448,20 @@
         "recovered": 35047
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 49290,
+        "deaths": 503,
+        "recovered": 24755
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 49283,
         "deaths": 2045,
         "recovered": 40500
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 48881,
-        "deaths": 502,
-        "recovered": 24744
     },
     {
         "Name": "아르메니아",
@@ -691,15 +691,15 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13535,
+        "confirmed": 13555,
         "deaths": 836,
-        "recovered": 6759
+        "recovered": 6760
     },
     {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12883,
+        "confirmed": 12897,
         "deaths": 267,
         "recovered": 10371
     },
@@ -795,9 +795,17 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8600,
+        "confirmed": 8619,
         "deaths": 221,
         "recovered": 6363
+    },
+    {
+        "Name": "룩셈부르크",
+        "Name_ch": "卢森堡",
+        "Name_en": "Luxembourg",
+        "confirmed": 7907,
+        "deaths": 124,
+        "recovered": 6703
     },
     {
         "Name": "Montenegro",
@@ -806,14 +814,6 @@
         "confirmed": 7898,
         "deaths": 134,
         "recovered": 5129
-    },
-    {
-        "Name": "룩셈부르크",
-        "Name_ch": "卢森堡",
-        "Name_en": "Luxembourg",
-        "confirmed": 7804,
-        "deaths": 124,
-        "recovered": 6703
     },
     {
         "Name": "Zimbabwe",
@@ -1275,7 +1275,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1183,
+        "confirmed": 1188,
         "deaths": 69,
         "recovered": 1104
     },
