@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6998975,
-        "deaths": 204087,
-        "recovered": 4245712
+        "confirmed": 7000191,
+        "deaths": 204113,
+        "recovered": 4245816
     },
     {
         "Name": "인도",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 622934,
-        "deaths": 12909,
+        "confirmed": 631365,
+        "deaths": 13053,
         "recovered": 488231
     },
     {
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 105601,
-        "deaths": 2247,
-        "recovered": 80190
+        "confirmed": 106203,
+        "deaths": 2257,
+        "recovered": 81365
     },
     {
         "Name": "이집트",
@@ -387,9 +387,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 65949,
-        "deaths": 539,
-        "recovered": 55155
+        "confirmed": 66656,
+        "deaths": 547,
+        "recovered": 56096
     },
     {
         "Name": "바레인",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 57145,
-        "deaths": 1095,
-        "recovered": 48431
+        "confirmed": 57242,
+        "deaths": 1098,
+        "recovered": 48569
     },
     {
         "Name": "Uzbekistan",
@@ -731,9 +731,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10286,
-        "deaths": 63,
-        "recovered": 9681
+        "confirmed": 10325,
+        "deaths": 64,
+        "recovered": 9692
     },
     {
         "Name": "말레이시아",
@@ -827,9 +827,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7365,
+        "confirmed": 7368,
         "deaths": 161,
-        "recovered": 6927
+        "recovered": 6951
     },
     {
         "Name": "Mozambique",
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1904,
+        "confirmed": 1917,
         "deaths": 46,
-        "recovered": 1612
+        "recovered": 1621
     },
     {
         "Name": "Burkina Faso",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 908,
         "deaths": 15,
-        "recovered": 876
+        "recovered": 878
     },
     {
         "Name": "산마리노",
