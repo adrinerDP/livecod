@@ -296,20 +296,20 @@
         "recovered": 89498
     },
     {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "confirmed": 93475,
+        "deaths": 846,
+        "recovered": 85418
+    },
+    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
         "confirmed": 91934,
         "deaths": 6275,
         "recovered": 0
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "confirmed": 91753,
-        "deaths": 818,
-        "recovered": 84648
     },
     {
         "Name": "스웨덴",
@@ -483,9 +483,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 45877,
+        "confirmed": 46004,
         "deaths": 297,
-        "recovered": 45081
+        "recovered": 45153
     },
     {
         "Name": "Kyrgyzstan",
@@ -651,9 +651,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16020,
-        "deaths": 219,
-        "recovered": 14630
+        "confirmed": 16053,
+        "deaths": 223,
+        "recovered": 14646
     },
     {
         "Name": "그리스",
