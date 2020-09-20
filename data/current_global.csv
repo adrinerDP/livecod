@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6969917,203851,4223987
+미국,美国,United States,6970044,203851,4223987
 인도,印度,India,5412565,86893,4310645
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -14,7 +14,7 @@ Argentina,,Argentina,622934,12799,478077
 이란,伊朗,Iran,422140,24301,359570
 영국,英国,UK,390358,41759,0
 Bangladesh,,Bangladesh,348918,4939,256565
-사우디아라비아,沙特阿拉伯,Saudi Arabia,329271,4458,309430
+사우디아라비아,沙特阿拉伯,Saudi Arabia,329754,4485,310439
 이라크,伊拉克,Iraq,315597,8491,249539
 파키스탄,巴基斯坦,Pakistan,305671,6416,292303
 터키,土耳其,Turkey,301348,7445,266117
@@ -45,8 +45,8 @@ Guatemala,,Guatemala,85152,3105,74497
 일본,日本,Japan,78073,1495,70495
 벨라루스,白俄罗斯,Belarus,75461,776,73212
 Honduras,,Honduras,71143,2166,21810
+포르투갈,葡萄牙,Portugal,68577,1912,45596
 Ethiopia,,Ethiopia,68131,1089,27939
-포르투갈,葡萄牙,Portugal,68025,1899,45404
 Venezuela,,Venezuela,65949,539,55155
 바레인,巴林,Bahrain,64499,221,57299
 코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
@@ -67,7 +67,7 @@ Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 Kenya,,Kenya,36829,646,23777
 팔레스타인,巴勒斯坦,Palestine,35686,262,23700
 Paraguay,,Paraguay,33015,636,17535
-세르비아,塞尔维亚,Serbia,32840,740,31411
+세르비아,塞尔维亚,Serbia,32908,741,31411
 아일랜드,冰岛,Ireland,32538,1792,23364
 레바논,黎巴嫩,Lebanon,28297,286,11440
 El Salvador,,El Salvador,27553,811,21561
@@ -133,7 +133,7 @@ Gambia,,Gambia,3504,108,1992
 Aruba,,Aruba,3460,23,2128
 Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3401,98,2812
-스리랑카,斯里兰卡,Sri Lanka,3283,13,3070
+스리랑카,斯里兰卡,Sri Lanka,3284,13,3088
 Bahamas,,Bahamas,3214,73,1679
 Réunion,,Réunion,3194,15,2482
 Mali,,Mali,3006,128,2349

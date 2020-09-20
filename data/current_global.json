@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 6969917,
+        "confirmed": 6970044,
         "deaths": 203851,
         "recovered": 4223987
     },
@@ -123,9 +123,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 329271,
-        "deaths": 4458,
-        "recovered": 309430
+        "confirmed": 329754,
+        "deaths": 4485,
+        "recovered": 310439
     },
     {
         "Name": "이라크",
@@ -368,20 +368,20 @@
         "recovered": 21810
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 68577,
+        "deaths": 1912,
+        "recovered": 45596
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 68131,
         "deaths": 1089,
         "recovered": 27939
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 68025,
-        "deaths": 1899,
-        "recovered": 45404
     },
     {
         "Name": "Venezuela",
@@ -547,8 +547,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32840,
-        "deaths": 740,
+        "confirmed": 32908,
+        "deaths": 741,
         "recovered": 31411
     },
     {
@@ -1075,9 +1075,9 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3283,
+        "confirmed": 3284,
         "deaths": 13,
-        "recovered": 3070
+        "recovered": 3088
     },
     {
         "Name": "Bahamas",
