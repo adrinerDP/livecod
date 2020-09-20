@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6967420,203828,4223693
+미국,美国,United States,6968918,203844,4223918
 인도,印度,India,5405252,86796,4303043
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -65,7 +65,7 @@ Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 아제르바이잔,阿塞拜疆,Azerbaijan,39042,574,36601
 오스트리아,奥地利,Austria,38095,766,29229
 Kenya,,Kenya,36829,646,23777
-팔레스타인,巴勒斯坦,Palestine,35003,253,23446
+팔레스타인,巴勒斯坦,Palestine,35686,262,23700
 Paraguay,,Paraguay,33015,636,17535
 세르비아,塞尔维亚,Serbia,32840,740,31411
 아일랜드,冰岛,Ireland,32538,1792,23364
@@ -73,7 +73,7 @@ Paraguay,,Paraguay,33015,636,17535
 El Salvador,,El Salvador,27553,811,21561
 Libya,,Libya,27234,436,14679
 호주,澳大利亚,Australia,26898,849,24062
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25217,758,17489
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25428,763,17878
 덴마크,丹麦,Denmark,22436,635,17316
 카메룬,喀麦隆,Cameroon,20431,416,19124
 Ivory Coast,,Ivory Coast,19269,120,18392
@@ -91,7 +91,7 @@ Albania,,Albania,12226,358,6888
 DRC,,DRC,10488,268,9891
 Namibia,,Namibia,10292,111,7969
 Guinea,,Guinea,10286,63,9681
-말레이시아,马来西亚,Malaysia,10167,130,9315
+말레이시아,马来西亚,Malaysia,10219,130,9355
 Tunisia,,Tunisia,9736,155,2386
 French Guiana,,French Guiana,9692,65,9341
 Maldives,,Maldives,9649,33,8188
@@ -138,7 +138,7 @@ Bahamas,,Bahamas,3214,73,1679
 Réunion,,Réunion,3194,15,2482
 Mali,,Mali,3006,128,2349
 에스토니아,爱沙尼亚,Estonia,2924,64,2377
-Malta,,Malta,2699,19,2017
+Malta,,Malta,2731,20,2047
 South Sudan,,South Sudan,2642,49,1290
 Botswana,,Botswana,2567,13,624
 Iceland,,Iceland,2307,10,2116
@@ -176,7 +176,7 @@ Comoros,,Comoros,470,7,450
 Faeroe Islands,,Faeroe Islands,431,0,412
 Mauritius,,Mauritius,366,10,338
 Eritrea,,Eritrea,364,0,305
-지브롤터,直布罗陀,Gibraltar,350,0,322
+지브롤터,直布罗陀,Gibraltar,350,0,323
 Isle of Man,,Isle of Man,339,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,312,0,302
