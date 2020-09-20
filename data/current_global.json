@@ -872,6 +872,14 @@
         "recovered": 5333
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 5263,
+        "deaths": 81,
+        "recovered": 1188
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
@@ -926,14 +934,6 @@
         "confirmed": 4961,
         "deaths": 147,
         "recovered": 2913
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 4870,
-        "deaths": 81,
-        "recovered": 1188
     },
     {
         "Name": "CAR",
@@ -1267,9 +1267,9 @@
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "confirmed": 1209,
+        "confirmed": 1271,
         "deaths": 2,
-        "recovered": 966
+        "recovered": 1028
     },
     {
         "Name": "Niger",
@@ -1443,7 +1443,7 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 311,
+        "confirmed": 312,
         "deaths": 0,
         "recovered": 302
     },
