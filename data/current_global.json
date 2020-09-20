@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 419043,
-        "deaths": 24118,
-        "recovered": 357632
+        "confirmed": 422140,
+        "deaths": 24301,
+        "recovered": 359570
     },
     {
         "Name": "영국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 272308,
+        "confirmed": 272311,
         "deaths": 9466,
         "recovered": 243500
     },
@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 111550,
-        "deaths": 4402,
-        "recovered": 89119
+        "confirmed": 112781,
+        "deaths": 4435,
+        "recovered": 89771
     },
     {
         "Name": "도미니카 공화국",
@@ -331,9 +331,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 84242,
+        "confirmed": 84916,
         "deaths": 404,
-        "recovered": 73512
+        "recovered": 74273
     },
     {
         "Name": "폴란드",
@@ -571,9 +571,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 27428,
-        "deaths": 808,
-        "recovered": 21247
+        "confirmed": 27553,
+        "deaths": 811,
+        "recovered": 21561
     },
     {
         "Name": "Libya",
