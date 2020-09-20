@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,6966251,203819,4217858
+미국,美国,United States,6967214,203824,4217939
 인도,印度,India,5398230,86774,4299724
 브라질,巴西,Brazil,4528347,136565,3820095
 러시아,俄罗斯,Russia,1097251,19339,906462
@@ -84,13 +84,13 @@ Madagascar,,Madagascar,16020,219,14630
 그리스,希腊,Greece,14978,331,9989
 크로아티아,克罗地亚,Croatia,14725,244,12353
 세네갈,塞内加尔,Senegal,14688,302,11153
-Zambia,,Zambia,14022,329,13207
+Zambia,,Zambia,14070,330,13365
 Sudan,,Sudan,13535,836,6759
 노르웨이,挪威,Norway,12858,267,10371
 Albania,,Albania,12226,358,6888
 DRC,,DRC,10488,268,9891
 Namibia,,Namibia,10292,111,7969
-Guinea,,Guinea,10231,63,9660
+Guinea,,Guinea,10286,63,9681
 말레이시아,马来西亚,Malaysia,10167,130,9315
 French Guiana,,French Guiana,9692,65,9341
 Maldives,,Maldives,9649,33,8188
@@ -118,13 +118,13 @@ Nicaragua,,Nicaragua,4961,147,2913
 Myanmar,,Myanmar,4870,81,1188
 CAR,,CAR,4786,62,1830
 Jamaica,,Jamaica,4758,60,1327
-Suriname,,Suriname,4691,96,4280
+Suriname,,Suriname,4709,97,4383
 Rwanda,,Rwanda,4689,26,2910
 요르단,约旦,Jordan,4540,30,2672
 슬로베니아,斯洛文尼亚,Slovenia,4309,141,2981
 Angola,,Angola,3901,147,1445
+Trinidad and Tobago,,Trinidad and Tobago,3853,61,1695
 Syria,,Syria,3765,170,932
-Trinidad and Tobago,,Trinidad and Tobago,3739,60,1586
 Lithuania,,Lithuania,3664,87,2197
 Mayotte,,Mayotte,3541,40,2964
 Gambia,,Gambia,3504,108,1992
@@ -134,8 +134,8 @@ Guadeloupe,,Guadeloupe,3426,26,837
 Somalia,,Somalia,3401,98,2812
 조지아,格鲁吉亚,Georgia,3306,19,1481
 스리랑카,斯里兰卡,Sri Lanka,3283,13,3070
-Réunion,,Réunion,3194,15,1794
-Bahamas,,Bahamas,3177,69,1626
+Bahamas,,Bahamas,3214,73,1679
+Réunion,,Réunion,3194,15,2482
 Mali,,Mali,3006,128,2349
 에스토니아,爱沙尼亚,Estonia,2875,64,2374
 Malta,,Malta,2699,19,2017
