@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,6987484,204009,4237481
-인도,印度,India,5449902,87312,4353029
+인도,印度,India,5483663,87896,4391078
 브라질,巴西,Brazil,4531539,136677,3820095
 러시아,俄罗斯,Russia,1103399,19418,909357
 페루,秘鲁,Peru,762865,31369,607837
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,348918,4939,256565
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,187396,1236,133898
 Ukraine,,Ukraine,175678,3557,77512
-캐나다,加拿大,Canada,143603,9217,124684
+캐나다,加拿大,Canada,143631,9217,124689
 Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,126419,11090,102852
 카타르,卡塔尔,Qatar,123376,210,120303
@@ -126,11 +126,11 @@ Angola,,Angola,3901,147,1445
 Trinidad and Tobago,,Trinidad and Tobago,3866,64,1753
 Syria,,Syria,3765,170,932
 Lithuania,,Lithuania,3744,87,2198
+Aruba,,Aruba,3551,23,2239
 Mayotte,,Mayotte,3541,40,2964
 Gambia,,Gambia,3526,108,1992
 태국,泰国,Thailand,3506,59,3340
 조지아,格鲁吉亚,Georgia,3502,19,1494
-Aruba,,Aruba,3460,23,2128
 Somalia,,Somalia,3442,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837
 Bahamas,,Bahamas,3315,74,1689
@@ -168,7 +168,7 @@ Sao Tome and Principe,,Sao Tome and Principe,908,15,876
 Turks and Caicos,,Turks and Caicos,668,5,572
 Channel Islands,,Channel Islands,644,48,575
 Sint Maarten,,Sint Maarten,584,20,488
-Papua New Guinea,,Papua New Guinea,516,6,232
+Papua New Guinea,,Papua New Guinea,517,7,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,507,7,479
 Burundi,,Burundi,473,1,374
