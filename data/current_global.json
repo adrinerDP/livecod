@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26898,
-        "deaths": 849,
-        "recovered": 24062
+        "confirmed": 26912,
+        "deaths": 851,
+        "recovered": 24063
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -712,6 +712,14 @@
         "recovered": 6940
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 10732,
+        "deaths": 159,
+        "recovered": 2386
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
@@ -742,14 +750,6 @@
         "confirmed": 10219,
         "deaths": 130,
         "recovered": 9355
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 9736,
-        "deaths": 155,
-        "recovered": 2386
     },
     {
         "Name": "Maldives",
@@ -1205,7 +1205,7 @@
         "Name_en": "New Zealand",
         "confirmed": 1815,
         "deaths": 25,
-        "recovered": 1719
+        "recovered": 1728
     },
     {
         "Name": "토고",
