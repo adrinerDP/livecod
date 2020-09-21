@@ -1,11 +1,11 @@
 ﻿[
     {
-        "title": "Coronavirus in South Africa: Relief, pride and the 'new normal'",
-        "link": "https://www.bbc.com/news/world-africa-54207503"
+        "title": "Does dip in cases, deaths mean Africa has seen the worst of Covid-19?",
+        "link": "https://www.scmp.com/news/china/science/article/3102146/coronavirus-africa-hopes-it-has-seen-worst-covid-19-case-numbers"
     },
     {
-        "title": "How the Unpredictable Coronavirus Pandemic Took a Terrible Toll",
-        "link": "https://www.nytimes.com/2020/09/20/us/coronavirus-us-update.html"
+        "title": "Australia's coronavirus lockdown strategy worked. Could this be a model for the US?",
+        "link": "https://www.cnn.com/2020/09/21/australia/australia-coronavirus-lockdown-intl-hnk/index.html"
     },
     {
         "title": "Two students test positive for COVID-19 at Greece Arcadia High School",
@@ -20,16 +20,12 @@
         "link": "https://www.theguardian.com/world/2020/sep/21/taj-mahal-reopens-as-coronavirus-cases-continue-to-rise-in-india"
     },
     {
-        "title": "Australia coronavirus cases 'set to be lowest in months'",
-        "link": "https://www.bbc.com/news/world-australia-54223977"
+        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
+        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/index.html"
-    },
-    {
-        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
-        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
+        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
@@ -38,5 +34,9 @@
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
+    },
+    {
+        "title": "Spain: More than 650000 COVID-19 cases so far; death toll crosses 30000 mark | COVID-19",
+        "link": "https://www.youtube.com/watch?v=RX0VHVb3YWM"
     }
 ]

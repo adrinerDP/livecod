@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7004990,
-        "deaths": 204118,
+        "confirmed": 7005628,
+        "deaths": 204119,
         "recovered": 4250421
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5487580,
-        "deaths": 87909,
+        "confirmed": 5491410,
+        "deaths": 87933,
         "recovered": 4396399
     },
     {
@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 422140,
-        "deaths": 24301,
-        "recovered": 359570
+        "confirmed": 425481,
+        "deaths": 24478,
+        "recovered": 361523
     },
     {
         "Name": "영국",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 273523,
-        "deaths": 9470,
+        "confirmed": 273793,
+        "deaths": 9471,
         "recovered": 244000
     },
     {
@@ -227,9 +227,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 123376,
-        "deaths": 210,
-        "recovered": 120303
+        "confirmed": 123604,
+        "deaths": 211,
+        "recovered": 120540
     },
     {
         "Name": "루마니아",
@@ -296,20 +296,20 @@
         "recovered": 90168
     },
     {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "confirmed": 94051,
+        "deaths": 853,
+        "recovered": 85781
+    },
+    {
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
         "confirmed": 93778,
         "deaths": 6279,
         "recovered": 0
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "confirmed": 93475,
-        "deaths": 846,
-        "recovered": 85418
     },
     {
         "Name": "스웨덴",
@@ -392,20 +392,20 @@
         "recovered": 56096
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 65276,
+        "deaths": 427,
+        "recovered": 47238
+    },
+    {
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 65039,
-        "deaths": 221,
+        "deaths": 223,
         "recovered": 57950
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 64122,
-        "deaths": 411,
-        "recovered": 46233
     },
     {
         "Name": "코스타리카",
