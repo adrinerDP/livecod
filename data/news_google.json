@@ -4,28 +4,32 @@
         "link": "https://www.scmp.com/news/china/science/article/3102146/coronavirus-africa-hopes-it-has-seen-worst-covid-19-case-numbers"
     },
     {
-        "title": "Australia's coronavirus lockdown strategy worked. Could this be a model for the US?",
-        "link": "https://www.cnn.com/2020/09/21/australia/australia-coronavirus-lockdown-intl-hnk/index.html"
+        "title": "More than half of states are reporting more new coronavirus cases as the US nears 200,000 deaths",
+        "link": "https://www.cnn.com/2020/09/21/health/us-coronavirus-monday/index.html"
     },
     {
         "title": "Two students test positive for COVID-19 at Greece Arcadia High School",
         "link": "https://13wham.com/news/local/two-students-test-positive-for-covid-19-at-greece-arcadia-high-school"
     },
     {
-        "title": "European stocks fall as bank allegations, coronavirus weigh on sentiment; banks down 6%",
-        "link": "https://www.cnbc.com/2020/09/21/european-markets-banks-coronavirus-news-weigh-on-sentiment.html"
+        "title": "More restrictions expected in Europe as coronavirus spreads rapidly and rattles markets",
+        "link": "https://www.cnbc.com/2020/09/21/europe-coronavirus-latest-more-restrictions-likely-in-the-coming-days.html"
     },
     {
         "title": "Taj Mahal reopens as coronavirus cases continue to rise in India",
         "link": "https://www.theguardian.com/world/2020/sep/21/taj-mahal-reopens-as-coronavirus-cases-continue-to-rise-in-india"
     },
     {
-        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
-        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
+        "title": "Australia's COVID-19 hotspot reports lowest daily rise in infections since June",
+        "link": "https://www.reuters.com/article/health-coronavirus-australia-state/australias-victoria-reports-steady-downward-trend-in-covid-19-cases-idINKCN26C09C"
     },
     {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-21-20-intl/h_fbb0c4e02abee6bb57ab8359ea643598"
+    },
+    {
+        "title": "Global report: US Covid deaths near 200,000 as UK 'heads in wrong direction'",
+        "link": "https://www.theguardian.com/world/2020/sep/21/global-report-us-covid-deaths-near-200000-as-uk-heads-in-wrong-direction"
     },
     {
         "title": "AstraZeneca Releases Blueprints for Virus Vaccine Trial Amid Safety Scrutiny",
@@ -34,9 +38,5 @@
     {
         "title": "Anti-lockdown protests demand cities reconsider resuming coronavirus restrictions",
         "link": "https://www.foxnews.com/world/coronavirus-lockdown-restrictions-london-germany-spain"
-    },
-    {
-        "title": "Spain: More than 650000 COVID-19 cases so far; death toll crosses 30000 mark | COVID-19",
-        "link": "https://www.youtube.com/watch?v=RX0VHVb3YWM"
     }
 ]
