@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7042569,204414,4294879
+미국,美国,United States,7043176,204445,4295456
 인도,印度,India,5560105,88965,4494720
-브라질,巴西,Brazil,4558068,137272,3887199
+브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1109595,19489,911973
 콜롬비아,哥伦比亚,Colombia,770435,24397,640900
 페루,秘鲁,Peru,768895,31369,615255
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,350621,4979,258717
 터키,土耳其,Turkey,304610,7574,268435
 이탈리아,义大利,Italy,299506,35724,218703
 필리핀,菲律宾,Philippines,290190,4999,230233
-독일,德国,Germany,275548,9481,244000
+독일,德国,Germany,275551,9481,246300
 인도네시아,印度尼西亚,Indonesia,248852,9677,180797
 이스라엘,以色列,Israel,190929,1273,136780
 Ukraine,,Ukraine,178353,3583,78184
-캐나다,加拿大,Canada,145052,9224,125539
+캐나다,加拿大,Canada,145418,9228,125539
 Bolivia,,Bolivia,130676,7617,89617
 에콰도르,厄瓜多尔,Ecuador,126711,11095,102852
 카타르,卡塔尔,Qatar,123604,211,120540
@@ -54,8 +54,8 @@ Venezuela,,Venezuela,66656,547,56096
 싱가포르,新加坡,Singapore,57606,27,57241
 나이지리아,尼日利亚,Nigeria,57437,1100,48674
 Uzbekistan,,Uzbekistan,52070,437,48369
+체코,捷克,Czechia,50764,522,25425
 스위스,瑞士,Switzerland,50378,2050,40500
-체코,捷克,Czechia,50071,521,25336
 알제리,阿尔及利亚,Algeria,50023,1679,35180
 아르메니아,亚美尼亚,Armenia,47552,936,42637
 Moldova,,Moldova,46796,1211,35018
@@ -119,11 +119,11 @@ Congo,,Congo,5002,89,3887
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
-Suriname,,Suriname,4723,97,4488
+Suriname,,Suriname,4740,97,4525
 Rwanda,,Rwanda,4722,27,2973
 슬로베니아,斯洛文尼亚,Slovenia,4470,142,3048
 Angola,,Angola,4117,154,1449
-Trinidad and Tobago,,Trinidad and Tobago,3930,65,1802
+Trinidad and Tobago,,Trinidad and Tobago,3945,65,1802
 Syria,,Syria,3833,175,963
 Lithuania,,Lithuania,3814,87,2199
 조지아,格鲁吉亚,Georgia,3695,20,1534
@@ -141,10 +141,10 @@ Mali,,Mali,3013,128,2372
 Malta,,Malta,2776,23,2079
 South Sudan,,South Sudan,2649,49,1290
 Botswana,,Botswana,2567,13,624
+Guyana,,Guyana,2402,65,1359
 Iceland,,Iceland,2377,10,2125
 Guinea-Bissau,,Guinea-Bissau,2303,39,1127
 Benin,,Benin,2294,40,1954
-Guyana,,Guyana,2269,64,1339
 Sierra Leone,,Sierra Leone,2168,72,1650
 Yemen,,Yemen,2028,586,1235
 Uruguay,,Uruguay,1927,46,1634

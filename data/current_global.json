@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7042569,
-        "deaths": 204414,
-        "recovered": 4294879
+        "confirmed": 7043176,
+        "deaths": 204445,
+        "recovered": 4295456
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4558068,
-        "deaths": 137272,
+        "confirmed": 4560083,
+        "deaths": 137350,
         "recovered": 3887199
     },
     {
@@ -171,9 +171,9 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 275548,
+        "confirmed": 275551,
         "deaths": 9481,
-        "recovered": 244000
+        "recovered": 246300
     },
     {
         "Name": "인도네시아",
@@ -203,8 +203,8 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 145052,
-        "deaths": 9224,
+        "confirmed": 145418,
+        "deaths": 9228,
         "recovered": 125539
     },
     {
@@ -440,20 +440,20 @@
         "recovered": 48369
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 50764,
+        "deaths": 522,
+        "recovered": 25425
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 50378,
         "deaths": 2050,
         "recovered": 40500
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 50071,
-        "deaths": 521,
-        "recovered": 25336
     },
     {
         "Name": "알제리",
@@ -963,9 +963,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4723,
+        "confirmed": 4740,
         "deaths": 97,
-        "recovered": 4488
+        "recovered": 4525
     },
     {
         "Name": "Rwanda",
@@ -995,7 +995,7 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3930,
+        "confirmed": 3945,
         "deaths": 65,
         "recovered": 1802
     },
@@ -1136,6 +1136,14 @@
         "recovered": 624
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 2402,
+        "deaths": 65,
+        "recovered": 1359
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
@@ -1158,14 +1166,6 @@
         "confirmed": 2294,
         "deaths": 40,
         "recovered": 1954
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 2269,
-        "deaths": 64,
-        "recovered": 1339
     },
     {
         "Name": "Sierra Leone",
