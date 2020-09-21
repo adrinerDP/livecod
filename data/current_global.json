@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7005759,
+        "confirmed": 7005893,
         "deaths": 204126,
         "recovered": 4250497
     },
@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5491410,
-        "deaths": 87933,
-        "recovered": 4396399
+        "confirmed": 5501869,
+        "deaths": 88008,
+        "recovered": 4410452
     },
     {
         "Name": "브라질",
@@ -123,17 +123,17 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 329754,
-        "deaths": 4485,
-        "recovered": 310439
+        "confirmed": 330246,
+        "deaths": 4512,
+        "recovered": 311499
     },
     {
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 319035,
-        "deaths": 8555,
-        "recovered": 253591
+        "confirmed": 322856,
+        "deaths": 8625,
+        "recovered": 258075
     },
     {
         "Name": "파키스탄",
@@ -368,20 +368,20 @@
         "recovered": 22065
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 69200,
+        "deaths": 1920,
+        "recovered": 45736
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 68820,
         "deaths": 1096,
         "recovered": 28314
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 68577,
-        "deaths": 1912,
-        "recovered": 45596
     },
     {
         "Name": "Venezuela",
@@ -477,7 +477,7 @@
         "Name_en": "Moldova",
         "confirmed": 46596,
         "deaths": 1203,
-        "recovered": 34236
+        "recovered": 34636
     },
     {
         "Name": "Ghana",
@@ -544,20 +544,20 @@
         "recovered": 18117
     },
     {
+        "Name": "세르비아",
+        "Name_ch": "塞尔维亚",
+        "Name_en": "Serbia",
+        "confirmed": 32938,
+        "deaths": 743,
+        "recovered": 31536
+    },
+    {
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
         "confirmed": 32933,
         "deaths": 1792,
         "recovered": 23364
-    },
-    {
-        "Name": "세르비아",
-        "Name_ch": "塞尔维亚",
-        "Name_en": "Serbia",
-        "confirmed": 32908,
-        "deaths": 741,
-        "recovered": 31411
     },
     {
         "Name": "레바논",
@@ -720,20 +720,20 @@
         "recovered": 2386
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 10526,
+        "deaths": 113,
+        "recovered": 8112
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
         "confirmed": 10519,
         "deaths": 271,
         "recovered": 9952
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 10377,
-        "deaths": 112,
-        "recovered": 8033
     },
     {
         "Name": "Guinea",
@@ -771,16 +771,16 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9346,
+        "confirmed": 9388,
         "deaths": 73,
-        "recovered": 8108
+        "recovered": 8152
     },
     {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 9046,
-        "deaths": 339,
+        "deaths": 341,
         "recovered": 7700
     },
     {
@@ -795,9 +795,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8619,
+        "confirmed": 8624,
         "deaths": 221,
-        "recovered": 6363
+        "recovered": 6482
     },
     {
         "Name": "Montenegro",
@@ -1075,7 +1075,7 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 3315,
+        "confirmed": 3370,
         "deaths": 74,
         "recovered": 1689
     },
@@ -1229,7 +1229,7 @@
         "Name_en": "Cyprus",
         "confirmed": 1600,
         "deaths": 22,
-        "recovered": 1282
+        "recovered": 1369
     },
     {
         "Name": "안도라",
