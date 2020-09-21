@@ -197,7 +197,7 @@
         "Name_en": "Ukraine",
         "confirmed": 178353,
         "deaths": 3583,
-        "recovered": 77512
+        "recovered": 78184
     },
     {
         "Name": "캐나다",
@@ -339,9 +339,9 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 79240,
-        "deaths": 2293,
-        "recovered": 64302
+        "confirmed": 79988,
+        "deaths": 2298,
+        "recovered": 64604
     },
     {
         "Name": "일본",
@@ -779,7 +779,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 8980,
+        "confirmed": 9046,
         "deaths": 339,
         "recovered": 7700
     },
@@ -907,9 +907,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5033,
+        "confirmed": 5039,
         "deaths": 103,
-        "recovered": 4708
+        "recovered": 4717
     },
     {
         "Name": "Equatorial Guinea",
