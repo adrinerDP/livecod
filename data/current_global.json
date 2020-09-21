@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7005893,
-        "deaths": 204126,
-        "recovered": 4250497
+        "confirmed": 7008155,
+        "deaths": 204141,
+        "recovered": 4251634
     },
     {
         "Name": "인도",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 16735,
-        "deaths": 693,
-        "recovered": 13863
+        "confirmed": 16780,
+        "deaths": 700,
+        "recovered": 13949
     },
     {
         "Name": "Madagascar",
