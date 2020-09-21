@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5501869,
-        "deaths": 88008,
-        "recovered": 4410452
+        "confirmed": 5517596,
+        "deaths": 88231,
+        "recovered": 4428913
     },
     {
         "Name": "브라질",
@@ -475,9 +475,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 46596,
-        "deaths": 1203,
-        "recovered": 34636
+        "confirmed": 46796,
+        "deaths": 1211,
+        "recovered": 35018
     },
     {
         "Name": "Ghana",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 12897,
+        "confirmed": 12954,
         "deaths": 267,
         "recovered": 10371
     },
@@ -899,9 +899,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 5091,
-        "deaths": 115,
-        "recovered": 4412
+        "confirmed": 5141,
+        "deaths": 116,
+        "recovered": 4462
     },
     {
         "Name": "홍콩",
@@ -1059,7 +1059,7 @@
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "confirmed": 3442,
+        "confirmed": 3465,
         "deaths": 98,
         "recovered": 2877
     },
@@ -1083,7 +1083,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3287,
+        "confirmed": 3290,
         "deaths": 13,
         "recovered": 3100
     },
@@ -1139,9 +1139,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2346,
+        "confirmed": 2377,
         "deaths": 10,
-        "recovered": 2121
+        "recovered": 2125
     },
     {
         "Name": "Guinea-Bissau",
@@ -1259,9 +1259,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1335,
+        "confirmed": 1336,
         "deaths": 82,
-        "recovered": 1216
+        "recovered": 1218
     },
     {
         "Name": "French Polynesia",
