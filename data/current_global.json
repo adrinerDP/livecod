@@ -195,8 +195,8 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 175678,
-        "deaths": 3557,
+        "confirmed": 178353,
+        "deaths": 3583,
         "recovered": 77512
     },
     {
@@ -1371,7 +1371,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 507,
+        "confirmed": 509,
         "deaths": 7,
         "recovered": 479
     },
