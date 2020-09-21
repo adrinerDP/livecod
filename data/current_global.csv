@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7000896,204115,4247969
+미국,美国,United States,7000896,204115,4248277
 인도,印度,India,5485612,87909,4392650
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,348918,4939,256565
 터키,土耳其,Turkey,302867,7506,267233
 이탈리아,义大利,Italy,298156,35707,218351
 필리핀,菲律宾,Philippines,286743,4984,229865
-독일,德国,Germany,273477,9470,243500
+독일,德国,Germany,273477,9470,244000
 인도네시아,印度尼西亚,Indonesia,244676,9553,177327
 이스라엘,以色列,Israel,187902,1256,134069
 Ukraine,,Ukraine,175678,3557,77512
-캐나다,加拿大,Canada,143631,9217,124689
+캐나다,加拿大,Canada,143651,9217,124691
 Bolivia,,Bolivia,130470,7586,89032
 에콰도르,厄瓜多尔,Ecuador,126419,11090,102852
 카타르,卡塔尔,Qatar,123376,210,120303
@@ -99,9 +99,9 @@ Tajikistan,,Tajikistan,9346,73,8108
 핀란드,芬兰,Finland,8980,339,7700
 Gabon,,Gabon,8696,53,7848
 Haiti,,Haiti,8619,221,6363
+Montenegro,,Montenegro,8612,136,5268
 룩셈부르크,卢森堡,Luxembourg,7907,124,6703
-Montenegro,,Montenegro,7898,134,5129
-Zimbabwe,,Zimbabwe,7672,225,5914
+Zimbabwe,,Zimbabwe,7683,225,5924
 Mauritania,,Mauritania,7368,161,6951
 Mozambique,,Mozambique,6771,43,3622
 슬로바키아,斯洛伐克,Slovakia,6677,39,3548
@@ -109,8 +109,8 @@ Uganda,,Uganda,6287,63,2616
 Malawi,,Malawi,5731,179,4040
 Myanmar,,Myanmar,5541,92,1260
 Djibouti,,Djibouti,5403,61,5333
-Eswatini,,Eswatini,5245,104,4571
-Cabo Verde,,Cabo Verde,5186,50,4581
+Eswatini,,Eswatini,5269,104,4624
+Cabo Verde,,Cabo Verde,5257,51,4599
 Cuba,,Cuba,5091,115,4412
 홍콩,香港,Hong Kong,5033,103,4708
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
@@ -119,10 +119,10 @@ Congo,,Congo,4986,89,3887
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
 요르단,约旦,Jordan,4779,30,2844
+Suriname,,Suriname,4723,97,4488
 Rwanda,,Rwanda,4711,26,2961
-Suriname,,Suriname,4709,97,4383
 슬로베니아,斯洛文尼亚,Slovenia,4420,142,3023
-Angola,,Angola,3901,147,1445
+Angola,,Angola,3991,152,1445
 Trinidad and Tobago,,Trinidad and Tobago,3866,64,1753
 Syria,,Syria,3800,172,946
 Lithuania,,Lithuania,3744,87,2198
@@ -144,15 +144,15 @@ Botswana,,Botswana,2567,13,624
 Iceland,,Iceland,2346,10,2121
 Guinea-Bissau,,Guinea-Bissau,2303,39,1127
 Benin,,Benin,2280,40,1950
+Guyana,,Guyana,2269,64,1339
 Sierra Leone,,Sierra Leone,2168,72,1650
-Guyana,,Guyana,2168,64,1331
 Yemen,,Yemen,2026,586,1227
 Uruguay,,Uruguay,1917,46,1621
-Burkina Faso,,Burkina Faso,1816,56,1176
+Burkina Faso,,Burkina Faso,1846,56,1187
 New Zealand,,New Zealand,1815,25,1719
 토고,多哥,Togo,1666,41,1269
 Belize,,Belize,1606,20,876
-Cyprus,,Cyprus,1590,22,1282
+Cyprus,,Cyprus,1600,22,1282
 안도라,安道尔,Andorra,1564,53,1164
 라트비아,约旦,Latvia,1525,36,1248
 Lesotho,,Lesotho,1390,33,754
