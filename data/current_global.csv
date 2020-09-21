@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7011230,204165,4251943
+미국,美国,United States,7011463,204167,4261777
 인도,印度,India,5517601,88231,4432630
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1109595,19489,911973
@@ -12,7 +12,7 @@ Argentina,,Argentina,631365,13053,488231
 프랑스,法国,France,452763,31285,91574
 칠레,智利,Chile,447468,12298,421111
 이란,伊朗,Iran,425481,24478,361523
-영국,英国,UK,394257,41777,0
+영국,英国,UK,398625,41788,0
 Bangladesh,,Bangladesh,350621,4979,258717
 사우디아라비아,沙特阿拉伯,Saudi Arabia,330246,4512,311499
 이라크,伊拉克,Iraq,322856,8625,258075
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,350621,4979,258717
 터키,土耳其,Turkey,302867,7506,267233
 이탈리아,义大利,Italy,299506,35724,218703
 필리핀,菲律宾,Philippines,290190,4999,230233
-독일,德国,Germany,274013,9474,244000
+독일,德国,Germany,274717,9476,244000
 인도네시아,印度尼西亚,Indonesia,248852,9677,180797
 이스라엘,以色列,Israel,188760,1260,135997
 Ukraine,,Ukraine,178353,3583,78184
-캐나다,加拿大,Canada,143649,9217,124691
+캐나다,加拿大,Canada,144076,9219,124869
 Bolivia,,Bolivia,130676,7617,89617
 에콰도르,厄瓜多尔,Ecuador,126419,11090,102852
 카타르,卡塔尔,Qatar,123604,211,120540
@@ -39,8 +39,8 @@ Panama,,Panama,106203,2257,81365
 네덜란드,荷兰,Netherlands,95995,6281,0
 오만,阿曼,Oman,94051,853,85781
 스웨덴,瑞典语,Sweden,88237,5865,0
+Guatemala,,Guatemala,85681,3124,75172
 아랍에미리트,阿拉伯联合酋长国,UAE,85595,405,75086
-Guatemala,,Guatemala,85444,3119,74859
 폴란드,波兰,Poland,79988,2298,64604
 일본,日本,Japan,78657,1500,71030
 벨라루스,白俄罗斯,Belarus,75898,785,73301
@@ -87,26 +87,26 @@ Madagascar,,Madagascar,16073,225,14682
 Zambia,,Zambia,14175,330,13365
 Sudan,,Sudan,13555,836,6760
 노르웨이,挪威,Norway,12954,267,10371
-Albania,,Albania,12385,362,6940
+Albania,,Albania,12535,364,6995
 Tunisia,,Tunisia,10732,159,2386
 Namibia,,Namibia,10526,113,8112
 DRC,,DRC,10519,271,9952
 Guinea,,Guinea,10325,64,9692
 말레이시아,马来西亚,Malaysia,10276,130,9395
 Maldives,,Maldives,9724,33,8261
-French Guiana,,French Guiana,9692,65,9341
+French Guiana,,French Guiana,9712,65,9373
 Tajikistan,,Tajikistan,9388,73,8152
 핀란드,芬兰,Finland,9046,341,7700
+Montenegro,,Montenegro,8842,138,5425
 Gabon,,Gabon,8696,53,7848
 Haiti,,Haiti,8624,221,6482
-Montenegro,,Montenegro,8612,136,5268
 룩셈부르크,卢森堡,Luxembourg,7907,124,6703
 Zimbabwe,,Zimbabwe,7683,225,5924
 Mauritania,,Mauritania,7368,161,6951
 Mozambique,,Mozambique,6771,43,3622
 슬로바키아,斯洛伐克,Slovakia,6756,39,3571
 Uganda,,Uganda,6468,63,2731
-Myanmar,,Myanmar,5805,94,1260
+Myanmar,,Myanmar,6151,98,1445
 Malawi,,Malawi,5731,179,4040
 Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5269,104,4624
