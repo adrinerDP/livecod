@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 694121,
-        "deaths": 73258,
-        "recovered": 496224
+        "confirmed": 697663,
+        "deaths": 73493,
+        "recovered": 499302
     },
     {
         "Name": "남아프리카 공화국",
@@ -203,7 +203,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 143651,
+        "confirmed": 143649,
         "deaths": 9217,
         "recovered": 124691
     },
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 130470,
-        "deaths": 7586,
-        "recovered": 89032
+        "confirmed": 130676,
+        "deaths": 7617,
+        "recovered": 89617
     },
     {
         "Name": "에콰도르",
@@ -1483,17 +1483,17 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 192,
+        "confirmed": 193,
         "deaths": 1,
-        "recovered": 152
+        "recovered": 153
     },
     {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 185,
+        "confirmed": 189,
         "deaths": 7,
-        "recovered": 172
+        "recovered": 173
     },
     {
         "Name": "Bermuda",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85279,
+        "confirmed": 85291,
         "deaths": 4634,
-        "recovered": 80477
+        "recovered": 80484
     }
 ]
