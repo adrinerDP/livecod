@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7005686,
-        "deaths": 204122,
+        "confirmed": 7005759,
+        "deaths": 204126,
         "recovered": 4250497
     },
     {
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 99434,
-        "deaths": 584,
-        "recovered": 90168
+        "confirmed": 99964,
+        "deaths": 585,
+        "recovered": 90930
     },
     {
         "Name": "네덜란드",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 75674,
-        "deaths": 780,
-        "recovered": 73265
+        "confirmed": 75898,
+        "deaths": 785,
+        "recovered": 73301
     },
     {
         "Name": "Honduras",
@@ -444,7 +444,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 50378,
-        "deaths": 2049,
+        "deaths": 2050,
         "recovered": 40500
     },
     {
@@ -683,7 +683,7 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14131,
+        "confirmed": 14175,
         "deaths": 330,
         "recovered": 13365
     },
@@ -1301,7 +1301,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1068,
         "deaths": 35,
-        "recovered": 942
+        "recovered": 947
     },
     {
         "Name": "Sao Tome and Principe",
