@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7008155,204141,4251634
-인도,印度,India,5517596,88231,4428913
+미국,美国,United States,7011230,204165,4251943
+인도,印度,India,5517601,88231,4432630
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1109595,19489,911973
 페루,秘鲁,Peru,768895,31369,615255
@@ -10,7 +10,7 @@
 스페인,西班牙,Spain,659334,30495,0
 Argentina,,Argentina,631365,13053,488231
 프랑스,法国,France,452763,31285,91574
-칠레,智利,Chile,446274,12286,419746
+칠레,智利,Chile,447468,12298,421111
 이란,伊朗,Iran,425481,24478,361523
 영국,英国,UK,394257,41777,0
 Bangladesh,,Bangladesh,350621,4979,258717
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,350621,4979,258717
 이라크,伊拉克,Iraq,322856,8625,258075
 파키스탄,巴基斯坦,Pakistan,306304,6420,292869
 터키,土耳其,Turkey,302867,7506,267233
-이탈리아,义大利,Italy,298156,35707,218351
+이탈리아,义大利,Italy,299506,35724,218703
 필리핀,菲律宾,Philippines,290190,4999,230233
 독일,德国,Germany,274013,9474,244000
 인도네시아,印度尼西亚,Indonesia,248852,9677,180797
@@ -29,7 +29,7 @@ Bolivia,,Bolivia,130676,7617,89617
 에콰도르,厄瓜多尔,Ecuador,126419,11090,102852
 카타르,卡塔尔,Qatar,123604,211,120540
 루마니아,尼亚,Romania,113589,4458,90649
-도미니카 공화국,多明尼加共和国,Dominican Republic,108289,2047,81668
+도미니카 공화국,多明尼加共和国,Dominican Republic,108783,2054,82274
 Kazakhstan,,Kazakhstan,107307,1671,101941
 Panama,,Panama,106203,2257,81365
 벨기에,比利时,Belgium,102295,9948,18965
@@ -61,7 +61,7 @@ Uzbekistan,,Uzbekistan,52070,437,48369
 Moldova,,Moldova,46796,1211,35018
 Ghana,,Ghana,46004,297,45153
 Kyrgyzstan,,Kyrgyzstan,45471,1063,41682
-아제르바이잔,阿塞拜疆,Azerbaijan,39188,575,36755
+아제르바이잔,阿塞拜疆,Azerbaijan,39280,576,36836
 아프가니스탄,阿富汗,Afghanistan,39074,1444,32576
 오스트리아,奥地利,Austria,38658,767,29516
 Kenya,,Kenya,36981,648,23887
@@ -108,13 +108,13 @@ Mozambique,,Mozambique,6771,43,3622
 Uganda,,Uganda,6468,63,2731
 Myanmar,,Myanmar,5805,94,1260
 Malawi,,Malawi,5731,179,4040
-Djibouti,,Djibouti,5403,61,5335
+Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5269,104,4624
 Cabo Verde,,Cabo Verde,5257,51,4599
+Jamaica,,Jamaica,5143,70,1407
 Cuba,,Cuba,5141,116,4462
 홍콩,香港,Hong Kong,5039,103,4717
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
-Jamaica,,Jamaica,4988,67,1350
 Congo,,Congo,4986,89,3887
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
@@ -152,7 +152,7 @@ Burkina Faso,,Burkina Faso,1846,56,1187
 New Zealand,,New Zealand,1815,25,1728
 토고,多哥,Togo,1666,41,1269
 Belize,,Belize,1627,21,918
-Cyprus,,Cyprus,1600,22,1369
+Cyprus,,Cyprus,1603,22,1369
 안도라,安道尔,Andorra,1564,53,1164
 라트비아,约旦,Latvia,1526,36,1248
 Lesotho,,Lesotho,1424,33,754
