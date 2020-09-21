@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 273477,
+        "confirmed": 273523,
         "deaths": 9470,
         "recovered": 244000
     },
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 244676,
-        "deaths": 9553,
-        "recovered": 177327
+        "confirmed": 248852,
+        "deaths": 9677,
+        "recovered": 180797
     },
     {
         "Name": "이스라엘",
@@ -979,9 +979,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 4420,
+        "confirmed": 4470,
         "deaths": 142,
-        "recovered": 3023
+        "recovered": 3048
     },
     {
         "Name": "Angola",
