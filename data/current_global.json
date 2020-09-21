@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7012790,
-        "deaths": 204202,
-        "recovered": 4261894
+        "confirmed": 7014816,
+        "deaths": 204208,
+        "recovered": 4269562
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4544629,
-        "deaths": 136895,
+        "confirmed": 4547150,
+        "deaths": 136997,
         "recovered": 3851227
     },
     {
@@ -448,20 +448,20 @@
         "recovered": 40500
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 50071,
+        "deaths": 521,
+        "recovered": 25336
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 49826,
         "deaths": 1672,
         "recovered": 35047
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 49290,
-        "deaths": 503,
-        "recovered": 24755
     },
     {
         "Name": "아르메니아",
@@ -659,8 +659,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 15142,
-        "deaths": 338,
+        "confirmed": 15595,
+        "deaths": 344,
         "recovered": 9989
     },
     {
@@ -835,9 +835,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 6771,
-        "deaths": 43,
-        "recovered": 3622
+        "confirmed": 6912,
+        "deaths": 44,
+        "recovered": 3738
     },
     {
         "Name": "슬로바키아",
@@ -1072,6 +1072,14 @@
         "recovered": 837
     },
     {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 3415,
+        "deaths": 15,
+        "recovered": 2482
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1086,14 +1094,6 @@
         "confirmed": 3298,
         "deaths": 13,
         "recovered": 3100
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 3194,
-        "deaths": 15,
-        "recovered": 2482
     },
     {
         "Name": "Mali",
@@ -1448,20 +1448,20 @@
         "recovered": 302
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 282,
+        "deaths": 1,
+        "recovered": 102
+    },
+    {
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
         "confirmed": 275,
         "deaths": 0,
         "recovered": 274
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 268,
-        "deaths": 1,
-        "recovered": 96
     },
     {
         "Name": "부탄",

@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7012790,204202,4261894
+미국,美国,United States,7014816,204208,4269562
 인도,印度,India,5523917,88345,4440775
-브라질,巴西,Brazil,4544629,136895,3851227
+브라질,巴西,Brazil,4547150,136997,3851227
 러시아,俄罗斯,Russia,1109595,19489,911973
 페루,秘鲁,Peru,768895,31369,615255
 콜롬비아,哥伦比亚,Colombia,765076,24208,633199
@@ -55,8 +55,8 @@ Venezuela,,Venezuela,66656,547,56096
 나이지리아,尼日利亚,Nigeria,57242,1098,48569
 Uzbekistan,,Uzbekistan,52070,437,48369
 스위스,瑞士,Switzerland,50378,2050,40500
+체코,捷克,Czechia,50071,521,25336
 알제리,阿尔及利亚,Algeria,49826,1672,35047
-체코,捷克,Czechia,49290,503,24755
 아르메니아,亚美尼亚,Armenia,47552,936,42637
 Moldova,,Moldova,46796,1211,35018
 Ghana,,Ghana,46004,297,45153
@@ -81,7 +81,7 @@ Ivory Coast,,Ivory Coast,19320,120,18460
 Bulgaria,,Bulgaria,18863,761,13580
 North Macedonia,,North Macedonia,16780,700,13949
 Madagascar,,Madagascar,16073,225,14682
-그리스,希腊,Greece,15142,338,9989
+그리스,希腊,Greece,15595,344,9989
 크로아티아,克罗地亚,Croatia,14992,253,12737
 세네갈,塞内加尔,Senegal,14738,302,11458
 Zambia,,Zambia,14175,330,13365
@@ -103,7 +103,7 @@ Haiti,,Haiti,8624,221,6482
 룩셈부르크,卢森堡,Luxembourg,7916,124,6839
 Zimbabwe,,Zimbabwe,7683,225,5924
 Mauritania,,Mauritania,7368,161,6951
-Mozambique,,Mozambique,6771,43,3622
+Mozambique,,Mozambique,6912,44,3738
 슬로바키아,斯洛伐克,Slovakia,6756,39,3571
 Uganda,,Uganda,6468,63,2731
 Myanmar,,Myanmar,6151,98,1445
@@ -133,9 +133,9 @@ Gambia,,Gambia,3526,108,1992
 태국,泰国,Thailand,3506,59,3342
 Somalia,,Somalia,3465,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837
+Réunion,,Réunion,3415,15,2482
 Bahamas,,Bahamas,3370,74,1689
 스리랑카,斯里兰卡,Sri Lanka,3298,13,3100
-Réunion,,Réunion,3194,15,2482
 Mali,,Mali,3013,128,2372
 에스토니아,爱沙尼亚,Estonia,2941,64,2379
 Malta,,Malta,2776,22,2079
@@ -180,8 +180,8 @@ Eritrea,,Eritrea,364,0,305
 Isle of Man,,Isle of Man,340,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,312,0,302
+Curaçao,,Curaçao,282,1,102
 캄보디아,柬埔寨,Cambodia,275,0,274
-Curaçao,,Curaçao,268,1,96
 부탄,不丹,Bhutan,261,0,192
 Cayman Islands,,Cayman Islands,208,1,204
 모나코,摩纳哥,Monaco,193,1,153
