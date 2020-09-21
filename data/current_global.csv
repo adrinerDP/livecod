@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7021740,204262,4273447
+미국,美国,United States,7025605,204295,4282651
 인도,印度,India,5557573,88943,4492145
 브라질,巴西,Brazil,4547150,136997,3851227
 러시아,俄罗斯,Russia,1109595,19489,911973
@@ -9,7 +9,7 @@
 스페인,西班牙,Spain,671468,30663,0
 남아프리카 공화국,南非共和国,South Africa,661211,15953,590071
 Argentina,,Argentina,631365,13053,488231
-프랑스,法国,France,458061,31338,91574
+프랑스,法国,France,458061,31338,93008
 칠레,智利,Chile,447468,12298,421111
 이란,伊朗,Iran,425481,24478,361523
 영국,英国,UK,398625,41788,0
@@ -113,19 +113,19 @@ Eswatini,,Eswatini,5269,104,4624
 Cabo Verde,,Cabo Verde,5257,51,4599
 Jamaica,,Jamaica,5143,70,1407
 Cuba,,Cuba,5141,116,4462
+요르단,约旦,Jordan,5045,32,3527
 홍콩,香港,Hong Kong,5039,103,4717
 Congo,,Congo,5002,89,3887
 Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
-요르단,约旦,Jordan,4779,30,2844
 Suriname,,Suriname,4723,97,4488
 Rwanda,,Rwanda,4711,26,2961
 슬로베니아,斯洛文尼亚,Slovenia,4470,142,3048
 Angola,,Angola,3991,152,1445
 Trinidad and Tobago,,Trinidad and Tobago,3930,65,1802
+Syria,,Syria,3833,175,963
 Lithuania,,Lithuania,3814,87,2199
-Syria,,Syria,3800,172,946
 조지아,格鲁吉亚,Georgia,3695,20,1534
 Aruba,,Aruba,3551,23,2239
 Mayotte,,Mayotte,3541,40,2964
@@ -146,7 +146,7 @@ Guinea-Bissau,,Guinea-Bissau,2303,39,1127
 Benin,,Benin,2294,40,1954
 Guyana,,Guyana,2269,64,1339
 Sierra Leone,,Sierra Leone,2168,72,1650
-Yemen,,Yemen,2026,586,1227
+Yemen,,Yemen,2028,586,1235
 Uruguay,,Uruguay,1917,46,1621
 Burkina Faso,,Burkina Faso,1846,56,1187
 New Zealand,,New Zealand,1815,25,1728
