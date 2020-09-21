@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7004768,204118,4250140
-인도,印度,India,5485612,87909,4392650
+인도,印度,India,5487580,87909,4396399
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1103399,19418,909357
+페루,秘鲁,Peru,768895,31369,615255
 콜롬비아,哥伦比亚,Colombia,765076,24208,633199
-페루,秘鲁,Peru,762865,31369,607837
 멕시코,墨西哥,Mexico,697663,73493,499302
 남아프리카 공화국,南非共和国,South Africa,661211,15953,590071
 스페인,西班牙,Spain,659334,30495,0
@@ -60,7 +60,7 @@ Uzbekistan,,Uzbekistan,51640,433,47932
 아르메니아,亚美尼亚,Armenia,47431,930,42608
 Moldova,,Moldova,46596,1203,34236
 Ghana,,Ghana,46004,297,45153
-Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
+Kyrgyzstan,,Kyrgyzstan,45416,1063,41578
 아제르바이잔,阿塞拜疆,Azerbaijan,39188,575,36755
 아프가니스탄,阿富汗,Afghanistan,39044,1441,32576
 오스트리아,奥地利,Austria,38095,766,29229
@@ -129,7 +129,7 @@ Lithuania,,Lithuania,3744,87,2198
 Aruba,,Aruba,3551,23,2239
 Mayotte,,Mayotte,3541,40,2964
 Gambia,,Gambia,3526,108,1992
-태국,泰国,Thailand,3506,59,3340
+태국,泰国,Thailand,3506,59,3342
 조지아,格鲁吉亚,Georgia,3502,19,1494
 Somalia,,Somalia,3442,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837

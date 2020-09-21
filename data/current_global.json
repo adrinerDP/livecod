@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5485612,
+        "confirmed": 5487580,
         "deaths": 87909,
-        "recovered": 4392650
+        "recovered": 4396399
     },
     {
         "Name": "브라질",
@@ -32,20 +32,20 @@
         "recovered": 909357
     },
     {
+        "Name": "페루",
+        "Name_ch": "秘鲁",
+        "Name_en": "Peru",
+        "confirmed": 768895,
+        "deaths": 31369,
+        "recovered": 615255
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "confirmed": 765076,
         "deaths": 24208,
         "recovered": 633199
-    },
-    {
-        "Name": "페루",
-        "Name_ch": "秘鲁",
-        "Name_en": "Peru",
-        "confirmed": 762865,
-        "deaths": 31369,
-        "recovered": 607837
     },
     {
         "Name": "멕시코",
@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 45335,
+        "confirmed": 45416,
         "deaths": 1063,
-        "recovered": 41484
+        "recovered": 41578
     },
     {
         "Name": "아제르바이잔",
@@ -1045,7 +1045,7 @@
         "Name_en": "Thailand",
         "confirmed": 3506,
         "deaths": 59,
-        "recovered": 3340
+        "recovered": 3342
     },
     {
         "Name": "조지아",
