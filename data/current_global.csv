@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7041503,204396,4294561
+미국,美国,United States,7042569,204414,4294879
 인도,印度,India,5560105,88965,4494720
-브라질,巴西,Brazil,4558068,137272,3851227
+브라질,巴西,Brazil,4558068,137272,3887199
 러시아,俄罗斯,Russia,1109595,19489,911973
 콜롬비아,哥伦比亚,Colombia,770435,24397,640900
 페루,秘鲁,Peru,768895,31369,615255
@@ -31,7 +31,7 @@ Bolivia,,Bolivia,130676,7617,89617
 루마니아,尼亚,Romania,113589,4458,90649
 도미니카 공화국,多明尼加共和国,Dominican Republic,108783,2054,82274
 Kazakhstan,,Kazakhstan,107307,1671,101941
-Panama,,Panama,106203,2257,81365
+Panama,,Panama,106810,2272,82320
 모로코,摩洛哥,Morocco,103119,1855,84158
 벨기에,比利时,Belgium,102295,9948,18965
 이집트,埃及,Egypt,102141,5787,90332
@@ -122,7 +122,7 @@ CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4723,97,4488
 Rwanda,,Rwanda,4722,27,2973
 슬로베니아,斯洛文尼亚,Slovenia,4470,142,3048
-Angola,,Angola,3991,152,1445
+Angola,,Angola,4117,154,1449
 Trinidad and Tobago,,Trinidad and Tobago,3930,65,1802
 Syria,,Syria,3833,175,963
 Lithuania,,Lithuania,3814,87,2199
@@ -147,7 +147,7 @@ Benin,,Benin,2294,40,1954
 Guyana,,Guyana,2269,64,1339
 Sierra Leone,,Sierra Leone,2168,72,1650
 Yemen,,Yemen,2028,586,1235
-Uruguay,,Uruguay,1917,46,1621
+Uruguay,,Uruguay,1927,46,1634
 Burkina Faso,,Burkina Faso,1896,56,1189
 New Zealand,,New Zealand,1815,25,1728
 안도라,安道尔,Andorra,1681,53,1199
@@ -162,7 +162,7 @@ Niger,,Niger,1189,69,1104
 Chad,,Chad,1153,81,967
 Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,947
-Sao Tome and Principe,,Sao Tome and Principe,908,15,878
+Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 산마리노,圣马力诺,San Marino,723,42,669
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,668,5,572

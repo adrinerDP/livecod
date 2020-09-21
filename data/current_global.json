@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7041503,
-        "deaths": 204396,
-        "recovered": 4294561
+        "confirmed": 7042569,
+        "deaths": 204414,
+        "recovered": 4294879
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4558068,
         "deaths": 137272,
-        "recovered": 3851227
+        "recovered": 3887199
     },
     {
         "Name": "러시아",
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 106203,
-        "deaths": 2257,
-        "recovered": 81365
+        "confirmed": 106810,
+        "deaths": 2272,
+        "recovered": 82320
     },
     {
         "Name": "모로코",
@@ -987,9 +987,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 3991,
-        "deaths": 152,
-        "recovered": 1445
+        "confirmed": 4117,
+        "deaths": 154,
+        "recovered": 1449
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1917,
+        "confirmed": 1927,
         "deaths": 46,
-        "recovered": 1621
+        "recovered": 1634
     },
     {
         "Name": "Burkina Faso",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 908,
         "deaths": 15,
-        "recovered": 878
+        "recovered": 880
     },
     {
         "Name": "산마리노",
