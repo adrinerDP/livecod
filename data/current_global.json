@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 45416,
+        "confirmed": 45471,
         "deaths": 1063,
-        "recovered": 41578
+        "recovered": 41682
     },
     {
         "Name": "아제르바이잔",
@@ -507,8 +507,8 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39044,
-        "deaths": 1441,
+        "confirmed": 39074,
+        "deaths": 1444,
         "recovered": 32576
     },
     {
