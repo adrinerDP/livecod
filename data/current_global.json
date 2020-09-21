@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 112781,
-        "deaths": 4435,
-        "recovered": 89771
+        "confirmed": 113589,
+        "deaths": 4458,
+        "recovered": 90649
     },
     {
         "Name": "도미니카 공화국",
@@ -320,20 +320,20 @@
         "recovered": 0
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 85595,
+        "deaths": 405,
+        "recovered": 75086
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "confirmed": 85444,
         "deaths": 3119,
         "recovered": 74859
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "confirmed": 84916,
-        "deaths": 404,
-        "recovered": 74273
     },
     {
         "Name": "폴란드",
@@ -1085,7 +1085,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3287,
         "deaths": 13,
-        "recovered": 3088
+        "recovered": 3100
     },
     {
         "Name": "Réunion",
