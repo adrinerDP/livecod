@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7025605,204295,4282651
-인도,印度,India,5557573,88943,4492145
+미국,美国,United States,7028052,204323,4284366
+인도,印度,India,5560105,88965,4494720
 브라질,巴西,Brazil,4547150,136997,3851227
 러시아,俄罗斯,Russia,1109595,19489,911973
 페루,秘鲁,Peru,768895,31369,615255
@@ -48,9 +48,9 @@ Honduras,,Honduras,71616,2184,22065
 Ethiopia,,Ethiopia,69709,1108,28634
 포르투갈,葡萄牙,Portugal,69200,1920,45736
 Venezuela,,Venezuela,66656,547,56096
+코스타리카,哥斯达黎加,Costa Rica,65602,745,25127
 네팔,尼泊尔,Nepal,65276,427,47238
-바레인,巴林,Bahrain,65039,223,57950
-코스타리카,哥斯达黎加,Costa Rica,63712,706,23552
+바레인,巴林,Bahrain,65039,224,57950
 싱가포르,新加坡,Singapore,57606,27,57241
 나이지리아,尼日利亚,Nigeria,57242,1098,48569
 Uzbekistan,,Uzbekistan,52070,437,48369
@@ -120,7 +120,7 @@ Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4723,97,4488
-Rwanda,,Rwanda,4711,26,2961
+Rwanda,,Rwanda,4722,27,2973
 슬로베니아,斯洛文尼亚,Slovenia,4470,142,3048
 Angola,,Angola,3991,152,1445
 Trinidad and Tobago,,Trinidad and Tobago,3930,65,1802

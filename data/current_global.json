@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7025605,
-        "deaths": 204295,
-        "recovered": 4282651
+        "confirmed": 7028052,
+        "deaths": 204323,
+        "recovered": 4284366
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5557573,
-        "deaths": 88943,
-        "recovered": 4492145
+        "confirmed": 5560105,
+        "deaths": 88965,
+        "recovered": 4494720
     },
     {
         "Name": "브라질",
@@ -392,6 +392,14 @@
         "recovered": 56096
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 65602,
+        "deaths": 745,
+        "recovered": 25127
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
@@ -404,16 +412,8 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 65039,
-        "deaths": 223,
+        "deaths": 224,
         "recovered": 57950
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 63712,
-        "deaths": 706,
-        "recovered": 23552
     },
     {
         "Name": "싱가포르",
@@ -971,9 +971,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4711,
-        "deaths": 26,
-        "recovered": 2961
+        "confirmed": 4722,
+        "deaths": 27,
+        "recovered": 2973
     },
     {
         "Name": "슬로베니아",
