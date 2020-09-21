@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7000896,204115,4248277
+미국,美国,United States,7004768,204118,4250140
 인도,印度,India,5485612,87909,4392650
 브라질,巴西,Brazil,4544629,136895,3851227
 러시아,俄罗斯,Russia,1103399,19418,909357
@@ -66,7 +66,7 @@ Kyrgyzstan,,Kyrgyzstan,45335,1063,41484
 오스트리아,奥地利,Austria,38095,766,29229
 Kenya,,Kenya,36981,648,23887
 팔레스타인,巴勒斯坦,Palestine,35686,262,23700
-Paraguay,,Paraguay,33015,636,17535
+Paraguay,,Paraguay,33520,659,18117
 아일랜드,冰岛,Ireland,32933,1792,23364
 세르비아,塞尔维亚,Serbia,32908,741,31411
 레바논,黎巴嫩,Lebanon,29303,297,12047
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,6771,43,3622
 Uganda,,Uganda,6287,63,2616
 Malawi,,Malawi,5731,179,4040
 Myanmar,,Myanmar,5541,92,1260
-Djibouti,,Djibouti,5403,61,5333
+Djibouti,,Djibouti,5403,61,5335
 Eswatini,,Eswatini,5269,104,4624
 Cabo Verde,,Cabo Verde,5257,51,4599
 Cuba,,Cuba,5091,115,4412
@@ -123,7 +123,7 @@ Suriname,,Suriname,4723,97,4488
 Rwanda,,Rwanda,4711,26,2961
 슬로베니아,斯洛文尼亚,Slovenia,4420,142,3023
 Angola,,Angola,3991,152,1445
-Trinidad and Tobago,,Trinidad and Tobago,3866,64,1753
+Trinidad and Tobago,,Trinidad and Tobago,3901,65,1753
 Syria,,Syria,3800,172,946
 Lithuania,,Lithuania,3744,87,2198
 Aruba,,Aruba,3551,23,2239
@@ -171,7 +171,7 @@ Sint Maarten,,Sint Maarten,584,20,488
 Papua New Guinea,,Papua New Guinea,517,7,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,507,7,479
-Burundi,,Burundi,473,1,374
+Burundi,,Burundi,473,1,462
 Comoros,,Comoros,470,7,450
 Faeroe Islands,,Faeroe Islands,434,0,412
 Mauritius,,Mauritius,366,10,338
@@ -181,8 +181,8 @@ Isle of Man,,Isle of Man,339,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,312,0,302
 캄보디아,柬埔寨,Cambodia,275,0,274
+Curaçao,,Curaçao,268,1,96
 부탄,不丹,Bhutan,259,0,190
-Curaçao,,Curaçao,247,1,88
 Cayman Islands,,Cayman Islands,208,1,204
 모나코,摩纳哥,Monaco,192,1,152
 Barbados,,Barbados,185,7,172

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7000896,
-        "deaths": 204115,
-        "recovered": 4248277
+        "confirmed": 7004768,
+        "deaths": 204118,
+        "recovered": 4250140
     },
     {
         "Name": "인도",
@@ -539,9 +539,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 33015,
-        "deaths": 636,
-        "recovered": 17535
+        "confirmed": 33520,
+        "deaths": 659,
+        "recovered": 18117
     },
     {
         "Name": "아일랜드",
@@ -877,7 +877,7 @@
         "Name_en": "Djibouti",
         "confirmed": 5403,
         "deaths": 61,
-        "recovered": 5333
+        "recovered": 5335
     },
     {
         "Name": "Eswatini",
@@ -995,8 +995,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3866,
-        "deaths": 64,
+        "confirmed": 3901,
+        "deaths": 65,
         "recovered": 1753
     },
     {
@@ -1381,7 +1381,7 @@
         "Name_en": "Burundi",
         "confirmed": 473,
         "deaths": 1,
-        "recovered": 374
+        "recovered": 462
     },
     {
         "Name": "Comoros",
@@ -1456,20 +1456,20 @@
         "recovered": 274
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 268,
+        "deaths": 1,
+        "recovered": 96
+    },
+    {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
         "confirmed": 259,
         "deaths": 0,
         "recovered": 190
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 247,
-        "deaths": 1,
-        "recovered": 88
     },
     {
         "Name": "Cayman Islands",
