@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 348918,
-        "deaths": 4939,
-        "recovered": 256565
+        "confirmed": 350621,
+        "deaths": 4979,
+        "recovered": 258717
     },
     {
         "Name": "사우디아라비아",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 188427,
-        "deaths": 1256,
-        "recovered": 135991
+        "confirmed": 188760,
+        "deaths": 1260,
+        "recovered": 135997
     },
     {
         "Name": "Ukraine",
@@ -747,9 +747,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 10219,
+        "confirmed": 10276,
         "deaths": 130,
-        "recovered": 9355
+        "recovered": 9395
     },
     {
         "Name": "Maldives",
