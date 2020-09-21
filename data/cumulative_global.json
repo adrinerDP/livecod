@@ -1447,13 +1447,13 @@
     },
     {
         "date": "9/19",
-        "confirmed": 30786750.0,
+        "confirmed": 30780755.0,
         "deaths": 956999.0,
         "recovered": 21016801.0
     },
     {
         "date": "9/20",
-        "confirmed": 31028037.0,
+        "confirmed": 31021972.0,
         "deaths": 960695.0,
         "recovered": 21252815.0
     }
