@@ -251,9 +251,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107262,
+        "confirmed": 107307,
         "deaths": 1671,
-        "recovered": 101877
+        "recovered": 101941
     },
     {
         "Name": "Panama",
@@ -1219,9 +1219,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1606,
-        "deaths": 20,
-        "recovered": 876
+        "confirmed": 1627,
+        "deaths": 21,
+        "recovered": 918
     },
     {
         "Name": "Cyprus",
