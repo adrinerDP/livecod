@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7046839,
-        "deaths": 204559,
+        "confirmed": 7047643,
+        "deaths": 204577,
         "recovered": 4300813
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 276031,
+        "confirmed": 276061,
         "deaths": 9485,
         "recovered": 246300
     },
@@ -595,9 +595,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 25521,
-        "deaths": 770,
-        "recovered": 18109
+        "confirmed": 25737,
+        "deaths": 778,
+        "recovered": 18359
     },
     {
         "Name": "덴마크",
@@ -771,9 +771,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9388,
+        "confirmed": 9432,
         "deaths": 73,
-        "recovered": 8152
+        "recovered": 8199
     },
     {
         "Name": "핀란드",
@@ -1301,7 +1301,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1068,
         "deaths": 35,
-        "recovered": 947
+        "recovered": 957
     },
     {
         "Name": "Sao Tome and Principe",
