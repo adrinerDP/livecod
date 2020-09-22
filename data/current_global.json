@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7059688,
-        "deaths": 204913,
-        "recovered": 4312988
+        "confirmed": 7060345,
+        "deaths": 204925,
+        "recovered": 4314339
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5639106,
-        "deaths": 90006,
-        "recovered": 4580222
+        "confirmed": 5640441,
+        "deaths": 90021,
+        "recovered": 4581746
     },
     {
         "Name": "브라질",
@@ -83,9 +83,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 458061,
-        "deaths": 31338,
-        "recovered": 93008
+        "confirmed": 468069,
+        "deaths": 31416,
+        "recovered": 93538
     },
     {
         "Name": "칠레",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 276736,
+        "confirmed": 276829,
         "deaths": 9489,
         "recovered": 246300
     },
@@ -891,9 +891,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5282,
-        "deaths": 104,
-        "recovered": 4647
+        "confirmed": 5307,
+        "deaths": 106,
+        "recovered": 4672
     },
     {
         "Name": "Cabo Verde",
