@@ -616,6 +616,14 @@
         "recovered": 19124
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 19499,
+        "deaths": 694,
+        "recovered": 4559
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -630,14 +638,6 @@
         "confirmed": 19014,
         "deaths": 765,
         "recovered": 13727
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 18866,
-        "deaths": 686,
-        "recovered": 4401
     },
     {
         "Name": "North Macedonia",
