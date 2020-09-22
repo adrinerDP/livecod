@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7094780,205380,4340180
+미국,美国,United States,7095757,205394,4341090
 인도,印度,India,5640496,90021,4581820
-브라질,巴西,Brazil,4591604,138108,3945627
+브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1115810,19649,917949
 콜롬비아,哥伦比亚,Colombia,777537,24570,650801
 페루,秘鲁,Peru,772896,31474,622418
@@ -53,8 +53,8 @@ Venezuela,,Venezuela,67443,555,56726
 바레인,巴林,Bahrain,66402,227,59367
 싱가포르,新加坡,Singapore,57627,27,57262
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
+체코,捷克,Czechia,53158,531,26151
 Uzbekistan,,Uzbekistan,52685,442,49067
-체코,捷克,Czechia,51637,530,26020
 스위스,瑞士,Switzerland,50664,2054,42100
 알제리,阿尔及利亚,Algeria,50214,1689,35307
 아르메니아,亚美尼亚,Armenia,47667,938,42676
@@ -122,6 +122,7 @@ CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4740,97,4525
 Rwanda,,Rwanda,4738,27,2991
 슬로베니아,斯洛文尼亚,Slovenia,4558,142,3048
+Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4236,155,1462
 Trinidad and Tobago,,Trinidad and Tobago,4026,65,1871
 조지아,格鲁吉亚,Georgia,3913,23,1574
@@ -132,7 +133,6 @@ Mayotte,,Mayotte,3541,40,2964
 Gambia,,Gambia,3540,110,2002
 태국,泰国,Thailand,3511,59,3343
 Somalia,,Somalia,3465,98,2877
-Guadeloupe,,Guadeloupe,3426,26,837
 Bahamas,,Bahamas,3418,75,1771
 Réunion,,Réunion,3415,15,2482
 스리랑카,斯里兰卡,Sri Lanka,3312,13,3118

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7094780,
-        "deaths": 205380,
-        "recovered": 4340180
+        "confirmed": 7095757,
+        "deaths": 205394,
+        "recovered": 4341090
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4591604,
-        "deaths": 138108,
+        "confirmed": 4595335,
+        "deaths": 138159,
         "recovered": 3945627
     },
     {
@@ -432,20 +432,20 @@
         "recovered": 48836
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 53158,
+        "deaths": 531,
+        "recovered": 26151
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "confirmed": 52685,
         "deaths": 442,
         "recovered": 49067
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 51637,
-        "deaths": 530,
-        "recovered": 26020
     },
     {
         "Name": "스위스",
@@ -984,6 +984,14 @@
         "recovered": 3048
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 4487,
+        "deaths": 42,
+        "recovered": 2199
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
@@ -1062,14 +1070,6 @@
         "confirmed": 3465,
         "deaths": 98,
         "recovered": 2877
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 3426,
-        "deaths": 26,
-        "recovered": 837
     },
     {
         "Name": "Bahamas",
