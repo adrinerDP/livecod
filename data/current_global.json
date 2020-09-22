@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 52070,
-        "deaths": 437,
-        "recovered": 48369
+        "confirmed": 52491,
+        "deaths": 440,
+        "recovered": 48606
     },
     {
         "Name": "체코",
@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 45471,
+        "confirmed": 45542,
         "deaths": 1063,
-        "recovered": 41682
+        "recovered": 41796
     },
     {
         "Name": "아제르바이잔",
@@ -1256,20 +1256,20 @@
         "recovered": 754
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1394,
+        "deaths": 2,
+        "recovered": 1170
+    },
+    {
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
         "confirmed": 1336,
         "deaths": 82,
         "recovered": 1218
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1271,
-        "deaths": 2,
-        "recovered": 1028
     },
     {
         "Name": "Niger",
