@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 113589,
-        "deaths": 4458,
-        "recovered": 90649
+        "confirmed": 114648,
+        "deaths": 4503,
+        "recovered": 92169
     },
     {
         "Name": "도미니카 공화국",
@@ -515,8 +515,8 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39074,
-        "deaths": 1444,
+        "confirmed": 39096,
+        "deaths": 1445,
         "recovered": 32576
     },
     {
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 437,
+        "confirmed": 448,
         "deaths": 0,
-        "recovered": 413
+        "recovered": 414
     },
     {
         "Name": "Mauritius",
@@ -1419,7 +1419,7 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 350,
+        "confirmed": 355,
         "deaths": 0,
         "recovered": 323
     },
