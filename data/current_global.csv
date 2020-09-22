@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7060345,204925,4314339
+미국,美国,United States,7066629,205083,4316146
 인도,印度,India,5640441,90021,4581746
 브라질,巴西,Brazil,4566123,137445,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -67,7 +67,7 @@ Kyrgyzstan,,Kyrgyzstan,45542,1063,41796
 Kenya,,Kenya,37218,659,24147
 팔레스타인,巴勒斯坦,Palestine,36580,269,25469
 Paraguay,,Paraguay,34260,676,18629
-아일랜드,冰岛,Ireland,33121,1792,23364
+아일랜드,冰岛,Ireland,33444,1792,23364
 세르비아,塞尔维亚,Serbia,32999,743,31536
 레바논,黎巴嫩,Lebanon,30852,315,12878
 Libya,,Libya,29446,460,15913
@@ -91,8 +91,8 @@ Albania,,Albania,12666,367,7042
 Tunisia,,Tunisia,11260,164,2386
 Namibia,,Namibia,10607,116,8359
 DRC,,DRC,10523,271,10011
+Guinea,,Guinea,10387,65,9780
 말레이시아,马来西亚,Malaysia,10358,130,9563
-Guinea,,Guinea,10344,65,9757
 Maldives,,Maldives,9770,34,8390
 French Guiana,,French Guiana,9712,65,9373
 Tajikistan,,Tajikistan,9432,73,8199
@@ -136,7 +136,7 @@ Guadeloupe,,Guadeloupe,3426,26,837
 Bahamas,,Bahamas,3418,75,1771
 Réunion,,Réunion,3415,15,2482
 스리랑카,斯里兰卡,Sri Lanka,3312,13,3118
-Mali,,Mali,3024,128,2377
+Mali,,Mali,3030,129,2380
 에스토니아,爱沙尼亚,Estonia,2976,64,2385
 Malta,,Malta,2814,23,2113
 South Sudan,,South Sudan,2649,49,1290
@@ -159,7 +159,7 @@ Lesotho,,Lesotho,1424,33,754
 French Polynesia,,French Polynesia,1394,2,1170
 Liberia,,Liberia,1336,82,1218
 Niger,,Niger,1189,69,1104
-Chad,,Chad,1153,81,967
+Chad,,Chad,1155,81,967
 Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,957
 Sao Tome and Principe,,Sao Tome and Principe,908,15,880
@@ -175,7 +175,7 @@ Burundi,,Burundi,474,1,462
 Comoros,,Comoros,470,7,453
 Faeroe Islands,,Faeroe Islands,448,0,414
 Mauritius,,Mauritius,367,10,339
-Eritrea,,Eritrea,364,0,305
+Eritrea,,Eritrea,364,0,309
 지브롤터,直布罗陀,Gibraltar,355,0,323
 Isle of Man,,Isle of Man,340,24,312
 Saint Martin,,Saint Martin,330,6,206

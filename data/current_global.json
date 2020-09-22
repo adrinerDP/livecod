@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7060345,
-        "deaths": 204925,
-        "recovered": 4314339
+        "confirmed": 7066629,
+        "deaths": 205083,
+        "recovered": 4316146
     },
     {
         "Name": "인도",
@@ -547,7 +547,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 33121,
+        "confirmed": 33444,
         "deaths": 1792,
         "recovered": 23364
     },
@@ -736,20 +736,20 @@
         "recovered": 10011
     },
     {
+        "Name": "Guinea",
+        "Name_ch": "",
+        "Name_en": "Guinea",
+        "confirmed": 10387,
+        "deaths": 65,
+        "recovered": 9780
+    },
+    {
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
         "confirmed": 10358,
         "deaths": 130,
         "recovered": 9563
-    },
-    {
-        "Name": "Guinea",
-        "Name_ch": "",
-        "Name_en": "Guinea",
-        "confirmed": 10344,
-        "deaths": 65,
-        "recovered": 9757
     },
     {
         "Name": "Maldives",
@@ -1099,9 +1099,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3024,
-        "deaths": 128,
-        "recovered": 2377
+        "confirmed": 3030,
+        "deaths": 129,
+        "recovered": 2380
     },
     {
         "Name": "에스토니아",
@@ -1283,7 +1283,7 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1153,
+        "confirmed": 1155,
         "deaths": 81,
         "recovered": 967
     },
@@ -1413,7 +1413,7 @@
         "Name_en": "Eritrea",
         "confirmed": 364,
         "deaths": 0,
-        "recovered": 305
+        "recovered": 309
     },
     {
         "Name": "지브롤터",
