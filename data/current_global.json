@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7076638,
-        "deaths": 205290,
-        "recovered": 4323420
+        "confirmed": 7094019,
+        "deaths": 205374,
+        "recovered": 4339155
     },
     {
         "Name": "인도",
@@ -32,20 +32,20 @@
         "recovered": 917949
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 777537,
+        "deaths": 24570,
+        "recovered": 650801
+    },
+    {
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
         "confirmed": 772896,
         "deaths": 31474,
         "recovered": 622418
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 770435,
-        "deaths": 24397,
-        "recovered": 640900
     },
     {
         "Name": "멕시코",
@@ -347,9 +347,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 79140,
-        "deaths": 1500,
-        "recovered": 71404
+        "confirmed": 79438,
+        "deaths": 1508,
+        "recovered": 71648
     },
     {
         "Name": "벨라루스",
@@ -579,9 +579,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 27798,
+        "confirmed": 27954,
         "deaths": 814,
-        "recovered": 21795
+        "recovered": 22113
     },
     {
         "Name": "호주",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13075,
+        "confirmed": 13153,
         "deaths": 267,
         "recovered": 10371
     },
@@ -787,9 +787,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 8842,
-        "deaths": 138,
-        "recovered": 5425
+        "confirmed": 9138,
+        "deaths": 146,
+        "recovered": 5544
     },
     {
         "Name": "Gabon",
@@ -811,17 +811,17 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 7916,
+        "confirmed": 8016,
         "deaths": 124,
-        "recovered": 6839
+        "recovered": 6848
     },
     {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7683,
-        "deaths": 225,
-        "recovered": 5924
+        "confirmed": 7711,
+        "deaths": 226,
+        "recovered": 5979
     },
     {
         "Name": "Mauritania",
