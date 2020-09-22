@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7072402,205199,4322801
+미국,美国,United States,7075766,205269,4323305
 인도,印度,India,5640496,90021,4581820
-브라질,巴西,Brazil,4566123,137445,3887199
+브라질,巴西,Brazil,4591604,138108,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
 페루,秘鲁,Peru,772896,31474,622418
 콜롬비아,哥伦比亚,Colombia,770435,24397,640900
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,70422,1127,28991
 Venezuela,,Venezuela,67443,555,56726
 코스타리카,哥斯达黎加,Costa Rica,66689,760,25706
 네팔,尼泊尔,Nepal,66632,429,48061
-바레인,巴林,Bahrain,65752,227,58626
+바레인,巴林,Bahrain,66402,227,59367
 싱가포르,新加坡,Singapore,57627,27,57262
 나이지리아,尼日利亚,Nigeria,57437,1100,48674
 Uzbekistan,,Uzbekistan,52685,442,49067
@@ -146,7 +146,7 @@ Guyana,,Guyana,2402,65,1359
 Guinea-Bissau,,Guinea-Bissau,2303,39,1127
 Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2174,72,1652
-Yemen,,Yemen,2028,586,1235
+Yemen,,Yemen,2028,586,1240
 Uruguay,,Uruguay,1927,46,1634
 Burkina Faso,,Burkina Faso,1896,56,1189
 New Zealand,,New Zealand,1815,25,1729
@@ -158,7 +158,7 @@ Cyprus,,Cyprus,1618,22,1369
 Lesotho,,Lesotho,1424,33,754
 French Polynesia,,French Polynesia,1394,2,1170
 Liberia,,Liberia,1336,82,1218
-Niger,,Niger,1189,69,1104
+Niger,,Niger,1193,69,1104
 Chad,,Chad,1155,81,967
 Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,957
