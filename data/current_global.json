@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7049125,
-        "deaths": 204633,
-        "recovered": 4301066
+        "confirmed": 7049431,
+        "deaths": 204636,
+        "recovered": 4301468
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5574096,
-        "deaths": 89068,
-        "recovered": 4503976
+        "confirmed": 5580286,
+        "deaths": 89117,
+        "recovered": 4509924
     },
     {
         "Name": "브라질",
@@ -91,9 +91,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 447468,
-        "deaths": 12298,
-        "recovered": 421111
+        "confirmed": 448523,
+        "deaths": 12321,
+        "recovered": 423176
     },
     {
         "Name": "이란",
@@ -131,9 +131,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 322856,
-        "deaths": 8625,
-        "recovered": 258075
+        "confirmed": 327580,
+        "deaths": 8682,
+        "recovered": 261757
     },
     {
         "Name": "파키스탄",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 276135,
+        "confirmed": 276226,
         "deaths": 9485,
         "recovered": 246300
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 145415,
-        "deaths": 9228,
-        "recovered": 125534
+        "confirmed": 145896,
+        "deaths": 9231,
+        "recovered": 125910
     },
     {
         "Name": "Bolivia",
@@ -421,7 +421,7 @@
         "Name_en": "Singapore",
         "confirmed": 57627,
         "deaths": 27,
-        "recovered": 57241
+        "recovered": 57262
     },
     {
         "Name": "나이지리아",
@@ -475,9 +475,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 46796,
-        "deaths": 1211,
-        "recovered": 35018
+        "confirmed": 47446,
+        "deaths": 1230,
+        "recovered": 35542
     },
     {
         "Name": "Ghana",
@@ -707,8 +707,8 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 12535,
-        "deaths": 364,
+        "confirmed": 12656,
+        "deaths": 367,
         "recovered": 6995
     },
     {
