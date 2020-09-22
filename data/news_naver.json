@@ -1,9 +1,5 @@
 ﻿[
     {
-        "title": "영국정부 경고…\"코로나19 놔두면 내달 중순 확진자 하루 5만명\"(종합)",
-        "link": "http://yna.kr/AKR20200921171251085?did=1195m"
-    },
-    {
         "title": "[단독] LG 트윈타워서 확진자 발생···서관 일부 층 폐쇄",
         "link": "https://www.sedaily.com/NewsView/1Z7YD1E4B2"
     },
@@ -32,11 +28,15 @@
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202009211654001&code=940601"
     },
     {
-        "title": "코로나19 확진자는 진정세인데…떠오르는 `재감염` 우려",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01338246625902744"
+        "title": "\"이대로 가면 10월 중순 확진자 하루 5만명\"...영국 정부에 경고",
+        "link": "https://www.ytn.co.kr/_ln/0104_202009220542235669"
     },
     {
-        "title": "‘코로나 확진자 발생’ 기아차 소하리 공장, 22일 1공장부터 가동 재개",
-        "link": "https://news.joins.com/article/olink/23471953"
+        "title": "박능후 \"사흘째 확진자 두자릿수…추석 전까지 안정 상황 진입해야\"",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01738406625902744"
+    },
+    {
+        "title": "코로나19 확진자는 진정세인데…떠오르는 `재감염` 우려",
+        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01338246625902744"
     }
 ]

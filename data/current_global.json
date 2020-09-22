@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7043176,
-        "deaths": 204445,
-        "recovered": 4295456
+        "confirmed": 7044342,
+        "deaths": 204460,
+        "recovered": 4295777
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 631365,
-        "deaths": 13053,
-        "recovered": 488231
+        "confirmed": 640147,
+        "deaths": 13482,
+        "recovered": 508563
     },
     {
         "Name": "프랑스",
@@ -539,9 +539,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 33520,
-        "deaths": 659,
-        "recovered": 18117
+        "confirmed": 34260,
+        "deaths": 676,
+        "recovered": 18629
     },
     {
         "Name": "아일랜드",
@@ -1099,9 +1099,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3013,
+        "confirmed": 3024,
         "deaths": 128,
-        "recovered": 2372
+        "recovered": 2377
     },
     {
         "Name": "에스토니아",
@@ -1589,7 +1589,7 @@
         "Name_en": "Timor-Leste",
         "confirmed": 27,
         "deaths": 0,
-        "recovered": 26
+        "recovered": 27
     },
     {
         "Name": "New Caledonia",
