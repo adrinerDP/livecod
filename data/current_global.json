@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7051048,
-        "deaths": 204706,
-        "recovered": 4301469
+        "confirmed": 7053783,
+        "deaths": 204801,
+        "recovered": 4301523
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 276226,
-        "deaths": 9485,
+        "confirmed": 276504,
+        "deaths": 9487,
         "recovered": 246300
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 145896,
-        "deaths": 9231,
-        "recovered": 125910
+        "confirmed": 146385,
+        "deaths": 9232,
+        "recovered": 126230
     },
     {
         "Name": "Bolivia",
@@ -404,7 +404,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 65752,
-        "deaths": 226,
+        "deaths": 227,
         "recovered": 58626
     },
     {
@@ -523,9 +523,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 37079,
-        "deaths": 650,
-        "recovered": 23949
+        "confirmed": 37218,
+        "deaths": 659,
+        "recovered": 24147
     },
     {
         "Name": "팔레스타인",
@@ -896,20 +896,20 @@
         "recovered": 4674
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 5270,
+        "deaths": 75,
+        "recovered": 1444
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
         "confirmed": 5222,
         "deaths": 117,
         "recovered": 4506
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 5143,
-        "deaths": 70,
-        "recovered": 1407
     },
     {
         "Name": "홍콩",
@@ -1523,7 +1523,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 114,
+        "confirmed": 115,
         "deaths": 1,
         "recovered": 110
     },

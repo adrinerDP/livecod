@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7051048,204706,4301469
+미국,美国,United States,7053783,204801,4301523
 인도,印度,India,5580286,89117,4509924
 브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,352178,5007,260790
 터키,土耳其,Turkey,304610,7574,268435
 이탈리아,义大利,Italy,300897,35738,219670
 필리핀,菲律宾,Philippines,291789,5049,230643
-독일,德国,Germany,276226,9485,246300
+독일,德国,Germany,276504,9487,246300
 인도네시아,印度尼西亚,Indonesia,252923,9837,184298
 이스라엘,以色列,Israel,193374,1285,140751
 Ukraine,,Ukraine,181237,3642,79901
-캐나다,加拿大,Canada,145896,9231,125910
+캐나다,加拿大,Canada,146385,9232,126230
 Bolivia,,Bolivia,130986,7654,90240
 에콰도르,厄瓜多尔,Ecuador,126711,11095,102852
 카타르,卡塔尔,Qatar,123917,211,120766
@@ -49,7 +49,7 @@ Ethiopia,,Ethiopia,69709,1108,28634
 포르투갈,葡萄牙,Portugal,69663,1925,45974
 Venezuela,,Venezuela,67443,555,56726
 네팔,尼泊尔,Nepal,66632,429,48061
-바레인,巴林,Bahrain,65752,226,58626
+바레인,巴林,Bahrain,65752,227,58626
 코스타리카,哥斯达黎加,Costa Rica,65602,745,25127
 싱가포르,新加坡,Singapore,57627,27,57262
 나이지리아,尼日利亚,Nigeria,57437,1100,48674
@@ -64,7 +64,7 @@ Kyrgyzstan,,Kyrgyzstan,45542,1063,41796
 아제르바이잔,阿塞拜疆,Azerbaijan,39378,578,36949
 오스트리아,奥地利,Austria,39303,771,30312
 아프가니스탄,阿富汗,Afghanistan,39096,1445,32576
-Kenya,,Kenya,37079,650,23949
+Kenya,,Kenya,37218,659,24147
 팔레스타인,巴勒斯坦,Palestine,36580,269,25469
 Paraguay,,Paraguay,34260,676,18629
 아일랜드,冰岛,Ireland,33121,1792,23364
@@ -111,8 +111,8 @@ Malawi,,Malawi,5733,179,4053
 Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5282,104,4647
 Cabo Verde,,Cabo Verde,5281,52,4674
+Jamaica,,Jamaica,5270,75,1444
 Cuba,,Cuba,5222,117,4506
-Jamaica,,Jamaica,5143,70,1407
 홍콩,香港,Hong Kong,5047,103,4717
 요르단,约旦,Jordan,5045,32,3527
 Congo,,Congo,5002,89,3887
@@ -189,7 +189,7 @@ Barbados,,Barbados,189,7,173
 Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
 Seychelles,,Seychelles,143,0,136
-리히텐슈타인,列支敦士登,Liechtenstein,114,1,110
+리히텐슈타인,列支敦士登,Liechtenstein,115,1,110
 Antigua and Barbuda,,Antigua and Barbuda,96,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
