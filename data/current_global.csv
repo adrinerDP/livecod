@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7094019,205374,4339155
+미국,美国,United States,7094780,205380,4340180
 인도,印度,India,5640496,90021,4581820
 브라질,巴西,Brazil,4591604,138108,3945627
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -34,7 +34,7 @@ Kazakhstan,,Kazakhstan,107374,1671,102064
 Panama,,Panama,106810,2272,82320
 모로코,摩洛哥,Morocco,105346,1889,85883
 벨기에,比利时,Belgium,103392,9950,18977
-이집트,埃及,Egypt,102141,5787,90332
+이집트,埃及,Egypt,102254,5806,91143
 쿠웨이트,科威特,Kuwait,100683,588,91612
 네덜란드,荷兰,Netherlands,98240,6291,0
 오만,阿曼,Oman,94711,865,86195
@@ -52,7 +52,7 @@ Venezuela,,Venezuela,67443,555,56726
 네팔,尼泊尔,Nepal,66632,429,48061
 바레인,巴林,Bahrain,66402,227,59367
 싱가포르,新加坡,Singapore,57627,27,57262
-나이지리아,尼日利亚,Nigeria,57437,1100,48674
+나이지리아,尼日利亚,Nigeria,57613,1100,48836
 Uzbekistan,,Uzbekistan,52685,442,49067
 체코,捷克,Czechia,51637,530,26020
 스위스,瑞士,Switzerland,50664,2054,42100
@@ -114,16 +114,16 @@ Cabo Verde,,Cabo Verde,5337,52,4742
 Eswatini,,Eswatini,5307,106,4672
 Jamaica,,Jamaica,5270,75,1444
 Cuba,,Cuba,5222,117,4506
+Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5047,103,4717
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5002,89,3887
-Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4740,97,4525
 Rwanda,,Rwanda,4738,27,2991
 슬로베니아,斯洛文尼亚,Slovenia,4558,142,3048
 Angola,,Angola,4236,155,1462
-Trinidad and Tobago,,Trinidad and Tobago,3974,65,1871
+Trinidad and Tobago,,Trinidad and Tobago,4026,65,1871
 조지아,格鲁吉亚,Georgia,3913,23,1574
 Syria,,Syria,3877,178,983
 Lithuania,,Lithuania,3859,87,2225
@@ -143,11 +143,11 @@ South Sudan,,South Sudan,2660,49,1290
 Botswana,,Botswana,2567,13,624
 Guyana,,Guyana,2437,67,1361
 Iceland,,Iceland,2419,10,2130
-Guinea-Bissau,,Guinea-Bissau,2303,39,1127
+Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2174,72,1652
 Yemen,,Yemen,2028,586,1240
-Uruguay,,Uruguay,1927,46,1634
+Uruguay,,Uruguay,1934,46,1645
 Burkina Faso,,Burkina Faso,1907,56,1252
 New Zealand,,New Zealand,1815,25,1729
 토고,多哥,Togo,1683,41,1290

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7094019,
-        "deaths": 205374,
-        "recovered": 4339155
+        "confirmed": 7094780,
+        "deaths": 205380,
+        "recovered": 4340180
     },
     {
         "Name": "인도",
@@ -283,9 +283,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 102141,
-        "deaths": 5787,
-        "recovered": 90332
+        "confirmed": 102254,
+        "deaths": 5806,
+        "recovered": 91143
     },
     {
         "Name": "쿠웨이트",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 57437,
+        "confirmed": 57613,
         "deaths": 1100,
-        "recovered": 48674
+        "recovered": 48836
     },
     {
         "Name": "Uzbekistan",
@@ -920,6 +920,14 @@
         "recovered": 4506
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "confirmed": 5073,
+        "deaths": 149,
+        "recovered": 2913
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -942,14 +950,6 @@
         "confirmed": 5002,
         "deaths": 89,
         "recovered": 3887
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
-        "confirmed": 4961,
-        "deaths": 147,
-        "recovered": 2913
     },
     {
         "Name": "CAR",
@@ -995,7 +995,7 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 3974,
+        "confirmed": 4026,
         "deaths": 65,
         "recovered": 1871
     },
@@ -1155,9 +1155,9 @@
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
-        "confirmed": 2303,
+        "confirmed": 2324,
         "deaths": 39,
-        "recovered": 1127
+        "recovered": 1549
     },
     {
         "Name": "Benin",
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1927,
+        "confirmed": 1934,
         "deaths": 46,
-        "recovered": 1634
+        "recovered": 1645
     },
     {
         "Name": "Burkina Faso",
