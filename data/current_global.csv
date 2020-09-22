@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7047643,204577,4300813
-인도,印度,India,5568740,88992,4498520
+인도,印度,India,5574096,89068,4503976
 브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
 페루,秘鲁,Peru,772896,31474,622418
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,352178,5007,260790
 터키,土耳其,Turkey,304610,7574,268435
 이탈리아,义大利,Italy,299506,35724,218703
 필리핀,菲律宾,Philippines,291789,5049,230643
-독일,德国,Germany,276061,9485,246300
+독일,德国,Germany,276135,9485,246300
 인도네시아,印度尼西亚,Indonesia,252923,9837,184298
 이스라엘,以色列,Israel,193374,1285,140751
 Ukraine,,Ukraine,181237,3642,79901
@@ -46,7 +46,7 @@ Guatemala,,Guatemala,85681,3124,75172
 벨라루스,白俄罗斯,Belarus,76104,791,73386
 Honduras,,Honduras,72075,2204,22611
 Ethiopia,,Ethiopia,69709,1108,28634
-포르투갈,葡萄牙,Portugal,69200,1920,45736
+포르투갈,葡萄牙,Portugal,69663,1925,45974
 Venezuela,,Venezuela,67443,555,56726
 네팔,尼泊尔,Nepal,66632,429,48061
 바레인,巴林,Bahrain,65752,226,58626
@@ -79,12 +79,12 @@ El Salvador,,El Salvador,27798,814,21795
 헝가리,匈牙利,Hungary,19499,694,4559
 Ivory Coast,,Ivory Coast,19327,120,18630
 Bulgaria,,Bulgaria,19014,765,13727
-North Macedonia,,North Macedonia,16780,700,13949
-Madagascar,,Madagascar,16073,225,14682
+North Macedonia,,North Macedonia,16867,705,14084
+Madagascar,,Madagascar,16136,226,14743
 그리스,希腊,Greece,15595,344,9989
 크로아티아,克罗地亚,Croatia,15136,255,12987
 세네갈,塞内加尔,Senegal,14759,302,11621
-Zambia,,Zambia,14175,331,13629
+Zambia,,Zambia,14389,331,13629
 Sudan,,Sudan,13555,836,6760
 노르웨이,挪威,Norway,13005,267,10371
 Albania,,Albania,12535,364,6995
@@ -105,8 +105,8 @@ Zimbabwe,,Zimbabwe,7683,225,5924
 Mauritania,,Mauritania,7384,161,6977
 슬로바키아,斯洛伐克,Slovakia,6931,40,3668
 Mozambique,,Mozambique,6912,44,3738
+Myanmar,,Myanmar,6743,115,1951
 Uganda,,Uganda,6712,64,2778
-Myanmar,,Myanmar,6471,100,1445
 Malawi,,Malawi,5733,179,4053
 Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5282,104,4647
@@ -174,7 +174,7 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,474,1,462
 Comoros,,Comoros,470,7,450
 Faeroe Islands,,Faeroe Islands,448,0,414
-Mauritius,,Mauritius,366,10,338
+Mauritius,,Mauritius,367,10,339
 Eritrea,,Eritrea,364,0,305
 지브롤터,直布罗陀,Gibraltar,355,0,323
 Isle of Man,,Isle of Man,340,24,312
@@ -193,8 +193,8 @@ Seychelles,,Seychelles,143,0,136
 Antigua and Barbuda,,Antigua and Barbuda,96,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
+Caribbean Netherlands,,Caribbean Netherlands,54,1,18
 마카오,澳门,Macao,46,0,46
-Caribbean Netherlands,,Caribbean Netherlands,36,1,17
 Fiji,,Fiji,32,2,28
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,27
