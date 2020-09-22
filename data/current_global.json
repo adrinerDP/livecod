@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7051564,
-        "deaths": 204519,
-        "recovered": 4300731
+        "confirmed": 7046747,
+        "deaths": 204559,
+        "recovered": 4300813
     },
     {
         "Name": "인도",
@@ -299,8 +299,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 95995,
-        "deaths": 6281,
+        "confirmed": 98240,
+        "deaths": 6291,
         "recovered": 0
     },
     {
@@ -315,8 +315,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 88237,
-        "deaths": 5865,
+        "confirmed": 89436,
+        "deaths": 5870,
         "recovered": 0
     },
     {
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 23323,
-        "deaths": 640,
-        "recovered": 17738
+        "confirmed": 23799,
+        "deaths": 641,
+        "recovered": 18035
     },
     {
         "Name": "카메룬",
@@ -1573,7 +1573,7 @@
         "Name_en": "Fiji",
         "confirmed": 32,
         "deaths": 2,
-        "recovered": 26
+        "recovered": 28
     },
     {
         "Name": "Saint Lucia",

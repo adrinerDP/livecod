@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7051564,204519,4300731
+미국,美国,United States,7046747,204559,4300813
 인도,印度,India,5568740,88992,4498520
 브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -36,9 +36,9 @@ Panama,,Panama,106810,2272,82320
 모로코,摩洛哥,Morocco,103119,1855,84158
 이집트,埃及,Egypt,102141,5787,90332
 쿠웨이트,科威特,Kuwait,100683,588,91612
-네덜란드,荷兰,Netherlands,95995,6281,0
+네덜란드,荷兰,Netherlands,98240,6291,0
 오만,阿曼,Oman,94711,865,86195
-스웨덴,瑞典语,Sweden,88237,5865,0
+스웨덴,瑞典语,Sweden,89436,5870,0
 Guatemala,,Guatemala,85681,3124,75172
 아랍에미리트,阿拉伯联合酋长国,UAE,85595,405,75086
 폴란드,波兰,Poland,80699,2316,64972
@@ -74,7 +74,7 @@ Libya,,Libya,29446,460,15913
 El Salvador,,El Salvador,27798,814,21795
 호주,澳大利亚,Australia,26942,854,24218
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25521,770,18109
-덴마크,丹麦,Denmark,23323,640,17738
+덴마크,丹麦,Denmark,23799,641,18035
 카메룬,喀麦隆,Cameroon,20598,416,19124
 헝가리,匈牙利,Hungary,19499,694,4559
 Ivory Coast,,Ivory Coast,19327,120,18630
@@ -195,7 +195,7 @@ British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 Caribbean Netherlands,,Caribbean Netherlands,36,1,17
-Fiji,,Fiji,32,2,26
+Fiji,,Fiji,32,2,28
 Saint Lucia,,Saint Lucia,27,0,26
 Timor-Leste,,Timor-Leste,27,0,27
 New Caledonia,,New Caledonia,26,0,26
