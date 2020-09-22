@@ -269,7 +269,7 @@
         "Name_en": "Belgium",
         "confirmed": 103392,
         "deaths": 9950,
-        "recovered": 18965
+        "recovered": 18977
     },
     {
         "Name": "모로코",
@@ -848,20 +848,20 @@
         "recovered": 3571
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 6471,
+        "deaths": 100,
+        "recovered": 1445
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
         "confirmed": 6468,
         "deaths": 63,
         "recovered": 2731
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 6151,
-        "deaths": 98,
-        "recovered": 1445
     },
     {
         "Name": "Malawi",
@@ -1227,9 +1227,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1627,
+        "confirmed": 1635,
         "deaths": 21,
-        "recovered": 918
+        "recovered": 967
     },
     {
         "Name": "Cyprus",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 584,
+        "confirmed": 591,
         "deaths": 20,
-        "recovered": 488
+        "recovered": 505
     },
     {
         "Name": "Papua New Guinea",
@@ -1443,7 +1443,7 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 312,
+        "confirmed": 313,
         "deaths": 0,
         "recovered": 302
     },
