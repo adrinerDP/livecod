@@ -4,16 +4,16 @@
         "Name_ch": "美国",
         "Name_en": "United States",
         "confirmed": 7053783,
-        "deaths": 204801,
-        "recovered": 4301523
+        "deaths": 204806,
+        "recovered": 4310261
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5580286,
-        "deaths": 89117,
-        "recovered": 4509924
+        "confirmed": 5617699,
+        "deaths": 89579,
+        "recovered": 4551086
     },
     {
         "Name": "브라질",
@@ -147,9 +147,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 304610,
-        "deaths": 7574,
-        "recovered": 268435
+        "confirmed": 306302,
+        "deaths": 7639,
+        "recovered": 269696
     },
     {
         "Name": "이탈리아",
@@ -219,8 +219,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 126711,
-        "deaths": 11095,
+        "confirmed": 127643,
+        "deaths": 11126,
         "recovered": 102852
     },
     {
@@ -243,9 +243,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 108783,
-        "deaths": 2054,
-        "recovered": 82274
+        "confirmed": 109269,
+        "deaths": 2064,
+        "recovered": 82741
     },
     {
         "Name": "Kazakhstan",
@@ -872,6 +872,14 @@
         "recovered": 4053
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 5679,
+        "deaths": 33,
+        "recovered": 3707
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -918,14 +926,6 @@
         "confirmed": 5047,
         "deaths": 103,
         "recovered": 4717
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 5045,
-        "deaths": 32,
-        "recovered": 3527
     },
     {
         "Name": "Congo",
