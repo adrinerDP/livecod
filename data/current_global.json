@@ -139,9 +139,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 306304,
-        "deaths": 6420,
-        "recovered": 292869
+        "confirmed": 306886,
+        "deaths": 6424,
+        "recovered": 293159
     },
     {
         "Name": "터키",
@@ -251,9 +251,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107307,
+        "confirmed": 107374,
         "deaths": 1671,
-        "recovered": 101941
+        "recovered": 102064
     },
     {
         "Name": "Panama",
@@ -264,20 +264,20 @@
         "recovered": 82320
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 103392,
+        "deaths": 9950,
+        "recovered": 18965
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "confirmed": 103119,
         "deaths": 1855,
         "recovered": 84158
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 102295,
-        "deaths": 9948,
-        "recovered": 18965
     },
     {
         "Name": "이집트",
