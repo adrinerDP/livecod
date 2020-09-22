@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7044342,
-        "deaths": 204460,
-        "recovered": 4295777
+        "confirmed": 7046188,
+        "deaths": 204506,
+        "recovered": 4298313
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 145418,
+        "confirmed": 145415,
         "deaths": 9228,
-        "recovered": 125539
+        "recovered": 125534
     },
     {
         "Name": "Bolivia",
@@ -1072,20 +1072,20 @@
         "recovered": 837
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3418,
+        "deaths": 75,
+        "recovered": 1771
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 3415,
         "deaths": 15,
         "recovered": 2482
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3370,
-        "deaths": 74,
-        "recovered": 1689
     },
     {
         "Name": "스리랑카",
@@ -1483,9 +1483,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 193,
+        "confirmed": 195,
         "deaths": 1,
-        "recovered": 153
+        "recovered": 159
     },
     {
         "Name": "Barbados",

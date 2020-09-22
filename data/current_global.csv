@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7044342,204460,4295777
+미국,美国,United States,7046188,204506,4298313
 인도,印度,India,5560105,88965,4494720
 브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1109595,19489,911973
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,350621,4979,258717
 인도네시아,印度尼西亚,Indonesia,248852,9677,180797
 이스라엘,以色列,Israel,190929,1273,136780
 Ukraine,,Ukraine,178353,3583,78184
-캐나다,加拿大,Canada,145418,9228,125539
+캐나다,加拿大,Canada,145415,9228,125534
 Bolivia,,Bolivia,130676,7617,89617
 에콰도르,厄瓜多尔,Ecuador,126711,11095,102852
 카타르,卡塔尔,Qatar,123604,211,120540
@@ -133,8 +133,8 @@ Gambia,,Gambia,3526,108,1992
 태국,泰国,Thailand,3506,59,3342
 Somalia,,Somalia,3465,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837
+Bahamas,,Bahamas,3418,75,1771
 Réunion,,Réunion,3415,15,2482
-Bahamas,,Bahamas,3370,74,1689
 스리랑카,斯里兰卡,Sri Lanka,3299,13,3100
 Mali,,Mali,3024,128,2377
 에스토니아,爱沙尼亚,Estonia,2941,64,2379
@@ -184,7 +184,7 @@ Curaçao,,Curaçao,282,1,102
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,261,0,192
 Cayman Islands,,Cayman Islands,209,1,204
-모나코,摩纳哥,Monaco,193,1,153
+모나코,摩纳哥,Monaco,195,1,159
 Barbados,,Barbados,189,7,173
 Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
