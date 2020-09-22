@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7059688,204913,4312988
-인도,印度,India,5617699,89579,4551086
+인도,印度,India,5639106,90006,4580222
 브라질,巴西,Brazil,4566123,137445,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
 페루,秘鲁,Peru,772896,31474,622418
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,352178,5007,260790
 터키,土耳其,Turkey,306302,7639,269696
 이탈리아,义大利,Italy,300897,35738,219670
 필리핀,菲律宾,Philippines,291789,5049,230643
-독일,德国,Germany,276504,9487,246300
+독일,德国,Germany,276736,9489,246300
 인도네시아,印度尼西亚,Indonesia,252923,9837,184298
 이스라엘,以色列,Israel,193374,1285,140751
 Ukraine,,Ukraine,181237,3642,79901
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,85681,3124,75172
 일본,日本,Japan,79140,1500,71404
 벨라루스,白俄罗斯,Belarus,76104,791,73386
 Honduras,,Honduras,72075,2204,22611
-Ethiopia,,Ethiopia,69709,1108,28634
+Ethiopia,,Ethiopia,70422,1127,28991
 포르투갈,葡萄牙,Portugal,69663,1925,45974
 Venezuela,,Venezuela,67443,555,56726
 네팔,尼泊尔,Nepal,66632,429,48061
@@ -107,7 +107,7 @@ Mozambique,,Mozambique,7114,45,4064
 슬로바키아,斯洛伐克,Slovakia,6931,40,3668
 Myanmar,,Myanmar,6743,115,1951
 Uganda,,Uganda,6712,64,2778
-Malawi,,Malawi,5733,179,4053
+Malawi,,Malawi,5739,179,4065
 요르단,约旦,Jordan,5679,33,3707
 Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5282,104,4647
@@ -115,8 +115,8 @@ Cabo Verde,,Cabo Verde,5281,52,4674
 Jamaica,,Jamaica,5270,75,1444
 Cuba,,Cuba,5222,117,4506
 홍콩,香港,Hong Kong,5047,103,4717
+Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5002,89,3887
-Equatorial Guinea,,Equatorial Guinea,5002,83,4509
 Nicaragua,,Nicaragua,4961,147,2913
 CAR,,CAR,4786,62,1830
 Suriname,,Suriname,4740,97,4525

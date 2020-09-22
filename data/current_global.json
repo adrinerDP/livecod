@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5617699,
-        "deaths": 89579,
-        "recovered": 4551086
+        "confirmed": 5639106,
+        "deaths": 90006,
+        "recovered": 4580222
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 276504,
-        "deaths": 9487,
+        "confirmed": 276736,
+        "deaths": 9489,
         "recovered": 246300
     },
     {
@@ -371,9 +371,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 69709,
-        "deaths": 1108,
-        "recovered": 28634
+        "confirmed": 70422,
+        "deaths": 1127,
+        "recovered": 28991
     },
     {
         "Name": "포르투갈",
@@ -867,9 +867,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5733,
+        "confirmed": 5739,
         "deaths": 179,
-        "recovered": 4053
+        "recovered": 4065
     },
     {
         "Name": "요르단",
@@ -928,20 +928,20 @@
         "recovered": 4717
     },
     {
+        "Name": "Equatorial Guinea",
+        "Name_ch": "",
+        "Name_en": "Equatorial Guinea",
+        "confirmed": 5018,
+        "deaths": 83,
+        "recovered": 4509
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
         "confirmed": 5002,
         "deaths": 89,
         "recovered": 3887
-    },
-    {
-        "Name": "Equatorial Guinea",
-        "Name_ch": "",
-        "Name_en": "Equatorial Guinea",
-        "confirmed": 5002,
-        "deaths": 83,
-        "recovered": 4509
     },
     {
         "Name": "Nicaragua",
