@@ -32,20 +32,20 @@
         "recovered": 911973
     },
     {
+        "Name": "페루",
+        "Name_ch": "秘鲁",
+        "Name_en": "Peru",
+        "confirmed": 772896,
+        "deaths": 31474,
+        "recovered": 622418
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "confirmed": 770435,
         "deaths": 24397,
         "recovered": 640900
-    },
-    {
-        "Name": "페루",
-        "Name_ch": "秘鲁",
-        "Name_en": "Peru",
-        "confirmed": 768895,
-        "deaths": 31369,
-        "recovered": 615255
     },
     {
         "Name": "멕시코",
@@ -715,8 +715,8 @@
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
-        "confirmed": 10732,
-        "deaths": 159,
+        "confirmed": 11260,
+        "deaths": 164,
         "recovered": 2386
     },
     {
@@ -1205,7 +1205,7 @@
         "Name_en": "New Zealand",
         "confirmed": 1815,
         "deaths": 25,
-        "recovered": 1728
+        "recovered": 1729
     },
     {
         "Name": "안도라",
