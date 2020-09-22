@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7047643,204577,4300813
+미국,美国,United States,7049125,204633,4301066
 인도,印度,India,5574096,89068,4503976
 브라질,巴西,Brazil,4560083,137350,3887199
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -86,10 +86,10 @@ Madagascar,,Madagascar,16136,226,14743
 세네갈,塞内加尔,Senegal,14759,302,11621
 Zambia,,Zambia,14389,331,13629
 Sudan,,Sudan,13555,836,6760
-노르웨이,挪威,Norway,13005,267,10371
+노르웨이,挪威,Norway,13075,267,10371
 Albania,,Albania,12535,364,6995
 Tunisia,,Tunisia,11260,164,2386
-Namibia,,Namibia,10526,113,8112
+Namibia,,Namibia,10607,116,8359
 DRC,,DRC,10523,271,10011
 말레이시아,马来西亚,Malaysia,10358,130,9563
 Guinea,,Guinea,10344,65,9757
@@ -111,8 +111,8 @@ Malawi,,Malawi,5733,179,4053
 Djibouti,,Djibouti,5404,61,5336
 Eswatini,,Eswatini,5282,104,4647
 Cabo Verde,,Cabo Verde,5281,52,4674
+Cuba,,Cuba,5222,117,4506
 Jamaica,,Jamaica,5143,70,1407
-Cuba,,Cuba,5141,116,4462
 홍콩,香港,Hong Kong,5047,103,4717
 요르단,约旦,Jordan,5045,32,3527
 Congo,,Congo,5002,89,3887
@@ -135,7 +135,7 @@ Somalia,,Somalia,3465,98,2877
 Guadeloupe,,Guadeloupe,3426,26,837
 Bahamas,,Bahamas,3418,75,1771
 Réunion,,Réunion,3415,15,2482
-스리랑카,斯里兰卡,Sri Lanka,3299,13,3118
+스리랑카,斯里兰卡,Sri Lanka,3312,13,3118
 Mali,,Mali,3024,128,2377
 에스토니아,爱沙尼亚,Estonia,2976,64,2385
 Malta,,Malta,2814,23,2113
