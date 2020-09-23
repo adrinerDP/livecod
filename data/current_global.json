@@ -4,7 +4,7 @@
         "Name_ch": "美国",
         "Name_en": "United States",
         "confirmed": 7098291,
-        "deaths": 205478,
+        "deaths": 205491,
         "recovered": 4347172
     },
     {
@@ -392,20 +392,20 @@
         "recovered": 57774
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 67804,
+        "deaths": 436,
+        "recovered": 49954
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 66689,
         "deaths": 760,
         "recovered": 25706
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 66632,
-        "deaths": 429,
-        "recovered": 48061
     },
     {
         "Name": "바레인",
@@ -651,9 +651,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16136,
+        "confirmed": 16167,
         "deaths": 226,
-        "recovered": 14743
+        "recovered": 14788
     },
     {
         "Name": "그리스",
@@ -675,9 +675,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14759,
-        "deaths": 302,
-        "recovered": 11621
+        "confirmed": 14795,
+        "deaths": 303,
+        "recovered": 11718
     },
     {
         "Name": "Zambia",
@@ -779,9 +779,9 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 9195,
-        "deaths": 341,
-        "recovered": 7700
+        "confirmed": 9288,
+        "deaths": 343,
+        "recovered": 7850
     },
     {
         "Name": "Montenegro",
@@ -1115,9 +1115,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2814,
+        "confirmed": 2856,
         "deaths": 25,
-        "recovered": 2113
+        "recovered": 2173
     },
     {
         "Name": "South Sudan",
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1068,
+        "confirmed": 1069,
         "deaths": 35,
-        "recovered": 980
+        "recovered": 991
     },
     {
         "Name": "Sao Tome and Principe",

@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7098291,205478,4347172
+미국,美国,United States,7098291,205491,4347172
 인도,印度,India,5650540,90077,4587613
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -48,8 +48,8 @@ Honduras,,Honduras,72306,2206,23230
 Ethiopia,,Ethiopia,70422,1127,28991
 포르투갈,葡萄牙,Portugal,69663,1925,45974
 Venezuela,,Venezuela,68453,564,57774
+네팔,尼泊尔,Nepal,67804,436,49954
 코스타리카,哥斯达黎加,Costa Rica,66689,760,25706
-네팔,尼泊尔,Nepal,66632,429,48061
 바레인,巴林,Bahrain,66402,229,59367
 싱가포르,新加坡,Singapore,57639,27,57262
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
@@ -80,10 +80,10 @@ El Salvador,,El Salvador,27954,819,22113
 Ivory Coast,,Ivory Coast,19343,120,18682
 Bulgaria,,Bulgaria,19123,767,13748
 North Macedonia,,North Macedonia,16867,705,14084
-Madagascar,,Madagascar,16136,226,14743
+Madagascar,,Madagascar,16167,226,14788
 그리스,希腊,Greece,15928,352,9989
 크로아티아,克罗地亚,Croatia,15340,257,13815
-세네갈,塞内加尔,Senegal,14759,302,11621
+세네갈,塞内加尔,Senegal,14795,303,11718
 Zambia,,Zambia,14389,331,13629
 Sudan,,Sudan,13578,836,6760
 노르웨이,挪威,Norway,13153,267,10371
@@ -96,7 +96,7 @@ Guinea,,Guinea,10387,65,9780
 Maldives,,Maldives,9818,34,8438
 French Guiana,,French Guiana,9738,65,9400
 Tajikistan,,Tajikistan,9432,73,8199
-핀란드,芬兰,Finland,9195,341,7700
+핀란드,芬兰,Finland,9288,343,7850
 Montenegro,,Montenegro,9138,146,5544
 Gabon,,Gabon,8704,54,7875
 Haiti,,Haiti,8633,223,6482
@@ -138,7 +138,7 @@ Réunion,,Réunion,3415,15,2482
 스리랑카,斯里兰卡,Sri Lanka,3313,13,3129
 에스토니아,爱沙尼亚,Estonia,3033,64,2387
 Mali,,Mali,3030,129,2380
-Malta,,Malta,2814,25,2113
+Malta,,Malta,2856,25,2173
 South Sudan,,South Sudan,2660,49,1290
 Botswana,,Botswana,2567,13,624
 Guyana,,Guyana,2437,67,1361
@@ -161,7 +161,7 @@ Liberia,,Liberia,1336,82,1218
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1193,69,1104
 Chad,,Chad,1155,81,967
-베트남,越南,Vietnam,1068,35,980
+베트남,越南,Vietnam,1069,35,991
 Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 산마리노,圣马力诺,San Marino,723,42,669
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
