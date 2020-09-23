@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7106819,205866,4360093
+미국,美国,United States,7109750,205914,4365535
 인도,印度,India,5669610,90282,4609704
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -16,8 +16,8 @@ Argentina,,Argentina,652174,13952,517228
 Bangladesh,,Bangladesh,353844,5044,262953
 이라크,伊拉克,Iraq,332635,8754,264988
 사우디아라비아,沙特阿拉伯,Saudi Arabia,331359,4569,313786
+터키,土耳其,Turkey,308069,7711,270723
 파키스탄,巴基斯坦,Pakistan,307418,6432,293916
-터키,土耳其,Turkey,306302,7639,269696
 이탈리아,义大利,Italy,302537,35758,220665
 필리핀,菲律宾,Philippines,294591,5091,231373
 독일,德国,Germany,278192,9505,247900
@@ -45,16 +45,16 @@ Guatemala,,Guatemala,87442,3154,76459
 일본,日本,Japan,79438,1508,71648
 벨라루스,白俄罗斯,Belarus,76357,796,73564
 Honduras,,Honduras,72306,2206,23230
+Ethiopia,,Ethiopia,71083,1141,29253
 포르투갈,葡萄牙,Portugal,70465,1928,46290
-Ethiopia,,Ethiopia,70422,1127,28991
 Venezuela,,Venezuela,68453,564,57774
 네팔,尼泊尔,Nepal,67804,436,49954
 코스타리카,哥斯达黎加,Costa Rica,66689,760,25706
 바레인,巴林,Bahrain,66402,231,59367
 싱가포르,新加坡,Singapore,57639,27,57291
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
+체코,捷克,Czechia,54244,551,26709
 Uzbekistan,,Uzbekistan,53275,444,49649
-체코,捷克,Czechia,53158,531,26151
 스위스,瑞士,Switzerland,51101,2060,42100
 알제리,阿尔及利亚,Algeria,50214,1689,35307
 Moldova,,Moldova,48232,1244,36071
@@ -69,7 +69,7 @@ Kenya,,Kenya,37218,659,24147
 Paraguay,,Paraguay,34828,705,19257
 아일랜드,冰岛,Ireland,33444,1792,23364
 세르비아,塞尔维亚,Serbia,33080,744,31536
-레바논,黎巴嫩,Lebanon,30852,315,12878
+레바논,黎巴嫩,Lebanon,31792,328,13527
 Libya,,Libya,30097,469,16430
 El Salvador,,El Salvador,27954,819,22113
 호주,澳大利亚,Australia,26974,859,24416
@@ -166,7 +166,7 @@ Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 산마리노,圣马力诺,San Marino,723,42,669
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,672,5,581
-Channel Islands,,Channel Islands,652,48,575
+Channel Islands,,Channel Islands,654,48,575
 Sint Maarten,,Sint Maarten,594,20,512
 Papua New Guinea,,Papua New Guinea,527,7,232
 Tanzania,,Tanzania,509,21,183
