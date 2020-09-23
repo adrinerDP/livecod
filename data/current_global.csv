@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7105225,205826,4360074
+미국,美国,United States,7106819,205866,4360093
 인도,印度,India,5669610,90282,4609704
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -10,7 +10,7 @@
 남아프리카 공화국,南非共和国,South Africa,663282,16118,592904
 Argentina,,Argentina,652174,13952,517228
 프랑스,法国,France,468069,31416,93538
-칠레,智利,Chile,448523,12321,423176
+칠레,智利,Chile,449903,12345,425165
 이란,伊朗,Iran,432798,24840,365846
 영국,英国,UK,409729,41862,0
 Bangladesh,,Bangladesh,353844,5044,262953
@@ -20,16 +20,16 @@ Bangladesh,,Bangladesh,353844,5044,262953
 터키,土耳其,Turkey,306302,7639,269696
 이탈리아,义大利,Italy,302537,35758,220665
 필리핀,菲律宾,Philippines,294591,5091,231373
-독일,德国,Germany,277877,9498,247900
+독일,德国,Germany,278192,9505,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
 이스라엘,以色列,Israel,200041,1316,144401
 Ukraine,,Ukraine,184734,3705,81670
-캐나다,加拿大,Canada,146663,9234,126904
+캐나다,加拿大,Canada,147472,9241,127399
 Bolivia,,Bolivia,131453,7693,90853
 에콰도르,厄瓜多尔,Ecuador,127643,11126,102852
 카타르,卡塔尔,Qatar,124175,212,121006
 루마니아,尼亚,Romania,116415,4550,93558
-도미니카 공화국,多明尼加共和国,Dominican Republic,109269,2064,82741
+도미니카 공화국,多明尼加共和国,Dominican Republic,109737,2074,83434
 Kazakhstan,,Kazakhstan,107450,1699,102064
 Panama,,Panama,107284,2285,83318
 모로코,摩洛哥,Morocco,105346,1889,85883
@@ -40,7 +40,7 @@ Panama,,Panama,107284,2285,83318
 오만,阿曼,Oman,95339,875,86482
 스웨덴,瑞典语,Sweden,89756,5876,0
 아랍에미리트,阿拉伯联合酋长国,UAE,87530,406,76995
-Guatemala,,Guatemala,86623,3137,75869
+Guatemala,,Guatemala,87442,3154,76459
 폴란드,波兰,Poland,81673,2344,65561
 일본,日本,Japan,79438,1508,71648
 벨라루스,白俄罗斯,Belarus,76357,796,73564
@@ -135,7 +135,7 @@ Gambia,,Gambia,3540,110,2002
 Bahamas,,Bahamas,3467,77,1871
 Somalia,,Somalia,3465,98,2877
 Réunion,,Réunion,3415,15,2482
-스리랑카,斯里兰卡,Sri Lanka,3315,13,3129
+스리랑카,斯里兰卡,Sri Lanka,3324,13,3129
 에스토니아,爱沙尼亚,Estonia,3033,64,2387
 Mali,,Mali,3030,129,2380
 Malta,,Malta,2856,25,2173
@@ -208,7 +208,7 @@ Greenland,,Greenland,14,0,14
 Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12
-Saint Pierre Miquelon,,Saint Pierre Miquelon,11,0,5
+Saint Pierre Miquelon,,Saint Pierre Miquelon,12,0,6
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3

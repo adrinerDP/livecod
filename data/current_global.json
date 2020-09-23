@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7105225,
-        "deaths": 205826,
-        "recovered": 4360074
+        "confirmed": 7106819,
+        "deaths": 205866,
+        "recovered": 4360093
     },
     {
         "Name": "인도",
@@ -91,9 +91,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 448523,
-        "deaths": 12321,
-        "recovered": 423176
+        "confirmed": 449903,
+        "deaths": 12345,
+        "recovered": 425165
     },
     {
         "Name": "이란",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 277877,
-        "deaths": 9498,
+        "confirmed": 278192,
+        "deaths": 9505,
         "recovered": 247900
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 146663,
-        "deaths": 9234,
-        "recovered": 126904
+        "confirmed": 147472,
+        "deaths": 9241,
+        "recovered": 127399
     },
     {
         "Name": "Bolivia",
@@ -243,9 +243,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 109269,
-        "deaths": 2064,
-        "recovered": 82741
+        "confirmed": 109737,
+        "deaths": 2074,
+        "recovered": 83434
     },
     {
         "Name": "Kazakhstan",
@@ -331,9 +331,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 86623,
-        "deaths": 3137,
-        "recovered": 75869
+        "confirmed": 87442,
+        "deaths": 3154,
+        "recovered": 76459
     },
     {
         "Name": "폴란드",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3315,
+        "confirmed": 3324,
         "deaths": 13,
         "recovered": 3129
     },
@@ -1675,9 +1675,9 @@
         "Name": "Saint Pierre Miquelon",
         "Name_ch": "",
         "Name_en": "Saint Pierre Miquelon",
-        "confirmed": 11,
+        "confirmed": 12,
         "deaths": 0,
-        "recovered": 5
+        "recovered": 6
     },
     {
         "Name": "Western Sahara",
