@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7098674,205503,4347494
+미국,美国,United States,7098766,205503,4347494
 인도,印度,India,5664527,90210,4603424
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -14,7 +14,7 @@ Argentina,,Argentina,652174,13952,517228
 이란,伊朗,Iran,432798,24840,365846
 영국,英国,UK,403551,41825,0
 Bangladesh,,Bangladesh,353844,5044,262953
-사우디아라비아,沙特阿拉伯,Saudi Arabia,330798,4542,312684
+사우디아라비아,沙特阿拉伯,Saudi Arabia,331359,4569,313786
 이라크,伊拉克,Iraq,327580,8682,261757
 파키스탄,巴基斯坦,Pakistan,307418,6432,293916
 터키,土耳其,Turkey,306302,7639,269696
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,70422,1127,28991
 Venezuela,,Venezuela,68453,564,57774
 네팔,尼泊尔,Nepal,67804,436,49954
 코스타리카,哥斯达黎加,Costa Rica,66689,760,25706
-바레인,巴林,Bahrain,66402,229,59367
+바레인,巴林,Bahrain,66402,231,59367
 싱가포르,新加坡,Singapore,57639,27,57262
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
 Uzbekistan,,Uzbekistan,53275,444,49649
@@ -68,7 +68,7 @@ Kenya,,Kenya,37218,659,24147
 팔레스타인,巴勒斯坦,Palestine,37083,272,26288
 Paraguay,,Paraguay,34828,705,19257
 아일랜드,冰岛,Ireland,33444,1792,23364
-세르비아,塞尔维亚,Serbia,32999,743,31536
+세르비아,塞尔维亚,Serbia,33080,744,31536
 레바논,黎巴嫩,Lebanon,30852,315,12878
 Libya,,Libya,30097,469,16430
 El Salvador,,El Salvador,27954,819,22113
@@ -157,7 +157,7 @@ Cyprus,,Cyprus,1618,22,1369
 라트비아,约旦,Latvia,1572,36,1248
 Lesotho,,Lesotho,1424,33,754
 French Polynesia,,French Polynesia,1394,2,1170
-Liberia,,Liberia,1336,82,1218
+Liberia,,Liberia,1337,82,1219
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1193,69,1104
 Chad,,Chad,1155,81,967

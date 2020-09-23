@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7098674,
+        "confirmed": 7098766,
         "deaths": 205503,
         "recovered": 4347494
     },
@@ -123,9 +123,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 330798,
-        "deaths": 4542,
-        "recovered": 312684
+        "confirmed": 331359,
+        "deaths": 4569,
+        "recovered": 313786
     },
     {
         "Name": "이라크",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 66402,
-        "deaths": 229,
+        "deaths": 231,
         "recovered": 59367
     },
     {
@@ -555,8 +555,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 32999,
-        "deaths": 743,
+        "confirmed": 33080,
+        "deaths": 744,
         "recovered": 31536
     },
     {
@@ -1267,9 +1267,9 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1336,
+        "confirmed": 1337,
         "deaths": 82,
-        "recovered": 1218
+        "recovered": 1219
     },
     {
         "Name": "Martinique",
