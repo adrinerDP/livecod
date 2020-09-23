@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 277622,
-        "deaths": 9496,
+        "confirmed": 277866,
+        "deaths": 9498,
         "recovered": 247900
     },
     {
@@ -368,20 +368,20 @@
         "recovered": 23230
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 70465,
+        "deaths": 1928,
+        "recovered": 46290
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 70422,
         "deaths": 1127,
         "recovered": 28991
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 69663,
-        "deaths": 1925,
-        "recovered": 45974
     },
     {
         "Name": "Venezuela",
@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 39378,
-        "deaths": 578,
-        "recovered": 36949
+        "confirmed": 39524,
+        "deaths": 580,
+        "recovered": 37122
     },
     {
         "Name": "아프가니스탄",
@@ -803,9 +803,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8633,
-        "deaths": 223,
-        "recovered": 6482
+        "confirmed": 8646,
+        "deaths": 225,
+        "recovered": 6551
     },
     {
         "Name": "룩셈부르크",
@@ -904,20 +904,20 @@
         "recovered": 4672
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 5270,
+        "deaths": 118,
+        "recovered": 4582
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "confirmed": 5270,
         "deaths": 75,
         "recovered": 1444
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 5222,
-        "deaths": 117,
-        "recovered": 4506
     },
     {
         "Name": "Nicaragua",
