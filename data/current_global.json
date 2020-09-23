@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7110775,
-        "deaths": 205922,
-        "recovered": 4366589
+        "confirmed": 7114598,
+        "deaths": 206025,
+        "recovered": 4371942
     },
     {
         "Name": "인도",
@@ -763,9 +763,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9738,
+        "confirmed": 9762,
         "deaths": 65,
-        "recovered": 9400
+        "recovered": 9431
     },
     {
         "Name": "Tajikistan",
@@ -1035,9 +1035,17 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 3665,
+        "confirmed": 3721,
         "deaths": 25,
-        "recovered": 2426
+        "recovered": 2501
+    },
+    {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3542,
+        "deaths": 110,
+        "recovered": 2011
     },
     {
         "Name": "Mayotte",
@@ -1048,20 +1056,20 @@
         "recovered": 2964
     },
     {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3540,
-        "deaths": 110,
-        "recovered": 2002
-    },
-    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
         "confirmed": 3514,
         "deaths": 59,
         "recovered": 3345
+    },
+    {
+        "Name": "Réunion",
+        "Name_ch": "",
+        "Name_en": "Réunion",
+        "confirmed": 3501,
+        "deaths": 15,
+        "recovered": 2482
     },
     {
         "Name": "Bahamas",
@@ -1078,14 +1086,6 @@
         "confirmed": 3465,
         "deaths": 98,
         "recovered": 2877
-    },
-    {
-        "Name": "Réunion",
-        "Name_ch": "",
-        "Name_en": "Réunion",
-        "confirmed": 3415,
-        "deaths": 15,
-        "recovered": 2482
     },
     {
         "Name": "스리랑카",
@@ -1123,7 +1123,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2660,
+        "confirmed": 2664,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1451,9 +1451,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 291,
+        "confirmed": 301,
         "deaths": 1,
-        "recovered": 103
+        "recovered": 104
     },
     {
         "Name": "캄보디아",
@@ -1483,9 +1483,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 197,
+        "confirmed": 199,
         "deaths": 1,
-        "recovered": 163
+        "recovered": 165
     },
     {
         "Name": "Barbados",

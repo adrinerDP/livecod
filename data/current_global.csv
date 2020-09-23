@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7110775,205922,4366589
+미국,美国,United States,7114598,206025,4371942
 인도,印度,India,5706432,90684,4647459
 브라질,巴西,Brazil,4602241,138410,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -94,7 +94,7 @@ DRC,,DRC,10537,271,10041
 말레이시아,马来西亚,Malaysia,10505,133,9602
 Guinea,,Guinea,10387,65,9780
 Maldives,,Maldives,9885,34,8530
-French Guiana,,French Guiana,9738,65,9400
+French Guiana,,French Guiana,9762,65,9431
 Tajikistan,,Tajikistan,9475,74,8244
 핀란드,芬兰,Finland,9288,343,7850
 Montenegro,,Montenegro,9138,146,5544
@@ -128,18 +128,18 @@ Angola,,Angola,4236,155,1462
 Trinidad and Tobago,,Trinidad and Tobago,4046,67,1960
 Lithuania,,Lithuania,3932,87,2246
 Syria,,Syria,3877,178,983
-Aruba,,Aruba,3665,25,2426
+Aruba,,Aruba,3721,25,2501
+Gambia,,Gambia,3542,110,2011
 Mayotte,,Mayotte,3541,40,2964
-Gambia,,Gambia,3540,110,2002
 태국,泰国,Thailand,3514,59,3345
+Réunion,,Réunion,3501,15,2482
 Bahamas,,Bahamas,3467,77,1871
 Somalia,,Somalia,3465,98,2877
-Réunion,,Réunion,3415,15,2482
 스리랑카,斯里兰卡,Sri Lanka,3324,13,3129
 에스토니아,爱沙尼亚,Estonia,3033,64,2387
 Mali,,Mali,3030,129,2380
 Malta,,Malta,2856,25,2173
-South Sudan,,South Sudan,2660,49,1290
+South Sudan,,South Sudan,2664,49,1290
 Botswana,,Botswana,2567,13,624
 Iceland,,Iceland,2476,10,2142
 Guyana,,Guyana,2437,67,1361
@@ -180,11 +180,11 @@ Eritrea,,Eritrea,364,0,309
 Isle of Man,,Isle of Man,340,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,313,0,302
-Curaçao,,Curaçao,291,1,103
+Curaçao,,Curaçao,301,1,104
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,261,0,195
 Cayman Islands,,Cayman Islands,210,1,205
-모나코,摩纳哥,Monaco,197,1,163
+모나코,摩纳哥,Monaco,199,1,165
 Barbados,,Barbados,189,7,173
 Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
