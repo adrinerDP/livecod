@@ -467,9 +467,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 47667,
-        "deaths": 938,
-        "recovered": 42676
+        "confirmed": 47877,
+        "deaths": 942,
+        "recovered": 43026
     },
     {
         "Name": "Moldova",
@@ -1000,20 +1000,20 @@
         "recovered": 1462
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 4140,
+        "deaths": 24,
+        "recovered": 1643
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 4026,
         "deaths": 65,
         "recovered": 1871
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 3913,
-        "deaths": 23,
-        "recovered": 1574
     },
     {
         "Name": "Syria",
@@ -1373,7 +1373,7 @@
         "Name_en": "Taiwan",
         "confirmed": 509,
         "deaths": 7,
-        "recovered": 479
+        "recovered": 480
     },
     {
         "Name": "Burundi",
