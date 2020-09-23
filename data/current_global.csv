@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7114598,206025,4371942
-인도,印度,India,5706432,90684,4647459
+미국,美国,United States,7118152,206053,4373627
+인도,印度,India,5727750,91163,4667060
 브라질,巴西,Brazil,4602241,138410,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,777537,24570,650801
@@ -9,7 +9,7 @@
 스페인,西班牙,Spain,682267,30904,0
 남아프리카 공화국,南非共和国,South Africa,663282,16118,592904
 Argentina,,Argentina,652174,13952,517228
-프랑스,法国,France,468069,31416,93538
+프랑스,法国,France,481141,31459,93538
 칠레,智利,Chile,449903,12345,425165
 이란,伊朗,Iran,432798,24840,365846
 영국,英国,UK,409729,41862,0
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,353844,5044,262953
 파키스탄,巴基斯坦,Pakistan,307418,6432,293916
 이탈리아,义大利,Italy,302537,35758,220665
 필리핀,菲律宾,Philippines,294591,5091,231373
-독일,德国,Germany,278245,9505,247900
+독일,德国,Germany,278631,9505,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
 이스라엘,以色列,Israel,203136,1316,144686
 Ukraine,,Ukraine,184734,3705,81670
-캐나다,加拿大,Canada,147472,9241,127399
+캐나다,加拿大,Canada,147515,9242,127403
 Bolivia,,Bolivia,131453,7693,90853
 에콰도르,厄瓜多尔,Ecuador,129892,11171,102852
 카타르,卡塔尔,Qatar,124175,212,121006
@@ -109,9 +109,9 @@ Myanmar,,Myanmar,7177,129,1951
 Uganda,,Uganda,6879,69,2961
 요르단,约旦,Jordan,6042,35,3812
 Malawi,,Malawi,5739,179,4065
+Cabo Verde,,Cabo Verde,5412,54,4837
 Djibouti,,Djibouti,5407,61,5338
 Jamaica,,Jamaica,5395,76,1444
-Cabo Verde,,Cabo Verde,5337,52,4742
 Eswatini,,Eswatini,5307,106,4672
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
@@ -123,7 +123,7 @@ Suriname,,Suriname,4759,100,4541
 Rwanda,,Rwanda,4738,27,2991
 슬로베니아,斯洛文尼亚,Slovenia,4694,143,3168
 Guadeloupe,,Guadeloupe,4487,42,2199
-Angola,,Angola,4236,155,1462
+Angola,,Angola,4363,159,1473
 조지아,格鲁吉亚,Georgia,4140,25,1643
 Trinidad and Tobago,,Trinidad and Tobago,4046,67,1960
 Lithuania,,Lithuania,3932,87,2246

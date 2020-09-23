@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7114598,
-        "deaths": 206025,
-        "recovered": 4371942
+        "confirmed": 7118152,
+        "deaths": 206053,
+        "recovered": 4373627
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5706432,
-        "deaths": 90684,
-        "recovered": 4647459
+        "confirmed": 5727750,
+        "deaths": 91163,
+        "recovered": 4667060
     },
     {
         "Name": "브라질",
@@ -83,8 +83,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 468069,
-        "deaths": 31416,
+        "confirmed": 481141,
+        "deaths": 31459,
         "recovered": 93538
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 278245,
+        "confirmed": 278631,
         "deaths": 9505,
         "recovered": 247900
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 147472,
-        "deaths": 9241,
-        "recovered": 127399
+        "confirmed": 147515,
+        "deaths": 9242,
+        "recovered": 127403
     },
     {
         "Name": "Bolivia",
@@ -880,6 +880,14 @@
         "recovered": 4065
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 5412,
+        "deaths": 54,
+        "recovered": 4837
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -894,14 +902,6 @@
         "confirmed": 5395,
         "deaths": 76,
         "recovered": 1444
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 5337,
-        "deaths": 52,
-        "recovered": 4742
     },
     {
         "Name": "Eswatini",
@@ -995,9 +995,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 4236,
-        "deaths": 155,
-        "recovered": 1462
+        "confirmed": 4363,
+        "deaths": 159,
+        "recovered": 1473
     },
     {
         "Name": "조지아",
