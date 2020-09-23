@@ -43,7 +43,7 @@ Panama,,Panama,107284,2285,83318
 Guatemala,,Guatemala,86623,3137,75869
 폴란드,波兰,Poland,81673,2344,65561
 일본,日本,Japan,79438,1508,71648
-벨라루스,白俄罗斯,Belarus,76104,791,73386
+벨라루스,白俄罗斯,Belarus,76357,796,73564
 Honduras,,Honduras,72306,2206,23230
 Ethiopia,,Ethiopia,70422,1127,28991
 포르투갈,葡萄牙,Portugal,69663,1925,45974
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,68453,564,57774
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
 체코,捷克,Czechia,53158,531,26151
 Uzbekistan,,Uzbekistan,53051,443,49224
-스위스,瑞士,Switzerland,50664,2054,42100
+스위스,瑞士,Switzerland,51101,2060,42100
 알제리,阿尔及利亚,Algeria,50214,1689,35307
 아르메니아,亚美尼亚,Armenia,47877,942,43026
 Moldova,,Moldova,47446,1230,35542
@@ -65,7 +65,7 @@ Kyrgyzstan,,Kyrgyzstan,45630,1063,41904
 아제르바이잔,阿塞拜疆,Azerbaijan,39378,578,36949
 아프가니스탄,阿富汗,Afghanistan,39145,1446,32610
 Kenya,,Kenya,37218,659,24147
-팔레스타인,巴勒斯坦,Palestine,36580,269,25469
+팔레스타인,巴勒斯坦,Palestine,37083,272,26288
 Paraguay,,Paraguay,34828,705,19257
 아일랜드,冰岛,Ireland,33444,1792,23364
 세르비아,塞尔维亚,Serbia,32999,743,31536
@@ -74,7 +74,7 @@ Libya,,Libya,29446,460,15913
 El Salvador,,El Salvador,27954,819,22113
 호주,澳大利亚,Australia,26974,859,24416
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,25737,778,18359
-덴마크,丹麦,Denmark,23799,641,18035
+덴마크,丹麦,Denmark,24357,643,18359
 카메룬,喀麦隆,Cameroon,20598,416,19124
 헝가리,匈牙利,Hungary,20450,702,4644
 Ivory Coast,,Ivory Coast,19343,120,18682
@@ -90,7 +90,7 @@ Sudan,,Sudan,13578,836,6760
 Albania,,Albania,12666,367,7042
 Tunisia,,Tunisia,12479,174,2386
 Namibia,,Namibia,10607,116,8359
-DRC,,DRC,10523,271,10011
+DRC,,DRC,10537,271,10041
 말레이시아,马来西亚,Malaysia,10505,133,9602
 Guinea,,Guinea,10387,65,9780
 Maldives,,Maldives,9818,34,8438
@@ -189,7 +189,7 @@ Barbados,,Barbados,189,7,173
 Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
 Seychelles,,Seychelles,143,0,136
-리히텐슈타인,列支敦士登,Liechtenstein,115,1,110
+리히텐슈타인,列支敦士登,Liechtenstein,116,1,110
 Antigua and Barbuda,,Antigua and Barbuda,96,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
