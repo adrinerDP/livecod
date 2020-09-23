@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7100482,205540,4348560
-인도,印度,India,5668361,90255,4608433
+미국,美国,United States,7104786,205799,4360074
+인도,印度,India,5669610,90282,4609704
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,777537,24570,650801
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 사우디아라비아,沙特阿拉伯,Saudi Arabia,331359,4569,313786
 파키스탄,巴基斯坦,Pakistan,307418,6432,293916
 터키,土耳其,Turkey,306302,7639,269696
-이탈리아,义大利,Italy,300897,35738,219670
+이탈리아,义大利,Italy,302537,35758,220665
 필리핀,菲律宾,Philippines,294591,5091,231373
 독일,德国,Germany,277877,9498,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
@@ -51,14 +51,14 @@ Venezuela,,Venezuela,68453,564,57774
 네팔,尼泊尔,Nepal,67804,436,49954
 코스타리카,哥斯达黎加,Costa Rica,66689,760,25706
 바레인,巴林,Bahrain,66402,231,59367
-싱가포르,新加坡,Singapore,57639,27,57262
+싱가포르,新加坡,Singapore,57639,27,57291
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
 Uzbekistan,,Uzbekistan,53275,444,49649
 체코,捷克,Czechia,53158,531,26151
 스위스,瑞士,Switzerland,51101,2060,42100
 알제리,阿尔及利亚,Algeria,50214,1689,35307
+Moldova,,Moldova,48232,1244,36071
 아르메니아,亚美尼亚,Armenia,47877,942,43026
-Moldova,,Moldova,47446,1230,35542
 Ghana,,Ghana,46116,297,45290
 Kyrgyzstan,,Kyrgyzstan,45630,1063,41904
 오스트리아,奥地利,Austria,39984,777,30949
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,27954,819,22113
 헝가리,匈牙利,Hungary,20450,702,4644
 Ivory Coast,,Ivory Coast,19343,120,18682
 Bulgaria,,Bulgaria,19123,767,13748
-North Macedonia,,North Macedonia,16867,705,14084
+North Macedonia,,North Macedonia,17049,710,14186
 Madagascar,,Madagascar,16167,226,14788
 그리스,希腊,Greece,15928,352,9989
 크로아티아,克罗地亚,Croatia,15340,257,13815
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,16167,226,14788
 Zambia,,Zambia,14389,331,13629
 Sudan,,Sudan,13578,836,6760
 노르웨이,挪威,Norway,13153,267,10371
-Albania,,Albania,12666,367,7042
+Albania,,Albania,12787,370,7139
 Tunisia,,Tunisia,12479,174,2386
 Namibia,,Namibia,10607,116,8359
 DRC,,DRC,10537,271,10041
@@ -110,10 +110,10 @@ Uganda,,Uganda,6879,69,2961
 Malawi,,Malawi,5739,179,4065
 요르단,约旦,Jordan,5679,33,3707
 Djibouti,,Djibouti,5407,61,5338
+Jamaica,,Jamaica,5395,76,1444
 Cabo Verde,,Cabo Verde,5337,52,4742
 Eswatini,,Eswatini,5307,106,4672
 Cuba,,Cuba,5270,118,4582
-Jamaica,,Jamaica,5270,75,1444
 Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5050,103,4749
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
