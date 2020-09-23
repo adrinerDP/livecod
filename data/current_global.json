@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7118152,
-        "deaths": 206053,
+        "confirmed": 7119713,
+        "deaths": 206067,
         "recovered": 4373627
     },
     {
@@ -59,8 +59,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 682267,
-        "deaths": 30904,
+        "confirmed": 693556,
+        "deaths": 31034,
         "recovered": 0
     },
     {
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 278631,
-        "deaths": 9505,
+        "confirmed": 278768,
+        "deaths": 9507,
         "recovered": 247900
     },
     {
