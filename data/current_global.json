@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5646010,
-        "deaths": 90021,
+        "confirmed": 5650540,
+        "deaths": 90077,
         "recovered": 4587613
     },
     {
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26972,
+        "confirmed": 26974,
         "deaths": 859,
-        "recovered": 24218
+        "recovered": 24416
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -619,9 +619,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 19499,
-        "deaths": 694,
-        "recovered": 4559
+        "confirmed": 20450,
+        "deaths": 702,
+        "recovered": 4644
     },
     {
         "Name": "Ivory Coast",
@@ -1243,7 +1243,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1560,
+        "confirmed": 1572,
         "deaths": 36,
         "recovered": 1248
     },
