@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7109750,
-        "deaths": 205914,
-        "recovered": 4365535
+        "confirmed": 7110522,
+        "deaths": 205915,
+        "recovered": 4365548
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5669610,
-        "deaths": 90282,
-        "recovered": 4609704
+        "confirmed": 5700508,
+        "deaths": 90619,
+        "recovered": 4641811
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4595335,
-        "deaths": 138159,
+        "confirmed": 4602241,
+        "deaths": 138410,
         "recovered": 3945627
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 200041,
+        "confirmed": 203136,
         "deaths": 1316,
-        "recovered": 144401
+        "recovered": 144686
     },
     {
         "Name": "Ukraine",
@@ -459,9 +459,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 50214,
-        "deaths": 1689,
-        "recovered": 35307
+        "confirmed": 50400,
+        "deaths": 1698,
+        "recovered": 35428
     },
     {
         "Name": "Moldova",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13153,
+        "confirmed": 13210,
         "deaths": 267,
         "recovered": 10371
     },
