@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7119713,
-        "deaths": 206067,
-        "recovered": 4373627
+        "confirmed": 7124772,
+        "deaths": 206250,
+        "recovered": 4378192
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 278768,
-        "deaths": 9507,
+        "confirmed": 279160,
+        "deaths": 9508,
         "recovered": 247900
     },
     {
@@ -392,20 +392,20 @@
         "recovered": 57774
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 68059,
+        "deaths": 781,
+        "recovered": 26136
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 67804,
         "deaths": 436,
         "recovered": 49954
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 66689,
-        "deaths": 760,
-        "recovered": 25706
     },
     {
         "Name": "바레인",
@@ -1208,20 +1208,20 @@
         "recovered": 1737
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 1753,
+        "deaths": 53,
+        "recovered": 1203
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "confirmed": 1683,
         "deaths": 41,
         "recovered": 1290
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "confirmed": 1681,
-        "deaths": 53,
-        "recovered": 1199
     },
     {
         "Name": "Belize",
