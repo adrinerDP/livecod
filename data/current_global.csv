@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7104786,205799,4360074
+미국,美国,United States,7105225,205826,4360074
 인도,印度,India,5669610,90282,4609704
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -12,7 +12,7 @@ Argentina,,Argentina,652174,13952,517228
 프랑스,法国,France,468069,31416,93538
 칠레,智利,Chile,448523,12321,423176
 이란,伊朗,Iran,432798,24840,365846
-영국,英国,UK,403551,41825,0
+영국,英国,UK,409729,41862,0
 Bangladesh,,Bangladesh,353844,5044,262953
 이라크,伊拉克,Iraq,332635,8754,264988
 사우디아라비아,沙特阿拉伯,Saudi Arabia,331359,4569,313786
@@ -80,8 +80,8 @@ El Salvador,,El Salvador,27954,819,22113
 Ivory Coast,,Ivory Coast,19343,120,18682
 Bulgaria,,Bulgaria,19123,767,13748
 North Macedonia,,North Macedonia,17049,710,14186
+그리스,希腊,Greece,16286,357,9989
 Madagascar,,Madagascar,16167,226,14788
-그리스,希腊,Greece,15928,352,9989
 크로아티아,克罗地亚,Croatia,15340,257,13815
 세네갈,塞内加尔,Senegal,14795,303,11718
 Zambia,,Zambia,14389,331,13629
@@ -107,8 +107,8 @@ Mauritania,,Mauritania,7403,161,7011
 Myanmar,,Myanmar,7177,129,1951
 Mozambique,,Mozambique,7114,45,4064
 Uganda,,Uganda,6879,69,2961
+요르단,约旦,Jordan,6042,35,3812
 Malawi,,Malawi,5739,179,4065
-요르단,约旦,Jordan,5679,33,3707
 Djibouti,,Djibouti,5407,61,5338
 Jamaica,,Jamaica,5395,76,1444
 Cabo Verde,,Cabo Verde,5337,52,4742
@@ -125,7 +125,7 @@ Rwanda,,Rwanda,4738,27,2991
 Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4236,155,1462
 조지아,格鲁吉亚,Georgia,4140,25,1643
-Trinidad and Tobago,,Trinidad and Tobago,4026,65,1871
+Trinidad and Tobago,,Trinidad and Tobago,4046,67,1960
 Lithuania,,Lithuania,3932,87,2246
 Syria,,Syria,3877,178,983
 Aruba,,Aruba,3665,25,2426
@@ -146,7 +146,7 @@ Guyana,,Guyana,2437,67,1361
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2174,72,1652
-Yemen,,Yemen,2028,586,1240
+Yemen,,Yemen,2029,586,1245
 Uruguay,,Uruguay,1934,46,1645
 Burkina Faso,,Burkina Faso,1907,56,1252
 New Zealand,,New Zealand,1824,25,1737
