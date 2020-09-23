@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5700508,
-        "deaths": 90619,
-        "recovered": 4641811
+        "confirmed": 5706432,
+        "deaths": 90684,
+        "recovered": 4647459
     },
     {
         "Name": "브라질",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 278192,
+        "confirmed": 278245,
         "deaths": 9505,
         "recovered": 247900
     },
@@ -755,9 +755,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 9818,
+        "confirmed": 9885,
         "deaths": 34,
-        "recovered": 8438
+        "recovered": 8530
     },
     {
         "Name": "French Guiana",
@@ -840,20 +840,20 @@
         "recovered": 3888
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 7262,
+        "deaths": 49,
+        "recovered": 4350
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "confirmed": 7177,
         "deaths": 129,
         "recovered": 1951
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 7114,
-        "deaths": 45,
-        "recovered": 4064
     },
     {
         "Name": "Uganda",
@@ -1227,9 +1227,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1635,
+        "confirmed": 1669,
         "deaths": 21,
-        "recovered": 967
+        "recovered": 1004
     },
     {
         "Name": "Cyprus",
@@ -1251,9 +1251,9 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1424,
-        "deaths": 33,
-        "recovered": 754
+        "confirmed": 1507,
+        "deaths": 35,
+        "recovered": 766
     },
     {
         "Name": "French Polynesia",

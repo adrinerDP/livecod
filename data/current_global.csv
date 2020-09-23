@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7110775,205922,4366589
-인도,印度,India,5700508,90619,4641811
+인도,印度,India,5706432,90684,4647459
 브라질,巴西,Brazil,4602241,138410,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,777537,24570,650801
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 파키스탄,巴基斯坦,Pakistan,307418,6432,293916
 이탈리아,义大利,Italy,302537,35758,220665
 필리핀,菲律宾,Philippines,294591,5091,231373
-독일,德国,Germany,278192,9505,247900
+독일,德国,Germany,278245,9505,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
 이스라엘,以色列,Israel,203136,1316,144686
 Ukraine,,Ukraine,184734,3705,81670
@@ -93,7 +93,7 @@ Namibia,,Namibia,10607,116,8359
 DRC,,DRC,10537,271,10041
 말레이시아,马来西亚,Malaysia,10505,133,9602
 Guinea,,Guinea,10387,65,9780
-Maldives,,Maldives,9818,34,8438
+Maldives,,Maldives,9885,34,8530
 French Guiana,,French Guiana,9738,65,9400
 Tajikistan,,Tajikistan,9475,74,8244
 핀란드,芬兰,Finland,9288,343,7850
@@ -104,8 +104,8 @@ Haiti,,Haiti,8646,225,6551
 Zimbabwe,,Zimbabwe,7711,226,5979
 Mauritania,,Mauritania,7403,161,7011
 슬로바키아,斯洛伐克,Slovakia,7269,41,3888
+Mozambique,,Mozambique,7262,49,4350
 Myanmar,,Myanmar,7177,129,1951
-Mozambique,,Mozambique,7114,45,4064
 Uganda,,Uganda,6879,69,2961
 요르단,约旦,Jordan,6042,35,3812
 Malawi,,Malawi,5739,179,4065
@@ -152,10 +152,10 @@ Burkina Faso,,Burkina Faso,1907,56,1252
 New Zealand,,New Zealand,1824,25,1737
 토고,多哥,Togo,1683,41,1290
 안도라,安道尔,Andorra,1681,53,1199
-Belize,,Belize,1635,21,967
+Belize,,Belize,1669,21,1004
 Cyprus,,Cyprus,1618,22,1369
 라트비아,约旦,Latvia,1572,36,1248
-Lesotho,,Lesotho,1424,33,754
+Lesotho,,Lesotho,1507,35,766
 French Polynesia,,French Polynesia,1394,2,1170
 Liberia,,Liberia,1337,82,1219
 Martinique,,Martinique,1290,20,98
