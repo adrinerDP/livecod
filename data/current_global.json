@@ -587,8 +587,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26942,
-        "deaths": 854,
+        "confirmed": 26972,
+        "deaths": 859,
         "recovered": 24218
     },
     {
@@ -1203,9 +1203,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1815,
+        "confirmed": 1824,
         "deaths": 25,
-        "recovered": 1729
+        "recovered": 1737
     },
     {
         "Name": "토고",
