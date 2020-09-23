@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 772896,
-        "deaths": 31474,
-        "recovered": 622418
+        "confirmed": 776546,
+        "deaths": 31586,
+        "recovered": 629094
     },
     {
         "Name": "멕시코",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 72075,
-        "deaths": 2204,
-        "recovered": 22611
+        "confirmed": 72306,
+        "deaths": 2206,
+        "recovered": 23230
     },
     {
         "Name": "Ethiopia",
