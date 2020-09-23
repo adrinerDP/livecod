@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7129569,206331,4380556
+미국,美国,United States,7130121,206331,4381300
 인도,印度,India,5730184,91173,4671850
 브라질,巴西,Brazil,4624885,138977,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,71083,1141,29253
 Venezuela,,Venezuela,68453,564,57774
 코스타리카,哥斯达黎加,Costa Rica,68059,781,26136
 네팔,尼泊尔,Nepal,67804,436,49954
-바레인,巴林,Bahrain,66402,231,59367
+바레인,巴林,Bahrain,67014,231,60117
 싱가포르,新加坡,Singapore,57639,27,57291
 나이지리아,尼日利亚,Nigeria,57613,1100,48836
 체코,捷克,Czechia,54244,551,26709
@@ -98,7 +98,7 @@ French Guiana,,French Guiana,9762,65,9431
 Tajikistan,,Tajikistan,9475,74,8244
 핀란드,芬兰,Finland,9288,343,7850
 Montenegro,,Montenegro,9138,146,5544
-Gabon,,Gabon,8704,54,7875
+Gabon,,Gabon,8716,54,7906
 Haiti,,Haiti,8646,225,6551
 룩셈부르크,卢森堡,Luxembourg,8016,124,6848
 Zimbabwe,,Zimbabwe,7725,227,6007
@@ -141,8 +141,8 @@ Mali,,Mali,3034,130,2382
 Malta,,Malta,2856,25,2173
 South Sudan,,South Sudan,2664,49,1290
 Botswana,,Botswana,2567,13,624
+Guyana,,Guyana,2535,69,1464
 Iceland,,Iceland,2476,10,2142
-Guyana,,Guyana,2437,67,1361
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2183,72,1665

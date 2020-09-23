@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7129569,
+        "confirmed": 7130121,
         "deaths": 206331,
-        "recovered": 4380556
+        "recovered": 4381300
     },
     {
         "Name": "인도",
@@ -411,9 +411,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 66402,
+        "confirmed": 67014,
         "deaths": 231,
-        "recovered": 59367
+        "recovered": 60117
     },
     {
         "Name": "싱가포르",
@@ -795,9 +795,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8704,
+        "confirmed": 8716,
         "deaths": 54,
-        "recovered": 7875
+        "recovered": 7906
     },
     {
         "Name": "Haiti",
@@ -1136,20 +1136,20 @@
         "recovered": 624
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 2535,
+        "deaths": 69,
+        "recovered": 1464
+    },
+    {
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
         "confirmed": 2476,
         "deaths": 10,
         "recovered": 2142
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 2437,
-        "deaths": 67,
-        "recovered": 1361
     },
     {
         "Name": "Guinea-Bissau",
