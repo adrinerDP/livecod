@@ -163,15 +163,15 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 291789,
-        "deaths": 5049,
-        "recovered": 230643
+        "confirmed": 294591,
+        "deaths": 5091,
+        "recovered": 231373
     },
     {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 277176,
+        "confirmed": 277193,
         "deaths": 9491,
         "recovered": 247900
     },
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 252923,
-        "deaths": 9837,
-        "recovered": 184298
+        "confirmed": 257388,
+        "deaths": 9977,
+        "recovered": 187958
     },
     {
         "Name": "이스라엘",
@@ -339,9 +339,9 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 80699,
-        "deaths": 2316,
-        "recovered": 64972
+        "confirmed": 81673,
+        "deaths": 2344,
+        "recovered": 65561
     },
     {
         "Name": "일본",
@@ -979,9 +979,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 4558,
-        "deaths": 142,
-        "recovered": 3048
+        "confirmed": 4694,
+        "deaths": 143,
+        "recovered": 3168
     },
     {
         "Name": "Guadeloupe",
@@ -1093,7 +1093,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3313,
         "deaths": 13,
-        "recovered": 3118
+        "recovered": 3129
     },
     {
         "Name": "에스토니아",
@@ -1301,7 +1301,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1068,
         "deaths": 35,
-        "recovered": 957
+        "recovered": 980
     },
     {
         "Name": "Sao Tome and Principe",
