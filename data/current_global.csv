@@ -11,7 +11,7 @@
 Argentina,,Argentina,652174,13952,517228
 프랑스,法国,France,468069,31416,93538
 칠레,智利,Chile,448523,12321,423176
-이란,伊朗,Iran,429193,24656,363737
+이란,伊朗,Iran,432798,24840,365846
 영국,英国,UK,403551,41825,0
 Bangladesh,,Bangladesh,353844,5044,262953
 사우디아라비아,沙特阿拉伯,Saudi Arabia,330798,4542,312684
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 터키,土耳其,Turkey,306302,7639,269696
 이탈리아,义大利,Italy,300897,35738,219670
 필리핀,菲律宾,Philippines,294591,5091,231373
-독일,德国,Germany,277376,9493,247900
+독일,德国,Germany,277420,9494,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
 이스라엘,以色列,Israel,200041,1316,144401
 Ukraine,,Ukraine,184734,3705,81670
@@ -141,8 +141,8 @@ Mali,,Mali,3030,129,2380
 Malta,,Malta,2856,25,2173
 South Sudan,,South Sudan,2660,49,1290
 Botswana,,Botswana,2567,13,624
+Iceland,,Iceland,2476,10,2142
 Guyana,,Guyana,2437,67,1361
-Iceland,,Iceland,2419,10,2130
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2174,72,1652
@@ -176,7 +176,7 @@ Comoros,,Comoros,470,7,453
 Faeroe Islands,,Faeroe Islands,451,0,416
 Mauritius,,Mauritius,367,10,339
 Eritrea,,Eritrea,364,0,309
-지브롤터,直布罗陀,Gibraltar,355,0,323
+지브롤터,直布罗陀,Gibraltar,357,0,324
 Isle of Man,,Isle of Man,340,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,313,0,302
