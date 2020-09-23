@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 352178,
-        "deaths": 5007,
-        "recovered": 260790
+        "confirmed": 353844,
+        "deaths": 5044,
+        "recovered": 262953
     },
     {
         "Name": "사우디아라비아",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 277193,
-        "deaths": 9491,
+        "confirmed": 277376,
+        "deaths": 9493,
         "recovered": 247900
     },
     {
@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 114648,
-        "deaths": 4503,
-        "recovered": 92169
+        "confirmed": 116415,
+        "deaths": 4550,
+        "recovered": 93558
     },
     {
         "Name": "도미니카 공화국",
@@ -307,9 +307,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 94711,
-        "deaths": 865,
-        "recovered": 86195
+        "confirmed": 95339,
+        "deaths": 875,
+        "recovered": 86482
     },
     {
         "Name": "스웨덴",
@@ -736,20 +736,20 @@
         "recovered": 10011
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 10505,
+        "deaths": 133,
+        "recovered": 9602
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
         "confirmed": 10387,
         "deaths": 65,
         "recovered": 9780
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 10358,
-        "deaths": 130,
-        "recovered": 9563
     },
     {
         "Name": "Maldives",
@@ -931,9 +931,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5047,
+        "confirmed": 5050,
         "deaths": 103,
-        "recovered": 4717
+        "recovered": 4749
     },
     {
         "Name": "Equatorial Guinea",
@@ -1116,7 +1116,7 @@
         "Name_ch": "",
         "Name_en": "Malta",
         "confirmed": 2814,
-        "deaths": 23,
+        "deaths": 25,
         "recovered": 2113
     },
     {
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 448,
+        "confirmed": 451,
         "deaths": 0,
-        "recovered": 414
+        "recovered": 416
     },
     {
         "Name": "Mauritius",
