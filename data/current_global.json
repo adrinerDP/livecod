@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 193374,
-        "deaths": 1285,
-        "recovered": 140751
+        "confirmed": 200041,
+        "deaths": 1316,
+        "recovered": 144401
     },
     {
         "Name": "Ukraine",
@@ -496,20 +496,20 @@
         "recovered": 41904
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 39984,
+        "deaths": 777,
+        "recovered": 30949
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "confirmed": 39378,
         "deaths": 578,
         "recovered": 36949
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 39303,
-        "deaths": 771,
-        "recovered": 30312
     },
     {
         "Name": "아프가니스탄",
@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 15136,
-        "deaths": 255,
-        "recovered": 12987
+        "confirmed": 15340,
+        "deaths": 257,
+        "recovered": 13815
     },
     {
         "Name": "세네갈",
@@ -832,6 +832,14 @@
         "recovered": 7011
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 7269,
+        "deaths": 41,
+        "recovered": 3888
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -846,14 +854,6 @@
         "confirmed": 6959,
         "deaths": 116,
         "recovered": 1951
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 6931,
-        "deaths": 40,
-        "recovered": 3668
     },
     {
         "Name": "Uganda",
@@ -1004,7 +1004,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 4140,
-        "deaths": 24,
+        "deaths": 25,
         "recovered": 1643
     },
     {
@@ -1016,20 +1016,20 @@
         "recovered": 1871
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 3932,
+        "deaths": 87,
+        "recovered": 2246
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 3877,
         "deaths": 178,
         "recovered": 983
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 3859,
-        "deaths": 87,
-        "recovered": 2225
     },
     {
         "Name": "Aruba",
