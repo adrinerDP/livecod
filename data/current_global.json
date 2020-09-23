@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7097148,
-        "deaths": 205439,
-        "recovered": 4343501
+        "confirmed": 7097937,
+        "deaths": 205471,
+        "recovered": 4346110
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 146570,
+        "confirmed": 146663,
         "deaths": 9234,
-        "recovered": 126288
+        "recovered": 126904
     },
     {
         "Name": "Bolivia",
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 106810,
-        "deaths": 2272,
-        "recovered": 82320
+        "confirmed": 107284,
+        "deaths": 2285,
+        "recovered": 83318
     },
     {
         "Name": "모로코",
@@ -387,9 +387,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 67443,
-        "deaths": 555,
-        "recovered": 56726
+        "confirmed": 68453,
+        "deaths": 564,
+        "recovered": 57774
     },
     {
         "Name": "코스타리카",
@@ -539,9 +539,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 34260,
-        "deaths": 676,
-        "recovered": 18629
+        "confirmed": 34828,
+        "deaths": 705,
+        "recovered": 19257
     },
     {
         "Name": "아일랜드",
@@ -955,7 +955,7 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4786,
+        "confirmed": 4802,
         "deaths": 62,
         "recovered": 1830
     },
@@ -1064,20 +1064,20 @@
         "recovered": 3343
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3467,
+        "deaths": 77,
+        "recovered": 1871
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
         "confirmed": 3465,
         "deaths": 98,
         "recovered": 2877
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3418,
-        "deaths": 75,
-        "recovered": 1771
     },
     {
         "Name": "Réunion",
