@@ -840,20 +840,20 @@
         "recovered": 4064
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 6959,
+        "deaths": 116,
+        "recovered": 1951
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "confirmed": 6931,
         "deaths": 40,
         "recovered": 3668
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 6743,
-        "deaths": 115,
-        "recovered": 1951
     },
     {
         "Name": "Uganda",
@@ -1469,7 +1469,7 @@
         "Name_en": "Bhutan",
         "confirmed": 261,
         "deaths": 0,
-        "recovered": 194
+        "recovered": 195
     },
     {
         "Name": "Cayman Islands",
