@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7134818,206504,4384159
+미국,美国,United States,7135608,206483,4384319
 인도,印度,India,5730184,91173,4671850
-브라질,巴西,Brazil,4624885,138977,3992886
+브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
 페루,秘鲁,Peru,776546,31586,629094
@@ -30,9 +30,9 @@ Bolivia,,Bolivia,131453,7693,90853
 카타르,卡塔尔,Qatar,124175,212,121006
 루마니아,尼亚,Romania,116415,4550,93558
 도미니카 공화국,多明尼加共和国,Dominican Republic,109737,2074,83434
+Panama,,Panama,107990,2291,84437
 모로코,摩洛哥,Morocco,107743,1918,88244
 Kazakhstan,,Kazakhstan,107450,1699,102064
-Panama,,Panama,107284,2285,83318
 벨기에,比利时,Belgium,105226,9955,19039
 이집트,埃及,Egypt,102375,5822,91843
 쿠웨이트,科威特,Kuwait,101299,590,92341
@@ -53,7 +53,7 @@ Venezuela,,Venezuela,68453,564,57774
 바레인,巴林,Bahrain,67014,231,60117
 나이지리아,尼日利亚,Nigeria,57724,1102,48985
 싱가포르,新加坡,Singapore,57639,27,57291
-체코,捷克,Czechia,54244,551,26709
+체코,捷克,Czechia,55464,555,26709
 Uzbekistan,,Uzbekistan,53275,444,49649
 스위스,瑞士,Switzerland,51101,2060,42100
 알제리,阿尔及利亚,Algeria,50400,1698,35428
@@ -147,13 +147,13 @@ Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2183,72,1665
 Yemen,,Yemen,2029,586,1245
-Uruguay,,Uruguay,1934,46,1645
+Uruguay,,Uruguay,1946,47,1661
 Burkina Faso,,Burkina Faso,1929,56,1252
 New Zealand,,New Zealand,1824,25,1737
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1701,41,1297
 Belize,,Belize,1669,21,1004
-Cyprus,,Cyprus,1618,22,1369
+Cyprus,,Cyprus,1654,22,1369
 라트비아,约旦,Latvia,1572,36,1248
 Lesotho,,Lesotho,1507,35,766
 French Polynesia,,French Polynesia,1394,2,1170
