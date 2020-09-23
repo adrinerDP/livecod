@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7124958,206251,4378363
+미국,美国,United States,7129569,206331,4380556
 인도,印度,India,5730184,91173,4671850
-브라질,巴西,Brazil,4602241,138410,3945627
+브라질,巴西,Brazil,4624885,138977,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,777537,24570,650801
 페루,秘鲁,Peru,776546,31586,629094
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 필리핀,菲律宾,Philippines,294591,5091,231373
 독일,德国,Germany,279160,9508,247900
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
-이스라엘,以色列,Israel,203136,1316,144686
+이스라엘,以色列,Israel,204690,1325,144963
 Ukraine,,Ukraine,184734,3705,81670
 캐나다,加拿大,Canada,147522,9242,127422
 Bolivia,,Bolivia,131453,7693,90853
@@ -64,7 +64,7 @@ Kyrgyzstan,,Kyrgyzstan,45630,1063,41904
 오스트리아,奥地利,Austria,39984,777,30949
 아제르바이잔,阿塞拜疆,Azerbaijan,39524,580,37122
 아프가니스탄,阿富汗,Afghanistan,39145,1446,32610
-Kenya,,Kenya,37218,659,24147
+Kenya,,Kenya,37348,664,24253
 팔레스타인,巴勒斯坦,Palestine,37083,272,26288
 Paraguay,,Paraguay,34828,705,19257
 아일랜드,冰岛,Ireland,33675,1794,23364
@@ -84,12 +84,12 @@ North Macedonia,,North Macedonia,17049,710,14186
 Madagascar,,Madagascar,16167,226,14788
 크로아티아,克罗地亚,Croatia,15340,257,13815
 세네갈,塞内加尔,Senegal,14795,303,11718
-Zambia,,Zambia,14389,331,13629
+Zambia,,Zambia,14443,332,13629
 Sudan,,Sudan,13578,836,6760
 노르웨이,挪威,Norway,13210,267,10371
 Albania,,Albania,12787,370,7139
 Tunisia,,Tunisia,12479,174,2386
-Namibia,,Namibia,10607,116,8359
+Namibia,,Namibia,10663,117,8431
 DRC,,DRC,10537,271,10041
 말레이시아,马来西亚,Malaysia,10505,133,9602
 Guinea,,Guinea,10387,65,9780
@@ -101,7 +101,7 @@ Montenegro,,Montenegro,9138,146,5544
 Gabon,,Gabon,8704,54,7875
 Haiti,,Haiti,8646,225,6551
 룩셈부르크,卢森堡,Luxembourg,8016,124,6848
-Zimbabwe,,Zimbabwe,7711,226,5979
+Zimbabwe,,Zimbabwe,7725,227,6007
 Mauritania,,Mauritania,7425,161,7028
 슬로바키아,斯洛伐克,Slovakia,7269,41,3888
 Mozambique,,Mozambique,7262,49,4350
@@ -112,7 +112,7 @@ Malawi,,Malawi,5746,179,4140
 Cabo Verde,,Cabo Verde,5412,54,4837
 Djibouti,,Djibouti,5407,61,5338
 Jamaica,,Jamaica,5395,76,1444
-Eswatini,,Eswatini,5307,106,4672
+Eswatini,,Eswatini,5343,108,4693
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5050,103,4749
@@ -127,7 +127,7 @@ Angola,,Angola,4363,159,1473
 조지아,格鲁吉亚,Georgia,4140,25,1643
 Trinidad and Tobago,,Trinidad and Tobago,4046,67,1960
 Lithuania,,Lithuania,3932,87,2246
-Syria,,Syria,3877,178,983
+Syria,,Syria,3924,181,998
 Aruba,,Aruba,3721,25,2501
 Gambia,,Gambia,3542,110,2011
 Mayotte,,Mayotte,3541,40,2964

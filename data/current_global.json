@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7124958,
-        "deaths": 206251,
-        "recovered": 4378363
+        "confirmed": 7129569,
+        "deaths": 206331,
+        "recovered": 4380556
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4602241,
-        "deaths": 138410,
+        "confirmed": 4624885,
+        "deaths": 138977,
         "recovered": 3945627
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 203136,
-        "deaths": 1316,
-        "recovered": 144686
+        "confirmed": 204690,
+        "deaths": 1325,
+        "recovered": 144963
     },
     {
         "Name": "Ukraine",
@@ -523,9 +523,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 37218,
-        "deaths": 659,
-        "recovered": 24147
+        "confirmed": 37348,
+        "deaths": 664,
+        "recovered": 24253
     },
     {
         "Name": "팔레스타인",
@@ -683,8 +683,8 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14389,
-        "deaths": 331,
+        "confirmed": 14443,
+        "deaths": 332,
         "recovered": 13629
     },
     {
@@ -723,9 +723,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 10607,
-        "deaths": 116,
-        "recovered": 8359
+        "confirmed": 10663,
+        "deaths": 117,
+        "recovered": 8431
     },
     {
         "Name": "DRC",
@@ -819,9 +819,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7711,
-        "deaths": 226,
-        "recovered": 5979
+        "confirmed": 7725,
+        "deaths": 227,
+        "recovered": 6007
     },
     {
         "Name": "Mauritania",
@@ -907,9 +907,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5307,
-        "deaths": 106,
-        "recovered": 4672
+        "confirmed": 5343,
+        "deaths": 108,
+        "recovered": 4693
     },
     {
         "Name": "Cuba",
@@ -1027,9 +1027,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3877,
-        "deaths": 178,
-        "recovered": 983
+        "confirmed": 3924,
+        "deaths": 181,
+        "recovered": 998
     },
     {
         "Name": "Aruba",
