@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7098291,205491,4347172
+미국,美国,United States,7098674,205503,4347494
 인도,印度,India,5650540,90077,4587613
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -36,9 +36,9 @@ Panama,,Panama,107284,2285,83318
 벨기에,比利时,Belgium,105226,9955,19039
 이집트,埃及,Egypt,102254,5806,91143
 쿠웨이트,科威特,Kuwait,100683,588,91612
-네덜란드,荷兰,Netherlands,98240,6291,0
+네덜란드,荷兰,Netherlands,100597,6296,0
 오만,阿曼,Oman,95339,875,86482
-스웨덴,瑞典语,Sweden,89436,5870,0
+스웨덴,瑞典语,Sweden,89756,5876,0
 아랍에미리트,阿拉伯联合酋长国,UAE,87530,406,76995
 Guatemala,,Guatemala,86623,3137,75869
 폴란드,波兰,Poland,81673,2344,65561
@@ -106,7 +106,7 @@ Mauritania,,Mauritania,7403,161,7011
 슬로바키아,斯洛伐克,Slovakia,7269,41,3888
 Mozambique,,Mozambique,7114,45,4064
 Myanmar,,Myanmar,6959,116,1951
-Uganda,,Uganda,6712,64,2778
+Uganda,,Uganda,6879,69,2961
 Malawi,,Malawi,5739,179,4065
 요르단,约旦,Jordan,5679,33,3707
 Djibouti,,Djibouti,5407,61,5338
@@ -135,7 +135,7 @@ Gambia,,Gambia,3540,110,2002
 Bahamas,,Bahamas,3467,77,1871
 Somalia,,Somalia,3465,98,2877
 Réunion,,Réunion,3415,15,2482
-스리랑카,斯里兰卡,Sri Lanka,3313,13,3129
+스리랑카,斯里兰卡,Sri Lanka,3315,13,3129
 에스토니아,爱沙尼亚,Estonia,3033,64,2387
 Mali,,Mali,3030,129,2380
 Malta,,Malta,2856,25,2173
@@ -192,8 +192,8 @@ Seychelles,,Seychelles,143,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,116,1,110
 Antigua and Barbuda,,Antigua and Barbuda,96,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
+Caribbean Netherlands,,Caribbean Netherlands,69,1,21
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
-Caribbean Netherlands,,Caribbean Netherlands,54,1,18
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,28
 Saint Lucia,,Saint Lucia,27,0,26

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7098291,
-        "deaths": 205491,
-        "recovered": 4347172
+        "confirmed": 7098674,
+        "deaths": 205503,
+        "recovered": 4347494
     },
     {
         "Name": "인도",
@@ -299,8 +299,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 98240,
-        "deaths": 6291,
+        "confirmed": 100597,
+        "deaths": 6296,
         "recovered": 0
     },
     {
@@ -315,8 +315,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 89436,
-        "deaths": 5870,
+        "confirmed": 89756,
+        "deaths": 5876,
         "recovered": 0
     },
     {
@@ -859,9 +859,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 6712,
-        "deaths": 64,
-        "recovered": 2778
+        "confirmed": 6879,
+        "deaths": 69,
+        "recovered": 2961
     },
     {
         "Name": "Malawi",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3313,
+        "confirmed": 3315,
         "deaths": 13,
         "recovered": 3129
     },
@@ -1544,20 +1544,20 @@
         "recovered": 48
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 69,
+        "deaths": 1,
+        "recovered": 21
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "confirmed": 64,
         "deaths": 0,
         "recovered": 64
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 54,
-        "deaths": 1,
-        "recovered": 18
     },
     {
         "Name": "마카오",
