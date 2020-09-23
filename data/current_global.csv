@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7133311,206473,4383702
+미국,美国,United States,7134818,206504,4384159
 인도,印度,India,5730184,91173,4671850
 브라질,巴西,Brazil,4624885,138977,3992886
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 인도네시아,印度尼西亚,Indonesia,257388,9977,187958
 이스라엘,以色列,Israel,204690,1325,144963
 Ukraine,,Ukraine,184734,3705,81670
-캐나다,加拿大,Canada,147522,9242,127422
+캐나다,加拿大,Canada,147756,9243,127788
 Bolivia,,Bolivia,131453,7693,90853
 에콰도르,厄瓜多尔,Ecuador,129892,11171,102852
 카타르,卡塔尔,Qatar,124175,212,121006
@@ -143,12 +143,12 @@ South Sudan,,South Sudan,2664,49,1290
 Botswana,,Botswana,2567,13,624
 Guyana,,Guyana,2535,69,1464
 Iceland,,Iceland,2476,10,2142
+Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
-Benin,,Benin,2294,40,1954
 Sierra Leone,,Sierra Leone,2183,72,1665
 Yemen,,Yemen,2029,586,1245
 Uruguay,,Uruguay,1934,46,1645
-Burkina Faso,,Burkina Faso,1907,56,1252
+Burkina Faso,,Burkina Faso,1929,56,1252
 New Zealand,,New Zealand,1824,25,1737
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1701,41,1297
@@ -190,7 +190,7 @@ Bermuda,,Bermuda,180,9,166
 Brunei,,Brunei,145,3,142
 Seychelles,,Seychelles,143,0,136
 리히텐슈타인,列支敦士登,Liechtenstein,116,1,110
-Antigua and Barbuda,,Antigua and Barbuda,96,3,92
+Antigua and Barbuda,,Antigua and Barbuda,97,3,92
 British Virgin Islands,,British Virgin Islands,69,1,48
 Caribbean Netherlands,,Caribbean Netherlands,69,1,21
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64

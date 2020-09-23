@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7133311,
-        "deaths": 206473,
-        "recovered": 4383702
+        "confirmed": 7134818,
+        "deaths": 206504,
+        "recovered": 4384159
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 147522,
-        "deaths": 9242,
-        "recovered": 127422
+        "confirmed": 147756,
+        "deaths": 9243,
+        "recovered": 127788
     },
     {
         "Name": "Bolivia",
@@ -1152,20 +1152,20 @@
         "recovered": 2142
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "confirmed": 2325,
+        "deaths": 40,
+        "recovered": 1954
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "confirmed": 2324,
         "deaths": 39,
         "recovered": 1549
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "confirmed": 2294,
-        "deaths": 40,
-        "recovered": 1954
     },
     {
         "Name": "Sierra Leone",
@@ -1195,7 +1195,7 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1907,
+        "confirmed": 1929,
         "deaths": 56,
         "recovered": 1252
     },
@@ -1531,7 +1531,7 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 96,
+        "confirmed": 97,
         "deaths": 3,
         "recovered": 92
     },
