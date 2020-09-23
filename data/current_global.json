@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7130121,
-        "deaths": 206331,
-        "recovered": 4381300
+        "confirmed": 7132382,
+        "deaths": 206348,
+        "recovered": 4382266
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4624885,
         "deaths": 138977,
-        "recovered": 3945627
+        "recovered": 3992886
     },
     {
         "Name": "러시아",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 777537,
-        "deaths": 24570,
-        "recovered": 650801
+        "confirmed": 784268,
+        "deaths": 24746,
+        "recovered": 662277
     },
     {
         "Name": "페루",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 279160,
+        "confirmed": 279205,
         "deaths": 9508,
         "recovered": 247900
     },
@@ -483,9 +483,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 46116,
-        "deaths": 297,
-        "recovered": 45290
+        "confirmed": 46153,
+        "deaths": 299,
+        "recovered": 45299
     },
     {
         "Name": "Kyrgyzstan",
@@ -635,9 +635,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 19123,
-        "deaths": 767,
-        "recovered": 13748
+        "confirmed": 19283,
+        "deaths": 779,
+        "recovered": 13867
     },
     {
         "Name": "North Macedonia",
@@ -747,9 +747,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10387,
+        "confirmed": 10434,
         "deaths": 65,
-        "recovered": 9780
+        "recovered": 9801
     },
     {
         "Name": "Maldives",
@@ -1285,7 +1285,7 @@
         "Name_en": "Niger",
         "confirmed": 1193,
         "deaths": 69,
-        "recovered": 1104
+        "recovered": 1107
     },
     {
         "Name": "Chad",
@@ -1408,6 +1408,14 @@
         "recovered": 339
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 367,
+        "deaths": 8,
+        "recovered": 273
+    },
+    {
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
@@ -1430,14 +1438,6 @@
         "confirmed": 340,
         "deaths": 24,
         "recovered": 312
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "confirmed": 330,
-        "deaths": 6,
-        "recovered": 206
     },
     {
         "Name": "Mongolia",
@@ -1493,7 +1493,7 @@
         "Name_en": "Barbados",
         "confirmed": 189,
         "deaths": 7,
-        "recovered": 173
+        "recovered": 174
     },
     {
         "Name": "Bermuda",
@@ -1568,6 +1568,14 @@
         "recovered": 46
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "confirmed": 45,
+        "deaths": 0,
+        "recovered": 25
+    },
+    {
         "Name": "Fiji",
         "Name_ch": "",
         "Name_en": "Fiji",
@@ -1622,14 +1630,6 @@
         "confirmed": 23,
         "deaths": 0,
         "recovered": 22
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "confirmed": 23,
-        "deaths": 0,
-        "recovered": 16
     },
     {
         "Name": "Saint Kitts and Nevis",
