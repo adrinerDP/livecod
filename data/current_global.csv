@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7132382,206348,4382266
+미국,美国,United States,7133311,206473,4383702
 인도,印度,India,5730184,91173,4671850
 브라질,巴西,Brazil,4624885,138977,3992886
 러시아,俄罗斯,Russia,1122241,19799,923699
@@ -34,7 +34,7 @@ Bolivia,,Bolivia,131453,7693,90853
 Kazakhstan,,Kazakhstan,107450,1699,102064
 Panama,,Panama,107284,2285,83318
 벨기에,比利时,Belgium,105226,9955,19039
-이집트,埃及,Egypt,102254,5806,91143
+이집트,埃及,Egypt,102375,5822,91843
 쿠웨이트,科威特,Kuwait,101299,590,92341
 네덜란드,荷兰,Netherlands,100597,6296,0
 오만,阿曼,Oman,95339,875,86482
@@ -42,7 +42,7 @@ Panama,,Panama,107284,2285,83318
 아랍에미리트,阿拉伯联合酋长国,UAE,87530,406,76995
 Guatemala,,Guatemala,87442,3154,76459
 폴란드,波兰,Poland,81673,2344,65561
-일본,日本,Japan,79438,1508,71648
+일본,日本,Japan,79768,1512,71981
 벨라루스,白俄罗斯,Belarus,76357,796,73564
 Honduras,,Honduras,72306,2206,23230
 Ethiopia,,Ethiopia,71083,1141,29253
@@ -51,8 +51,8 @@ Venezuela,,Venezuela,68453,564,57774
 코스타리카,哥斯达黎加,Costa Rica,68059,781,26136
 네팔,尼泊尔,Nepal,67804,436,49954
 바레인,巴林,Bahrain,67014,231,60117
+나이지리아,尼日利亚,Nigeria,57724,1102,48985
 싱가포르,新加坡,Singapore,57639,27,57291
-나이지리아,尼日利亚,Nigeria,57613,1100,48836
 체코,捷克,Czechia,54244,551,26709
 Uzbekistan,,Uzbekistan,53275,444,49649
 스위스,瑞士,Switzerland,51101,2060,42100
@@ -86,7 +86,7 @@ Madagascar,,Madagascar,16167,226,14788
 세네갈,塞内加尔,Senegal,14795,303,11718
 Zambia,,Zambia,14443,332,13629
 Sudan,,Sudan,13578,836,6760
-노르웨이,挪威,Norway,13210,267,10371
+노르웨이,挪威,Norway,13277,267,10371
 Albania,,Albania,12787,370,7139
 Tunisia,,Tunisia,12479,174,2386
 Namibia,,Namibia,10663,117,8431
@@ -96,11 +96,11 @@ Guinea,,Guinea,10434,65,9801
 Maldives,,Maldives,9885,34,8530
 French Guiana,,French Guiana,9762,65,9431
 Tajikistan,,Tajikistan,9475,74,8244
+Montenegro,,Montenegro,9428,151,5728
 핀란드,芬兰,Finland,9288,343,7850
-Montenegro,,Montenegro,9138,146,5544
 Gabon,,Gabon,8716,54,7906
 Haiti,,Haiti,8646,225,6551
-룩셈부르크,卢森堡,Luxembourg,8016,124,6848
+룩셈부르크,卢森堡,Luxembourg,8090,124,6862
 Zimbabwe,,Zimbabwe,7725,227,6007
 Mauritania,,Mauritania,7425,161,7028
 슬로바키아,斯洛伐克,Slovakia,7269,41,3888
@@ -125,7 +125,7 @@ Suriname,,Suriname,4759,100,4541
 Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4363,159,1473
 조지아,格鲁吉亚,Georgia,4140,25,1643
-Trinidad and Tobago,,Trinidad and Tobago,4046,67,1960
+Trinidad and Tobago,,Trinidad and Tobago,4136,67,1960
 Lithuania,,Lithuania,3932,87,2246
 Syria,,Syria,3924,181,998
 Aruba,,Aruba,3721,25,2501
