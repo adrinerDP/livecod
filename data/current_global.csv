@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7095757,205394,4341090
+미국,美国,United States,7097148,205439,4343501
 인도,印度,India,5640496,90021,4581820
 브라질,巴西,Brazil,4595335,138159,3945627
 러시아,俄罗斯,Russia,1115810,19649,917949
@@ -8,7 +8,7 @@
 멕시코,墨西哥,Mexico,700580,73697,502982
 스페인,西班牙,Spain,682267,30904,0
 남아프리카 공화국,南非共和国,South Africa,663282,16118,592904
-Argentina,,Argentina,640147,13482,508563
+Argentina,,Argentina,652174,13952,508563
 프랑스,法国,France,468069,31416,93538
 칠레,智利,Chile,448523,12321,423176
 이란,伊朗,Iran,429193,24656,363737
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,352178,5007,260790
 터키,土耳其,Turkey,306302,7639,269696
 이탈리아,义大利,Italy,300897,35738,219670
 필리핀,菲律宾,Philippines,291789,5049,230643
-독일,德国,Germany,277176,9491,246300
+독일,德国,Germany,277176,9491,247900
 인도네시아,印度尼西亚,Indonesia,252923,9837,184298
 이스라엘,以色列,Israel,193374,1285,140751
 Ukraine,,Ukraine,181237,3642,79901
@@ -119,7 +119,7 @@ Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5002,89,3887
 CAR,,CAR,4786,62,1830
-Suriname,,Suriname,4740,97,4525
+Suriname,,Suriname,4759,100,4541
 Rwanda,,Rwanda,4738,27,2991
 슬로베니아,斯洛文尼亚,Slovenia,4558,142,3048
 Guadeloupe,,Guadeloupe,4487,42,2199
@@ -158,9 +158,9 @@ Cyprus,,Cyprus,1618,22,1369
 Lesotho,,Lesotho,1424,33,754
 French Polynesia,,French Polynesia,1394,2,1170
 Liberia,,Liberia,1336,82,1218
+Martinique,,Martinique,1290,20,98
 Niger,,Niger,1193,69,1104
 Chad,,Chad,1155,81,967
-Martinique,,Martinique,1122,18,98
 베트남,越南,Vietnam,1068,35,957
 Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 산마리노,圣马力诺,San Marino,723,42,669
@@ -168,7 +168,7 @@ Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 Turks and Caicos,,Turks and Caicos,668,5,572
 Channel Islands,,Channel Islands,652,48,575
 Sint Maarten,,Sint Maarten,591,20,505
-Papua New Guinea,,Papua New Guinea,517,7,232
+Papua New Guinea,,Papua New Guinea,527,7,232
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,509,7,479
 Burundi,,Burundi,474,1,462
@@ -180,7 +180,7 @@ Eritrea,,Eritrea,364,0,309
 Isle of Man,,Isle of Man,340,24,312
 Saint Martin,,Saint Martin,330,6,206
 Mongolia,,Mongolia,313,0,302
-Curaçao,,Curaçao,282,1,102
+Curaçao,,Curaçao,291,1,103
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,261,0,194
 Cayman Islands,,Cayman Islands,210,1,205

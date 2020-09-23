@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7095757,
-        "deaths": 205394,
-        "recovered": 4341090
+        "confirmed": 7097148,
+        "deaths": 205439,
+        "recovered": 4343501
     },
     {
         "Name": "인도",
@@ -75,8 +75,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 640147,
-        "deaths": 13482,
+        "confirmed": 652174,
+        "deaths": 13952,
         "recovered": 508563
     },
     {
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 277176,
         "deaths": 9491,
-        "recovered": 246300
+        "recovered": 247900
     },
     {
         "Name": "인도네시아",
@@ -963,9 +963,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4740,
-        "deaths": 97,
-        "recovered": 4525
+        "confirmed": 4759,
+        "deaths": 100,
+        "recovered": 4541
     },
     {
         "Name": "Rwanda",
@@ -1272,6 +1272,14 @@
         "recovered": 1218
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "confirmed": 1290,
+        "deaths": 20,
+        "recovered": 98
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
@@ -1286,14 +1294,6 @@
         "confirmed": 1155,
         "deaths": 81,
         "recovered": 967
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "confirmed": 1122,
-        "deaths": 18,
-        "recovered": 98
     },
     {
         "Name": "베트남",
@@ -1355,7 +1355,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 517,
+        "confirmed": 527,
         "deaths": 7,
         "recovered": 232
     },
@@ -1451,9 +1451,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 282,
+        "confirmed": 291,
         "deaths": 1,
-        "recovered": 102
+        "recovered": 103
     },
     {
         "Name": "캄보디아",
