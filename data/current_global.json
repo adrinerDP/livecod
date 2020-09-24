@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7153419,
-        "deaths": 206974,
-        "recovered": 4412134
+        "confirmed": 7157204,
+        "deaths": 207020,
+        "recovered": 4412768
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5788037,
-        "deaths": 91691,
-        "recovered": 4720096
+        "confirmed": 5793482,
+        "deaths": 91816,
+        "recovered": 4732300
     },
     {
         "Name": "브라질",
@@ -248,20 +248,20 @@
         "recovered": 84018
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 110099,
+        "deaths": 1956,
+        "recovered": 90186
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "confirmed": 107990,
         "deaths": 2291,
         "recovered": 84437
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 107743,
-        "deaths": 1918,
-        "recovered": 88244
     },
     {
         "Name": "Kazakhstan",
@@ -368,20 +368,20 @@
         "recovered": 24022
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 71687,
+        "deaths": 1148,
+        "recovered": 29461
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 71156,
         "deaths": 1931,
         "recovered": 46676
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 71083,
-        "deaths": 1141,
-        "recovered": 29253
     },
     {
         "Name": "Venezuela",
