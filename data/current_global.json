@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 15340,
-        "deaths": 257,
-        "recovered": 13815
+        "confirmed": 15572,
+        "deaths": 261,
+        "recovered": 14111
     },
     {
         "Name": "세네갈",
@@ -832,20 +832,20 @@
         "recovered": 6007
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 7629,
+        "deaths": 41,
+        "recovered": 3978
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "confirmed": 7425,
         "deaths": 161,
         "recovered": 7028
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 7269,
-        "deaths": 41,
-        "recovered": 3888
     },
     {
         "Name": "Mozambique",
@@ -1076,7 +1076,7 @@
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 3501,
-        "deaths": 15,
+        "deaths": 11,
         "recovered": 2482
     },
     {
@@ -1243,7 +1243,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1572,
+        "confirmed": 1594,
         "deaths": 36,
         "recovered": 1248
     },
