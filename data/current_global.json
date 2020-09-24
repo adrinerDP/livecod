@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 39524,
-        "deaths": 580,
-        "recovered": 37122
+        "confirmed": 39686,
+        "deaths": 581,
+        "recovered": 37255
     },
     {
         "Name": "아프가니스탄",
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 24357,
-        "deaths": 643,
-        "recovered": 18359
+        "confirmed": 24916,
+        "deaths": 645,
+        "recovered": 18646
     },
     {
         "Name": "헝가리",
@@ -659,9 +659,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16167,
-        "deaths": 226,
-        "recovered": 14788
+        "confirmed": 16191,
+        "deaths": 227,
+        "recovered": 14833
     },
     {
         "Name": "크로아티아",
@@ -859,9 +859,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 6879,
-        "deaths": 69,
-        "recovered": 2961
+        "confirmed": 7064,
+        "deaths": 70,
+        "recovered": 3226
     },
     {
         "Name": "요르단",
@@ -1147,9 +1147,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2476,
+        "confirmed": 2512,
         "deaths": 10,
-        "recovered": 2142
+        "recovered": 2150
     },
     {
         "Name": "Benin",
