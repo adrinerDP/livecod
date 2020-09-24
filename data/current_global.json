@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7139372,
-        "deaths": 206585,
-        "recovered": 4397853
+        "confirmed": 7139553,
+        "deaths": 206593,
+        "recovered": 4398907
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 705263,
-        "deaths": 74348,
-        "recovered": 506732
+        "confirmed": 710049,
+        "deaths": 74949,
+        "recovered": 510237
     },
     {
         "Name": "스페인",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 131453,
-        "deaths": 7693,
-        "recovered": 90853
+        "confirmed": 131990,
+        "deaths": 7731,
+        "recovered": 91556
     },
     {
         "Name": "에콰도르",
@@ -1040,6 +1040,14 @@
         "recovered": 2501
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3618,
+        "deaths": 80,
+        "recovered": 1915
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
@@ -1070,14 +1078,6 @@
         "confirmed": 3501,
         "deaths": 15,
         "recovered": 2482
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3467,
-        "deaths": 77,
-        "recovered": 1871
     },
     {
         "Name": "Somalia",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85307,
+        "confirmed": 85314,
         "deaths": 4634,
-        "recovered": 80505
+        "recovered": 80513
     }
 ]

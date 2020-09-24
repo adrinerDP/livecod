@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7139372,206585,4397853
+미국,美国,United States,7139553,206593,4398907
 인도,印度,India,5730184,91173,4671850
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1122241,19799,923699
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
 페루,秘鲁,Peru,782695,31870,636489
-멕시코,墨西哥,Mexico,705263,74348,506732
+멕시코,墨西哥,Mexico,710049,74949,510237
 스페인,西班牙,Spain,693556,31034,0
 남아프리카 공화국,南非共和国,South Africa,665188,16206,594229
 Argentina,,Argentina,664799,14376,525486
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,353844,5044,262953
 이스라엘,以色列,Israel,204690,1325,144963
 Ukraine,,Ukraine,184734,3705,81670
 캐나다,加拿大,Canada,147753,9243,127788
-Bolivia,,Bolivia,131453,7693,90853
+Bolivia,,Bolivia,131990,7731,91556
 에콰도르,厄瓜多尔,Ecuador,129892,11171,102852
 카타르,卡塔尔,Qatar,124175,212,121006
 루마니아,尼亚,Romania,116415,4550,93558
@@ -129,11 +129,11 @@ Trinidad and Tobago,,Trinidad and Tobago,4136,67,1960
 Lithuania,,Lithuania,3932,87,2246
 Syria,,Syria,3924,181,998
 Aruba,,Aruba,3721,25,2501
+Bahamas,,Bahamas,3618,80,1915
 Gambia,,Gambia,3542,110,2011
 Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3514,59,3345
 Réunion,,Réunion,3501,15,2482
-Bahamas,,Bahamas,3467,77,1871
 Somalia,,Somalia,3465,98,2877
 스리랑카,斯里兰卡,Sri Lanka,3324,13,3129
 Mali,,Mali,3034,130,2382
@@ -212,4 +212,4 @@ Saint Pierre Miquelon,,Saint Pierre Miquelon,12,0,6
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85307,4634,80505
+중국,中国,China,85314,4634,80513
