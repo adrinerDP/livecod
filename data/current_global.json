@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 72306,
-        "deaths": 2206,
-        "recovered": 23230
+        "confirmed": 72675,
+        "deaths": 2222,
+        "recovered": 24022
     },
     {
         "Name": "Ethiopia",
@@ -387,9 +387,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 68453,
-        "deaths": 564,
-        "recovered": 57774
+        "confirmed": 69439,
+        "deaths": 574,
+        "recovered": 58759
     },
     {
         "Name": "코스타리카",
@@ -1203,7 +1203,7 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1824,
+        "confirmed": 1827,
         "deaths": 25,
         "recovered": 1737
     },
