@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 101299,
-        "deaths": 590,
-        "recovered": 92341
+        "confirmed": 101851,
+        "deaths": 592,
+        "recovered": 92961
     },
     {
         "Name": "네덜란드",
@@ -392,20 +392,20 @@
         "recovered": 58759
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 69301,
+        "deaths": 453,
+        "recovered": 50411
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 68059,
         "deaths": 781,
         "recovered": 26136
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 67804,
-        "deaths": 436,
-        "recovered": 49954
     },
     {
         "Name": "바레인",
