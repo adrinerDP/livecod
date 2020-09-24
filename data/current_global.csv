@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7140137,206598,4399996
+미국,美国,United States,7141539,206616,4400321
 인도,印度,India,5737197,91204,4674987
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
@@ -34,11 +34,11 @@ Panama,,Panama,107990,2291,84437
 모로코,摩洛哥,Morocco,107743,1918,88244
 Kazakhstan,,Kazakhstan,107529,1699,102323
 벨기에,比利时,Belgium,106887,9959,19079
+네덜란드,荷兰,Netherlands,103141,6312,0
 이집트,埃及,Egypt,102375,5822,91843
 쿠웨이트,科威特,Kuwait,101851,592,92961
-네덜란드,荷兰,Netherlands,100597,6296,0
 오만,阿曼,Oman,95907,885,86765
-스웨덴,瑞典语,Sweden,89756,5876,0
+스웨덴,瑞典语,Sweden,90289,5878,0
 아랍에미리트,阿拉伯联合酋长国,UAE,88532,407,77937
 Guatemala,,Guatemala,87442,3154,76459
 폴란드,波兰,Poland,82809,2369,66158
@@ -64,8 +64,8 @@ Kyrgyzstan,,Kyrgyzstan,45757,1063,42005
 오스트리아,奥地利,Austria,40816,783,31661
 아제르바이잔,阿塞拜疆,Azerbaijan,39686,581,37255
 아프가니스탄,阿富汗,Afghanistan,39170,1451,32619
+팔레스타인,巴勒斯坦,Palestine,37591,274,26934
 Kenya,,Kenya,37348,664,24253
-팔레스타인,巴勒斯坦,Palestine,37083,272,26288
 Paraguay,,Paraguay,35571,727,19867
 아일랜드,冰岛,Ireland,33675,1794,23364
 세르비아,塞尔维亚,Serbia,33080,744,31536
@@ -84,14 +84,14 @@ North Macedonia,,North Macedonia,17049,710,14186
 Madagascar,,Madagascar,16191,227,14833
 크로아티아,克罗地亚,Croatia,15572,261,14111
 세네갈,塞内加尔,Senegal,14816,304,11818
-Zambia,,Zambia,14443,332,13629
+Zambia,,Zambia,14491,332,13643
 Sudan,,Sudan,13578,836,6760
+Tunisia,,Tunisia,13305,180,2386
 노르웨이,挪威,Norway,13277,267,10371
 Albania,,Albania,12787,370,7139
-Tunisia,,Tunisia,12479,174,2386
 Namibia,,Namibia,10663,117,8431
 말레이시아,马来西亚,Malaysia,10576,133,9666
-DRC,,DRC,10537,271,10041
+DRC,,DRC,10555,271,10051
 Guinea,,Guinea,10434,65,9801
 Maldives,,Maldives,9885,34,8530
 French Guiana,,French Guiana,9762,65,9431
@@ -155,9 +155,9 @@ Belize,,Belize,1706,22,1019
 토고,多哥,Togo,1701,41,1297
 Cyprus,,Cyprus,1654,22,1369
 라트비아,约旦,Latvia,1594,36,1248
-Lesotho,,Lesotho,1507,35,766
+Lesotho,,Lesotho,1554,35,782
 French Polynesia,,French Polynesia,1469,5,1237
-Liberia,,Liberia,1337,82,1219
+Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1193,69,1107
 Chad,,Chad,1164,82,997
