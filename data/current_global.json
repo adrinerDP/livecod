@@ -136,20 +136,20 @@
         "recovered": 313786
     },
     {
+        "Name": "파키스탄",
+        "Name_ch": "巴基斯坦",
+        "Name_en": "Pakistan",
+        "confirmed": 308217,
+        "deaths": 6437,
+        "recovered": 294392
+    },
+    {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
         "confirmed": 308069,
         "deaths": 7711,
         "recovered": 270723
-    },
-    {
-        "Name": "파키스탄",
-        "Name_ch": "巴基斯坦",
-        "Name_en": "Pakistan",
-        "confirmed": 307418,
-        "deaths": 6432,
-        "recovered": 293916
     },
     {
         "Name": "이탈리아",
@@ -1067,9 +1067,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3514,
+        "confirmed": 3516,
         "deaths": 59,
-        "recovered": 3345
+        "recovered": 3353
     },
     {
         "Name": "Réunion",
