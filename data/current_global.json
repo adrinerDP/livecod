@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 432798,
-        "deaths": 24840,
-        "recovered": 365846
+        "confirmed": 436319,
+        "deaths": 25015,
+        "recovered": 367829
     },
     {
         "Name": "영국",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 76357,
-        "deaths": 796,
-        "recovered": 73564
+        "confirmed": 76651,
+        "deaths": 802,
+        "recovered": 73733
     },
     {
         "Name": "Honduras",
@@ -451,8 +451,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 51101,
-        "deaths": 2060,
+        "confirmed": 51492,
+        "deaths": 2061,
         "recovered": 42300
     },
     {
@@ -933,7 +933,7 @@
         "Name_en": "Hong Kong",
         "confirmed": 5057,
         "deaths": 104,
-        "recovered": 4749
+        "recovered": 4758
     },
     {
         "Name": "Equatorial Guinea",
@@ -1115,9 +1115,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2856,
-        "deaths": 25,
-        "recovered": 2173
+        "confirmed": 2898,
+        "deaths": 27,
+        "recovered": 2191
     },
     {
         "Name": "South Sudan",
@@ -1640,6 +1640,14 @@
         "recovered": 17
     },
     {
+        "Name": "Saint Pierre Miquelon",
+        "Name_ch": "",
+        "Name_en": "Saint Pierre Miquelon",
+        "confirmed": 16,
+        "deaths": 0,
+        "recovered": 6
+    },
+    {
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
@@ -1670,14 +1678,6 @@
         "confirmed": 12,
         "deaths": 0,
         "recovered": 12
-    },
-    {
-        "Name": "Saint Pierre Miquelon",
-        "Name_ch": "",
-        "Name_en": "Saint Pierre Miquelon",
-        "confirmed": 12,
-        "deaths": 0,
-        "recovered": 6
     },
     {
         "Name": "Western Sahara",

@@ -11,7 +11,7 @@
 Argentina,,Argentina,664799,14376,525486
 프랑스,法国,France,481141,31459,93538
 칠레,智利,Chile,449903,12345,425165
-이란,伊朗,Iran,432798,24840,365846
+이란,伊朗,Iran,436319,25015,367829
 영국,英国,UK,409729,41862,0
 Bangladesh,,Bangladesh,355384,5072,265092
 이라크,伊拉克,Iraq,332635,8754,264988
@@ -43,7 +43,7 @@ Kazakhstan,,Kazakhstan,107529,1699,102323
 Guatemala,,Guatemala,87442,3154,76459
 폴란드,波兰,Poland,82809,2369,66158
 일본,日本,Japan,79768,1512,71981
-벨라루스,白俄罗斯,Belarus,76357,796,73564
+벨라루스,白俄罗斯,Belarus,76651,802,73733
 Honduras,,Honduras,72675,2222,24022
 Ethiopia,,Ethiopia,71083,1141,29253
 포르투갈,葡萄牙,Portugal,70465,1928,46290
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,69439,574,58759
 싱가포르,新加坡,Singapore,57654,27,57291
 체코,捷克,Czechia,55464,555,26709
 Uzbekistan,,Uzbekistan,53667,445,49832
-스위스,瑞士,Switzerland,51101,2060,42300
+스위스,瑞士,Switzerland,51492,2061,42300
 알제리,阿尔及利亚,Algeria,50400,1698,35428
 아르메니아,亚美尼亚,Armenia,48251,945,43266
 Moldova,,Moldova,48232,1244,36071
@@ -115,7 +115,7 @@ Jamaica,,Jamaica,5395,76,1444
 Eswatini,,Eswatini,5343,108,4693
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
-홍콩,香港,Hong Kong,5057,104,4749
+홍콩,香港,Hong Kong,5057,104,4758
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5005,89,3887
 CAR,,CAR,4802,62,1830
@@ -138,7 +138,7 @@ Somalia,,Somalia,3465,98,2877
 스리랑카,斯里兰卡,Sri Lanka,3324,13,3129
 에스토니아,爱沙尼亚,Estonia,3076,64,2395
 Mali,,Mali,3034,130,2382
-Malta,,Malta,2856,25,2173
+Malta,,Malta,2898,27,2191
 South Sudan,,South Sudan,2664,49,1290
 Botswana,,Botswana,2567,13,624
 Guyana,,Guyana,2535,69,1464
@@ -204,11 +204,11 @@ Dominica,,Dominica,24,0,18
 Grenada,,Grenada,24,0,24
 Laos,,Laos,23,0,22
 Saint Kitts and Nevis,,Saint Kitts and Nevis,19,0,17
+Saint Pierre Miquelon,,Saint Pierre Miquelon,16,0,6
 Greenland,,Greenland,14,0,14
 Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12
-Saint Pierre Miquelon,,Saint Pierre Miquelon,12,0,6
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
