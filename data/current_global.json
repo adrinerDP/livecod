@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7178996,
-        "deaths": 207401,
-        "recovered": 4423411
+        "confirmed": 7180158,
+        "deaths": 207413,
+        "recovered": 4425579
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4657702,
-        "deaths": 139808,
+        "confirmed": 4659909,
+        "deaths": 139883,
         "recovered": 4023789
     },
     {
@@ -259,9 +259,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 107990,
-        "deaths": 2291,
-        "recovered": 84437
+        "confirmed": 108726,
+        "deaths": 2297,
+        "recovered": 85494
     },
     {
         "Name": "Kazakhstan",
@@ -384,20 +384,20 @@
         "recovered": 46676
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 70406,
+        "deaths": 581,
+        "recovered": 59745
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 69459,
         "deaths": 795,
         "recovered": 26554
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 69439,
-        "deaths": 574,
-        "recovered": 58759
     },
     {
         "Name": "네팔",
@@ -416,6 +416,14 @@
         "recovered": 60853
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 58374,
+        "deaths": 567,
+        "recovered": 27382
+    },
+    {
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
@@ -430,14 +438,6 @@
         "confirmed": 57654,
         "deaths": 27,
         "recovered": 57333
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 56747,
-        "deaths": 567,
-        "recovered": 27247
     },
     {
         "Name": "Uzbekistan",
@@ -992,20 +992,20 @@
         "recovered": 2199
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 4475,
+        "deaths": 162,
+        "recovered": 1503
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 4399,
         "deaths": 26,
         "recovered": 1705
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 4363,
-        "deaths": 159,
-        "recovered": 1473
     },
     {
         "Name": "Trinidad and Tobago",
