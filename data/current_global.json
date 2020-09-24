@@ -163,9 +163,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 294591,
-        "deaths": 5091,
-        "recovered": 231373
+        "confirmed": 296755,
+        "deaths": 5127,
+        "recovered": 231928
     },
     {
         "Name": "독일",
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 257388,
-        "deaths": 9977,
-        "recovered": 187958
+        "confirmed": 262022,
+        "deaths": 10105,
+        "recovered": 191853
     },
     {
         "Name": "이스라엘",
@@ -203,7 +203,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 147753,
+        "confirmed": 147756,
         "deaths": 9243,
         "recovered": 127788
     },
@@ -307,9 +307,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 95339,
-        "deaths": 875,
-        "recovered": 86482
+        "confirmed": 95907,
+        "deaths": 885,
+        "recovered": 86765
     },
     {
         "Name": "스웨덴",
@@ -499,9 +499,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 39984,
-        "deaths": 777,
-        "recovered": 30949
+        "confirmed": 40816,
+        "deaths": 783,
+        "recovered": 31661
     },
     {
         "Name": "아제르바이잔",
@@ -579,9 +579,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 27954,
-        "deaths": 819,
-        "recovered": 22113
+        "confirmed": 28201,
+        "deaths": 823,
+        "recovered": 22326
     },
     {
         "Name": "호주",
