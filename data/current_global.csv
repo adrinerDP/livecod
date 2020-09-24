@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7173133,207265,4418369
+미국,美国,United States,7174692,207290,4419573
 인도,印度,India,5816103,92317,4752991
-브라질,巴西,Brazil,4657702,139808,3992886
+브라질,巴西,Brazil,4657702,139808,4023789
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
 페루,秘鲁,Peru,782695,31870,636489
@@ -35,7 +35,7 @@ Panama,,Panama,107990,2291,84437
 Kazakhstan,,Kazakhstan,107529,1699,102323
 벨기에,比利时,Belgium,106887,9959,19079
 네덜란드,荷兰,Netherlands,103141,6312,0
-이집트,埃及,Egypt,102375,5822,91843
+이집트,埃及,Egypt,102513,5835,92644
 쿠웨이트,科威特,Kuwait,101851,592,92961
 오만,阿曼,Oman,95907,885,86765
 스웨덴,瑞典语,Sweden,90289,5878,0
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,69439,574,58759
 싱가포르,新加坡,Singapore,57654,27,57333
 체코,捷克,Czechia,56747,567,27247
 Uzbekistan,,Uzbekistan,53834,446,50230
-스위스,瑞士,Switzerland,51492,2061,42300
+스위스,瑞士,Switzerland,51492,2061,42600
 알제리,阿尔及利亚,Algeria,50579,1703,35544
 Moldova,,Moldova,48953,1252,36643
 아르메니아,亚美尼亚,Armenia,48251,945,43266
@@ -104,7 +104,7 @@ Myanmar,,Myanmar,8344,150,2381
 룩셈부르크,卢森堡,Luxembourg,8158,124,6910
 Zimbabwe,,Zimbabwe,7725,227,6007
 슬로바키아,斯洛伐克,Slovakia,7629,41,3978
-Mauritania,,Mauritania,7425,161,7028
+Mauritania,,Mauritania,7433,161,7052
 Mozambique,,Mozambique,7399,51,4558
 Uganda,,Uganda,7064,70,3226
 요르단,约旦,Jordan,6591,36,3937
@@ -138,10 +138,10 @@ Somalia,,Somalia,3465,98,2877
 스리랑카,斯里兰卡,Sri Lanka,3333,13,3142
 에스토니아,爱沙尼亚,Estonia,3076,64,2395
 Mali,,Mali,3041,130,2391
+Botswana,,Botswana,2921,16,701
 Malta,,Malta,2898,27,2191
 South Sudan,,South Sudan,2669,49,1290
 Guyana,,Guyana,2579,71,1483
-Botswana,,Botswana,2567,13,624
 Iceland,,Iceland,2512,10,2150
 Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
@@ -159,10 +159,10 @@ Lesotho,,Lesotho,1554,35,782
 French Polynesia,,French Polynesia,1469,5,1237
 Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
-Niger,,Niger,1193,69,1107
+Niger,,Niger,1194,69,1107
 Chad,,Chad,1171,82,1003
 베트남,越南,Vietnam,1069,35,991
-Sao Tome and Principe,,Sao Tome and Principe,908,15,880
+Sao Tome and Principe,,Sao Tome and Principe,910,15,881
 산마리노,圣马力诺,San Marino,723,42,669
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,676,5,588

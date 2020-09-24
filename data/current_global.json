@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7173133,
-        "deaths": 207265,
-        "recovered": 4418369
+        "confirmed": 7174692,
+        "deaths": 207290,
+        "recovered": 4419573
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4657702,
         "deaths": 139808,
-        "recovered": 3992886
+        "recovered": 4023789
     },
     {
         "Name": "러시아",
@@ -291,9 +291,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 102375,
-        "deaths": 5822,
-        "recovered": 91843
+        "confirmed": 102513,
+        "deaths": 5835,
+        "recovered": 92644
     },
     {
         "Name": "쿠웨이트",
@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 51492,
         "deaths": 2061,
-        "recovered": 42300
+        "recovered": 42600
     },
     {
         "Name": "알제리",
@@ -843,9 +843,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7425,
+        "confirmed": 7433,
         "deaths": 161,
-        "recovered": 7028
+        "recovered": 7052
     },
     {
         "Name": "Mozambique",
@@ -1112,6 +1112,14 @@
         "recovered": 2391
     },
     {
+        "Name": "Botswana",
+        "Name_ch": "",
+        "Name_en": "Botswana",
+        "confirmed": 2921,
+        "deaths": 16,
+        "recovered": 701
+    },
+    {
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
@@ -1134,14 +1142,6 @@
         "confirmed": 2579,
         "deaths": 71,
         "recovered": 1483
-    },
-    {
-        "Name": "Botswana",
-        "Name_ch": "",
-        "Name_en": "Botswana",
-        "confirmed": 2567,
-        "deaths": 13,
-        "recovered": 624
     },
     {
         "Name": "Iceland",
@@ -1283,7 +1283,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1193,
+        "confirmed": 1194,
         "deaths": 69,
         "recovered": 1107
     },
@@ -1307,9 +1307,9 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 908,
+        "confirmed": 910,
         "deaths": 15,
-        "recovered": 880
+        "recovered": 881
     },
     {
         "Name": "산마리노",
