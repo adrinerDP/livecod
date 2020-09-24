@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7141539,
+        "confirmed": 7141923,
         "deaths": 206616,
-        "recovered": 4400321
+        "recovered": 4400322
     },
     {
         "Name": "인도",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 53667,
-        "deaths": 445,
-        "recovered": 49832
+        "confirmed": 53834,
+        "deaths": 446,
+        "recovered": 50230
     },
     {
         "Name": "스위스",
@@ -555,8 +555,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33080,
-        "deaths": 744,
+        "confirmed": 33163,
+        "deaths": 745,
         "recovered": 31536
     },
     {
@@ -701,7 +701,7 @@
         "Name_en": "Tunisia",
         "confirmed": 13305,
         "deaths": 180,
-        "recovered": 2386
+        "recovered": 5032
     },
     {
         "Name": "노르웨이",
@@ -1395,7 +1395,7 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 451,
+        "confirmed": 455,
         "deaths": 0,
         "recovered": 416
     },
