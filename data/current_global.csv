@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7139553,206593,4398907
-인도,印度,India,5732518,91173,4674987
+인도,印度,India,5737197,91204,4674987
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
@@ -90,14 +90,14 @@ Sudan,,Sudan,13578,836,6760
 Albania,,Albania,12787,370,7139
 Tunisia,,Tunisia,12479,174,2386
 Namibia,,Namibia,10663,117,8431
+말레이시아,马来西亚,Malaysia,10576,133,9666
 DRC,,DRC,10537,271,10041
-말레이시아,马来西亚,Malaysia,10505,133,9602
 Guinea,,Guinea,10434,65,9801
 Maldives,,Maldives,9885,34,8530
 French Guiana,,French Guiana,9762,65,9431
 Tajikistan,,Tajikistan,9475,74,8244
 Montenegro,,Montenegro,9428,151,5728
-핀란드,芬兰,Finland,9288,343,7850
+핀란드,芬兰,Finland,9379,343,7850
 Gabon,,Gabon,8716,54,7906
 Haiti,,Haiti,8646,225,6551
 룩셈부르크,卢森堡,Luxembourg,8090,124,6862
@@ -115,7 +115,7 @@ Jamaica,,Jamaica,5395,76,1444
 Eswatini,,Eswatini,5343,108,4693
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
-홍콩,香港,Hong Kong,5050,103,4749
+홍콩,香港,Hong Kong,5057,104,4749
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5005,89,3887
 CAR,,CAR,4802,62,1830
@@ -130,7 +130,7 @@ Lithuania,,Lithuania,4070,89,2253
 Syria,,Syria,3924,181,998
 Aruba,,Aruba,3721,25,2501
 Bahamas,,Bahamas,3618,80,1915
-Gambia,,Gambia,3542,110,2011
+Gambia,,Gambia,3552,110,2012
 Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3516,59,3353
 Réunion,,Réunion,3501,11,2482

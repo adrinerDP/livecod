@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5732518,
-        "deaths": 91173,
+        "confirmed": 5737197,
+        "deaths": 91204,
         "recovered": 4674987
     },
     {
@@ -728,20 +728,20 @@
         "recovered": 8431
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 10576,
+        "deaths": 133,
+        "recovered": 9666
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
         "confirmed": 10537,
         "deaths": 271,
         "recovered": 10041
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 10505,
-        "deaths": 133,
-        "recovered": 9602
     },
     {
         "Name": "Guinea",
@@ -787,7 +787,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 9288,
+        "confirmed": 9379,
         "deaths": 343,
         "recovered": 7850
     },
@@ -931,8 +931,8 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5050,
-        "deaths": 103,
+        "confirmed": 5057,
+        "deaths": 104,
         "recovered": 4749
     },
     {
@@ -1051,9 +1051,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3542,
+        "confirmed": 3552,
         "deaths": 110,
-        "recovered": 2011
+        "recovered": 2012
     },
     {
         "Name": "Mayotte",
