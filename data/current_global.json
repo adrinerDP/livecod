@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7159181,
-        "deaths": 207064,
-        "recovered": 4413984
+        "confirmed": 7162701,
+        "deaths": 207089,
+        "recovered": 4415322
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5793482,
-        "deaths": 91816,
-        "recovered": 4732300
+        "confirmed": 5813799,
+        "deaths": 92293,
+        "recovered": 4750922
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4627780,
-        "deaths": 139065,
+        "confirmed": 4634468,
+        "deaths": 139294,
         "recovered": 3992886
     },
     {
@@ -83,9 +83,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 481141,
-        "deaths": 31459,
-        "recovered": 93538
+        "confirmed": 497237,
+        "deaths": 31511,
+        "recovered": 94413
     },
     {
         "Name": "칠레",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 280419,
-        "deaths": 9514,
+        "confirmed": 280853,
+        "deaths": 9517,
         "recovered": 249500
     },
     {
@@ -563,9 +563,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 31792,
-        "deaths": 328,
-        "recovered": 13527
+        "confirmed": 32819,
+        "deaths": 329,
+        "recovered": 14112
     },
     {
         "Name": "Libya",
