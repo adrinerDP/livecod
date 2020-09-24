@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7145269,
-        "deaths": 206801,
-        "recovered": 4400512
+        "confirmed": 7146746,
+        "deaths": 206860,
+        "recovered": 4400588
     },
     {
         "Name": "인도",
@@ -155,9 +155,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 302537,
-        "deaths": 35758,
-        "recovered": 220665
+        "confirmed": 304323,
+        "deaths": 35781,
+        "recovered": 221762
     },
     {
         "Name": "필리핀",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 279634,
+        "confirmed": 279872,
         "deaths": 9510,
         "recovered": 249500
     },
@@ -715,9 +715,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 12787,
+        "confirmed": 12921,
         "deaths": 370,
-        "recovered": 7139
+        "recovered": 7239
     },
     {
         "Name": "Namibia",
@@ -768,20 +768,20 @@
         "recovered": 9431
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 9717,
+        "deaths": 154,
+        "recovered": 5917
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
         "confirmed": 9520,
         "deaths": 74,
         "recovered": 8296
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 9428,
-        "deaths": 151,
-        "recovered": 5728
     },
     {
         "Name": "핀란드",
@@ -1011,9 +1011,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4136,
+        "confirmed": 4222,
         "deaths": 67,
-        "recovered": 1960
+        "recovered": 2037
     },
     {
         "Name": "Lithuania",
