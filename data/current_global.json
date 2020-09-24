@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7172536,
+        "confirmed": 7172572,
         "deaths": 207262,
         "recovered": 4418260
     },
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4634468,
-        "deaths": 139294,
+        "confirmed": 4657702,
+        "deaths": 139808,
         "recovered": 3992886
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 148783,
+        "confirmed": 148788,
         "deaths": 9246,
-        "recovered": 128079
+        "recovered": 128344
     },
     {
         "Name": "Bolivia",
@@ -968,20 +968,20 @@
         "recovered": 1830
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4789,
+        "deaths": 27,
+        "recovered": 3050
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4779,
         "deaths": 101,
         "recovered": 4560
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4779,
-        "deaths": 27,
-        "recovered": 2995
     },
     {
         "Name": "Guadeloupe",
@@ -1123,7 +1123,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2664,
+        "confirmed": 2669,
         "deaths": 49,
         "recovered": 1290
     },

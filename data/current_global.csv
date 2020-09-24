@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7172536,207262,4418260
+미국,美国,United States,7172572,207262,4418260
 인도,印度,India,5816103,92317,4752991
-브라질,巴西,Brazil,4634468,139294,3992886
+브라질,巴西,Brazil,4657702,139808,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
 페루,秘鲁,Peru,782695,31870,636489
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,355384,5072,265092
 인도네시아,印度尼西亚,Indonesia,262022,10105,191853
 이스라엘,以色列,Israel,212115,1378,148813
 Ukraine,,Ukraine,188106,3757,83458
-캐나다,加拿大,Canada,148783,9246,128079
+캐나다,加拿大,Canada,148788,9246,128344
 Bolivia,,Bolivia,131990,7731,91556
 에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124425,212,121263
@@ -120,8 +120,8 @@ Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5005,89,3887
 슬로베니아,斯洛文尼亚,Slovenia,4816,145,3245
 CAR,,CAR,4802,62,1830
+Rwanda,,Rwanda,4789,27,3050
 Suriname,,Suriname,4779,101,4560
-Rwanda,,Rwanda,4779,27,2995
 Guadeloupe,,Guadeloupe,4487,42,2199
 조지아,格鲁吉亚,Georgia,4399,26,1705
 Angola,,Angola,4363,159,1473
@@ -139,7 +139,7 @@ Somalia,,Somalia,3465,98,2877
 에스토니아,爱沙尼亚,Estonia,3076,64,2395
 Mali,,Mali,3041,130,2391
 Malta,,Malta,2898,27,2191
-South Sudan,,South Sudan,2664,49,1290
+South Sudan,,South Sudan,2669,49,1290
 Botswana,,Botswana,2567,13,624
 Guyana,,Guyana,2535,69,1464
 Iceland,,Iceland,2512,10,2150
