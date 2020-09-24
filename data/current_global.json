@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7177588,
-        "deaths": 207394,
-        "recovered": 4422536
+        "confirmed": 7178996,
+        "deaths": 207401,
+        "recovered": 4423411
     },
     {
         "Name": "인도",
@@ -64,20 +64,20 @@
         "recovered": 0
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "confirmed": 678266,
+        "deaths": 14766,
+        "recovered": 536589
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
         "confirmed": 667049,
         "deaths": 16283,
         "recovered": 595916
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "confirmed": 664799,
-        "deaths": 14376,
-        "recovered": 525486
     },
     {
         "Name": "프랑스",
@@ -419,9 +419,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 57724,
+        "confirmed": 57849,
         "deaths": 1102,
-        "recovered": 48985
+        "recovered": 49098
     },
     {
         "Name": "싱가포르",
@@ -587,7 +587,7 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26980,
+        "confirmed": 26983,
         "deaths": 861,
         "recovered": 24448
     },
@@ -755,9 +755,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 9885,
+        "confirmed": 9939,
         "deaths": 34,
-        "recovered": 8530
+        "recovered": 8597
     },
     {
         "Name": "French Guiana",
@@ -915,9 +915,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 5270,
+        "confirmed": 5310,
         "deaths": 118,
-        "recovered": 4582
+        "recovered": 4613
     },
     {
         "Name": "Nicaragua",
@@ -941,7 +941,7 @@
         "Name_en": "Equatorial Guinea",
         "confirmed": 5018,
         "deaths": 83,
-        "recovered": 4509
+        "recovered": 4530
     },
     {
         "Name": "Congo",
@@ -1184,20 +1184,20 @@
         "recovered": 1250
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 1959,
+        "deaths": 47,
+        "recovered": 1679
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
         "confirmed": 1950,
         "deaths": 56,
         "recovered": 1260
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 1946,
-        "deaths": 47,
-        "recovered": 1661
     },
     {
         "Name": "New Zealand",

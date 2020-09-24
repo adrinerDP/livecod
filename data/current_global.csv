@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7177588,207394,4422536
+미국,美国,United States,7178996,207401,4423411
 인도,印度,India,5816103,92317,4752991
 브라질,巴西,Brazil,4657702,139808,4023789
 러시아,俄罗斯,Russia,1128836,19948,929829
@@ -7,8 +7,8 @@
 페루,秘鲁,Peru,782695,31870,636489
 멕시코,墨西哥,Mexico,710049,74949,510237
 스페인,西班牙,Spain,704209,31118,0
+Argentina,,Argentina,678266,14766,536589
 남아프리카 공화국,南非共和国,South Africa,667049,16283,595916
-Argentina,,Argentina,664799,14376,525486
 프랑스,法国,France,497237,31511,94413
 칠레,智利,Chile,451634,12469,426876
 이란,伊朗,Iran,436319,25015,367829
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,71687,1148,29461
 Venezuela,,Venezuela,69439,574,58759
 네팔,尼泊尔,Nepal,69301,453,50411
 바레인,巴林,Bahrain,67701,231,60853
-나이지리아,尼日利亚,Nigeria,57724,1102,48985
+나이지리아,尼日利亚,Nigeria,57849,1102,49098
 싱가포르,新加坡,Singapore,57654,27,57333
 체코,捷克,Czechia,56747,567,27247
 Uzbekistan,,Uzbekistan,53834,446,50230
@@ -72,7 +72,7 @@ Paraguay,,Paraguay,35571,727,19867
 레바논,黎巴嫩,Lebanon,32819,329,14112
 Libya,,Libya,30632,474,16842
 El Salvador,,El Salvador,28201,823,22326
-호주,澳大利亚,Australia,26980,861,24448
+호주,澳大利亚,Australia,26983,861,24448
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26316,802,19142
 덴마크,丹麦,Denmark,24916,645,18646
 헝가리,匈牙利,Hungary,21200,709,4818
@@ -93,7 +93,7 @@ Namibia,,Namibia,10740,119,8482
 말레이시아,马来西亚,Malaysia,10576,133,9666
 DRC,,DRC,10555,271,10051
 Guinea,,Guinea,10434,65,9801
-Maldives,,Maldives,9885,34,8530
+Maldives,,Maldives,9939,34,8597
 French Guiana,,French Guiana,9790,65,9456
 Montenegro,,Montenegro,9717,154,5917
 Tajikistan,,Tajikistan,9520,74,8296
@@ -113,10 +113,10 @@ Jamaica,,Jamaica,5588,77,1490
 Cabo Verde,,Cabo Verde,5479,55,4917
 Djibouti,,Djibouti,5407,61,5339
 Eswatini,,Eswatini,5375,108,4724
-Cuba,,Cuba,5270,118,4582
+Cuba,,Cuba,5310,118,4613
 Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5057,104,4758
-Equatorial Guinea,,Equatorial Guinea,5018,83,4509
+Equatorial Guinea,,Equatorial Guinea,5018,83,4530
 Congo,,Congo,5005,89,3887
 슬로베니아,斯洛文尼亚,Slovenia,4816,145,3245
 CAR,,CAR,4804,62,1837
@@ -147,8 +147,8 @@ Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2188,72,1666
 Yemen,,Yemen,2029,586,1250
+Uruguay,,Uruguay,1959,47,1679
 Burkina Faso,,Burkina Faso,1950,56,1260
-Uruguay,,Uruguay,1946,47,1661
 New Zealand,,New Zealand,1827,25,1737
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1707,44,1307
