@@ -1,9 +1,9 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7174692,207290,4419573
+미국,美国,United States,7177588,207394,4422536
 인도,印度,India,5816103,92317,4752991
 브라질,巴西,Brazil,4657702,139808,4023789
 러시아,俄罗斯,Russia,1128836,19948,929829
-콜롬비아,哥伦比亚,Colombia,784268,24746,662277
+콜롬비아,哥伦比亚,Colombia,790823,24924,674961
 페루,秘鲁,Peru,782695,31870,636489
 멕시코,墨西哥,Mexico,710049,74949,510237
 스페인,西班牙,Spain,704209,31118,0
@@ -42,7 +42,7 @@ Kazakhstan,,Kazakhstan,107529,1699,102323
 아랍에미리트,阿拉伯联合酋长国,UAE,88532,407,77937
 Guatemala,,Guatemala,87933,3170,77125
 폴란드,波兰,Poland,82809,2369,66158
-일본,日本,Japan,79768,1512,71981
+일본,日本,Japan,80041,1520,72538
 벨라루스,白俄罗斯,Belarus,76651,802,73733
 Honduras,,Honduras,72675,2222,24022
 Ethiopia,,Ethiopia,71687,1148,29461
@@ -59,7 +59,7 @@ Uzbekistan,,Uzbekistan,53834,446,50230
 알제리,阿尔及利亚,Algeria,50579,1703,35544
 Moldova,,Moldova,48953,1252,36643
 아르메니아,亚美尼亚,Armenia,48251,945,43266
-Ghana,,Ghana,46153,299,45299
+Ghana,,Ghana,46222,299,45417
 Kyrgyzstan,,Kyrgyzstan,45757,1063,42005
 오스트리아,奥地利,Austria,40816,783,31661
 아제르바이잔,阿塞拜疆,Azerbaijan,39686,581,37255
@@ -86,7 +86,7 @@ Madagascar,,Madagascar,16191,227,14833
 세네갈,塞内加尔,Senegal,14816,304,11818
 Zambia,,Zambia,14491,332,13643
 Sudan,,Sudan,13592,836,6764
-노르웨이,挪威,Norway,13347,270,10371
+노르웨이,挪威,Norway,13406,270,10371
 Tunisia,,Tunisia,13305,180,5032
 Albania,,Albania,12921,370,7239
 Namibia,,Namibia,10740,119,8482
@@ -119,7 +119,7 @@ Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5005,89,3887
 슬로베니아,斯洛文尼亚,Slovenia,4816,145,3245
-CAR,,CAR,4802,62,1830
+CAR,,CAR,4804,62,1837
 Rwanda,,Rwanda,4789,27,3050
 Suriname,,Suriname,4779,101,4560
 Guadeloupe,,Guadeloupe,4487,42,2199
@@ -147,8 +147,8 @@ Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2188,72,1666
 Yemen,,Yemen,2029,586,1250
+Burkina Faso,,Burkina Faso,1950,56,1260
 Uruguay,,Uruguay,1946,47,1661
-Burkina Faso,,Burkina Faso,1929,56,1252
 New Zealand,,New Zealand,1827,25,1737
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1707,44,1307
