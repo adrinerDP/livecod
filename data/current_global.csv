@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7146746,206860,4400588
+미국,美国,United States,7149316,206906,4400996
 인도,印度,India,5765744,91435,4700625
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,355384,5072,265092
 터키,土耳其,Turkey,308069,7711,270723
 이탈리아,义大利,Italy,304323,35781,221762
 필리핀,菲律宾,Philippines,296755,5127,231928
-독일,德国,Germany,279872,9510,249500
+독일,德国,Germany,279886,9510,249500
 인도네시아,印度尼西亚,Indonesia,262022,10105,191853
 이스라엘,以色列,Israel,206332,1335,148075
 Ukraine,,Ukraine,188106,3757,83458
@@ -80,7 +80,7 @@ El Salvador,,El Salvador,28201,823,22326
 Ivory Coast,,Ivory Coast,19430,120,18875
 Bulgaria,,Bulgaria,19283,779,13867
 North Macedonia,,North Macedonia,17200,712,14312
-그리스,希腊,Greece,16286,357,9989
+그리스,希腊,Greece,16627,366,9989
 Madagascar,,Madagascar,16191,227,14833
 크로아티아,克罗地亚,Croatia,15572,261,14111
 세네갈,塞内加尔,Senegal,14816,304,11818
@@ -146,7 +146,7 @@ Iceland,,Iceland,2512,10,2150
 Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2183,72,1665
-Yemen,,Yemen,2029,586,1245
+Yemen,,Yemen,2029,586,1250
 Uruguay,,Uruguay,1946,47,1661
 Burkina Faso,,Burkina Faso,1929,56,1252
 New Zealand,,New Zealand,1827,25,1737
