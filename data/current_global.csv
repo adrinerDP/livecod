@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7162701,207089,4415322
+미국,美国,United States,7167280,207181,4415825
 인도,印度,India,5813799,92293,4750922
 브라질,巴西,Brazil,4634468,139294,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,782695,31870,636489
 멕시코,墨西哥,Mexico,710049,74949,510237
 스페인,西班牙,Spain,704209,31118,0
-남아프리카 공화국,南非共和国,South Africa,665188,16206,594229
+남아프리카 공화국,南非共和国,South Africa,667049,16283,595916
 Argentina,,Argentina,664799,14376,525486
 프랑스,法国,France,497237,31511,94413
 칠레,智利,Chile,451634,12469,426876
@@ -26,7 +26,7 @@ Bangladesh,,Bangladesh,355384,5072,265092
 Ukraine,,Ukraine,188106,3757,83458
 캐나다,加拿大,Canada,148165,9244,128074
 Bolivia,,Bolivia,131990,7731,91556
-에콰도르,厄瓜多尔,Ecuador,129892,11171,102852
+에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124425,212,121263
 루마니아,尼亚,Romania,118054,4591,94877
 도미니카 공화국,多明尼加共和国,Dominican Republic,110122,2076,84018
@@ -110,7 +110,7 @@ Uganda,,Uganda,7064,70,3226
 요르단,约旦,Jordan,6591,36,3937
 Malawi,,Malawi,5747,179,4163
 Jamaica,,Jamaica,5588,77,1490
-Cabo Verde,,Cabo Verde,5412,54,4837
+Cabo Verde,,Cabo Verde,5479,55,4917
 Djibouti,,Djibouti,5407,61,5338
 Eswatini,,Eswatini,5375,108,4724
 Cuba,,Cuba,5270,118,4582
