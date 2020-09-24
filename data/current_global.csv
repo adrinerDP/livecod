@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7167280,207181,4415825
-인도,印度,India,5813799,92293,4750922
+미국,美国,United States,7169316,207203,4417157
+인도,印度,India,5816103,92317,4752991
 브라질,巴西,Brazil,4634468,139294,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,355384,5072,265092
 파키스탄,巴基斯坦,Pakistan,308217,6437,294392
 이탈리아,义大利,Italy,304323,35781,221762
 필리핀,菲律宾,Philippines,296755,5127,231928
-독일,德国,Germany,280853,9517,249500
+독일,德国,Germany,281345,9519,249500
 인도네시아,印度尼西亚,Indonesia,262022,10105,191853
-이스라엘,以色列,Israel,209635,1376,148417
+이스라엘,以色列,Israel,212115,1378,148813
 Ukraine,,Ukraine,188106,3757,83458
-캐나다,加拿大,Canada,148165,9244,128074
+캐나다,加拿大,Canada,148783,9246,128079
 Bolivia,,Bolivia,131990,7731,91556
 에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124425,212,121263
@@ -47,9 +47,9 @@ Guatemala,,Guatemala,87933,3170,76459
 Honduras,,Honduras,72675,2222,24022
 Ethiopia,,Ethiopia,71687,1148,29461
 포르투갈,葡萄牙,Portugal,71156,1931,46676
+코스타리카,哥斯达黎加,Costa Rica,69459,795,26554
 Venezuela,,Venezuela,69439,574,58759
 네팔,尼泊尔,Nepal,69301,453,50411
-코스타리카,哥斯达黎加,Costa Rica,68059,781,26136
 바레인,巴林,Bahrain,67014,231,60117
 나이지리아,尼日利亚,Nigeria,57724,1102,48985
 싱가포르,新加坡,Singapore,57654,27,57333
@@ -99,7 +99,7 @@ Montenegro,,Montenegro,9717,154,5917
 Tajikistan,,Tajikistan,9520,74,8296
 핀란드,芬兰,Finland,9379,343,7850
 Gabon,,Gabon,8716,54,7906
-Haiti,,Haiti,8646,225,6551
+Haiti,,Haiti,8668,227,6551
 Myanmar,,Myanmar,8344,150,2381
 룩셈부르크,卢森堡,Luxembourg,8158,124,6910
 Zimbabwe,,Zimbabwe,7725,227,6007
@@ -111,7 +111,7 @@ Uganda,,Uganda,7064,70,3226
 Malawi,,Malawi,5747,179,4163
 Jamaica,,Jamaica,5588,77,1490
 Cabo Verde,,Cabo Verde,5479,55,4917
-Djibouti,,Djibouti,5407,61,5338
+Djibouti,,Djibouti,5407,61,5339
 Eswatini,,Eswatini,5375,108,4724
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
@@ -151,8 +151,8 @@ Uruguay,,Uruguay,1946,47,1661
 Burkina Faso,,Burkina Faso,1929,56,1252
 New Zealand,,New Zealand,1827,25,1737
 안도라,安道尔,Andorra,1753,53,1203
+토고,多哥,Togo,1707,44,1307
 Belize,,Belize,1706,22,1019
-토고,多哥,Togo,1701,41,1297
 Cyprus,,Cyprus,1654,22,1369
 라트비아,约旦,Latvia,1594,36,1248
 Lesotho,,Lesotho,1554,35,782
@@ -160,7 +160,7 @@ French Polynesia,,French Polynesia,1469,5,1237
 Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1193,69,1107
-Chad,,Chad,1164,82,997
+Chad,,Chad,1171,82,1003
 베트남,越南,Vietnam,1069,35,991
 Sao Tome and Principe,,Sao Tome and Principe,908,15,880
 산마리노,圣马力诺,San Marino,723,42,669
@@ -174,9 +174,9 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,476,1,462
 Comoros,,Comoros,474,7,453
 Faeroe Islands,,Faeroe Islands,455,0,416
+Eritrea,,Eritrea,369,0,330
 Mauritius,,Mauritius,367,10,343
 Saint Martin,,Saint Martin,367,8,273
-Eritrea,,Eritrea,364,0,309
 지브롤터,直布罗陀,Gibraltar,361,0,331
 Isle of Man,,Isle of Man,340,24,312
 Curaçao,,Curaçao,315,1,115
