@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7135608,
-        "deaths": 206483,
-        "recovered": 4384319
+        "confirmed": 7137472,
+        "deaths": 206533,
+        "recovered": 4387115
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 776546,
-        "deaths": 31586,
-        "recovered": 629094
+        "confirmed": 782695,
+        "deaths": 31870,
+        "recovered": 636489
     },
     {
         "Name": "멕시코",
@@ -75,9 +75,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 652174,
-        "deaths": 13952,
-        "recovered": 517228
+        "confirmed": 664799,
+        "deaths": 14376,
+        "recovered": 525486
     },
     {
         "Name": "프랑스",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 279205,
         "deaths": 9508,
-        "recovered": 247900
+        "recovered": 249500
     },
     {
         "Name": "인도네시아",
@@ -960,20 +960,20 @@
         "recovered": 1830
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4779,
+        "deaths": 101,
+        "recovered": 4560
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4779,
         "deaths": 27,
         "recovered": 2995
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4759,
-        "deaths": 100,
-        "recovered": 4541
     },
     {
         "Name": "슬로베니아",
