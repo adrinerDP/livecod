@@ -589,7 +589,7 @@
         "Name_en": "Australia",
         "confirmed": 26980,
         "deaths": 861,
-        "recovered": 24417
+        "recovered": 24448
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1019,9 +1019,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 3932,
-        "deaths": 87,
-        "recovered": 2246
+        "confirmed": 4070,
+        "deaths": 89,
+        "recovered": 2253
     },
     {
         "Name": "Syria",
