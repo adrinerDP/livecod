@@ -539,9 +539,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 34828,
-        "deaths": 705,
-        "recovered": 19257
+        "confirmed": 35571,
+        "deaths": 727,
+        "recovered": 19867
     },
     {
         "Name": "아일랜드",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26974,
-        "deaths": 859,
-        "recovered": 24416
+        "confirmed": 26980,
+        "deaths": 861,
+        "recovered": 24417
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -816,6 +816,14 @@
         "recovered": 6862
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 7827,
+        "deaths": 133,
+        "recovered": 2085
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
@@ -846,14 +854,6 @@
         "confirmed": 7262,
         "deaths": 49,
         "recovered": 4350
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 7177,
-        "deaths": 129,
-        "recovered": 1951
     },
     {
         "Name": "Uganda",
