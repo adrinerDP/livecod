@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 51101,
         "deaths": 2060,
-        "recovered": 42100
+        "recovered": 42300
     },
     {
         "Name": "알제리",
@@ -464,20 +464,20 @@
         "recovered": 35428
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 48251,
+        "deaths": 945,
+        "recovered": 43266
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
         "confirmed": 48232,
         "deaths": 1244,
         "recovered": 36071
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 47877,
-        "deaths": 942,
-        "recovered": 43026
     },
     {
         "Name": "Ghana",
@@ -515,9 +515,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39145,
-        "deaths": 1446,
-        "recovered": 32610
+        "confirmed": 39170,
+        "deaths": 1451,
+        "recovered": 32619
     },
     {
         "Name": "Kenya",
@@ -608,20 +608,20 @@
         "recovered": 18359
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 21200,
+        "deaths": 709,
+        "recovered": 4818
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 20690,
         "deaths": 416,
         "recovered": 19124
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 20450,
-        "deaths": 702,
-        "recovered": 4644
     },
     {
         "Name": "Ivory Coast",
@@ -992,20 +992,20 @@
         "recovered": 2199
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 4399,
+        "deaths": 25,
+        "recovered": 1705
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
         "confirmed": 4363,
         "deaths": 159,
         "recovered": 1473
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 4140,
-        "deaths": 25,
-        "recovered": 1643
     },
     {
         "Name": "Trinidad and Tobago",
