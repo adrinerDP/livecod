@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7172572,
-        "deaths": 207262,
-        "recovered": 4418260
+        "confirmed": 7173133,
+        "deaths": 207265,
+        "recovered": 4418369
     },
     {
         "Name": "인도",
@@ -411,9 +411,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 67014,
+        "confirmed": 67701,
         "deaths": 231,
-        "recovered": 60117
+        "recovered": 60853
     },
     {
         "Name": "나이지리아",
@@ -624,20 +624,20 @@
         "recovered": 19440
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "confirmed": 19573,
+        "deaths": 785,
+        "recovered": 14013
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
         "confirmed": 19501,
         "deaths": 120,
         "recovered": 19003
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "confirmed": 19283,
-        "deaths": 779,
-        "recovered": 13867
     },
     {
         "Name": "North Macedonia",
@@ -1027,9 +1027,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3924,
-        "deaths": 181,
-        "recovered": 998
+        "confirmed": 3966,
+        "deaths": 183,
+        "recovered": 1013
     },
     {
         "Name": "Aruba",
@@ -1128,20 +1128,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 2579,
+        "deaths": 71,
+        "recovered": 1483
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 2567,
         "deaths": 13,
         "recovered": 624
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 2535,
-        "deaths": 69,
-        "recovered": 1464
     },
     {
         "Name": "Iceland",
@@ -1339,7 +1339,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 654,
+        "confirmed": 655,
         "deaths": 48,
         "recovered": 575
     },
