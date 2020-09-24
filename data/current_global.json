@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7141923,
-        "deaths": 206616,
-        "recovered": 4400322
+        "confirmed": 7142728,
+        "deaths": 206629,
+        "recovered": 4400512
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5751510,
-        "deaths": 91362,
-        "recovered": 4694577
+        "confirmed": 5752178,
+        "deaths": 91368,
+        "recovered": 4694860
     },
     {
         "Name": "브라질",
@@ -91,9 +91,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 449903,
-        "deaths": 12345,
-        "recovered": 425165
+        "confirmed": 451634,
+        "deaths": 12469,
+        "recovered": 426876
     },
     {
         "Name": "이란",
@@ -880,6 +880,14 @@
         "recovered": 4140
     },
     {
+        "Name": "Jamaica",
+        "Name_ch": "",
+        "Name_en": "Jamaica",
+        "confirmed": 5588,
+        "deaths": 77,
+        "recovered": 1490
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -894,14 +902,6 @@
         "confirmed": 5407,
         "deaths": 61,
         "recovered": 5338
-    },
-    {
-        "Name": "Jamaica",
-        "Name_ch": "",
-        "Name_en": "Jamaica",
-        "confirmed": 5395,
-        "deaths": 76,
-        "recovered": 1444
     },
     {
         "Name": "Eswatini",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3324,
+        "confirmed": 3327,
         "deaths": 13,
         "recovered": 3142
     },

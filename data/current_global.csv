@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7141923,206616,4400322
-인도,印度,India,5751510,91362,4694577
+미국,美国,United States,7142728,206629,4400512
+인도,印度,India,5752178,91368,4694860
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
@@ -10,7 +10,7 @@
 남아프리카 공화국,南非共和国,South Africa,665188,16206,594229
 Argentina,,Argentina,664799,14376,525486
 프랑스,法国,France,481141,31459,93538
-칠레,智利,Chile,449903,12345,425165
+칠레,智利,Chile,451634,12469,426876
 이란,伊朗,Iran,436319,25015,367829
 영국,英国,UK,409729,41862,0
 Bangladesh,,Bangladesh,355384,5072,265092
@@ -109,9 +109,9 @@ Mozambique,,Mozambique,7262,49,4350
 Uganda,,Uganda,7064,70,3226
 요르단,约旦,Jordan,6042,35,3812
 Malawi,,Malawi,5746,179,4140
+Jamaica,,Jamaica,5588,77,1490
 Cabo Verde,,Cabo Verde,5412,54,4837
 Djibouti,,Djibouti,5407,61,5338
-Jamaica,,Jamaica,5395,76,1444
 Eswatini,,Eswatini,5343,108,4693
 Cuba,,Cuba,5270,118,4582
 Nicaragua,,Nicaragua,5073,149,2913
@@ -135,7 +135,7 @@ Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3516,59,3353
 Réunion,,Réunion,3501,11,2482
 Somalia,,Somalia,3465,98,2877
-스리랑카,斯里兰卡,Sri Lanka,3324,13,3142
+스리랑카,斯里兰卡,Sri Lanka,3327,13,3142
 에스토니아,爱沙尼亚,Estonia,3076,64,2395
 Mali,,Mali,3034,130,2382
 Malta,,Malta,2898,27,2191
