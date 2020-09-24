@@ -267,17 +267,17 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107450,
+        "confirmed": 107529,
         "deaths": 1699,
-        "recovered": 102064
+        "recovered": 102323
     },
     {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 105226,
-        "deaths": 9955,
-        "recovered": 19039
+        "confirmed": 106887,
+        "deaths": 9959,
+        "recovered": 19079
     },
     {
         "Name": "이집트",
@@ -1216,20 +1216,20 @@
         "recovered": 1203
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1706,
+        "deaths": 22,
+        "recovered": 1019
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "confirmed": 1701,
         "deaths": 41,
         "recovered": 1297
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1669,
-        "deaths": 21,
-        "recovered": 1004
     },
     {
         "Name": "Cyprus",
@@ -1259,9 +1259,9 @@
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
-        "confirmed": 1394,
-        "deaths": 2,
-        "recovered": 1170
+        "confirmed": 1469,
+        "deaths": 5,
+        "recovered": 1237
     },
     {
         "Name": "Liberia",
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 672,
+        "confirmed": 676,
         "deaths": 5,
-        "recovered": 581
+        "recovered": 588
     },
     {
         "Name": "Channel Islands",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 594,
-        "deaths": 20,
-        "recovered": 512
+        "confirmed": 616,
+        "deaths": 21,
+        "recovered": 517
     },
     {
         "Name": "Papua New Guinea",
