@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7141923,206616,4400322
-인도,印度,India,5737197,91204,4674987
+인도,印度,India,5751510,91362,4694577
 브라질,巴西,Brazil,4627780,139065,3992886
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,784268,24746,662277
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,188106,3757,83458
 캐나다,加拿大,Canada,147756,9243,127788
 Bolivia,,Bolivia,131990,7731,91556
 에콰도르,厄瓜多尔,Ecuador,129892,11171,102852
-카타르,卡塔尔,Qatar,124175,212,121006
+카타르,卡塔尔,Qatar,124425,212,121263
 루마니아,尼亚,Romania,118054,4591,94877
 도미니카 공화국,多明尼加共和国,Dominican Republic,109737,2074,83434
 Panama,,Panama,107990,2291,84437
@@ -45,14 +45,14 @@ Guatemala,,Guatemala,87442,3154,76459
 일본,日本,Japan,79768,1512,71981
 벨라루스,白俄罗斯,Belarus,76651,802,73733
 Honduras,,Honduras,72675,2222,24022
+포르투갈,葡萄牙,Portugal,71156,1931,46676
 Ethiopia,,Ethiopia,71083,1141,29253
-포르투갈,葡萄牙,Portugal,70465,1928,46290
 Venezuela,,Venezuela,69439,574,58759
 네팔,尼泊尔,Nepal,69301,453,50411
 코스타리카,哥斯达黎加,Costa Rica,68059,781,26136
 바레인,巴林,Bahrain,67014,231,60117
 나이지리아,尼日利亚,Nigeria,57724,1102,48985
-싱가포르,新加坡,Singapore,57654,27,57291
+싱가포르,新加坡,Singapore,57654,27,57333
 체코,捷克,Czechia,55464,555,26709
 Uzbekistan,,Uzbekistan,53834,446,50230
 스위스,瑞士,Switzerland,51492,2061,42300
@@ -86,8 +86,8 @@ Madagascar,,Madagascar,16191,227,14833
 세네갈,塞内加尔,Senegal,14816,304,11818
 Zambia,,Zambia,14491,332,13643
 Sudan,,Sudan,13578,836,6760
+노르웨이,挪威,Norway,13347,270,10371
 Tunisia,,Tunisia,13305,180,5032
-노르웨이,挪威,Norway,13277,267,10371
 Albania,,Albania,12787,370,7139
 Namibia,,Namibia,10663,117,8431
 말레이시아,马来西亚,Malaysia,10576,133,9666
@@ -118,10 +118,10 @@ Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5057,104,4758
 Equatorial Guinea,,Equatorial Guinea,5018,83,4509
 Congo,,Congo,5005,89,3887
+슬로베니아,斯洛文尼亚,Slovenia,4816,145,3245
 CAR,,CAR,4802,62,1830
 Suriname,,Suriname,4779,101,4560
 Rwanda,,Rwanda,4779,27,2995
-슬로베니아,斯洛文尼亚,Slovenia,4694,143,3168
 Guadeloupe,,Guadeloupe,4487,42,2199
 조지아,格鲁吉亚,Georgia,4399,26,1705
 Angola,,Angola,4363,159,1473
@@ -135,7 +135,7 @@ Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3516,59,3353
 Réunion,,Réunion,3501,11,2482
 Somalia,,Somalia,3465,98,2877
-스리랑카,斯里兰卡,Sri Lanka,3324,13,3129
+스리랑카,斯里兰卡,Sri Lanka,3324,13,3142
 에스토니아,爱沙尼亚,Estonia,3076,64,2395
 Mali,,Mali,3034,130,2382
 Malta,,Malta,2898,27,2191
@@ -174,7 +174,7 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,476,1,462
 Comoros,,Comoros,470,7,453
 Faeroe Islands,,Faeroe Islands,455,0,416
-Mauritius,,Mauritius,367,10,339
+Mauritius,,Mauritius,367,10,343
 Saint Martin,,Saint Martin,367,8,273
 Eritrea,,Eritrea,364,0,309
 지브롤터,直布罗陀,Gibraltar,361,0,331
