@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7185471,
+        "confirmed": 7185516,
         "deaths": 207538,
         "recovered": 4437575
     },
@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 188106,
-        "deaths": 3757,
-        "recovered": 83458
+        "confirmed": 191671,
+        "deaths": 3827,
+        "recovered": 85133
     },
     {
         "Name": "캐나다",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 67701,
-        "deaths": 231,
+        "deaths": 233,
         "recovered": 60853
     },
     {
