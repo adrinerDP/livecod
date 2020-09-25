@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7229787,
-        "deaths": 208268,
-        "recovered": 4473522
+        "confirmed": 7233514,
+        "deaths": 208281,
+        "recovered": 4475379
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 788930,
-        "deaths": 31938,
-        "recovered": 644345
+        "confirmed": 794584,
+        "deaths": 32037,
+        "recovered": 650948
     },
     {
         "Name": "스페인",
@@ -67,8 +67,8 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 678266,
-        "deaths": 14766,
+        "confirmed": 691235,
+        "deaths": 15208,
         "recovered": 536589
     },
     {
@@ -256,20 +256,20 @@
         "recovered": 84610
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "confirmed": 109431,
+        "deaths": 2311,
+        "recovered": 86158
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
         "confirmed": 108768,
         "deaths": 9965,
         "recovered": 19123
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "confirmed": 108726,
-        "deaths": 2297,
-        "recovered": 85494
     },
     {
         "Name": "Kazakhstan",
@@ -419,9 +419,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 60027,
-        "deaths": 578,
-        "recovered": 28022
+        "confirmed": 61318,
+        "deaths": 581,
+        "recovered": 30740
     },
     {
         "Name": "나이지리아",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13478,
+        "confirmed": 13545,
         "deaths": 270,
         "recovered": 10371
     },
@@ -960,6 +960,14 @@
         "recovered": 3887
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4817,
+        "deaths": 102,
+        "recovered": 4596
+    },
+    {
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
@@ -974,14 +982,6 @@
         "confirmed": 4798,
         "deaths": 29,
         "recovered": 3080
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4789,
-        "deaths": 102,
-        "recovered": 4578
     },
     {
         "Name": "조지아",
