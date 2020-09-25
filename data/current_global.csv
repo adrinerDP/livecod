@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7185235,207515,4431222
+미국,美国,United States,7185471,207538,4437575
 인도,印度,India,5816103,92317,4752991
 브라질,巴西,Brazil,4659909,139883,4023789
 러시아,俄罗斯,Russia,1128836,19948,929829
 콜롬비아,哥伦比亚,Colombia,790823,24924,674961
 페루,秘鲁,Peru,788930,31938,644345
-멕시코,墨西哥,Mexico,710049,74949,510237
+멕시코,墨西哥,Mexico,715457,75439,514760
 스페인,西班牙,Spain,704209,31118,0
 Argentina,,Argentina,678266,14766,536589
 남아프리카 공화국,南非共和国,South Africa,667049,16283,595916
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,355384,5072,265092
 이스라엘,以色列,Israel,212115,1378,148813
 Ukraine,,Ukraine,188106,3757,83458
 캐나다,加拿大,Canada,149094,9249,128707
-Bolivia,,Bolivia,131990,7731,91556
+Bolivia,,Bolivia,132618,7765,92101
 에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124425,212,121263
 루마니아,尼亚,Romania,118054,4591,94877
@@ -72,7 +72,7 @@ Paraguay,,Paraguay,36404,743,20502
 레바논,黎巴嫩,Lebanon,32819,329,14112
 Libya,,Libya,30632,474,16842
 El Salvador,,El Salvador,28201,823,22326
-호주,澳大利亚,Australia,26983,861,24448
+호주,澳大利亚,Australia,27000,869,24464
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26316,802,19142
 덴마크,丹麦,Denmark,24916,645,18646
 헝가리,匈牙利,Hungary,21200,709,4818
@@ -102,7 +102,7 @@ Gabon,,Gabon,8716,54,7906
 Haiti,,Haiti,8668,227,6551
 Myanmar,,Myanmar,8344,150,2381
 룩셈부르크,卢森堡,Luxembourg,8158,124,6910
-Zimbabwe,,Zimbabwe,7725,227,6007
+Zimbabwe,,Zimbabwe,7752,227,6043
 슬로바키아,斯洛伐克,Slovakia,7629,41,3978
 Mauritania,,Mauritania,7433,161,7052
 Mozambique,,Mozambique,7399,51,4558
@@ -149,7 +149,7 @@ Sierra Leone,,Sierra Leone,2188,72,1666
 Yemen,,Yemen,2029,586,1250
 Uruguay,,Uruguay,1959,47,1679
 Burkina Faso,,Burkina Faso,1950,56,1260
-New Zealand,,New Zealand,1827,25,1737
+New Zealand,,New Zealand,1829,25,1744
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1707,44,1307
 Belize,,Belize,1706,22,1019
@@ -165,9 +165,9 @@ Chad,,Chad,1171,82,1003
 Sao Tome and Principe,,Sao Tome and Principe,910,15,881
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-Turks and Caicos,,Turks and Caicos,676,5,588
+Turks and Caicos,,Turks and Caicos,679,5,602
 Channel Islands,,Channel Islands,655,48,575
-Sint Maarten,,Sint Maarten,616,21,517
+Sint Maarten,,Sint Maarten,618,22,517
 Papua New Guinea,,Papua New Guinea,531,7,516
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,509,7,480
@@ -212,4 +212,4 @@ Vatican City,,Vatican City,12,0,12
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85314,4634,80513
+중국,中国,China,85322,4634,80522

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7185235,
-        "deaths": 207515,
-        "recovered": 4431222
+        "confirmed": 7185471,
+        "deaths": 207538,
+        "recovered": 4437575
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 710049,
-        "deaths": 74949,
-        "recovered": 510237
+        "confirmed": 715457,
+        "deaths": 75439,
+        "recovered": 514760
     },
     {
         "Name": "스페인",
@@ -211,9 +211,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 131990,
-        "deaths": 7731,
-        "recovered": 91556
+        "confirmed": 132618,
+        "deaths": 7765,
+        "recovered": 92101
     },
     {
         "Name": "에콰도르",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 26983,
-        "deaths": 861,
-        "recovered": 24448
+        "confirmed": 27000,
+        "deaths": 869,
+        "recovered": 24464
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -827,9 +827,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7725,
+        "confirmed": 7752,
         "deaths": 227,
-        "recovered": 6007
+        "recovered": 6043
     },
     {
         "Name": "슬로바키아",
@@ -1203,9 +1203,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1827,
+        "confirmed": 1829,
         "deaths": 25,
-        "recovered": 1737
+        "recovered": 1744
     },
     {
         "Name": "안도라",
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 676,
+        "confirmed": 679,
         "deaths": 5,
-        "recovered": 588
+        "recovered": 602
     },
     {
         "Name": "Channel Islands",
@@ -1347,8 +1347,8 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 616,
-        "deaths": 21,
+        "confirmed": 618,
+        "deaths": 22,
         "recovered": 517
     },
     {
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85314,
+        "confirmed": 85322,
         "deaths": 4634,
-        "recovered": 80513
+        "recovered": 80522
     }
 ]
