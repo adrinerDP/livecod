@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7206769,
-        "deaths": 207923,
-        "recovered": 4459624
+        "confirmed": 7211558,
+        "deaths": 208021,
+        "recovered": 4460124
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 283444,
-        "deaths": 9528,
+        "confirmed": 283652,
+        "deaths": 9530,
         "recovered": 249500
     },
     {
@@ -384,6 +384,14 @@
         "recovered": 47003
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 70816,
+        "deaths": 812,
+        "recovered": 27023
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
@@ -398,14 +406,6 @@
         "confirmed": 70406,
         "deaths": 581,
         "recovered": 59745
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 69459,
-        "deaths": 795,
-        "recovered": 26554
     },
     {
         "Name": "바레인",
@@ -1131,7 +1131,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2669,
+        "confirmed": 2676,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 477,
+        "confirmed": 483,
         "deaths": 1,
         "recovered": 462
     },
@@ -1483,17 +1483,17 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 205,
+        "confirmed": 208,
         "deaths": 2,
-        "recovered": 166
+        "recovered": 167
     },
     {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 189,
+        "confirmed": 190,
         "deaths": 7,
-        "recovered": 174
+        "recovered": 175
     },
     {
         "Name": "Bermuda",
