@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 72675,
-        "deaths": 2222,
-        "recovered": 24022
+        "confirmed": 73193,
+        "deaths": 2249,
+        "recovered": 24580
     },
     {
         "Name": "Ethiopia",
@@ -1011,9 +1011,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4222,
+        "confirmed": 4235,
         "deaths": 67,
-        "recovered": 2037
+        "recovered": 2047
     },
     {
         "Name": "Lithuania",
@@ -1043,9 +1043,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 3618,
-        "deaths": 80,
-        "recovered": 1915
+        "confirmed": 3699,
+        "deaths": 86,
+        "recovered": 1962
     },
     {
         "Name": "Gambia",
