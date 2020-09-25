@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7211558,208021,4460124
+미국,美国,United States,7214010,208006,4460124
 인도,印度,India,5901576,93408,4846168
 브라질,巴西,Brazil,4667384,140040,4023789
 러시아,俄罗斯,Russia,1136048,20056,934146
@@ -78,7 +78,7 @@ El Salvador,,El Salvador,28415,823,22643
 헝가리,匈牙利,Hungary,22127,718,4945
 카메룬,喀麦隆,Cameroon,20712,418,19440
 Bulgaria,,Bulgaria,19573,785,14013
-Ivory Coast,,Ivory Coast,19501,120,19003
+Ivory Coast,,Ivory Coast,19556,120,19065
 North Macedonia,,North Macedonia,17343,721,14422
 그리스,希腊,Greece,16913,369,9989
 Madagascar,,Madagascar,16221,228,14867
@@ -110,7 +110,7 @@ Uganda,,Uganda,7218,71,3611
 요르단,约旦,Jordan,7211,39,4035
 Malawi,,Malawi,5764,179,4178
 Jamaica,,Jamaica,5723,80,1496
-Cabo Verde,,Cabo Verde,5479,55,4917
+Cabo Verde,,Cabo Verde,5628,55,4982
 Djibouti,,Djibouti,5407,61,5339
 Eswatini,,Eswatini,5399,108,4767
 Cuba,,Cuba,5350,118,4658
@@ -120,14 +120,14 @@ Equatorial Guinea,,Equatorial Guinea,5018,83,4530
 슬로베니아,斯洛文尼亚,Slovenia,5007,145,3353
 Congo,,Congo,5005,89,3887
 CAR,,CAR,4804,62,1837
+Rwanda,,Rwanda,4798,29,3080
 Suriname,,Suriname,4789,102,4578
-Rwanda,,Rwanda,4789,27,3050
 조지아,格鲁吉亚,Georgia,4664,27,1759
 Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4475,162,1503
 Trinidad and Tobago,,Trinidad and Tobago,4260,69,2122
 Lithuania,,Lithuania,4184,89,2298
-Syria,,Syria,3966,183,1013
+Syria,,Syria,4001,185,1028
 Aruba,,Aruba,3756,25,2664
 Bahamas,,Bahamas,3699,86,1962
 Réunion,,Réunion,3685,11,2819
@@ -152,7 +152,7 @@ Burkina Faso,,Burkina Faso,1950,56,1260
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1829,25,1744
 Belize,,Belize,1758,22,1072
-토고,多哥,Togo,1707,44,1307
+토고,多哥,Togo,1722,44,1312
 Cyprus,,Cyprus,1663,22,1369
 라트비아,约旦,Latvia,1625,36,1282
 Lesotho,,Lesotho,1558,35,797
@@ -160,7 +160,7 @@ French Polynesia,,French Polynesia,1469,5,1237
 Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
-Chad,,Chad,1171,82,1003
+Chad,,Chad,1175,83,1004
 베트남,越南,Vietnam,1069,35,999
 Sao Tome and Principe,,Sao Tome and Principe,910,15,881
 산마리노,圣马力诺,San Marino,727,42,676
@@ -197,7 +197,7 @@ St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 St. Barth,,St. Barth,45,0,25
 Fiji,,Fiji,32,2,28
-Saint Lucia,,Saint Lucia,27,0,26
+Saint Lucia,,Saint Lucia,27,0,27
 Timor-Leste,,Timor-Leste,27,0,27
 New Caledonia,,New Caledonia,26,0,26
 Dominica,,Dominica,24,0,18

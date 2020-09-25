@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7211558,
-        "deaths": 208021,
+        "confirmed": 7214010,
+        "deaths": 208006,
         "recovered": 4460124
     },
     {
@@ -635,9 +635,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19501,
+        "confirmed": 19556,
         "deaths": 120,
-        "recovered": 19003
+        "recovered": 19065
     },
     {
         "Name": "North Macedonia",
@@ -891,9 +891,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 5479,
+        "confirmed": 5628,
         "deaths": 55,
-        "recovered": 4917
+        "recovered": 4982
     },
     {
         "Name": "Djibouti",
@@ -968,20 +968,20 @@
         "recovered": 1837
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4798,
+        "deaths": 29,
+        "recovered": 3080
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 4789,
         "deaths": 102,
         "recovered": 4578
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4789,
-        "deaths": 27,
-        "recovered": 3050
     },
     {
         "Name": "조지아",
@@ -1027,9 +1027,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 3966,
-        "deaths": 183,
-        "recovered": 1013
+        "confirmed": 4001,
+        "deaths": 185,
+        "recovered": 1028
     },
     {
         "Name": "Aruba",
@@ -1227,9 +1227,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1707,
+        "confirmed": 1722,
         "deaths": 44,
-        "recovered": 1307
+        "recovered": 1312
     },
     {
         "Name": "Cyprus",
@@ -1291,9 +1291,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1171,
-        "deaths": 82,
-        "recovered": 1003
+        "confirmed": 1175,
+        "deaths": 83,
+        "recovered": 1004
     },
     {
         "Name": "베트남",
@@ -1589,7 +1589,7 @@
         "Name_en": "Saint Lucia",
         "confirmed": 27,
         "deaths": 0,
-        "recovered": 26
+        "recovered": 27
     },
     {
         "Name": "Timor-Leste",
