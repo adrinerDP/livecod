@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5816103,
+        "confirmed": 5818570,
         "deaths": 92317,
-        "recovered": 4752991
+        "recovered": 4756164
     },
     {
         "Name": "브라질",
@@ -1067,9 +1067,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3516,
+        "confirmed": 3519,
         "deaths": 59,
-        "recovered": 3353
+        "recovered": 3360
     },
     {
         "Name": "Réunion",
@@ -1453,7 +1453,7 @@
         "Name_en": "Mongolia",
         "confirmed": 313,
         "deaths": 0,
-        "recovered": 302
+        "recovered": 303
     },
     {
         "Name": "캄보디아",
@@ -1467,9 +1467,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 261,
+        "confirmed": 263,
         "deaths": 0,
-        "recovered": 196
+        "recovered": 198
     },
     {
         "Name": "Cayman Islands",
