@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7194490,
-        "deaths": 207741,
-        "recovered": 4440410
+        "confirmed": 7195008,
+        "deaths": 207769,
+        "recovered": 4440429
     },
     {
         "Name": "인도",
@@ -243,9 +243,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 110122,
-        "deaths": 2076,
-        "recovered": 84018
+        "confirmed": 110597,
+        "deaths": 2087,
+        "recovered": 84610
     },
     {
         "Name": "모로코",
@@ -437,7 +437,7 @@
         "Name_en": "Singapore",
         "confirmed": 57665,
         "deaths": 27,
-        "recovered": 57333
+        "recovered": 57341
     },
     {
         "Name": "Uzbekistan",
@@ -752,6 +752,14 @@
         "recovered": 9801
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 9962,
+        "deaths": 155,
+        "recovered": 6177
+    },
+    {
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
@@ -766,14 +774,6 @@
         "confirmed": 9790,
         "deaths": 65,
         "recovered": 9456
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 9717,
-        "deaths": 154,
-        "recovered": 5917
     },
     {
         "Name": "Tajikistan",
