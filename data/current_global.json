@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7222022,
-        "deaths": 208105,
-        "recovered": 4464428
+        "confirmed": 7223047,
+        "deaths": 208118,
+        "recovered": 4464517
     },
     {
         "Name": "인도",
@@ -411,9 +411,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 67701,
-        "deaths": 234,
-        "recovered": 60853
+        "confirmed": 68190,
+        "deaths": 236,
+        "recovered": 61475
     },
     {
         "Name": "체코",
@@ -771,9 +771,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9790,
+        "confirmed": 9831,
         "deaths": 65,
-        "recovered": 9456
+        "recovered": 9472
     },
     {
         "Name": "Tajikistan",
@@ -899,9 +899,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5407,
+        "confirmed": 5409,
         "deaths": 61,
-        "recovered": 5339
+        "recovered": 5340
     },
     {
         "Name": "Eswatini",
@@ -963,9 +963,9 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4804,
+        "confirmed": 4806,
         "deaths": 62,
-        "recovered": 1837
+        "recovered": 1840
     },
     {
         "Name": "Rwanda",
