@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7216873,
-        "deaths": 208054,
-        "recovered": 4461161
+        "confirmed": 7222022,
+        "deaths": 208105,
+        "recovered": 4464428
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4667384,
-        "deaths": 140040,
+        "confirmed": 4689613,
+        "deaths": 140537,
         "recovered": 4023789
     },
     {
@@ -219,8 +219,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 131146,
-        "deaths": 11213,
+        "confirmed": 132475,
+        "deaths": 11236,
         "recovered": 102852
     },
     {
@@ -835,9 +835,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7752,
+        "confirmed": 7787,
         "deaths": 227,
-        "recovered": 6043
+        "recovered": 6057
     },
     {
         "Name": "Mozambique",
@@ -851,9 +851,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7433,
+        "confirmed": 7457,
         "deaths": 161,
-        "recovered": 7052
+        "recovered": 7070
     },
     {
         "Name": "Uganda",
@@ -1107,9 +1107,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3041,
+        "confirmed": 3064,
         "deaths": 130,
-        "recovered": 2391
+        "recovered": 2402
     },
     {
         "Name": "Malta",
