@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5823060,
-        "deaths": 92347,
-        "recovered": 4756164
+        "confirmed": 5828754,
+        "deaths": 92419,
+        "recovered": 4761174
     },
     {
         "Name": "브라질",
@@ -123,9 +123,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 337106,
-        "deaths": 8799,
-        "recovered": 268761
+        "confirmed": 341699,
+        "deaths": 8867,
+        "recovered": 273266
     },
     {
         "Name": "사우디아라비아",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 53966,
-        "deaths": 447,
-        "recovered": 50441
+        "confirmed": 54392,
+        "deaths": 449,
+        "recovered": 50879
     },
     {
         "Name": "스위스",
@@ -571,9 +571,9 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 30632,
-        "deaths": 474,
-        "recovered": 16842
+        "confirmed": 31290,
+        "deaths": 491,
+        "recovered": 17508
     },
     {
         "Name": "El Salvador",
@@ -779,9 +779,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9520,
+        "confirmed": 9562,
         "deaths": 74,
-        "recovered": 8296
+        "recovered": 8341
     },
     {
         "Name": "핀란드",
