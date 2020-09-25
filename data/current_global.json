@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7185915,
-        "deaths": 207540,
-        "recovered": 4438628
+        "confirmed": 7187179,
+        "deaths": 207555,
+        "recovered": 4438906
     },
     {
         "Name": "인도",
@@ -384,6 +384,14 @@
         "recovered": 46676
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 70614,
+        "deaths": 459,
+        "recovered": 51866
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -398,14 +406,6 @@
         "confirmed": 69459,
         "deaths": 795,
         "recovered": 26554
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 69301,
-        "deaths": 453,
-        "recovered": 50411
     },
     {
         "Name": "바레인",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 37591,
-        "deaths": 274,
-        "recovered": 26934
+        "confirmed": 37963,
+        "deaths": 278,
+        "recovered": 27183
     },
     {
         "Name": "Kenya",
@@ -589,7 +589,7 @@
         "Name_en": "Australia",
         "confirmed": 27000,
         "deaths": 869,
-        "recovered": 24464
+        "recovered": 24523
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1251,9 +1251,9 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1554,
+        "confirmed": 1558,
         "deaths": 35,
-        "recovered": 782
+        "recovered": 797
     },
     {
         "Name": "French Polynesia",
