@@ -12,8 +12,8 @@
         "link": "https://www.nytimes.com/2020/09/24/world/middleeast/israel-covid-lockdown.html"
     },
     {
-        "title": "Record COVID-19 cases in France, UK; ‘Tough weeks ahead’ in Spain",
-        "link": "https://www.aljazeera.com/news/2020/9/25/record-covid-19-cases-in-france-uk-tough-weeks-ahead-in-spain"
+        "title": "UK and France record most daily cases since start of pandemic, as university outbreaks linked to parties",
+        "link": "https://www.cnn.com/2020/09/25/europe/uk-france-record-coronavirus-cases-gbr-intl/index.html"
     },
     {
         "title": "SP Balasubrahmanyam, famed Indian film musician, dies from Covid 19 aged 74",
@@ -24,10 +24,6 @@
         "link": "https://www.bbc.com/news/uk-54279802"
     },
     {
-        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
-        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
-    },
-    {
         "title": "The latest on the coronavirus pandemic: Live updates",
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-25-20-intl/index.html"
     },
@@ -36,7 +32,11 @@
         "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     },
     {
-        "title": "U.S. hits 7M Covid cases, 2 governors call response worst in world",
-        "link": "https://www.nbcnews.com/news/us-news/u-s-closes-7m-covid-cases-2-governors-call-response-n1240967"
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
+    },
+    {
+        "title": "Global coronavirus vaccine initiative launches without U.S. or China",
+        "link": "https://www.axios.com/covax-vaccine-iniative-us-china-russia-6f6c76d7-ddd6-4bfb-92b4-c11bd27e0063.html"
     }
 ]
