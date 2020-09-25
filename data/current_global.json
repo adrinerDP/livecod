@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4659909,
-        "deaths": 139883,
+        "confirmed": 4667384,
+        "deaths": 140040,
         "recovered": 4023789
     },
     {
@@ -48,20 +48,20 @@
         "recovered": 644345
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 735198,
+        "deaths": 31232,
+        "recovered": 0
+    },
+    {
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
         "confirmed": 715457,
         "deaths": 75439,
         "recovered": 514760
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 704209,
-        "deaths": 31118,
-        "recovered": 0
     },
     {
         "Name": "Argentina",
