@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7180158,
-        "deaths": 207413,
-        "recovered": 4425579
+        "confirmed": 7184758,
+        "deaths": 207512,
+        "recovered": 4431063
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 148788,
-        "deaths": 9246,
-        "recovered": 128344
+        "confirmed": 149094,
+        "deaths": 9249,
+        "recovered": 128707
     },
     {
         "Name": "Bolivia",
@@ -539,9 +539,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 35571,
-        "deaths": 727,
-        "recovered": 19867
+        "confirmed": 36404,
+        "deaths": 743,
+        "recovered": 20502
     },
     {
         "Name": "아일랜드",
@@ -968,20 +968,20 @@
         "recovered": 1837
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 4789,
+        "deaths": 102,
+        "recovered": 4578
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4789,
         "deaths": 27,
         "recovered": 3050
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 4779,
-        "deaths": 101,
-        "recovered": 4560
     },
     {
         "Name": "Guadeloupe",
@@ -1235,7 +1235,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1654,
+        "confirmed": 1663,
         "deaths": 22,
         "recovered": 1369
     },
@@ -1315,9 +1315,9 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 723,
+        "confirmed": 727,
         "deaths": 42,
-        "recovered": 669
+        "recovered": 676
     },
     {
         "Name": "일본크루즈",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 476,
+        "confirmed": 477,
         "deaths": 1,
         "recovered": 462
     },

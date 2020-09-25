@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7180158,207413,4425579
+미국,美国,United States,7184758,207512,4431063
 인도,印度,India,5816103,92317,4752991
 브라질,巴西,Brazil,4659909,139883,4023789
 러시아,俄罗斯,Russia,1128836,19948,929829
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,355384,5072,265092
 인도네시아,印度尼西亚,Indonesia,262022,10105,191853
 이스라엘,以色列,Israel,212115,1378,148813
 Ukraine,,Ukraine,188106,3757,83458
-캐나다,加拿大,Canada,148788,9246,128344
+캐나다,加拿大,Canada,149094,9249,128707
 Bolivia,,Bolivia,131990,7731,91556
 에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124425,212,121263
@@ -66,7 +66,7 @@ Kyrgyzstan,,Kyrgyzstan,45757,1063,42005
 아프가니스탄,阿富汗,Afghanistan,39170,1451,32619
 팔레스타인,巴勒斯坦,Palestine,37591,274,26934
 Kenya,,Kenya,37489,669,24334
-Paraguay,,Paraguay,35571,727,19867
+Paraguay,,Paraguay,36404,743,20502
 아일랜드,冰岛,Ireland,33994,1797,23364
 세르비아,塞尔维亚,Serbia,33163,745,31536
 레바논,黎巴嫩,Lebanon,32819,329,14112
@@ -120,8 +120,8 @@ Equatorial Guinea,,Equatorial Guinea,5018,83,4530
 Congo,,Congo,5005,89,3887
 슬로베니아,斯洛文尼亚,Slovenia,4816,145,3245
 CAR,,CAR,4804,62,1837
+Suriname,,Suriname,4789,102,4578
 Rwanda,,Rwanda,4789,27,3050
-Suriname,,Suriname,4779,101,4560
 Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4475,162,1503
 조지아,格鲁吉亚,Georgia,4399,26,1705
@@ -153,7 +153,7 @@ New Zealand,,New Zealand,1827,25,1737
 안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1707,44,1307
 Belize,,Belize,1706,22,1019
-Cyprus,,Cyprus,1654,22,1369
+Cyprus,,Cyprus,1663,22,1369
 라트비아,约旦,Latvia,1594,36,1248
 Lesotho,,Lesotho,1554,35,782
 French Polynesia,,French Polynesia,1469,5,1237
@@ -163,7 +163,7 @@ Niger,,Niger,1194,69,1107
 Chad,,Chad,1171,82,1003
 베트남,越南,Vietnam,1069,35,991
 Sao Tome and Principe,,Sao Tome and Principe,910,15,881
-산마리노,圣马力诺,San Marino,723,42,669
+산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,676,5,588
 Channel Islands,,Channel Islands,655,48,575
@@ -171,7 +171,7 @@ Sint Maarten,,Sint Maarten,616,21,517
 Papua New Guinea,,Papua New Guinea,531,7,516
 Tanzania,,Tanzania,509,21,183
 대만,台湾,Taiwan,509,7,480
-Burundi,,Burundi,476,1,462
+Burundi,,Burundi,477,1,462
 Comoros,,Comoros,474,7,453
 Faeroe Islands,,Faeroe Islands,455,0,416
 Eritrea,,Eritrea,369,0,330
