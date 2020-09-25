@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7185516,
-        "deaths": 207538,
-        "recovered": 4437575
+        "confirmed": 7185915,
+        "deaths": 207540,
+        "recovered": 4438628
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5818570,
-        "deaths": 92317,
+        "confirmed": 5823060,
+        "deaths": 92347,
         "recovered": 4756164
     },
     {
@@ -235,9 +235,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 118054,
-        "deaths": 4591,
-        "recovered": 94877
+        "confirmed": 119683,
+        "deaths": 4633,
+        "recovered": 96158
     },
     {
         "Name": "도미니카 공화국",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 67701,
-        "deaths": 233,
+        "deaths": 234,
         "recovered": 60853
     },
     {
@@ -731,9 +731,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 10576,
+        "confirmed": 10687,
         "deaths": 133,
-        "recovered": 9666
+        "recovered": 9696
     },
     {
         "Name": "DRC",
@@ -824,20 +824,20 @@
         "recovered": 6910
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 8048,
+        "deaths": 41,
+        "recovered": 4036
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "confirmed": 7752,
         "deaths": 227,
         "recovered": 6043
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 7629,
-        "deaths": 41,
-        "recovered": 3978
     },
     {
         "Name": "Mauritania",
