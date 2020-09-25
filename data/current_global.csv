@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7195008,207769,4440429
+미국,美国,United States,7195797,207775,4440476
 인도,印度,India,5843349,92587,4779658
 브라질,巴西,Brazil,4659909,139883,4023789
 러시아,俄罗斯,Russia,1136048,20056,934146
@@ -88,7 +88,7 @@ Zambia,,Zambia,14515,332,13643
 Sudan,,Sudan,13592,836,6764
 노르웨이,挪威,Norway,13478,270,10371
 Tunisia,,Tunisia,13305,180,5032
-Albania,,Albania,12921,370,7239
+Albania,,Albania,13045,373,7309
 Namibia,,Namibia,10740,119,8482
 말레이시아,马来西亚,Malaysia,10687,133,9696
 DRC,,DRC,10578,271,10070
@@ -101,13 +101,13 @@ Tajikistan,,Tajikistan,9562,74,8341
 Myanmar,,Myanmar,9112,174,2381
 Gabon,,Gabon,8716,54,7906
 Haiti,,Haiti,8684,227,6551
-룩셈부르크,卢森堡,Luxembourg,8158,124,6910
+룩셈부르크,卢森堡,Luxembourg,8233,124,6976
 슬로바키아,斯洛伐克,Slovakia,8048,41,4036
 Zimbabwe,,Zimbabwe,7752,227,6043
 Mauritania,,Mauritania,7433,161,7052
 Mozambique,,Mozambique,7399,51,4558
 Uganda,,Uganda,7218,71,3611
-요르단,约旦,Jordan,6591,36,3937
+요르단,约旦,Jordan,7211,39,4035
 Malawi,,Malawi,5747,179,4163
 Jamaica,,Jamaica,5723,80,1496
 Cabo Verde,,Cabo Verde,5479,55,4917
@@ -178,7 +178,7 @@ Eritrea,,Eritrea,369,0,330
 Mauritius,,Mauritius,367,10,343
 Saint Martin,,Saint Martin,367,8,273
 지브롤터,直布罗陀,Gibraltar,364,0,333
-Isle of Man,,Isle of Man,340,24,312
+Isle of Man,,Isle of Man,340,24,314
 Curaçao,,Curaçao,315,1,115
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,275,0,274
@@ -190,7 +190,7 @@ Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,143,0,140
 리히텐슈타인,列支敦士登,Liechtenstein,116,1,110
-Antigua and Barbuda,,Antigua and Barbuda,97,3,92
+Antigua and Barbuda,,Antigua and Barbuda,98,3,92
 Caribbean Netherlands,,Caribbean Netherlands,85,1,21
 British Virgin Islands,,British Virgin Islands,71,1,62
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64

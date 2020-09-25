@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7195008,
-        "deaths": 207769,
-        "recovered": 4440429
+        "confirmed": 7195797,
+        "deaths": 207775,
+        "recovered": 4440476
     },
     {
         "Name": "인도",
@@ -715,9 +715,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 12921,
-        "deaths": 370,
-        "recovered": 7239
+        "confirmed": 13045,
+        "deaths": 373,
+        "recovered": 7309
     },
     {
         "Name": "Namibia",
@@ -819,9 +819,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 8158,
+        "confirmed": 8233,
         "deaths": 124,
-        "recovered": 6910
+        "recovered": 6976
     },
     {
         "Name": "슬로바키아",
@@ -867,9 +867,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 6591,
-        "deaths": 36,
-        "recovered": 3937
+        "confirmed": 7211,
+        "deaths": 39,
+        "recovered": 4035
     },
     {
         "Name": "Malawi",
@@ -1437,7 +1437,7 @@
         "Name_en": "Isle of Man",
         "confirmed": 340,
         "deaths": 24,
-        "recovered": 312
+        "recovered": 314
     },
     {
         "Name": "Curaçao",
@@ -1531,7 +1531,7 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 97,
+        "confirmed": 98,
         "deaths": 3,
         "recovered": 92
     },
