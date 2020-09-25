@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7226666,
-        "deaths": 208197,
-        "recovered": 4468226
+        "confirmed": 7228992,
+        "deaths": 208248,
+        "recovered": 4469766
     },
     {
         "Name": "인도",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 790823,
-        "deaths": 24924,
-        "recovered": 674961
+        "confirmed": 798317,
+        "deaths": 25103,
+        "recovered": 687477
     },
     {
         "Name": "페루",
@@ -292,7 +292,7 @@
         "Name_ch": "埃及",
         "Name_en": "Egypt",
         "confirmed": 102625,
-        "deaths": 5835,
+        "deaths": 5853,
         "recovered": 93531
     },
     {
@@ -347,9 +347,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 80041,
-        "deaths": 1520,
-        "recovered": 72538
+        "confirmed": 80497,
+        "deaths": 1532,
+        "recovered": 73490
     },
     {
         "Name": "벨라루스",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 19573,
-        "deaths": 785,
-        "recovered": 14013
+        "confirmed": 19828,
+        "deaths": 789,
+        "recovered": 14132
     },
     {
         "Name": "Ivory Coast",
@@ -1011,8 +1011,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4260,
-        "deaths": 69,
+        "confirmed": 4277,
+        "deaths": 70,
         "recovered": 2122
     },
     {
@@ -1477,7 +1477,7 @@
         "Name_en": "Cayman Islands",
         "confirmed": 210,
         "deaths": 1,
-        "recovered": 205
+        "recovered": 207
     },
     {
         "Name": "모나코",

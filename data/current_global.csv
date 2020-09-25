@@ -1,9 +1,9 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7226666,208197,4468226
+미국,美国,United States,7228992,208248,4469766
 인도,印度,India,5901576,93410,4846168
 브라질,巴西,Brazil,4689613,140537,4040949
 러시아,俄罗斯,Russia,1136048,20056,934146
-콜롬비아,哥伦比亚,Colombia,790823,24924,674961
+콜롬비아,哥伦比亚,Colombia,798317,25103,687477
 페루,秘鲁,Peru,788930,31938,644345
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,715457,75439,514760
@@ -35,14 +35,14 @@ Bolivia,,Bolivia,132618,7765,92101
 Panama,,Panama,108726,2297,85494
 Kazakhstan,,Kazakhstan,107590,1699,102360
 네덜란드,荷兰,Netherlands,105918,6328,0
-이집트,埃及,Egypt,102625,5835,93531
+이집트,埃及,Egypt,102625,5853,93531
 쿠웨이트,科威特,Kuwait,102441,595,93562
 오만,阿曼,Oman,95907,885,86765
 스웨덴,瑞典语,Sweden,90923,5880,0
 아랍에미리트,阿拉伯联合酋长国,UAE,89540,409,78819
 Guatemala,,Guatemala,88878,3186,77750
 폴란드,波兰,Poland,84396,2392,66740
-일본,日本,Japan,80041,1520,72538
+일본,日本,Japan,80497,1532,73490
 벨라루스,白俄罗斯,Belarus,76957,807,73925
 Honduras,,Honduras,73193,2249,24580
 Ethiopia,,Ethiopia,72173,1155,29863
@@ -77,7 +77,7 @@ El Salvador,,El Salvador,28415,823,22643
 덴마크,丹麦,Denmark,25594,647,19010
 헝가리,匈牙利,Hungary,22127,718,4945
 카메룬,喀麦隆,Cameroon,20712,418,19440
-Bulgaria,,Bulgaria,19573,785,14013
+Bulgaria,,Bulgaria,19828,789,14132
 Ivory Coast,,Ivory Coast,19556,120,19065
 North Macedonia,,North Macedonia,17343,721,14422
 그리스,希腊,Greece,16913,369,9989
@@ -125,7 +125,7 @@ Suriname,,Suriname,4789,102,4578
 조지아,格鲁吉亚,Georgia,4664,27,1759
 Guadeloupe,,Guadeloupe,4487,42,2199
 Angola,,Angola,4475,162,1503
-Trinidad and Tobago,,Trinidad and Tobago,4260,69,2122
+Trinidad and Tobago,,Trinidad and Tobago,4277,70,2122
 Lithuania,,Lithuania,4184,89,2298
 Syria,,Syria,4001,185,1028
 Aruba,,Aruba,3799,25,2753
@@ -183,7 +183,7 @@ Curaçao,,Curaçao,329,1,124
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,263,0,198
-Cayman Islands,,Cayman Islands,210,1,205
+Cayman Islands,,Cayman Islands,210,1,207
 모나코,摩纳哥,Monaco,208,2,167
 Barbados,,Barbados,190,7,175
 Bermuda,,Bermuda,181,9,167
