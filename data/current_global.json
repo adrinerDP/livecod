@@ -227,9 +227,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 124425,
+        "confirmed": 124650,
         "deaths": 212,
-        "recovered": 121263
+        "recovered": 121512
     },
     {
         "Name": "루마니아",
@@ -323,9 +323,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 88532,
-        "deaths": 407,
-        "recovered": 77937
+        "confirmed": 89540,
+        "deaths": 409,
+        "recovered": 78819
     },
     {
         "Name": "Guatemala",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 76651,
-        "deaths": 802,
-        "recovered": 73733
+        "confirmed": 76957,
+        "deaths": 807,
+        "recovered": 73925
     },
     {
         "Name": "Honduras",
