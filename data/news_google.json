@@ -24,8 +24,12 @@
         "link": "https://www.cnn.com/2020/09/25/asia/china-vaccine-who-intl/index.html"
     },
     {
-        "title": "Coronavirus live news: 2 million could die before vaccine ready, warns WHO; cases surge in Europe",
-        "link": "https://www.theguardian.com/world/live/2020/sep/25/coronavirus-live-news-france-sees-record-new-cases-virus-may-be-becoming-more-contagious"
+        "title": "Florida Gov. DeSantis lifts major restrictions on restaurants, other businesses, in push to boost economy",
+        "link": "https://www.foxnews.com/politics/florida-gov-desantis-lifts-major-restrictions-on-restaurants-other-businesses-in-push-to-boost-economy"
+    },
+    {
+        "title": "COVID-19 mutation may be evolving to bypass mask-wearing, hand-washing",
+        "link": "https://nypost.com/2020/09/24/covid-19-mutation-may-be-evolving-to-bypass-masks-hand-washing/"
     },
     {
         "title": "Watch live: The World Health Organization holds a press briefing on the coronavirus pandemic",
@@ -34,9 +38,5 @@
     {
         "title": "Spain says 'tough weeks' ahead as Madrid hit hard by virus",
         "link": "https://apnews.com/article/virus-outbreak-health-madrid-pandemics-archive-5ad9da4a46c5bee186c9177dd8a95026"
-    },
-    {
-        "title": "Stalled Talks Over Covid-19 Stimulus in the U.S. Show Signs of Life",
-        "link": "https://www.nytimes.com/2020/09/24/world/covid-coronavirus.html"
     }
 ]

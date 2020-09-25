@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7214010,
-        "deaths": 208006,
-        "recovered": 4460124
+        "confirmed": 7216873,
+        "deaths": 208054,
+        "recovered": 4461161
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
         "confirmed": 5901576,
-        "deaths": 93408,
+        "deaths": 93410,
         "recovered": 4846168
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 283652,
+        "confirmed": 283706,
         "deaths": 9530,
         "recovered": 249500
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 149503,
-        "deaths": 9250,
-        "recovered": 128990
+        "confirmed": 150194,
+        "deaths": 9255,
+        "recovered": 129318
     },
     {
         "Name": "Bolivia",
@@ -1035,9 +1035,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 3756,
+        "confirmed": 3799,
         "deaths": 25,
-        "recovered": 2664
+        "recovered": 2753
     },
     {
         "Name": "Bahamas",
