@@ -299,9 +299,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 101851,
-        "deaths": 592,
-        "recovered": 92961
+        "confirmed": 102441,
+        "deaths": 595,
+        "recovered": 93562
     },
     {
         "Name": "오만",
@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 39686,
-        "deaths": 581,
-        "recovered": 37255
+        "confirmed": 39787,
+        "deaths": 583,
+        "recovered": 37392
     },
     {
         "Name": "아프가니스탄",
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 24916,
-        "deaths": 645,
-        "recovered": 18646
+        "confirmed": 25594,
+        "deaths": 647,
+        "recovered": 19010
     },
     {
         "Name": "헝가리",
@@ -1147,9 +1147,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2512,
+        "confirmed": 2561,
         "deaths": 10,
-        "recovered": 2150
+        "recovered": 2151
     },
     {
         "Name": "Benin",
@@ -1301,7 +1301,7 @@
         "Name_en": "Vietnam",
         "confirmed": 1069,
         "deaths": 35,
-        "recovered": 991
+        "recovered": 999
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 455,
+        "confirmed": 458,
         "deaths": 0,
-        "recovered": 416
+        "recovered": 417
     },
     {
         "Name": "Eritrea",
@@ -1427,9 +1427,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 361,
+        "confirmed": 364,
         "deaths": 0,
-        "recovered": 331
+        "recovered": 333
     },
     {
         "Name": "Isle of Man",
