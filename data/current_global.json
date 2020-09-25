@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 281503,
-        "deaths": 9520,
+        "confirmed": 281755,
+        "deaths": 9522,
         "recovered": 249500
     },
     {
@@ -283,8 +283,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 103141,
-        "deaths": 6312,
+        "confirmed": 105918,
+        "deaths": 6328,
         "recovered": 0
     },
     {
@@ -315,8 +315,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 90289,
-        "deaths": 5878,
+        "confirmed": 90923,
+        "deaths": 5880,
         "recovered": 0
     },
     {
@@ -675,9 +675,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14816,
+        "confirmed": 14839,
         "deaths": 304,
-        "recovered": 11818
+        "recovered": 11910
     },
     {
         "Name": "Zambia",
@@ -739,9 +739,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10555,
+        "confirmed": 10578,
         "deaths": 271,
-        "recovered": 10051
+        "recovered": 10070
     },
     {
         "Name": "Guinea",
@@ -1200,6 +1200,14 @@
         "recovered": 1260
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 1836,
+        "deaths": 53,
+        "recovered": 1263
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -1214,14 +1222,6 @@
         "confirmed": 1758,
         "deaths": 22,
         "recovered": 1072
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "confirmed": 1753,
-        "deaths": 53,
-        "recovered": 1203
     },
     {
         "Name": "토고",
@@ -1536,20 +1536,20 @@
         "recovered": 92
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 85,
+        "deaths": 1,
+        "recovered": 21
+    },
+    {
         "Name": "British Virgin Islands",
         "Name_ch": "",
         "Name_en": "British Virgin Islands",
         "confirmed": 71,
         "deaths": 1,
         "recovered": 62
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 69,
-        "deaths": 1,
-        "recovered": 21
     },
     {
         "Name": "St. Vincent Grenadines",

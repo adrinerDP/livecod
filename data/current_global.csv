@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,356767,5093,267024
 파키스탄,巴基斯坦,Pakistan,309015,6444,294740
 이탈리아,义大利,Italy,304323,35781,221762
 필리핀,菲律宾,Philippines,299361,5196,232399
-독일,德国,Germany,281503,9520,249500
+독일,德国,Germany,281755,9522,249500
 인도네시아,印度尼西亚,Indonesia,266845,10218,196196
 이스라엘,以色列,Israel,215273,1405,152837
 Ukraine,,Ukraine,191671,3827,85133
@@ -34,11 +34,11 @@ Bolivia,,Bolivia,132618,7765,92101
 벨기에,比利时,Belgium,108768,9965,19123
 Panama,,Panama,108726,2297,85494
 Kazakhstan,,Kazakhstan,107590,1699,102360
-네덜란드,荷兰,Netherlands,103141,6312,0
+네덜란드,荷兰,Netherlands,105918,6328,0
 이집트,埃及,Egypt,102513,5835,92644
 쿠웨이트,科威特,Kuwait,102441,595,93562
 오만,阿曼,Oman,95907,885,86765
-스웨덴,瑞典语,Sweden,90289,5878,0
+스웨덴,瑞典语,Sweden,90923,5880,0
 아랍에미리트,阿拉伯联合酋长国,UAE,89540,409,78819
 Guatemala,,Guatemala,87933,3170,77125
 폴란드,波兰,Poland,84396,2392,66740
@@ -83,7 +83,7 @@ North Macedonia,,North Macedonia,17200,712,14312
 그리스,希腊,Greece,16627,366,9989
 Madagascar,,Madagascar,16221,228,14867
 크로아티아,克罗地亚,Croatia,15795,266,14303
-세네갈,塞内加尔,Senegal,14816,304,11818
+세네갈,塞内加尔,Senegal,14839,304,11910
 Zambia,,Zambia,14491,332,13643
 Sudan,,Sudan,13592,836,6764
 노르웨이,挪威,Norway,13406,270,10371
@@ -91,7 +91,7 @@ Tunisia,,Tunisia,13305,180,5032
 Albania,,Albania,12921,370,7239
 Namibia,,Namibia,10740,119,8482
 말레이시아,马来西亚,Malaysia,10687,133,9696
-DRC,,DRC,10555,271,10051
+DRC,,DRC,10578,271,10070
 Guinea,,Guinea,10434,65,9801
 Maldives,,Maldives,9939,34,8597
 French Guiana,,French Guiana,9790,65,9456
@@ -149,9 +149,9 @@ Sierra Leone,,Sierra Leone,2188,72,1666
 Yemen,,Yemen,2029,586,1250
 Uruguay,,Uruguay,1959,47,1679
 Burkina Faso,,Burkina Faso,1950,56,1260
+안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1829,25,1744
 Belize,,Belize,1758,22,1072
-안도라,安道尔,Andorra,1753,53,1203
 토고,多哥,Togo,1707,44,1307
 Cyprus,,Cyprus,1663,22,1369
 라트비아,约旦,Latvia,1625,36,1282
@@ -191,8 +191,8 @@ Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,143,0,140
 리히텐슈타인,列支敦士登,Liechtenstein,116,1,110
 Antigua and Barbuda,,Antigua and Barbuda,97,3,92
+Caribbean Netherlands,,Caribbean Netherlands,85,1,21
 British Virgin Islands,,British Virgin Islands,71,1,62
-Caribbean Netherlands,,Caribbean Netherlands,69,1,21
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 St. Barth,,St. Barth,45,0,25
