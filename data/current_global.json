@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 355384,
-        "deaths": 5072,
-        "recovered": 265092
+        "confirmed": 356767,
+        "deaths": 5093,
+        "recovered": 267024
     },
     {
         "Name": "이라크",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 281345,
-        "deaths": 9519,
+        "confirmed": 281503,
+        "deaths": 9520,
         "recovered": 249500
     },
     {
@@ -931,9 +931,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5057,
+        "confirmed": 5059,
         "deaths": 104,
-        "recovered": 4758
+        "recovered": 4765
     },
     {
         "Name": "Equatorial Guinea",
@@ -1245,7 +1245,7 @@
         "Name_en": "Latvia",
         "confirmed": 1625,
         "deaths": 36,
-        "recovered": 1248
+        "recovered": 1282
     },
     {
         "Name": "Lesotho",
