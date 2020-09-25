@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7191636,207621,4440400
+미국,美国,United States,7194490,207741,4440410
 인도,印度,India,5843349,92587,4779658
 브라질,巴西,Brazil,4659909,139883,4023789
 러시아,俄罗斯,Russia,1136048,20056,934146
@@ -18,13 +18,13 @@ Bangladesh,,Bangladesh,356767,5093,267024
 사우디아라비아,沙特阿拉伯,Saudi Arabia,332329,4625,315636
 터키,土耳其,Turkey,309790,7785,271964
 파키스탄,巴基斯坦,Pakistan,309015,6444,294740
-이탈리아,义大利,Italy,304323,35781,221762
+이탈리아,义大利,Italy,306235,35801,222716
 필리핀,菲律宾,Philippines,299361,5196,232399
 독일,德国,Germany,282163,9522,249500
 인도네시아,印度尼西亚,Indonesia,266845,10218,196196
-이스라엘,以色列,Israel,215273,1405,152837
+이스라엘,以色列,Israel,217899,1412,153574
 Ukraine,,Ukraine,191671,3827,85133
-캐나다,加拿大,Canada,149094,9249,128707
+캐나다,加拿大,Canada,149503,9250,128990
 Bolivia,,Bolivia,132618,7765,92101
 에콰도르,厄瓜多尔,Ecuador,131146,11213,102852
 카타르,卡塔尔,Qatar,124650,212,121512
@@ -40,7 +40,7 @@ Kazakhstan,,Kazakhstan,107590,1699,102360
 오만,阿曼,Oman,95907,885,86765
 스웨덴,瑞典语,Sweden,90923,5880,0
 아랍에미리트,阿拉伯联合酋长国,UAE,89540,409,78819
-Guatemala,,Guatemala,87933,3170,77125
+Guatemala,,Guatemala,88878,3186,77750
 폴란드,波兰,Poland,84396,2392,66740
 일본,日本,Japan,80041,1520,72538
 벨라루스,白俄罗斯,Belarus,76957,807,73925
@@ -79,8 +79,8 @@ El Salvador,,El Salvador,28415,823,22643
 카메룬,喀麦隆,Cameroon,20712,418,19440
 Bulgaria,,Bulgaria,19573,785,14013
 Ivory Coast,,Ivory Coast,19501,120,19003
-North Macedonia,,North Macedonia,17200,712,14312
-그리스,希腊,Greece,16627,366,9989
+North Macedonia,,North Macedonia,17343,721,14422
+그리스,希腊,Greece,16913,369,9989
 Madagascar,,Madagascar,16221,228,14867
 크로아티아,克罗地亚,Croatia,15795,266,14303
 세네갈,塞内加尔,Senegal,14839,304,11910
@@ -109,7 +109,7 @@ Mozambique,,Mozambique,7399,51,4558
 Uganda,,Uganda,7218,71,3611
 요르단,约旦,Jordan,6591,36,3937
 Malawi,,Malawi,5747,179,4163
-Jamaica,,Jamaica,5588,77,1490
+Jamaica,,Jamaica,5723,80,1496
 Cabo Verde,,Cabo Verde,5479,55,4917
 Djibouti,,Djibouti,5407,61,5339
 Eswatini,,Eswatini,5375,108,4724
@@ -146,7 +146,7 @@ Iceland,,Iceland,2561,10,2151
 Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2188,72,1666
-Yemen,,Yemen,2029,586,1250
+Yemen,,Yemen,2029,587,1255
 Uruguay,,Uruguay,1959,47,1679
 Burkina Faso,,Burkina Faso,1950,56,1260
 안도라,安道尔,Andorra,1836,53,1263
