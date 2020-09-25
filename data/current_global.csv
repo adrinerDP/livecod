@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7228992,208248,4469766
+미국,美国,United States,7229787,208268,4473522
 인도,印度,India,5901576,93410,4846168
 브라질,巴西,Brazil,4689613,140537,4040949
 러시아,俄罗斯,Russia,1136048,20056,934146
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,72173,1155,29863
 Venezuela,,Venezuela,70406,581,59745
 바레인,巴林,Bahrain,68190,236,61475
 체코,捷克,Czechia,60027,578,28022
-나이지리아,尼日利亚,Nigeria,57849,1102,49098
+나이지리아,尼日利亚,Nigeria,58062,1103,49606
 싱가포르,新加坡,Singapore,57665,27,57341
 Uzbekistan,,Uzbekistan,54392,449,50879
 스위스,瑞士,Switzerland,51864,2064,42600
@@ -99,7 +99,7 @@ French Guiana,,French Guiana,9831,65,9472
 Tajikistan,,Tajikistan,9562,74,8341
 핀란드,芬兰,Finland,9484,343,7850
 Myanmar,,Myanmar,9112,174,2381
-Gabon,,Gabon,8716,54,7906
+Gabon,,Gabon,8728,54,7934
 Haiti,,Haiti,8684,227,6551
 룩셈부르크,卢森堡,Luxembourg,8233,124,6976
 슬로바키아,斯洛伐克,Slovakia,8048,41,4036
@@ -147,7 +147,7 @@ Benin,,Benin,2325,40,1954
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2199,72,1678
 Yemen,,Yemen,2029,587,1255
-Uruguay,,Uruguay,1959,47,1679
+Uruguay,,Uruguay,1967,47,1710
 Burkina Faso,,Burkina Faso,1950,56,1260
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1829,25,1744
@@ -162,7 +162,7 @@ Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
 Chad,,Chad,1175,83,1004
 베트남,越南,Vietnam,1069,35,999
-Sao Tome and Principe,,Sao Tome and Principe,910,15,881
+Sao Tome and Principe,,Sao Tome and Principe,911,15,881
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,679,5,602
