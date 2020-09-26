@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7245405,
-        "deaths": 208462,
-        "recovered": 4480719
+        "confirmed": 7245533,
+        "deaths": 208483,
+        "recovered": 4481029
     },
     {
         "Name": "인도",
@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 39787,
-        "deaths": 583,
-        "recovered": 37392
+        "confirmed": 39895,
+        "deaths": 585,
+        "recovered": 37523
     },
     {
         "Name": "아프가니스탄",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 37963,
-        "deaths": 278,
-        "recovered": 27183
+        "confirmed": 38253,
+        "deaths": 285,
+        "recovered": 27704
     },
     {
         "Name": "Kenya",
@@ -595,9 +595,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 26564,
-        "deaths": 808,
-        "recovered": 19507
+        "confirmed": 26797,
+        "deaths": 820,
+        "recovered": 19746
     },
     {
         "Name": "덴마크",
@@ -659,9 +659,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16221,
-        "deaths": 228,
-        "recovered": 14867
+        "confirmed": 16257,
+        "deaths": 229,
+        "recovered": 14922
     },
     {
         "Name": "크로아티아",
