@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7233514,208281,4475379
+미국,美国,United States,7235889,208323,4476182
 인도,印度,India,5901576,93410,4846168
-브라질,巴西,Brazil,4689613,140537,4040949
+브라질,巴西,Brazil,4692579,140709,4040949
 러시아,俄罗斯,Russia,1136048,20056,934146
 콜롬비아,哥伦比亚,Colombia,798317,25103,687477
 페루,秘鲁,Peru,794584,32037,650948
@@ -66,7 +66,7 @@ Kyrgyzstan,,Kyrgyzstan,45932,1063,42147
 아프가니스탄,阿富汗,Afghanistan,39186,1451,32619
 팔레스타인,巴勒斯坦,Palestine,37963,278,27183
 Kenya,,Kenya,37707,682,24504
-Paraguay,,Paraguay,36404,743,20502
+Paraguay,,Paraguay,37226,761,21117
 아일랜드,冰岛,Ireland,34315,1797,23364
 레바논,黎巴嫩,Lebanon,33962,333,14778
 세르비아,塞尔维亚,Serbia,33238,746,31536
@@ -123,8 +123,8 @@ Suriname,,Suriname,4817,102,4596
 CAR,,CAR,4806,62,1840
 Rwanda,,Rwanda,4798,29,3080
 조지아,格鲁吉亚,Georgia,4664,27,1759
+Angola,,Angola,4590,167,1554
 Guadeloupe,,Guadeloupe,4487,42,2199
-Angola,,Angola,4475,162,1503
 Trinidad and Tobago,,Trinidad and Tobago,4277,70,2122
 Lithuania,,Lithuania,4184,89,2298
 Syria,,Syria,4001,185,1028
@@ -140,23 +140,23 @@ Somalia,,Somalia,3465,98,2877
 Mali,,Mali,3064,130,2402
 Malta,,Malta,2929,29,2261
 Botswana,,Botswana,2921,16,701
+Guyana,,Guyana,2709,73,1490
 South Sudan,,South Sudan,2676,49,1290
-Guyana,,Guyana,2579,71,1483
 Iceland,,Iceland,2561,10,2151
-Benin,,Benin,2325,40,1954
+Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2199,72,1678
 Yemen,,Yemen,2029,587,1255
 Uruguay,,Uruguay,1967,47,1710
-Burkina Faso,,Burkina Faso,1950,56,1260
+Burkina Faso,,Burkina Faso,1962,56,1263
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1829,25,1744
 Belize,,Belize,1758,22,1072
 토고,多哥,Togo,1722,44,1312
-Cyprus,,Cyprus,1663,22,1369
+Cyprus,,Cyprus,1671,22,1369
 라트비아,约旦,Latvia,1625,36,1282
+French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1558,35,797
-French Polynesia,,French Polynesia,1469,5,1237
 Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
