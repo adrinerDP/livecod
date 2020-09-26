@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7283084,
-        "deaths": 209119,
-        "recovered": 4513568
+        "confirmed": 7285359,
+        "deaths": 209157,
+        "recovered": 4514780
     },
     {
         "Name": "인도",
@@ -528,20 +528,20 @@
         "recovered": 27704
     },
     {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "confirmed": 37707,
-        "deaths": 689,
-        "recovered": 24504
-    },
-    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 37226,
-        "deaths": 761,
-        "recovered": 21117
+        "confirmed": 37922,
+        "deaths": 782,
+        "recovered": 21757
+    },
+    {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "confirmed": 37871,
+        "deaths": 689,
+        "recovered": 24581
     },
     {
         "Name": "레바논",
@@ -619,7 +619,7 @@
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
-        "confirmed": 20712,
+        "confirmed": 20735,
         "deaths": 418,
         "recovered": 19440
     },
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 19828,
+        "confirmed": 19997,
         "deaths": 789,
-        "recovered": 14132
+        "recovered": 14160
     },
     {
         "Name": "Ivory Coast",
@@ -763,9 +763,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10014,
+        "confirmed": 10045,
         "deaths": 34,
-        "recovered": 8673
+        "recovered": 8754
     },
     {
         "Name": "Myanmar",
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1967,
+        "confirmed": 1998,
         "deaths": 47,
-        "recovered": 1710
+        "recovered": 1716
     },
     {
         "Name": "Burkina Faso",
