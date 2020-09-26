@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7277426,208968,4505752
+미국,美国,United States,7279815,209075,4508520
 인도,印度,India,5990513,94533,4938641
-브라질,巴西,Brazil,4694648,140783,4040949
+브라질,巴西,Brazil,4717991,141406,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
 콜롬비아,哥伦比亚,Colombia,798317,25103,687477
 페루,秘鲁,Peru,794584,32037,650948
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,357873,5129,268777
 파키스탄,巴基斯坦,Pakistan,309581,6451,295333
 이탈리아,义大利,Italy,308104,35818,223693
 필리핀,菲律宾,Philippines,301256,5284,232906
-독일,德国,Germany,284984,9532,249500
+독일,德国,Germany,285025,9532,249500
 인도네시아,印度尼西亚,Indonesia,271339,10308,199403
 이스라엘,以色列,Israel,227100,1441,157537
 Ukraine,,Ukraine,195504,3903,85133
-캐나다,加拿大,Canada,151589,9263,130315
+캐나다,加拿大,Canada,151671,9263,130328
 에콰도르,厄瓜多尔,Ecuador,133981,11273,102852
 Bolivia,,Bolivia,133222,7800,92868
 카타르,卡塔尔,Qatar,124850,214,121738
@@ -179,7 +179,7 @@ Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
 Saint Martin,,Saint Martin,367,8,273
 Isle of Man,,Isle of Man,340,24,314
-Curaçao,,Curaçao,329,1,124
+Curaçao,,Curaçao,337,1,134
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,263,0,199
