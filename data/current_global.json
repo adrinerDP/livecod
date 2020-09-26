@@ -131,9 +131,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 332329,
-        "deaths": 4625,
-        "recovered": 315636
+        "confirmed": 332790,
+        "deaths": 4655,
+        "recovered": 316405
     },
     {
         "Name": "터키",
@@ -288,20 +288,20 @@
         "recovered": 102530
     },
     {
+        "Name": "쿠웨이트",
+        "Name_ch": "科威特",
+        "Name_en": "Kuwait",
+        "confirmed": 103199,
+        "deaths": 597,
+        "recovered": 94211
+    },
+    {
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
         "confirmed": 102625,
         "deaths": 5853,
         "recovered": 93531
-    },
-    {
-        "Name": "쿠웨이트",
-        "Name_ch": "科威特",
-        "Name_en": "Kuwait",
-        "confirmed": 102441,
-        "deaths": 595,
-        "recovered": 93562
     },
     {
         "Name": "오만",
