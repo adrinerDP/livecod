@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7245925,
+        "confirmed": 7245952,
         "deaths": 208483,
         "recovered": 4481029
     },
@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5908748,
-        "deaths": 93440,
-        "recovered": 4849584
+        "confirmed": 5915753,
+        "deaths": 93461,
+        "recovered": 4852313
     },
     {
         "Name": "브라질",
@@ -384,6 +384,14 @@
         "recovered": 47003
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 71821,
+        "deaths": 467,
+        "recovered": 53013
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -398,14 +406,6 @@
         "confirmed": 70816,
         "deaths": 812,
         "recovered": 27023
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 70614,
-        "deaths": 459,
-        "recovered": 51866
     },
     {
         "Name": "바레인",
@@ -776,20 +776,20 @@
         "recovered": 9472
     },
     {
+        "Name": "Tajikistan",
+        "Name_ch": "",
+        "Name_en": "Tajikistan",
+        "confirmed": 9605,
+        "deaths": 75,
+        "recovered": 8385
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 9577,
         "deaths": 343,
         "recovered": 7850
-    },
-    {
-        "Name": "Tajikistan",
-        "Name_ch": "",
-        "Name_en": "Tajikistan",
-        "confirmed": 9562,
-        "deaths": 74,
-        "recovered": 8341
     },
     {
         "Name": "Myanmar",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3345,
+        "confirmed": 3349,
         "deaths": 13,
         "recovered": 3186
     },
