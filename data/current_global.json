@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7282771,
-        "deaths": 209110,
-        "recovered": 4512769
+        "confirmed": 7283084,
+        "deaths": 209119,
+        "recovered": 4513568
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 691235,
-        "deaths": 15208,
-        "recovered": 546924
+        "confirmed": 702484,
+        "deaths": 15543,
+        "recovered": 556489
     },
     {
         "Name": "남아프리카 공화국",
@@ -267,9 +267,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 109431,
-        "deaths": 2311,
-        "recovered": 86158
+        "confirmed": 110108,
+        "deaths": 2323,
+        "recovered": 86796
     },
     {
         "Name": "네덜란드",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 58062,
-        "deaths": 1103,
-        "recovered": 49606
+        "confirmed": 58198,
+        "deaths": 1106,
+        "recovered": 49722
     },
     {
         "Name": "싱가포르",
@@ -1008,20 +1008,20 @@
         "recovered": 2199
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 4312,
+        "deaths": 70,
+        "recovered": 2185
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 4295,
         "deaths": 89,
         "recovered": 2319
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 4285,
-        "deaths": 70,
-        "recovered": 2185
     },
     {
         "Name": "Syria",

@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7282771,209110,4512769
+미국,美国,United States,7283084,209119,4513568
 인도,印度,India,5990513,94533,4938641
 브라질,巴西,Brazil,4717991,141406,4050837
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,794584,32037,650948
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,720858,75844,518204
-Argentina,,Argentina,691235,15208,546924
+Argentina,,Argentina,702484,15543,556489
 남아프리카 공화국,南非共和国,South Africa,669498,16376,601818
 프랑스,法国,France,527446,31700,94891
 칠레,智利,Chile,455979,12591,430259
@@ -32,7 +32,7 @@ Bolivia,,Bolivia,133222,7800,92868
 모로코,摩洛哥,Morocco,115241,2041,94150
 벨기에,比利时,Belgium,110976,9969,19184
 도미니카 공화국,多明尼加共和国,Dominican Republic,110957,2093,85220
-Panama,,Panama,109431,2311,86158
+Panama,,Panama,110108,2323,86796
 네덜란드,荷兰,Netherlands,108631,6366,0
 Kazakhstan,,Kazakhstan,107659,1699,102530
 쿠웨이트,科威特,Kuwait,103199,597,94211
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,72700,1165,30029
 Venezuela,,Venezuela,71273,591,60709
 바레인,巴林,Bahrain,68190,239,61475
 체코,捷克,Czechia,62559,588,30891
-나이지리아,尼日利亚,Nigeria,58062,1103,49606
+나이지리아,尼日利亚,Nigeria,58198,1106,49722
 싱가포르,新加坡,Singapore,57685,27,57359
 Uzbekistan,,Uzbekistan,54819,452,51322
 스위스,瑞士,Switzerland,51864,2064,42600
@@ -125,8 +125,8 @@ Rwanda,,Rwanda,4811,29,3091
 CAR,,CAR,4806,62,1840
 Angola,,Angola,4590,167,1554
 Guadeloupe,,Guadeloupe,4487,42,2199
+Trinidad and Tobago,,Trinidad and Tobago,4312,70,2185
 Lithuania,,Lithuania,4295,89,2319
-Trinidad and Tobago,,Trinidad and Tobago,4285,70,2185
 Syria,,Syria,4038,188,1048
 Aruba,,Aruba,3832,25,2829
 Bahamas,,Bahamas,3790,89,1999
