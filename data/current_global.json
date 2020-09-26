@@ -515,9 +515,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39186,
-        "deaths": 1451,
-        "recovered": 32619
+        "confirmed": 39192,
+        "deaths": 1453,
+        "recovered": 32635
     },
     {
         "Name": "팔레스타인",
@@ -587,7 +587,7 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27016,
+        "confirmed": 27015,
         "deaths": 870,
         "recovered": 24523
     },
@@ -1341,7 +1341,7 @@
         "Name_en": "Channel Islands",
         "confirmed": 656,
         "deaths": 48,
-        "recovered": 575
+        "recovered": 600
     },
     {
         "Name": "Sint Maarten",
