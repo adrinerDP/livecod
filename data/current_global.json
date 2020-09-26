@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1136048,
-        "deaths": 20056,
-        "recovered": 934146
+        "confirmed": 1143571,
+        "deaths": 20225,
+        "recovered": 940150
     },
     {
         "Name": "콜롬비아",
@@ -499,9 +499,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 41500,
-        "deaths": 786,
-        "recovered": 32301
+        "confirmed": 42214,
+        "deaths": 787,
+        "recovered": 33154
     },
     {
         "Name": "아제르바이잔",
@@ -776,20 +776,20 @@
         "recovered": 9472
     },
     {
+        "Name": "핀란드",
+        "Name_ch": "芬兰",
+        "Name_en": "Finland",
+        "confirmed": 9577,
+        "deaths": 343,
+        "recovered": 7850
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
         "confirmed": 9562,
         "deaths": 74,
         "recovered": 8341
-    },
-    {
-        "Name": "핀란드",
-        "Name_ch": "芬兰",
-        "Name_en": "Finland",
-        "confirmed": 9484,
-        "deaths": 343,
-        "recovered": 7850
     },
     {
         "Name": "Myanmar",
@@ -1093,7 +1093,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3345,
         "deaths": 13,
-        "recovered": 3158
+        "recovered": 3186
     },
     {
         "Name": "에스토니아",
