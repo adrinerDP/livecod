@@ -323,9 +323,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 89540,
-        "deaths": 409,
-        "recovered": 78819
+        "confirmed": 90618,
+        "deaths": 411,
+        "recovered": 79676
     },
     {
         "Name": "Guatemala",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 76957,
-        "deaths": 807,
-        "recovered": 73925
+        "confirmed": 77289,
+        "deaths": 813,
+        "recovered": 74046
     },
     {
         "Name": "Honduras",
@@ -939,7 +939,7 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5059,
+        "confirmed": 5060,
         "deaths": 105,
         "recovered": 4765
     },
