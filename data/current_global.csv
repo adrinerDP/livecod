@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7271099,208842,4504374
+미국,美国,United States,7274891,208921,4504374
 인도,印度,India,5979197,94433,4926268
 브라질,巴西,Brazil,4694648,140783,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -47,9 +47,9 @@ Guatemala,,Guatemala,89702,3213,78284
 Honduras,,Honduras,73840,2271,25728
 포르투갈,葡萄牙,Portugal,72939,1944,47380
 Ethiopia,,Ethiopia,72700,1165,30029
+코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 네팔,尼泊尔,Nepal,71821,467,53013
 Venezuela,,Venezuela,71273,591,60709
-코스타리카,哥斯达黎加,Costa Rica,70816,812,27023
 바레인,巴林,Bahrain,68190,239,61475
 체코,捷克,Czechia,62559,588,30891
 나이지리아,尼日利亚,Nigeria,58062,1103,49606
@@ -78,7 +78,7 @@ El Salvador,,El Salvador,28415,826,22643
 헝가리,匈牙利,Hungary,23077,730,5099
 카메룬,喀麦隆,Cameroon,20712,418,19440
 Bulgaria,,Bulgaria,19828,789,14132
-Ivory Coast,,Ivory Coast,19556,120,19065
+Ivory Coast,,Ivory Coast,19600,120,19122
 North Macedonia,,North Macedonia,17483,722,14516
 그리스,希腊,Greece,17228,376,9989
 Madagascar,,Madagascar,16257,229,14922
@@ -109,8 +109,8 @@ Mozambique,,Mozambique,7757,54,4769
 Mauritania,,Mauritania,7457,161,7070
 Uganda,,Uganda,7364,71,3647
 Jamaica,,Jamaica,5854,88,1624
-Malawi,,Malawi,5764,179,4178
-Cabo Verde,,Cabo Verde,5628,55,4982
+Malawi,,Malawi,5766,179,4185
+Cabo Verde,,Cabo Verde,5701,56,5018
 Cuba,,Cuba,5412,120,4732
 Djibouti,,Djibouti,5409,61,5340
 Eswatini,,Eswatini,5399,108,4767
@@ -127,7 +127,7 @@ Angola,,Angola,4590,167,1554
 Guadeloupe,,Guadeloupe,4487,42,2199
 Lithuania,,Lithuania,4295,89,2319
 Trinidad and Tobago,,Trinidad and Tobago,4285,70,2185
-Syria,,Syria,4001,185,1028
+Syria,,Syria,4038,188,1048
 Aruba,,Aruba,3832,25,2829
 Bahamas,,Bahamas,3790,89,1999
 Réunion,,Réunion,3685,11,2819
@@ -146,13 +146,13 @@ Iceland,,Iceland,2601,10,2156
 Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2199,72,1678
-Yemen,,Yemen,2029,587,1255
+Yemen,,Yemen,2030,587,1260
 Uruguay,,Uruguay,1967,47,1710
 Burkina Faso,,Burkina Faso,1962,56,1263
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1831,25,1745
 Belize,,Belize,1808,23,1134
-토고,多哥,Togo,1722,44,1312
+토고,多哥,Togo,1736,46,1319
 Cyprus,,Cyprus,1684,22,1369
 라트비아,约旦,Latvia,1654,36,1304
 French Polynesia,,French Polynesia,1579,6,1335
@@ -160,7 +160,7 @@ Lesotho,,Lesotho,1558,35,797
 Liberia,,Liberia,1338,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
-Chad,,Chad,1175,83,1004
+Chad,,Chad,1177,83,1005
 베트남,越南,Vietnam,1069,35,999
 Sao Tome and Principe,,Sao Tome and Principe,911,15,881
 산마리노,圣马力诺,San Marino,727,42,676
