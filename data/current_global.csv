@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7261674,208766,4502156
+미국,美国,United States,7262887,208779,4502180
 인도,印度,India,5979197,94433,4926268
 브라질,巴西,Brazil,4694648,140783,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,71273,591,60709
 체코,捷克,Czechia,62559,588,30891
 나이지리아,尼日利亚,Nigeria,58062,1103,49606
 싱가포르,新加坡,Singapore,57685,27,57359
-Uzbekistan,,Uzbekistan,54462,450,50954
+Uzbekistan,,Uzbekistan,54819,452,51322
 스위스,瑞士,Switzerland,51864,2064,42600
 알제리,阿尔及利亚,Algeria,50914,1711,35756
 Moldova,,Moldova,50534,1279,37440
@@ -70,7 +70,7 @@ Paraguay,,Paraguay,37226,761,21117
 레바논,黎巴嫩,Lebanon,35242,340,15434
 아일랜드,冰岛,Ireland,34560,1802,23364
 세르비아,塞尔维亚,Serbia,33312,746,31536
-Libya,,Libya,31290,491,17508
+Libya,,Libya,31828,499,17508
 El Salvador,,El Salvador,28415,826,22643
 호주,澳大利亚,Australia,27016,870,24571
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26797,820,19746
@@ -128,7 +128,7 @@ Guadeloupe,,Guadeloupe,4487,42,2199
 Lithuania,,Lithuania,4295,89,2319
 Trinidad and Tobago,,Trinidad and Tobago,4285,70,2185
 Syria,,Syria,4001,185,1028
-Aruba,,Aruba,3799,25,2753
+Aruba,,Aruba,3832,25,2829
 Bahamas,,Bahamas,3790,89,1999
 Réunion,,Réunion,3685,11,2819
 Gambia,,Gambia,3555,110,2034
@@ -137,7 +137,7 @@ Mayotte,,Mayotte,3541,40,2964
 Somalia,,Somalia,3465,98,2877
 스리랑카,斯里兰卡,Sri Lanka,3349,13,3186
 에스토니아,爱沙尼亚,Estonia,3165,64,2499
-Mali,,Mali,3064,130,2402
+Mali,,Mali,3080,130,2410
 Malta,,Malta,2958,31,2304
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2709,73,1490
