@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7259392,208749,4499910
+미국,美国,United States,7261674,208766,4502156
 인도,印度,India,5979197,94433,4926268
 브라질,巴西,Brazil,4694648,140783,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -22,16 +22,16 @@ Bangladesh,,Bangladesh,357873,5129,268777
 필리핀,菲律宾,Philippines,301256,5284,232906
 독일,德国,Germany,284469,9531,249500
 인도네시아,印度尼西亚,Indonesia,271339,10308,199403
-이스라엘,以色列,Israel,217899,1412,153574
+이스라엘,以色列,Israel,226586,1417,157523
 Ukraine,,Ukraine,195504,3903,85133
 캐나다,加拿大,Canada,151589,9263,130315
+에콰도르,厄瓜多尔,Ecuador,133981,11273,102852
 Bolivia,,Bolivia,133222,7800,92868
-에콰도르,厄瓜多尔,Ecuador,132475,11236,102852
 카타르,卡塔尔,Qatar,124850,214,121738
 루마니아,尼亚,Romania,121235,4687,97554
-모로코,摩洛哥,Morocco,112522,1998,91932
+모로코,摩洛哥,Morocco,115241,2041,94150
 벨기에,比利时,Belgium,110976,9969,19184
-도미니카 공화국,多明尼加共和国,Dominican Republic,110597,2087,84610
+도미니카 공화국,多明尼加共和国,Dominican Republic,110957,2093,85220
 Panama,,Panama,109431,2311,86158
 네덜란드,荷兰,Netherlands,108631,6366,0
 Kazakhstan,,Kazakhstan,107659,1699,102530
@@ -50,7 +50,7 @@ Ethiopia,,Ethiopia,72700,1165,30029
 네팔,尼泊尔,Nepal,71821,467,53013
 Venezuela,,Venezuela,71273,591,60709
 코스타리카,哥斯达黎加,Costa Rica,70816,812,27023
-바레인,巴林,Bahrain,68190,236,61475
+바레인,巴林,Bahrain,68190,239,61475
 체코,捷克,Czechia,62559,588,30891
 나이지리아,尼日利亚,Nigeria,58062,1103,49606
 싱가포르,新加坡,Singapore,57685,27,57359
@@ -174,8 +174,8 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,483,1,462
 Comoros,,Comoros,474,7,453
 Faeroe Islands,,Faeroe Islands,458,0,417
+Eritrea,,Eritrea,375,0,341
 지브롤터,直布罗陀,Gibraltar,372,0,335
-Eritrea,,Eritrea,369,0,330
 Mauritius,,Mauritius,367,10,343
 Saint Martin,,Saint Martin,367,8,273
 Isle of Man,,Isle of Man,340,24,314

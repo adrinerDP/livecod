@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7259392,
-        "deaths": 208749,
-        "recovered": 4499910
+        "confirmed": 7261674,
+        "deaths": 208766,
+        "recovered": 4502156
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 217899,
-        "deaths": 1412,
-        "recovered": 153574
+        "confirmed": 226586,
+        "deaths": 1417,
+        "recovered": 157523
     },
     {
         "Name": "Ukraine",
@@ -208,20 +208,20 @@
         "recovered": 130315
     },
     {
+        "Name": "에콰도르",
+        "Name_ch": "厄瓜多尔",
+        "Name_en": "Ecuador",
+        "confirmed": 133981,
+        "deaths": 11273,
+        "recovered": 102852
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 133222,
         "deaths": 7800,
         "recovered": 92868
-    },
-    {
-        "Name": "에콰도르",
-        "Name_ch": "厄瓜多尔",
-        "Name_en": "Ecuador",
-        "confirmed": 132475,
-        "deaths": 11236,
-        "recovered": 102852
     },
     {
         "Name": "카타르",
@@ -243,9 +243,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 112522,
-        "deaths": 1998,
-        "recovered": 91932
+        "confirmed": 115241,
+        "deaths": 2041,
+        "recovered": 94150
     },
     {
         "Name": "벨기에",
@@ -259,9 +259,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 110597,
-        "deaths": 2087,
-        "recovered": 84610
+        "confirmed": 110957,
+        "deaths": 2093,
+        "recovered": 85220
     },
     {
         "Name": "Panama",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 68190,
-        "deaths": 236,
+        "deaths": 239,
         "recovered": 61475
     },
     {
@@ -1400,20 +1400,20 @@
         "recovered": 417
     },
     {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "confirmed": 375,
+        "deaths": 0,
+        "recovered": 341
+    },
+    {
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
         "confirmed": 372,
         "deaths": 0,
         "recovered": 335
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "confirmed": 369,
-        "deaths": 0,
-        "recovered": 330
     },
     {
         "Name": "Mauritius",
