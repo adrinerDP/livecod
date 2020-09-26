@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7245723,
+        "confirmed": 7245925,
         "deaths": 208483,
         "recovered": 4481029
     },
@@ -123,9 +123,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 341699,
-        "deaths": 8867,
-        "recovered": 273266
+        "confirmed": 345969,
+        "deaths": 8935,
+        "recovered": 276918
     },
     {
         "Name": "사우디아라비아",
@@ -227,9 +227,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 124650,
-        "deaths": 212,
-        "recovered": 121512
+        "confirmed": 124850,
+        "deaths": 214,
+        "recovered": 121738
     },
     {
         "Name": "루마니아",
@@ -563,7 +563,7 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33238,
+        "confirmed": 33312,
         "deaths": 746,
         "recovered": 31536
     },
@@ -1584,6 +1584,14 @@
         "recovered": 28
     },
     {
+        "Name": "New Caledonia",
+        "Name_ch": "",
+        "Name_en": "New Caledonia",
+        "confirmed": 27,
+        "deaths": 0,
+        "recovered": 26
+    },
+    {
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
@@ -1598,14 +1606,6 @@
         "confirmed": 27,
         "deaths": 0,
         "recovered": 27
-    },
-    {
-        "Name": "New Caledonia",
-        "Name_ch": "",
-        "Name_en": "New Caledonia",
-        "confirmed": 26,
-        "deaths": 0,
-        "recovered": 26
     },
     {
         "Name": "Dominica",
