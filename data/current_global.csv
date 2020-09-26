@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7253443,208652,4484953
+미국,美国,United States,7253902,208687,4484953
 인도,印度,India,5954932,93914,4893664
 브라질,巴西,Brazil,4692579,140709,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -16,7 +16,7 @@ Argentina,,Argentina,691235,15208,546924
 Bangladesh,,Bangladesh,357873,5129,268777
 이라크,伊拉克,Iraq,345969,8935,276918
 사우디아라비아,沙特阿拉伯,Saudi Arabia,332790,4655,316405
-터키,土耳其,Turkey,311455,7858,273282
+터키,土耳其,Turkey,312966,7929,274514
 파키스탄,巴基斯坦,Pakistan,309581,6451,295333
 이탈리아,义大利,Italy,308104,35818,223693
 필리핀,菲律宾,Philippines,301256,5284,232906
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,71273,591,60709
 싱가포르,新加坡,Singapore,57685,27,57359
 Uzbekistan,,Uzbekistan,54462,450,50954
 스위스,瑞士,Switzerland,51864,2064,42600
-알제리,阿尔及利亚,Algeria,50754,1707,35654
+알제리,阿尔及利亚,Algeria,50914,1711,35756
 Moldova,,Moldova,50534,1279,37440
 아르메니아,亚美尼亚,Armenia,49072,948,43576
 Ghana,,Ghana,46222,299,45417
@@ -67,7 +67,7 @@ Kyrgyzstan,,Kyrgyzstan,46090,1063,42302
 팔레스타인,巴勒斯坦,Palestine,38253,285,27704
 Kenya,,Kenya,37707,682,24504
 Paraguay,,Paraguay,37226,761,21117
-아일랜드,冰岛,Ireland,34315,1797,23364
+아일랜드,冰岛,Ireland,34560,1802,23364
 레바논,黎巴嫩,Lebanon,33962,333,14778
 세르비아,塞尔维亚,Serbia,33312,746,31536
 Libya,,Libya,31290,491,17508
@@ -111,9 +111,9 @@ Uganda,,Uganda,7364,71,3647
 Jamaica,,Jamaica,5854,88,1624
 Malawi,,Malawi,5764,179,4178
 Cabo Verde,,Cabo Verde,5628,55,4982
+Cuba,,Cuba,5412,120,4732
 Djibouti,,Djibouti,5409,61,5340
 Eswatini,,Eswatini,5399,108,4767
-Cuba,,Cuba,5350,118,4658
 슬로베니아,斯洛文尼亚,Slovenia,5191,146,3457
 Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5060,105,4777

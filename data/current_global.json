@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7253443,
-        "deaths": 208652,
+        "confirmed": 7253902,
+        "deaths": 208687,
         "recovered": 4484953
     },
     {
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 311455,
-        "deaths": 7858,
-        "recovered": 273282
+        "confirmed": 312966,
+        "deaths": 7929,
+        "recovered": 274514
     },
     {
         "Name": "파키스탄",
@@ -459,9 +459,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 50754,
-        "deaths": 1707,
-        "recovered": 35654
+        "confirmed": 50914,
+        "deaths": 1711,
+        "recovered": 35756
     },
     {
         "Name": "Moldova",
@@ -547,8 +547,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 34315,
-        "deaths": 1797,
+        "confirmed": 34560,
+        "deaths": 1802,
         "recovered": 23364
     },
     {
@@ -896,6 +896,14 @@
         "recovered": 4982
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 5412,
+        "deaths": 120,
+        "recovered": 4732
+    },
+    {
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
@@ -910,14 +918,6 @@
         "confirmed": 5399,
         "deaths": 108,
         "recovered": 4767
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 5350,
-        "deaths": 118,
-        "recovered": 4658
     },
     {
         "Name": "슬로베니아",
