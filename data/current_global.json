@@ -3,15 +3,15 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7235889,
-        "deaths": 208323,
-        "recovered": 4476182
+        "confirmed": 7236381,
+        "deaths": 208369,
+        "recovered": 4480685
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5901576,
+        "confirmed": 5901571,
         "deaths": 93410,
         "recovered": 4846168
     },
@@ -69,7 +69,7 @@
         "Name_en": "Argentina",
         "confirmed": 691235,
         "deaths": 15208,
-        "recovered": 536589
+        "recovered": 546924
     },
     {
         "Name": "남아프리카 공화국",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 150358,
+        "confirmed": 150456,
         "deaths": 9255,
-        "recovered": 129454
+        "recovered": 129573
     },
     {
         "Name": "Bolivia",
@@ -688,6 +688,14 @@
         "recovered": 13643
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 14392,
+        "deaths": 191,
+        "recovered": 5032
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
@@ -702,14 +710,6 @@
         "confirmed": 13545,
         "deaths": 270,
         "recovered": 10371
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 13305,
-        "deaths": 180,
-        "recovered": 5032
     },
     {
         "Name": "Albania",
@@ -1339,7 +1339,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 655,
+        "confirmed": 656,
         "deaths": 48,
         "recovered": 575
     },

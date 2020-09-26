@@ -1,13 +1,13 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7235889,208323,4476182
-인도,印度,India,5901576,93410,4846168
+미국,美国,United States,7236381,208369,4480685
+인도,印度,India,5901571,93410,4846168
 브라질,巴西,Brazil,4692579,140709,4040949
 러시아,俄罗斯,Russia,1136048,20056,934146
 콜롬비아,哥伦比亚,Colombia,798317,25103,687477
 페루,秘鲁,Peru,794584,32037,650948
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,715457,75439,514760
-Argentina,,Argentina,691235,15208,536589
+Argentina,,Argentina,691235,15208,546924
 남아프리카 공화국,南非共和国,South Africa,668529,16312,599149
 프랑스,法国,France,513034,31661,94891
 칠레,智利,Chile,453868,12527,428580
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,356767,5093,267024
 인도네시아,印度尼西亚,Indonesia,266845,10218,196196
 이스라엘,以色列,Israel,217899,1412,153574
 Ukraine,,Ukraine,191671,3827,85133
-캐나다,加拿大,Canada,150358,9255,129454
+캐나다,加拿大,Canada,150456,9255,129573
 Bolivia,,Bolivia,132618,7765,92101
 에콰도르,厄瓜多尔,Ecuador,132475,11236,102852
 카타르,卡塔尔,Qatar,124650,212,121512
@@ -85,9 +85,9 @@ Madagascar,,Madagascar,16221,228,14867
 크로아티아,克罗地亚,Croatia,15795,266,14303
 세네갈,塞内加尔,Senegal,14839,304,11910
 Zambia,,Zambia,14515,332,13643
+Tunisia,,Tunisia,14392,191,5032
 Sudan,,Sudan,13592,836,6764
 노르웨이,挪威,Norway,13545,270,10371
-Tunisia,,Tunisia,13305,180,5032
 Albania,,Albania,13045,373,7309
 Namibia,,Namibia,10835,119,8569
 말레이시아,马来西亚,Malaysia,10687,133,9696
@@ -166,7 +166,7 @@ Sao Tome and Principe,,Sao Tome and Principe,911,15,881
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,679,5,602
-Channel Islands,,Channel Islands,655,48,575
+Channel Islands,,Channel Islands,656,48,575
 Sint Maarten,,Sint Maarten,618,22,517
 Papua New Guinea,,Papua New Guinea,531,7,516
 대만,台湾,Taiwan,510,7,480
