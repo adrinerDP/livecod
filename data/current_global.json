@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7251328,
-        "deaths": 208625,
-        "recovered": 4483950
+        "confirmed": 7253443,
+        "deaths": 208652,
+        "recovered": 4484953
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5915753,
-        "deaths": 93461,
-        "recovered": 4852313
+        "confirmed": 5954932,
+        "deaths": 93914,
+        "recovered": 4893664
     },
     {
         "Name": "브라질",
@@ -379,9 +379,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 72173,
-        "deaths": 1155,
-        "recovered": 29863
+        "confirmed": 72700,
+        "deaths": 1165,
+        "recovered": 30029
     },
     {
         "Name": "네팔",
@@ -419,9 +419,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 61318,
-        "deaths": 581,
-        "recovered": 30740
+        "confirmed": 62559,
+        "deaths": 588,
+        "recovered": 30891
     },
     {
         "Name": "나이지리아",
@@ -467,9 +467,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 49666,
-        "deaths": 1264,
-        "recovered": 37023
+        "confirmed": 50534,
+        "deaths": 1279,
+        "recovered": 37440
     },
     {
         "Name": "아르메니아",
@@ -699,7 +699,7 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13592,
+        "confirmed": 13606,
         "deaths": 836,
         "recovered": 6764
     },
