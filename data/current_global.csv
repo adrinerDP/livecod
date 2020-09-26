@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7253902,208687,4484953
-인도,印度,India,5954932,93914,4893664
-브라질,巴西,Brazil,4692579,140709,4040949
+미국,美国,United States,7259392,208749,4499910
+인도,印度,India,5979197,94433,4926268
+브라질,巴西,Brazil,4694648,140783,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
 콜롬비아,哥伦比亚,Colombia,798317,25103,687477
 페루,秘鲁,Peru,794584,32037,650948
@@ -9,7 +9,7 @@
 멕시코,墨西哥,Mexico,720858,75844,518204
 Argentina,,Argentina,691235,15208,546924
 남아프리카 공화국,南非共和国,South Africa,668529,16312,599149
-프랑스,法国,France,513034,31661,94891
+프랑스,法国,France,527446,31700,94891
 칠레,智利,Chile,455979,12591,430259
 이란,伊朗,Iran,443086,25394,372051
 영국,英国,UK,429277,41971,0
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,357873,5129,268777
 파키스탄,巴基斯坦,Pakistan,309581,6451,295333
 이탈리아,义大利,Italy,308104,35818,223693
 필리핀,菲律宾,Philippines,301256,5284,232906
-독일,德国,Germany,283706,9530,249500
+독일,德国,Germany,284469,9531,249500
 인도네시아,印度尼西亚,Indonesia,271339,10308,199403
 이스라엘,以色列,Israel,217899,1412,153574
 Ukraine,,Ukraine,195504,3903,85133
@@ -67,8 +67,8 @@ Kyrgyzstan,,Kyrgyzstan,46090,1063,42302
 팔레스타인,巴勒斯坦,Palestine,38253,285,27704
 Kenya,,Kenya,37707,682,24504
 Paraguay,,Paraguay,37226,761,21117
+레바논,黎巴嫩,Lebanon,35242,340,15434
 아일랜드,冰岛,Ireland,34560,1802,23364
-레바논,黎巴嫩,Lebanon,33962,333,14778
 세르비아,塞尔维亚,Serbia,33312,746,31536
 Libya,,Libya,31290,491,17508
 El Salvador,,El Salvador,28415,826,22643
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,16257,229,14922
 Zambia,,Zambia,14515,332,13643
 Tunisia,,Tunisia,14392,191,5032
 Sudan,,Sudan,13606,836,6764
-노르웨이,挪威,Norway,13545,270,11190
+노르웨이,挪威,Norway,13589,270,11190
 Albania,,Albania,13153,375,7397
 Namibia,,Namibia,10918,120,8749
 말레이시아,马来西亚,Malaysia,10769,133,9785
@@ -96,7 +96,7 @@ Guinea,,Guinea,10478,65,9816
 Montenegro,,Montenegro,10197,158,6368
 Maldives,,Maldives,10014,34,8673
 Myanmar,,Myanmar,9991,198,2681
-French Guiana,,French Guiana,9831,65,9472
+French Guiana,,French Guiana,9863,65,9500
 Tajikistan,,Tajikistan,9605,75,8385
 핀란드,芬兰,Finland,9577,343,7850
 Gabon,,Gabon,8728,54,7934
@@ -142,7 +142,7 @@ Malta,,Malta,2958,31,2304
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2709,73,1490
 South Sudan,,South Sudan,2676,49,1290
-Iceland,,Iceland,2561,10,2151
+Iceland,,Iceland,2601,10,2156
 Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2199,72,1678
@@ -153,7 +153,7 @@ Burkina Faso,,Burkina Faso,1962,56,1263
 New Zealand,,New Zealand,1831,25,1745
 Belize,,Belize,1808,23,1134
 토고,多哥,Togo,1722,44,1312
-Cyprus,,Cyprus,1671,22,1369
+Cyprus,,Cyprus,1684,22,1369
 라트비아,约旦,Latvia,1654,36,1304
 French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1558,35,797
