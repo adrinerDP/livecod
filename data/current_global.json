@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7281853,
-        "deaths": 209097,
-        "recovered": 4512295
+        "confirmed": 7282771,
+        "deaths": 209110,
+        "recovered": 4512769
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4717991,
         "deaths": 141406,
-        "recovered": 4040949
+        "recovered": 4050837
     },
     {
         "Name": "러시아",
@@ -347,9 +347,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 80497,
-        "deaths": 1532,
-        "recovered": 73490
+        "confirmed": 81055,
+        "deaths": 1540,
+        "recovered": 74151
     },
     {
         "Name": "벨라루스",
@@ -573,7 +573,7 @@
         "Name_en": "Libya",
         "confirmed": 31828,
         "deaths": 499,
-        "recovered": 17508
+        "recovered": 17832
     },
     {
         "Name": "El Salvador",
@@ -696,20 +696,20 @@
         "recovered": 5032
     },
     {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+        "confirmed": 13627,
+        "deaths": 270,
+        "recovered": 11190
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "confirmed": 13606,
         "deaths": 836,
         "recovered": 6764
-    },
-    {
-        "Name": "노르웨이",
-        "Name_ch": "挪威",
-        "Name_en": "Norway",
-        "confirmed": 13589,
-        "deaths": 270,
-        "recovered": 11190
     },
     {
         "Name": "Albania",
@@ -1131,9 +1131,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 2709,
-        "deaths": 73,
-        "recovered": 1490
+        "confirmed": 2725,
+        "deaths": 74,
+        "recovered": 1535
     },
     {
         "Name": "South Sudan",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 483,
+        "confirmed": 485,
         "deaths": 1,
         "recovered": 472
     },
