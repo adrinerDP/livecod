@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5903932,
-        "deaths": 93410,
+        "confirmed": 5908748,
+        "deaths": 93440,
         "recovered": 4849584
     },
     {
@@ -163,9 +163,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 299361,
-        "deaths": 5196,
-        "recovered": 232399
+        "confirmed": 301256,
+        "deaths": 5284,
+        "recovered": 232906
     },
     {
         "Name": "독일",
@@ -341,7 +341,7 @@
         "Name_en": "Poland",
         "confirmed": 84396,
         "deaths": 2392,
-        "recovered": 66740
+        "recovered": 67326
     },
     {
         "Name": "일본",
@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 15795,
-        "deaths": 266,
-        "recovered": 14303
+        "confirmed": 16007,
+        "deaths": 269,
+        "recovered": 14405
     },
     {
         "Name": "세네갈",
@@ -816,20 +816,20 @@
         "recovered": 6551
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 8600,
+        "deaths": 44,
+        "recovered": 4098
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "confirmed": 8233,
         "deaths": 124,
         "recovered": 6976
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 8048,
-        "deaths": 41,
-        "recovered": 4036
     },
     {
         "Name": "Zimbabwe",
@@ -1008,20 +1008,20 @@
         "recovered": 2199
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 4295,
+        "deaths": 89,
+        "recovered": 2319
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 4277,
         "deaths": 70,
         "recovered": 2122
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 4184,
-        "deaths": 89,
-        "recovered": 2298
     },
     {
         "Name": "Syria",
@@ -1099,9 +1099,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3118,
+        "confirmed": 3165,
         "deaths": 64,
-        "recovered": 2417
+        "recovered": 2499
     },
     {
         "Name": "Mali",

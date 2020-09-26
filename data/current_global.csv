@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7244184,208440,4480719
-인도,印度,India,5903932,93410,4849584
+인도,印度,India,5908748,93440,4849584
 브라질,巴西,Brazil,4692579,140709,4040949
 러시아,俄罗斯,Russia,1136048,20056,934146
 콜롬비아,哥伦比亚,Colombia,798317,25103,687477
@@ -19,7 +19,7 @@ Bangladesh,,Bangladesh,356767,5093,267024
 터키,土耳其,Turkey,311455,7858,273282
 파키스탄,巴基斯坦,Pakistan,309581,6451,295333
 이탈리아,义大利,Italy,306235,35801,222716
-필리핀,菲律宾,Philippines,299361,5196,232399
+필리핀,菲律宾,Philippines,301256,5284,232906
 독일,德国,Germany,283706,9530,249500
 인도네시아,印度尼西亚,Indonesia,266845,10218,196196
 이스라엘,以色列,Israel,217899,1412,153574
@@ -41,7 +41,7 @@ Kazakhstan,,Kazakhstan,107659,1699,102530
 스웨덴,瑞典语,Sweden,90923,5880,0
 아랍에미리트,阿拉伯联合酋长国,UAE,89540,409,78819
 Guatemala,,Guatemala,88878,3186,77750
-폴란드,波兰,Poland,84396,2392,66740
+폴란드,波兰,Poland,84396,2392,67326
 일본,日本,Japan,80497,1532,73490
 벨라루스,白俄罗斯,Belarus,76957,807,73925
 Honduras,,Honduras,73840,2271,25728
@@ -82,7 +82,7 @@ Ivory Coast,,Ivory Coast,19556,120,19065
 North Macedonia,,North Macedonia,17343,721,14422
 그리스,希腊,Greece,16913,369,9989
 Madagascar,,Madagascar,16221,228,14867
-크로아티아,克罗地亚,Croatia,15795,266,14303
+크로아티아,克罗地亚,Croatia,16007,269,14405
 세네갈,塞内加尔,Senegal,14839,304,11910
 Zambia,,Zambia,14515,332,13643
 Tunisia,,Tunisia,14392,191,5032
@@ -101,8 +101,8 @@ Tajikistan,,Tajikistan,9562,74,8341
 Myanmar,,Myanmar,9112,174,2381
 Gabon,,Gabon,8728,54,7934
 Haiti,,Haiti,8684,227,6551
+슬로바키아,斯洛伐克,Slovakia,8600,44,4098
 룩셈부르크,卢森堡,Luxembourg,8233,124,6976
-슬로바키아,斯洛伐克,Slovakia,8048,41,4036
 Zimbabwe,,Zimbabwe,7787,227,6057
 Mozambique,,Mozambique,7589,53,4649
 Mauritania,,Mauritania,7457,161,7070
@@ -125,8 +125,8 @@ CAR,,CAR,4806,62,1840
 Rwanda,,Rwanda,4798,29,3080
 Angola,,Angola,4590,167,1554
 Guadeloupe,,Guadeloupe,4487,42,2199
+Lithuania,,Lithuania,4295,89,2319
 Trinidad and Tobago,,Trinidad and Tobago,4277,70,2122
-Lithuania,,Lithuania,4184,89,2298
 Syria,,Syria,4001,185,1028
 Aruba,,Aruba,3799,25,2753
 Bahamas,,Bahamas,3790,89,1999
@@ -136,7 +136,7 @@ Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3522,59,3362
 Somalia,,Somalia,3465,98,2877
 스리랑카,斯里兰卡,Sri Lanka,3345,13,3158
-에스토니아,爱沙尼亚,Estonia,3118,64,2417
+에스토니아,爱沙尼亚,Estonia,3165,64,2499
 Mali,,Mali,3064,130,2402
 Malta,,Malta,2929,29,2261
 Botswana,,Botswana,2921,16,701
