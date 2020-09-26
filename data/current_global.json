@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5901571,
+        "confirmed": 5903932,
         "deaths": 93410,
-        "recovered": 4846168
+        "recovered": 4849584
     },
     {
         "Name": "브라질",
@@ -147,9 +147,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 309015,
-        "deaths": 6444,
-        "recovered": 294740
+        "confirmed": 309581,
+        "deaths": 6451,
+        "recovered": 295333
     },
     {
         "Name": "이탈리아",
@@ -1219,9 +1219,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1758,
-        "deaths": 22,
-        "recovered": 1072
+        "confirmed": 1808,
+        "deaths": 23,
+        "recovered": 1134
     },
     {
         "Name": "토고",
@@ -1469,7 +1469,7 @@
         "Name_en": "Bhutan",
         "confirmed": 263,
         "deaths": 0,
-        "recovered": 198
+        "recovered": 199
     },
     {
         "Name": "Cayman Islands",
