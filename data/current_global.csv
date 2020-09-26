@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7245533,208483,4481029
+미국,美国,United States,7245723,208483,4481029
 인도,印度,India,5908748,93440,4849584
 브라질,巴西,Brazil,4692579,140709,4040949
 러시아,俄罗斯,Russia,1143571,20225,940150
@@ -33,8 +33,8 @@ Bolivia,,Bolivia,133222,7800,92868
 벨기에,比利时,Belgium,110976,9969,19184
 도미니카 공화국,多明尼加共和国,Dominican Republic,110597,2087,84610
 Panama,,Panama,109431,2311,86158
+네덜란드,荷兰,Netherlands,108631,6366,0
 Kazakhstan,,Kazakhstan,107659,1699,102530
-네덜란드,荷兰,Netherlands,105918,6328,0
 이집트,埃及,Egypt,102625,5853,93531
 쿠웨이트,科威特,Kuwait,102441,595,93562
 오만,阿曼,Oman,95907,885,86765
@@ -72,9 +72,9 @@ Paraguay,,Paraguay,37226,761,21117
 세르비아,塞尔维亚,Serbia,33238,746,31536
 Libya,,Libya,31290,491,17508
 El Salvador,,El Salvador,28415,826,22643
-호주,澳大利亚,Australia,27015,870,24571
+호주,澳大利亚,Australia,27016,870,24571
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26797,820,19746
-덴마크,丹麦,Denmark,25594,647,19010
+덴마크,丹麦,Denmark,26213,648,19350
 헝가리,匈牙利,Hungary,23077,730,5099
 카메룬,喀麦隆,Cameroon,20712,418,19440
 Bulgaria,,Bulgaria,19828,789,14132
@@ -119,7 +119,7 @@ Nicaragua,,Nicaragua,5073,149,2913
 홍콩,香港,Hong Kong,5060,105,4777
 Equatorial Guinea,,Equatorial Guinea,5018,83,4530
 Congo,,Congo,5005,89,3887
-조지아,格鲁吉亚,Georgia,4960,27,1819
+조지아,格鲁吉亚,Georgia,4960,28,1819
 Suriname,,Suriname,4817,102,4596
 CAR,,CAR,4806,62,1840
 Rwanda,,Rwanda,4798,29,3080

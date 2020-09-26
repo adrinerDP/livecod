@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7245533,
+        "confirmed": 7245723,
         "deaths": 208483,
         "recovered": 4481029
     },
@@ -272,20 +272,20 @@
         "recovered": 86158
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 108631,
+        "deaths": 6366,
+        "recovered": 0
+    },
+    {
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
         "confirmed": 107659,
         "deaths": 1699,
         "recovered": 102530
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 105918,
-        "deaths": 6328,
-        "recovered": 0
     },
     {
         "Name": "이집트",
@@ -587,7 +587,7 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27015,
+        "confirmed": 27016,
         "deaths": 870,
         "recovered": 24571
     },
@@ -603,9 +603,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 25594,
-        "deaths": 647,
-        "recovered": 19010
+        "confirmed": 26213,
+        "deaths": 648,
+        "recovered": 19350
     },
     {
         "Name": "헝가리",
@@ -964,7 +964,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 4960,
-        "deaths": 27,
+        "deaths": 28,
         "recovered": 1819
     },
     {
