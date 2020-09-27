@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 38253,
-        "deaths": 285,
-        "recovered": 27704
+        "confirmed": 38703,
+        "deaths": 291,
+        "recovered": 29068
     },
     {
         "Name": "Paraguay",
@@ -563,17 +563,17 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33312,
-        "deaths": 746,
+        "confirmed": 33384,
+        "deaths": 747,
         "recovered": 31536
     },
     {
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 31828,
-        "deaths": 499,
-        "recovered": 17832
+        "confirmed": 32364,
+        "deaths": 520,
+        "recovered": 18128
     },
     {
         "Name": "El Salvador",
@@ -795,9 +795,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9605,
+        "confirmed": 9646,
         "deaths": 75,
-        "recovered": 8385
+        "recovered": 8430
     },
     {
         "Name": "슬로바키아",
