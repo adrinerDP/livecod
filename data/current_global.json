@@ -475,9 +475,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 49072,
-        "deaths": 948,
-        "recovered": 43576
+        "confirmed": 49400,
+        "deaths": 951,
+        "recovered": 43613
     },
     {
         "Name": "Kyrgyzstan",
@@ -611,9 +611,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 23077,
-        "deaths": 730,
-        "recovered": 5099
+        "confirmed": 24014,
+        "deaths": 736,
+        "recovered": 5141
     },
     {
         "Name": "카메룬",
