@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 133222,
-        "deaths": 7800,
-        "recovered": 92868
+        "confirmed": 133592,
+        "deaths": 7828,
+        "recovered": 93406
     },
     {
         "Name": "카타르",
@@ -587,8 +587,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27016,
-        "deaths": 870,
+        "confirmed": 27033,
+        "deaths": 872,
         "recovered": 24571
     },
     {
@@ -1347,7 +1347,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 627,
+        "confirmed": 633,
         "deaths": 22,
         "recovered": 532
     },
