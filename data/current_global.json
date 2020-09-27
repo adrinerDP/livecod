@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 443086,
-        "deaths": 25394,
-        "recovered": 372051
+        "confirmed": 446448,
+        "deaths": 25589,
+        "recovered": 374170
     },
     {
         "Name": "영국",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 77289,
-        "deaths": 813,
-        "recovered": 74046
+        "confirmed": 77609,
+        "deaths": 818,
+        "recovered": 74120
     },
     {
         "Name": "Honduras",
@@ -366,6 +366,14 @@
         "confirmed": 74548,
         "deaths": 2288,
         "recovered": 26088
+    },
+    {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 73394,
+        "deaths": 477,
+        "recovered": 53898
     },
     {
         "Name": "포르투갈",
@@ -398,14 +406,6 @@
         "confirmed": 71940,
         "deaths": 600,
         "recovered": 61528
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 71821,
-        "deaths": 467,
-        "recovered": 53013
     },
     {
         "Name": "바레인",
@@ -683,9 +683,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14869,
-        "deaths": 306,
-        "recovered": 12028
+        "confirmed": 14909,
+        "deaths": 308,
+        "recovered": 12113
     },
     {
         "Name": "Zambia",
@@ -1067,9 +1067,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3555,
+        "confirmed": 3564,
         "deaths": 110,
-        "recovered": 2034
+        "recovered": 2061
     },
     {
         "Name": "Mayotte",
