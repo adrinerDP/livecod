@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7318329,
-        "deaths": 209425,
-        "recovered": 4541338
+        "confirmed": 7319217,
+        "deaths": 209438,
+        "recovered": 4541419
     },
     {
         "Name": "인도",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 806038,
-        "deaths": 25296,
-        "recovered": 700112
+        "confirmed": 813056,
+        "deaths": 25488,
+        "recovered": 711472
     },
     {
         "Name": "페루",
@@ -275,9 +275,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 110108,
-        "deaths": 2323,
-        "recovered": 86796
+        "confirmed": 110555,
+        "deaths": 2340,
+        "recovered": 87215
     },
     {
         "Name": "Kazakhstan",
@@ -299,9 +299,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 102736,
-        "deaths": 5869,
-        "recovered": 94374
+        "confirmed": 102840,
+        "deaths": 5883,
+        "recovered": 95080
     },
     {
         "Name": "오만",
@@ -347,9 +347,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 81055,
-        "deaths": 1540,
-        "recovered": 74151
+        "confirmed": 81690,
+        "deaths": 1545,
+        "recovered": 74607
     },
     {
         "Name": "벨라루스",
@@ -392,20 +392,20 @@
         "recovered": 30363
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 72691,
+        "deaths": 606,
+        "recovered": 62427
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 72049,
         "deaths": 828,
         "recovered": 27760
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 71940,
-        "deaths": 600,
-        "recovered": 61528
     },
     {
         "Name": "바레인",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 58198,
-        "deaths": 1106,
-        "recovered": 49722
+        "confirmed": 58324,
+        "deaths": 1108,
+        "recovered": 49794
     },
     {
         "Name": "싱가포르",
@@ -691,9 +691,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14612,
+        "confirmed": 14641,
         "deaths": 332,
-        "recovered": 13727
+        "recovered": 13784
     },
     {
         "Name": "노르웨이",
