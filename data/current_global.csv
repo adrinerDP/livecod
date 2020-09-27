@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7292796,209230,4524730
+미국,美国,United States,7294232,209238,4524760
 인도,印度,India,6041638,94971,4981099
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,359148,5161,270491
 파키스탄,巴基斯坦,Pakistan,310275,6457,295613
 이탈리아,义大利,Italy,309870,35835,224417
 필리핀,菲律宾,Philippines,304226,5344,252510
-독일,德国,Germany,285270,9532,249500
+독일,德国,Germany,285581,9533,249500
 인도네시아,印度尼西亚,Indonesia,275213,10386,203014
 이스라엘,以色列,Israel,231026,1466,159931
 Ukraine,,Ukraine,198634,3959,87882
-캐나다,加拿大,Canada,152162,9264,130617
+캐나다,加拿大,Canada,153058,9268,131086
 에콰도르,厄瓜多尔,Ecuador,133981,11273,102852
 Bolivia,,Bolivia,133592,7828,93406
 카타르,卡塔尔,Qatar,125084,214,121995
@@ -55,11 +55,11 @@ Venezuela,,Venezuela,71940,600,61528
 나이지리아,尼日利亚,Nigeria,58198,1106,49722
 싱가포르,新加坡,Singapore,57700,27,57367
 Uzbekistan,,Uzbekistan,55320,458,51829
-스위스,瑞士,Switzerland,51864,2064,42600
+스위스,瑞士,Switzerland,51864,2064,42700
 알제리,阿尔及利亚,Algeria,50914,1711,35756
 Moldova,,Moldova,50875,1287,37842
 아르메니아,亚美尼亚,Armenia,49400,951,43613
-Ghana,,Ghana,46353,299,45577
+Ghana,,Ghana,46387,299,45618
 Kyrgyzstan,,Kyrgyzstan,46251,1063,42453
 오스트리아,奥地利,Austria,42876,787,33589
 아제르바이잔,阿塞拜疆,Azerbaijan,40023,586,37655
@@ -80,7 +80,7 @@ El Salvador,,El Salvador,28630,826,22879
 Bulgaria,,Bulgaria,19997,789,14160
 Ivory Coast,,Ivory Coast,19600,120,19122
 North Macedonia,,North Macedonia,17629,725,14581
-그리스,希腊,Greece,17228,376,9989
+그리스,希腊,Greece,17444,379,9989
 Madagascar,,Madagascar,16285,229,14922
 크로아티아,克罗地亚,Croatia,16197,272,14609
 Tunisia,,Tunisia,15178,207,5032
@@ -94,7 +94,7 @@ Namibia,,Namibia,11033,120,8776
 Myanmar,,Myanmar,10734,226,2862
 DRC,,DRC,10593,271,10093
 Guinea,,Guinea,10512,65,9836
-Montenegro,,Montenegro,10197,158,6368
+Montenegro,,Montenegro,10313,158,6456
 Maldives,,Maldives,10045,34,8754
 French Guiana,,French Guiana,9863,65,9500
 핀란드,芬兰,Finland,9682,343,7850
@@ -103,7 +103,7 @@ Tajikistan,,Tajikistan,9646,75,8430
 Gabon,,Gabon,8728,54,7934
 Haiti,,Haiti,8723,227,6551
 요르단,约旦,Jordan,8492,45,4222
-룩셈부르크,卢森堡,Luxembourg,8311,124,6976
+룩셈부르크,卢森堡,Luxembourg,8357,124,6976
 Zimbabwe,,Zimbabwe,7803,227,6067
 Mozambique,,Mozambique,7757,54,4769
 Uganda,,Uganda,7530,73,3647
@@ -141,7 +141,7 @@ Mali,,Mali,3080,130,2410
 Malta,,Malta,2979,31,2358
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2725,74,1535
-South Sudan,,South Sudan,2676,49,1290
+South Sudan,,South Sudan,2686,49,1290
 Iceland,,Iceland,2623,10,2158
 Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
@@ -190,7 +190,7 @@ Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,143,0,140
 리히텐슈타인,列支敦士登,Liechtenstein,117,1,110
-Antigua and Barbuda,,Antigua and Barbuda,98,3,92
+Antigua and Barbuda,,Antigua and Barbuda,101,3,92
 Caribbean Netherlands,,Caribbean Netherlands,85,1,21
 British Virgin Islands,,British Virgin Islands,71,1,62
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
