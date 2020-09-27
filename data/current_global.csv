@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7287593,209177,4524108
+미국,美国,United States,7288094,209180,4524383
 인도,印度,India,5996823,94559,4941627
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
@@ -27,15 +27,15 @@ Ukraine,,Ukraine,198634,3959,87882
 캐나다,加拿大,Canada,151671,9262,130328
 에콰도르,厄瓜多尔,Ecuador,133981,11273,102852
 Bolivia,,Bolivia,133592,7828,93406
-카타르,卡塔尔,Qatar,124850,214,121738
+카타르,卡塔尔,Qatar,125084,214,121995
 루마니아,尼亚,Romania,122673,4718,98607
 모로코,摩洛哥,Morocco,115241,2041,94150
 벨기에,比利时,Belgium,112803,9974,19246
+네덜란드,荷兰,Netherlands,111626,6374,0
 도미니카 공화국,多明尼加共和国,Dominican Republic,110957,2093,85220
 Panama,,Panama,110108,2323,86796
-네덜란드,荷兰,Netherlands,108631,6366,0
 Kazakhstan,,Kazakhstan,107723,1699,102666
-쿠웨이트,科威特,Kuwait,103199,597,94211
+쿠웨이트,科威特,Kuwait,103544,601,94929
 이집트,埃及,Egypt,102736,5869,94374
 오만,阿曼,Oman,97450,909,87801
 아랍에미리트,阿拉伯联合酋长国,UAE,91469,412,80544
@@ -73,8 +73,8 @@ Kenya,,Kenya,37871,689,24581
 Libya,,Libya,31828,499,17832
 El Salvador,,El Salvador,28630,826,22879
 호주,澳大利亚,Australia,27040,872,24573
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26797,820,19746
-덴마크,丹麦,Denmark,26213,648,19350
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26920,822,19746
+덴마크,丹麦,Denmark,26637,649,19650
 헝가리,匈牙利,Hungary,24014,736,5141
 카메룬,喀麦隆,Cameroon,20735,418,19440
 Bulgaria,,Bulgaria,19997,789,14160
@@ -174,10 +174,10 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,485,1,472
 Comoros,,Comoros,478,7,458
 Faeroe Islands,,Faeroe Islands,460,0,423
+Saint Martin,,Saint Martin,383,8,273
 지브롤터,直布罗陀,Gibraltar,379,0,341
 Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
-Saint Martin,,Saint Martin,367,8,273
 Isle of Man,,Isle of Man,340,24,314
 Curaçao,,Curaçao,337,1,134
 Mongolia,,Mongolia,313,0,303
@@ -194,8 +194,8 @@ Antigua and Barbuda,,Antigua and Barbuda,98,3,92
 Caribbean Netherlands,,Caribbean Netherlands,85,1,21
 British Virgin Islands,,British Virgin Islands,71,1,62
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
+St. Barth,,St. Barth,48,0,25
 마카오,澳门,Macao,46,0,46
-St. Barth,,St. Barth,45,0,25
 Fiji,,Fiji,32,2,28
 Dominica,,Dominica,30,0,24
 New Caledonia,,New Caledonia,27,0,26
