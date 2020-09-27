@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7313170,
-        "deaths": 209362,
-        "recovered": 4538410
+        "confirmed": 7315470,
+        "deaths": 209383,
+        "recovered": 4538921
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6053010,
-        "deaths": 95162,
-        "recovered": 4998519
+        "confirmed": 6073348,
+        "deaths": 95574,
+        "recovered": 5013367
     },
     {
         "Name": "브라질",
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 669498,
-        "deaths": 16376,
-        "recovered": 601818
+        "confirmed": 670766,
+        "deaths": 16398,
+        "recovered": 603721
     },
     {
         "Name": "프랑스",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 286159,
+        "confirmed": 286338,
         "deaths": 9534,
         "recovered": 250800
     },
@@ -979,9 +979,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4811,
+        "confirmed": 4820,
         "deaths": 29,
-        "recovered": 3091
+        "recovered": 3099
     },
     {
         "Name": "CAR",
@@ -1061,7 +1061,7 @@
         "Name_en": "Somalia",
         "confirmed": 3588,
         "deaths": 99,
-        "recovered": 2943
+        "recovered": 2946
     },
     {
         "Name": "Gambia",
