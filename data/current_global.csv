@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7319449,209446,4545761
+미국,美国,United States,7320221,209447,4546185
 인도,印度,India,6073348,95574,5013367
-브라질,巴西,Brazil,4732309,141741,4060088
+브라질,巴西,Brazil,4732309,141776,4060088
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,813056,25488,711472
-페루,秘鲁,Peru,800142,32142,657836
+페루,秘鲁,Peru,805302,32262,664490
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,726431,76243,521241
 Argentina,,Argentina,711325,15749,565935
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,73332,1170,30363
 Venezuela,,Venezuela,72691,606,62427
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 바레인,巴林,Bahrain,69361,242,62887
-체코,捷克,Czechia,64012,601,31220
+체코,捷克,Czechia,64597,606,31268
 나이지리아,尼日利亚,Nigeria,58324,1108,49794
 싱가포르,新加坡,Singapore,57700,27,57367
 Uzbekistan,,Uzbekistan,55320,458,51829
@@ -86,14 +86,14 @@ Madagascar,,Madagascar,16285,229,14922
 Tunisia,,Tunisia,16114,214,5032
 세네갈,塞内加尔,Senegal,14909,308,12113
 Zambia,,Zambia,14641,332,13784
-노르웨이,挪威,Norway,13660,270,11190
+노르웨이,挪威,Norway,13698,270,11190
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13259,377,7397
 Namibia,,Namibia,11033,120,8776
 말레이시아,马来西亚,Malaysia,10919,134,9835
 Myanmar,,Myanmar,10734,226,2862
 DRC,,DRC,10612,271,10093
-Guinea,,Guinea,10548,66,9865
+Guinea,,Guinea,10580,66,9892
 Montenegro,,Montenegro,10313,158,6456
 Maldives,,Maldives,10098,34,8847
 French Guiana,,French Guiana,9863,65,9500
@@ -107,7 +107,7 @@ Haiti,,Haiti,8723,227,6551
 Mozambique,,Mozambique,7983,58,4807
 Zimbabwe,,Zimbabwe,7812,227,6106
 Uganda,,Uganda,7530,73,3647
-Mauritania,,Mauritania,7462,161,7070
+Mauritania,,Mauritania,7464,161,7070
 Jamaica,,Jamaica,6017,89,1706
 Cabo Verde,,Cabo Verde,5771,57,5031
 Malawi,,Malawi,5768,179,4206
@@ -143,7 +143,7 @@ Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2772,76,1564
 South Sudan,,South Sudan,2686,49,1290
 Iceland,,Iceland,2623,10,2158
-Benin,,Benin,2325,40,1960
+Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
 Yemen,,Yemen,2030,587,1266
@@ -152,7 +152,7 @@ Burkina Faso,,Burkina Faso,1973,56,1264
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1833,25,1749
 Belize,,Belize,1825,24,1165
-토고,多哥,Togo,1736,46,1319
+토고,多哥,Togo,1743,46,1330
 Cyprus,,Cyprus,1696,22,1369
 라트비아,约旦,Latvia,1676,36,1304
 French Polynesia,,French Polynesia,1579,6,1335

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7319449,
-        "deaths": 209446,
-        "recovered": 4545761
+        "confirmed": 7320221,
+        "deaths": 209447,
+        "recovered": 4546185
     },
     {
         "Name": "인도",
@@ -20,7 +20,7 @@
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4732309,
-        "deaths": 141741,
+        "deaths": 141776,
         "recovered": 4060088
     },
     {
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 800142,
-        "deaths": 32142,
-        "recovered": 657836
+        "confirmed": 805302,
+        "deaths": 32262,
+        "recovered": 664490
     },
     {
         "Name": "스페인",
@@ -419,9 +419,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 64012,
-        "deaths": 601,
-        "recovered": 31220
+        "confirmed": 64597,
+        "deaths": 606,
+        "recovered": 31268
     },
     {
         "Name": "나이지리아",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13660,
+        "confirmed": 13698,
         "deaths": 270,
         "recovered": 11190
     },
@@ -755,9 +755,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10548,
+        "confirmed": 10580,
         "deaths": 66,
-        "recovered": 9865
+        "recovered": 9892
     },
     {
         "Name": "Montenegro",
@@ -867,7 +867,7 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7462,
+        "confirmed": 7464,
         "deaths": 161,
         "recovered": 7070
     },
@@ -1155,7 +1155,7 @@
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
-        "confirmed": 2325,
+        "confirmed": 2340,
         "deaths": 40,
         "recovered": 1960
     },
@@ -1227,9 +1227,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1736,
+        "confirmed": 1743,
         "deaths": 46,
-        "recovered": 1319
+        "recovered": 1330
     },
     {
         "Name": "Cyprus",
