@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 357873,
-        "deaths": 5129,
-        "recovered": 268777
+        "confirmed": 359148,
+        "deaths": 5161,
+        "recovered": 270491
     },
     {
         "Name": "이라크",
@@ -307,9 +307,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 95907,
-        "deaths": 885,
-        "recovered": 86765
+        "confirmed": 97450,
+        "deaths": 909,
+        "recovered": 87801
     },
     {
         "Name": "아랍에미리트",
@@ -659,7 +659,7 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16257,
+        "confirmed": 16285,
         "deaths": 229,
         "recovered": 14922
     },
@@ -1093,7 +1093,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3349,
         "deaths": 13,
-        "recovered": 3186
+        "recovered": 3208
     },
     {
         "Name": "에스토니아",
@@ -1115,9 +1115,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 2958,
+        "confirmed": 2979,
         "deaths": 31,
-        "recovered": 2304
+        "recovered": 2358
     },
     {
         "Name": "Botswana",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1069,
+        "confirmed": 1074,
         "deaths": 35,
         "recovered": 999
     },
