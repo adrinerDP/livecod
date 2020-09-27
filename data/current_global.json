@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7288094,
-        "deaths": 209180,
+        "confirmed": 7288932,
+        "deaths": 209196,
         "recovered": 4524383
     },
     {
@@ -1147,9 +1147,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2601,
+        "confirmed": 2623,
         "deaths": 10,
-        "recovered": 2156
+        "recovered": 2158
     },
     {
         "Name": "Benin",
