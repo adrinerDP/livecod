@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7309027,209331,4537020
+미국,美国,United States,7313170,209362,4538410
 인도,印度,India,6053010,95162,4998519
 브라질,巴西,Brazil,4719099,141503,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
@@ -47,7 +47,7 @@ Guatemala,,Guatemala,90092,3229,78698
 Honduras,,Honduras,74548,2288,26088
 포르투갈,葡萄牙,Portugal,73604,1953,47647
 네팔,尼泊尔,Nepal,73394,477,53898
-Ethiopia,,Ethiopia,72700,1165,30029
+Ethiopia,,Ethiopia,73332,1170,30363
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 Venezuela,,Venezuela,71940,600,61528
 바레인,巴林,Bahrain,68775,242,62252
@@ -109,10 +109,10 @@ Zimbabwe,,Zimbabwe,7803,227,6067
 Uganda,,Uganda,7530,73,3647
 Mauritania,,Mauritania,7462,161,7070
 Jamaica,,Jamaica,6017,89,1706
+Cabo Verde,,Cabo Verde,5771,57,5031
 Malawi,,Malawi,5768,179,4206
-Cabo Verde,,Cabo Verde,5701,56,5018
 Cuba,,Cuba,5457,122,4751
-Eswatini,,Eswatini,5419,108,4802
+Eswatini,,Eswatini,5431,108,4821
 Djibouti,,Djibouti,5409,61,5340
 슬로베니아,斯洛文尼亚,Slovenia,5350,147,3555
 조지아,格鲁吉亚,Georgia,5254,28,1906
@@ -137,7 +137,7 @@ Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3523,59,3367
 스리랑카,斯里兰卡,Sri Lanka,3360,13,3208
 에스토니아,爱沙尼亚,Estonia,3200,64,2506
-Mali,,Mali,3080,130,2410
+Mali,,Mali,3086,130,2420
 Malta,,Malta,2979,31,2358
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2725,74,1535
@@ -160,7 +160,7 @@ Lesotho,,Lesotho,1558,35,797
 Liberia,,Liberia,1339,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
-Chad,,Chad,1177,83,1005
+Chad,,Chad,1178,84,1005
 베트남,越南,Vietnam,1074,35,999
 Sao Tome and Principe,,Sao Tome and Principe,911,15,883
 산마리노,圣马力诺,San Marino,727,42,676
