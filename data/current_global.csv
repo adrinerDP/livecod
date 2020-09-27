@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7287561,209177,4524108
-인도,印度,India,5990581,94534,4938688
+인도,印度,India,5992532,94534,4941627
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1143571,20225,940150
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
@@ -17,7 +17,7 @@ Bangladesh,,Bangladesh,357873,5129,268777
 이라크,伊拉克,Iraq,345969,8935,276918
 사우디아라비아,沙特阿拉伯,Saudi Arabia,332790,4655,316405
 터키,土耳其,Turkey,312966,7929,274514
-파키스탄,巴基斯坦,Pakistan,309581,6451,295333
+파키스탄,巴基斯坦,Pakistan,310275,6457,295613
 이탈리아,义大利,Italy,308104,35818,223693
 필리핀,菲律宾,Philippines,301256,5284,232906
 독일,德国,Germany,285025,9532,249500
@@ -44,7 +44,7 @@ Guatemala,,Guatemala,89702,3213,78284
 폴란드,波兰,Poland,85980,2424,67326
 일본,日本,Japan,81055,1540,74151
 벨라루스,白俄罗斯,Belarus,77289,813,74046
-Honduras,,Honduras,73840,2271,25728
+Honduras,,Honduras,74548,2288,26088
 포르투갈,葡萄牙,Portugal,72939,1944,47380
 Ethiopia,,Ethiopia,72700,1165,30029
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
@@ -72,7 +72,7 @@ Kenya,,Kenya,37871,689,24581
 세르비아,塞尔维亚,Serbia,33312,746,31536
 Libya,,Libya,31828,499,17832
 El Salvador,,El Salvador,28415,826,22643
-호주,澳大利亚,Australia,27033,872,24571
+호주,澳大利亚,Australia,27040,872,24573
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,26797,820,19746
 덴마크,丹麦,Denmark,26213,648,19350
 헝가리,匈牙利,Hungary,23077,730,5099
@@ -134,7 +134,7 @@ Réunion,,Réunion,3685,11,2819
 Somalia,,Somalia,3588,99,2943
 Gambia,,Gambia,3555,110,2034
 Mayotte,,Mayotte,3541,40,2964
-태국,泰国,Thailand,3522,59,3362
+태국,泰国,Thailand,3523,59,3367
 스리랑카,斯里兰卡,Sri Lanka,3349,13,3186
 에스토니아,爱沙尼亚,Estonia,3165,64,2499
 Mali,,Mali,3080,130,2410
@@ -151,7 +151,7 @@ Uruguay,,Uruguay,1998,47,1716
 Burkina Faso,,Burkina Faso,1973,56,1264
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1833,25,1749
-Belize,,Belize,1808,23,1134
+Belize,,Belize,1825,24,1165
 토고,多哥,Togo,1736,46,1319
 Cyprus,,Cyprus,1684,22,1369
 라트비아,约旦,Latvia,1654,36,1304
@@ -182,7 +182,7 @@ Isle of Man,,Isle of Man,340,24,314
 Curaçao,,Curaçao,337,1,134
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,276,0,274
-부탄,不丹,Bhutan,263,0,199
+부탄,不丹,Bhutan,271,0,205
 모나코,摩纳哥,Monaco,210,2,169
 Cayman Islands,,Cayman Islands,210,1,207
 Barbados,,Barbados,190,7,178

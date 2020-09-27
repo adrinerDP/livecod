@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5990581,
+        "confirmed": 5992532,
         "deaths": 94534,
-        "recovered": 4938688
+        "recovered": 4941627
     },
     {
         "Name": "브라질",
@@ -147,9 +147,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 309581,
-        "deaths": 6451,
-        "recovered": 295333
+        "confirmed": 310275,
+        "deaths": 6457,
+        "recovered": 295613
     },
     {
         "Name": "이탈리아",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 73840,
-        "deaths": 2271,
-        "recovered": 25728
+        "confirmed": 74548,
+        "deaths": 2288,
+        "recovered": 26088
     },
     {
         "Name": "포르투갈",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27033,
+        "confirmed": 27040,
         "deaths": 872,
-        "recovered": 24571
+        "recovered": 24573
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1083,9 +1083,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3522,
+        "confirmed": 3523,
         "deaths": 59,
-        "recovered": 3362
+        "recovered": 3367
     },
     {
         "Name": "스리랑카",
@@ -1219,9 +1219,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1808,
-        "deaths": 23,
-        "recovered": 1134
+        "confirmed": 1825,
+        "deaths": 24,
+        "recovered": 1165
     },
     {
         "Name": "토고",
@@ -1467,9 +1467,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 263,
+        "confirmed": 271,
         "deaths": 0,
-        "recovered": 199
+        "recovered": 205
     },
     {
         "Name": "모나코",
