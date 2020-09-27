@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7296493,209242,4525753
-인도,印度,India,6041638,94971,4981099
+미국,美国,United States,7298241,209273,4526924
+인도,印度,India,6050875,95101,4993558
 브라질,巴西,Brazil,4719099,141503,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,359148,5161,270491
 파키스탄,巴基斯坦,Pakistan,310275,6457,295613
 이탈리아,义大利,Italy,309870,35835,224417
 필리핀,菲律宾,Philippines,304226,5344,252510
-독일,德国,Germany,285729,9534,249500
+독일,德国,Germany,285732,9534,249500
 인도네시아,印度尼西亚,Indonesia,275213,10386,203014
 이스라엘,以色列,Israel,231026,1466,159931
 Ukraine,,Ukraine,198634,3959,87882
@@ -29,7 +29,7 @@ Ukraine,,Ukraine,198634,3959,87882
 Bolivia,,Bolivia,133592,7828,93406
 카타르,卡塔尔,Qatar,125084,214,121995
 루마니아,尼亚,Romania,122673,4718,98607
-모로코,摩洛哥,Morocco,115241,2041,94150
+모로코,摩洛哥,Morocco,117685,2069,95591
 벨기에,比利时,Belgium,112803,9974,19246
 네덜란드,荷兰,Netherlands,111626,6374,0
 도미니카 공화국,多明尼加共和国,Dominican Republic,111386,2095,85965
@@ -95,7 +95,7 @@ Myanmar,,Myanmar,10734,226,2862
 DRC,,DRC,10593,271,10093
 Guinea,,Guinea,10512,65,9836
 Montenegro,,Montenegro,10313,158,6456
-Maldives,,Maldives,10045,34,8754
+Maldives,,Maldives,10098,34,8847
 French Guiana,,French Guiana,9863,65,9500
 핀란드,芬兰,Finland,9682,343,7850
 Tajikistan,,Tajikistan,9646,75,8430
