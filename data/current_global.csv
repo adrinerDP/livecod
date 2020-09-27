@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7285359,209157,4514780
+미국,美国,United States,7287521,209177,4524108
 인도,印度,India,5990513,94533,4938641
-브라질,巴西,Brazil,4717991,141406,4050837
+브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1143571,20225,940150
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
 페루,秘鲁,Peru,794584,32037,650948
@@ -50,8 +50,8 @@ Ethiopia,,Ethiopia,72700,1165,30029
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 네팔,尼泊尔,Nepal,71821,467,53013
 Venezuela,,Venezuela,71273,591,60709
-바레인,巴林,Bahrain,68190,239,61475
-체코,捷克,Czechia,62559,588,30891
+바레인,巴林,Bahrain,68775,239,62252
+체코,捷克,Czechia,63294,591,30936
 나이지리아,尼日利亚,Nigeria,58198,1106,49722
 싱가포르,新加坡,Singapore,57685,27,57359
 Uzbekistan,,Uzbekistan,54819,452,51322
@@ -106,7 +106,7 @@ Haiti,,Haiti,8723,227,6551
 요르단,约旦,Jordan,8061,43,4131
 Zimbabwe,,Zimbabwe,7787,227,6057
 Mozambique,,Mozambique,7757,54,4769
-Mauritania,,Mauritania,7457,161,7070
+Mauritania,,Mauritania,7462,161,7070
 Uganda,,Uganda,7364,71,3647
 Jamaica,,Jamaica,5854,88,1624
 Malawi,,Malawi,5766,179,4185
@@ -120,7 +120,7 @@ Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5028,83,4740
 Congo,,Congo,5005,89,3887
 조지아,格鲁吉亚,Georgia,4960,28,1819
-Suriname,,Suriname,4817,102,4596
+Suriname,,Suriname,4831,102,4620
 Rwanda,,Rwanda,4811,29,3091
 CAR,,CAR,4806,62,1840
 Angola,,Angola,4590,167,1554
