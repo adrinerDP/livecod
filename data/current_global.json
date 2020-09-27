@@ -283,7 +283,7 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107659,
+        "confirmed": 107723,
         "deaths": 1699,
         "recovered": 102530
     },
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 680,
+        "confirmed": 681,
         "deaths": 5,
-        "recovered": 617
+        "recovered": 620
     },
     {
         "Name": "Channel Islands",
