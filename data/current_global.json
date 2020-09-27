@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 39895,
-        "deaths": 585,
-        "recovered": 37523
+        "confirmed": 40023,
+        "deaths": 586,
+        "recovered": 37655
     },
     {
         "Name": "아프가니스탄",
@@ -1584,6 +1584,14 @@
         "recovered": 28
     },
     {
+        "Name": "Dominica",
+        "Name_ch": "",
+        "Name_en": "Dominica",
+        "confirmed": 30,
+        "deaths": 0,
+        "recovered": 24
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1606,14 +1614,6 @@
         "confirmed": 27,
         "deaths": 0,
         "recovered": 27
-    },
-    {
-        "Name": "Dominica",
-        "Name_ch": "",
-        "Name_en": "Dominica",
-        "confirmed": 24,
-        "deaths": 0,
-        "recovered": 18
     },
     {
         "Name": "Grenada",
