@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7288932,209196,4524383
+미국,美国,United States,7290347,209208,4524465
 인도,印度,India,6005795,94582,4945998
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
@@ -10,7 +10,7 @@
 Argentina,,Argentina,702484,15543,556489
 남아프리카 공화국,南非共和国,South Africa,669498,16376,601818
 프랑스,法国,France,527446,31700,94891
-칠레,智利,Chile,455979,12591,430259
+칠레,智利,Chile,457901,12641,431704
 이란,伊朗,Iran,446448,25589,374170
 영국,英国,UK,429277,41971,0
 Bangladesh,,Bangladesh,359148,5161,270491
@@ -88,7 +88,7 @@ Tunisia,,Tunisia,15178,207,5032
 Zambia,,Zambia,14612,332,13727
 노르웨이,挪威,Norway,13660,270,11190
 Sudan,,Sudan,13606,836,6764
-Albania,,Albania,13153,375,7397
+Albania,,Albania,13259,377,7397
 Namibia,,Namibia,11033,120,8776
 말레이시아,马来西亚,Malaysia,10919,134,9835
 Myanmar,,Myanmar,10734,226,2862
@@ -106,13 +106,13 @@ Haiti,,Haiti,8723,227,6551
 요르단,约旦,Jordan,8061,43,4131
 Zimbabwe,,Zimbabwe,7803,227,6067
 Mozambique,,Mozambique,7757,54,4769
+Uganda,,Uganda,7530,73,3647
 Mauritania,,Mauritania,7462,161,7070
-Uganda,,Uganda,7364,71,3647
 Jamaica,,Jamaica,5854,88,1624
 Malawi,,Malawi,5766,179,4185
 Cabo Verde,,Cabo Verde,5701,56,5018
+Cuba,,Cuba,5457,122,4751
 Eswatini,,Eswatini,5419,108,4802
-Cuba,,Cuba,5412,120,4732
 Djibouti,,Djibouti,5409,61,5340
 슬로베니아,斯洛文尼亚,Slovenia,5350,147,3555
 조지아,格鲁吉亚,Georgia,5254,28,1906
@@ -126,7 +126,7 @@ CAR,,CAR,4806,62,1840
 Angola,,Angola,4672,171,1639
 Guadeloupe,,Guadeloupe,4487,42,2199
 Lithuania,,Lithuania,4385,91,2327
-Trinidad and Tobago,,Trinidad and Tobago,4312,70,2185
+Trinidad and Tobago,,Trinidad and Tobago,4321,70,2234
 Syria,,Syria,4038,188,1048
 Aruba,,Aruba,3832,25,2829
 Bahamas,,Bahamas,3790,89,1999

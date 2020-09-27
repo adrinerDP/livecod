@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7288932,
-        "deaths": 209196,
-        "recovered": 4524383
+        "confirmed": 7290347,
+        "deaths": 209208,
+        "recovered": 4524465
     },
     {
         "Name": "인도",
@@ -91,9 +91,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 455979,
-        "deaths": 12591,
-        "recovered": 430259
+        "confirmed": 457901,
+        "deaths": 12641,
+        "recovered": 431704
     },
     {
         "Name": "이란",
@@ -715,8 +715,8 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 13153,
-        "deaths": 375,
+        "confirmed": 13259,
+        "deaths": 377,
         "recovered": 7397
     },
     {
@@ -856,20 +856,20 @@
         "recovered": 4769
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 7530,
+        "deaths": 73,
+        "recovered": 3647
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "confirmed": 7462,
         "deaths": 161,
         "recovered": 7070
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 7364,
-        "deaths": 71,
-        "recovered": 3647
     },
     {
         "Name": "Jamaica",
@@ -896,20 +896,20 @@
         "recovered": 5018
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 5457,
+        "deaths": 122,
+        "recovered": 4751
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "confirmed": 5419,
         "deaths": 108,
         "recovered": 4802
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 5412,
-        "deaths": 120,
-        "recovered": 4732
     },
     {
         "Name": "Djibouti",
@@ -1019,9 +1019,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4312,
+        "confirmed": 4321,
         "deaths": 70,
-        "recovered": 2185
+        "recovered": 2234
     },
     {
         "Name": "Syria",
