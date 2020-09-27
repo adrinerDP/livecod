@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7295718,
+        "confirmed": 7296493,
         "deaths": 209242,
         "recovered": 4525753
     },
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 285700,
+        "confirmed": 285729,
         "deaths": 9534,
         "recovered": 249500
     },
@@ -419,9 +419,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 63294,
-        "deaths": 591,
-        "recovered": 30936
+        "confirmed": 64012,
+        "deaths": 601,
+        "recovered": 31220
     },
     {
         "Name": "나이지리아",
@@ -547,15 +547,15 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 35242,
-        "deaths": 340,
-        "recovered": 15434
+        "confirmed": 36254,
+        "deaths": 347,
+        "recovered": 16089
     },
     {
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 34560,
+        "confirmed": 34990,
         "deaths": 1802,
         "recovered": 23364
     },
@@ -1032,20 +1032,20 @@
         "recovered": 1048
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3838,
+        "deaths": 89,
+        "recovered": 2005
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 3832,
         "deaths": 25,
         "recovered": 2829
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3790,
-        "deaths": 89,
-        "recovered": 1999
     },
     {
         "Name": "Réunion",
