@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5992532,
-        "deaths": 94534,
+        "confirmed": 5996823,
+        "deaths": 94559,
         "recovered": 4941627
     },
     {
@@ -720,20 +720,20 @@
         "recovered": 7397
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 10919,
+        "deaths": 134,
+        "recovered": 9835
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 10918,
         "deaths": 120,
         "recovered": 8749
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 10769,
-        "deaths": 133,
-        "recovered": 9785
     },
     {
         "Name": "DRC",
