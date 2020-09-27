@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 5990513,
-        "deaths": 94533,
-        "recovered": 4938641
+        "confirmed": 5990581,
+        "deaths": 94534,
+        "recovered": 4938688
     },
     {
         "Name": "브라질",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 794584,
-        "deaths": 32037,
-        "recovered": 650948
+        "confirmed": 800142,
+        "deaths": 32142,
+        "recovered": 657836
     },
     {
         "Name": "스페인",
@@ -204,7 +204,7 @@
         "Name_ch": "加拿大",
         "Name_en": "Canada",
         "confirmed": 151671,
-        "deaths": 9263,
+        "deaths": 9262,
         "recovered": 130328
     },
     {
@@ -843,9 +843,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7787,
+        "confirmed": 7803,
         "deaths": 227,
-        "recovered": 6057
+        "recovered": 6067
     },
     {
         "Name": "Mozambique",
@@ -995,9 +995,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 4590,
-        "deaths": 167,
-        "recovered": 1554
+        "confirmed": 4672,
+        "deaths": 171,
+        "recovered": 1639
     },
     {
         "Name": "Guadeloupe",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2199,
+        "confirmed": 2208,
         "deaths": 72,
-        "recovered": 1678
+        "recovered": 1679
     },
     {
         "Name": "Yemen",
@@ -1195,9 +1195,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 1962,
+        "confirmed": 1973,
         "deaths": 56,
-        "recovered": 1263
+        "recovered": 1264
     },
     {
         "Name": "안도라",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 911,
         "deaths": 15,
-        "recovered": 881
+        "recovered": 883
     },
     {
         "Name": "산마리노",
@@ -1472,6 +1472,14 @@
         "recovered": 199
     },
     {
+        "Name": "모나코",
+        "Name_ch": "摩纳哥",
+        "Name_en": "Monaco",
+        "confirmed": 210,
+        "deaths": 2,
+        "recovered": 169
+    },
+    {
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
@@ -1480,20 +1488,12 @@
         "recovered": 207
     },
     {
-        "Name": "모나코",
-        "Name_ch": "摩纳哥",
-        "Name_en": "Monaco",
-        "confirmed": 208,
-        "deaths": 2,
-        "recovered": 167
-    },
-    {
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
         "confirmed": 190,
         "deaths": 7,
-        "recovered": 175
+        "recovered": 178
     },
     {
         "Name": "Bermuda",

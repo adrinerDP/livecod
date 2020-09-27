@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7287521,209177,4524108
-인도,印度,India,5990513,94533,4938641
+인도,印度,India,5990581,94534,4938688
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1143571,20225,940150
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
-페루,秘鲁,Peru,794584,32037,650948
+페루,秘鲁,Peru,800142,32142,657836
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,720858,75844,518204
 Argentina,,Argentina,702484,15543,556489
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,357873,5129,268777
 인도네시아,印度尼西亚,Indonesia,271339,10308,199403
 이스라엘,以色列,Israel,227100,1441,157537
 Ukraine,,Ukraine,195504,3903,85133
-캐나다,加拿大,Canada,151671,9263,130328
+캐나다,加拿大,Canada,151671,9262,130328
 에콰도르,厄瓜多尔,Ecuador,133981,11273,102852
 Bolivia,,Bolivia,133222,7800,92868
 카타르,卡塔尔,Qatar,124850,214,121738
@@ -104,7 +104,7 @@ Haiti,,Haiti,8723,227,6551
 슬로바키아,斯洛伐克,Slovakia,8600,44,4098
 룩셈부르크,卢森堡,Luxembourg,8311,124,6976
 요르단,约旦,Jordan,8061,43,4131
-Zimbabwe,,Zimbabwe,7787,227,6057
+Zimbabwe,,Zimbabwe,7803,227,6067
 Mozambique,,Mozambique,7757,54,4769
 Mauritania,,Mauritania,7462,161,7070
 Uganda,,Uganda,7364,71,3647
@@ -123,7 +123,7 @@ Congo,,Congo,5005,89,3887
 Suriname,,Suriname,4831,102,4620
 Rwanda,,Rwanda,4811,29,3091
 CAR,,CAR,4806,62,1840
-Angola,,Angola,4590,167,1554
+Angola,,Angola,4672,171,1639
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4312,70,2185
 Lithuania,,Lithuania,4295,89,2319
@@ -145,10 +145,10 @@ South Sudan,,South Sudan,2676,49,1290
 Iceland,,Iceland,2601,10,2156
 Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
-Sierra Leone,,Sierra Leone,2199,72,1678
+Sierra Leone,,Sierra Leone,2208,72,1679
 Yemen,,Yemen,2030,587,1260
 Uruguay,,Uruguay,1998,47,1716
-Burkina Faso,,Burkina Faso,1962,56,1263
+Burkina Faso,,Burkina Faso,1973,56,1264
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1831,25,1745
 Belize,,Belize,1808,23,1134
@@ -162,7 +162,7 @@ Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
 Chad,,Chad,1177,83,1005
 베트남,越南,Vietnam,1069,35,999
-Sao Tome and Principe,,Sao Tome and Principe,911,15,881
+Sao Tome and Principe,,Sao Tome and Principe,911,15,883
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,680,5,617
@@ -183,9 +183,9 @@ Curaçao,,Curaçao,337,1,134
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,275,0,274
 부탄,不丹,Bhutan,263,0,199
+모나코,摩纳哥,Monaco,210,2,169
 Cayman Islands,,Cayman Islands,210,1,207
-모나코,摩纳哥,Monaco,208,2,167
-Barbados,,Barbados,190,7,175
+Barbados,,Barbados,190,7,178
 Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,143,0,140
