@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7294232,209238,4524760
+미국,美国,United States,7295718,209242,4525753
 인도,印度,India,6041638,94971,4981099
-브라질,巴西,Brazil,4718115,141441,4050837
+브라질,巴西,Brazil,4719099,141503,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
 페루,秘鲁,Peru,800142,32142,657836
@@ -16,11 +16,11 @@ Argentina,,Argentina,702484,15543,556489
 Bangladesh,,Bangladesh,359148,5161,270491
 이라크,伊拉克,Iraq,349450,8990,280673
 사우디아라비아,沙特阿拉伯,Saudi Arabia,333193,4683,317005
-터키,土耳其,Turkey,312966,7929,274514
+터키,土耳其,Turkey,314433,7997,275630
 파키스탄,巴基斯坦,Pakistan,310275,6457,295613
 이탈리아,义大利,Italy,309870,35835,224417
 필리핀,菲律宾,Philippines,304226,5344,252510
-독일,德国,Germany,285581,9533,249500
+독일,德国,Germany,285700,9534,249500
 인도네시아,印度尼西亚,Indonesia,275213,10386,203014
 이스라엘,以色列,Israel,231026,1466,159931
 Ukraine,,Ukraine,198634,3959,87882
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,71940,600,61528
 싱가포르,新加坡,Singapore,57700,27,57367
 Uzbekistan,,Uzbekistan,55320,458,51829
 스위스,瑞士,Switzerland,51864,2064,42700
-알제리,阿尔及利亚,Algeria,50914,1711,35756
+알제리,阿尔及利亚,Algeria,51067,1714,35860
 Moldova,,Moldova,50875,1287,37842
 아르메니아,亚美尼亚,Armenia,49400,951,43613
 Ghana,,Ghana,46387,299,45618
@@ -104,8 +104,8 @@ Gabon,,Gabon,8728,54,7934
 Haiti,,Haiti,8723,227,6551
 요르단,约旦,Jordan,8492,45,4222
 룩셈부르크,卢森堡,Luxembourg,8357,124,6976
+Mozambique,,Mozambique,7983,58,4807
 Zimbabwe,,Zimbabwe,7803,227,6067
-Mozambique,,Mozambique,7757,54,4769
 Uganda,,Uganda,7530,73,3647
 Mauritania,,Mauritania,7462,161,7070
 Jamaica,,Jamaica,6017,89,1706
@@ -153,11 +153,11 @@ Burkina Faso,,Burkina Faso,1973,56,1264
 New Zealand,,New Zealand,1833,25,1749
 Belize,,Belize,1825,24,1165
 토고,多哥,Togo,1736,46,1319
-Cyprus,,Cyprus,1684,22,1369
+Cyprus,,Cyprus,1696,22,1369
 라트비아,约旦,Latvia,1676,36,1304
 French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1558,35,797
-Liberia,,Liberia,1338,82,1221
+Liberia,,Liberia,1339,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1194,69,1107
 Chad,,Chad,1177,83,1005
@@ -178,8 +178,8 @@ Saint Martin,,Saint Martin,383,8,273
 지브롤터,直布罗陀,Gibraltar,379,0,341
 Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
+Curaçao,,Curaçao,360,1,141
 Isle of Man,,Isle of Man,340,24,314
-Curaçao,,Curaçao,337,1,134
 Mongolia,,Mongolia,313,0,303
 캄보디아,柬埔寨,Cambodia,276,0,274
 부탄,不丹,Bhutan,271,0,205
