@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7319217,
-        "deaths": 209438,
-        "recovered": 4541419
+        "confirmed": 7319449,
+        "deaths": 209446,
+        "recovered": 4545761
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 702484,
-        "deaths": 15543,
-        "recovered": 556489
+        "confirmed": 711325,
+        "deaths": 15749,
+        "recovered": 565935
     },
     {
         "Name": "남아프리카 공화국",
@@ -747,7 +747,7 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10593,
+        "confirmed": 10612,
         "deaths": 271,
         "recovered": 10093
     },
@@ -851,9 +851,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7803,
+        "confirmed": 7812,
         "deaths": 227,
-        "recovered": 6067
+        "recovered": 6106
     },
     {
         "Name": "Uganda",
@@ -1019,8 +1019,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4321,
-        "deaths": 70,
+        "confirmed": 4362,
+        "deaths": 71,
         "recovered": 2234
     },
     {
@@ -1187,9 +1187,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 1998,
+        "confirmed": 2008,
         "deaths": 47,
-        "recovered": 1716
+        "recovered": 1728
     },
     {
         "Name": "Burkina Faso",

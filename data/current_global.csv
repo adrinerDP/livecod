@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7319217,209438,4541419
+미국,美国,United States,7319449,209446,4545761
 인도,印度,India,6073348,95574,5013367
 브라질,巴西,Brazil,4732309,141741,4060088
 러시아,俄罗斯,Russia,1151438,20324,943218
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,800142,32142,657836
 스페인,西班牙,Spain,735198,31232,0
 멕시코,墨西哥,Mexico,726431,76243,521241
-Argentina,,Argentina,702484,15543,556489
+Argentina,,Argentina,711325,15749,565935
 남아프리카 공화국,南非共和国,South Africa,670766,16398,603721
 프랑스,法国,France,538569,31727,94891
 칠레,智利,Chile,457901,12641,431704
@@ -92,7 +92,7 @@ Albania,,Albania,13259,377,7397
 Namibia,,Namibia,11033,120,8776
 말레이시아,马来西亚,Malaysia,10919,134,9835
 Myanmar,,Myanmar,10734,226,2862
-DRC,,DRC,10593,271,10093
+DRC,,DRC,10612,271,10093
 Guinea,,Guinea,10548,66,9865
 Montenegro,,Montenegro,10313,158,6456
 Maldives,,Maldives,10098,34,8847
@@ -105,7 +105,7 @@ Haiti,,Haiti,8723,227,6551
 요르단,约旦,Jordan,8492,45,4222
 룩셈부르크,卢森堡,Luxembourg,8357,124,6976
 Mozambique,,Mozambique,7983,58,4807
-Zimbabwe,,Zimbabwe,7803,227,6067
+Zimbabwe,,Zimbabwe,7812,227,6106
 Uganda,,Uganda,7530,73,3647
 Mauritania,,Mauritania,7462,161,7070
 Jamaica,,Jamaica,6017,89,1706
@@ -126,7 +126,7 @@ CAR,,CAR,4806,62,1840
 Angola,,Angola,4718,174,1707
 Guadeloupe,,Guadeloupe,4487,42,2199
 Lithuania,,Lithuania,4385,91,2327
-Trinidad and Tobago,,Trinidad and Tobago,4321,70,2234
+Trinidad and Tobago,,Trinidad and Tobago,4362,71,2234
 Syria,,Syria,4072,192,1062
 Aruba,,Aruba,3844,25,2948
 Bahamas,,Bahamas,3838,89,2005
@@ -147,7 +147,7 @@ Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
 Yemen,,Yemen,2030,587,1266
-Uruguay,,Uruguay,1998,47,1716
+Uruguay,,Uruguay,2008,47,1728
 Burkina Faso,,Burkina Faso,1973,56,1264
 안도라,安道尔,Andorra,1836,53,1263
 New Zealand,,New Zealand,1833,25,1749
