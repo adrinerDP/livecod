@@ -480,20 +480,20 @@
         "recovered": 43576
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "confirmed": 46251,
+        "deaths": 1063,
+        "recovered": 42453
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "confirmed": 46222,
         "deaths": 299,
         "recovered": 45417
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "confirmed": 46090,
-        "deaths": 1063,
-        "recovered": 42302
     },
     {
         "Name": "오스트리아",
