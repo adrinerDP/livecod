@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7288932,209196,4524383
-인도,印度,India,5996823,94559,4941627
+인도,印度,India,6005795,94582,4945998
 브라질,巴西,Brazil,4718115,141441,4050837
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
@@ -15,12 +15,12 @@ Argentina,,Argentina,702484,15543,556489
 영국,英国,UK,429277,41971,0
 Bangladesh,,Bangladesh,359148,5161,270491
 이라크,伊拉克,Iraq,345969,8935,276918
-사우디아라비아,沙特阿拉伯,Saudi Arabia,332790,4655,316405
+사우디아라비아,沙特阿拉伯,Saudi Arabia,333193,4683,317005
 터키,土耳其,Turkey,312966,7929,274514
 파키스탄,巴基斯坦,Pakistan,310275,6457,295613
 이탈리아,义大利,Italy,308104,35818,223693
 필리핀,菲律宾,Philippines,304226,5344,252510
-독일,德国,Germany,285025,9532,249500
+독일,德国,Germany,285270,9532,249500
 인도네시아,印度尼西亚,Indonesia,275213,10386,203014
 이스라엘,以色列,Israel,229374,1450,159136
 Ukraine,,Ukraine,198634,3959,87882
@@ -45,16 +45,16 @@ Guatemala,,Guatemala,89702,3213,78284
 일본,日本,Japan,81055,1540,74151
 벨라루스,白俄罗斯,Belarus,77609,818,74120
 Honduras,,Honduras,74548,2288,26088
+포르투갈,葡萄牙,Portugal,73604,1953,47647
 네팔,尼泊尔,Nepal,73394,477,53898
-포르투갈,葡萄牙,Portugal,72939,1944,47380
 Ethiopia,,Ethiopia,72700,1165,30029
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 Venezuela,,Venezuela,71940,600,61528
-바레인,巴林,Bahrain,68775,239,62252
+바레인,巴林,Bahrain,68775,242,62252
 체코,捷克,Czechia,63294,591,30936
 나이지리아,尼日利亚,Nigeria,58198,1106,49722
-싱가포르,新加坡,Singapore,57700,27,57359
-Uzbekistan,,Uzbekistan,54953,454,51458
+싱가포르,新加坡,Singapore,57700,27,57367
+Uzbekistan,,Uzbekistan,55320,458,51829
 스위스,瑞士,Switzerland,51864,2064,42600
 알제리,阿尔及利亚,Algeria,50914,1711,35756
 Moldova,,Moldova,50534,1279,37440
@@ -65,8 +65,8 @@ Ghana,,Ghana,46222,299,45417
 아제르바이잔,阿塞拜疆,Azerbaijan,40023,586,37655
 아프가니스탄,阿富汗,Afghanistan,39227,1453,32642
 팔레스타인,巴勒斯坦,Palestine,38703,291,29068
+Kenya,,Kenya,38115,691,24621
 Paraguay,,Paraguay,37922,782,21757
-Kenya,,Kenya,37871,689,24581
 레바논,黎巴嫩,Lebanon,35242,340,15434
 아일랜드,冰岛,Ireland,34560,1802,23364
 세르비아,塞尔维亚,Serbia,33384,747,31536
@@ -86,16 +86,16 @@ Madagascar,,Madagascar,16285,229,14922
 Tunisia,,Tunisia,15178,207,5032
 세네갈,塞内加尔,Senegal,14909,308,12113
 Zambia,,Zambia,14612,332,13727
-노르웨이,挪威,Norway,13627,270,11190
+노르웨이,挪威,Norway,13660,270,11190
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13153,375,7397
+Namibia,,Namibia,11033,120,8776
 말레이시아,马来西亚,Malaysia,10919,134,9835
-Namibia,,Namibia,10918,120,8749
+Myanmar,,Myanmar,10734,226,2862
 DRC,,DRC,10593,271,10093
 Guinea,,Guinea,10512,65,9836
 Montenegro,,Montenegro,10197,158,6368
 Maldives,,Maldives,10045,34,8754
-Myanmar,,Myanmar,9991,198,2681
 French Guiana,,French Guiana,9863,65,9500
 핀란드,芬兰,Finland,9682,343,7850
 Tajikistan,,Tajikistan,9646,75,8430
@@ -135,7 +135,7 @@ Somalia,,Somalia,3588,99,2943
 Gambia,,Gambia,3564,110,2061
 Mayotte,,Mayotte,3541,40,2964
 태국,泰国,Thailand,3523,59,3367
-스리랑카,斯里兰卡,Sri Lanka,3349,13,3208
+스리랑카,斯里兰卡,Sri Lanka,3352,13,3208
 에스토니아,爱沙尼亚,Estonia,3200,64,2506
 Mali,,Mali,3080,130,2410
 Malta,,Malta,2979,31,2358
