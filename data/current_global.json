@@ -339,8 +339,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 85980,
-        "deaths": 2424,
+        "confirmed": 87330,
+        "deaths": 2432,
         "recovered": 67904
     },
     {
@@ -947,9 +947,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5060,
+        "confirmed": 5066,
         "deaths": 105,
-        "recovered": 4777
+        "recovered": 4786
     },
     {
         "Name": "Equatorial Guinea",
