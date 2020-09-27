@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7298241,
-        "deaths": 209273,
-        "recovered": 4526924
+        "confirmed": 7299820,
+        "deaths": 209276,
+        "recovered": 4536625
     },
     {
         "Name": "인도",
@@ -83,8 +83,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 527446,
-        "deaths": 31700,
+        "confirmed": 538569,
+        "deaths": 31727,
         "recovered": 94891
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 285732,
+        "confirmed": 285821,
         "deaths": 9534,
         "recovered": 249500
     },
@@ -755,9 +755,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10512,
-        "deaths": 65,
-        "recovered": 9836
+        "confirmed": 10548,
+        "deaths": 66,
+        "recovered": 9865
     },
     {
         "Name": "Montenegro",
@@ -883,9 +883,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5766,
+        "confirmed": 5768,
         "deaths": 179,
-        "recovered": 4185
+        "recovered": 4206
     },
     {
         "Name": "Cabo Verde",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2208,
+        "confirmed": 2215,
         "deaths": 72,
-        "recovered": 1679
+        "recovered": 1681
     },
     {
         "Name": "Yemen",
