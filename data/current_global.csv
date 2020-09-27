@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7317189,209422,4540875
+미국,美国,United States,7318329,209425,4541338
 인도,印度,India,6073348,95574,5013367
-브라질,巴西,Brazil,4732309,141741,4050837
+브라질,巴西,Brazil,4732309,141741,4060088
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,806038,25296,700112
 페루,秘鲁,Peru,800142,32142,657836
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,359148,5161,270491
 인도네시아,印度尼西亚,Indonesia,275213,10386,203014
 이스라엘,以色列,Israel,231026,1466,159931
 Ukraine,,Ukraine,198634,3959,87882
-캐나다,加拿大,Canada,153058,9268,131086
+캐나다,加拿大,Canada,153125,9268,131098
 에콰도르,厄瓜多尔,Ecuador,134747,11279,112296
 Bolivia,,Bolivia,133592,7828,93406
 카타르,卡塔尔,Qatar,125084,214,121995
@@ -77,7 +77,7 @@ El Salvador,,El Salvador,28630,826,22879
 덴마크,丹麦,Denmark,26637,649,19650
 헝가리,匈牙利,Hungary,24014,736,5141
 카메룬,喀麦隆,Cameroon,20735,418,19440
-Bulgaria,,Bulgaria,19997,789,14160
+Bulgaria,,Bulgaria,20055,796,14176
 Ivory Coast,,Ivory Coast,19629,120,19163
 North Macedonia,,North Macedonia,17629,725,14581
 그리스,希腊,Greece,17444,379,9989
@@ -140,13 +140,13 @@ Mayotte,,Mayotte,3541,40,2964
 Mali,,Mali,3086,130,2420
 Malta,,Malta,2979,31,2358
 Botswana,,Botswana,2921,16,701
-Guyana,,Guyana,2725,74,1535
+Guyana,,Guyana,2772,76,1564
 South Sudan,,South Sudan,2686,49,1290
 Iceland,,Iceland,2623,10,2158
 Benin,,Benin,2325,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
-Yemen,,Yemen,2030,587,1260
+Yemen,,Yemen,2030,587,1266
 Uruguay,,Uruguay,1998,47,1716
 Burkina Faso,,Burkina Faso,1973,56,1264
 안도라,安道尔,Andorra,1836,53,1263
