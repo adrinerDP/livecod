@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7346183,
-        "deaths": 209672,
-        "recovered": 4596890
+        "confirmed": 7347290,
+        "deaths": 209679,
+        "recovered": 4597165
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 670766,
-        "deaths": 16398,
-        "recovered": 603721
+        "confirmed": 671669,
+        "deaths": 16586,
+        "recovered": 604478
     },
     {
         "Name": "프랑스",
@@ -203,16 +203,16 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 154575,
-        "deaths": 9270,
-        "recovered": 131429
+        "confirmed": 154628,
+        "deaths": 9271,
+        "recovered": 131947
     },
     {
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 134747,
-        "deaths": 11279,
+        "confirmed": 134965,
+        "deaths": 11280,
         "recovered": 112296
     },
     {
@@ -392,6 +392,14 @@
         "recovered": 30753
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 73714,
+        "deaths": 861,
+        "recovered": 29420
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
@@ -400,19 +408,11 @@
         "recovered": 62427
     },
     {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 72049,
-        "deaths": 828,
-        "recovered": 27760
-    },
-    {
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 69361,
-        "deaths": 243,
+        "deaths": 245,
         "recovered": 62887
     },
     {
@@ -755,9 +755,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10580,
+        "confirmed": 10598,
         "deaths": 66,
-        "recovered": 9892
+        "recovered": 9940
     },
     {
         "Name": "Montenegro",
