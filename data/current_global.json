@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7320669,
+        "confirmed": 7321343,
         "deaths": 209453,
-        "recovered": 4551321
+        "recovered": 4560456
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 726431,
-        "deaths": 76243,
-        "recovered": 521241
+        "confirmed": 730317,
+        "deaths": 76430,
+        "recovered": 523831
     },
     {
         "Name": "Argentina",
@@ -528,20 +528,20 @@
         "recovered": 29068
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 38684,
+        "deaths": 803,
+        "recovered": 22419
+    },
+    {
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
         "confirmed": 38115,
         "deaths": 691,
         "recovered": 24621
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 37922,
-        "deaths": 782,
-        "recovered": 21757
     },
     {
         "Name": "레바논",
@@ -1213,7 +1213,7 @@
         "Name_en": "New Zealand",
         "confirmed": 1833,
         "deaths": 25,
-        "recovered": 1749
+        "recovered": 1753
     },
     {
         "Name": "Belize",
@@ -1283,7 +1283,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1194,
+        "confirmed": 1196,
         "deaths": 69,
         "recovered": 1107
     },
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85351,
+        "confirmed": 85372,
         "deaths": 4634,
-        "recovered": 80541
+        "recovered": 80553
     }
 ]

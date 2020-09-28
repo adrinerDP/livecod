@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7320669,209453,4551321
+미국,美国,United States,7321343,209453,4560456
 인도,印度,India,6073348,95574,5013367
 브라질,巴西,Brazil,4732309,141776,4060088
 러시아,俄罗斯,Russia,1151438,20324,943218
 콜롬비아,哥伦比亚,Colombia,813056,25488,711472
 페루,秘鲁,Peru,805302,32262,664490
 스페인,西班牙,Spain,735198,31232,0
-멕시코,墨西哥,Mexico,726431,76243,521241
+멕시코,墨西哥,Mexico,730317,76430,523831
 Argentina,,Argentina,711325,15749,565935
 남아프리카 공화국,南非共和国,South Africa,670766,16398,603721
 프랑스,法国,France,538569,31727,94891
@@ -65,8 +65,8 @@ Kyrgyzstan,,Kyrgyzstan,46251,1063,42453
 아제르바이잔,阿塞拜疆,Azerbaijan,40023,586,37655
 아프가니스탄,阿富汗,Afghanistan,39227,1453,32642
 팔레스타인,巴勒斯坦,Palestine,38703,291,29068
+Paraguay,,Paraguay,38684,803,22419
 Kenya,,Kenya,38115,691,24621
-Paraguay,,Paraguay,37922,782,21757
 레바논,黎巴嫩,Lebanon,36254,347,16089
 아일랜드,冰岛,Ireland,34990,1802,23364
 세르비아,塞尔维亚,Serbia,33384,747,31536
@@ -150,7 +150,7 @@ Yemen,,Yemen,2030,587,1266
 Burkina Faso,,Burkina Faso,2008,56,1276
 Uruguay,,Uruguay,2008,47,1728
 안도라,安道尔,Andorra,1836,53,1263
-New Zealand,,New Zealand,1833,25,1749
+New Zealand,,New Zealand,1833,25,1753
 Belize,,Belize,1825,24,1165
 토고,多哥,Togo,1743,46,1330
 Cyprus,,Cyprus,1696,22,1369
@@ -159,7 +159,7 @@ French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1558,35,797
 Liberia,,Liberia,1339,82,1221
 Martinique,,Martinique,1290,20,98
-Niger,,Niger,1194,69,1107
+Niger,,Niger,1196,69,1107
 Chad,,Chad,1178,84,1005
 베트남,越南,Vietnam,1074,35,999
 Sao Tome and Principe,,Sao Tome and Principe,911,15,883
@@ -212,4 +212,4 @@ Vatican City,,Vatican City,12,0,12
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85351,4634,80541
+중국,中国,China,85372,4634,80553
