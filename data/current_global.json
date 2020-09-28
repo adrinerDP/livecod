@@ -283,9 +283,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107723,
+        "confirmed": 107775,
         "deaths": 1699,
-        "recovered": 102666
+        "recovered": 102736
     },
     {
         "Name": "쿠웨이트",
@@ -1331,7 +1331,7 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 681,
+        "confirmed": 682,
         "deaths": 5,
         "recovered": 620
     },
@@ -1347,7 +1347,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 633,
+        "confirmed": 644,
         "deaths": 22,
         "recovered": 532
     },
