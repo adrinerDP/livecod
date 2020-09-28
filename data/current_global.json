@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7321343,
-        "deaths": 209453,
-        "recovered": 4560456
+        "confirmed": 7321465,
+        "deaths": 209454,
+        "recovered": 4560742
     },
     {
         "Name": "인도",
@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 359148,
-        "deaths": 5161,
-        "recovered": 270491
+        "confirmed": 360555,
+        "deaths": 5193,
+        "recovered": 272073
     },
     {
         "Name": "이라크",
@@ -717,7 +717,15 @@
         "Name_en": "Albania",
         "confirmed": 13259,
         "deaths": 377,
-        "recovered": 7397
+        "recovered": 7534
+    },
+    {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 11034,
+        "deaths": 134,
+        "recovered": 9889
     },
     {
         "Name": "Namibia",
@@ -726,14 +734,6 @@
         "confirmed": 11033,
         "deaths": 120,
         "recovered": 8776
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 10919,
-        "deaths": 134,
-        "recovered": 9835
     },
     {
         "Name": "Myanmar",
@@ -787,7 +787,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 9682,
+        "confirmed": 9743,
         "deaths": 343,
         "recovered": 7850
     },
