@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7321465,
-        "deaths": 209454,
-        "recovered": 4560742
+        "confirmed": 7322405,
+        "deaths": 209470,
+        "recovered": 4560771
     },
     {
         "Name": "인도",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 286893,
+        "confirmed": 287269,
         "deaths": 9535,
         "recovered": 250800
     },
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 26920,
-        "deaths": 822,
-        "recovered": 19746
+        "confirmed": 27001,
+        "deaths": 829,
+        "recovered": 20005
     },
     {
         "Name": "헝가리",
@@ -1019,9 +1019,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4362,
-        "deaths": 71,
-        "recovered": 2234
+        "confirmed": 4382,
+        "deaths": 72,
+        "recovered": 2275
     },
     {
         "Name": "Syria",
@@ -1200,20 +1200,20 @@
         "recovered": 1728
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 1966,
+        "deaths": 53,
+        "recovered": 1265
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
         "confirmed": 1854,
         "deaths": 24,
         "recovered": 1196
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "confirmed": 1836,
-        "deaths": 53,
-        "recovered": 1263
     },
     {
         "Name": "New Zealand",
@@ -1259,9 +1259,9 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1558,
+        "confirmed": 1565,
         "deaths": 35,
-        "recovered": 797
+        "recovered": 822
     },
     {
         "Name": "Liberia",
@@ -1435,9 +1435,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 360,
+        "confirmed": 366,
         "deaths": 1,
-        "recovered": 141
+        "recovered": 148
     },
     {
         "Name": "Isle of Man",
