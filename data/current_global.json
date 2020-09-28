@@ -475,9 +475,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 49400,
-        "deaths": 951,
-        "recovered": 43613
+        "confirmed": 49574,
+        "deaths": 957,
+        "recovered": 43665
     },
     {
         "Name": "Ghana",
@@ -896,6 +896,14 @@
         "recovered": 4206
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 5552,
+        "deaths": 31,
+        "recovered": 2054
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -926,14 +934,6 @@
         "confirmed": 5350,
         "deaths": 147,
         "recovered": 3555
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 5254,
-        "deaths": 28,
-        "recovered": 1906
     },
     {
         "Name": "Nicaragua",

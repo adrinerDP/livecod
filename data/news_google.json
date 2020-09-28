@@ -24,10 +24,6 @@
         "link": "https://www.scmp.com/news/china/science/article/3103248/mothers-milk-could-help-fight-coronavirus-study-finds"
     },
     {
-        "title": "New Zealanders may be able to travel to some Australian states before Christmas, Ardern says",
-        "link": "https://www.reuters.com/article/uk-health-coronavirus-newzealand-idUKKBN26I111"
-    },
-    {
         "title": "CBS's Margaret Brennan Confronts Trump Aide On FDA Interference: 'You're Not A Doctor'",
         "link": "https://www.huffpost.com/entry/white-house-mark-meadows-fda-vaccine_n_5f70acb0c5b61af20e7721b4"
     },
@@ -38,5 +34,9 @@
     {
         "title": "Coronavirus death toll quickly approaches 1 million",
         "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
+    },
+    {
+        "title": "Coronavirus global death toll passes 1 million",
+        "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
     }
 ]
