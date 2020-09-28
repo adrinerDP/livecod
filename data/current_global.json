@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7328926,
-        "deaths": 209526,
-        "recovered": 4577350
+        "confirmed": 7331020,
+        "deaths": 209556,
+        "recovered": 4577409
     },
     {
         "Name": "인도",
@@ -728,20 +728,20 @@
         "recovered": 3073
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 11121,
+        "deaths": 121,
+        "recovered": 8787
+    },
+    {
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
         "confirmed": 11034,
         "deaths": 134,
         "recovered": 9889
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 11033,
-        "deaths": 120,
-        "recovered": 8776
     },
     {
         "Name": "DRC",
@@ -1475,9 +1475,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 210,
+        "confirmed": 212,
         "deaths": 2,
-        "recovered": 169
+        "recovered": 174
     },
     {
         "Name": "Cayman Islands",
