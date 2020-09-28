@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7349691,
-        "deaths": 209709,
-        "recovered": 4599250
+        "confirmed": 7354730,
+        "deaths": 209723,
+        "recovered": 4603730
     },
     {
         "Name": "인도",
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4736831,
-        "deaths": 141877,
-        "recovered": 4060088
+        "confirmed": 4745464,
+        "deaths": 142058,
+        "recovered": 4084182
     },
     {
         "Name": "러시아",
@@ -35,17 +35,17 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 813056,
-        "deaths": 25488,
-        "recovered": 711472
+        "confirmed": 818203,
+        "deaths": 25641,
+        "recovered": 722536
     },
     {
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 805302,
-        "deaths": 32262,
-        "recovered": 664490
+        "confirmed": 808714,
+        "deaths": 32324,
+        "recovered": 670989
     },
     {
         "Name": "스페인",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 155034,
-        "deaths": 9275,
-        "recovered": 132297
+        "confirmed": 155301,
+        "deaths": 9278,
+        "recovered": 132607
     },
     {
         "Name": "에콰도르",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 58324,
-        "deaths": 1108,
-        "recovered": 49794
+        "confirmed": 58460,
+        "deaths": 1111,
+        "recovered": 49895
     },
     {
         "Name": "싱가포르",
@@ -619,7 +619,7 @@
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
-        "confirmed": 20735,
+        "confirmed": 20838,
         "deaths": 418,
         "recovered": 19440
     },
@@ -867,9 +867,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7464,
+        "confirmed": 7474,
         "deaths": 161,
-        "recovered": 7070
+        "recovered": 7091
     },
     {
         "Name": "Jamaica",
@@ -995,9 +995,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 4718,
-        "deaths": 174,
-        "recovered": 1707
+        "confirmed": 4797,
+        "deaths": 176,
+        "recovered": 1813
     },
     {
         "Name": "Lithuania",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 911,
         "deaths": 15,
-        "recovered": 883
+        "recovered": 885
     },
     {
         "Name": "산마리노",

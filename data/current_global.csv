@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7349691,209709,4599250
+미국,美国,United States,7354730,209723,4603730
 인도,印度,India,6143019,96351,5098573
-브라질,巴西,Brazil,4736831,141877,4060088
+브라질,巴西,Brazil,4745464,142058,4084182
 러시아,俄罗斯,Russia,1159573,20385,945920
-콜롬비아,哥伦比亚,Colombia,813056,25488,711472
-페루,秘鲁,Peru,805302,32262,664490
+콜롬비아,哥伦比亚,Colombia,818203,25641,722536
+페루,秘鲁,Peru,808714,32324,670989
 스페인,西班牙,Spain,748266,31411,0
 멕시코,墨西哥,Mexico,730317,76430,523831
 Argentina,,Argentina,711325,15749,565935
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,360555,5193,272073
 인도네시아,印度尼西亚,Indonesia,278722,10473,206870
 이스라엘,以色列,Israel,233265,1507,165191
 Ukraine,,Ukraine,201305,3996,88453
-캐나다,加拿大,Canada,155034,9275,132297
+캐나다,加拿大,Canada,155301,9278,132607
 에콰도르,厄瓜多尔,Ecuador,134965,11280,112296
 Bolivia,,Bolivia,133901,7858,93791
 카타르,卡塔尔,Qatar,125311,214,122209
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,73944,1177,30753
 Venezuela,,Venezuela,72691,606,62427
 바레인,巴林,Bahrain,69848,245,63549
 체코,捷克,Czechia,65313,615,31268
-나이지리아,尼日利亚,Nigeria,58324,1108,49794
+나이지리아,尼日利亚,Nigeria,58460,1111,49895
 싱가포르,新加坡,Singapore,57715,27,57393
 Uzbekistan,,Uzbekistan,55776,460,52324
 스위스,瑞士,Switzerland,52646,2065,42700
@@ -76,7 +76,7 @@ El Salvador,,El Salvador,28809,831,23317
 호주,澳大利亚,Australia,27044,875,24676
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27001,829,20005
 헝가리,匈牙利,Hungary,24716,749,5152
-카메룬,喀麦隆,Cameroon,20735,418,19440
+카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20271,807,14339
 Ivory Coast,,Ivory Coast,19641,120,19202
 그리스,希腊,Greece,17707,383,9989
@@ -107,7 +107,7 @@ Gabon,,Gabon,8728,54,7934
 Mozambique,,Mozambique,8288,59,4836
 Zimbabwe,,Zimbabwe,7816,228,6112
 Uganda,,Uganda,7777,75,4033
-Mauritania,,Mauritania,7464,161,7070
+Mauritania,,Mauritania,7474,161,7091
 Jamaica,,Jamaica,6170,93,1741
 Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5770,179,4243
@@ -123,7 +123,7 @@ Congo,,Congo,5008,89,3887
 Suriname,,Suriname,4835,102,4661
 Rwanda,,Rwanda,4832,29,3117
 CAR,,CAR,4806,62,1840
-Angola,,Angola,4718,174,1707
+Angola,,Angola,4797,176,1813
 Lithuania,,Lithuania,4490,92,2327
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4382,72,2275
@@ -162,7 +162,7 @@ Martinique,,Martinique,1290,20,98
 Niger,,Niger,1196,69,1110
 Chad,,Chad,1185,85,1006
 베트남,越南,Vietnam,1077,35,999
-Sao Tome and Principe,,Sao Tome and Principe,911,15,883
+Sao Tome and Principe,,Sao Tome and Principe,911,15,885
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,682,5,620
