@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 286420,
-        "deaths": 9534,
+        "confirmed": 286893,
+        "deaths": 9535,
         "recovered": 250800
     },
     {
@@ -248,20 +248,20 @@
         "recovered": 95591
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 114540,
+        "deaths": 6380,
+        "recovered": 0
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
         "confirmed": 114179,
         "deaths": 9980,
         "recovered": 19275
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 111626,
-        "deaths": 6374,
-        "recovered": 0
     },
     {
         "Name": "도미니카 공화국",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 55593,
+        "confirmed": 55776,
         "deaths": 460,
-        "recovered": 51965
+        "recovered": 52324
     },
     {
         "Name": "스위스",
@@ -571,9 +571,9 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 32364,
-        "deaths": 520,
-        "recovered": 18128
+        "confirmed": 33213,
+        "deaths": 527,
+        "recovered": 18518
     },
     {
         "Name": "El Salvador",
@@ -582,6 +582,14 @@
         "confirmed": 28809,
         "deaths": 831,
         "recovered": 23317
+    },
+    {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 27072,
+        "deaths": 649,
+        "recovered": 19942
     },
     {
         "Name": "호주",
@@ -598,14 +606,6 @@
         "confirmed": 26920,
         "deaths": 822,
         "recovered": 19746
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 26637,
-        "deaths": 649,
-        "recovered": 19650
     },
     {
         "Name": "헝가리",
