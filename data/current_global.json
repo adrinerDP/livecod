@@ -11,16 +11,16 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6087454,
-        "deaths": 95678,
-        "recovered": 5025815
+        "confirmed": 6137941,
+        "deaths": 96275,
+        "recovered": 5087812
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4736831,
-        "deaths": 141776,
+        "deaths": 141877,
         "recovered": 4060088
     },
     {
@@ -51,8 +51,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 735198,
-        "deaths": 31232,
+        "confirmed": 748266,
+        "deaths": 31411,
         "recovered": 0
     },
     {
@@ -83,8 +83,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 538569,
-        "deaths": 31727,
+        "confirmed": 542639,
+        "deaths": 31808,
         "recovered": 94891
     },
     {
@@ -243,9 +243,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 117685,
-        "deaths": 2069,
-        "recovered": 95591
+        "confirmed": 119107,
+        "deaths": 2113,
+        "recovered": 97468
     },
     {
         "Name": "네덜란드",
@@ -387,9 +387,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 73332,
-        "deaths": 1170,
-        "recovered": 30363
+        "confirmed": 73944,
+        "deaths": 1177,
+        "recovered": 30753
     },
     {
         "Name": "Venezuela",
@@ -555,7 +555,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 34990,
+        "confirmed": 35377,
         "deaths": 1802,
         "recovered": 23364
     },
@@ -771,9 +771,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10098,
+        "confirmed": 10157,
         "deaths": 34,
-        "recovered": 8847
+        "recovered": 8950
     },
     {
         "Name": "French Guiana",
