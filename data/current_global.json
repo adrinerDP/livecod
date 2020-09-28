@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7325037,
-        "deaths": 209502,
-        "recovered": 4571236
+        "confirmed": 7327197,
+        "deaths": 209521,
+        "recovered": 4572403
     },
     {
         "Name": "인도",
@@ -19,7 +19,7 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4732309,
+        "confirmed": 4736831,
         "deaths": 141776,
         "recovered": 4060088
     },
@@ -419,8 +419,8 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 64597,
-        "deaths": 606,
+        "confirmed": 65313,
+        "deaths": 615,
         "recovered": 31268
     },
     {
@@ -456,20 +456,20 @@
         "recovered": 42700
     },
     {
+        "Name": "알제리",
+        "Name_ch": "阿尔及利亚",
+        "Name_en": "Algeria",
+        "confirmed": 51213,
+        "deaths": 1719,
+        "recovered": 35962
+    },
+    {
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
         "confirmed": 51194,
         "deaths": 1301,
         "recovered": 38217
-    },
-    {
-        "Name": "알제리",
-        "Name_ch": "阿尔及利亚",
-        "Name_en": "Algeria",
-        "confirmed": 51067,
-        "deaths": 1714,
-        "recovered": 35860
     },
     {
         "Name": "아르메니아",
@@ -659,9 +659,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16285,
+        "confirmed": 16348,
         "deaths": 229,
-        "recovered": 14922
+        "recovered": 14947
     },
     {
         "Name": "크로아티아",
@@ -923,7 +923,7 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5409,
+        "confirmed": 5410,
         "deaths": 61,
         "recovered": 5340
     },
@@ -1139,7 +1139,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2686,
+        "confirmed": 2692,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1179,7 +1179,7 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2030,
+        "confirmed": 2031,
         "deaths": 587,
         "recovered": 1266
     },

@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7325037,209502,4571236
+미국,美国,United States,7327197,209521,4572403
 인도,印度,India,6087454,95678,5025815
-브라질,巴西,Brazil,4732309,141776,4060088
+브라질,巴西,Brazil,4736831,141776,4060088
 러시아,俄罗斯,Russia,1159573,20385,945920
 콜롬비아,哥伦比亚,Colombia,813056,25488,711472
 페루,秘鲁,Peru,805302,32262,664490
@@ -51,13 +51,13 @@ Ethiopia,,Ethiopia,73332,1170,30363
 Venezuela,,Venezuela,72691,606,62427
 코스타리카,哥斯达黎加,Costa Rica,72049,828,27760
 바레인,巴林,Bahrain,69361,243,62887
-체코,捷克,Czechia,64597,606,31268
+체코,捷克,Czechia,65313,615,31268
 나이지리아,尼日利亚,Nigeria,58324,1108,49794
 싱가포르,新加坡,Singapore,57715,27,57393
 Uzbekistan,,Uzbekistan,55776,460,52324
 스위스,瑞士,Switzerland,52646,2065,42700
+알제리,阿尔及利亚,Algeria,51213,1719,35962
 Moldova,,Moldova,51194,1301,38217
-알제리,阿尔及利亚,Algeria,51067,1714,35860
 아르메니아,亚美尼亚,Armenia,49574,957,43665
 Ghana,,Ghana,46387,299,45618
 Kyrgyzstan,,Kyrgyzstan,46355,1064,42613
@@ -81,7 +81,7 @@ Bulgaria,,Bulgaria,20055,796,14176
 Ivory Coast,,Ivory Coast,19629,120,19163
 그리스,希腊,Greece,17707,383,9989
 North Macedonia,,North Macedonia,17674,729,14642
-Madagascar,,Madagascar,16285,229,14922
+Madagascar,,Madagascar,16348,229,14947
 크로아티아,克罗地亚,Croatia,16245,272,14793
 Tunisia,,Tunisia,16114,214,5032
 세네갈,塞内加尔,Senegal,14919,309,12231
@@ -114,7 +114,7 @@ Malawi,,Malawi,5768,179,4206
 조지아,格鲁吉亚,Georgia,5552,32,2054
 Cuba,,Cuba,5483,122,4787
 Eswatini,,Eswatini,5431,108,4821
-Djibouti,,Djibouti,5409,61,5340
+Djibouti,,Djibouti,5410,61,5340
 슬로베니아,斯洛文尼亚,Slovenia,5388,149,3600
 홍콩,香港,Hong Kong,5076,105,4790
 Nicaragua,,Nicaragua,5073,149,2913
@@ -141,12 +141,12 @@ Mali,,Mali,3090,130,2439
 Malta,,Malta,3006,32,2399
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2772,76,1564
-South Sudan,,South Sudan,2686,49,1290
+South Sudan,,South Sudan,2692,49,1290
 Iceland,,Iceland,2663,10,2161
 Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
-Yemen,,Yemen,2030,587,1266
+Yemen,,Yemen,2031,587,1266
 Burkina Faso,,Burkina Faso,2008,56,1276
 Uruguay,,Uruguay,2008,47,1728
 안도라,安道尔,Andorra,1966,53,1265
