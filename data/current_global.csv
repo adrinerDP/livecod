@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7327197,209521,4572403
+미국,美国,United States,7328926,209526,4577350
 인도,印度,India,6087454,95678,5025815
 브라질,巴西,Brazil,4736831,141776,4060088
 러시아,俄罗斯,Russia,1159573,20385,945920
@@ -10,19 +10,19 @@
 Argentina,,Argentina,711325,15749,565935
 남아프리카 공화국,南非共和国,South Africa,670766,16398,603721
 프랑스,法国,France,538569,31727,94891
-칠레,智利,Chile,457901,12641,431704
+칠레,智利,Chile,459671,12698,433016
 이란,伊朗,Iran,449960,25779,376531
 영국,英国,UK,439013,42001,0
 Bangladesh,,Bangladesh,360555,5193,272073
 이라크,伊拉克,Iraq,353566,9052,284784
 사우디아라비아,沙特阿拉伯,Saudi Arabia,333648,4712,317846
-터키,土耳其,Turkey,314433,7997,275630
+터키,土耳其,Turkey,315845,8062,277052
 이탈리아,义大利,Italy,311364,35851,225190
 파키스탄,巴基斯坦,Pakistan,310841,6466,296022
 필리핀,菲律宾,Philippines,307288,5381,252665
 독일,德国,Germany,287786,9539,250800
 인도네시아,印度尼西亚,Indonesia,278722,10473,206870
-이스라엘,以色列,Israel,231026,1466,159931
+이스라엘,以色列,Israel,233118,1499,164980
 Ukraine,,Ukraine,201305,3996,88453
 캐나다,加拿大,Canada,154575,9270,131429
 에콰도르,厄瓜多尔,Ecuador,134747,11279,112296
@@ -104,7 +104,7 @@ Tajikistan,,Tajikistan,9685,75,8483
 Haiti,,Haiti,8740,227,6688
 Gabon,,Gabon,8728,54,7934
 룩셈부르크,卢森堡,Luxembourg,8376,124,7128
-Mozambique,,Mozambique,7983,58,4807
+Mozambique,,Mozambique,8288,59,4836
 Zimbabwe,,Zimbabwe,7812,227,6106
 Uganda,,Uganda,7777,75,4033
 Mauritania,,Mauritania,7464,161,7070
@@ -178,7 +178,7 @@ Saint Martin,,Saint Martin,383,8,273
 지브롤터,直布罗陀,Gibraltar,382,0,341
 Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
-Curaçao,,Curaçao,366,1,148
+Curaçao,,Curaçao,364,1,148
 Isle of Man,,Isle of Man,340,24,314
 Mongolia,,Mongolia,313,0,305
 캄보디아,柬埔寨,Cambodia,276,0,275
@@ -191,7 +191,7 @@ Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,143,0,140
 리히텐슈타인,列支敦士登,Liechtenstein,117,1,110
 Antigua and Barbuda,,Antigua and Barbuda,101,3,92
-Caribbean Netherlands,,Caribbean Netherlands,85,1,21
+Caribbean Netherlands,,Caribbean Netherlands,88,1,21
 British Virgin Islands,,British Virgin Islands,71,1,62
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 St. Barth,,St. Barth,48,0,25
