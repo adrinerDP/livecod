@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7321465,209454,4560742
-인도,印度,India,6078200,95600,5016520
+인도,印度,India,6079350,95606,5017534
 브라질,巴西,Brazil,4732309,141776,4060088
 러시아,俄罗斯,Russia,1159573,20385,945920
 콜롬비아,哥伦比亚,Colombia,813056,25488,711472
@@ -43,7 +43,7 @@ Kazakhstan,,Kazakhstan,107775,1699,102736
 Guatemala,,Guatemala,90092,3229,78698
 폴란드,波兰,Poland,88636,2447,68420
 일본,日本,Japan,81690,1545,74607
-벨라루스,白俄罗斯,Belarus,77609,818,74120
+벨라루스,白俄罗斯,Belarus,77946,822,74167
 Honduras,,Honduras,75109,2289,26374
 네팔,尼泊尔,Nepal,74745,481,54640
 포르투갈,葡萄牙,Portugal,73604,1953,47647
@@ -62,7 +62,7 @@ Moldova,,Moldova,50875,1287,37842
 Ghana,,Ghana,46387,299,45618
 Kyrgyzstan,,Kyrgyzstan,46355,1064,42613
 오스트리아,奥地利,Austria,43432,790,34052
-아제르바이잔,阿塞拜疆,Azerbaijan,40023,586,37655
+아제르바이잔,阿塞拜疆,Azerbaijan,40061,588,37725
 아프가니스탄,阿富汗,Afghanistan,39233,1455,32642
 팔레스타인,巴勒斯坦,Palestine,38703,291,29068
 Paraguay,,Paraguay,38684,803,22419
@@ -97,7 +97,7 @@ Guinea,,Guinea,10580,66,9892
 Montenegro,,Montenegro,10313,158,6456
 Maldives,,Maldives,10098,34,8847
 French Guiana,,French Guiana,9863,65,9500
-핀란드,芬兰,Finland,9743,343,7850
+핀란드,芬兰,Finland,9743,345,7850
 Tajikistan,,Tajikistan,9646,75,8430
 슬로바키아,斯洛伐克,Slovakia,9343,44,4213
 Haiti,,Haiti,8740,227,6688
