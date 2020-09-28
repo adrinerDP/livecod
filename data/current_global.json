@@ -147,9 +147,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 310275,
-        "deaths": 6457,
-        "recovered": 295613
+        "confirmed": 310841,
+        "deaths": 6466,
+        "recovered": 296022
     },
     {
         "Name": "이탈리아",
@@ -363,9 +363,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 74548,
-        "deaths": 2288,
-        "recovered": 26088
+        "confirmed": 75109,
+        "deaths": 2289,
+        "recovered": 26374
     },
     {
         "Name": "포르투갈",
@@ -1200,6 +1200,14 @@
         "recovered": 1728
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 1854,
+        "deaths": 24,
+        "recovered": 1196
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
@@ -1214,14 +1222,6 @@
         "confirmed": 1833,
         "deaths": 25,
         "recovered": 1753
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 1825,
-        "deaths": 24,
-        "recovered": 1165
     },
     {
         "Name": "토고",
