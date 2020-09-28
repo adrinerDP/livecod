@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7354730,209723,4603730
+미국,美国,United States,7357603,209741,4604284
 인도,印度,India,6143019,96351,5098573
-브라질,巴西,Brazil,4745464,142058,4084182
+브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1159573,20385,945920
 콜롬비아,哥伦比亚,Colombia,818203,25641,722536
 페루,秘鲁,Peru,808714,32324,670989
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,360555,5193,272073
 이탈리아,义大利,Italy,311364,35851,225190
 파키스탄,巴基斯坦,Pakistan,310841,6466,296022
 필리핀,菲律宾,Philippines,307288,5381,252665
-독일,德国,Germany,288617,9545,250800
+독일,德国,Germany,288618,9545,252400
 인도네시아,印度尼西亚,Indonesia,278722,10473,206870
 이스라엘,以色列,Israel,233265,1507,165191
 Ukraine,,Ukraine,201305,3996,88453
@@ -33,7 +33,7 @@ Bolivia,,Bolivia,133901,7858,93791
 네덜란드,荷兰,Netherlands,114540,6380,0
 벨기에,比利时,Belgium,114179,9980,19275
 도미니카 공화국,多明尼加共和国,Dominican Republic,111666,2098,86422
-Panama,,Panama,110555,2340,87215
+Panama,,Panama,111277,2348,87695
 Kazakhstan,,Kazakhstan,107775,1699,102736
 쿠웨이트,科威特,Kuwait,103981,605,95511
 이집트,埃及,Egypt,102955,5901,95586
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,73944,1177,30753
 코스타리카,哥斯达黎加,Costa Rica,73714,861,29420
 Venezuela,,Venezuela,72691,606,62427
 바레인,巴林,Bahrain,69848,245,63549
-체코,捷克,Czechia,65313,615,31268
+체코,捷克,Czechia,65883,618,31799
 나이지리아,尼日利亚,Nigeria,58460,1111,49895
 싱가포르,新加坡,Singapore,57715,27,57393
 Uzbekistan,,Uzbekistan,55776,460,52324
@@ -86,7 +86,7 @@ Madagascar,,Madagascar,16348,229,14947
 Tunisia,,Tunisia,16114,214,5032
 세네갈,塞内加尔,Senegal,14919,309,12231
 Zambia,,Zambia,14660,332,13821
-노르웨이,挪威,Norway,13741,274,11190
+노르웨이,挪威,Norway,13788,274,11190
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13391,380,7629
 Myanmar,,Myanmar,11631,256,3073
@@ -126,7 +126,7 @@ CAR,,CAR,4806,62,1840
 Angola,,Angola,4797,176,1813
 Lithuania,,Lithuania,4490,92,2327
 Guadeloupe,,Guadeloupe,4487,42,2199
-Trinidad and Tobago,,Trinidad and Tobago,4382,72,2275
+Trinidad and Tobago,,Trinidad and Tobago,4386,72,2275
 Syria,,Syria,4102,194,1074
 Réunion,,Réunion,3882,14,2819
 Aruba,,Aruba,3872,25,3037
@@ -147,8 +147,8 @@ Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
 Yemen,,Yemen,2031,587,1266
+Uruguay,,Uruguay,2010,47,1755
 Burkina Faso,,Burkina Faso,2008,56,1276
-Uruguay,,Uruguay,2008,47,1728
 안도라,安道尔,Andorra,1966,53,1265
 Belize,,Belize,1854,24,1196
 New Zealand,,New Zealand,1833,25,1753
