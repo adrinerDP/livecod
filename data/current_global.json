@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7342757,
-        "deaths": 209631,
-        "recovered": 4593627
+        "confirmed": 7346183,
+        "deaths": 209672,
+        "recovered": 4596890
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6137941,
-        "deaths": 96275,
-        "recovered": 5087812
+        "confirmed": 6143019,
+        "deaths": 96351,
+        "recovered": 5098573
     },
     {
         "Name": "브라질",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 233118,
-        "deaths": 1499,
-        "recovered": 164980
+        "confirmed": 233265,
+        "deaths": 1507,
+        "recovered": 165191
     },
     {
         "Name": "Ukraine",
@@ -635,9 +635,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19629,
+        "confirmed": 19641,
         "deaths": 120,
-        "recovered": 19163
+        "recovered": 19202
     },
     {
         "Name": "그리스",
@@ -883,7 +883,7 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 5771,
+        "confirmed": 5817,
         "deaths": 59,
         "recovered": 5134
     },
