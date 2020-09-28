@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7324393,209492,4561184
+미국,美国,United States,7325037,209502,4571236
 인도,印度,India,6087454,95678,5025815
 브라질,巴西,Brazil,4732309,141776,4060088
 러시아,俄罗斯,Russia,1159573,20385,945920
@@ -12,7 +12,7 @@ Argentina,,Argentina,711325,15749,565935
 프랑스,法国,France,538569,31727,94891
 칠레,智利,Chile,457901,12641,431704
 이란,伊朗,Iran,449960,25779,376531
-영국,英国,UK,434969,41988,0
+영국,英国,UK,439013,42001,0
 Bangladesh,,Bangladesh,360555,5193,272073
 이라크,伊拉克,Iraq,353566,9052,284784
 사우디아라비아,沙特阿拉伯,Saudi Arabia,333648,4712,317846
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,360555,5193,272073
 이탈리아,义大利,Italy,311364,35851,225190
 파키스탄,巴基斯坦,Pakistan,310841,6466,296022
 필리핀,菲律宾,Philippines,307288,5381,252665
-독일,德国,Germany,287388,9538,250800
+독일,德国,Germany,287585,9539,250800
 인도네시아,印度尼西亚,Indonesia,278722,10473,206870
 이스라엘,以色列,Israel,231026,1466,159931
 Ukraine,,Ukraine,201305,3996,88453
@@ -56,8 +56,8 @@ Venezuela,,Venezuela,72691,606,62427
 싱가포르,新加坡,Singapore,57715,27,57367
 Uzbekistan,,Uzbekistan,55776,460,52324
 스위스,瑞士,Switzerland,52646,2065,42700
+Moldova,,Moldova,51194,1301,38217
 알제리,阿尔及利亚,Algeria,51067,1714,35860
-Moldova,,Moldova,50875,1287,37842
 아르메니아,亚美尼亚,Armenia,49574,957,43665
 Ghana,,Ghana,46387,299,45618
 Kyrgyzstan,,Kyrgyzstan,46355,1064,42613
@@ -94,9 +94,9 @@ Myanmar,,Myanmar,11631,256,3073
 Namibia,,Namibia,11033,120,8776
 DRC,,DRC,10624,271,10093
 Guinea,,Guinea,10580,66,9892
-Montenegro,,Montenegro,10313,158,6456
+Montenegro,,Montenegro,10441,163,6720
 Maldives,,Maldives,10098,34,8847
-French Guiana,,French Guiana,9863,65,9500
+French Guiana,,French Guiana,9895,65,9536
 핀란드,芬兰,Finland,9743,345,7850
 Tajikistan,,Tajikistan,9685,75,8483
 슬로바키아,斯洛伐克,Slovakia,9343,44,4213
@@ -137,7 +137,7 @@ Gambia,,Gambia,3569,111,2161
 Mayotte,,Mayotte,3541,40,2964
 스리랑카,斯里兰卡,Sri Lanka,3360,13,3210
 에스토니아,爱沙尼亚,Estonia,3267,64,2513
-Mali,,Mali,3086,130,2420
+Mali,,Mali,3090,130,2439
 Malta,,Malta,3006,32,2399
 Botswana,,Botswana,2921,16,701
 Guyana,,Guyana,2772,76,1564
@@ -153,8 +153,8 @@ Uruguay,,Uruguay,2008,47,1728
 Belize,,Belize,1854,24,1196
 New Zealand,,New Zealand,1833,25,1753
 토고,多哥,Togo,1743,46,1330
+Cyprus,,Cyprus,1713,22,1369
 라트비아,约旦,Latvia,1697,36,1304
-Cyprus,,Cyprus,1696,22,1369
 French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1565,35,822
 Liberia,,Liberia,1342,82,1221
