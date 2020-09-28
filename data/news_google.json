@@ -32,11 +32,11 @@
         "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-09-28-20-intl/index.html"
     },
     {
-        "title": "Coronavirus death toll quickly approaches 1 million",
-        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
-    },
-    {
         "title": "Coronavirus global death toll passes 1 million",
         "link": "https://www.upi.com/Top_News/World-News/2020/09/27/Coronavirus-global-death-toll-passes-1-million/5621601212639/"
+    },
+    {
+        "title": "Coronavirus death toll quickly approaches 1 million",
+        "link": "https://www.washingtonpost.com/graphics/2020/world/coronavirus-deaths-1-million/"
     }
 ]
