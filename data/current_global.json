@@ -808,20 +808,20 @@
         "recovered": 4178
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "confirmed": 8740,
+        "deaths": 227,
+        "recovered": 6688
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "confirmed": 8728,
         "deaths": 54,
         "recovered": 7934
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "confirmed": 8723,
-        "deaths": 227,
-        "recovered": 6551
     },
     {
         "Name": "요르단",
