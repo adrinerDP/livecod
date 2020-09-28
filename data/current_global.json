@@ -499,9 +499,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 42876,
-        "deaths": 787,
-        "recovered": 33589
+        "confirmed": 43432,
+        "deaths": 790,
+        "recovered": 34052
     },
     {
         "Name": "아제르바이잔",
@@ -1000,20 +1000,20 @@
         "recovered": 1707
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 4490,
+        "deaths": 92,
+        "recovered": 2327
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "confirmed": 4487,
         "deaths": 42,
         "recovered": 2199
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 4385,
-        "deaths": 91,
-        "recovered": 2327
     },
     {
         "Name": "Trinidad and Tobago",
