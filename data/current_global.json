@@ -515,8 +515,8 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39227,
-        "deaths": 1453,
+        "confirmed": 39233,
+        "deaths": 1455,
         "recovered": 32642
     },
     {
@@ -589,7 +589,7 @@
         "Name_en": "Australia",
         "confirmed": 27044,
         "deaths": 875,
-        "recovered": 24632
+        "recovered": 24676
     },
     {
         "Name": "보스니아 헤르체고비나",
