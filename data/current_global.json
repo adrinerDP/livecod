@@ -251,9 +251,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 112803,
-        "deaths": 9974,
-        "recovered": 19246
+        "confirmed": 114179,
+        "deaths": 9980,
+        "recovered": 19275
     },
     {
         "Name": "네덜란드",
@@ -1461,7 +1461,7 @@
         "Name_en": "Cambodia",
         "confirmed": 276,
         "deaths": 0,
-        "recovered": 274
+        "recovered": 275
     },
     {
         "Name": "부탄",
