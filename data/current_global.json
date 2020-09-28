@@ -579,9 +579,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 28630,
-        "deaths": 826,
-        "recovered": 22879
+        "confirmed": 28809,
+        "deaths": 831,
+        "recovered": 23317
     },
     {
         "Name": "호주",
@@ -643,9 +643,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 17629,
-        "deaths": 725,
-        "recovered": 14581
+        "confirmed": 17674,
+        "deaths": 729,
+        "recovered": 14642
     },
     {
         "Name": "그리스",
@@ -859,9 +859,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 7530,
-        "deaths": 73,
-        "recovered": 3647
+        "confirmed": 7777,
+        "deaths": 75,
+        "recovered": 4033
     },
     {
         "Name": "Mauritania",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1074,
+        "confirmed": 1077,
         "deaths": 35,
         "recovered": 999
     },
