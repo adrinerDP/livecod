@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 133592,
-        "deaths": 7828,
-        "recovered": 93406
+        "confirmed": 133901,
+        "deaths": 7858,
+        "recovered": 93791
     },
     {
         "Name": "카타르",
@@ -587,9 +587,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27040,
-        "deaths": 872,
-        "recovered": 24573
+        "confirmed": 27044,
+        "deaths": 875,
+        "recovered": 24632
     },
     {
         "Name": "보스니아 헤르체고비나",
