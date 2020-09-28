@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 198634,
-        "deaths": 3959,
-        "recovered": 87882
+        "confirmed": 201305,
+        "deaths": 3996,
+        "recovered": 88453
     },
     {
         "Name": "캐나다",
@@ -611,9 +611,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 24014,
-        "deaths": 736,
-        "recovered": 5141
+        "confirmed": 24716,
+        "deaths": 749,
+        "recovered": 5152
     },
     {
         "Name": "카메룬",
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 510,
+        "confirmed": 513,
         "deaths": 7,
         "recovered": 480
     },
