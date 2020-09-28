@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1151438,
-        "deaths": 20324,
-        "recovered": 943218
+        "confirmed": 1159573,
+        "deaths": 20385,
+        "recovered": 945920
     },
     {
         "Name": "콜롬비아",
@@ -435,7 +435,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57700,
+        "confirmed": 57715,
         "deaths": 27,
         "recovered": 57367
     },
@@ -1099,9 +1099,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3200,
+        "confirmed": 3267,
         "deaths": 64,
-        "recovered": 2506
+        "recovered": 2513
     },
     {
         "Name": "Mali",
@@ -1232,20 +1232,20 @@
         "recovered": 1330
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 1697,
+        "deaths": 36,
+        "recovered": 1304
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1696,
         "deaths": 22,
         "recovered": 1369
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1676,
-        "deaths": 36,
-        "recovered": 1304
     },
     {
         "Name": "French Polynesia",
