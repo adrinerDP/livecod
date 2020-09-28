@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 287585,
+        "confirmed": 287786,
         "deaths": 9539,
         "recovered": 250800
     },
@@ -203,8 +203,8 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 153825,
-        "deaths": 9269,
+        "confirmed": 154575,
+        "deaths": 9270,
         "recovered": 131429
     },
     {
@@ -437,7 +437,7 @@
         "Name_en": "Singapore",
         "confirmed": 57715,
         "deaths": 27,
-        "recovered": 57367
+        "recovered": 57393
     },
     {
         "Name": "Uzbekistan",
@@ -539,9 +539,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 38115,
-        "deaths": 691,
-        "recovered": 24621
+        "confirmed": 38168,
+        "deaths": 700,
+        "recovered": 24681
     },
     {
         "Name": "레바논",
@@ -640,20 +640,20 @@
         "recovered": 19163
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 17707,
+        "deaths": 383,
+        "recovered": 9989
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
         "confirmed": 17674,
         "deaths": 729,
         "recovered": 14642
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 17444,
-        "deaths": 379,
-        "recovered": 9989
     },
     {
         "Name": "Madagascar",
@@ -808,6 +808,14 @@
         "recovered": 4213
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 9226,
+        "deaths": 51,
+        "recovered": 4359
+    },
+    {
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
@@ -824,20 +832,12 @@
         "recovered": 7934
     },
     {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 8492,
-        "deaths": 45,
-        "recovered": 4222
-    },
-    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 8357,
+        "confirmed": 8376,
         "deaths": 124,
-        "recovered": 6976
+        "recovered": 7128
     },
     {
         "Name": "Mozambique",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3360,
+        "confirmed": 3362,
         "deaths": 13,
         "recovered": 3210
     },
