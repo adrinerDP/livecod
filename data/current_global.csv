@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7386686,210349,4634993
+미국,美国,United States,7389084,210437,4635942
 인도,印度,India,6219224,97450,5176371
 브라질,巴西,Brazil,4753410,142280,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,362043,5219,273698
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,235465,1523,167568
 Ukraine,,Ukraine,204932,4065,90250
-캐나다,加拿大,Canada,156655,9289,133397
+캐나다,加拿大,Canada,156696,9289,133461
 에콰도르,厄瓜多尔,Ecuador,134965,11280,112296
 Bolivia,,Bolivia,134223,7900,94324
 카타르,卡塔尔,Qatar,125533,214,122448
@@ -47,14 +47,14 @@ Guatemala,,Guatemala,90968,3238,79654
 네팔,尼泊尔,Nepal,76258,491,55371
 Honduras,,Honduras,75537,2301,26957
 포르투갈,葡萄牙,Portugal,74717,1963,48193
+코스타리카,哥斯达黎加,Costa Rica,74604,880,30703
 Ethiopia,,Ethiopia,74584,1191,30952
-코스타리카,哥斯达黎加,Costa Rica,73714,861,29420
 Venezuela,,Venezuela,73528,614,63346
 바레인,巴林,Bahrain,69848,246,63549
 체코,捷克,Czechia,66788,635,32693
 나이지리아,尼日利亚,Nigeria,58460,1111,49895
 싱가포르,新加坡,Singapore,57742,27,57466
-Uzbekistan,,Uzbekistan,56252,465,52859
+Uzbekistan,,Uzbekistan,56354,466,52970
 스위스,瑞士,Switzerland,52871,2069,42700
 Moldova,,Moldova,52029,1310,38579
 알제리,阿尔及利亚,Algeria,51368,1726,36063
@@ -127,7 +127,7 @@ CAR,,CAR,4806,62,1840
 Lithuania,,Lithuania,4587,92,2349
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4441,74,2454
-Syria,,Syria,4102,194,1074
+Syria,,Syria,4148,197,1088
 Aruba,,Aruba,3934,26,3181
 Bahamas,,Bahamas,3903,91,2072
 Réunion,,Réunion,3882,14,2819
@@ -172,7 +172,7 @@ Papua New Guinea,,Papua New Guinea,532,7,516
 대만,台湾,Taiwan,513,7,480
 Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,502,1,472
-Comoros,,Comoros,478,7,458
+Comoros,,Comoros,479,7,464
 Faeroe Islands,,Faeroe Islands,463,0,428
 지브롤터,直布罗陀,Gibraltar,391,0,342
 Saint Martin,,Saint Martin,383,8,273

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7386686,
-        "deaths": 210349,
-        "recovered": 4634993
+        "confirmed": 7389084,
+        "deaths": 210437,
+        "recovered": 4635942
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 156655,
+        "confirmed": 156696,
         "deaths": 9289,
-        "recovered": 133397
+        "recovered": 133461
     },
     {
         "Name": "에콰도르",
@@ -384,20 +384,20 @@
         "recovered": 48193
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 74604,
+        "deaths": 880,
+        "recovered": 30703
+    },
+    {
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
         "confirmed": 74584,
         "deaths": 1191,
         "recovered": 30952
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 73714,
-        "deaths": 861,
-        "recovered": 29420
     },
     {
         "Name": "Venezuela",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 56252,
-        "deaths": 465,
-        "recovered": 52859
+        "confirmed": 56354,
+        "deaths": 466,
+        "recovered": 52970
     },
     {
         "Name": "스위스",
@@ -1027,9 +1027,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4102,
-        "deaths": 194,
-        "recovered": 1074
+        "confirmed": 4148,
+        "deaths": 197,
+        "recovered": 1088
     },
     {
         "Name": "Aruba",
@@ -1387,9 +1387,9 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 478,
+        "confirmed": 479,
         "deaths": 7,
-        "recovered": 458
+        "recovered": 464
     },
     {
         "Name": "Faeroe Islands",
