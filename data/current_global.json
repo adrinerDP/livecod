@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7377612,
-        "deaths": 210180,
-        "recovered": 4630674
+        "confirmed": 7382970,
+        "deaths": 210260,
+        "recovered": 4633142
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 290198,
-        "deaths": 9553,
+        "confirmed": 290461,
+        "deaths": 9556,
         "recovered": 254200
     },
     {
@@ -848,20 +848,20 @@
         "recovered": 7136
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 8017,
+        "deaths": 75,
+        "recovered": 4033
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "confirmed": 7816,
         "deaths": 228,
         "recovered": 6112
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 7777,
-        "deaths": 75,
-        "recovered": 4033
     },
     {
         "Name": "Mauritania",
@@ -880,20 +880,20 @@
         "recovered": 1770
     },
     {
+        "Name": "Cabo Verde",
+        "Name_ch": "",
+        "Name_en": "Cabo Verde",
+        "confirmed": 5900,
+        "deaths": 59,
+        "recovered": 5228
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 5866,
         "deaths": 36,
         "recovered": 2324
-    },
-    {
-        "Name": "Cabo Verde",
-        "Name_ch": "",
-        "Name_en": "Cabo Verde",
-        "confirmed": 5817,
-        "deaths": 59,
-        "recovered": 5134
     },
     {
         "Name": "Malawi",
@@ -1139,7 +1139,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2692,
+        "confirmed": 2700,
         "deaths": 49,
         "recovered": 1290
     },
@@ -1147,7 +1147,7 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2663,
+        "confirmed": 2695,
         "deaths": 10,
         "recovered": 2161
     },
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 460,
+        "confirmed": 463,
         "deaths": 0,
-        "recovered": 423
+        "recovered": 428
     },
     {
         "Name": "지브롤터",
@@ -1424,20 +1424,20 @@
         "recovered": 341
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 370,
+        "deaths": 1,
+        "recovered": 157
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
         "confirmed": 367,
         "deaths": 10,
         "recovered": 343
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 364,
-        "deaths": 1,
-        "recovered": 148
     },
     {
         "Name": "Isle of Man",
@@ -1549,7 +1549,7 @@
         "Name_en": "British Virgin Islands",
         "confirmed": 71,
         "deaths": 1,
-        "recovered": 62
+        "recovered": 66
     },
     {
         "Name": "St. Vincent Grenadines",

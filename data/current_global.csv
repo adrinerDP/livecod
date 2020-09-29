@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7377612,210180,4630674
+미국,美国,United States,7382970,210260,4633142
 인도,印度,India,6219224,97450,5176371
 브라질,巴西,Brazil,4753410,142280,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,362043,5219,273698
 이탈리아,义大利,Italy,313011,35875,226506
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,290198,9553,254200
+독일,德国,Germany,290461,9556,254200
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,235465,1523,167568
 Ukraine,,Ukraine,204932,4065,90250
@@ -105,12 +105,12 @@ Haiti,,Haiti,8740,227,6757
 Gabon,,Gabon,8728,54,7934
 Mozambique,,Mozambique,8556,59,5205
 룩셈부르크,卢森堡,Luxembourg,8431,124,7136
+Uganda,,Uganda,8017,75,4033
 Zimbabwe,,Zimbabwe,7816,228,6112
-Uganda,,Uganda,7777,75,4033
 Mauritania,,Mauritania,7474,161,7091
 Jamaica,,Jamaica,6408,101,1770
+Cabo Verde,,Cabo Verde,5900,59,5228
 조지아,格鲁吉亚,Georgia,5866,36,2324
-Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5772,179,4245
 Cuba,,Cuba,5531,122,4866
 슬로베니아,斯洛文尼亚,Slovenia,5487,149,3682
@@ -141,8 +141,8 @@ Botswana,,Botswana,3172,16,710
 Mali,,Mali,3101,131,2443
 Malta,,Malta,3035,34,2484
 Guyana,,Guyana,2787,78,1608
-South Sudan,,South Sudan,2692,49,1290
-Iceland,,Iceland,2663,10,2161
+South Sudan,,South Sudan,2700,49,1290
+Iceland,,Iceland,2695,10,2161
 Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
@@ -173,12 +173,12 @@ Papua New Guinea,,Papua New Guinea,532,7,516
 Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,502,1,472
 Comoros,,Comoros,478,7,458
-Faeroe Islands,,Faeroe Islands,460,0,423
+Faeroe Islands,,Faeroe Islands,463,0,428
 지브롤터,直布罗陀,Gibraltar,391,0,342
 Saint Martin,,Saint Martin,383,8,273
 Eritrea,,Eritrea,375,0,341
+Curaçao,,Curaçao,370,1,157
 Mauritius,,Mauritius,367,10,343
-Curaçao,,Curaçao,364,1,148
 Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,305
 부탄,不丹,Bhutan,280,0,210
@@ -192,7 +192,7 @@ Seychelles,,Seychelles,143,0,140
 리히텐슈타인,列支敦士登,Liechtenstein,118,1,113
 Caribbean Netherlands,,Caribbean Netherlands,106,1,24
 Antigua and Barbuda,,Antigua and Barbuda,101,3,92
-British Virgin Islands,,British Virgin Islands,71,1,62
+British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 St. Barth,,St. Barth,48,0,25
 마카오,澳门,Macao,46,0,46
