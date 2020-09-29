@@ -523,9 +523,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39233,
-        "deaths": 1455,
-        "recovered": 32642
+        "confirmed": 39254,
+        "deaths": 1458,
+        "recovered": 32746
     },
     {
         "Name": "팔레스타인",
@@ -1093,7 +1093,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 3363,
         "deaths": 13,
-        "recovered": 3210
+        "recovered": 3230
     },
     {
         "Name": "에스토니아",
