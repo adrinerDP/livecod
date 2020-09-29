@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7393030,
-        "deaths": 210497,
-        "recovered": 4637731
+        "confirmed": 7393579,
+        "deaths": 210543,
+        "recovered": 4638231
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6219224,
-        "deaths": 97450,
-        "recovered": 5176371
+        "confirmed": 6223519,
+        "deaths": 97529,
+        "recovered": 5184634
     },
     {
         "Name": "브라질",
@@ -923,9 +923,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5452,
+        "confirmed": 5462,
         "deaths": 108,
-        "recovered": 4844
+        "recovered": 4859
     },
     {
         "Name": "Djibouti",
@@ -936,20 +936,20 @@
         "recovered": 5344
     },
     {
+        "Name": "Nicaragua",
+        "Name_ch": "",
+        "Name_en": "Nicaragua",
+        "confirmed": 5170,
+        "deaths": 151,
+        "recovered": 2913
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
         "confirmed": 5080,
         "deaths": 105,
         "recovered": 4807
-    },
-    {
-        "Name": "Nicaragua",
-        "Name_ch": "",
-        "Name_en": "Nicaragua",
-        "confirmed": 5073,
-        "deaths": 149,
-        "recovered": 2913
     },
     {
         "Name": "Equatorial Guinea",
