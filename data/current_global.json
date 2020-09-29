@@ -339,8 +339,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 88636,
-        "deaths": 2447,
+        "confirmed": 89962,
+        "deaths": 2483,
         "recovered": 68955
     },
     {
@@ -904,6 +904,14 @@
         "recovered": 4243
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 5487,
+        "deaths": 149,
+        "recovered": 3682
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -928,18 +936,10 @@
         "recovered": 5340
     },
     {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 5388,
-        "deaths": 149,
-        "recovered": 3600
-    },
-    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5076,
+        "confirmed": 5080,
         "deaths": 105,
         "recovered": 4790
     },
@@ -1232,20 +1232,20 @@
         "recovered": 1336
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 1729,
+        "deaths": 37,
+        "recovered": 1307
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1713,
         "deaths": 22,
         "recovered": 1369
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1697,
-        "deaths": 36,
-        "recovered": 1304
     },
     {
         "Name": "French Polynesia",
