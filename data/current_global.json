@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7389084,
-        "deaths": 210437,
-        "recovered": 4635942
+        "confirmed": 7392442,
+        "deaths": 210487,
+        "recovered": 4637074
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 671669,
-        "deaths": 16586,
-        "recovered": 604478
+        "confirmed": 672572,
+        "deaths": 16667,
+        "recovered": 606520
     },
     {
         "Name": "프랑스",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 290461,
+        "confirmed": 290466,
         "deaths": 9556,
         "recovered": 254200
     },
@@ -635,9 +635,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19641,
+        "confirmed": 19669,
         "deaths": 120,
-        "recovered": 19202
+        "recovered": 19241
     },
     {
         "Name": "그리스",
@@ -987,9 +987,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4832,
+        "confirmed": 4836,
         "deaths": 29,
-        "recovered": 3117
+        "recovered": 3125
     },
     {
         "Name": "CAR",
@@ -1091,7 +1091,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3373,
+        "confirmed": 3374,
         "deaths": 13,
         "recovered": 3230
     },
