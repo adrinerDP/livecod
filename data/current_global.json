@@ -435,7 +435,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57715,
+        "confirmed": 57742,
         "deaths": 27,
         "recovered": 57393
     },
@@ -1003,9 +1003,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 4490,
+        "confirmed": 4578,
         "deaths": 92,
-        "recovered": 2327
+        "recovered": 2349
     },
     {
         "Name": "Guadeloupe",
@@ -1099,9 +1099,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3267,
+        "confirmed": 3315,
         "deaths": 64,
-        "recovered": 2513
+        "recovered": 2564
     },
     {
         "Name": "Botswana",
