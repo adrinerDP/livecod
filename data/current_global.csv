@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7382970,210260,4633142
+미국,美国,United States,7386686,210349,4634993
 인도,印度,India,6219224,97450,5176371
 브라질,巴西,Brazil,4753410,142280,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
 콜롬비아,哥伦比亚,Colombia,818203,25641,722536
 페루,秘鲁,Peru,808714,32324,670989
-스페인,西班牙,Spain,748266,31411,0
+스페인,西班牙,Spain,758172,31614,0
 멕시코,墨西哥,Mexico,733717,76603,527278
 Argentina,,Argentina,723132,16113,576715
 남아프리카 공화국,南非共和国,South Africa,671669,16586,604478
@@ -120,10 +120,10 @@ Djibouti,,Djibouti,5416,61,5344
 Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5028,83,4740
 Congo,,Congo,5008,89,3887
+Angola,,Angola,4905,179,1833
 Suriname,,Suriname,4836,102,4667
 Rwanda,,Rwanda,4832,29,3117
 CAR,,CAR,4806,62,1840
-Angola,,Angola,4797,176,1813
 Lithuania,,Lithuania,4587,92,2349
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4441,74,2454
@@ -160,7 +160,7 @@ Lesotho,,Lesotho,1565,35,822
 Liberia,,Liberia,1343,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1196,69,1110
-Chad,,Chad,1185,85,1006
+Chad,,Chad,1193,85,1007
 베트남,越南,Vietnam,1094,35,1007
 Sao Tome and Principe,,Sao Tome and Principe,911,15,885
 산마리노,圣马力诺,San Marino,727,42,676
