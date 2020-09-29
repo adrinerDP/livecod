@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7376581,210148,4629825
-인도,印度,India,6193966,96854,5145534
-브라질,巴西,Brazil,4748327,142161,4084182
+미국,美国,United States,7377612,210180,4630674
+인도,印度,India,6219224,97450,5176371
+브라질,巴西,Brazil,4753410,142280,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
 콜롬비아,哥伦比亚,Colombia,818203,25641,722536
 페루,秘鲁,Peru,808714,32324,670989
@@ -9,7 +9,7 @@
 멕시코,墨西哥,Mexico,733717,76603,527278
 Argentina,,Argentina,723132,16113,576715
 남아프리카 공화국,南非共和国,South Africa,671669,16586,604478
-프랑스,法国,France,542639,31808,95426
+프랑스,法国,France,550690,31893,96327
 칠레,智利,Chile,461300,12725,434794
 이란,伊朗,Iran,453637,25986,378727
 영국,英国,UK,446156,42072,0
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,362043,5219,273698
 이탈리아,义大利,Italy,313011,35875,226506
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,289939,9552,254200
+독일,德国,Germany,290198,9553,254200
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,235465,1523,167568
 Ukraine,,Ukraine,204932,4065,90250
@@ -67,7 +67,7 @@ Ghana,,Ghana,46482,301,45651
 Paraguay,,Paraguay,39432,818,23063
 아프가니스탄,阿富汗,Afghanistan,39254,1458,32746
 Kenya,,Kenya,38378,707,24740
-레바논,黎巴嫩,Lebanon,37272,351,16676
+레바논,黎巴嫩,Lebanon,38377,361,17110
 아일랜드,冰岛,Ireland,35740,1803,23364
 Libya,,Libya,34014,540,18902
 세르비아,塞尔维亚,Serbia,33479,749,31536
@@ -97,7 +97,7 @@ Guinea,,Guinea,10598,66,9940
 Montenegro,,Montenegro,10575,164,7002
 Maldives,,Maldives,10194,34,9037
 요르단,约旦,Jordan,10049,57,4496
-French Guiana,,French Guiana,9895,65,9536
+French Guiana,,French Guiana,9929,66,9569
 핀란드,芬兰,Finland,9892,345,7850
 Tajikistan,,Tajikistan,9726,75,8531
 슬로바키아,斯洛伐克,Slovakia,9574,45,4329
@@ -128,11 +128,11 @@ Lithuania,,Lithuania,4587,92,2349
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4441,74,2454
 Syria,,Syria,4102,194,1074
+Aruba,,Aruba,3934,26,3181
 Bahamas,,Bahamas,3903,91,2072
 Réunion,,Réunion,3882,14,2819
-Aruba,,Aruba,3872,25,3037
 Somalia,,Somalia,3588,99,2946
-Gambia,,Gambia,3569,111,2161
+Gambia,,Gambia,3579,112,2161
 태국,泰国,Thailand,3559,59,3370
 Mayotte,,Mayotte,3541,40,2964
 스리랑카,斯里兰卡,Sri Lanka,3373,13,3230
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,305
 부탄,不丹,Bhutan,280,0,210
 캄보디아,柬埔寨,Cambodia,277,0,275
-모나코,摩纳哥,Monaco,212,2,174
+모나코,摩纳哥,Monaco,214,2,178
 Cayman Islands,,Cayman Islands,211,1,208
 Barbados,,Barbados,190,7,178
 Bermuda,,Bermuda,181,9,167
