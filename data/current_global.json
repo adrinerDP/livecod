@@ -595,8 +595,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27044,
-        "deaths": 875,
+        "confirmed": 27055,
+        "deaths": 882,
         "recovered": 24676
     },
     {
@@ -1333,7 +1333,7 @@
         "Name_en": "Turks and Caicos",
         "confirmed": 682,
         "deaths": 5,
-        "recovered": 620
+        "recovered": 631
     },
     {
         "Name": "Channel Islands",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 644,
+        "confirmed": 645,
         "deaths": 22,
-        "recovered": 532
+        "recovered": 549
     },
     {
         "Name": "Papua New Guinea",
@@ -1459,7 +1459,7 @@
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "confirmed": 276,
+        "confirmed": 277,
         "deaths": 0,
         "recovered": 275
     },
