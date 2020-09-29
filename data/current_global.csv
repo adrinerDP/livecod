@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7365427,209922,4611282
+미국,美国,United States,7365431,209922,4611293
 인도,印度,India,6156722,96468,5109584
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -10,17 +10,17 @@
 Argentina,,Argentina,723132,16113,576715
 남아프리카 공화국,南非共和国,South Africa,671669,16586,604478
 프랑스,法国,France,542639,31808,95426
-칠레,智利,Chile,459671,12698,433016
+칠레,智利,Chile,461300,12725,434794
 이란,伊朗,Iran,453637,25986,378727
 영국,英国,UK,439013,42001,0
 Bangladesh,,Bangladesh,362043,5219,273698
 이라크,伊拉克,Iraq,358290,9122,288812
 사우디아라비아,沙特阿拉伯,Saudi Arabia,334187,4739,318542
 터키,土耳其,Turkey,315845,8062,277052
+이탈리아,义大利,Italy,313011,35875,226506
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
-이탈리아,义大利,Italy,311364,35851,225190
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,289020,9545,252400
+독일,德国,Germany,289365,9549,252400
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,234060,1516,167032
 Ukraine,,Ukraine,204932,4065,90250
@@ -90,8 +90,8 @@ Zambia,,Zambia,14715,332,13937
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13391,380,7629
 Myanmar,,Myanmar,12425,284,3391
+Namibia,,Namibia,11140,121,8937
 말레이시아,马来西亚,Malaysia,11135,134,9939
-Namibia,,Namibia,11121,121,8787
 DRC,,DRC,10631,272,10129
 Guinea,,Guinea,10598,66,9940
 Montenegro,,Montenegro,10441,163,6720
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,8288,59,4836
 Zimbabwe,,Zimbabwe,7816,228,6112
 Uganda,,Uganda,7777,75,4033
 Mauritania,,Mauritania,7474,161,7091
-Jamaica,,Jamaica,6170,93,1741
+Jamaica,,Jamaica,6408,101,1770
 조지아,格鲁吉亚,Georgia,5866,34,2324
 Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5770,179,4243
@@ -124,7 +124,7 @@ Suriname,,Suriname,4836,102,4667
 Rwanda,,Rwanda,4832,29,3117
 CAR,,CAR,4806,62,1840
 Angola,,Angola,4797,176,1813
-Lithuania,,Lithuania,4578,92,2349
+Lithuania,,Lithuania,4587,92,2349
 Guadeloupe,,Guadeloupe,4487,42,2199
 Trinidad and Tobago,,Trinidad and Tobago,4441,74,2454
 Syria,,Syria,4102,194,1074
