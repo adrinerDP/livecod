@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7361611,
+        "confirmed": 7361633,
         "deaths": 209808,
         "recovered": 4609636
     },
@@ -475,9 +475,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 49574,
-        "deaths": 957,
-        "recovered": 43665
+        "confirmed": 49901,
+        "deaths": 958,
+        "recovered": 43849
     },
     {
         "Name": "Kyrgyzstan",
@@ -611,9 +611,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 24716,
-        "deaths": 749,
-        "recovered": 5152
+        "confirmed": 25567,
+        "deaths": 757,
+        "recovered": 5173
     },
     {
         "Name": "카메룬",
@@ -880,6 +880,14 @@
         "recovered": 1741
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 5866,
+        "deaths": 33,
+        "recovered": 2324
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
@@ -894,14 +902,6 @@
         "confirmed": 5770,
         "deaths": 179,
         "recovered": 4243
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 5552,
-        "deaths": 32,
-        "recovered": 2054
     },
     {
         "Name": "Cuba",

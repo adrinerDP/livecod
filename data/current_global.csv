@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7361611,209808,4609636
+미국,美国,United States,7361633,209808,4609636
 인도,印度,India,6145291,96351,5101397
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1159573,20385,945920
@@ -58,7 +58,7 @@ Uzbekistan,,Uzbekistan,56068,462,52466
 스위스,瑞士,Switzerland,52646,2065,42700
 알제리,阿尔及利亚,Algeria,51213,1719,35962
 Moldova,,Moldova,51194,1301,38217
-아르메니아,亚美尼亚,Armenia,49574,957,43665
+아르메니아,亚美尼亚,Armenia,49901,958,43849
 Kyrgyzstan,,Kyrgyzstan,46522,1064,42761
 Ghana,,Ghana,46444,299,45646
 오스트리아,奥地利,Austria,43432,790,34052
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,28981,839,23685
 덴마크,丹麦,Denmark,27072,649,19942
 호주,澳大利亚,Australia,27055,882,24676
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27001,829,20005
-헝가리,匈牙利,Hungary,24716,749,5152
+헝가리,匈牙利,Hungary,25567,757,5173
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20271,807,14339
 Ivory Coast,,Ivory Coast,19641,120,19202
@@ -109,9 +109,9 @@ Zimbabwe,,Zimbabwe,7816,228,6112
 Uganda,,Uganda,7777,75,4033
 Mauritania,,Mauritania,7474,161,7091
 Jamaica,,Jamaica,6170,93,1741
+조지아,格鲁吉亚,Georgia,5866,33,2324
 Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5770,179,4243
-조지아,格鲁吉亚,Georgia,5552,32,2054
 Cuba,,Cuba,5483,122,4787
 Eswatini,,Eswatini,5452,108,4844
 Djibouti,,Djibouti,5410,61,5340
