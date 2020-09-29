@@ -195,8 +195,8 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 201305,
-        "deaths": 3996,
+        "confirmed": 204932,
+        "deaths": 4065,
         "recovered": 88453
     },
     {
@@ -480,20 +480,20 @@
         "recovered": 43665
     },
     {
+        "Name": "Kyrgyzstan",
+        "Name_ch": "",
+        "Name_en": "Kyrgyzstan",
+        "confirmed": 46522,
+        "deaths": 1064,
+        "recovered": 42761
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "confirmed": 46444,
         "deaths": 299,
         "recovered": 45646
-    },
-    {
-        "Name": "Kyrgyzstan",
-        "Name_ch": "",
-        "Name_en": "Kyrgyzstan",
-        "confirmed": 46380,
-        "deaths": 1064,
-        "recovered": 42678
     },
     {
         "Name": "오스트리아",
