@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7362934,209821,4610639
+미국,美国,United States,7363152,209865,4610995
 인도,印度,India,6148640,96378,5101397
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -15,7 +15,7 @@ Argentina,,Argentina,723132,16113,576715
 영국,英国,UK,439013,42001,0
 Bangladesh,,Bangladesh,362043,5219,273698
 이라크,伊拉克,Iraq,358290,9122,288812
-사우디아라비아,沙特阿拉伯,Saudi Arabia,333648,4712,317846
+사우디아라비아,沙特阿拉伯,Saudi Arabia,334187,4739,318542
 터키,土耳其,Turkey,315845,8062,277052
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 이탈리아,义大利,Italy,311364,35851,225190
@@ -50,11 +50,11 @@ Honduras,,Honduras,75537,2301,26957
 Ethiopia,,Ethiopia,73944,1177,30753
 코스타리카,哥斯达黎加,Costa Rica,73714,861,29420
 Venezuela,,Venezuela,73528,614,63346
-바레인,巴林,Bahrain,69848,245,63549
+바레인,巴林,Bahrain,69848,246,63549
 체코,捷克,Czechia,65883,618,31799
 나이지리아,尼日利亚,Nigeria,58460,1111,49895
 싱가포르,新加坡,Singapore,57742,27,57393
-Uzbekistan,,Uzbekistan,56068,463,52466
+Uzbekistan,,Uzbekistan,56252,465,52859
 스위스,瑞士,Switzerland,52871,2069,42700
 알제리,阿尔及利亚,Algeria,51213,1719,35962
 Moldova,,Moldova,51194,1301,38217
@@ -63,14 +63,14 @@ Kyrgyzstan,,Kyrgyzstan,46522,1064,42761
 Ghana,,Ghana,46444,299,45646
 오스트리아,奥地利,Austria,44041,796,34916
 아제르바이잔,阿塞拜疆,Azerbaijan,40061,588,37725
+팔레스타인,巴勒斯坦,Palestine,39541,306,31047
 Paraguay,,Paraguay,39432,818,23063
 아프가니스탄,阿富汗,Afghanistan,39254,1458,32746
-팔레스타인,巴勒斯坦,Palestine,39121,299,30220
-Kenya,,Kenya,38168,700,24681
+Kenya,,Kenya,38378,707,24740
 레바논,黎巴嫩,Lebanon,37272,351,16676
 아일랜드,冰岛,Ireland,35377,1802,23364
+Libya,,Libya,34014,540,18902
 세르비아,塞尔维亚,Serbia,33414,748,31536
-Libya,,Libya,33213,527,18518
 El Salvador,,El Salvador,28981,839,23685
 덴마크,丹麦,Denmark,27464,650,20320
 호주,澳大利亚,Australia,27055,882,24676
@@ -79,13 +79,13 @@ El Salvador,,El Salvador,28981,839,23685
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20271,807,14339
 Ivory Coast,,Ivory Coast,19641,120,19202
+North Macedonia,,North Macedonia,17786,737,14801
 그리스,希腊,Greece,17707,383,9989
-North Macedonia,,North Macedonia,17674,729,14642
 Tunisia,,Tunisia,17405,246,5032
 크로아티아,克罗地亚,Croatia,16380,275,14947
 Madagascar,,Madagascar,16377,229,15139
 세네갈,塞内加尔,Senegal,14945,310,12335
-Zambia,,Zambia,14660,332,13821
+Zambia,,Zambia,14715,332,13937
 노르웨이,挪威,Norway,13788,274,11190
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13391,380,7629
@@ -135,7 +135,7 @@ Somalia,,Somalia,3588,99,2946
 Gambia,,Gambia,3569,111,2161
 태국,泰国,Thailand,3559,59,3370
 Mayotte,,Mayotte,3541,40,2964
-스리랑카,斯里兰卡,Sri Lanka,3363,13,3230
+스리랑카,斯里兰卡,Sri Lanka,3365,13,3230
 에스토니아,爱沙尼亚,Estonia,3315,64,2564
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3090,130,2439
@@ -161,7 +161,7 @@ Liberia,,Liberia,1342,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1196,69,1110
 Chad,,Chad,1185,85,1006
-베트남,越南,Vietnam,1077,35,999
+베트남,越南,Vietnam,1087,35,999
 Sao Tome and Principe,,Sao Tome and Principe,911,15,885
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
