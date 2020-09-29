@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7363152,
-        "deaths": 209865,
+        "confirmed": 7364646,
+        "deaths": 209896,
         "recovered": 4610995
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 288745,
+        "confirmed": 289020,
         "deaths": 9545,
         "recovered": 252400
     },
@@ -379,9 +379,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 74029,
-        "deaths": 1957,
-        "recovered": 47884
+        "confirmed": 74717,
+        "deaths": 1963,
+        "recovered": 48193
     },
     {
         "Name": "Ethiopia",
@@ -491,9 +491,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 46444,
-        "deaths": 299,
-        "recovered": 45646
+        "confirmed": 46482,
+        "deaths": 301,
+        "recovered": 45651
     },
     {
         "Name": "오스트리아",
@@ -507,9 +507,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 40061,
-        "deaths": 588,
-        "recovered": 37725
+        "confirmed": 40119,
+        "deaths": 590,
+        "recovered": 37827
     },
     {
         "Name": "팔레스타인",
@@ -571,8 +571,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33414,
-        "deaths": 748,
+        "confirmed": 33479,
+        "deaths": 749,
         "recovered": 31536
     },
     {
@@ -592,20 +592,20 @@
         "recovered": 20320
     },
     {
+        "Name": "보스니아 헤르체고비나",
+        "Name_ch": "波斯尼亚和黑塞哥维那",
+        "Name_en": "Bosnia and Herzegovina",
+        "confirmed": 27226,
+        "deaths": 843,
+        "recovered": 20322
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
         "confirmed": 27055,
         "deaths": 882,
         "recovered": 24676
-    },
-    {
-        "Name": "보스니아 헤르체고비나",
-        "Name_ch": "波斯尼亚和黑塞哥维那",
-        "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 27001,
-        "deaths": 829,
-        "recovered": 20005
     },
     {
         "Name": "헝가리",
@@ -795,9 +795,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9685,
+        "confirmed": 9726,
         "deaths": 75,
-        "recovered": 8483
+        "recovered": 8531
     },
     {
         "Name": "슬로바키아",
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1087,
+        "confirmed": 1094,
         "deaths": 35,
-        "recovered": 999
+        "recovered": 1007
     },
     {
         "Name": "Sao Tome and Principe",

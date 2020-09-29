@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7363152,209865,4610995
+미국,美国,United States,7364646,209896,4610995
 인도,印度,India,6148640,96378,5101397
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,362043,5219,273698
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 이탈리아,义大利,Italy,311364,35851,225190
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,288745,9545,252400
+독일,德国,Germany,289020,9545,252400
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,234060,1516,167032
 Ukraine,,Ukraine,204932,4065,88453
@@ -46,7 +46,7 @@ Guatemala,,Guatemala,90263,3234,79067
 벨라루스,白俄罗斯,Belarus,78260,828,74320
 네팔,尼泊尔,Nepal,76258,491,55371
 Honduras,,Honduras,75537,2301,26957
-포르투갈,葡萄牙,Portugal,74029,1957,47884
+포르투갈,葡萄牙,Portugal,74717,1963,48193
 Ethiopia,,Ethiopia,73944,1177,30753
 코스타리카,哥斯达黎加,Costa Rica,73714,861,29420
 Venezuela,,Venezuela,73528,614,63346
@@ -60,9 +60,9 @@ Uzbekistan,,Uzbekistan,56252,465,52859
 Moldova,,Moldova,51194,1301,38217
 아르메니아,亚美尼亚,Armenia,49901,958,43849
 Kyrgyzstan,,Kyrgyzstan,46522,1064,42761
-Ghana,,Ghana,46444,299,45646
+Ghana,,Ghana,46482,301,45651
 오스트리아,奥地利,Austria,44041,796,34916
-아제르바이잔,阿塞拜疆,Azerbaijan,40061,588,37725
+아제르바이잔,阿塞拜疆,Azerbaijan,40119,590,37827
 팔레스타인,巴勒斯坦,Palestine,39541,306,31047
 Paraguay,,Paraguay,39432,818,23063
 아프가니스탄,阿富汗,Afghanistan,39254,1458,32746
@@ -70,11 +70,11 @@ Kenya,,Kenya,38378,707,24740
 레바논,黎巴嫩,Lebanon,37272,351,16676
 아일랜드,冰岛,Ireland,35377,1802,23364
 Libya,,Libya,34014,540,18902
-세르비아,塞尔维亚,Serbia,33414,748,31536
+세르비아,塞尔维亚,Serbia,33479,749,31536
 El Salvador,,El Salvador,28981,839,23685
 덴마크,丹麦,Denmark,27464,650,20320
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27226,843,20322
 호주,澳大利亚,Australia,27055,882,24676
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27001,829,20005
 헝가리,匈牙利,Hungary,25567,757,5173
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20271,807,14339
@@ -98,7 +98,7 @@ Montenegro,,Montenegro,10441,163,6720
 Maldives,,Maldives,10157,34,8950
 French Guiana,,French Guiana,9895,65,9536
 핀란드,芬兰,Finland,9892,345,7850
-Tajikistan,,Tajikistan,9685,75,8483
+Tajikistan,,Tajikistan,9726,75,8531
 슬로바키아,斯洛伐克,Slovakia,9574,45,4329
 요르단,约旦,Jordan,9226,51,4359
 Haiti,,Haiti,8740,227,6757
@@ -161,7 +161,7 @@ Liberia,,Liberia,1342,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1196,69,1110
 Chad,,Chad,1185,85,1006
-베트남,越南,Vietnam,1087,35,999
+베트남,越南,Vietnam,1094,35,1007
 Sao Tome and Principe,,Sao Tome and Principe,911,15,885
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
