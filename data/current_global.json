@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7361889,
-        "deaths": 209815,
+        "confirmed": 7362934,
+        "deaths": 209821,
         "recovered": 4610639
     },
     {
@@ -123,9 +123,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 353566,
-        "deaths": 9052,
-        "recovered": 284784
+        "confirmed": 358290,
+        "deaths": 9122,
+        "recovered": 288812
     },
     {
         "Name": "사우디아라비아",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 233265,
-        "deaths": 1507,
-        "recovered": 165191
+        "confirmed": 234060,
+        "deaths": 1516,
+        "recovered": 167032
     },
     {
         "Name": "Ukraine",
@@ -248,20 +248,20 @@
         "recovered": 97468
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 117551,
+        "deaths": 6393,
+        "recovered": 0
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
         "confirmed": 115353,
         "deaths": 9987,
         "recovered": 19301
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 114540,
-        "deaths": 6380,
-        "recovered": 0
     },
     {
         "Name": "도미니카 공화국",
@@ -323,8 +323,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 90923,
-        "deaths": 5880,
+        "confirmed": 92466,
+        "deaths": 5890,
         "recovered": 0
     },
     {
@@ -656,6 +656,14 @@
         "recovered": 14642
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 17405,
+        "deaths": 246,
+        "recovered": 5032
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -670,14 +678,6 @@
         "confirmed": 16377,
         "deaths": 229,
         "recovered": 15139
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 16114,
-        "deaths": 214,
-        "recovered": 5032
     },
     {
         "Name": "세네갈",
