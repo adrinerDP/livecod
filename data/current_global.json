@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7361633,
-        "deaths": 209808,
-        "recovered": 4609636
+        "confirmed": 7361889,
+        "deaths": 209815,
+        "recovered": 4610639
     },
     {
         "Name": "인도",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 288618,
+        "confirmed": 288745,
         "deaths": 9545,
         "recovered": 252400
     },
@@ -224,20 +224,20 @@
         "recovered": 94324
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 125414,
+        "deaths": 4792,
+        "recovered": 100636
+    },
+    {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
         "confirmed": 125311,
         "deaths": 214,
         "recovered": 122209
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 123944,
-        "deaths": 4748,
-        "recovered": 99344
     },
     {
         "Name": "모로코",
@@ -683,9 +683,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14919,
-        "deaths": 309,
-        "recovered": 12231
+        "confirmed": 14945,
+        "deaths": 310,
+        "recovered": 12335
     },
     {
         "Name": "Zambia",
@@ -1400,20 +1400,20 @@
         "recovered": 423
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 391,
+        "deaths": 0,
+        "recovered": 342
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "confirmed": 383,
         "deaths": 8,
         "recovered": 273
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 382,
-        "deaths": 0,
-        "recovered": 341
     },
     {
         "Name": "Eritrea",

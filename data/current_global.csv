@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7361633,209808,4609636
+미국,美国,United States,7361889,209815,4610639
 인도,印度,India,6145291,96351,5101397
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -20,15 +20,15 @@ Bangladesh,,Bangladesh,362043,5219,273698
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 이탈리아,义大利,Italy,311364,35851,225190
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,288618,9545,252400
+독일,德国,Germany,288745,9545,252400
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,233265,1507,165191
 Ukraine,,Ukraine,204932,4065,88453
 캐나다,加拿大,Canada,155301,9278,132607
 에콰도르,厄瓜多尔,Ecuador,134965,11280,112296
 Bolivia,,Bolivia,134223,7900,94324
+루마니아,尼亚,Romania,125414,4792,100636
 카타르,卡塔尔,Qatar,125311,214,122209
-루마니아,尼亚,Romania,123944,4748,99344
 모로코,摩洛哥,Morocco,119107,2113,97468
 벨기에,比利时,Belgium,115353,9987,19301
 네덜란드,荷兰,Netherlands,114540,6380,0
@@ -84,7 +84,7 @@ North Macedonia,,North Macedonia,17674,729,14642
 크로아티아,克罗地亚,Croatia,16380,275,14947
 Madagascar,,Madagascar,16348,229,14947
 Tunisia,,Tunisia,16114,214,5032
-세네갈,塞内加尔,Senegal,14919,309,12231
+세네갈,塞内加尔,Senegal,14945,310,12335
 Zambia,,Zambia,14660,332,13821
 노르웨이,挪威,Norway,13788,274,11190
 Sudan,,Sudan,13606,836,6764
@@ -174,8 +174,8 @@ Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,502,1,472
 Comoros,,Comoros,478,7,458
 Faeroe Islands,,Faeroe Islands,460,0,423
+지브롤터,直布罗陀,Gibraltar,391,0,342
 Saint Martin,,Saint Martin,383,8,273
-지브롤터,直布罗陀,Gibraltar,382,0,341
 Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
 Curaçao,,Curaçao,364,1,148
