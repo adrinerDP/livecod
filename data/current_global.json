@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 360555,
-        "deaths": 5193,
-        "recovered": 272073
+        "confirmed": 362043,
+        "deaths": 5219,
+        "recovered": 273698
     },
     {
         "Name": "이라크",
@@ -307,9 +307,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 98057,
-        "deaths": 924,
-        "recovered": 88234
+        "confirmed": 98585,
+        "deaths": 935,
+        "recovered": 88528
     },
     {
         "Name": "아랍에미리트",
@@ -499,9 +499,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 43432,
-        "deaths": 790,
-        "recovered": 34052
+        "confirmed": 44041,
+        "deaths": 796,
+        "recovered": 34916
     },
     {
         "Name": "아제르바이잔",
@@ -728,20 +728,20 @@
         "recovered": 3073
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 11135,
+        "deaths": 134,
+        "recovered": 9939
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 11121,
         "deaths": 121,
         "recovered": 8787
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 11034,
-        "deaths": 134,
-        "recovered": 9889
     },
     {
         "Name": "DRC",
@@ -941,7 +941,7 @@
         "Name_en": "Hong Kong",
         "confirmed": 5080,
         "deaths": 105,
-        "recovered": 4790
+        "recovered": 4807
     },
     {
         "Name": "Nicaragua",
