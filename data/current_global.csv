@@ -2,7 +2,7 @@
 미국,美国,United States,7361633,209808,4609636
 인도,印度,India,6145291,96351,5101397
 브라질,巴西,Brazil,4748327,142161,4084182
-러시아,俄罗斯,Russia,1159573,20385,945920
+러시아,俄罗斯,Russia,1167805,20545,952399
 콜롬비아,哥伦比亚,Colombia,818203,25641,722536
 페루,秘鲁,Peru,808714,32324,670989
 스페인,西班牙,Spain,748266,31411,0
@@ -19,9 +19,9 @@ Bangladesh,,Bangladesh,360555,5193,272073
 터키,土耳其,Turkey,315845,8062,277052
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 이탈리아,义大利,Italy,311364,35851,225190
-필리핀,菲律宾,Philippines,307288,5381,252665
+필리핀,菲律宾,Philippines,309303,5448,252930
 독일,德国,Germany,288618,9545,252400
-인도네시아,印度尼西亚,Indonesia,278722,10473,206870
+인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,233265,1507,165191
 Ukraine,,Ukraine,204932,4065,88453
 캐나다,加拿大,Canada,155301,9278,132607
@@ -41,7 +41,7 @@ Kazakhstan,,Kazakhstan,107833,1699,102805
 아랍에미리트,阿拉伯联合酋长国,UAE,92095,413,81462
 스웨덴,瑞典语,Sweden,90923,5880,0
 Guatemala,,Guatemala,90263,3234,79067
-폴란드,波兰,Poland,88636,2447,68420
+폴란드,波兰,Poland,88636,2447,68955
 일본,日本,Japan,82131,1548,74990
 벨라루스,白俄罗斯,Belarus,77946,822,74167
 Honduras,,Honduras,75537,2301,26957
@@ -81,8 +81,8 @@ Bulgaria,,Bulgaria,20271,807,14339
 Ivory Coast,,Ivory Coast,19641,120,19202
 그리스,希腊,Greece,17707,383,9989
 North Macedonia,,North Macedonia,17674,729,14642
+크로아티아,克罗地亚,Croatia,16380,275,14947
 Madagascar,,Madagascar,16348,229,14947
-크로아티아,克罗地亚,Croatia,16245,272,14793
 Tunisia,,Tunisia,16114,214,5032
 세네갈,塞内加尔,Senegal,14919,309,12231
 Zambia,,Zambia,14660,332,13821
@@ -99,7 +99,7 @@ Maldives,,Maldives,10157,34,8950
 French Guiana,,French Guiana,9895,65,9536
 핀란드,芬兰,Finland,9743,345,7850
 Tajikistan,,Tajikistan,9685,75,8483
-슬로바키아,斯洛伐克,Slovakia,9343,44,4213
+슬로바키아,斯洛伐克,Slovakia,9574,45,4329
 요르단,约旦,Jordan,9226,51,4359
 Haiti,,Haiti,8740,227,6757
 Gabon,,Gabon,8728,54,7934
@@ -109,7 +109,7 @@ Zimbabwe,,Zimbabwe,7816,228,6112
 Uganda,,Uganda,7777,75,4033
 Mauritania,,Mauritania,7474,161,7091
 Jamaica,,Jamaica,6170,93,1741
-조지아,格鲁吉亚,Georgia,5866,33,2324
+조지아,格鲁吉亚,Georgia,5866,34,2324
 Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5770,179,4243
 Cuba,,Cuba,5483,122,4787

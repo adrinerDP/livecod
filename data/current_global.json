@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1159573,
-        "deaths": 20385,
-        "recovered": 945920
+        "confirmed": 1167805,
+        "deaths": 20545,
+        "recovered": 952399
     },
     {
         "Name": "콜롬비아",
@@ -163,9 +163,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 307288,
-        "deaths": 5381,
-        "recovered": 252665
+        "confirmed": 309303,
+        "deaths": 5448,
+        "recovered": 252930
     },
     {
         "Name": "독일",
@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 278722,
-        "deaths": 10473,
-        "recovered": 206870
+        "confirmed": 282724,
+        "deaths": 10601,
+        "recovered": 210437
     },
     {
         "Name": "이스라엘",
@@ -341,7 +341,7 @@
         "Name_en": "Poland",
         "confirmed": 88636,
         "deaths": 2447,
-        "recovered": 68420
+        "recovered": 68955
     },
     {
         "Name": "일본",
@@ -656,20 +656,20 @@
         "recovered": 14642
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 16380,
+        "deaths": 275,
+        "recovered": 14947
+    },
+    {
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
         "confirmed": 16348,
         "deaths": 229,
         "recovered": 14947
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 16245,
-        "deaths": 272,
-        "recovered": 14793
     },
     {
         "Name": "Tunisia",
@@ -803,9 +803,9 @@
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 9343,
-        "deaths": 44,
-        "recovered": 4213
+        "confirmed": 9574,
+        "deaths": 45,
+        "recovered": 4329
     },
     {
         "Name": "요르단",
@@ -884,7 +884,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 5866,
-        "deaths": 33,
+        "deaths": 34,
         "recovered": 2324
     },
     {
