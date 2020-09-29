@@ -224,20 +224,20 @@
         "recovered": 94324
     },
     {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "confirmed": 125533,
+        "deaths": 214,
+        "recovered": 122448
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
         "confirmed": 125414,
         "deaths": 4792,
         "recovered": 100636
-    },
-    {
-        "Name": "카타르",
-        "Name_ch": "卡塔尔",
-        "Name_en": "Qatar",
-        "confirmed": 125311,
-        "deaths": 214,
-        "recovered": 122209
     },
     {
         "Name": "모로코",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 103981,
-        "deaths": 605,
-        "recovered": 95511
+        "confirmed": 104568,
+        "deaths": 607,
+        "recovered": 96049
     },
     {
         "Name": "이집트",
@@ -444,7 +444,7 @@
         "Name_ch": "",
         "Name_en": "Uzbekistan",
         "confirmed": 56068,
-        "deaths": 462,
+        "deaths": 463,
         "recovered": 52466
     },
     {
@@ -587,9 +587,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 27072,
-        "deaths": 649,
-        "recovered": 19942
+        "confirmed": 27464,
+        "deaths": 650,
+        "recovered": 20320
     },
     {
         "Name": "호주",
@@ -1523,9 +1523,17 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 117,
+        "confirmed": 118,
         "deaths": 1,
-        "recovered": 110
+        "recovered": 113
+    },
+    {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 106,
+        "deaths": 1,
+        "recovered": 24
     },
     {
         "Name": "Antigua and Barbuda",
@@ -1534,14 +1542,6 @@
         "confirmed": 101,
         "deaths": 3,
         "recovered": 92
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 88,
-        "deaths": 1,
-        "recovered": 21
     },
     {
         "Name": "British Virgin Islands",
@@ -1592,6 +1592,14 @@
         "recovered": 24
     },
     {
+        "Name": "Timor-Leste",
+        "Name_ch": "",
+        "Name_en": "Timor-Leste",
+        "confirmed": 28,
+        "deaths": 0,
+        "recovered": 31
+    },
+    {
         "Name": "New Caledonia",
         "Name_ch": "",
         "Name_en": "New Caledonia",
@@ -1603,14 +1611,6 @@
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
-        "confirmed": 27,
-        "deaths": 0,
-        "recovered": 27
-    },
-    {
-        "Name": "Timor-Leste",
-        "Name_ch": "",
-        "Name_en": "Timor-Leste",
         "confirmed": 27,
         "deaths": 0,
         "recovered": 27
