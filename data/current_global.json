@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7365431,
-        "deaths": 209922,
-        "recovered": 4611293
+        "confirmed": 7370476,
+        "deaths": 210037,
+        "recovered": 4625655
     },
     {
         "Name": "인도",
@@ -331,9 +331,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 90263,
-        "deaths": 3234,
-        "recovered": 79067
+        "confirmed": 90968,
+        "deaths": 3238,
+        "recovered": 79654
     },
     {
         "Name": "폴란드",
@@ -437,7 +437,7 @@
         "Name_en": "Singapore",
         "confirmed": 57742,
         "deaths": 27,
-        "recovered": 57393
+        "recovered": 57466
     },
     {
         "Name": "Uzbekistan",
@@ -640,20 +640,20 @@
         "recovered": 19202
     },
     {
+        "Name": "그리스",
+        "Name_ch": "希腊",
+        "Name_en": "Greece",
+        "confirmed": 18123,
+        "deaths": 388,
+        "recovered": 9989
+    },
+    {
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
         "confirmed": 17786,
         "deaths": 737,
         "recovered": 14801
-    },
-    {
-        "Name": "그리스",
-        "Name_ch": "希腊",
-        "Name_en": "Greece",
-        "confirmed": 17707,
-        "deaths": 383,
-        "recovered": 9989
     },
     {
         "Name": "Tunisia",
@@ -715,9 +715,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 13391,
-        "deaths": 380,
-        "recovered": 7629
+        "confirmed": 13518,
+        "deaths": 384,
+        "recovered": 7732
     },
     {
         "Name": "Myanmar",
@@ -776,6 +776,14 @@
         "recovered": 8950
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 10049,
+        "deaths": 57,
+        "recovered": 4496
+    },
+    {
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
@@ -806,14 +814,6 @@
         "confirmed": 9574,
         "deaths": 45,
         "recovered": 4329
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 9226,
-        "deaths": 51,
-        "recovered": 4359
     },
     {
         "Name": "Haiti",
@@ -884,7 +884,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 5866,
-        "deaths": 34,
+        "deaths": 36,
         "recovered": 2324
     },
     {
@@ -1240,20 +1240,20 @@
         "recovered": 1307
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1728,
+        "deaths": 7,
+        "recovered": 1431
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1713,
         "deaths": 22,
         "recovered": 1369
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1579,
-        "deaths": 6,
-        "recovered": 1335
     },
     {
         "Name": "Lesotho",
