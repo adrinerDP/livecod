@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7357603,209741,4604284
+미국,美国,United States,7359345,209759,4605898
 인도,印度,India,6143019,96351,5098573
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1159573,20385,945920
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,808714,32324,670989
 스페인,西班牙,Spain,748266,31411,0
 멕시코,墨西哥,Mexico,730317,76430,523831
-Argentina,,Argentina,711325,15749,565935
+Argentina,,Argentina,723132,16113,576715
 남아프리카 공화국,南非共和国,South Africa,671669,16586,604478
 프랑스,法国,France,542639,31808,95426
 칠레,智利,Chile,459671,12698,433016
@@ -120,7 +120,7 @@ Djibouti,,Djibouti,5410,61,5340
 Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5028,83,4740
 Congo,,Congo,5008,89,3887
-Suriname,,Suriname,4835,102,4661
+Suriname,,Suriname,4836,102,4667
 Rwanda,,Rwanda,4832,29,3117
 CAR,,CAR,4806,62,1840
 Angola,,Angola,4797,176,1813
@@ -140,7 +140,7 @@ Mayotte,,Mayotte,3541,40,2964
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3090,130,2439
 Malta,,Malta,3006,32,2399
-Guyana,,Guyana,2772,76,1564
+Guyana,,Guyana,2787,78,1608
 South Sudan,,South Sudan,2692,49,1290
 Iceland,,Iceland,2663,10,2161
 Benin,,Benin,2340,40,1960
@@ -179,12 +179,12 @@ Saint Martin,,Saint Martin,383,8,273
 Eritrea,,Eritrea,375,0,341
 Mauritius,,Mauritius,367,10,343
 Curaçao,,Curaçao,364,1,148
-Isle of Man,,Isle of Man,340,24,314
+Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,305
 캄보디아,柬埔寨,Cambodia,276,0,275
 부탄,不丹,Bhutan,273,0,210
 모나코,摩纳哥,Monaco,212,2,174
-Cayman Islands,,Cayman Islands,210,1,207
+Cayman Islands,,Cayman Islands,211,1,208
 Barbados,,Barbados,190,7,178
 Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142

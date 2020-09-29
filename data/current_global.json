@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7357603,
-        "deaths": 209741,
-        "recovered": 4604284
+        "confirmed": 7359345,
+        "deaths": 209759,
+        "recovered": 4605898
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 711325,
-        "deaths": 15749,
-        "recovered": 565935
+        "confirmed": 723132,
+        "deaths": 16113,
+        "recovered": 576715
     },
     {
         "Name": "남아프리카 공화국",
@@ -971,9 +971,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4835,
+        "confirmed": 4836,
         "deaths": 102,
-        "recovered": 4661
+        "recovered": 4667
     },
     {
         "Name": "Rwanda",
@@ -1131,9 +1131,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 2772,
-        "deaths": 76,
-        "recovered": 1564
+        "confirmed": 2787,
+        "deaths": 78,
+        "recovered": 1608
     },
     {
         "Name": "South Sudan",
@@ -1445,7 +1445,7 @@
         "Name_en": "Isle of Man",
         "confirmed": 340,
         "deaths": 24,
-        "recovered": 314
+        "recovered": 315
     },
     {
         "Name": "Mongolia",
@@ -1483,9 +1483,9 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 210,
+        "confirmed": 211,
         "deaths": 1,
-        "recovered": 207
+        "recovered": 208
     },
     {
         "Name": "Barbados",
