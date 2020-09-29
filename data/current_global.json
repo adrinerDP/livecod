@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7376177,
-        "deaths": 210140,
-        "recovered": 4629113
+        "confirmed": 7376581,
+        "deaths": 210148,
+        "recovered": 4629825
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 289759,
-        "deaths": 9549,
+        "confirmed": 289939,
+        "deaths": 9552,
         "recovered": 254200
     },
     {
@@ -387,9 +387,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 73944,
-        "deaths": 1177,
-        "recovered": 30753
+        "confirmed": 74584,
+        "deaths": 1191,
+        "recovered": 30952
     },
     {
         "Name": "코스타리카",
@@ -771,9 +771,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10157,
+        "confirmed": 10194,
         "deaths": 34,
-        "recovered": 8950
+        "recovered": 9037
     },
     {
         "Name": "요르단",
@@ -832,20 +832,20 @@
         "recovered": 7934
     },
     {
+        "Name": "Mozambique",
+        "Name_ch": "",
+        "Name_en": "Mozambique",
+        "confirmed": 8556,
+        "deaths": 59,
+        "recovered": 5205
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "confirmed": 8431,
         "deaths": 124,
         "recovered": 7136
-    },
-    {
-        "Name": "Mozambique",
-        "Name_ch": "",
-        "Name_en": "Mozambique",
-        "confirmed": 8288,
-        "deaths": 59,
-        "recovered": 4836
     },
     {
         "Name": "Zimbabwe",
@@ -1115,9 +1115,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3090,
-        "deaths": 130,
-        "recovered": 2439
+        "confirmed": 3101,
+        "deaths": 131,
+        "recovered": 2443
     },
     {
         "Name": "Malta",
