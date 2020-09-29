@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7373206,
-        "deaths": 210077,
-        "recovered": 4627921
+        "confirmed": 7373784,
+        "deaths": 210102,
+        "recovered": 4628820
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6156722,
-        "deaths": 96468,
-        "recovered": 5109584
+        "confirmed": 6193966,
+        "deaths": 96854,
+        "recovered": 5145534
     },
     {
         "Name": "브라질",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 234060,
-        "deaths": 1516,
-        "recovered": 167032
+        "confirmed": 235465,
+        "deaths": 1523,
+        "recovered": 167568
     },
     {
         "Name": "Ukraine",
@@ -419,9 +419,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 65883,
-        "deaths": 618,
-        "recovered": 31799
+        "confirmed": 66788,
+        "deaths": 635,
+        "recovered": 32693
     },
     {
         "Name": "나이지리아",
@@ -467,9 +467,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 51213,
-        "deaths": 1719,
-        "recovered": 35962
+        "confirmed": 51368,
+        "deaths": 1726,
+        "recovered": 36063
     },
     {
         "Name": "아르메니아",
