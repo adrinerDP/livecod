@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6145291,
-        "deaths": 96351,
+        "confirmed": 6148640,
+        "deaths": 96378,
         "recovered": 5101397
     },
     {
@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 449960,
-        "deaths": 25779,
-        "recovered": 376531
+        "confirmed": 453637,
+        "deaths": 25986,
+        "recovered": 378727
     },
     {
         "Name": "영국",
@@ -315,9 +315,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 92095,
-        "deaths": 413,
-        "recovered": 81462
+        "confirmed": 93090,
+        "deaths": 416,
+        "recovered": 82538
     },
     {
         "Name": "스웨덴",
@@ -667,9 +667,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16348,
+        "confirmed": 16377,
         "deaths": 229,
-        "recovered": 14947
+        "recovered": 15139
     },
     {
         "Name": "Tunisia",
@@ -747,9 +747,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10624,
-        "deaths": 271,
-        "recovered": 10093
+        "confirmed": 10631,
+        "deaths": 272,
+        "recovered": 10129
     },
     {
         "Name": "Guinea",
