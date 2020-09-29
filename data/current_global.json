@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7370476,
-        "deaths": 210037,
-        "recovered": 4625655
+        "confirmed": 7371240,
+        "deaths": 210058,
+        "recovered": 4625684
     },
     {
         "Name": "인도",
@@ -107,8 +107,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 439013,
-        "deaths": 42001,
+        "confirmed": 446156,
+        "deaths": 42072,
         "recovered": 0
     },
     {
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 289365,
         "deaths": 9549,
-        "recovered": 252400
+        "recovered": 254200
     },
     {
         "Name": "인도네시아",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 155301,
-        "deaths": 9278,
-        "recovered": 132607
+        "confirmed": 156655,
+        "deaths": 9289,
+        "recovered": 133397
     },
     {
         "Name": "에콰도르",
@@ -763,9 +763,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 10441,
-        "deaths": 163,
-        "recovered": 6720
+        "confirmed": 10575,
+        "deaths": 164,
+        "recovered": 7002
     },
     {
         "Name": "Maldives",
@@ -835,9 +835,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 8376,
+        "confirmed": 8431,
         "deaths": 124,
-        "recovered": 7128
+        "recovered": 7136
     },
     {
         "Name": "Mozambique",
@@ -1032,6 +1032,14 @@
         "recovered": 1074
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 3903,
+        "deaths": 91,
+        "recovered": 2072
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
@@ -1046,14 +1054,6 @@
         "confirmed": 3872,
         "deaths": 25,
         "recovered": 3037
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3838,
-        "deaths": 89,
-        "recovered": 2005
     },
     {
         "Name": "Somalia",
