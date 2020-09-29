@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7359345,209759,4605898
+미국,美国,United States,7361293,209777,4609381
 인도,印度,India,6143019,96351,5098573
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1159573,20385,945920
@@ -63,9 +63,9 @@ Ghana,,Ghana,46444,299,45646
 Kyrgyzstan,,Kyrgyzstan,46355,1064,42613
 오스트리아,奥地利,Austria,43432,790,34052
 아제르바이잔,阿塞拜疆,Azerbaijan,40061,588,37725
+Paraguay,,Paraguay,39432,818,23063
 아프가니스탄,阿富汗,Afghanistan,39233,1455,32642
 팔레스타인,巴勒斯坦,Palestine,39121,299,30220
-Paraguay,,Paraguay,38684,803,22419
 Kenya,,Kenya,38168,700,24681
 레바논,黎巴嫩,Lebanon,37272,351,16676
 아일랜드,冰岛,Ireland,35377,1802,23364
@@ -147,12 +147,12 @@ Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
 Yemen,,Yemen,2031,587,1266
+Burkina Faso,,Burkina Faso,2028,57,1279
 Uruguay,,Uruguay,2010,47,1755
-Burkina Faso,,Burkina Faso,2008,56,1276
 안도라,安道尔,Andorra,1966,53,1265
 Belize,,Belize,1854,24,1196
 New Zealand,,New Zealand,1833,25,1753
-토고,多哥,Togo,1743,46,1330
+토고,多哥,Togo,1749,47,1336
 Cyprus,,Cyprus,1713,22,1369
 라트비아,约旦,Latvia,1697,36,1304
 French Polynesia,,French Polynesia,1579,6,1335
@@ -166,12 +166,12 @@ Sao Tome and Principe,,Sao Tome and Principe,911,15,885
 산마리노,圣马力诺,San Marino,727,42,676
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,682,5,620
-Channel Islands,,Channel Islands,656,48,600
+Channel Islands,,Channel Islands,664,48,600
 Sint Maarten,,Sint Maarten,644,22,532
 Papua New Guinea,,Papua New Guinea,532,7,516
 대만,台湾,Taiwan,513,7,480
 Tanzania,,Tanzania,509,21,183
-Burundi,,Burundi,485,1,472
+Burundi,,Burundi,502,1,472
 Comoros,,Comoros,478,7,458
 Faeroe Islands,,Faeroe Islands,460,0,423
 Saint Martin,,Saint Martin,383,8,273
