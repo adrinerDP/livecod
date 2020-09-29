@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7364646,209896,4610995
-인도,印度,India,6148640,96378,5101397
+인도,印度,India,6156722,96468,5109584
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
 콜롬비아,哥伦比亚,Colombia,818203,25641,722536
@@ -23,7 +23,7 @@ Bangladesh,,Bangladesh,362043,5219,273698
 독일,德国,Germany,289020,9545,252400
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,234060,1516,167032
-Ukraine,,Ukraine,204932,4065,88453
+Ukraine,,Ukraine,204932,4065,90250
 캐나다,加拿大,Canada,155301,9278,132607
 에콰도르,厄瓜多尔,Ecuador,134965,11280,112296
 Bolivia,,Bolivia,134223,7900,94324
@@ -86,10 +86,10 @@ Tunisia,,Tunisia,17405,246,5032
 Madagascar,,Madagascar,16377,229,15139
 세네갈,塞内加尔,Senegal,14945,310,12335
 Zambia,,Zambia,14715,332,13937
-노르웨이,挪威,Norway,13788,274,11190
+노르웨이,挪威,Norway,13861,274,11190
 Sudan,,Sudan,13606,836,6764
 Albania,,Albania,13391,380,7629
-Myanmar,,Myanmar,11631,256,3073
+Myanmar,,Myanmar,12425,284,3391
 말레이시아,马来西亚,Malaysia,11135,134,9939
 Namibia,,Namibia,11121,121,8787
 DRC,,DRC,10631,272,10129
@@ -135,7 +135,7 @@ Somalia,,Somalia,3588,99,2946
 Gambia,,Gambia,3569,111,2161
 태국,泰国,Thailand,3559,59,3370
 Mayotte,,Mayotte,3541,40,2964
-스리랑카,斯里兰卡,Sri Lanka,3365,13,3230
+스리랑카,斯里兰卡,Sri Lanka,3373,13,3230
 에스토니아,爱沙尼亚,Estonia,3315,64,2564
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3090,130,2439
@@ -157,7 +157,7 @@ New Zealand,,New Zealand,1835,25,1755
 Cyprus,,Cyprus,1713,22,1369
 French Polynesia,,French Polynesia,1579,6,1335
 Lesotho,,Lesotho,1565,35,822
-Liberia,,Liberia,1342,82,1221
+Liberia,,Liberia,1343,82,1221
 Martinique,,Martinique,1290,20,98
 Niger,,Niger,1196,69,1110
 Chad,,Chad,1185,85,1006
