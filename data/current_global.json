@@ -59,9 +59,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 730317,
-        "deaths": 76430,
-        "recovered": 523831
+        "confirmed": 733717,
+        "deaths": 76603,
+        "recovered": 527278
     },
     {
         "Name": "Argentina",
@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 133901,
-        "deaths": 7858,
-        "recovered": 93791
+        "confirmed": 134223,
+        "deaths": 7900,
+        "recovered": 94324
     },
     {
         "Name": "카타르",
@@ -1219,9 +1219,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1833,
+        "confirmed": 1835,
         "deaths": 25,
-        "recovered": 1753
+        "recovered": 1755
     },
     {
         "Name": "토고",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85372,
+        "confirmed": 85384,
         "deaths": 4634,
-        "recovered": 80553
+        "recovered": 80566
     }
 ]
