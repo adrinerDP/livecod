@@ -355,9 +355,17 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 77946,
-        "deaths": 822,
-        "recovered": 74167
+        "confirmed": 78260,
+        "deaths": 828,
+        "recovered": 74320
+    },
+    {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 76258,
+        "deaths": 491,
+        "recovered": 55371
     },
     {
         "Name": "Honduras",
@@ -366,14 +374,6 @@
         "confirmed": 75537,
         "deaths": 2301,
         "recovered": 26957
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 74745,
-        "deaths": 481,
-        "recovered": 54640
     },
     {
         "Name": "포르투갈",
@@ -451,8 +451,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 52646,
-        "deaths": 2065,
+        "confirmed": 52871,
+        "deaths": 2069,
         "recovered": 42700
     },
     {
@@ -1123,9 +1123,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 3006,
-        "deaths": 32,
-        "recovered": 2399
+        "confirmed": 3035,
+        "deaths": 34,
+        "recovered": 2484
     },
     {
         "Name": "Guyana",
