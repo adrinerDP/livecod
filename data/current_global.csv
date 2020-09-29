@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7371240,210058,4625684
+미국,美国,United States,7373206,210077,4627921
 인도,印度,India,6156722,96468,5109584
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -16,11 +16,11 @@ Argentina,,Argentina,723132,16113,576715
 Bangladesh,,Bangladesh,362043,5219,273698
 이라크,伊拉克,Iraq,358290,9122,288812
 사우디아라비아,沙特阿拉伯,Saudi Arabia,334187,4739,318542
-터키,土耳其,Turkey,315845,8062,277052
+터키,土耳其,Turkey,317272,8130,278504
 이탈리아,义大利,Italy,313011,35875,226506
 파키스탄,巴基斯坦,Pakistan,311516,6474,296340
 필리핀,菲律宾,Philippines,309303,5448,252930
-독일,德国,Germany,289365,9549,254200
+독일,德国,Germany,289759,9549,254200
 인도네시아,印度尼西亚,Indonesia,282724,10601,210437
 이스라엘,以色列,Israel,234060,1516,167032
 Ukraine,,Ukraine,204932,4065,90250
@@ -32,7 +32,7 @@ Bolivia,,Bolivia,134223,7900,94324
 모로코,摩洛哥,Morocco,119107,2113,97468
 네덜란드,荷兰,Netherlands,117551,6393,0
 벨기에,比利时,Belgium,115353,9987,19301
-도미니카 공화국,多明尼加共和国,Dominican Republic,111666,2098,86422
+도미니카 공화국,多明尼加共和国,Dominican Republic,111900,2101,86998
 Panama,,Panama,111277,2348,87695
 Kazakhstan,,Kazakhstan,107833,1699,102805
 쿠웨이트,科威特,Kuwait,104568,607,96049
@@ -111,11 +111,11 @@ Mauritania,,Mauritania,7474,161,7091
 Jamaica,,Jamaica,6408,101,1770
 조지아,格鲁吉亚,Georgia,5866,36,2324
 Cabo Verde,,Cabo Verde,5817,59,5134
-Malawi,,Malawi,5770,179,4243
+Malawi,,Malawi,5772,179,4245
 Cuba,,Cuba,5531,122,4866
 슬로베니아,斯洛文尼亚,Slovenia,5487,149,3682
 Eswatini,,Eswatini,5452,108,4844
-Djibouti,,Djibouti,5410,61,5340
+Djibouti,,Djibouti,5416,61,5344
 홍콩,香港,Hong Kong,5080,105,4807
 Nicaragua,,Nicaragua,5073,149,2913
 Equatorial Guinea,,Equatorial Guinea,5028,83,4740
@@ -146,7 +146,7 @@ Iceland,,Iceland,2663,10,2161
 Benin,,Benin,2340,40,1960
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2215,72,1681
-Yemen,,Yemen,2031,587,1266
+Yemen,,Yemen,2031,587,1275
 Burkina Faso,,Burkina Faso,2028,57,1279
 Uruguay,,Uruguay,2010,47,1755
 안도라,安道尔,Andorra,1966,53,1265

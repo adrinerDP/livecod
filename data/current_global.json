@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7371240,
-        "deaths": 210058,
-        "recovered": 4625684
+        "confirmed": 7373206,
+        "deaths": 210077,
+        "recovered": 4627921
     },
     {
         "Name": "인도",
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 315845,
-        "deaths": 8062,
-        "recovered": 277052
+        "confirmed": 317272,
+        "deaths": 8130,
+        "recovered": 278504
     },
     {
         "Name": "이탈리아",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 289365,
+        "confirmed": 289759,
         "deaths": 9549,
         "recovered": 254200
     },
@@ -267,9 +267,9 @@
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
-        "confirmed": 111666,
-        "deaths": 2098,
-        "recovered": 86422
+        "confirmed": 111900,
+        "deaths": 2101,
+        "recovered": 86998
     },
     {
         "Name": "Panama",
@@ -899,9 +899,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5770,
+        "confirmed": 5772,
         "deaths": 179,
-        "recovered": 4243
+        "recovered": 4245
     },
     {
         "Name": "Cuba",
@@ -931,9 +931,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5410,
+        "confirmed": 5416,
         "deaths": 61,
-        "recovered": 5340
+        "recovered": 5344
     },
     {
         "Name": "홍콩",
@@ -1181,7 +1181,7 @@
         "Name_en": "Yemen",
         "confirmed": 2031,
         "deaths": 587,
-        "recovered": 1266
+        "recovered": 1275
     },
     {
         "Name": "Burkina Faso",
