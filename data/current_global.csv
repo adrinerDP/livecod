@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7364646,209896,4610995
+미국,美国,United States,7365427,209922,4611282
 인도,印度,India,6156722,96468,5109584
 브라질,巴西,Brazil,4748327,142161,4084182
 러시아,俄罗斯,Russia,1167805,20545,952399
@@ -56,8 +56,8 @@ Venezuela,,Venezuela,73528,614,63346
 싱가포르,新加坡,Singapore,57742,27,57393
 Uzbekistan,,Uzbekistan,56252,465,52859
 스위스,瑞士,Switzerland,52871,2069,42700
+Moldova,,Moldova,52029,1310,38579
 알제리,阿尔及利亚,Algeria,51213,1719,35962
-Moldova,,Moldova,51194,1301,38217
 아르메니아,亚美尼亚,Armenia,49901,958,43849
 Kyrgyzstan,,Kyrgyzstan,46522,1064,42761
 Ghana,,Ghana,46482,301,45651
@@ -112,8 +112,8 @@ Jamaica,,Jamaica,6170,93,1741
 조지아,格鲁吉亚,Georgia,5866,34,2324
 Cabo Verde,,Cabo Verde,5817,59,5134
 Malawi,,Malawi,5770,179,4243
+Cuba,,Cuba,5531,122,4866
 슬로베니아,斯洛文尼亚,Slovenia,5487,149,3682
-Cuba,,Cuba,5483,122,4787
 Eswatini,,Eswatini,5452,108,4844
 Djibouti,,Djibouti,5410,61,5340
 홍콩,香港,Hong Kong,5080,105,4807
@@ -126,7 +126,7 @@ CAR,,CAR,4806,62,1840
 Angola,,Angola,4797,176,1813
 Lithuania,,Lithuania,4578,92,2349
 Guadeloupe,,Guadeloupe,4487,42,2199
-Trinidad and Tobago,,Trinidad and Tobago,4386,72,2275
+Trinidad and Tobago,,Trinidad and Tobago,4441,74,2454
 Syria,,Syria,4102,194,1074
 Réunion,,Réunion,3882,14,2819
 Aruba,,Aruba,3872,25,3037

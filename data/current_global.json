@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7364646,
-        "deaths": 209896,
-        "recovered": 4610995
+        "confirmed": 7365427,
+        "deaths": 209922,
+        "recovered": 4611282
     },
     {
         "Name": "인도",
@@ -456,20 +456,20 @@
         "recovered": 42700
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "confirmed": 52029,
+        "deaths": 1310,
+        "recovered": 38579
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 51213,
         "deaths": 1719,
         "recovered": 35962
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "confirmed": 51194,
-        "deaths": 1301,
-        "recovered": 38217
     },
     {
         "Name": "아르메니아",
@@ -904,20 +904,20 @@
         "recovered": 4243
     },
     {
+        "Name": "Cuba",
+        "Name_ch": "",
+        "Name_en": "Cuba",
+        "confirmed": 5531,
+        "deaths": 122,
+        "recovered": 4866
+    },
+    {
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
         "confirmed": 5487,
         "deaths": 149,
         "recovered": 3682
-    },
-    {
-        "Name": "Cuba",
-        "Name_ch": "",
-        "Name_en": "Cuba",
-        "confirmed": 5483,
-        "deaths": 122,
-        "recovered": 4787
     },
     {
         "Name": "Eswatini",
@@ -1019,9 +1019,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4386,
-        "deaths": 72,
-        "recovered": 2275
+        "confirmed": 4441,
+        "deaths": 74,
+        "recovered": 2454
     },
     {
         "Name": "Syria",
