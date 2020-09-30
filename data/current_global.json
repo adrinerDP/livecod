@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6229474,
-        "deaths": 97541,
-        "recovered": 5187825
+        "confirmed": 6233700,
+        "deaths": 97624,
+        "recovered": 5192917
     },
     {
         "Name": "브라질",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 104568,
-        "deaths": 607,
-        "recovered": 96049
+        "confirmed": 105182,
+        "deaths": 610,
+        "recovered": 96688
     },
     {
         "Name": "이집트",
@@ -355,9 +355,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 78260,
-        "deaths": 828,
-        "recovered": 74320
+        "confirmed": 78631,
+        "deaths": 833,
+        "recovered": 74525
     },
     {
         "Name": "네팔",
@@ -587,9 +587,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 27464,
+        "confirmed": 27998,
         "deaths": 650,
-        "recovered": 20320
+        "recovered": 20754
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -744,20 +744,20 @@
         "recovered": 8937
     },
     {
+        "Name": "DRC",
+        "Name_ch": "",
+        "Name_en": "DRC",
+        "confirmed": 10659,
+        "deaths": 272,
+        "recovered": 10139
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
         "confirmed": 10634,
         "deaths": 66,
         "recovered": 9960
-    },
-    {
-        "Name": "DRC",
-        "Name_ch": "",
-        "Name_en": "DRC",
-        "confirmed": 10631,
-        "deaths": 272,
-        "recovered": 10129
     },
     {
         "Name": "Montenegro",
@@ -851,9 +851,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 8017,
+        "confirmed": 8129,
         "deaths": 75,
-        "recovered": 4033
+        "recovered": 4260
     },
     {
         "Name": "Zimbabwe",
