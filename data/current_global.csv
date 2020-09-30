@@ -1,8 +1,8 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7406729,210797,4649521
-인도,印度,India,6225763,97529,5187825
+인도,印度,India,6229474,97541,5187825
 브라질,巴西,Brazil,4780317,143010,4135088
-러시아,俄罗斯,Russia,1167805,20545,952399
+러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,824042,25828,734154
 페루,秘鲁,Peru,811768,32396,676925
 스페인,西班牙,Spain,758172,31614,0
@@ -50,10 +50,10 @@ Honduras,,Honduras,76098,2323,27383
 코스타리카,哥斯达黎加,Costa Rica,74604,880,30703
 Ethiopia,,Ethiopia,74584,1191,30952
 Venezuela,,Venezuela,74363,621,64200
-바레인,巴林,Bahrain,70422,246,64267
+바레인,巴林,Bahrain,70422,248,64267
 체코,捷克,Czechia,67843,636,32759
 나이지리아,尼日利亚,Nigeria,58647,1111,49937
-싱가포르,新加坡,Singapore,57742,27,57466
+싱가포르,新加坡,Singapore,57765,27,57466
 Uzbekistan,,Uzbekistan,56519,468,52970
 스위스,瑞士,Switzerland,52871,2069,42700
 Moldova,,Moldova,52029,1310,38579
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,28981,843,23685
 덴마크,丹麦,Denmark,27464,650,20320
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27226,843,20322
 호주,澳大利亚,Australia,27078,886,24754
-헝가리,匈牙利,Hungary,25567,757,5173
+헝가리,匈牙利,Hungary,26461,765,5890
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20547,813,14489
 Ivory Coast,,Ivory Coast,19669,120,19241
@@ -199,7 +199,7 @@ St. Barth,,St. Barth,48,0,25
 Fiji,,Fiji,32,2,28
 Dominica,,Dominica,30,0,24
 Timor-Leste,,Timor-Leste,28,0,28
-New Caledonia,,New Caledonia,27,0,26
+New Caledonia,,New Caledonia,27,0,27
 Saint Lucia,,Saint Lucia,27,0,27
 Grenada,,Grenada,24,0,24
 Laos,,Laos,23,0,22

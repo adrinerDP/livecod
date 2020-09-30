@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6225763,
-        "deaths": 97529,
+        "confirmed": 6229474,
+        "deaths": 97541,
         "recovered": 5187825
     },
     {
@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1167805,
-        "deaths": 20545,
-        "recovered": 952399
+        "confirmed": 1176286,
+        "deaths": 20722,
+        "recovered": 958257
     },
     {
         "Name": "콜롬비아",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 70422,
-        "deaths": 246,
+        "deaths": 248,
         "recovered": 64267
     },
     {
@@ -435,7 +435,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57742,
+        "confirmed": 57765,
         "deaths": 27,
         "recovered": 57466
     },
@@ -611,9 +611,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 25567,
-        "deaths": 757,
-        "recovered": 5173
+        "confirmed": 26461,
+        "deaths": 765,
+        "recovered": 5890
     },
     {
         "Name": "카메룬",
@@ -1605,7 +1605,7 @@
         "Name_en": "New Caledonia",
         "confirmed": 27,
         "deaths": 0,
-        "recovered": 26
+        "recovered": 27
     },
     {
         "Name": "Saint Lucia",
