@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7425555,
-        "deaths": 211286,
-        "recovered": 4672678
+        "confirmed": 7429930,
+        "deaths": 211359,
+        "recovered": 4677570
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 291929,
-        "deaths": 9560,
+        "confirmed": 292559,
+        "deaths": 9567,
         "recovered": 256000
     },
     {
@@ -891,9 +891,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 5900,
-        "deaths": 59,
-        "recovered": 5228
+        "confirmed": 6024,
+        "deaths": 60,
+        "recovered": 5277
     },
     {
         "Name": "Malawi",
@@ -971,9 +971,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 4905,
-        "deaths": 179,
-        "recovered": 1833
+        "confirmed": 4972,
+        "deaths": 183,
+        "recovered": 1941
     },
     {
         "Name": "Suriname",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 506,
+        "confirmed": 508,
         "deaths": 1,
         "recovered": 472
     },
@@ -1493,7 +1493,7 @@
         "Name_en": "Barbados",
         "confirmed": 190,
         "deaths": 7,
-        "recovered": 178
+        "recovered": 179
     },
     {
         "Name": "Bermuda",
