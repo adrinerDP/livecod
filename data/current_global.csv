@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7410679,210867,4650581
+미국,美国,United States,7411276,211052,4650581
 인도,印度,India,6245404,97761,5206044
 브라질,巴西,Brazil,4780317,143010,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
@@ -10,14 +10,14 @@
 Argentina,,Argentina,736609,16519,585857
 남아프리카 공화국,南非共和国,South Africa,672572,16667,606520
 프랑스,法国,France,550690,31893,96327
-칠레,智利,Chile,461300,12725,434794
+칠레,智利,Chile,462991,12741,436589
 이란,伊朗,Iran,457219,26169,380956
 영국,英国,UK,446156,42072,0
 Bangladesh,,Bangladesh,363479,5251,275487
 이라크,伊拉克,Iraq,362981,9181,292197
 사우디아라비아,沙特阿拉伯,Saudi Arabia,334605,4768,319154
 터키,土耳其,Turkey,317272,8130,278504
-이탈리아,义大利,Italy,313011,35875,226506
+이탈리아,义大利,Italy,314861,35894,227704
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
 독일,德国,Germany,291191,9559,256000
@@ -40,8 +40,8 @@ Kazakhstan,,Kazakhstan,107908,1725,102874
 오만,阿曼,Oman,98585,935,88528
 아랍에미리트,阿拉伯联合酋长国,UAE,93090,416,82538
 스웨덴,瑞典语,Sweden,92863,5893,0
+Guatemala,,Guatemala,91746,3246,80256
 폴란드,波兰,Poland,91514,2513,69695
-Guatemala,,Guatemala,90968,3238,79654
 일본,日本,Japan,82494,1557,75459
 벨라루스,白俄罗斯,Belarus,78631,833,74525
 네팔,尼泊尔,Nepal,77817,498,56428
@@ -53,7 +53,7 @@ Venezuela,,Venezuela,74363,621,64200
 바레인,巴林,Bahrain,70422,248,64267
 체코,捷克,Czechia,67843,636,32759
 나이지리아,尼日利亚,Nigeria,58647,1111,49937
-싱가포르,新加坡,Singapore,57765,27,57466
+싱가포르,新加坡,Singapore,57765,27,57488
 Uzbekistan,,Uzbekistan,56519,468,52970
 스위스,瑞士,Switzerland,53282,2074,42700
 Moldova,,Moldova,52029,1310,38579
@@ -90,6 +90,7 @@ Zambia,,Zambia,14759,332,13959
 Sudan,,Sudan,13640,836,6764
 Albania,,Albania,13518,384,7732
 Myanmar,,Myanmar,13373,310,3755
+요르단,约旦,Jordan,11825,61,4626
 Namibia,,Namibia,11265,121,9014
 말레이시아,马来西亚,Malaysia,11224,136,9967
 DRC,,DRC,10659,272,10139
@@ -97,7 +98,6 @@ Guinea,,Guinea,10634,66,9960
 Montenegro,,Montenegro,10575,164,7002
 Maldives,,Maldives,10194,34,9037
 슬로바키아,斯洛伐克,Slovakia,10141,48,4395
-요르단,约旦,Jordan,10049,57,4496
 핀란드,芬兰,Finland,9992,344,8100
 French Guiana,,French Guiana,9929,66,9569
 Tajikistan,,Tajikistan,9769,76,8572
@@ -108,12 +108,12 @@ Mozambique,,Mozambique,8556,59,5205
 Uganda,,Uganda,8129,75,4260
 Zimbabwe,,Zimbabwe,7837,228,6122
 Mauritania,,Mauritania,7488,161,7111
-Jamaica,,Jamaica,6408,101,1770
+Jamaica,,Jamaica,6482,107,1867
 조지아,格鲁吉亚,Georgia,6192,39,3120
 Cabo Verde,,Cabo Verde,5900,59,5228
 Malawi,,Malawi,5772,179,4245
 슬로베니아,斯洛文尼亚,Slovenia,5690,150,3804
-Cuba,,Cuba,5531,122,4866
+Cuba,,Cuba,5597,122,4893
 Eswatini,,Eswatini,5462,108,4859
 Djibouti,,Djibouti,5416,61,5344
 Nicaragua,,Nicaragua,5170,151,2913
@@ -125,8 +125,8 @@ Suriname,,Suriname,4863,104,4676
 Rwanda,,Rwanda,4836,29,3125
 CAR,,CAR,4806,62,1840
 Lithuania,,Lithuania,4693,92,2365
+Trinidad and Tobago,,Trinidad and Tobago,4517,75,2560
 Guadeloupe,,Guadeloupe,4487,42,2199
-Trinidad and Tobago,,Trinidad and Tobago,4463,74,2454
 Syria,,Syria,4148,197,1088
 Bahamas,,Bahamas,4022,95,2141
 Aruba,,Aruba,3934,26,3181
@@ -163,7 +163,7 @@ Niger,,Niger,1196,69,1110
 Chad,,Chad,1193,85,1007
 베트남,越南,Vietnam,1094,35,1010
 Sao Tome and Principe,,Sao Tome and Principe,911,15,885
-산마리노,圣马力诺,San Marino,727,42,676
+산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,686,6,642
 Channel Islands,,Channel Islands,664,48,600
