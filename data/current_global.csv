@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7440429,211591,4683615
+미국,美国,United States,7441763,211632,4686359
 인도,印度,India,6310267,98708,5270007
-브라질,巴西,Brazil,4787637,143243,4135088
+브라질,巴西,Brazil,4810935,143962,4180376
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,824042,25828,734154
 페루,秘鲁,Peru,811768,32396,676925
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,75368,1198,31204
 Venezuela,,Venezuela,74363,621,64200
 바레인,巴林,Bahrain,70422,248,64267
 체코,捷克,Czechia,68919,655,33443
-나이지리아,尼日利亚,Nigeria,58647,1111,49937
+나이지리아,尼日利亚,Nigeria,58848,1112,50358
 싱가포르,新加坡,Singapore,57765,27,57488
 Uzbekistan,,Uzbekistan,56717,470,53366
 스위스,瑞士,Switzerland,53282,2074,42700
@@ -86,7 +86,7 @@ North Macedonia,,North Macedonia,17977,739,14959
 Madagascar,,Madagascar,16408,230,15301
 세네갈,塞内加尔,Senegal,14982,311,12437
 Zambia,,Zambia,14759,332,13959
-노르웨이,挪威,Norway,13961,274,11190
+노르웨이,挪威,Norway,14027,274,11190
 Albania,,Albania,13649,387,7847
 Sudan,,Sudan,13640,836,6764
 Myanmar,,Myanmar,13373,310,3755
@@ -127,7 +127,7 @@ Rwanda,,Rwanda,4840,29,3154
 CAR,,CAR,4806,62,1840
 Lithuania,,Lithuania,4693,92,2365
 Trinidad and Tobago,,Trinidad and Tobago,4517,75,2560
-Syria,,Syria,4148,197,1088
+Syria,,Syria,4200,200,1103
 Bahamas,,Bahamas,4022,95,2141
 Réunion,,Réunion,3993,16,2819
 Aruba,,Aruba,3963,27,3259

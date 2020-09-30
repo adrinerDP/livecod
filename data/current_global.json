@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7440429,
-        "deaths": 211591,
-        "recovered": 4683615
+        "confirmed": 7441763,
+        "deaths": 211632,
+        "recovered": 4686359
     },
     {
         "Name": "인도",
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4787637,
-        "deaths": 143243,
-        "recovered": 4135088
+        "confirmed": 4810935,
+        "deaths": 143962,
+        "recovered": 4180376
     },
     {
         "Name": "러시아",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 58647,
-        "deaths": 1111,
-        "recovered": 49937
+        "confirmed": 58848,
+        "deaths": 1112,
+        "recovered": 50358
     },
     {
         "Name": "싱가포르",
@@ -699,7 +699,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13961,
+        "confirmed": 14027,
         "deaths": 274,
         "recovered": 11190
     },
@@ -1027,9 +1027,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4148,
-        "deaths": 197,
-        "recovered": 1088
+        "confirmed": 4200,
+        "deaths": 200,
+        "recovered": 1103
     },
     {
         "Name": "Bahamas",
