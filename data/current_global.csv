@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7412124,211078,4651017
+미국,美国,United States,7413607,211099,4651025
 인도,印度,India,6245404,97761,5206044
 브라질,巴西,Brazil,4780317,143010,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,363479,5251,275487
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,239806,1547,173109
 Ukraine,,Ukraine,208959,4129,92360
-캐나다,加拿大,Canada,157586,9295,134194
+캐나다,加拿大,Canada,158425,9295,134194
 에콰도르,厄瓜多尔,Ecuador,135749,11312,112296
 Bolivia,,Bolivia,134641,7931,94895
 루마니아,尼亚,Romania,127572,4825,102476
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,74363,621,64200
 체코,捷克,Czechia,67843,636,32759
 나이지리아,尼日利亚,Nigeria,58647,1111,49937
 싱가포르,新加坡,Singapore,57765,27,57488
-Uzbekistan,,Uzbekistan,56519,468,52970
+Uzbekistan,,Uzbekistan,56717,470,53366
 스위스,瑞士,Switzerland,53282,2074,42700
 Moldova,,Moldova,53042,1320,38997
 알제리,阿尔及利亚,Algeria,51368,1726,36063
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,29077,843,23813
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20547,813,14489
 Ivory Coast,,Ivory Coast,19669,120,19241
-그리스,希腊,Greece,18123,388,9989
+그리스,希腊,Greece,18475,391,9989
 North Macedonia,,North Macedonia,17977,739,14959
 Tunisia,,Tunisia,17405,246,5032
 크로아티아,克罗地亚,Croatia,16593,280,15057
@@ -93,9 +93,9 @@ Myanmar,,Myanmar,13373,310,3755
 요르단,约旦,Jordan,11825,61,4626
 Namibia,,Namibia,11265,121,9014
 말레이시아,马来西亚,Malaysia,11224,136,9967
+Montenegro,,Montenegro,10772,169,7192
 DRC,,DRC,10659,272,10139
 Guinea,,Guinea,10634,66,9960
-Montenegro,,Montenegro,10575,164,7002
 Maldives,,Maldives,10194,34,9037
 슬로바키아,斯洛伐克,Slovakia,10141,48,4395
 핀란드,芬兰,Finland,9992,344,8100
@@ -104,7 +104,7 @@ Tajikistan,,Tajikistan,9769,76,8572
 Gabon,,Gabon,8752,54,7955
 Haiti,,Haiti,8740,227,6757
 Mozambique,,Mozambique,8556,59,5205
-룩셈부르크,卢森堡,Luxembourg,8431,124,7136
+룩셈부르크,卢森堡,Luxembourg,8509,124,7174
 Uganda,,Uganda,8129,75,4260
 Zimbabwe,,Zimbabwe,7837,228,6122
 Mauritania,,Mauritania,7488,161,7111
@@ -131,11 +131,11 @@ Syria,,Syria,4148,197,1088
 Bahamas,,Bahamas,4022,95,2141
 Réunion,,Réunion,3993,16,2819
 Aruba,,Aruba,3934,26,3181
+Mayotte,,Mayotte,3779,42,2964
 Somalia,,Somalia,3588,99,2946
 Gambia,,Gambia,3579,112,2161
 태국,泰国,Thailand,3564,59,3374
-Mayotte,,Mayotte,3541,40,2964
-스리랑카,斯里兰卡,Sri Lanka,3379,13,3230
+스리랑카,斯里兰卡,Sri Lanka,3380,13,3230
 에스토니아,爱沙尼亚,Estonia,3371,64,2605
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3101,131,2443
@@ -154,9 +154,9 @@ Belize,,Belize,1943,26,1225
 New Zealand,,New Zealand,1836,25,1767
 라트비아,约旦,Latvia,1824,37,1307
 토고,多哥,Togo,1759,48,1341
-Cyprus,,Cyprus,1743,22,1369
+Cyprus,,Cyprus,1755,22,1369
 French Polynesia,,French Polynesia,1728,7,1431
-Lesotho,,Lesotho,1576,35,873
+Lesotho,,Lesotho,1595,36,873
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
 Niger,,Niger,1196,69,1110
