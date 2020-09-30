@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7437644,
+        "confirmed": 7437646,
         "deaths": 211491,
         "recovered": 4680191
     },
@@ -1051,9 +1051,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 3934,
-        "deaths": 26,
-        "recovered": 3181
+        "confirmed": 3963,
+        "deaths": 27,
+        "recovered": 3259
     },
     {
         "Name": "Mayotte",
@@ -1131,9 +1131,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 2846,
-        "deaths": 78,
-        "recovered": 1644
+        "confirmed": 2894,
+        "deaths": 80,
+        "recovered": 1680
     },
     {
         "Name": "Iceland",
@@ -1176,6 +1176,14 @@
         "recovered": 1687
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 2056,
+        "deaths": 58,
+        "recovered": 1335
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
@@ -1198,14 +1206,6 @@
         "confirmed": 2033,
         "deaths": 48,
         "recovered": 1771
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 2032,
-        "deaths": 58,
-        "recovered": 1309
     },
     {
         "Name": "Belize",
@@ -1235,9 +1235,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1759,
+        "confirmed": 1784,
         "deaths": 48,
-        "recovered": 1341
+        "recovered": 1348
     },
     {
         "Name": "Cyprus",
@@ -1283,9 +1283,9 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1196,
+        "confirmed": 1197,
         "deaths": 69,
-        "recovered": 1110
+        "recovered": 1114
     },
     {
         "Name": "Chad",
@@ -1339,7 +1339,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 664,
+        "confirmed": 665,
         "deaths": 48,
         "recovered": 600
     },
