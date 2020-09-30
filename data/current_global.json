@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 204932,
-        "deaths": 4065,
-        "recovered": 90250
+        "confirmed": 208959,
+        "deaths": 4129,
+        "recovered": 92360
     },
     {
         "Name": "캐나다",
@@ -605,7 +605,7 @@
         "Name_en": "Australia",
         "confirmed": 27078,
         "deaths": 886,
-        "recovered": 24718
+        "recovered": 24754
     },
     {
         "Name": "헝가리",
@@ -880,20 +880,20 @@
         "recovered": 1770
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 6192,
+        "deaths": 36,
+        "recovered": 2324
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "confirmed": 5900,
         "deaths": 59,
         "recovered": 5228
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 5866,
-        "deaths": 36,
-        "recovered": 2324
     },
     {
         "Name": "Malawi",
