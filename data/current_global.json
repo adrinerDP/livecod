@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 290466,
         "deaths": 9556,
-        "recovered": 254200
+        "recovered": 256000
     },
     {
         "Name": "인도네시아",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 239222,
-        "deaths": 1528,
-        "recovered": 173085
+        "confirmed": 239806,
+        "deaths": 1547,
+        "recovered": 173109
     },
     {
         "Name": "Ukraine",
@@ -328,20 +328,20 @@
         "recovered": 0
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 91514,
+        "deaths": 2513,
+        "recovered": 69695
+    },
+    {
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
         "confirmed": 90968,
         "deaths": 3238,
         "recovered": 79654
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 89962,
-        "deaths": 2483,
-        "recovered": 68955
     },
     {
         "Name": "일본",
@@ -904,20 +904,20 @@
         "recovered": 4245
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 5690,
+        "deaths": 150,
+        "recovered": 3804
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
         "confirmed": 5531,
         "deaths": 122,
         "recovered": 4866
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 5487,
-        "deaths": 149,
-        "recovered": 3682
     },
     {
         "Name": "Eswatini",
@@ -947,9 +947,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5080,
+        "confirmed": 5088,
         "deaths": 105,
-        "recovered": 4807
+        "recovered": 4827
     },
     {
         "Name": "Equatorial Guinea",
