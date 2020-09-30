@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7433558,
-        "deaths": 211406,
-        "recovered": 4677867
+        "confirmed": 7435016,
+        "deaths": 211458,
+        "recovered": 4679362
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 243895,
-        "deaths": 1552,
-        "recovered": 174232
+        "confirmed": 245494,
+        "deaths": 1569,
+        "recovered": 174506
     },
     {
         "Name": "Ukraine",
@@ -376,6 +376,14 @@
         "recovered": 27383
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 75760,
+        "deaths": 904,
+        "recovered": 37841
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
@@ -390,14 +398,6 @@
         "confirmed": 75368,
         "deaths": 1198,
         "recovered": 31204
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 74604,
-        "deaths": 880,
-        "recovered": 30703
     },
     {
         "Name": "Venezuela",
@@ -816,20 +816,20 @@
         "recovered": 8572
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "confirmed": 8766,
+        "deaths": 229,
+        "recovered": 6829
+    },
+    {
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
         "confirmed": 8752,
         "deaths": 54,
         "recovered": 7955
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "confirmed": 8740,
-        "deaths": 227,
-        "recovered": 6757
     },
     {
         "Name": "Mozambique",
