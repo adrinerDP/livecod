@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7443353,211670,4687574
+미국,美国,United States,7444683,211676,4688178
 인도,印度,India,6310267,98708,5270007
-브라질,巴西,Brazil,4810935,143962,4180376
+브라질,巴西,Brazil,4813586,143962,4180376
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,829679,25998,743653
 페루,秘鲁,Peru,811768,32396,676925
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,363479,5251,275487
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,245494,1569,174506
 Ukraine,,Ukraine,208959,4129,92360
-캐나다,加拿大,Canada,158425,9295,134194
+캐나다,加拿大,Canada,158758,9297,134970
 에콰도르,厄瓜多尔,Ecuador,137047,11355,112296
 Bolivia,,Bolivia,134641,7931,94895
 루마니아,尼亚,Romania,127572,4825,102476
@@ -32,8 +32,8 @@ Bolivia,,Bolivia,134641,7931,94895
 모로코,摩洛哥,Morocco,123653,2194,102715
 네덜란드,荷兰,Netherlands,120845,6406,0
 벨기에,比利时,Belgium,117115,10001,19386
+Panama,,Panama,112595,2372,89061
 도미니카 공화국,多明尼加共和国,Dominican Republic,112209,2105,87629
-Panama,,Panama,111853,2364,88202
 Kazakhstan,,Kazakhstan,107908,1725,102874
 쿠웨이트,科威特,Kuwait,105182,610,96688
 이집트,埃及,Egypt,103198,5930,96494
@@ -118,11 +118,11 @@ Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5482,109,4912
 Djibouti,,Djibouti,5416,61,5344
 Nicaragua,,Nicaragua,5170,151,2913
+Congo,,Congo,5089,89,3887
 홍콩,香港,Hong Kong,5088,105,4827
 Equatorial Guinea,,Equatorial Guinea,5030,83,4769
-Congo,,Congo,5008,89,3887
 Angola,,Angola,4972,183,1941
-Suriname,,Suriname,4863,104,4676
+Suriname,,Suriname,4877,104,4695
 Rwanda,,Rwanda,4840,29,3154
 CAR,,CAR,4829,62,1914
 Lithuania,,Lithuania,4693,92,2365
@@ -177,8 +177,8 @@ Faeroe Islands,,Faeroe Islands,467,0,429
 지브롤터,直布罗陀,Gibraltar,396,0,344
 Curaçao,,Curaçao,392,1,171
 Saint Martin,,Saint Martin,383,8,273
+Mauritius,,Mauritius,381,10,344
 Eritrea,,Eritrea,375,0,341
-Mauritius,,Mauritius,367,10,343
 Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,305
 부탄,不丹,Bhutan,281,0,219
