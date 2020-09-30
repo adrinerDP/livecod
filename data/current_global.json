@@ -475,9 +475,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 49901,
-        "deaths": 958,
-        "recovered": 43849
+        "confirmed": 50359,
+        "deaths": 959,
+        "recovered": 44001
     },
     {
         "Name": "Kyrgyzstan",
@@ -884,8 +884,8 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 6192,
-        "deaths": 36,
-        "recovered": 2324
+        "deaths": 37,
+        "recovered": 3120
     },
     {
         "Name": "Cabo Verde",
@@ -1363,9 +1363,9 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 513,
+        "confirmed": 514,
         "deaths": 7,
-        "recovered": 482
+        "recovered": 483
     },
     {
         "Name": "Tanzania",
