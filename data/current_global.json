@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7421340,
-        "deaths": 211217,
-        "recovered": 4670594
+        "confirmed": 7425555,
+        "deaths": 211286,
+        "recovered": 4672678
     },
     {
         "Name": "인도",
@@ -85,7 +85,7 @@
         "Name_en": "France",
         "confirmed": 563535,
         "deaths": 31956,
-        "recovered": 96327
+        "recovered": 96797
     },
     {
         "Name": "칠레",
@@ -467,9 +467,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 51368,
-        "deaths": 1726,
-        "recovered": 36063
+        "confirmed": 51530,
+        "deaths": 1736,
+        "recovered": 36174
     },
     {
         "Name": "아르메니아",
@@ -1408,6 +1408,14 @@
         "recovered": 344
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 392,
+        "deaths": 1,
+        "recovered": 171
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
@@ -1422,14 +1430,6 @@
         "confirmed": 375,
         "deaths": 0,
         "recovered": 341
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 370,
-        "deaths": 1,
-        "recovered": 157
     },
     {
         "Name": "Mauritius",

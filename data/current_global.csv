@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7421340,211217,4670594
+미국,美国,United States,7425555,211286,4672678
 인도,印度,India,6305643,98616,5263685
 브라질,巴西,Brazil,4787637,143243,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
@@ -9,7 +9,7 @@
 멕시코,墨西哥,Mexico,738163,77163,530945
 Argentina,,Argentina,736609,16519,585857
 남아프리카 공화국,南非共和国,South Africa,672572,16667,606520
-프랑스,法国,France,563535,31956,96327
+프랑스,法国,France,563535,31956,96797
 칠레,智利,Chile,462991,12741,436589
 이란,伊朗,Iran,457219,26169,380956
 영국,英国,UK,453264,42143,0
@@ -57,7 +57,7 @@ Venezuela,,Venezuela,74363,621,64200
 Uzbekistan,,Uzbekistan,56717,470,53366
 스위스,瑞士,Switzerland,53282,2074,42700
 Moldova,,Moldova,53042,1320,38997
-알제리,阿尔及利亚,Algeria,51368,1726,36063
+알제리,阿尔及利亚,Algeria,51530,1736,36174
 아르메니아,亚美尼亚,Armenia,50359,959,44001
 Kyrgyzstan,,Kyrgyzstan,46669,1064,42879
 Ghana,,Ghana,46482,301,45651
@@ -175,9 +175,9 @@ Burundi,,Burundi,506,1,472
 Comoros,,Comoros,479,7,464
 Faeroe Islands,,Faeroe Islands,467,0,429
 지브롤터,直布罗陀,Gibraltar,396,0,344
+Curaçao,,Curaçao,392,1,171
 Saint Martin,,Saint Martin,383,8,273
 Eritrea,,Eritrea,375,0,341
-Curaçao,,Curaçao,370,1,157
 Mauritius,,Mauritius,367,10,343
 Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,305
