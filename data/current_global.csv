@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7417308,211171,4653343
+미국,美国,United States,7419730,211183,4665141
 인도,印度,India,6269042,97943,5225766
 브라질,巴西,Brazil,4787637,143243,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,363479,5251,275487
 이탈리아,义大利,Italy,314861,35894,227704
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
-독일,德国,Germany,291578,9559,256000
+독일,德国,Germany,291678,9560,256000
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
-이스라엘,以色列,Israel,239806,1547,173109
+이스라엘,以色列,Israel,243895,1552,174232
 Ukraine,,Ukraine,208959,4129,92360
 캐나다,加拿大,Canada,158425,9295,134194
 에콰도르,厄瓜多尔,Ecuador,137047,11355,112296
@@ -65,9 +65,9 @@ Ghana,,Ghana,46482,301,45651
 아제르바이잔,阿塞拜疆,Azerbaijan,40229,591,37954
 Paraguay,,Paraguay,40101,841,23748
 팔레스타인,巴勒斯坦,Palestine,39899,311,31743
+레바논,黎巴嫩,Lebanon,39634,367,17565
 아프가니스탄,阿富汗,Afghanistan,39268,1458,32789
 Kenya,,Kenya,38529,711,24908
-레바논,黎巴嫩,Lebanon,38377,361,17110
 아일랜드,冰岛,Ireland,35740,1803,23364
 Libya,,Libya,34525,551,19361
 세르비아,塞尔维亚,Serbia,33551,749,31536
@@ -80,8 +80,8 @@ El Salvador,,El Salvador,29077,843,23813
 Bulgaria,,Bulgaria,20547,813,14489
 Ivory Coast,,Ivory Coast,19669,120,19241
 그리스,希腊,Greece,18475,391,9989
+Tunisia,,Tunisia,18413,265,5032
 North Macedonia,,North Macedonia,17977,739,14959
-Tunisia,,Tunisia,17405,246,5032
 크로아티아,克罗地亚,Croatia,16593,280,15057
 Madagascar,,Madagascar,16408,230,15301
 세네갈,塞内加尔,Senegal,14982,311,12437
@@ -111,7 +111,7 @@ Mauritania,,Mauritania,7488,161,7111
 Jamaica,,Jamaica,6482,107,1867
 조지아,格鲁吉亚,Georgia,6192,39,3120
 Cabo Verde,,Cabo Verde,5900,59,5228
-Malawi,,Malawi,5772,179,4245
+Malawi,,Malawi,5773,179,4263
 슬로베니아,斯洛文尼亚,Slovenia,5690,150,3804
 Cuba,,Cuba,5597,122,4893
 Eswatini,,Eswatini,5462,108,4859
@@ -139,7 +139,7 @@ Gambia,,Gambia,3579,112,2161
 에스토니아,爱沙尼亚,Estonia,3371,64,2605
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3101,131,2443
-Malta,,Malta,3058,34,2562
+Malta,,Malta,3058,35,2562
 Guyana,,Guyana,2846,78,1644
 Iceland,,Iceland,2728,10,2167
 South Sudan,,South Sudan,2700,49,1290
