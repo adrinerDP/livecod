@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7413607,211099,4651025
-인도,印度,India,6245404,97761,5206044
-브라질,巴西,Brazil,4780317,143010,4135088
+미국,美国,United States,7417308,211171,4653343
+인도,印度,India,6269042,97943,5225766
+브라질,巴西,Brazil,4787637,143243,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,824042,25828,734154
 페루,秘鲁,Peru,811768,32396,676925
@@ -20,12 +20,12 @@ Bangladesh,,Bangladesh,363479,5251,275487
 이탈리아,义大利,Italy,314861,35894,227704
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
-독일,德国,Germany,291290,9559,256000
+독일,德国,Germany,291578,9559,256000
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,239806,1547,173109
 Ukraine,,Ukraine,208959,4129,92360
 캐나다,加拿大,Canada,158425,9295,134194
-에콰도르,厄瓜多尔,Ecuador,135749,11312,112296
+에콰도르,厄瓜多尔,Ecuador,137047,11355,112296
 Bolivia,,Bolivia,134641,7931,94895
 루마니아,尼亚,Romania,127572,4825,102476
 카타르,卡塔尔,Qatar,125760,214,122699
@@ -51,7 +51,7 @@ Honduras,,Honduras,76098,2323,27383
 Ethiopia,,Ethiopia,74584,1191,30952
 Venezuela,,Venezuela,74363,621,64200
 바레인,巴林,Bahrain,70422,248,64267
-체코,捷克,Czechia,67843,636,32759
+체코,捷克,Czechia,68919,655,33443
 나이지리아,尼日利亚,Nigeria,58647,1111,49937
 싱가포르,新加坡,Singapore,57765,27,57488
 Uzbekistan,,Uzbekistan,56717,470,53366
@@ -99,7 +99,7 @@ Guinea,,Guinea,10634,66,9960
 Maldives,,Maldives,10194,34,9037
 슬로바키아,斯洛伐克,Slovakia,10141,48,4395
 핀란드,芬兰,Finland,9992,344,8100
-French Guiana,,French Guiana,9929,66,9569
+French Guiana,,French Guiana,9955,66,9589
 Tajikistan,,Tajikistan,9769,76,8572
 Gabon,,Gabon,8752,54,7955
 Haiti,,Haiti,8740,227,6757
@@ -146,9 +146,9 @@ South Sudan,,South Sudan,2700,49,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2222,72,1685
+Yemen,,Yemen,2034,587,1286
 Uruguay,,Uruguay,2033,48,1771
 Burkina Faso,,Burkina Faso,2032,58,1309
-Yemen,,Yemen,2031,587,1275
 안도라,安道尔,Andorra,1966,53,1265
 Belize,,Belize,1943,26,1225
 New Zealand,,New Zealand,1836,25,1767
