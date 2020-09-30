@@ -1075,9 +1075,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3559,
+        "confirmed": 3564,
         "deaths": 59,
-        "recovered": 3370
+        "recovered": 3374
     },
     {
         "Name": "Mayotte",
@@ -1211,9 +1211,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1891,
-        "deaths": 24,
-        "recovered": 1208
+        "confirmed": 1943,
+        "deaths": 26,
+        "recovered": 1225
     },
     {
         "Name": "New Zealand",
