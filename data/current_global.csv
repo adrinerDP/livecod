@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7429930,211359,4677570
-인도,印度,India,6305643,98616,5263685
+미국,美国,United States,7433558,211406,4677867
+인도,印度,India,6310267,98708,5270007
 브라질,巴西,Brazil,4787637,143243,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,824042,25828,734154
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,363479,5251,275487
 이탈리아,义大利,Italy,314861,35894,227704
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
-독일,德国,Germany,292559,9567,256000
+독일,德国,Germany,292896,9571,256000
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,243895,1552,174232
 Ukraine,,Ukraine,208959,4129,92360
@@ -114,6 +114,7 @@ Cabo Verde,,Cabo Verde,6024,60,5277
 Malawi,,Malawi,5773,179,4263
 슬로베니아,斯洛文尼亚,Slovenia,5690,150,3804
 Cuba,,Cuba,5597,122,4893
+Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5482,109,4912
 Djibouti,,Djibouti,5416,61,5344
 Nicaragua,,Nicaragua,5170,151,2913
@@ -126,7 +127,6 @@ Rwanda,,Rwanda,4836,29,3125
 CAR,,CAR,4806,62,1840
 Lithuania,,Lithuania,4693,92,2365
 Trinidad and Tobago,,Trinidad and Tobago,4517,75,2560
-Guadeloupe,,Guadeloupe,4487,42,2199
 Syria,,Syria,4148,197,1088
 Bahamas,,Bahamas,4022,95,2141
 Réunion,,Réunion,3993,16,2819
@@ -145,7 +145,7 @@ Iceland,,Iceland,2728,10,2167
 South Sudan,,South Sudan,2704,49,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
-Sierra Leone,,Sierra Leone,2222,72,1685
+Sierra Leone,,Sierra Leone,2231,72,1687
 안도라,安道尔,Andorra,2050,53,1432
 Yemen,,Yemen,2034,587,1286
 Uruguay,,Uruguay,2033,48,1771

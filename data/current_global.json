@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7429930,
-        "deaths": 211359,
-        "recovered": 4677570
+        "confirmed": 7433558,
+        "deaths": 211406,
+        "recovered": 4677867
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6305643,
-        "deaths": 98616,
-        "recovered": 5263685
+        "confirmed": 6310267,
+        "deaths": 98708,
+        "recovered": 5270007
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 292559,
-        "deaths": 9567,
+        "confirmed": 292896,
+        "deaths": 9571,
         "recovered": 256000
     },
     {
@@ -920,6 +920,14 @@
         "recovered": 4893
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 5528,
+        "deaths": 57,
+        "recovered": 2199
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
@@ -1014,14 +1022,6 @@
         "confirmed": 4517,
         "deaths": 75,
         "recovered": 2560
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 4487,
-        "deaths": 42,
-        "recovered": 2199
     },
     {
         "Name": "Syria",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2222,
+        "confirmed": 2231,
         "deaths": 72,
-        "recovered": 1685
+        "recovered": 1687
     },
     {
         "Name": "안도라",
