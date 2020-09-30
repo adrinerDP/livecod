@@ -1,6 +1,6 @@
 ﻿region,link,confirmed,confirmed_delta,recovered,deaths,confirmed_rate,confirmed_region_rate,confirmed_region_class
-전국,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13,23812,113,21590,413,45.93,,
-서울,http://www.seoul.go.kr/coronaV/coronaStatus.do,5293,51,4415,56,54.38,22.23,moderate
+전국,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13,23812,113,21591,413,45.93,,
+서울,http://www.seoul.go.kr/coronaV/coronaStatus.do,5293,51,4416,56,54.38,22.23,moderate
 부산,http://www.busan.go.kr/corona19/index,421,5,351,4,12.34,1.77,mild
 대구,http://www.daegu.go.kr/,7132,2,6916,194,292.72,29.95,moderate
 인천,https://www.incheon.go.kr/,916,4,822,8,30.99,3.85,mild
