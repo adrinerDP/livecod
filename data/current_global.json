@@ -115,9 +115,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 362043,
-        "deaths": 5219,
-        "recovered": 273698
+        "confirmed": 363479,
+        "deaths": 5251,
+        "recovered": 275487
     },
     {
         "Name": "이라크",
@@ -451,8 +451,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 52871,
-        "deaths": 2069,
+        "confirmed": 53282,
+        "deaths": 2074,
         "recovered": 42700
     },
     {
@@ -683,9 +683,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 14945,
-        "deaths": 310,
-        "recovered": 12335
+        "confirmed": 14982,
+        "deaths": 311,
+        "recovered": 12437
     },
     {
         "Name": "Zambia",
@@ -728,20 +728,20 @@
         "recovered": 3391
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 11224,
+        "deaths": 136,
+        "recovered": 9967
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 11140,
         "deaths": 121,
         "recovered": 8937
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 11135,
-        "deaths": 134,
-        "recovered": 9939
     },
     {
         "Name": "Guinea",
@@ -1123,9 +1123,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 3035,
+        "confirmed": 3058,
         "deaths": 34,
-        "recovered": 2484
+        "recovered": 2562
     },
     {
         "Name": "Guyana",
@@ -1224,6 +1224,14 @@
         "recovered": 1767
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 1824,
+        "deaths": 37,
+        "recovered": 1307
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
@@ -1238,14 +1246,6 @@
         "confirmed": 1743,
         "deaths": 22,
         "recovered": 1369
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1729,
-        "deaths": 37,
-        "recovered": 1307
     },
     {
         "Name": "French Polynesia",
