@@ -403,9 +403,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 73528,
-        "deaths": 614,
-        "recovered": 63346
+        "confirmed": 74363,
+        "deaths": 621,
+        "recovered": 64200
     },
     {
         "Name": "바레인",
@@ -603,9 +603,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27055,
-        "deaths": 882,
-        "recovered": 24676
+        "confirmed": 27078,
+        "deaths": 886,
+        "recovered": 24718
     },
     {
         "Name": "헝가리",
