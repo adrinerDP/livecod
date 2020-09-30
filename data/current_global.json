@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7408066,
-        "deaths": 210835,
-        "recovered": 4649827
+        "confirmed": 7410679,
+        "deaths": 210867,
+        "recovered": 4650581
     },
     {
         "Name": "인도",
@@ -1032,20 +1032,20 @@
         "recovered": 1088
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 4022,
+        "deaths": 95,
+        "recovered": 2141
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 3934,
         "deaths": 26,
         "recovered": 3181
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 3903,
-        "deaths": 91,
-        "recovered": 2072
     },
     {
         "Name": "Réunion",
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 463,
+        "confirmed": 467,
         "deaths": 0,
-        "recovered": 428
+        "recovered": 429
     },
     {
         "Name": "지브롤터",
