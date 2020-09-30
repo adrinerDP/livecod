@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6233700,
-        "deaths": 97624,
-        "recovered": 5192917
+        "confirmed": 6245404,
+        "deaths": 97761,
+        "recovered": 5206044
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 290920,
-        "deaths": 9556,
+        "confirmed": 291191,
+        "deaths": 9559,
         "recovered": 256000
     },
     {
@@ -379,9 +379,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 74717,
-        "deaths": 1963,
-        "recovered": 48193
+        "confirmed": 75542,
+        "deaths": 1971,
+        "recovered": 48530
     },
     {
         "Name": "코스타리카",
@@ -539,9 +539,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 38378,
-        "deaths": 707,
-        "recovered": 24740
+        "confirmed": 38529,
+        "deaths": 711,
+        "recovered": 24908
     },
     {
         "Name": "레바논",
@@ -651,9 +651,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 17786,
-        "deaths": 737,
-        "recovered": 14801
+        "confirmed": 17977,
+        "deaths": 739,
+        "recovered": 14959
     },
     {
         "Name": "Tunisia",
@@ -691,15 +691,15 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14715,
+        "confirmed": 14759,
         "deaths": 332,
-        "recovered": 13937
+        "recovered": 13959
     },
     {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 13915,
+        "confirmed": 13961,
         "deaths": 274,
         "recovered": 11190
     },
@@ -723,9 +723,17 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 12425,
-        "deaths": 284,
-        "recovered": 3391
+        "confirmed": 13373,
+        "deaths": 310,
+        "recovered": 3755
+    },
+    {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 11265,
+        "deaths": 121,
+        "recovered": 9014
     },
     {
         "Name": "말레이시아",
@@ -734,14 +742,6 @@
         "confirmed": 11224,
         "deaths": 136,
         "recovered": 9967
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 11140,
-        "deaths": 121,
-        "recovered": 8937
     },
     {
         "Name": "DRC",
@@ -1136,20 +1136,20 @@
         "recovered": 1644
     },
     {
+        "Name": "Iceland",
+        "Name_ch": "",
+        "Name_en": "Iceland",
+        "confirmed": 2728,
+        "deaths": 10,
+        "recovered": 2167
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "confirmed": 2700,
         "deaths": 49,
         "recovered": 1290
-    },
-    {
-        "Name": "Iceland",
-        "Name_ch": "",
-        "Name_en": "Iceland",
-        "confirmed": 2695,
-        "deaths": 10,
-        "recovered": 2161
     },
     {
         "Name": "Benin",

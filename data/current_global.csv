@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7408066,210835,4649827
-인도,印度,India,6233700,97624,5192917
+인도,印度,India,6245404,97761,5206044
 브라질,巴西,Brazil,4780317,143010,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,824042,25828,734154
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,363479,5251,275487
 이탈리아,义大利,Italy,313011,35875,226506
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
-독일,德国,Germany,290920,9556,256000
+독일,德国,Germany,291191,9559,256000
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,239806,1547,173109
 Ukraine,,Ukraine,208959,4129,92360
@@ -46,7 +46,7 @@ Guatemala,,Guatemala,90968,3238,79654
 벨라루스,白俄罗斯,Belarus,78631,833,74525
 네팔,尼泊尔,Nepal,77817,498,56428
 Honduras,,Honduras,76098,2323,27383
-포르투갈,葡萄牙,Portugal,74717,1963,48193
+포르투갈,葡萄牙,Portugal,75542,1971,48530
 코스타리카,哥斯达黎加,Costa Rica,74604,880,30703
 Ethiopia,,Ethiopia,74584,1191,30952
 Venezuela,,Venezuela,74363,621,64200
@@ -66,7 +66,7 @@ Ghana,,Ghana,46482,301,45651
 Paraguay,,Paraguay,40101,841,23748
 팔레스타인,巴勒斯坦,Palestine,39899,311,31743
 아프가니스탄,阿富汗,Afghanistan,39268,1458,32789
-Kenya,,Kenya,38378,707,24740
+Kenya,,Kenya,38529,711,24908
 레바논,黎巴嫩,Lebanon,38377,361,17110
 아일랜드,冰岛,Ireland,35740,1803,23364
 Libya,,Libya,34525,551,19361
@@ -80,18 +80,18 @@ El Salvador,,El Salvador,29077,843,23813
 Bulgaria,,Bulgaria,20547,813,14489
 Ivory Coast,,Ivory Coast,19669,120,19241
 그리스,希腊,Greece,18123,388,9989
-North Macedonia,,North Macedonia,17786,737,14801
+North Macedonia,,North Macedonia,17977,739,14959
 Tunisia,,Tunisia,17405,246,5032
 크로아티아,克罗地亚,Croatia,16593,280,15057
 Madagascar,,Madagascar,16408,230,15301
 세네갈,塞内加尔,Senegal,14982,311,12437
-Zambia,,Zambia,14715,332,13937
-노르웨이,挪威,Norway,13915,274,11190
+Zambia,,Zambia,14759,332,13959
+노르웨이,挪威,Norway,13961,274,11190
 Sudan,,Sudan,13640,836,6764
 Albania,,Albania,13518,384,7732
-Myanmar,,Myanmar,12425,284,3391
+Myanmar,,Myanmar,13373,310,3755
+Namibia,,Namibia,11265,121,9014
 말레이시아,马来西亚,Malaysia,11224,136,9967
-Namibia,,Namibia,11140,121,8937
 DRC,,DRC,10659,272,10139
 Guinea,,Guinea,10634,66,9960
 Montenegro,,Montenegro,10575,164,7002
@@ -141,8 +141,8 @@ Botswana,,Botswana,3172,16,710
 Mali,,Mali,3101,131,2443
 Malta,,Malta,3058,34,2562
 Guyana,,Guyana,2846,78,1644
+Iceland,,Iceland,2728,10,2167
 South Sudan,,South Sudan,2700,49,1290
-Iceland,,Iceland,2695,10,2161
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2222,72,1685
