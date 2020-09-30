@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7437646,211491,4680191
+미국,美国,United States,7440429,211591,4683615
 인도,印度,India,6310267,98708,5270007
 브라질,巴西,Brazil,4787637,143243,4135088
 러시아,俄罗斯,Russia,1176286,20722,958257
@@ -36,7 +36,7 @@ Bolivia,,Bolivia,134641,7931,94895
 Panama,,Panama,111853,2364,88202
 Kazakhstan,,Kazakhstan,107908,1725,102874
 쿠웨이트,科威特,Kuwait,105182,610,96688
-이집트,埃及,Egypt,103079,5914,96094
+이집트,埃及,Egypt,103198,5930,96494
 오만,阿曼,Oman,98585,935,88528
 아랍에미리트,阿拉伯联合酋长国,UAE,94190,419,83724
 스웨덴,瑞典语,Sweden,92863,5893,0
@@ -60,7 +60,7 @@ Moldova,,Moldova,53042,1320,38997
 알제리,阿尔及利亚,Algeria,51530,1736,36174
 아르메니아,亚美尼亚,Armenia,50359,959,44001
 Kyrgyzstan,,Kyrgyzstan,46669,1064,42879
-Ghana,,Ghana,46482,301,45651
+Ghana,,Ghana,46626,301,45757
 오스트리아,奥地利,Austria,44813,799,35644
 아제르바이잔,阿塞拜疆,Azerbaijan,40229,591,37954
 Paraguay,,Paraguay,40101,841,23748
@@ -77,7 +77,7 @@ El Salvador,,El Salvador,29077,843,23813
 호주,澳大利亚,Australia,27078,886,24754
 헝가리,匈牙利,Hungary,26461,765,5890
 카메룬,喀麦隆,Cameroon,20838,418,19440
-Bulgaria,,Bulgaria,20547,813,14489
+Bulgaria,,Bulgaria,20833,825,14634
 Ivory Coast,,Ivory Coast,19724,120,19291
 그리스,希腊,Greece,18475,391,9989
 Tunisia,,Tunisia,18413,265,5032
@@ -102,11 +102,11 @@ Maldives,,Maldives,10291,34,9108
 French Guiana,,French Guiana,9955,66,9589
 Tajikistan,,Tajikistan,9769,76,8572
 Haiti,,Haiti,8766,229,6829
-Gabon,,Gabon,8752,54,7955
+Gabon,,Gabon,8766,54,8005
 Mozambique,,Mozambique,8728,61,5232
 룩셈부르크,卢森堡,Luxembourg,8509,124,7174
 Uganda,,Uganda,8129,75,4260
-Zimbabwe,,Zimbabwe,7837,228,6122
+Zimbabwe,,Zimbabwe,7838,228,6303
 Mauritania,,Mauritania,7502,161,7120
 Jamaica,,Jamaica,6482,107,1867
 조지아,格鲁吉亚,Georgia,6192,39,3120
@@ -123,7 +123,7 @@ Equatorial Guinea,,Equatorial Guinea,5030,83,4769
 Congo,,Congo,5008,89,3887
 Angola,,Angola,4972,183,1941
 Suriname,,Suriname,4863,104,4676
-Rwanda,,Rwanda,4836,29,3125
+Rwanda,,Rwanda,4840,29,3154
 CAR,,CAR,4806,62,1840
 Lithuania,,Lithuania,4693,92,2365
 Trinidad and Tobago,,Trinidad and Tobago,4517,75,2560
@@ -159,10 +159,10 @@ French Polynesia,,French Polynesia,1728,7,1431
 Lesotho,,Lesotho,1595,36,873
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
+Chad,,Chad,1200,85,1007
 Niger,,Niger,1197,69,1114
-Chad,,Chad,1193,85,1007
 베트남,越南,Vietnam,1094,35,1010
-Sao Tome and Principe,,Sao Tome and Principe,911,15,885
+Sao Tome and Principe,,Sao Tome and Principe,911,15,886
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,686,6,642

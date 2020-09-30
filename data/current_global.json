@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7437646,
-        "deaths": 211491,
-        "recovered": 4680191
+        "confirmed": 7440429,
+        "deaths": 211591,
+        "recovered": 4683615
     },
     {
         "Name": "인도",
@@ -299,9 +299,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 103079,
-        "deaths": 5914,
-        "recovered": 96094
+        "confirmed": 103198,
+        "deaths": 5930,
+        "recovered": 96494
     },
     {
         "Name": "오만",
@@ -491,9 +491,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 46482,
+        "confirmed": 46626,
         "deaths": 301,
-        "recovered": 45651
+        "recovered": 45757
     },
     {
         "Name": "오스트리아",
@@ -627,9 +627,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 20547,
-        "deaths": 813,
-        "recovered": 14489
+        "confirmed": 20833,
+        "deaths": 825,
+        "recovered": 14634
     },
     {
         "Name": "Ivory Coast",
@@ -827,9 +827,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8752,
+        "confirmed": 8766,
         "deaths": 54,
-        "recovered": 7955
+        "recovered": 8005
     },
     {
         "Name": "Mozambique",
@@ -859,9 +859,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7837,
+        "confirmed": 7838,
         "deaths": 228,
-        "recovered": 6122
+        "recovered": 6303
     },
     {
         "Name": "Mauritania",
@@ -995,9 +995,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4836,
+        "confirmed": 4840,
         "deaths": 29,
-        "recovered": 3125
+        "recovered": 3154
     },
     {
         "Name": "CAR",
@@ -1280,20 +1280,20 @@
         "recovered": 1221
     },
     {
+        "Name": "Chad",
+        "Name_ch": "",
+        "Name_en": "Chad",
+        "confirmed": 1200,
+        "deaths": 85,
+        "recovered": 1007
+    },
+    {
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
         "confirmed": 1197,
         "deaths": 69,
         "recovered": 1114
-    },
-    {
-        "Name": "Chad",
-        "Name_ch": "",
-        "Name_en": "Chad",
-        "confirmed": 1193,
-        "deaths": 85,
-        "recovered": 1007
     },
     {
         "Name": "베트남",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 911,
         "deaths": 15,
-        "recovered": 885
+        "recovered": 886
     },
     {
         "Name": "산마리노",
