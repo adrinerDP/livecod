@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7406729,
-        "deaths": 210797,
-        "recovered": 4649521
+        "confirmed": 7407201,
+        "deaths": 210814,
+        "recovered": 4649820
     },
     {
         "Name": "인도",
@@ -251,8 +251,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 117551,
-        "deaths": 6393,
+        "confirmed": 120845,
+        "deaths": 6406,
         "recovered": 0
     },
     {
@@ -323,8 +323,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 92466,
-        "deaths": 5890,
+        "confirmed": 92863,
+        "deaths": 5893,
         "recovered": 0
     },
     {
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 39541,
-        "deaths": 306,
-        "recovered": 31047
+        "confirmed": 39899,
+        "deaths": 311,
+        "recovered": 31743
     },
     {
         "Name": "아프가니스탄",
@@ -796,8 +796,8 @@
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 9992,
-        "deaths": 345,
-        "recovered": 7850
+        "deaths": 344,
+        "recovered": 8100
     },
     {
         "Name": "French Guiana",
@@ -1155,9 +1155,9 @@
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
-        "confirmed": 2340,
-        "deaths": 40,
-        "recovered": 1960
+        "confirmed": 2357,
+        "deaths": 41,
+        "recovered": 1973
     },
     {
         "Name": "Guinea-Bissau",
