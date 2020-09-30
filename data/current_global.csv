@@ -1,13 +1,13 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7441763,211632,4686359
+미국,美国,United States,7443353,211670,4687574
 인도,印度,India,6310267,98708,5270007
 브라질,巴西,Brazil,4810935,143962,4180376
 러시아,俄罗斯,Russia,1176286,20722,958257
-콜롬비아,哥伦比亚,Colombia,824042,25828,734154
+콜롬비아,哥伦比亚,Colombia,829679,25998,743653
 페루,秘鲁,Peru,811768,32396,676925
 스페인,西班牙,Spain,769188,31791,0
+Argentina,,Argentina,751001,16937,594645
 멕시코,墨西哥,Mexico,738163,77163,530945
-Argentina,,Argentina,736609,16519,585857
 남아프리카 공화국,南非共和国,South Africa,674339,16734,608112
 프랑스,法国,France,563535,31956,96797
 칠레,智利,Chile,462991,12741,436589
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,363479,5251,275487
 이탈리아,义大利,Italy,314861,35894,227704
 파키스탄,巴基斯坦,Pakistan,312263,6479,296881
 필리핀,菲律宾,Philippines,311694,5504,253488
-독일,德国,Germany,292896,9571,256000
+독일,德国,Germany,292911,9571,256000
 인도네시아,印度尼西亚,Indonesia,287008,10740,214947
 이스라엘,以色列,Israel,245494,1569,174506
 Ukraine,,Ukraine,208959,4129,92360
@@ -42,7 +42,7 @@ Kazakhstan,,Kazakhstan,107908,1725,102874
 스웨덴,瑞典语,Sweden,92863,5893,0
 Guatemala,,Guatemala,91746,3246,80256
 폴란드,波兰,Poland,91514,2513,69695
-일본,日本,Japan,82494,1557,75459
+일본,日本,Japan,83010,1564,76025
 벨라루스,白俄罗斯,Belarus,78631,833,74525
 네팔,尼泊尔,Nepal,77817,498,56428
 Honduras,,Honduras,76098,2323,27383
@@ -50,7 +50,7 @@ Honduras,,Honduras,76098,2323,27383
 포르투갈,葡萄牙,Portugal,75542,1971,48530
 Ethiopia,,Ethiopia,75368,1198,31204
 Venezuela,,Venezuela,74363,621,64200
-바레인,巴林,Bahrain,70422,248,64267
+바레인,巴林,Bahrain,70864,251,64838
 체코,捷克,Czechia,68919,655,33443
 나이지리아,尼日利亚,Nigeria,58848,1112,50358
 싱가포르,新加坡,Singapore,57765,27,57488
@@ -124,9 +124,9 @@ Congo,,Congo,5008,89,3887
 Angola,,Angola,4972,183,1941
 Suriname,,Suriname,4863,104,4676
 Rwanda,,Rwanda,4840,29,3154
-CAR,,CAR,4806,62,1840
+CAR,,CAR,4829,62,1914
 Lithuania,,Lithuania,4693,92,2365
-Trinidad and Tobago,,Trinidad and Tobago,4517,75,2560
+Trinidad and Tobago,,Trinidad and Tobago,4531,76,2560
 Syria,,Syria,4200,200,1103
 Bahamas,,Bahamas,4022,95,2141
 Réunion,,Réunion,3993,16,2819
@@ -148,8 +148,8 @@ Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2231,72,1687
 Burkina Faso,,Burkina Faso,2056,58,1335
 안도라,安道尔,Andorra,2050,53,1432
+Uruguay,,Uruguay,2046,48,1791
 Yemen,,Yemen,2034,587,1286
-Uruguay,,Uruguay,2033,48,1771
 Belize,,Belize,1943,26,1225
 New Zealand,,New Zealand,1836,25,1767
 라트비아,约旦,Latvia,1824,37,1307
