@@ -224,20 +224,20 @@
         "recovered": 94895
     },
     {
-        "Name": "카타르",
-        "Name_ch": "卡塔尔",
-        "Name_en": "Qatar",
-        "confirmed": 125533,
-        "deaths": 214,
-        "recovered": 122448
-    },
-    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 125414,
-        "deaths": 4792,
-        "recovered": 100636
+        "confirmed": 127572,
+        "deaths": 4825,
+        "recovered": 102476
+    },
+    {
+        "Name": "카타르",
+        "Name_ch": "卡塔尔",
+        "Name_en": "Qatar",
+        "confirmed": 125760,
+        "deaths": 214,
+        "recovered": 122699
     },
     {
         "Name": "모로코",
@@ -884,7 +884,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 6192,
-        "deaths": 38,
+        "deaths": 39,
         "recovered": 3120
     },
     {
@@ -1403,9 +1403,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 391,
+        "confirmed": 396,
         "deaths": 0,
-        "recovered": 342
+        "recovered": 344
     },
     {
         "Name": "Saint Martin",
