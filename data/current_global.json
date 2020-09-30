@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6223519,
+        "confirmed": 6225763,
         "deaths": 97529,
-        "recovered": 5184634
+        "recovered": 5187825
     },
     {
         "Name": "브라질",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 280,
+        "confirmed": 281,
         "deaths": 0,
-        "recovered": 210
+        "recovered": 219
     },
     {
         "Name": "캄보디아",
@@ -1597,7 +1597,7 @@
         "Name_en": "Timor-Leste",
         "confirmed": 28,
         "deaths": 0,
-        "recovered": 31
+        "recovered": 28
     },
     {
         "Name": "New Caledonia",
