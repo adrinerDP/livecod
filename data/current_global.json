@@ -259,9 +259,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 115353,
-        "deaths": 9987,
-        "recovered": 19301
+        "confirmed": 117115,
+        "deaths": 10001,
+        "recovered": 19386
     },
     {
         "Name": "도미니카 공화국",
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 682,
-        "deaths": 5,
-        "recovered": 631
+        "confirmed": 686,
+        "deaths": 6,
+        "recovered": 642
     },
     {
         "Name": "Channel Islands",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 645,
+        "confirmed": 659,
         "deaths": 22,
-        "recovered": 549
+        "recovered": 557
     },
     {
         "Name": "Papua New Guinea",
