@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6310267,
+        "confirmed": 6312584,
         "deaths": 98708,
-        "recovered": 5270007
+        "recovered": 5273201
     },
     {
         "Name": "브라질",
@@ -1035,9 +1035,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 4022,
-        "deaths": 95,
-        "recovered": 2141
+        "confirmed": 4123,
+        "deaths": 96,
+        "recovered": 2206
     },
     {
         "Name": "Réunion",
@@ -1211,9 +1211,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 1943,
-        "deaths": 26,
-        "recovered": 1225
+        "confirmed": 1992,
+        "deaths": 27,
+        "recovered": 1246
     },
     {
         "Name": "French Polynesia",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 281,
+        "confirmed": 282,
         "deaths": 0,
-        "recovered": 219
+        "recovered": 222
     },
     {
         "Name": "캄보디아",
