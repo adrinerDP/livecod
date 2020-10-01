@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7489553,212506,4727156
+미국,美国,United States,7491681,212593,4729543
 인도,印度,India,6391960,99804,5348653
-브라질,巴西,Brazil,4847092,144680,4212772
+브라질,巴西,Brazil,4849229,144767,4212772
 러시아,俄罗斯,Russia,1185231,20891,964242
 콜롬비아,哥伦比亚,Colombia,835339,26196,751691
 페루,秘鲁,Peru,814829,32463,683815
@@ -32,8 +32,8 @@ Bolivia,,Bolivia,135311,7965,95529
 카타르,卡塔尔,Qatar,125959,214,122911
 네덜란드,荷兰,Netherlands,124097,6419,0
 벨기에,比利时,Belgium,118452,10016,19454
+Panama,,Panama,113342,2387,89903
 도미니카 공화국,多明尼加共和国,Dominican Republic,112728,2108,88205
-Panama,,Panama,112595,2372,89061
 Kazakhstan,,Kazakhstan,107979,1725,102937
 쿠웨이트,科威特,Kuwait,105676,612,97197
 이집트,埃及,Egypt,103317,5946,96855
@@ -50,7 +50,7 @@ Honduras,,Honduras,76900,2353,27922
 포르투갈,葡萄牙,Portugal,76396,1977,48937
 Ethiopia,,Ethiopia,76098,1205,31430
 Venezuela,,Venezuela,75122,628,65225
-체코,捷克,Czechia,72162,676,34093
+체코,捷克,Czechia,74255,678,34186
 바레인,巴林,Bahrain,71374,254,65550
 나이지리아,尼日利亚,Nigeria,59001,1112,50452
 싱가포르,新加坡,Singapore,57784,27,57512
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,16454,232,15430
 세네갈,塞内加尔,Senegal,15019,311,12538
 Zambia,,Zambia,14802,333,13961
 Myanmar,,Myanmar,14383,321,4156
-노르웨이,挪威,Norway,14085,274,11190
+노르웨이,挪威,Norway,14149,274,11190
 Albania,,Albania,13806,388,8077
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13101,69,4752
@@ -122,11 +122,11 @@ Angola,,Angola,5114,185,2082
 홍콩,香港,Hong Kong,5098,105,4836
 Congo,,Congo,5089,89,3887
 Equatorial Guinea,,Equatorial Guinea,5045,83,4879
-Suriname,,Suriname,4877,104,4695
+Suriname,,Suriname,4891,105,4702
 Rwanda,,Rwanda,4843,29,3181
 CAR,,CAR,4829,62,1914
 Lithuania,,Lithuania,4784,92,2424
-Trinidad and Tobago,,Trinidad and Tobago,4542,76,2629
+Trinidad and Tobago,,Trinidad and Tobago,4570,76,2629
 Syria,,Syria,4247,202,1117
 Bahamas,,Bahamas,4123,96,2206
 Aruba,,Aruba,3998,27,3327
@@ -140,7 +140,7 @@ Gambia,,Gambia,3584,113,2216
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3131,131,2460
 Malta,,Malta,3095,35,2605
-Guyana,,Guyana,2894,80,1680
+Guyana,,Guyana,2929,82,1760
 Iceland,,Iceland,2769,10,2177
 South Sudan,,South Sudan,2704,49,1290
 Benin,,Benin,2357,41,1973
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,282,0,222
 캄보디아,柬埔寨,Cambodia,277,0,275
 모나코,摩纳哥,Monaco,219,2,187
-Cayman Islands,,Cayman Islands,211,1,208
+Cayman Islands,,Cayman Islands,211,1,209
 Barbados,,Barbados,193,7,179
 Bermuda,,Bermuda,181,9,168
 Brunei,,Brunei,146,3,142
