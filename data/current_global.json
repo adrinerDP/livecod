@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7460960,
-        "deaths": 212048,
+        "confirmed": 7461126,
+        "deaths": 212051,
         "recovered": 4712211
     },
     {
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4813586,
-        "deaths": 143962,
+        "confirmed": 4820116,
+        "deaths": 144103,
         "recovered": 4180376
     },
     {
@@ -51,8 +51,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 769188,
-        "deaths": 31791,
+        "confirmed": 778607,
+        "deaths": 31973,
         "recovered": 0
     },
     {
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 293180,
-        "deaths": 9572,
+        "confirmed": 294173,
+        "deaths": 9575,
         "recovered": 257900
     },
     {
@@ -408,20 +408,20 @@
         "recovered": 65225
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 72162,
+        "deaths": 676,
+        "recovered": 34093
+    },
+    {
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 70864,
         "deaths": 253,
         "recovered": 64838
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 70834,
-        "deaths": 658,
-        "recovered": 33557
     },
     {
         "Name": "나이지리아",
