@@ -675,9 +675,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16408,
-        "deaths": 230,
-        "recovered": 15301
+        "confirmed": 16454,
+        "deaths": 232,
+        "recovered": 15430
     },
     {
         "Name": "세네갈",
@@ -752,6 +752,14 @@
         "recovered": 9014
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 10938,
+        "deaths": 48,
+        "recovered": 4620
+    },
+    {
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
@@ -782,14 +790,6 @@
         "confirmed": 10291,
         "deaths": 34,
         "recovered": 9108
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 10141,
-        "deaths": 48,
-        "recovered": 4395
     },
     {
         "Name": "핀란드",
