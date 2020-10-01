@@ -376,20 +376,20 @@
         "recovered": 27922
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 76396,
+        "deaths": 1977,
+        "recovered": 48937
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 75760,
         "deaths": 904,
         "recovered": 37841
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 75542,
-        "deaths": 1971,
-        "recovered": 48530
     },
     {
         "Name": "Ethiopia",
@@ -491,9 +491,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 46626,
+        "confirmed": 46656,
         "deaths": 301,
-        "recovered": 45757
+        "recovered": 45942
     },
     {
         "Name": "오스트리아",
@@ -547,7 +547,7 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 38529,
+        "confirmed": 38713,
         "deaths": 711,
         "recovered": 24908
     },
@@ -659,9 +659,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 17977,
-        "deaths": 739,
-        "recovered": 14959
+        "confirmed": 18138,
+        "deaths": 743,
+        "recovered": 15068
     },
     {
         "Name": "크로아티아",
@@ -696,10 +696,18 @@
         "recovered": 13959
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 14383,
+        "deaths": 321,
+        "recovered": 4156
+    },
+    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14027,
+        "confirmed": 14085,
         "deaths": 274,
         "recovered": 11190
     },
@@ -718,14 +726,6 @@
         "confirmed": 13640,
         "deaths": 836,
         "recovered": 6764
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 13373,
-        "deaths": 310,
-        "recovered": 3755
     },
     {
         "Name": "요르단",
@@ -1355,9 +1355,9 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 534,
+        "confirmed": 539,
         "deaths": 7,
-        "recovered": 516
+        "recovered": 519
     },
     {
         "Name": "대만",
