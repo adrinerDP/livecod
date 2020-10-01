@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7474867,212205,4717902
+미국,美国,United States,7480283,212325,4722657
 인도,印度,India,6391960,99804,5348653
 브라질,巴西,Brazil,4820116,144103,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -118,10 +118,10 @@ Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5500,111,5000
 Djibouti,,Djibouti,5417,61,5346
 Nicaragua,,Nicaragua,5170,151,2913
+Angola,,Angola,5114,185,2082
 홍콩,香港,Hong Kong,5098,105,4836
 Congo,,Congo,5089,89,3887
-Equatorial Guinea,,Equatorial Guinea,5030,83,4769
-Angola,,Angola,4972,183,1941
+Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4877,104,4695
 Rwanda,,Rwanda,4843,29,3181
 CAR,,CAR,4829,62,1914
@@ -132,7 +132,7 @@ Bahamas,,Bahamas,4123,96,2206
 Aruba,,Aruba,3998,27,3327
 Réunion,,Réunion,3993,16,2819
 Mayotte,,Mayotte,3779,42,2964
-Somalia,,Somalia,3588,99,2946
+Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3584,113,2216
 태국,泰国,Thailand,3569,59,3379
 에스토니아,爱沙尼亚,Estonia,3450,65,2643
@@ -197,7 +197,7 @@ St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 St. Barth,,St. Barth,48,0,25
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,28
-Dominica,,Dominica,30,0,24
+Dominica,,Dominica,31,0,24
 Timor-Leste,,Timor-Leste,28,0,28
 New Caledonia,,New Caledonia,27,0,27
 Saint Lucia,,Saint Lucia,27,0,27

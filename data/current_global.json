@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7474867,
-        "deaths": 212205,
-        "recovered": 4717902
+        "confirmed": 7480283,
+        "deaths": 212325,
+        "recovered": 4722657
     },
     {
         "Name": "인도",
@@ -952,6 +952,14 @@
         "recovered": 2913
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 5114,
+        "deaths": 185,
+        "recovered": 2082
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -971,17 +979,9 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 5030,
+        "confirmed": 5045,
         "deaths": 83,
-        "recovered": 4769
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 4972,
-        "deaths": 183,
-        "recovered": 1941
+        "recovered": 4879
     },
     {
         "Name": "Suriname",
@@ -1067,9 +1067,9 @@
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "confirmed": 3588,
+        "confirmed": 3593,
         "deaths": 99,
-        "recovered": 2946
+        "recovered": 3001
     },
     {
         "Name": "Gambia",
@@ -1587,7 +1587,7 @@
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
-        "confirmed": 30,
+        "confirmed": 31,
         "deaths": 0,
         "recovered": 24
     },
