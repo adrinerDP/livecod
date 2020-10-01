@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7458411,212005,4712013
+미국,美国,United States,7460960,212048,4712211
 인도,印度,India,6323247,98822,5280204
 브라질,巴西,Brazil,4813586,143962,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,364987,5272,277078
 이탈리아,义大利,Italy,317409,35918,228844
 필리핀,菲律宾,Philippines,314079,5562,254223
 파키스탄,巴基斯坦,Pakistan,312806,6484,297497
-독일,德国,Germany,293180,9572,256000
+독일,德国,Germany,293180,9572,257900
 인도네시아,印度尼西亚,Indonesia,291182,10856,218487
 이스라엘,以色列,Israel,248133,1571,177752
 Ukraine,,Ukraine,213028,4193,94443
-캐나다,加拿大,Canada,159296,9300,135485
+캐나다,加拿大,Canada,160229,9316,136066
 에콰도르,厄瓜多尔,Ecuador,137047,11355,112296
 Bolivia,,Bolivia,135311,7965,95529
 루마니아,尼亚,Romania,129658,4862,103994
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,29175,848,23930
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20833,825,14634
 Ivory Coast,,Ivory Coast,19724,120,19291
-그리스,希腊,Greece,18475,391,9989
+그리스,希腊,Greece,18886,393,9989
 Tunisia,,Tunisia,18413,265,5032
 North Macedonia,,North Macedonia,18138,743,15068
 크로아티아,克罗地亚,Croatia,16827,284,15218
@@ -133,7 +133,7 @@ Réunion,,Réunion,3993,16,2819
 Aruba,,Aruba,3963,27,3259
 Mayotte,,Mayotte,3779,42,2964
 Somalia,,Somalia,3588,99,2946
-Gambia,,Gambia,3579,112,2161
+Gambia,,Gambia,3584,113,2216
 태국,泰国,Thailand,3569,59,3379
 에스토니아,爱沙尼亚,Estonia,3450,65,2643
 스리랑카,斯里兰卡,Sri Lanka,3382,13,3233
@@ -155,8 +155,8 @@ Belize,,Belize,1992,27,1246
 French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1770
 토고,多哥,Togo,1784,48,1348
-Cyprus,,Cyprus,1755,22,1369
-Lesotho,,Lesotho,1595,36,873
+Cyprus,,Cyprus,1772,22,1369
+Lesotho,,Lesotho,1639,38,874
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
 Chad,,Chad,1200,85,1007
@@ -178,7 +178,7 @@ Faeroe Islands,,Faeroe Islands,472,0,429
 Curaçao,,Curaçao,392,1,171
 Saint Martin,,Saint Martin,383,8,273
 Mauritius,,Mauritius,381,10,344
-Eritrea,,Eritrea,375,0,341
+Eritrea,,Eritrea,381,0,353
 Isle of Man,,Isle of Man,340,24,315
 Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,282,0,222

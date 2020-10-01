@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7458411,
-        "deaths": 212005,
-        "recovered": 4712013
+        "confirmed": 7460960,
+        "deaths": 212048,
+        "recovered": 4712211
     },
     {
         "Name": "인도",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 293180,
         "deaths": 9572,
-        "recovered": 256000
+        "recovered": 257900
     },
     {
         "Name": "인도네시아",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 159296,
-        "deaths": 9300,
-        "recovered": 135485
+        "confirmed": 160229,
+        "deaths": 9316,
+        "recovered": 136066
     },
     {
         "Name": "에콰도르",
@@ -643,8 +643,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 18475,
-        "deaths": 391,
+        "confirmed": 18886,
+        "deaths": 393,
         "recovered": 9989
     },
     {
@@ -1075,9 +1075,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3579,
-        "deaths": 112,
-        "recovered": 2161
+        "confirmed": 3584,
+        "deaths": 113,
+        "recovered": 2216
     },
     {
         "Name": "태국",
@@ -1251,7 +1251,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1755,
+        "confirmed": 1772,
         "deaths": 22,
         "recovered": 1369
     },
@@ -1259,9 +1259,9 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1595,
-        "deaths": 36,
-        "recovered": 873
+        "confirmed": 1639,
+        "deaths": 38,
+        "recovered": 874
     },
     {
         "Name": "Martinique",
@@ -1435,9 +1435,9 @@
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
-        "confirmed": 375,
+        "confirmed": 381,
         "deaths": 0,
-        "recovered": 341
+        "recovered": 353
     },
     {
         "Name": "Isle of Man",
