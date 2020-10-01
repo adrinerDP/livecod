@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7444683,
-        "deaths": 211676,
-        "recovered": 4688178
+        "confirmed": 7445659,
+        "deaths": 211688,
+        "recovered": 4688829
     },
     {
         "Name": "인도",
@@ -205,7 +205,7 @@
         "Name_en": "Canada",
         "confirmed": 158758,
         "deaths": 9297,
-        "recovered": 134970
+        "recovered": 134971
     },
     {
         "Name": "에콰도르",
@@ -771,9 +771,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10634,
+        "confirmed": 10652,
         "deaths": 66,
-        "recovered": 9960
+        "recovered": 9996
     },
     {
         "Name": "Maldives",
