@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7480283,
-        "deaths": 212325,
-        "recovered": 4722657
+        "confirmed": 7482671,
+        "deaths": 212369,
+        "recovered": 4724120
     },
     {
         "Name": "인도",
@@ -376,6 +376,14 @@
         "recovered": 27922
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 76828,
+        "deaths": 917,
+        "recovered": 39843
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
@@ -390,14 +398,6 @@
         "confirmed": 76098,
         "deaths": 1205,
         "recovered": 31430
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 75760,
-        "deaths": 904,
-        "recovered": 37841
     },
     {
         "Name": "Venezuela",
