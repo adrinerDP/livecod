@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7451354,211805,4701240
-인도,印度,India,6312584,98708,5273201
+미국,美国,United States,7453024,211833,4701244
+인도,印度,India,6323247,98822,5280204
 브라질,巴西,Brazil,4813586,143962,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
 콜롬비아,哥伦比亚,Colombia,829679,25998,743653
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,75122,628,65225
 나이지리아,尼日利亚,Nigeria,58848,1112,50358
 싱가포르,新加坡,Singapore,57786,27,57488
 Uzbekistan,,Uzbekistan,56997,471,53457
-스위스,瑞士,Switzerland,53832,2074,42700
+스위스,瑞士,Switzerland,53832,2074,45300
 Moldova,,Moldova,53042,1320,38997
 알제리,阿尔及利亚,Algeria,51530,1736,36174
 아르메니아,亚美尼亚,Armenia,50850,963,44219
@@ -70,10 +70,10 @@ Paraguay,,Paraguay,40758,857,24449
 Kenya,,Kenya,38529,711,24908
 아일랜드,冰岛,Ireland,36155,1804,23364
 Libya,,Libya,34525,551,19361
-세르비아,塞尔维亚,Serbia,33551,749,31536
+세르비아,塞尔维亚,Serbia,33662,750,31536
 El Salvador,,El Salvador,29175,848,23930
 덴마크,丹麦,Denmark,28396,651,21309
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27469,856,20616
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27749,861,20947
 헝가리,匈牙利,Hungary,27309,781,6118
 호주,澳大利亚,Australia,27096,888,24784
 카메룬,喀麦隆,Cameroon,20838,418,19440
@@ -100,7 +100,7 @@ Guinea,,Guinea,10652,66,9996
 Maldives,,Maldives,10291,34,9108
 핀란드,芬兰,Finland,10103,344,8100
 French Guiana,,French Guiana,9955,66,9589
-Tajikistan,,Tajikistan,9769,76,8572
+Tajikistan,,Tajikistan,9811,77,8617
 Haiti,,Haiti,8766,229,6829
 Gabon,,Gabon,8766,54,8005
 Mozambique,,Mozambique,8728,61,5232
@@ -108,7 +108,7 @@ Mozambique,,Mozambique,8728,61,5232
 Uganda,,Uganda,8287,75,4430
 Zimbabwe,,Zimbabwe,7838,228,6303
 Mauritania,,Mauritania,7502,161,7120
-조지아,格鲁吉亚,Georgia,6640,40,3419
+조지아,格鲁吉亚,Georgia,6640,41,3419
 Jamaica,,Jamaica,6482,107,1867
 Cabo Verde,,Cabo Verde,6024,60,5277
 슬로베니아,斯洛文尼亚,Slovenia,5865,152,3906
@@ -136,12 +136,12 @@ Somalia,,Somalia,3588,99,2946
 Gambia,,Gambia,3579,112,2161
 태국,泰国,Thailand,3569,59,3379
 에스토니아,爱沙尼亚,Estonia,3450,65,2643
-스리랑카,斯里兰卡,Sri Lanka,3380,13,3230
+스리랑카,斯里兰卡,Sri Lanka,3380,13,3233
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3118,131,2453
 Malta,,Malta,3095,35,2605
 Guyana,,Guyana,2894,80,1680
-Iceland,,Iceland,2728,10,2167
+Iceland,,Iceland,2769,10,2177
 South Sudan,,South Sudan,2704,49,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
@@ -173,7 +173,7 @@ Papua New Guinea,,Papua New Guinea,534,7,516
 Tanzania,,Tanzania,509,21,183
 Burundi,,Burundi,508,1,472
 Comoros,,Comoros,479,7,464
-Faeroe Islands,,Faeroe Islands,467,0,429
+Faeroe Islands,,Faeroe Islands,472,0,429
 지브롤터,直布罗陀,Gibraltar,410,0,349
 Curaçao,,Curaçao,392,1,171
 Saint Martin,,Saint Martin,383,8,273
