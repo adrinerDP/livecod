@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7461126,
-        "deaths": 212051,
+        "confirmed": 7463403,
+        "deaths": 212098,
         "recovered": 4712211
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6323247,
-        "deaths": 98822,
-        "recovered": 5280204
+        "confirmed": 6368363,
+        "deaths": 99298,
+        "recovered": 5323669
     },
     {
         "Name": "브라질",
@@ -467,9 +467,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 51530,
-        "deaths": 1736,
-        "recovered": 36174
+        "confirmed": 51690,
+        "deaths": 1741,
+        "recovered": 36282
     },
     {
         "Name": "아르메니아",
@@ -504,6 +504,14 @@
         "recovered": 36476
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 40882,
+        "deaths": 374,
+        "recovered": 17565
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
@@ -528,14 +536,6 @@
         "recovered": 38068
     },
     {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 39634,
-        "deaths": 367,
-        "recovered": 17565
-    },
-    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
@@ -555,8 +555,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 36155,
-        "deaths": 1804,
+        "confirmed": 36597,
+        "deaths": 1806,
         "recovered": 23364
     },
     {
@@ -1115,9 +1115,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3118,
+        "confirmed": 3131,
         "deaths": 131,
-        "recovered": 2453
+        "recovered": 2460
     },
     {
         "Name": "Malta",

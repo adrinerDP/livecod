@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7461126,212051,4712211
-인도,印度,India,6323247,98822,5280204
+미국,美国,United States,7463403,212098,4712211
+인도,印度,India,6368363,99298,5323669
 브라질,巴西,Brazil,4820116,144103,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
 콜롬비아,哥伦比亚,Colombia,829679,25998,743653
@@ -57,18 +57,18 @@ Venezuela,,Venezuela,75122,628,65225
 Uzbekistan,,Uzbekistan,56997,471,53457
 Moldova,,Moldova,54064,1336,39499
 스위스,瑞士,Switzerland,53832,2074,45300
-알제리,阿尔及利亚,Algeria,51530,1736,36174
+알제리,阿尔及利亚,Algeria,51690,1741,36282
 아르메니아,亚美尼亚,Armenia,50850,963,44219
 Kyrgyzstan,,Kyrgyzstan,46841,1065,42983
 Ghana,,Ghana,46656,301,45942
 오스트리아,奥地利,Austria,45686,802,36476
+레바논,黎巴嫩,Lebanon,40882,374,17565
 Paraguay,,Paraguay,40758,857,24449
 팔레스타인,巴勒斯坦,Palestine,40322,318,32577
 아제르바이잔,阿塞拜疆,Azerbaijan,40309,593,38068
-레바논,黎巴嫩,Lebanon,39634,367,17565
 아프가니스탄,阿富汗,Afghanistan,39285,1458,32842
 Kenya,,Kenya,38713,711,24908
-아일랜드,冰岛,Ireland,36155,1804,23364
+아일랜드,冰岛,Ireland,36597,1806,23364
 Libya,,Libya,34525,551,19361
 세르비아,塞尔维亚,Serbia,33662,750,31536
 El Salvador,,El Salvador,29175,848,23930
@@ -138,7 +138,7 @@ Gambia,,Gambia,3584,113,2216
 에스토니아,爱沙尼亚,Estonia,3450,65,2643
 스리랑카,斯里兰卡,Sri Lanka,3382,13,3233
 Botswana,,Botswana,3172,16,710
-Mali,,Mali,3118,131,2453
+Mali,,Mali,3131,131,2460
 Malta,,Malta,3095,35,2605
 Guyana,,Guyana,2894,80,1680
 Iceland,,Iceland,2769,10,2177
