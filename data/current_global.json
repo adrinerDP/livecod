@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7482671,
-        "deaths": 212369,
-        "recovered": 4724120
+        "confirmed": 7484233,
+        "deaths": 212393,
+        "recovered": 4725190
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 674339,
-        "deaths": 16734,
-        "recovered": 608112
+        "confirmed": 676084,
+        "deaths": 16866,
+        "recovered": 609584
     },
     {
         "Name": "프랑스",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 294834,
-        "deaths": 9581,
+        "confirmed": 295530,
+        "deaths": 9586,
         "recovered": 257900
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 252533,
-        "deaths": 1600,
-        "recovered": 178976
+        "confirmed": 253490,
+        "deaths": 1622,
+        "recovered": 179468
     },
     {
         "Name": "Ukraine",
@@ -635,9 +635,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19724,
+        "confirmed": 19755,
         "deaths": 120,
-        "recovered": 19291
+        "recovered": 19320
     },
     {
         "Name": "그리스",
@@ -843,9 +843,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 8509,
-        "deaths": 124,
-        "recovered": 7174
+        "confirmed": 8595,
+        "deaths": 125,
+        "recovered": 7280
     },
     {
         "Name": "Uganda",

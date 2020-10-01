@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7482671,212369,4724120
+미국,美国,United States,7484233,212393,4725190
 인도,印度,India,6391960,99804,5348653
 브라질,巴西,Brazil,4820116,144103,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -8,7 +8,7 @@
 스페인,西班牙,Spain,778607,31973,0
 Argentina,,Argentina,751001,16937,594645
 멕시코,墨西哥,Mexico,743216,77646,533886
-남아프리카 공화국,南非共和国,South Africa,674339,16734,608112
+남아프리카 공화국,南非共和国,South Africa,676084,16866,609584
 프랑스,法国,France,577505,32019,96797
 칠레,智利,Chile,464750,12822,438148
 이란,伊朗,Iran,461044,26380,383368
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,364987,5272,277078
 이탈리아,义大利,Italy,317409,35918,228844
 필리핀,菲律宾,Philippines,314079,5562,254223
 파키스탄,巴基斯坦,Pakistan,312806,6484,297497
-독일,德国,Germany,294834,9581,257900
+독일,德国,Germany,295530,9586,257900
 인도네시아,印度尼西亚,Indonesia,291182,10856,218487
-이스라엘,以色列,Israel,252533,1600,178976
+이스라엘,以色列,Israel,253490,1622,179468
 Ukraine,,Ukraine,213028,4193,94443
 캐나다,加拿大,Canada,160265,9316,136080
 에콰도르,厄瓜多尔,Ecuador,138584,11433,112296
@@ -78,7 +78,7 @@ El Salvador,,El Salvador,29175,848,23930
 호주,澳大利亚,Australia,27096,888,24784
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20833,825,14634
-Ivory Coast,,Ivory Coast,19724,120,19291
+Ivory Coast,,Ivory Coast,19755,120,19320
 그리스,希腊,Greece,18886,393,9989
 Tunisia,,Tunisia,18413,265,5032
 North Macedonia,,North Macedonia,18138,743,15068
@@ -104,7 +104,7 @@ Tajikistan,,Tajikistan,9811,77,8617
 Mozambique,,Mozambique,8888,62,5573
 Haiti,,Haiti,8766,229,6829
 Gabon,,Gabon,8766,54,8005
-룩셈부르크,卢森堡,Luxembourg,8509,124,7174
+룩셈부르크,卢森堡,Luxembourg,8595,125,7280
 Uganda,,Uganda,8287,75,4430
 Zimbabwe,,Zimbabwe,7850,228,6312
 Mauritania,,Mauritania,7502,161,7120
