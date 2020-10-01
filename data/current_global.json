@@ -795,7 +795,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 9992,
+        "confirmed": 10103,
         "deaths": 344,
         "recovered": 8100
     },
@@ -952,20 +952,20 @@
         "recovered": 2913
     },
     {
+        "Name": "홍콩",
+        "Name_ch": "香港",
+        "Name_en": "Hong Kong",
+        "confirmed": 5098,
+        "deaths": 105,
+        "recovered": 4836
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
         "confirmed": 5089,
         "deaths": 89,
         "recovered": 3887
-    },
-    {
-        "Name": "홍콩",
-        "Name_ch": "香港",
-        "Name_en": "Hong Kong",
-        "confirmed": 5088,
-        "deaths": 105,
-        "recovered": 4827
     },
     {
         "Name": "Equatorial Guinea",
