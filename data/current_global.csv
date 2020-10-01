@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7489236,212503,4726829
+미국,美国,United States,7489553,212506,4727156
 인도,印度,India,6391960,99804,5348653
-브라질,巴西,Brazil,4820116,144103,4180376
+브라질,巴西,Brazil,4847092,144680,4212772
 러시아,俄罗斯,Russia,1185231,20891,964242
 콜롬비아,哥伦比亚,Colombia,835339,26196,751691
 페루,秘鲁,Peru,814829,32463,683815
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,364987,5272,277078
 인도네시아,印度尼西亚,Indonesia,291182,10856,218487
 이스라엘,以色列,Israel,253490,1622,179468
 Ukraine,,Ukraine,213028,4193,94443
-캐나다,加拿大,Canada,160453,9318,136246
+캐나다,加拿大,Canada,160535,9319,136350
 에콰도르,厄瓜多尔,Ecuador,138584,11433,112296
 Bolivia,,Bolivia,135311,7965,95529
 루마니아,尼亚,Romania,129658,4862,103994
@@ -36,7 +36,7 @@ Bolivia,,Bolivia,135311,7965,95529
 Panama,,Panama,112595,2372,89061
 Kazakhstan,,Kazakhstan,107979,1725,102937
 쿠웨이트,科威特,Kuwait,105676,612,97197
-이집트,埃及,Egypt,103198,5930,96494
+이집트,埃及,Egypt,103317,5946,96855
 오만,阿曼,Oman,98585,935,88528
 아랍에미리트,阿拉伯联合酋长国,UAE,95348,421,84903
 스웨덴,瑞典语,Sweden,93615,5893,0
@@ -89,7 +89,7 @@ Zambia,,Zambia,14802,333,13961
 Myanmar,,Myanmar,14383,321,4156
 노르웨이,挪威,Norway,14085,274,11190
 Albania,,Albania,13806,388,8077
-Sudan,,Sudan,13640,836,6764
+Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13101,69,4752
 말레이시아,马来西亚,Malaysia,11484,136,10014
 Namibia,,Namibia,11373,123,9083
@@ -146,9 +146,9 @@ South Sudan,,South Sudan,2704,49,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2238,72,1695
+Uruguay,,Uruguay,2061,48,1809
 Burkina Faso,,Burkina Faso,2056,58,1335
 안도라,安道尔,Andorra,2050,53,1432
-Uruguay,,Uruguay,2046,48,1791
 Yemen,,Yemen,2039,587,1297
 Belize,,Belize,1992,27,1246
 라트비아,约旦,Latvia,1868,37,1307
@@ -186,7 +186,7 @@ Mongolia,,Mongolia,313,0,307
 모나코,摩纳哥,Monaco,219,2,187
 Cayman Islands,,Cayman Islands,211,1,208
 Barbados,,Barbados,193,7,179
-Bermuda,,Bermuda,181,9,167
+Bermuda,,Bermuda,181,9,168
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,144,0,143
 Caribbean Netherlands,,Caribbean Netherlands,121,1,32
