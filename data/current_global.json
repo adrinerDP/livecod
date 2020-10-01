@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7445659,
-        "deaths": 211688,
-        "recovered": 4688829
+        "confirmed": 7447273,
+        "deaths": 211738,
+        "recovered": 4693782
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 811768,
-        "deaths": 32396,
-        "recovered": 676925
+        "confirmed": 814829,
+        "deaths": 32463,
+        "recovered": 683815
     },
     {
         "Name": "스페인",
@@ -1216,6 +1216,14 @@
         "recovered": 1225
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1852,
+        "deaths": 7,
+        "recovered": 1504
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
@@ -1246,14 +1254,6 @@
         "confirmed": 1755,
         "deaths": 22,
         "recovered": 1369
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1728,
-        "deaths": 7,
-        "recovered": 1431
     },
     {
         "Name": "Lesotho",
@@ -1515,9 +1515,17 @@
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "confirmed": 143,
+        "confirmed": 144,
         "deaths": 0,
         "recovered": 140
+    },
+    {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 121,
+        "deaths": 1,
+        "recovered": 32
     },
     {
         "Name": "리히텐슈타인",
@@ -1526,14 +1534,6 @@
         "confirmed": 118,
         "deaths": 1,
         "recovered": 113
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 106,
-        "deaths": 1,
-        "recovered": 24
     },
     {
         "Name": "Antigua and Barbuda",

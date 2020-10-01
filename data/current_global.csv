@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7445659,211688,4688829
+미국,美国,United States,7447273,211738,4693782
 인도,印度,India,6310267,98708,5270007
 브라질,巴西,Brazil,4813586,143962,4180376
 러시아,俄罗斯,Russia,1176286,20722,958257
 콜롬비아,哥伦比亚,Colombia,829679,25998,743653
-페루,秘鲁,Peru,811768,32396,676925
+페루,秘鲁,Peru,814829,32463,683815
 스페인,西班牙,Spain,769188,31791,0
 Argentina,,Argentina,751001,16937,594645
 멕시코,墨西哥,Mexico,738163,77163,530945
@@ -151,11 +151,11 @@ Burkina Faso,,Burkina Faso,2056,58,1335
 Uruguay,,Uruguay,2046,48,1791
 Yemen,,Yemen,2034,587,1286
 Belize,,Belize,1943,26,1225
+French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1836,25,1767
 라트비아,约旦,Latvia,1824,37,1307
 토고,多哥,Togo,1784,48,1348
 Cyprus,,Cyprus,1755,22,1369
-French Polynesia,,French Polynesia,1728,7,1431
 Lesotho,,Lesotho,1595,36,873
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
@@ -188,9 +188,9 @@ Cayman Islands,,Cayman Islands,211,1,208
 Barbados,,Barbados,190,7,179
 Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142
-Seychelles,,Seychelles,143,0,140
+Seychelles,,Seychelles,144,0,140
+Caribbean Netherlands,,Caribbean Netherlands,121,1,32
 리히텐슈타인,列支敦士登,Liechtenstein,118,1,113
-Caribbean Netherlands,,Caribbean Netherlands,106,1,24
 Antigua and Barbuda,,Antigua and Barbuda,101,3,92
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
