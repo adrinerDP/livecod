@@ -131,9 +131,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 334605,
-        "deaths": 4768,
-        "recovered": 319154
+        "confirmed": 335097,
+        "deaths": 4794,
+        "recovered": 319746
     },
     {
         "Name": "터키",
@@ -412,7 +412,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 70864,
-        "deaths": 251,
+        "deaths": 253,
         "recovered": 64838
     },
     {
@@ -512,20 +512,20 @@
         "recovered": 24449
     },
     {
+        "Name": "팔레스타인",
+        "Name_ch": "巴勒斯坦",
+        "Name_en": "Palestine",
+        "confirmed": 40322,
+        "deaths": 318,
+        "recovered": 32577
+    },
+    {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
         "confirmed": 40309,
         "deaths": 593,
         "recovered": 38068
-    },
-    {
-        "Name": "팔레스타인",
-        "Name_ch": "巴勒斯坦",
-        "Name_en": "Palestine",
-        "confirmed": 39899,
-        "deaths": 311,
-        "recovered": 31743
     },
     {
         "Name": "레바논",
@@ -851,9 +851,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 8129,
+        "confirmed": 8287,
         "deaths": 75,
-        "recovered": 4260
+        "recovered": 4430
     },
     {
         "Name": "Zimbabwe",
