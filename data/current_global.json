@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 16593,
-        "deaths": 280,
-        "recovered": 15057
+        "confirmed": 16827,
+        "deaths": 284,
+        "recovered": 15218
     },
     {
         "Name": "Madagascar",
@@ -1216,6 +1216,14 @@
         "recovered": 1246
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 1868,
+        "deaths": 37,
+        "recovered": 1307
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
@@ -1230,14 +1238,6 @@
         "confirmed": 1848,
         "deaths": 25,
         "recovered": 1770
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1824,
-        "deaths": 37,
-        "recovered": 1307
     },
     {
         "Name": "토고",
