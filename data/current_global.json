@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7454857,
-        "deaths": 211849,
-        "recovered": 4701453
+        "confirmed": 7457860,
+        "deaths": 211988,
+        "recovered": 4712000
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 158758,
-        "deaths": 9297,
-        "recovered": 134971
+        "confirmed": 159296,
+        "deaths": 9300,
+        "recovered": 135485
     },
     {
         "Name": "에콰도르",
@@ -264,20 +264,20 @@
         "recovered": 19454
     },
     {
+        "Name": "도미니카 공화국",
+        "Name_ch": "多明尼加共和国",
+        "Name_en": "Dominican Republic",
+        "confirmed": 112728,
+        "deaths": 2108,
+        "recovered": 88205
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
         "confirmed": 112595,
         "deaths": 2372,
         "recovered": 89061
-    },
-    {
-        "Name": "도미니카 공화국",
-        "Name_ch": "多明尼加共和国",
-        "Name_en": "Dominican Republic",
-        "confirmed": 112209,
-        "deaths": 2105,
-        "recovered": 87629
     },
     {
         "Name": "Kazakhstan",
@@ -339,17 +339,17 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 91746,
-        "deaths": 3246,
-        "recovered": 80256
+        "confirmed": 92409,
+        "deaths": 3261,
+        "recovered": 80800
     },
     {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 83010,
-        "deaths": 1564,
-        "recovered": 76025
+        "confirmed": 83563,
+        "deaths": 1571,
+        "recovered": 76590
     },
     {
         "Name": "네팔",
@@ -435,9 +435,9 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57786,
+        "confirmed": 57784,
         "deaths": 27,
-        "recovered": 57488
+        "recovered": 57512
     },
     {
         "Name": "Uzbekistan",
@@ -448,20 +448,20 @@
         "recovered": 53457
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "confirmed": 54064,
+        "deaths": 1336,
+        "recovered": 39499
+    },
+    {
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 53832,
         "deaths": 2074,
         "recovered": 45300
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "confirmed": 53042,
-        "deaths": 1320,
-        "recovered": 38997
     },
     {
         "Name": "알제리",
@@ -731,9 +731,9 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 11825,
-        "deaths": 61,
-        "recovered": 4626
+        "confirmed": 13101,
+        "deaths": 69,
+        "recovered": 4752
     },
     {
         "Name": "말레이시아",
@@ -747,9 +747,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 11265,
-        "deaths": 121,
-        "recovered": 9014
+        "confirmed": 11373,
+        "deaths": 123,
+        "recovered": 9083
     },
     {
         "Name": "슬로바키아",
@@ -883,9 +883,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 6482,
-        "deaths": 107,
-        "recovered": 1867
+        "confirmed": 6555,
+        "deaths": 111,
+        "recovered": 1991
     },
     {
         "Name": "Cabo Verde",
@@ -1019,9 +1019,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4531,
+        "confirmed": 4542,
         "deaths": 76,
-        "recovered": 2560
+        "recovered": 2629
     },
     {
         "Name": "Syria",
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3380,
+        "confirmed": 3382,
         "deaths": 13,
         "recovered": 3233
     },
