@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7469542,212173,4714538
+미국,美国,United States,7471839,212184,4716143
 인도,印度,India,6368363,99298,5323669
 브라질,巴西,Brazil,4820116,144103,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -16,7 +16,7 @@ Argentina,,Argentina,751001,16937,594645
 이라크,伊拉克,Iraq,367474,9231,295882
 Bangladesh,,Bangladesh,364987,5272,277078
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335097,4794,319746
-터키,土耳其,Turkey,318663,8195,279749
+터키,土耳其,Turkey,320070,8262,281151
 이탈리아,义大利,Italy,317409,35918,228844
 필리핀,菲律宾,Philippines,314079,5562,254223
 파키스탄,巴基斯坦,Pakistan,312806,6484,297497
@@ -116,7 +116,7 @@ Malawi,,Malawi,5779,179,4514
 Cuba,,Cuba,5670,122,4922
 Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5500,111,5000
-Djibouti,,Djibouti,5416,61,5344
+Djibouti,,Djibouti,5417,61,5346
 Nicaragua,,Nicaragua,5170,151,2913
 홍콩,香港,Hong Kong,5098,105,4836
 Congo,,Congo,5089,89,3887
@@ -145,7 +145,7 @@ Iceland,,Iceland,2769,10,2177
 South Sudan,,South Sudan,2704,49,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
-Sierra Leone,,Sierra Leone,2231,72,1687
+Sierra Leone,,Sierra Leone,2238,72,1695
 Burkina Faso,,Burkina Faso,2056,58,1335
 안도라,安道尔,Andorra,2050,53,1432
 Uruguay,,Uruguay,2046,48,1791
@@ -170,8 +170,8 @@ Sint Maarten,,Sint Maarten,667,22,557
 Channel Islands,,Channel Islands,665,48,600
 Papua New Guinea,,Papua New Guinea,539,7,519
 대만,台湾,Taiwan,515,7,484
+Burundi,,Burundi,510,1,472
 Tanzania,,Tanzania,509,21,183
-Burundi,,Burundi,508,1,472
 Comoros,,Comoros,479,7,464
 Faeroe Islands,,Faeroe Islands,472,0,429
 지브롤터,直布罗陀,Gibraltar,410,0,349
@@ -188,9 +188,9 @@ Cayman Islands,,Cayman Islands,211,1,208
 Barbados,,Barbados,190,7,179
 Bermuda,,Bermuda,181,9,167
 Brunei,,Brunei,146,3,142
-Seychelles,,Seychelles,144,0,140
+Seychelles,,Seychelles,144,0,143
 Caribbean Netherlands,,Caribbean Netherlands,121,1,32
-리히텐슈타인,列支敦士登,Liechtenstein,118,1,113
+리히텐슈타인,列支敦士登,Liechtenstein,119,1,114
 Antigua and Barbuda,,Antigua and Barbuda,101,3,92
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7469542,
-        "deaths": 212173,
-        "recovered": 4714538
+        "confirmed": 7471839,
+        "deaths": 212184,
+        "recovered": 4716143
     },
     {
         "Name": "인도",
@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 318663,
-        "deaths": 8195,
-        "recovered": 279749
+        "confirmed": 320070,
+        "deaths": 8262,
+        "recovered": 281151
     },
     {
         "Name": "이탈리아",
@@ -939,9 +939,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5416,
+        "confirmed": 5417,
         "deaths": 61,
-        "recovered": 5344
+        "recovered": 5346
     },
     {
         "Name": "Nicaragua",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2231,
+        "confirmed": 2238,
         "deaths": 72,
-        "recovered": 1687
+        "recovered": 1695
     },
     {
         "Name": "Burkina Faso",
@@ -1368,20 +1368,20 @@
         "recovered": 484
     },
     {
+        "Name": "Burundi",
+        "Name_ch": "",
+        "Name_en": "Burundi",
+        "confirmed": 510,
+        "deaths": 1,
+        "recovered": 472
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "confirmed": 509,
         "deaths": 21,
         "recovered": 183
-    },
-    {
-        "Name": "Burundi",
-        "Name_ch": "",
-        "Name_en": "Burundi",
-        "confirmed": 508,
-        "deaths": 1,
-        "recovered": 472
     },
     {
         "Name": "Comoros",
@@ -1517,7 +1517,7 @@
         "Name_en": "Seychelles",
         "confirmed": 144,
         "deaths": 0,
-        "recovered": 140
+        "recovered": 143
     },
     {
         "Name": "Caribbean Netherlands",
@@ -1531,9 +1531,9 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 118,
+        "confirmed": 119,
         "deaths": 1,
-        "recovered": 113
+        "recovered": 114
     },
     {
         "Name": "Antigua and Barbuda",
