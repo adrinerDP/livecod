@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7468356,212147,4714182
+미국,美国,United States,7469542,212173,4714538
 인도,印度,India,6368363,99298,5323669
 브라질,巴西,Brazil,4820116,144103,4180376
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -9,7 +9,7 @@
 Argentina,,Argentina,751001,16937,594645
 멕시코,墨西哥,Mexico,743216,77646,533886
 남아프리카 공화국,南非共和国,South Africa,674339,16734,608112
-프랑스,法国,France,563535,31956,96797
+프랑스,法国,France,577505,32019,96797
 칠레,智利,Chile,464750,12822,438148
 이란,伊朗,Iran,461044,26380,383368
 영국,英国,UK,460178,42202,0
@@ -20,17 +20,17 @@ Bangladesh,,Bangladesh,364987,5272,277078
 이탈리아,义大利,Italy,317409,35918,228844
 필리핀,菲律宾,Philippines,314079,5562,254223
 파키스탄,巴基斯坦,Pakistan,312806,6484,297497
-독일,德国,Germany,294173,9575,257900
+독일,德国,Germany,294834,9581,257900
 인도네시아,印度尼西亚,Indonesia,291182,10856,218487
-이스라엘,以色列,Israel,248133,1571,177752
+이스라엘,以色列,Israel,252533,1600,178976
 Ukraine,,Ukraine,213028,4193,94443
 캐나다,加拿大,Canada,160229,9316,136066
 에콰도르,厄瓜多尔,Ecuador,137047,11355,112296
 Bolivia,,Bolivia,135311,7965,95529
 루마니아,尼亚,Romania,129658,4862,103994
+모로코,摩洛哥,Morocco,126044,2229,104136
 카타르,卡塔尔,Qatar,125959,214,122911
 네덜란드,荷兰,Netherlands,124097,6419,0
-모로코,摩洛哥,Morocco,123653,2194,102715
 벨기에,比利时,Belgium,118452,10016,19454
 도미니카 공화국,多明尼加共和国,Dominican Republic,112728,2108,88205
 Panama,,Panama,112595,2372,89061
@@ -47,8 +47,8 @@ Guatemala,,Guatemala,92409,3261,80800
 벨라루스,白俄罗斯,Belarus,79019,839,74777
 Honduras,,Honduras,76900,2353,27922
 포르투갈,葡萄牙,Portugal,76396,1977,48937
+Ethiopia,,Ethiopia,76098,1205,31430
 코스타리카,哥斯达黎加,Costa Rica,75760,904,37841
-Ethiopia,,Ethiopia,75368,1198,31204
 Venezuela,,Venezuela,75122,628,65225
 체코,捷克,Czechia,72162,676,34093
 바레인,巴林,Bahrain,70864,253,64838
@@ -99,7 +99,7 @@ DRC,,DRC,10685,272,10165
 Guinea,,Guinea,10652,66,9996
 Maldives,,Maldives,10291,34,9108
 핀란드,芬兰,Finland,10103,344,8100
-French Guiana,,French Guiana,9955,66,9589
+French Guiana,,French Guiana,9966,67,9613
 Tajikistan,,Tajikistan,9811,77,8617
 Mozambique,,Mozambique,8888,62,5573
 Haiti,,Haiti,8766,229,6829
@@ -115,7 +115,7 @@ Cabo Verde,,Cabo Verde,6024,60,5277
 Malawi,,Malawi,5779,179,4514
 Cuba,,Cuba,5670,122,4922
 Guadeloupe,,Guadeloupe,5528,57,2199
-Eswatini,,Eswatini,5482,109,4912
+Eswatini,,Eswatini,5500,111,5000
 Djibouti,,Djibouti,5416,61,5344
 Nicaragua,,Nicaragua,5170,151,2913
 홍콩,香港,Hong Kong,5098,105,4836
