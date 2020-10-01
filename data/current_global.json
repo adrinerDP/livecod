@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7484233,
-        "deaths": 212393,
-        "recovered": 4725190
+        "confirmed": 7484892,
+        "deaths": 212406,
+        "recovered": 4725254
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 160265,
+        "confirmed": 160280,
         "deaths": 9316,
-        "recovered": 136080
+        "recovered": 136089
     },
     {
         "Name": "에콰도르",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 70864,
-        "deaths": 253,
-        "recovered": 64838
+        "confirmed": 71374,
+        "deaths": 254,
+        "recovered": 65550
     },
     {
         "Name": "나이지리아",
@@ -1411,9 +1411,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 392,
+        "confirmed": 399,
         "deaths": 1,
-        "recovered": 171
+        "recovered": 185
     },
     {
         "Name": "Saint Martin",
