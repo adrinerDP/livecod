@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7450637,
-        "deaths": 211778,
-        "recovered": 4700746
+        "confirmed": 7451354,
+        "deaths": 211805,
+        "recovered": 4701240
     },
     {
         "Name": "인도",
@@ -235,9 +235,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 125760,
+        "confirmed": 125959,
         "deaths": 214,
-        "recovered": 122699
+        "recovered": 122911
     },
     {
         "Name": "모로코",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 105182,
-        "deaths": 610,
-        "recovered": 96688
+        "confirmed": 105676,
+        "deaths": 612,
+        "recovered": 97197
     },
     {
         "Name": "이집트",
@@ -352,20 +352,20 @@
         "recovered": 76025
     },
     {
-        "Name": "벨라루스",
-        "Name_ch": "白俄罗斯",
-        "Name_en": "Belarus",
-        "confirmed": 78631,
-        "deaths": 833,
-        "recovered": 74525
-    },
-    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 77817,
-        "deaths": 498,
-        "recovered": 56428
+        "confirmed": 79728,
+        "deaths": 509,
+        "recovered": 57389
+    },
+    {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+        "confirmed": 79019,
+        "deaths": 839,
+        "recovered": 74777
     },
     {
         "Name": "Honduras",
