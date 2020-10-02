@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7503859,212841,4750144
+미국,美国,United States,7505074,212869,4750176
 인도,印度,India,6399329,99837,5353120
 브라질,巴西,Brazil,4849229,144767,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
@@ -10,9 +10,9 @@ Argentina,,Argentina,765002,20288,603140
 멕시코,墨西哥,Mexico,748315,78078,537475
 남아프리카 공화국,南非共和国,South Africa,676084,16866,609584
 프랑스,法国,France,577505,32019,96797
+영국,英国,UK,467146,42268,0
 칠레,智利,Chile,466590,12867,439607
 이란,伊朗,Iran,464596,26567,385264
-영국,英国,UK,460178,42202,0
 이라크,伊拉克,Iraq,372259,9298,299804
 Bangladesh,,Bangladesh,366383,5305,278627
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335578,4823,320348
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,366383,5305,278627
 이탈리아,义大利,Italy,319908,35941,229970
 필리핀,菲律宾,Philippines,316678,5616,254617
 파키스탄,巴基斯坦,Pakistan,313431,6499,298055
-독일,德国,Germany,296615,9588,259500
+독일,德国,Germany,297046,9590,259500
 인도네시아,印度尼西亚,Indonesia,295499,10972,221340
 이스라엘,以色列,Israel,258920,1633,185122
 Ukraine,,Ukraine,217661,4261,96591
-캐나다,加拿大,Canada,160535,9319,136350
+캐나다,加拿大,Canada,162320,9402,137318
 에콰도르,厄瓜多尔,Ecuador,138584,11433,112296
 Bolivia,,Bolivia,135716,8001,96165
 루마니아,尼亚,Romania,132001,4915,105582
@@ -42,7 +42,7 @@ Kazakhstan,,Kazakhstan,108044,1725,103028
 폴란드,波兰,Poland,95773,2570,71353
 스웨덴,瑞典语,Sweden,94283,5895,0
 Guatemala,,Guatemala,93090,3267,81466
-일본,日本,Japan,83563,1571,76590
+일본,日本,Japan,84215,1578,77219
 네팔,尼泊尔,Nepal,82450,520,60696
 벨라루스,白俄罗斯,Belarus,79421,844,74982
 Honduras,,Honduras,77598,2380,28517
@@ -86,9 +86,9 @@ North Macedonia,,North Macedonia,18363,749,15164
 Madagascar,,Madagascar,16493,232,15467
 Myanmar,,Myanmar,15525,353,4378
 세네갈,塞内加尔,Senegal,15051,312,12694
-Zambia,,Zambia,14802,333,13961
+Zambia,,Zambia,14830,333,13980
 노르웨이,挪威,Norway,14149,274,11190
-Albania,,Albania,13806,388,8077
+Albania,,Albania,13965,389,8342
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13650,79,4752
 말레이시아,马来西亚,Malaysia,11771,136,10095
@@ -104,7 +104,7 @@ Tajikistan,,Tajikistan,9852,77,8661
 Mozambique,,Mozambique,8888,62,5573
 Haiti,,Haiti,8781,229,6907
 Gabon,,Gabon,8766,54,8005
-룩셈부르크,卢森堡,Luxembourg,8595,125,7280
+룩셈부르크,卢森堡,Luxembourg,8709,125,7428
 Uganda,,Uganda,8491,79,4470
 Zimbabwe,,Zimbabwe,7850,228,6312
 Mauritania,,Mauritania,7505,161,7138
@@ -155,7 +155,7 @@ Belize,,Belize,2026,27,1272
 French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1780
 토고,多哥,Togo,1809,48,1353
-Cyprus,,Cyprus,1772,22,1369
+Cyprus,,Cyprus,1789,22,1369
 Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
