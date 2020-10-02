@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7516903,213052,4752607
+미국,美国,United States,7520529,213155,4755238
 인도,印度,India,6438968,100323,5393737
 브라질,巴西,Brazil,4856024,144966,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
@@ -9,7 +9,7 @@
 Argentina,,Argentina,765002,20288,603140
 멕시코,墨西哥,Mexico,748315,78078,537475
 남아프리카 공화국,南非共和国,South Africa,676084,16866,609584
-프랑스,法国,France,577505,32019,96797
+프랑스,法国,France,589653,32155,97778
 영국,英国,UK,467146,42268,0
 칠레,智利,Chile,466590,12867,439607
 이란,伊朗,Iran,464596,26567,385264
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,366383,5305,278627
 이탈리아,义大利,Italy,319908,35941,229970
 필리핀,菲律宾,Philippines,316678,5616,254617
 파키스탄,巴基斯坦,Pakistan,313431,6499,298055
-독일,德国,Germany,297429,9591,259500
+독일,德国,Germany,297864,9592,259500
 인도네시아,印度尼西亚,Indonesia,295499,10972,221340
 이스라엘,以色列,Israel,258920,1633,185122
 Ukraine,,Ukraine,217661,4261,96591
@@ -68,7 +68,7 @@ Paraguay,,Paraguay,41799,869,25167
 아제르바이잔,阿塞拜疆,Azerbaijan,40453,594,38217
 아프가니스탄,阿富汗,Afghanistan,39290,1458,32842
 Kenya,,Kenya,38923,725,25114
-아일랜드,冰岛,Ireland,36597,1806,23364
+아일랜드,冰岛,Ireland,37063,1801,23364
 Libya,,Libya,35717,570,20334
 세르비아,塞尔维亚,Serbia,33735,751,31536
 El Salvador,,El Salvador,29175,848,23930
@@ -99,7 +99,7 @@ DRC,,DRC,10729,272,10183
 Guinea,,Guinea,10652,66,9996
 Maldives,,Maldives,10354,34,9187
 핀란드,芬兰,Finland,10244,345,8100
-French Guiana,,French Guiana,9966,67,9613
+French Guiana,,French Guiana,9968,67,9637
 Tajikistan,,Tajikistan,9852,77,8661
 Mozambique,,Mozambique,8979,64,5595
 Haiti,,Haiti,8781,229,6907
