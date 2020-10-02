@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7539151,213411,4767680
+미국,美国,United States,7540454,213429,4768552
 인도,印度,India,6471734,100873,5424943
-브라질,巴西,Brazil,4856024,144966,4212772
+브라질,巴西,Brazil,4880523,145388,4232593
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
 페루,秘鲁,Peru,818297,32535,690528
@@ -77,7 +77,7 @@ El Salvador,,El Salvador,29175,853,23930
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27975,871,21108
 호주,澳大利亚,Australia,27109,890,24788
 Bulgaria,,Bulgaria,21336,838,14939
-카메룬,喀麦隆,Cameroon,20838,418,19440
+카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19793,120,19357
 Tunisia,,Tunisia,19721,271,5032
 그리스,希腊,Greece,19346,398,9989
@@ -87,7 +87,7 @@ Madagascar,,Madagascar,16493,232,15467
 Myanmar,,Myanmar,15525,353,4378
 세네갈,塞内加尔,Senegal,15051,312,12694
 Zambia,,Zambia,14830,333,13980
-노르웨이,挪威,Norway,14220,275,11190
+노르웨이,挪威,Norway,14284,275,11190
 Albania,,Albania,13965,389,8342
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13650,79,4752
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,282,0,225
 캄보디아,柬埔寨,Cambodia,278,0,275
 모나코,摩纳哥,Monaco,221,2,188
-Cayman Islands,,Cayman Islands,211,1,209
+Cayman Islands,,Cayman Islands,213,1,209
 Barbados,,Barbados,193,7,179
 Bermuda,,Bermuda,181,9,168
 Brunei,,Brunei,146,3,142
