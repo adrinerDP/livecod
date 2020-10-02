@@ -227,9 +227,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 129658,
-        "deaths": 4862,
-        "recovered": 103994
+        "confirmed": 132001,
+        "deaths": 4915,
+        "recovered": 105582
     },
     {
         "Name": "모로코",
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 71374,
-        "deaths": 254,
+        "deaths": 255,
         "recovered": 65550
     },
     {
@@ -548,8 +548,8 @@
         "Name_ch": "",
         "Name_en": "Kenya",
         "confirmed": 38713,
-        "deaths": 711,
-        "recovered": 24908
+        "deaths": 718,
+        "recovered": 25023
     },
     {
         "Name": "아일랜드",
@@ -1092,7 +1092,7 @@
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "confirmed": 3507,
-        "deaths": 65,
+        "deaths": 66,
         "recovered": 2675
     },
     {
@@ -1531,9 +1531,9 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 119,
+        "confirmed": 120,
         "deaths": 1,
-        "recovered": 114
+        "recovered": 116
     },
     {
         "Name": "Antigua and Barbuda",
