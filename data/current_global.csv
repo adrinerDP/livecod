@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7527541,213240,4759937
+미국,美国,United States,7531397,213305,4762450
 인도,印度,India,6471734,100873,5424943
 브라질,巴西,Brazil,4856024,144966,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
@@ -28,9 +28,9 @@ Ukraine,,Ukraine,217661,4261,96591
 에콰도르,厄瓜多尔,Ecuador,138584,11433,112296
 Bolivia,,Bolivia,135716,8001,96165
 루마니아,尼亚,Romania,132001,4915,105582
+모로코,摩洛哥,Morocco,128565,2263,106044
 네덜란드,荷兰,Netherlands,127922,6428,0
 카타르,卡塔尔,Qatar,126164,215,123108
-모로코,摩洛哥,Morocco,126044,2229,104136
 벨기에,比利时,Belgium,121059,10023,19521
 도미니카 공화국,多明尼加共和国,Dominican Republic,113350,2117,88840
 Panama,,Panama,113342,2387,89903
@@ -78,7 +78,7 @@ El Salvador,,El Salvador,29175,848,23930
 호주,澳大利亚,Australia,27109,890,24788
 Bulgaria,,Bulgaria,21096,832,14787
 카메룬,喀麦隆,Cameroon,20838,418,19440
-Ivory Coast,,Ivory Coast,19755,120,19320
+Ivory Coast,,Ivory Coast,19793,120,19357
 Tunisia,,Tunisia,19721,271,5032
 그리스,希腊,Greece,19346,398,9989
 North Macedonia,,North Macedonia,18363,749,15164
@@ -102,7 +102,7 @@ Maldives,,Maldives,10354,34,9187
 French Guiana,,French Guiana,9968,67,9637
 Tajikistan,,Tajikistan,9852,77,8661
 Mozambique,,Mozambique,8979,64,5595
-Haiti,,Haiti,8781,229,6907
+Haiti,,Haiti,8792,229,6949
 Gabon,,Gabon,8766,54,8005
 룩셈부르크,卢森堡,Luxembourg,8709,125,7428
 Uganda,,Uganda,8491,79,4470
@@ -113,7 +113,7 @@ Jamaica,,Jamaica,6704,116,2112
 Cabo Verde,,Cabo Verde,6205,62,5399
 슬로베니아,斯洛文尼亚,Slovenia,6103,154,4041
 Malawi,,Malawi,5779,179,4514
-Cuba,,Cuba,5670,122,4922
+Cuba,,Cuba,5718,122,4922
 Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5500,111,5000
 Djibouti,,Djibouti,5417,61,5346
@@ -127,7 +127,7 @@ Suriname,,Suriname,4891,105,4702
 Rwanda,,Rwanda,4843,29,3181
 CAR,,CAR,4829,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4613,76,2729
-Syria,,Syria,4247,202,1117
+Syria,,Syria,4289,203,1130
 Bahamas,,Bahamas,4220,96,2290
 Aruba,,Aruba,4038,30,3406
 Réunion,,Réunion,3993,16,2819
@@ -154,12 +154,12 @@ Belize,,Belize,2026,27,1272
 라트비아,约旦,Latvia,1945,38,1307
 French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1780
-토고,多哥,Togo,1809,48,1353
+토고,多哥,Togo,1818,48,1365
 Cyprus,,Cyprus,1789,22,1369
 Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
-Chad,,Chad,1203,85,1067
+Chad,,Chad,1211,85,1070
 Niger,,Niger,1197,69,1114
 베트남,越南,Vietnam,1096,35,1020
 Sao Tome and Principe,,Sao Tome and Principe,911,15,886
@@ -170,7 +170,7 @@ Channel Islands,,Channel Islands,677,48,600
 Sint Maarten,,Sint Maarten,668,22,567
 Papua New Guinea,,Papua New Guinea,539,7,519
 대만,台湾,Taiwan,515,7,484
-Burundi,,Burundi,510,1,472
+Burundi,,Burundi,513,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,484,7,466
 Faeroe Islands,,Faeroe Islands,472,0,432
