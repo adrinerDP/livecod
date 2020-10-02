@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7498071,212702,4737374
-인도,印度,India,6397896,99833,5352078
+미국,美国,United States,7499991,212726,4737374
+인도,印度,India,6399329,99837,5353120
 브라질,巴西,Brazil,4849229,144767,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,835339,26196,751691
@@ -44,7 +44,7 @@ Kazakhstan,,Kazakhstan,108044,1725,103028
 Guatemala,,Guatemala,92409,3261,80800
 일본,日本,Japan,83563,1571,76590
 네팔,尼泊尔,Nepal,82450,520,60696
-벨라루스,白俄罗斯,Belarus,79019,839,74777
+벨라루스,白俄罗斯,Belarus,79421,844,74982
 Honduras,,Honduras,77598,2380,28517
 코스타리카,哥斯达黎加,Costa Rica,76828,917,39843
 포르투갈,葡萄牙,Portugal,76396,1977,48937
@@ -98,9 +98,9 @@ Montenegro,,Montenegro,10987,170,7397
 DRC,,DRC,10729,272,10183
 Guinea,,Guinea,10652,66,9996
 Maldives,,Maldives,10354,34,9187
-핀란드,芬兰,Finland,10244,344,8100
+핀란드,芬兰,Finland,10244,345,8100
 French Guiana,,French Guiana,9966,67,9613
-Tajikistan,,Tajikistan,9811,77,8617
+Tajikistan,,Tajikistan,9852,77,8661
 Mozambique,,Mozambique,8888,62,5573
 Haiti,,Haiti,8781,229,6907
 Gabon,,Gabon,8766,54,8005
@@ -156,7 +156,7 @@ French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1780
 토고,多哥,Togo,1809,48,1353
 Cyprus,,Cyprus,1772,22,1369
-Lesotho,,Lesotho,1639,38,874
+Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
 Chad,,Chad,1203,85,1067

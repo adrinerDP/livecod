@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7498071,
-        "deaths": 212702,
+        "confirmed": 7499991,
+        "deaths": 212726,
         "recovered": 4737374
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6397896,
-        "deaths": 99833,
-        "recovered": 5352078
+        "confirmed": 6399329,
+        "deaths": 99837,
+        "recovered": 5353120
     },
     {
         "Name": "브라질",
@@ -363,9 +363,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 79019,
-        "deaths": 839,
-        "recovered": 74777
+        "confirmed": 79421,
+        "deaths": 844,
+        "recovered": 74982
     },
     {
         "Name": "Honduras",
@@ -796,7 +796,7 @@
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 10244,
-        "deaths": 344,
+        "deaths": 345,
         "recovered": 8100
     },
     {
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9811,
+        "confirmed": 9852,
         "deaths": 77,
-        "recovered": 8617
+        "recovered": 8661
     },
     {
         "Name": "Mozambique",
@@ -1259,9 +1259,9 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1639,
-        "deaths": 38,
-        "recovered": 874
+        "confirmed": 1680,
+        "deaths": 39,
+        "recovered": 926
     },
     {
         "Name": "Martinique",
