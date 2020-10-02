@@ -18,11 +18,11 @@ Bangladesh,,Bangladesh,364987,5272,277078
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335097,4794,319746
 터키,土耳其,Turkey,320070,8262,281151
 이탈리아,义大利,Italy,317409,35918,228844
-필리핀,菲律宾,Philippines,314079,5562,254223
+필리핀,菲律宾,Philippines,316678,5616,254617
 파키스탄,巴基斯坦,Pakistan,313431,6499,298055
 독일,德国,Germany,295530,9586,257900
 인도네시아,印度尼西亚,Indonesia,291182,10856,218487
-이스라엘,以色列,Israel,255771,1622,183488
+이스라엘,以色列,Israel,256071,1629,183500
 Ukraine,,Ukraine,217661,4261,96591
 캐나다,加拿大,Canada,160535,9319,136350
 에콰도르,厄瓜多尔,Ecuador,138584,11433,112296
@@ -79,10 +79,10 @@ El Salvador,,El Salvador,29175,848,23930
 Bulgaria,,Bulgaria,21096,832,14787
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Ivory Coast,,Ivory Coast,19755,120,19320
+Tunisia,,Tunisia,19721,271,5032
 그리스,希腊,Greece,18886,393,9989
-Tunisia,,Tunisia,18413,265,5032
 North Macedonia,,North Macedonia,18138,743,15068
-크로아티아,克罗地亚,Croatia,16827,284,15218
+크로아티아,克罗地亚,Croatia,17160,291,15423
 Madagascar,,Madagascar,16454,232,15430
 세네갈,塞内加尔,Senegal,15019,311,12538
 Zambia,,Zambia,14802,333,13961
@@ -91,10 +91,10 @@ Myanmar,,Myanmar,14383,321,4156
 Albania,,Albania,13806,388,8077
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13101,69,4752
+슬로바키아,斯洛伐克,Slovakia,11617,54,4756
 말레이시아,马来西亚,Malaysia,11484,136,10014
 Namibia,,Namibia,11373,123,9083
 Montenegro,,Montenegro,10987,170,7397
-슬로바키아,斯洛伐克,Slovakia,10938,48,4620
 DRC,,DRC,10685,272,10165
 Guinea,,Guinea,10652,66,9996
 Maldives,,Maldives,10354,34,9187
@@ -108,7 +108,7 @@ Gabon,,Gabon,8766,54,8005
 Uganda,,Uganda,8287,75,4430
 Zimbabwe,,Zimbabwe,7850,228,6312
 Mauritania,,Mauritania,7505,161,7138
-조지아,格鲁吉亚,Georgia,7093,43,3714
+조지아,格鲁吉亚,Georgia,7093,46,3714
 Jamaica,,Jamaica,6555,111,1991
 Cabo Verde,,Cabo Verde,6126,61,5338
 슬로베니아,斯洛文尼亚,Slovenia,5865,152,3906
@@ -151,7 +151,7 @@ Uruguay,,Uruguay,2061,48,1809
 안도라,安道尔,Andorra,2050,53,1432
 Yemen,,Yemen,2039,587,1297
 Belize,,Belize,2026,27,1272
-라트비아,约旦,Latvia,1868,37,1307
+라트비아,约旦,Latvia,1945,38,1307
 French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1780
 토고,多哥,Togo,1809,48,1353

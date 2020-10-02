@@ -155,9 +155,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 314079,
-        "deaths": 5562,
-        "recovered": 254223
+        "confirmed": 316678,
+        "deaths": 5616,
+        "recovered": 254617
     },
     {
         "Name": "파키스탄",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 255771,
-        "deaths": 1622,
-        "recovered": 183488
+        "confirmed": 256071,
+        "deaths": 1629,
+        "recovered": 183500
     },
     {
         "Name": "Ukraine",
@@ -640,20 +640,20 @@
         "recovered": 19320
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 19721,
+        "deaths": 271,
+        "recovered": 5032
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
         "confirmed": 18886,
         "deaths": 393,
         "recovered": 9989
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 18413,
-        "deaths": 265,
-        "recovered": 5032
     },
     {
         "Name": "North Macedonia",
@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 16827,
-        "deaths": 284,
-        "recovered": 15218
+        "confirmed": 17160,
+        "deaths": 291,
+        "recovered": 15423
     },
     {
         "Name": "Madagascar",
@@ -736,6 +736,14 @@
         "recovered": 4752
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 11617,
+        "deaths": 54,
+        "recovered": 4756
+    },
+    {
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
@@ -758,14 +766,6 @@
         "confirmed": 10987,
         "deaths": 170,
         "recovered": 7397
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 10938,
-        "deaths": 48,
-        "recovered": 4620
     },
     {
         "Name": "DRC",
@@ -876,7 +876,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 7093,
-        "deaths": 43,
+        "deaths": 46,
         "recovered": 3714
     },
     {
@@ -1219,8 +1219,8 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 1868,
-        "deaths": 37,
+        "confirmed": 1945,
+        "deaths": 38,
         "recovered": 1307
     },
     {
