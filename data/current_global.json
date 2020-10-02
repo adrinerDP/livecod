@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7494080,
-        "deaths": 212650,
-        "recovered": 4731234
+        "confirmed": 7494591,
+        "deaths": 212660,
+        "recovered": 4731400
     },
     {
         "Name": "인도",
@@ -60,7 +60,7 @@
         "Name_ch": "",
         "Name_en": "Argentina",
         "confirmed": 765002,
-        "deaths": 16937,
+        "deaths": 20288,
         "recovered": 603140
     },
     {
@@ -1176,20 +1176,20 @@
         "recovered": 1695
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 2088,
+        "deaths": 58,
+        "recovered": 1363
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "confirmed": 2061,
         "deaths": 48,
         "recovered": 1809
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 2056,
-        "deaths": 58,
-        "recovered": 1335
     },
     {
         "Name": "안도라",
