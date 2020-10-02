@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7499991,
-        "deaths": 212726,
-        "recovered": 4737374
+        "confirmed": 7501118,
+        "deaths": 212729,
+        "recovered": 4737659
     },
     {
         "Name": "인도",
@@ -91,9 +91,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 464750,
-        "deaths": 12822,
-        "recovered": 438148
+        "confirmed": 466590,
+        "deaths": 12867,
+        "recovered": 439607
     },
     {
         "Name": "이란",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 367474,
-        "deaths": 9231,
-        "recovered": 295882
+        "confirmed": 372259,
+        "deaths": 9298,
+        "recovered": 299804
     },
     {
         "Name": "Bangladesh",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 296364,
+        "confirmed": 296615,
         "deaths": 9588,
         "recovered": 259500
     },
@@ -731,8 +731,8 @@
         "Name": "요르단",
         "Name_ch": "约旦",
         "Name_en": "Jordan",
-        "confirmed": 13101,
-        "deaths": 69,
+        "confirmed": 13650,
+        "deaths": 79,
         "recovered": 4752
     },
     {
@@ -1035,9 +1035,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 4123,
+        "confirmed": 4220,
         "deaths": 96,
-        "recovered": 2206
+        "recovered": 2290
     },
     {
         "Name": "Aruba",
