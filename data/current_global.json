@@ -312,20 +312,20 @@
         "recovered": 88528
     },
     {
+        "Name": "아랍에미리트",
+        "Name_ch": "阿拉伯联合酋长国",
+        "Name_en": "UAE",
+        "confirmed": 96529,
+        "deaths": 424,
+        "recovered": 86071
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "confirmed": 95773,
         "deaths": 2570,
         "recovered": 71353
-    },
-    {
-        "Name": "아랍에미리트",
-        "Name_ch": "阿拉伯联合酋长国",
-        "Name_en": "UAE",
-        "confirmed": 95348,
-        "deaths": 421,
-        "recovered": 84903
     },
     {
         "Name": "스웨덴",
@@ -355,9 +355,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 79728,
-        "deaths": 509,
-        "recovered": 57389
+        "confirmed": 82450,
+        "deaths": 520,
+        "recovered": 60696
     },
     {
         "Name": "벨라루스",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 40322,
-        "deaths": 318,
-        "recovered": 32577
+        "confirmed": 40766,
+        "deaths": 321,
+        "recovered": 32944
     },
     {
         "Name": "아제르바이잔",
@@ -659,9 +659,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 18138,
-        "deaths": 743,
-        "recovered": 15068
+        "confirmed": 18363,
+        "deaths": 749,
+        "recovered": 15164
     },
     {
         "Name": "크로아티아",
@@ -1139,9 +1139,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2769,
+        "confirmed": 2809,
         "deaths": 10,
-        "recovered": 2177
+        "recovered": 2194
     },
     {
         "Name": "South Sudan",
