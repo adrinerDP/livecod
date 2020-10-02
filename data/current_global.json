@@ -736,20 +736,20 @@
         "recovered": 4752
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 11771,
+        "deaths": 136,
+        "recovered": 10095
+    },
+    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
         "confirmed": 11617,
         "deaths": 54,
         "recovered": 4756
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 11484,
-        "deaths": 136,
-        "recovered": 10014
     },
     {
         "Name": "Namibia",
