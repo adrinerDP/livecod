@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7534380,
-        "deaths": 213337,
-        "recovered": 4763408
+        "confirmed": 7535532,
+        "deaths": 213345,
+        "recovered": 4764026
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 676084,
-        "deaths": 16866,
-        "recovered": 609584
+        "confirmed": 677833,
+        "deaths": 16909,
+        "recovered": 611044
     },
     {
         "Name": "프랑스",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 162320,
-        "deaths": 9402,
-        "recovered": 137318
+        "confirmed": 162376,
+        "deaths": 9403,
+        "recovered": 137339
     },
     {
         "Name": "에콰도르",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 71374,
+        "confirmed": 71803,
         "deaths": 255,
-        "recovered": 65550
+        "recovered": 66184
     },
     {
         "Name": "나이지리아",
@@ -1203,9 +1203,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2039,
-        "deaths": 587,
-        "recovered": 1297
+        "confirmed": 2040,
+        "deaths": 589,
+        "recovered": 1307
     },
     {
         "Name": "Belize",
