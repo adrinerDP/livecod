@@ -139,9 +139,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 320070,
-        "deaths": 8262,
-        "recovered": 281151
+        "confirmed": 321512,
+        "deaths": 8325,
+        "recovered": 282657
     },
     {
         "Name": "이탈리아",
@@ -411,9 +411,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 74255,
-        "deaths": 678,
-        "recovered": 34186
+        "confirmed": 76017,
+        "deaths": 699,
+        "recovered": 34871
     },
     {
         "Name": "바레인",
@@ -504,20 +504,20 @@
         "recovered": 37186
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 42173,
+        "deaths": 386,
+        "recovered": 18379
+    },
+    {
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
         "confirmed": 41799,
         "deaths": 869,
         "recovered": 25167
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 40882,
-        "deaths": 374,
-        "recovered": 18103
     },
     {
         "Name": "팔레스타인",
