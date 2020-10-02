@@ -616,20 +616,20 @@
         "recovered": 24788
     },
     {
+        "Name": "Bulgaria",
+        "Name_ch": "",
+        "Name_en": "Bulgaria",
+        "confirmed": 21096,
+        "deaths": 832,
+        "recovered": 14787
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 20838,
         "deaths": 418,
         "recovered": 19440
-    },
-    {
-        "Name": "Bulgaria",
-        "Name_ch": "",
-        "Name_en": "Bulgaria",
-        "confirmed": 20833,
-        "deaths": 825,
-        "recovered": 14634
     },
     {
         "Name": "Ivory Coast",
