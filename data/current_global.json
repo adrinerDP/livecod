@@ -163,9 +163,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 312806,
-        "deaths": 6484,
-        "recovered": 297497
+        "confirmed": 313431,
+        "deaths": 6499,
+        "recovered": 298055
     },
     {
         "Name": "독일",
@@ -259,9 +259,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 118452,
-        "deaths": 10016,
-        "recovered": 19454
+        "confirmed": 121059,
+        "deaths": 10023,
+        "recovered": 19521
     },
     {
         "Name": "Panama",
