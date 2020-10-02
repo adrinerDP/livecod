@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7523424,
-        "deaths": 213166,
-        "recovered": 4757129
+        "confirmed": 7527541,
+        "deaths": 213240,
+        "recovered": 4759937
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6471665,
+        "confirmed": 6471734,
         "deaths": 100873,
-        "recovered": 5424901
+        "recovered": 5424943
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 297864,
-        "deaths": 9592,
+        "confirmed": 298362,
+        "deaths": 9596,
         "recovered": 259500
     },
     {
@@ -779,9 +779,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10652,
+        "confirmed": 10700,
         "deaths": 66,
-        "recovered": 9996
+        "recovered": 10039
     },
     {
         "Name": "Maldives",
@@ -891,9 +891,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6126,
-        "deaths": 61,
-        "recovered": 5338
+        "confirmed": 6205,
+        "deaths": 62,
+        "recovered": 5399
     },
     {
         "Name": "슬로베니아",
@@ -1043,9 +1043,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 3998,
-        "deaths": 27,
-        "recovered": 3327
+        "confirmed": 4038,
+        "deaths": 30,
+        "recovered": 3406
     },
     {
         "Name": "Réunion",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2238,
+        "confirmed": 2252,
         "deaths": 72,
-        "recovered": 1695
+        "recovered": 1697
     },
     {
         "Name": "안도라",
