@@ -179,9 +179,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 291182,
-        "deaths": 10856,
-        "recovered": 218487
+        "confirmed": 295499,
+        "deaths": 10972,
+        "recovered": 221340
     },
     {
         "Name": "이스라엘",
@@ -312,6 +312,14 @@
         "recovered": 88528
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 95773,
+        "deaths": 2570,
+        "recovered": 71353
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
@@ -326,14 +334,6 @@
         "confirmed": 93615,
         "deaths": 5893,
         "recovered": 0
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 93481,
-        "deaths": 2543,
-        "recovered": 70401
     },
     {
         "Name": "Guatemala",
