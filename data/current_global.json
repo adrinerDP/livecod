@@ -283,9 +283,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 107979,
+        "confirmed": 108044,
         "deaths": 1725,
-        "recovered": 102937
+        "recovered": 103028
     },
     {
         "Name": "쿠웨이트",
@@ -1467,7 +1467,7 @@
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "confirmed": 277,
+        "confirmed": 278,
         "deaths": 0,
         "recovered": 275
     },
