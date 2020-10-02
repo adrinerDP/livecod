@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7494591,212660,4731400
+미국,美国,United States,7494671,212660,4736621
 인도,印度,India,6391960,99804,5348653
 브라질,巴西,Brazil,4849229,144767,4212772
 러시아,俄罗斯,Russia,1185231,20891,964242
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,814829,32463,683815
 스페인,西班牙,Spain,778607,31973,0
 Argentina,,Argentina,765002,20288,603140
-멕시코,墨西哥,Mexico,743216,77646,533886
+멕시코,墨西哥,Mexico,748315,78078,537475
 남아프리카 공화국,南非共和国,South Africa,676084,16866,609584
 프랑스,法国,France,577505,32019,96797
 칠레,智利,Chile,464750,12822,438148
@@ -62,8 +62,8 @@ Moldova,,Moldova,54064,1336,39499
 Kyrgyzstan,,Kyrgyzstan,46841,1065,42983
 Ghana,,Ghana,46656,301,45942
 오스트리아,奥地利,Austria,45686,802,36476
+Paraguay,,Paraguay,41799,869,25167
 레바논,黎巴嫩,Lebanon,40882,374,18103
-Paraguay,,Paraguay,40758,857,24449
 팔레스타인,巴勒斯坦,Palestine,40322,318,32577
 아제르바이잔,阿塞拜疆,Azerbaijan,40309,593,38068
 아프가니스탄,阿富汗,Afghanistan,39285,1458,32842
@@ -75,7 +75,7 @@ El Salvador,,El Salvador,29175,848,23930
 덴마크,丹麦,Denmark,28396,651,21309
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27749,861,20947
 헝가리,匈牙利,Hungary,27309,781,6118
-호주,澳大利亚,Australia,27096,888,24784
+호주,澳大利亚,Australia,27109,890,24788
 카메룬,喀麦隆,Cameroon,20838,418,19440
 Bulgaria,,Bulgaria,20833,825,14634
 Ivory Coast,,Ivory Coast,19755,120,19320
@@ -102,7 +102,7 @@ Maldives,,Maldives,10354,34,9187
 French Guiana,,French Guiana,9966,67,9613
 Tajikistan,,Tajikistan,9811,77,8617
 Mozambique,,Mozambique,8888,62,5573
-Haiti,,Haiti,8766,229,6829
+Haiti,,Haiti,8781,229,6907
 Gabon,,Gabon,8766,54,8005
 룩셈부르크,卢森堡,Luxembourg,8595,125,7280
 Uganda,,Uganda,8287,75,4430
@@ -153,7 +153,7 @@ Yemen,,Yemen,2039,587,1297
 Belize,,Belize,1992,27,1246
 라트비아,约旦,Latvia,1868,37,1307
 French Polynesia,,French Polynesia,1852,7,1504
-New Zealand,,New Zealand,1848,25,1770
+New Zealand,,New Zealand,1848,25,1780
 토고,多哥,Togo,1809,48,1353
 Cyprus,,Cyprus,1772,22,1369
 Lesotho,,Lesotho,1639,38,874
@@ -212,4 +212,4 @@ Vatican City,,Vatican City,12,0,12
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
-중국,中国,China,85414,4634,80594
+중국,中国,China,85424,4634,80601
