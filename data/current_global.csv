@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7508662,212935,4750427
+미국,美国,United States,7516903,213052,4752607
 인도,印度,India,6438968,100323,5393737
-브라질,巴西,Brazil,4849229,144767,4212772
+브라질,巴西,Brazil,4856024,144966,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,835339,26196,751691
 페루,秘鲁,Peru,818297,32535,690528
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,366383,5305,278627
 이탈리아,义大利,Italy,319908,35941,229970
 필리핀,菲律宾,Philippines,316678,5616,254617
 파키스탄,巴基斯坦,Pakistan,313431,6499,298055
-독일,德国,Germany,297081,9590,259500
+독일,德国,Germany,297429,9591,259500
 인도네시아,印度尼西亚,Indonesia,295499,10972,221340
 이스라엘,以色列,Israel,258920,1633,185122
 Ukraine,,Ukraine,217661,4261,96591
@@ -47,8 +47,8 @@ Guatemala,,Guatemala,93090,3267,81466
 벨라루스,白俄罗斯,Belarus,79421,844,74982
 Honduras,,Honduras,77598,2380,28517
 포르투갈,葡萄牙,Portugal,77284,1983,49359
+Ethiopia,,Ethiopia,76988,1208,31677
 코스타리카,哥斯达黎加,Costa Rica,76828,917,39843
-Ethiopia,,Ethiopia,76098,1205,31430
 Venezuela,,Venezuela,76029,635,66245
 체코,捷克,Czechia,76017,699,34871
 바레인,巴林,Bahrain,71374,255,65550
@@ -142,7 +142,7 @@ Malta,,Malta,3139,37,2668
 Mali,,Mali,3131,131,2460
 Guyana,,Guyana,2929,82,1760
 Iceland,,Iceland,2809,10,2194
-South Sudan,,South Sudan,2704,49,1290
+South Sudan,,South Sudan,2715,50,1290
 Benin,,Benin,2357,41,1973
 Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2238,72,1695

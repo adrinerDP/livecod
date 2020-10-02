@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7508662,
-        "deaths": 212935,
-        "recovered": 4750427
+        "confirmed": 7516903,
+        "deaths": 213052,
+        "recovered": 4752607
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4849229,
-        "deaths": 144767,
+        "confirmed": 4856024,
+        "deaths": 144966,
         "recovered": 4212772
     },
     {
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 297081,
-        "deaths": 9590,
+        "confirmed": 297429,
+        "deaths": 9591,
         "recovered": 259500
     },
     {
@@ -384,20 +384,20 @@
         "recovered": 49359
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 76988,
+        "deaths": 1208,
+        "recovered": 31677
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
         "confirmed": 76828,
         "deaths": 917,
         "recovered": 39843
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 76098,
-        "deaths": 1205,
-        "recovered": 31430
     },
     {
         "Name": "Venezuela",
@@ -1147,8 +1147,8 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2704,
-        "deaths": 49,
+        "confirmed": 2715,
+        "deaths": 50,
         "recovered": 1290
     },
     {
