@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 814829,
-        "deaths": 32463,
-        "recovered": 683815
+        "confirmed": 818297,
+        "deaths": 32535,
+        "recovered": 690528
     },
     {
         "Name": "스페인",
@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 135311,
-        "deaths": 7965,
-        "recovered": 95529
+        "confirmed": 135716,
+        "deaths": 8001,
+        "recovered": 96165
     },
     {
         "Name": "루마니아",
@@ -371,9 +371,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 76900,
-        "deaths": 2353,
-        "recovered": 27922
+        "confirmed": 77598,
+        "deaths": 2380,
+        "recovered": 28517
     },
     {
         "Name": "코스타리카",
@@ -403,9 +403,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 75122,
-        "deaths": 628,
-        "recovered": 65225
+        "confirmed": 76029,
+        "deaths": 635,
+        "recovered": 66245
     },
     {
         "Name": "체코",
@@ -1331,17 +1331,17 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 689,
+        "confirmed": 690,
         "deaths": 6,
-        "recovered": 645
+        "recovered": 648
     },
     {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 667,
+        "confirmed": 668,
         "deaths": 22,
-        "recovered": 557
+        "recovered": 567
     },
     {
         "Name": "Channel Islands",
