@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7491681,
-        "deaths": 212593,
-        "recovered": 4729543
+        "confirmed": 7494080,
+        "deaths": 212650,
+        "recovered": 4731234
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 751001,
+        "confirmed": 765002,
         "deaths": 16937,
-        "recovered": 594645
+        "recovered": 603140
     },
     {
         "Name": "멕시코",
@@ -1408,20 +1408,20 @@
         "recovered": 349
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 403,
+        "deaths": 8,
+        "recovered": 309
+    },
+    {
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
         "confirmed": 399,
         "deaths": 1,
         "recovered": 185
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "confirmed": 383,
-        "deaths": 8,
-        "recovered": 273
     },
     {
         "Name": "Mauritius",
@@ -1563,9 +1563,9 @@
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "confirmed": 48,
+        "confirmed": 54,
         "deaths": 0,
-        "recovered": 25
+        "recovered": 37
     },
     {
         "Name": "마카오",
