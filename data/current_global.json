@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6394068,
-        "deaths": 99804,
+        "confirmed": 6397896,
+        "deaths": 99833,
         "recovered": 5352078
     },
     {
@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 213028,
-        "deaths": 4193,
-        "recovered": 94443
+        "confirmed": 217661,
+        "deaths": 4261,
+        "recovered": 96591
     },
     {
         "Name": "캐나다",
@@ -584,6 +584,14 @@
         "recovered": 23930
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 28631,
+        "deaths": 798,
+        "recovered": 6349
+    },
+    {
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
@@ -598,14 +606,6 @@
         "confirmed": 27749,
         "deaths": 861,
         "recovered": 20947
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 27309,
-        "deaths": 781,
-        "recovered": 6118
     },
     {
         "Name": "호주",
@@ -875,9 +875,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 6640,
-        "deaths": 41,
-        "recovered": 3419
+        "confirmed": 7093,
+        "deaths": 43,
+        "recovered": 3714
     },
     {
         "Name": "Jamaica",
