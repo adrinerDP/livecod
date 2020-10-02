@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7520529,213155,4755238
-인도,印度,India,6438968,100323,5393737
+미국,美国,United States,7523424,213166,4757129
+인도,印度,India,6471665,100873,5424901
 브라질,巴西,Brazil,4856024,144966,4212772
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,835339,26196,751691
@@ -57,12 +57,12 @@ Venezuela,,Venezuela,76029,635,66245
 Uzbekistan,,Uzbekistan,57454,472,53955
 Moldova,,Moldova,55016,1344,40002
 스위스,瑞士,Switzerland,54384,2075,45800
-알제리,阿尔及利亚,Algeria,51690,1741,36282
+알제리,阿尔及利亚,Algeria,51847,1749,36385
 아르메니아,亚美尼亚,Armenia,51382,966,44406
 Kyrgyzstan,,Kyrgyzstan,47056,1065,43137
 Ghana,,Ghana,46656,301,45942
 오스트리아,奥地利,Austria,46374,803,37186
-레바논,黎巴嫩,Lebanon,42173,386,18379
+레바논,黎巴嫩,Lebanon,42173,386,18739
 Paraguay,,Paraguay,41799,869,25167
 팔레스타인,巴勒斯坦,Palestine,40766,321,32944
 아제르바이잔,阿塞拜疆,Azerbaijan,40453,594,38217
@@ -133,13 +133,13 @@ Aruba,,Aruba,3998,27,3327
 Réunion,,Réunion,3993,16,2819
 Mayotte,,Mayotte,3779,42,2964
 Somalia,,Somalia,3593,99,3001
-Gambia,,Gambia,3584,113,2216
+Gambia,,Gambia,3585,115,2224
 태국,泰国,Thailand,3575,59,3384
 에스토니아,爱沙尼亚,Estonia,3507,66,2675
 스리랑카,斯里兰卡,Sri Lanka,3388,13,3245
 Botswana,,Botswana,3172,16,710
+Mali,,Mali,3156,131,2467
 Malta,,Malta,3139,37,2668
-Mali,,Mali,3131,131,2460
 Guyana,,Guyana,2929,82,1760
 Iceland,,Iceland,2809,10,2194
 South Sudan,,South Sudan,2715,50,1290
@@ -161,7 +161,7 @@ Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1343,82,1221
 Chad,,Chad,1203,85,1067
 Niger,,Niger,1197,69,1114
-베트남,越南,Vietnam,1095,35,1020
+베트남,越南,Vietnam,1096,35,1020
 Sao Tome and Principe,,Sao Tome and Principe,911,15,886
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,341,24,315
 Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,282,0,225
 캄보디아,柬埔寨,Cambodia,278,0,275
-모나코,摩纳哥,Monaco,219,2,187
+모나코,摩纳哥,Monaco,221,2,188
 Cayman Islands,,Cayman Islands,211,1,209
 Barbados,,Barbados,193,7,179
 Bermuda,,Bermuda,181,9,168
