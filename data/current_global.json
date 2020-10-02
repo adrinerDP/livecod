@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7532246,
-        "deaths": 213305,
-        "recovered": 4762450
+        "confirmed": 7534380,
+        "deaths": 213337,
+        "recovered": 4763408
     },
     {
         "Name": "인도",
@@ -1408,20 +1408,20 @@
         "recovered": 351
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 411,
+        "deaths": 1,
+        "recovered": 197
+    },
+    {
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
         "confirmed": 403,
         "deaths": 8,
         "recovered": 309
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 399,
-        "deaths": 1,
-        "recovered": 185
     },
     {
         "Name": "Mauritius",
