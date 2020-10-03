@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7549771,213526,4777577
+미국,美国,United States,7553072,213543,4777579
 인도,印度,India,6473544,100875,5427706
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
@@ -10,9 +10,9 @@ Argentina,,Argentina,779689,20599,614515
 멕시코,墨西哥,Mexico,753090,78492,541518
 남아프리카 공화국,南非共和国,South Africa,677833,16909,611044
 프랑스,法国,France,589653,32155,97778
+이란,伊朗,Iran,468119,26746,387675
 영국,英国,UK,467146,42268,0
 칠레,智利,Chile,466590,12867,439607
-이란,伊朗,Iran,464596,26567,385264
 이라크,伊拉克,Iraq,372259,9298,299804
 Bangladesh,,Bangladesh,367565,5325,280069
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335578,4823,320348
@@ -42,8 +42,8 @@ Kazakhstan,,Kazakhstan,108106,1725,103110
 아랍에미리트,阿拉伯联合酋长国,UAE,97760,426,87122
 스웨덴,瑞典语,Sweden,94283,5895,0
 Guatemala,,Guatemala,93090,3267,81466
+네팔,尼泊尔,Nepal,84570,528,62740
 일본,日本,Japan,84215,1578,77219
-네팔,尼泊尔,Nepal,82450,520,60696
 벨라루스,白俄罗斯,Belarus,79421,844,74982
 Honduras,,Honduras,78269,2386,28978
 체코,捷克,Czechia,78051,699,35032
@@ -141,7 +141,7 @@ Malta,,Malta,3204,38,2711
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3156,131,2467
 Guyana,,Guyana,2968,85,1776
-Iceland,,Iceland,2809,10,2194
+Iceland,,Iceland,2872,10,2212
 South Sudan,,South Sudan,2715,50,1290
 Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
@@ -189,8 +189,8 @@ Barbados,,Barbados,193,7,179
 Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,145,0,143
+리히텐슈타인,列支敦士登,Liechtenstein,123,1,116
 Caribbean Netherlands,,Caribbean Netherlands,121,1,32
-리히텐슈타인,列支敦士登,Liechtenstein,120,1,116
 Antigua and Barbuda,,Antigua and Barbuda,106,3,94
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
