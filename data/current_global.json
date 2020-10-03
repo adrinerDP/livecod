@@ -611,9 +611,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27120,
+        "confirmed": 27121,
         "deaths": 893,
-        "recovered": 24824
+        "recovered": 24850
     },
     {
         "Name": "Bulgaria",
