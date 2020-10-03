@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6476953,
-        "deaths": 100903,
-        "recovered": 5427706
+        "confirmed": 6486206,
+        "deaths": 101031,
+        "recovered": 5437877
     },
     {
         "Name": "브라질",
@@ -563,16 +563,16 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 35717,
-        "deaths": 570,
-        "recovered": 20334
+        "confirmed": 36087,
+        "deaths": 578,
+        "recovered": 20889
     },
     {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33735,
-        "deaths": 751,
+        "confirmed": 33842,
+        "deaths": 753,
         "recovered": 31536
     },
     {
@@ -683,9 +683,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 15525,
-        "deaths": 353,
-        "recovered": 4378
+        "confirmed": 16503,
+        "deaths": 371,
+        "recovered": 4795
     },
     {
         "Name": "세네갈",
@@ -707,7 +707,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14284,
+        "confirmed": 14328,
         "deaths": 275,
         "recovered": 11190
     },
@@ -851,9 +851,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 8491,
+        "confirmed": 8662,
         "deaths": 79,
-        "recovered": 4470
+        "recovered": 4546
     },
     {
         "Name": "Zimbabwe",
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3388,
+        "confirmed": 3391,
         "deaths": 13,
         "recovered": 3254
     },
@@ -1275,7 +1275,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1346,
+        "confirmed": 1347,
         "deaths": 82,
         "recovered": 1221
     },

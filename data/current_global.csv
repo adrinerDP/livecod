@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7555998,213571,4777586
-인도,印度,India,6476953,100903,5427706
+인도,印度,India,6486206,101031,5437877
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
@@ -69,8 +69,8 @@ Paraguay,,Paraguay,42684,890,25803
 아프가니스탄,阿富汗,Afghanistan,39297,1462,32842
 Kenya,,Kenya,39184,728,25426
 아일랜드,冰岛,Ireland,37063,1801,23364
-Libya,,Libya,35717,570,20334
-세르비아,塞尔维亚,Serbia,33735,751,31536
+Libya,,Libya,36087,578,20889
+세르비아,塞尔维亚,Serbia,33842,753,31536
 헝가리,匈牙利,Hungary,29717,812,6824
 El Salvador,,El Salvador,29358,857,24175
 덴마크,丹麦,Denmark,29302,654,22297
@@ -84,10 +84,10 @@ Tunisia,,Tunisia,19721,271,5032
 North Macedonia,,North Macedonia,18602,753,15264
 크로아티아,克罗地亚,Croatia,17401,293,15661
 Madagascar,,Madagascar,16529,232,15480
-Myanmar,,Myanmar,15525,353,4378
+Myanmar,,Myanmar,16503,371,4795
 세네갈,塞内加尔,Senegal,15068,312,12751
 Zambia,,Zambia,14830,333,13980
-노르웨이,挪威,Norway,14284,275,11190
+노르웨이,挪威,Norway,14328,275,11190
 Albania,,Albania,13965,389,8342
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13650,79,4929
@@ -105,7 +105,7 @@ Mozambique,,Mozambique,8979,64,5595
 Gabon,,Gabon,8797,54,8067
 Haiti,,Haiti,8792,229,6949
 룩셈부르크,卢森堡,Luxembourg,8709,125,7428
-Uganda,,Uganda,8491,79,4470
+Uganda,,Uganda,8662,79,4546
 Zimbabwe,,Zimbabwe,7858,228,6322
 조지아,格鲁吉亚,Georgia,7564,48,3992
 Mauritania,,Mauritania,7511,162,7163
@@ -136,7 +136,7 @@ Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3585,115,2224
 태국,泰国,Thailand,3583,59,3386
 에스토니아,爱沙尼亚,Estonia,3577,67,2727
-스리랑카,斯里兰卡,Sri Lanka,3388,13,3254
+스리랑카,斯里兰卡,Sri Lanka,3391,13,3254
 Malta,,Malta,3204,38,2711
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3156,131,2467
@@ -158,7 +158,7 @@ New Zealand,,New Zealand,1849,25,1783
 Cyprus,,Cyprus,1789,22,1369
 Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
-Liberia,,Liberia,1346,82,1221
+Liberia,,Liberia,1347,82,1221
 Chad,,Chad,1211,85,1070
 Niger,,Niger,1198,69,1115
 베트남,越南,Vietnam,1096,35,1020
