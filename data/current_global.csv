@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7574651,213861,4793937
+미국,美国,United States,7574651,213861,4798407
 인도,印度,India,6543448,101722,5501813
-브라질,巴西,Brazil,4882231,145431,4232593
+브라질,巴西,Brazil,4888926,145555,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
 페루,秘鲁,Peru,821564,32609,695645
@@ -9,7 +9,7 @@
 Argentina,,Argentina,779689,20599,614515
 멕시코,墨西哥,Mexico,753090,78492,541518
 남아프리카 공화국,南非共和国,South Africa,677833,16909,611044
-프랑스,法国,France,589653,32155,97778
+프랑스,法国,France,606625,32155,97778
 칠레,智利,Chile,468471,12919,440881
 이란,伊朗,Iran,468119,26746,387675
 영국,英国,UK,467146,42268,0
@@ -20,8 +20,8 @@ Bangladesh,,Bangladesh,367565,5325,280069
 이탈리아,义大利,Italy,322751,35968,231217
 필리핀,菲律宾,Philippines,319330,5678,255046
 파키스탄,巴基斯坦,Pakistan,313984,6507,298593
+독일,德国,Germany,299533,9597,259500
 인도네시아,印度尼西亚,Indonesia,299506,11055,225052
-독일,德国,Germany,299074,9596,259500
 이스라엘,以色列,Israel,263983,1679,190397
 Ukraine,,Ukraine,222322,4353,98737
 캐나다,加拿大,Canada,164419,9460,138844
@@ -99,7 +99,7 @@ Guinea,,Guinea,10735,66,10066
 DRC,,DRC,10729,272,10183
 Maldives,,Maldives,10465,34,9310
 핀란드,芬兰,Finland,10391,345,8100
-French Guiana,,French Guiana,9968,67,9637
+French Guiana,,French Guiana,10029,67,9665
 Tajikistan,,Tajikistan,9895,77,8707
 Mozambique,,Mozambique,9049,64,5736
 룩셈부르크,卢森堡,Luxembourg,8797,125,7428
@@ -111,7 +111,7 @@ Zimbabwe,,Zimbabwe,7858,228,6322
 Mauritania,,Mauritania,7511,162,7163
 Jamaica,,Jamaica,6795,119,2345
 슬로베니아,斯洛文尼亚,Slovenia,6330,155,4041
-Cabo Verde,,Cabo Verde,6205,62,5399
+Cabo Verde,,Cabo Verde,6296,62,5409
 Malawi,,Malawi,5783,179,4535
 Cuba,,Cuba,5780,122,5118
 Guadeloupe,,Guadeloupe,5528,57,2199
@@ -130,7 +130,7 @@ Trinidad and Tobago,,Trinidad and Tobago,4709,78,2802
 Syria,,Syria,4289,203,1130
 Bahamas,,Bahamas,4220,96,2290
 Réunion,,Réunion,4178,16,3360
-Aruba,,Aruba,4038,30,3406
+Aruba,,Aruba,4074,30,3474
 Mayotte,,Mayotte,3779,42,2964
 Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3585,115,2224
@@ -177,8 +177,8 @@ Faeroe Islands,,Faeroe Islands,473,0,432
 지브롤터,直布罗陀,Gibraltar,428,0,358
 Curaçao,,Curaçao,411,1,197
 Saint Martin,,Saint Martin,403,8,309
+Eritrea,,Eritrea,398,0,358
 Mauritius,,Mauritius,385,10,344
-Eritrea,,Eritrea,381,0,353
 Isle of Man,,Isle of Man,341,24,315
 Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,283,0,229

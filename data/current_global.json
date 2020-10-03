@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 7574651,
         "deaths": 213861,
-        "recovered": 4793937
+        "recovered": 4798407
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4882231,
-        "deaths": 145431,
+        "confirmed": 4888926,
+        "deaths": 145555,
         "recovered": 4232593
     },
     {
@@ -83,7 +83,7 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 589653,
+        "confirmed": 606625,
         "deaths": 32155,
         "recovered": 97778
     },
@@ -168,20 +168,20 @@
         "recovered": 298593
     },
     {
+        "Name": "독일",
+        "Name_ch": "德国",
+        "Name_en": "Germany",
+        "confirmed": 299533,
+        "deaths": 9597,
+        "recovered": 259500
+    },
+    {
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
         "confirmed": 299506,
         "deaths": 11055,
         "recovered": 225052
-    },
-    {
-        "Name": "독일",
-        "Name_ch": "德国",
-        "Name_en": "Germany",
-        "confirmed": 299074,
-        "deaths": 9596,
-        "recovered": 259500
     },
     {
         "Name": "이스라엘",
@@ -803,9 +803,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 9968,
+        "confirmed": 10029,
         "deaths": 67,
-        "recovered": 9637
+        "recovered": 9665
     },
     {
         "Name": "Tajikistan",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6205,
+        "confirmed": 6296,
         "deaths": 62,
-        "recovered": 5399
+        "recovered": 5409
     },
     {
         "Name": "Malawi",
@@ -1051,9 +1051,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4038,
+        "confirmed": 4074,
         "deaths": 30,
-        "recovered": 3406
+        "recovered": 3474
     },
     {
         "Name": "Mayotte",
@@ -1424,20 +1424,20 @@
         "recovered": 309
     },
     {
+        "Name": "Eritrea",
+        "Name_ch": "",
+        "Name_en": "Eritrea",
+        "confirmed": 398,
+        "deaths": 0,
+        "recovered": 358
+    },
+    {
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
         "confirmed": 385,
         "deaths": 10,
         "recovered": 344
-    },
-    {
-        "Name": "Eritrea",
-        "Name_ch": "",
-        "Name_en": "Eritrea",
-        "confirmed": 381,
-        "deaths": 0,
-        "recovered": 353
     },
     {
         "Name": "Isle of Man",
