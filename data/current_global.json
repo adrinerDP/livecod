@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7567761,
-        "deaths": 213727,
-        "recovered": 4782554
+        "confirmed": 7570742,
+        "deaths": 213758,
+        "recovered": 4782593
     },
     {
         "Name": "인도",
@@ -555,8 +555,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 37063,
-        "deaths": 1801,
+        "confirmed": 37668,
+        "deaths": 1810,
         "recovered": 23364
     },
     {
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3392,
+        "confirmed": 3395,
         "deaths": 13,
         "recovered": 3254
     },
@@ -1339,7 +1339,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 677,
+        "confirmed": 678,
         "deaths": 48,
         "recovered": 600
     },
