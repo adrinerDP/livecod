@@ -312,20 +312,20 @@
         "recovered": 88528
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 98140,
+        "deaths": 2604,
+        "recovered": 72209
+    },
+    {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
         "confirmed": 96529,
         "deaths": 424,
         "recovered": 86071
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 95773,
-        "deaths": 2570,
-        "recovered": 71353
     },
     {
         "Name": "스웨덴",
@@ -480,6 +480,14 @@
         "recovered": 36385
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 47432,
+        "deaths": 809,
+        "recovered": 38045
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
@@ -494,14 +502,6 @@
         "confirmed": 46694,
         "deaths": 301,
         "recovered": 45945
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 46374,
-        "deaths": 803,
-        "recovered": 37186
     },
     {
         "Name": "Paraguay",
@@ -795,7 +795,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 10244,
+        "confirmed": 10391,
         "deaths": 345,
         "recovered": 8100
     },
@@ -976,20 +976,20 @@
         "recovered": 3887
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 5081,
+        "deaths": 94,
+        "recovered": 2494
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
         "confirmed": 5045,
         "deaths": 83,
         "recovered": 4879
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 4956,
-        "deaths": 93,
-        "recovered": 2466
     },
     {
         "Name": "Suriname",
@@ -1092,7 +1092,7 @@
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "confirmed": 3577,
-        "deaths": 66,
+        "deaths": 67,
         "recovered": 2727
     },
     {
