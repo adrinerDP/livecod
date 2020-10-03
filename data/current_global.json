@@ -259,8 +259,8 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 121059,
-        "deaths": 10023,
+        "confirmed": 124234,
+        "deaths": 10037,
         "recovered": 19521
     },
     {
@@ -283,9 +283,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108044,
+        "confirmed": 108106,
         "deaths": 1725,
-        "recovered": 103028
+        "recovered": 103110
     },
     {
         "Name": "쿠웨이트",
@@ -368,6 +368,14 @@
         "recovered": 74982
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "confirmed": 78269,
+        "deaths": 2386,
+        "recovered": 28978
+    },
+    {
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
@@ -382,14 +390,6 @@
         "confirmed": 77829,
         "deaths": 930,
         "recovered": 42621
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "confirmed": 77598,
-        "deaths": 2380,
-        "recovered": 28517
     },
     {
         "Name": "포르투갈",
@@ -1331,9 +1331,9 @@
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
-        "confirmed": 690,
+        "confirmed": 695,
         "deaths": 6,
-        "recovered": 648
+        "recovered": 651
     },
     {
         "Name": "Channel Islands",
@@ -1347,9 +1347,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 668,
+        "confirmed": 674,
         "deaths": 22,
-        "recovered": 567
+        "recovered": 572
     },
     {
         "Name": "Papua New Guinea",
