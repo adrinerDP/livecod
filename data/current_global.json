@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7578436,
-        "deaths": 213936,
-        "recovered": 4803394
+        "confirmed": 7587461,
+        "deaths": 214030,
+        "recovered": 4807682
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 263983,
-        "deaths": 1679,
-        "recovered": 190397
+        "confirmed": 264443,
+        "deaths": 1682,
+        "recovered": 191251
     },
     {
         "Name": "Ukraine",
@@ -1443,7 +1443,7 @@
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
-        "confirmed": 341,
+        "confirmed": 342,
         "deaths": 24,
         "recovered": 315
     },
