@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7589225,
-        "deaths": 214047,
-        "recovered": 4807847
+        "confirmed": 7592273,
+        "deaths": 214089,
+        "recovered": 4808649
     },
     {
         "Name": "인도",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 299787,
+        "confirmed": 300028,
         "deaths": 9597,
         "recovered": 259500
     },
@@ -211,8 +211,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 139534,
-        "deaths": 11495,
+        "confirmed": 140351,
+        "deaths": 11597,
         "recovered": 112296
     },
     {
@@ -376,6 +376,14 @@
         "recovered": 35291
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 79182,
+        "deaths": 950,
+        "recovered": 45007
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
@@ -398,14 +406,6 @@
         "confirmed": 77860,
         "deaths": 1214,
         "recovered": 32325
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 77829,
-        "deaths": 930,
-        "recovered": 42621
     },
     {
         "Name": "Venezuela",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 57924,
-        "deaths": 476,
-        "recovered": 54456
+        "confirmed": 58238,
+        "deaths": 477,
+        "recovered": 54854
     },
     {
         "Name": "싱가포르",
