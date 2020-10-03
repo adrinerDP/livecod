@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7549301,
-        "deaths": 213523,
-        "recovered": 4776347
+        "confirmed": 7549323,
+        "deaths": 213524,
+        "recovered": 4776824
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6471734,
-        "deaths": 100873,
-        "recovered": 5424943
+        "confirmed": 6471934,
+        "deaths": 100875,
+        "recovered": 5425077
     },
     {
         "Name": "브라질",
@@ -67,9 +67,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 748315,
-        "deaths": 78078,
-        "recovered": 537475
+        "confirmed": 753090,
+        "deaths": 78492,
+        "recovered": 541518
     },
     {
         "Name": "남아프리카 공화국",
@@ -219,9 +219,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 135716,
-        "deaths": 8001,
-        "recovered": 96165
+        "confirmed": 136219,
+        "deaths": 8045,
+        "recovered": 96654
     },
     {
         "Name": "루마니아",
@@ -1235,9 +1235,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1848,
+        "confirmed": 1849,
         "deaths": 25,
-        "recovered": 1780
+        "recovered": 1783
     },
     {
         "Name": "토고",
@@ -1707,8 +1707,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85424,
+        "confirmed": 85434,
         "deaths": 4634,
-        "recovered": 80601
+        "recovered": 80611
     }
 ]
