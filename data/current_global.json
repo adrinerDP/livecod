@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 76029,
-        "deaths": 635,
-        "recovered": 66245
+        "confirmed": 76820,
+        "deaths": 643,
+        "recovered": 67216
     },
     {
         "Name": "바레인",
@@ -504,20 +504,20 @@
         "recovered": 37186
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 42684,
+        "deaths": 890,
+        "recovered": 25803
+    },
+    {
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
         "confirmed": 42173,
         "deaths": 386,
         "recovered": 18739
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 41799,
-        "deaths": 869,
-        "recovered": 25167
     },
     {
         "Name": "팔레스타인",
@@ -611,8 +611,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27113,
-        "deaths": 890,
+        "confirmed": 27120,
+        "deaths": 893,
         "recovered": 24824
     },
     {
