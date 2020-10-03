@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7595898,
-        "deaths": 214162,
-        "recovered": 4812827
+        "confirmed": 7596345,
+        "deaths": 214243,
+        "recovered": 4813675
     },
     {
         "Name": "인도",
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4906760,
-        "deaths": 145985,
-        "recovered": 4232593
+        "confirmed": 4906833,
+        "deaths": 145987,
+        "recovered": 4248574
     },
     {
         "Name": "러시아",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 841531,
-        "deaths": 26397,
-        "recovered": 753953
+        "confirmed": 848147,
+        "deaths": 26556,
+        "recovered": 757801
     },
     {
         "Name": "페루",
@@ -59,9 +59,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 779689,
-        "deaths": 20599,
-        "recovered": 614515
+        "confirmed": 790818,
+        "deaths": 20795,
+        "recovered": 626114
     },
     {
         "Name": "멕시코",
@@ -299,9 +299,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 103466,
-        "deaths": 5956,
-        "recovered": 97143
+        "confirmed": 103575,
+        "deaths": 5970,
+        "recovered": 97274
     },
     {
         "Name": "오만",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 59127,
-        "deaths": 1112,
-        "recovered": 50593
+        "confirmed": 59287,
+        "deaths": 1113,
+        "recovered": 50718
     },
     {
         "Name": "Uzbekistan",
@@ -920,20 +920,20 @@
         "recovered": 5118
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "confirmed": 5530,
+        "deaths": 111,
+        "recovered": 5076
+    },
+    {
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
         "confirmed": 5528,
         "deaths": 57,
         "recovered": 2199
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "confirmed": 5521,
-        "deaths": 111,
-        "recovered": 5061
     },
     {
         "Name": "Djibouti",
@@ -1171,9 +1171,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2252,
+        "confirmed": 2259,
         "deaths": 72,
-        "recovered": 1697
+        "recovered": 1704
     },
     {
         "Name": "Burkina Faso",
