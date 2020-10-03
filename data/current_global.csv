@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7549323,213524,4776824
+미국,美国,United States,7549771,213526,4777577
 인도,印度,India,6473544,100875,5427706
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,222322,4353,98737
 캐나다,加拿大,Canada,162659,9409,137614
 에콰도르,厄瓜多尔,Ecuador,139534,11495,112296
 Bolivia,,Bolivia,136219,8045,96654
-루마니아,尼亚,Romania,132001,4915,105582
+루마니아,尼亚,Romania,134065,4947,107058
 모로코,摩洛哥,Morocco,128565,2263,106044
 네덜란드,荷兰,Netherlands,127922,6428,0
 카타르,卡塔尔,Qatar,126164,215,123108
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,76820,643,67216
 싱가포르,新加坡,Singapore,57800,27,57534
 Uzbekistan,,Uzbekistan,57776,475,54456
 Moldova,,Moldova,55016,1344,40002
-스위스,瑞士,Switzerland,54384,2075,45800
+스위스,瑞士,Switzerland,54384,2076,45800
 아르메니아,亚美尼亚,Armenia,51925,972,44583
 알제리,阿尔及利亚,Algeria,51847,1749,36385
 오스트리아,奥地利,Austria,47432,809,38045
@@ -212,4 +212,5 @@ Vatican City,,Vatican City,12,0,12
 Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
+Solomon Islands,,Solomon Islands,1,0,0
 중국,中国,China,85434,4634,80611
