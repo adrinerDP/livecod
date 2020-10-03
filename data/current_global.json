@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7547620,
-        "deaths": 213489,
-        "recovered": 4770958
+        "confirmed": 7549301,
+        "deaths": 213523,
+        "recovered": 4776347
     },
     {
         "Name": "인도",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 818297,
-        "deaths": 32535,
-        "recovered": 690528
+        "confirmed": 821564,
+        "deaths": 32609,
+        "recovered": 695645
     },
     {
         "Name": "스페인",
@@ -733,7 +733,7 @@
         "Name_en": "Jordan",
         "confirmed": 13650,
         "deaths": 79,
-        "recovered": 4752
+        "recovered": 4929
     },
     {
         "Name": "말레이시아",
@@ -1019,7 +1019,7 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4613,
+        "confirmed": 4629,
         "deaths": 76,
         "recovered": 2729
     },
@@ -1152,20 +1152,20 @@
         "recovered": 1290
     },
     {
+        "Name": "Guinea-Bissau",
+        "Name_ch": "",
+        "Name_en": "Guinea-Bissau",
+        "confirmed": 2362,
+        "deaths": 39,
+        "recovered": 1549
+    },
+    {
         "Name": "Benin",
         "Name_ch": "",
         "Name_en": "Benin",
         "confirmed": 2357,
         "deaths": 41,
         "recovered": 1973
-    },
-    {
-        "Name": "Guinea-Bissau",
-        "Name_ch": "",
-        "Name_en": "Guinea-Bissau",
-        "confirmed": 2324,
-        "deaths": 39,
-        "recovered": 1549
     },
     {
         "Name": "Sierra Leone",
@@ -1216,20 +1216,20 @@
         "recovered": 1272
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 1964,
+        "deaths": 8,
+        "recovered": 1555
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "confirmed": 1945,
         "deaths": 38,
         "recovered": 1307
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1852,
-        "deaths": 7,
-        "recovered": 1504
     },
     {
         "Name": "New Zealand",
@@ -1291,9 +1291,9 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1197,
+        "confirmed": 1198,
         "deaths": 69,
-        "recovered": 1114
+        "recovered": 1115
     },
     {
         "Name": "베트남",
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 515,
+        "confirmed": 517,
         "deaths": 7,
         "recovered": 484
     },
@@ -1501,7 +1501,7 @@
         "Name_en": "Bermuda",
         "confirmed": 181,
         "deaths": 9,
-        "recovered": 168
+        "recovered": 169
     },
     {
         "Name": "Brunei",

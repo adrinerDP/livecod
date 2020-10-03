@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7547620,213489,4770958
+미국,美国,United States,7549301,213523,4776347
 인도,印度,India,6471734,100873,5424943
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
-페루,秘鲁,Peru,818297,32535,690528
+페루,秘鲁,Peru,821564,32609,695645
 스페인,西班牙,Spain,810807,32086,0
 Argentina,,Argentina,779689,20599,614515
 멕시코,墨西哥,Mexico,748315,78078,537475
@@ -90,7 +90,7 @@ Zambia,,Zambia,14830,333,13980
 노르웨이,挪威,Norway,14284,275,11190
 Albania,,Albania,13965,389,8342
 Sudan,,Sudan,13653,836,6764
-요르단,约旦,Jordan,13650,79,4752
+요르단,约旦,Jordan,13650,79,4929
 말레이시아,马来西亚,Malaysia,11771,136,10095
 Montenegro,,Montenegro,11690,172,7618
 슬로바키아,斯洛伐克,Slovakia,11617,54,4756
@@ -126,7 +126,7 @@ Lithuania,,Lithuania,4956,93,2466
 Suriname,,Suriname,4899,105,4715
 Rwanda,,Rwanda,4847,29,3197
 CAR,,CAR,4829,62,1914
-Trinidad and Tobago,,Trinidad and Tobago,4613,76,2729
+Trinidad and Tobago,,Trinidad and Tobago,4629,76,2729
 Syria,,Syria,4289,203,1130
 Bahamas,,Bahamas,4220,96,2290
 Réunion,,Réunion,4178,16,3360
@@ -143,16 +143,16 @@ Malta,,Malta,3139,37,2668
 Guyana,,Guyana,2968,85,1776
 Iceland,,Iceland,2809,10,2194
 South Sudan,,South Sudan,2715,50,1290
+Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
-Guinea-Bissau,,Guinea-Bissau,2324,39,1549
 Sierra Leone,,Sierra Leone,2252,72,1697
 Burkina Faso,,Burkina Faso,2123,59,1385
 안도라,安道尔,Andorra,2110,53,1540
 Uruguay,,Uruguay,2097,48,1824
 Yemen,,Yemen,2040,589,1307
 Belize,,Belize,2026,27,1272
+French Polynesia,,French Polynesia,1964,8,1555
 라트비아,约旦,Latvia,1945,38,1307
-French Polynesia,,French Polynesia,1852,7,1504
 New Zealand,,New Zealand,1848,25,1780
 토고,多哥,Togo,1818,48,1365
 Cyprus,,Cyprus,1789,22,1369
@@ -160,7 +160,7 @@ Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1346,82,1221
 Chad,,Chad,1211,85,1070
-Niger,,Niger,1197,69,1114
+Niger,,Niger,1198,69,1115
 베트남,越南,Vietnam,1096,35,1020
 Sao Tome and Principe,,Sao Tome and Principe,911,15,886
 산마리노,圣马力诺,San Marino,732,42,680
@@ -169,7 +169,7 @@ Turks and Caicos,,Turks and Caicos,690,6,648
 Channel Islands,,Channel Islands,677,48,600
 Sint Maarten,,Sint Maarten,668,22,567
 Papua New Guinea,,Papua New Guinea,539,7,519
-대만,台湾,Taiwan,515,7,484
+대만,台湾,Taiwan,517,7,484
 Burundi,,Burundi,513,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,484,7,466
@@ -186,7 +186,7 @@ Mongolia,,Mongolia,313,0,307
 모나코,摩纳哥,Monaco,221,2,188
 Cayman Islands,,Cayman Islands,213,1,209
 Barbados,,Barbados,193,7,179
-Bermuda,,Bermuda,181,9,168
+Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,145,0,143
 Caribbean Netherlands,,Caribbean Netherlands,121,1,32
