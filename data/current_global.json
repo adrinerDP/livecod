@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7592336,
-        "deaths": 214089,
-        "recovered": 4808668
+        "confirmed": 7595898,
+        "deaths": 214162,
+        "recovered": 4812827
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4888926,
-        "deaths": 145555,
+        "confirmed": 4906760,
+        "deaths": 145985,
         "recovered": 4232593
     },
     {
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 71803,
-        "deaths": 257,
-        "recovered": 66184
+        "confirmed": 72310,
+        "deaths": 258,
+        "recovered": 66813
     },
     {
         "Name": "나이지리아",
@@ -619,9 +619,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 21336,
-        "deaths": 838,
-        "recovered": 14939
+        "confirmed": 21518,
+        "deaths": 841,
+        "recovered": 14984
     },
     {
         "Name": "Tunisia",
@@ -699,9 +699,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14830,
+        "confirmed": 14974,
         "deaths": 333,
-        "recovered": 13980
+        "recovered": 14094
     },
     {
         "Name": "요르단",
@@ -824,6 +824,14 @@
         "recovered": 5736
     },
     {
+        "Name": "Haiti",
+        "Name_ch": "",
+        "Name_en": "Haiti",
+        "confirmed": 8811,
+        "deaths": 229,
+        "recovered": 6949
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
@@ -838,14 +846,6 @@
         "confirmed": 8797,
         "deaths": 54,
         "recovered": 8067
-    },
-    {
-        "Name": "Haiti",
-        "Name_ch": "",
-        "Name_en": "Haiti",
-        "confirmed": 8792,
-        "deaths": 229,
-        "recovered": 6949
     },
     {
         "Name": "Uganda",
@@ -939,9 +939,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5417,
+        "confirmed": 5418,
         "deaths": 61,
-        "recovered": 5346
+        "recovered": 5347
     },
     {
         "Name": "Angola",
