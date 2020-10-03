@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7563721,
-        "deaths": 213677,
-        "recovered": 4778158
+        "confirmed": 7567297,
+        "deaths": 213716,
+        "recovered": 4782226
     },
     {
         "Name": "인도",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 298475,
+        "confirmed": 299074,
         "deaths": 9596,
         "recovered": 259500
     },
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 258920,
-        "deaths": 1633,
-        "recovered": 185122
+        "confirmed": 263983,
+        "deaths": 1679,
+        "recovered": 190397
     },
     {
         "Name": "Ukraine",
@@ -368,6 +368,14 @@
         "recovered": 75148
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 79475,
+        "deaths": 709,
+        "recovered": 35291
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
@@ -382,14 +390,6 @@
         "confirmed": 78247,
         "deaths": 1995,
         "recovered": 49845
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 78051,
-        "deaths": 699,
-        "recovered": 35032
     },
     {
         "Name": "코스타리카",
@@ -1211,9 +1211,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2040,
+        "confirmed": 2041,
         "deaths": 589,
-        "recovered": 1307
+        "recovered": 1320
     },
     {
         "Name": "라트비아",
