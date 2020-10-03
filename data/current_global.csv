@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7599061,214263,4814076
+미국,美国,United States,7600133,214269,4814461
 인도,印度,India,6547413,101812,5506732
 브라질,巴西,Brazil,4906833,145987,4248574
 러시아,俄罗斯,Russia,1204502,21251,975859
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,367565,5325,280069
 인도네시아,印度尼西亚,Indonesia,299506,11055,225052
 이스라엘,以色列,Israel,264443,1682,191251
 Ukraine,,Ukraine,222322,4353,98737
-캐나다,加拿大,Canada,164419,9460,138844
+캐나다,加拿大,Canada,164471,9462,138867
 에콰도르,厄瓜多尔,Ecuador,140351,11597,112296
 Bolivia,,Bolivia,136219,8045,96654
 루마니아,尼亚,Romania,134065,4947,107058
@@ -88,7 +88,7 @@ Myanmar,,Myanmar,16503,371,4795
 세네갈,塞内加尔,Senegal,15068,312,12751
 Zambia,,Zambia,14974,333,14094
 요르단,约旦,Jordan,14749,88,5101
-노르웨이,挪威,Norway,14328,275,11190
+노르웨이,挪威,Norway,14362,275,11190
 Albania,,Albania,14117,392,8536
 Sudan,,Sudan,13653,836,6764
 슬로바키아,斯洛伐克,Slovakia,12321,54,4793
@@ -174,8 +174,8 @@ Burundi,,Burundi,513,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,484,7,466
 Faeroe Islands,,Faeroe Islands,473,0,432
+Curaçao,,Curaçao,429,1,213
 지브롤터,直布罗陀,Gibraltar,428,0,358
-Curaçao,,Curaçao,411,1,197
 Saint Martin,,Saint Martin,403,8,309
 Eritrea,,Eritrea,398,0,358
 Mauritius,,Mauritius,385,10,344
