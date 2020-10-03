@@ -168,20 +168,20 @@
         "recovered": 298593
     },
     {
+        "Name": "인도네시아",
+        "Name_ch": "印度尼西亚",
+        "Name_en": "Indonesia",
+        "confirmed": 299506,
+        "deaths": 11055,
+        "recovered": 225052
+    },
+    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
         "confirmed": 298363,
         "deaths": 9596,
         "recovered": 259500
-    },
-    {
-        "Name": "인도네시아",
-        "Name_ch": "印度尼西亚",
-        "Name_en": "Indonesia",
-        "confirmed": 295499,
-        "deaths": 10972,
-        "recovered": 221340
     },
     {
         "Name": "이스라엘",
@@ -587,9 +587,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 29175,
-        "deaths": 853,
-        "recovered": 23930
+        "confirmed": 29358,
+        "deaths": 857,
+        "recovered": 24175
     },
     {
         "Name": "덴마크",
@@ -888,20 +888,20 @@
         "recovered": 2112
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 6330,
+        "deaths": 155,
+        "recovered": 4041
+    },
+    {
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
         "confirmed": 6205,
         "deaths": 62,
         "recovered": 5399
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 6103,
-        "deaths": 154,
-        "recovered": 4041
     },
     {
         "Name": "Malawi",
