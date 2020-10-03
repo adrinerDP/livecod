@@ -464,20 +464,20 @@
         "recovered": 45800
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 51925,
+        "deaths": 972,
+        "recovered": 44583
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 51847,
         "deaths": 1749,
         "recovered": 36385
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 51382,
-        "deaths": 966,
-        "recovered": 44406
     },
     {
         "Name": "Kyrgyzstan",
@@ -539,8 +539,8 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39290,
-        "deaths": 1458,
+        "confirmed": 39297,
+        "deaths": 1462,
         "recovered": 32842
     },
     {
@@ -576,6 +576,14 @@
         "recovered": 31536
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 29717,
+        "deaths": 812,
+        "recovered": 6824
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
@@ -590,14 +598,6 @@
         "confirmed": 28932,
         "deaths": 652,
         "recovered": 21824
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 28631,
-        "deaths": 798,
-        "recovered": 6349
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -1216,20 +1216,20 @@
         "recovered": 1307
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2019,
+        "deaths": 38,
+        "recovered": 1307
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "confirmed": 1964,
         "deaths": 8,
         "recovered": 1555
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 1945,
-        "deaths": 38,
-        "recovered": 1307
     },
     {
         "Name": "New Zealand",
