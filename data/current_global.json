@@ -131,9 +131,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 335578,
-        "deaths": 4823,
-        "recovered": 320348
+        "confirmed": 335997,
+        "deaths": 4850,
+        "recovered": 320974
     },
     {
         "Name": "터키",
@@ -232,20 +232,20 @@
         "recovered": 107058
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 131889,
+        "deaths": 6449,
+        "recovered": 0
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "confirmed": 128565,
         "deaths": 2263,
         "recovered": 106044
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 127922,
-        "deaths": 6428,
-        "recovered": 0
     },
     {
         "Name": "카타르",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 106087,
-        "deaths": 615,
-        "recovered": 97898
+        "confirmed": 106458,
+        "deaths": 620,
+        "recovered": 98435
     },
     {
         "Name": "이집트",
@@ -499,9 +499,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 46694,
+        "confirmed": 46768,
         "deaths": 301,
-        "recovered": 45945
+        "recovered": 45964
     },
     {
         "Name": "Paraguay",
@@ -675,9 +675,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16493,
+        "confirmed": 16529,
         "deaths": 232,
-        "recovered": 15467
+        "recovered": 15480
     },
     {
         "Name": "Myanmar",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9852,
+        "confirmed": 9895,
         "deaths": 77,
-        "recovered": 8661
+        "recovered": 8707
     },
     {
         "Name": "Mozambique",
@@ -1520,20 +1520,20 @@
         "recovered": 143
     },
     {
+        "Name": "Caribbean Netherlands",
+        "Name_ch": "",
+        "Name_en": "Caribbean Netherlands",
+        "confirmed": 124,
+        "deaths": 1,
+        "recovered": 46
+    },
+    {
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
         "confirmed": 123,
         "deaths": 1,
         "recovered": 116
-    },
-    {
-        "Name": "Caribbean Netherlands",
-        "Name_ch": "",
-        "Name_en": "Caribbean Netherlands",
-        "confirmed": 121,
-        "deaths": 1,
-        "recovered": 32
     },
     {
         "Name": "Antigua and Barbuda",

@@ -15,7 +15,7 @@ Argentina,,Argentina,779689,20599,614515
 칠레,智利,Chile,466590,12867,439607
 이라크,伊拉克,Iraq,375931,9347,303665
 Bangladesh,,Bangladesh,367565,5325,280069
-사우디아라비아,沙特阿拉伯,Saudi Arabia,335578,4823,320348
+사우디아라비아,沙特阿拉伯,Saudi Arabia,335997,4850,320974
 터키,土耳其,Turkey,321512,8325,282657
 이탈리아,义大利,Italy,319908,35941,229970
 필리핀,菲律宾,Philippines,319330,5678,255046
@@ -28,14 +28,14 @@ Ukraine,,Ukraine,222322,4353,98737
 에콰도르,厄瓜多尔,Ecuador,139534,11495,112296
 Bolivia,,Bolivia,136219,8045,96654
 루마니아,尼亚,Romania,134065,4947,107058
+네덜란드,荷兰,Netherlands,131889,6449,0
 모로코,摩洛哥,Morocco,128565,2263,106044
-네덜란드,荷兰,Netherlands,127922,6428,0
 카타르,卡塔尔,Qatar,126339,216,123302
 벨기에,比利时,Belgium,124234,10037,19521
 Panama,,Panama,113962,2406,90772
 도미니카 공화국,多明尼加共和国,Dominican Republic,113350,2117,88840
 Kazakhstan,,Kazakhstan,108106,1725,103110
-쿠웨이트,科威特,Kuwait,106087,615,97898
+쿠웨이트,科威特,Kuwait,106458,620,98435
 이집트,埃及,Egypt,103466,5956,97143
 오만,阿曼,Oman,98585,935,88528
 폴란드,波兰,Poland,98140,2604,72209
@@ -61,7 +61,7 @@ Moldova,,Moldova,55016,1344,40002
 알제리,阿尔及利亚,Algeria,51847,1749,36385
 오스트리아,奥地利,Austria,47432,809,38045
 Kyrgyzstan,,Kyrgyzstan,47184,1066,43278
-Ghana,,Ghana,46694,301,45945
+Ghana,,Ghana,46768,301,45964
 Paraguay,,Paraguay,42684,890,25803
 레바논,黎巴嫩,Lebanon,42173,386,18739
 팔레스타인,巴勒斯坦,Palestine,40766,321,32944
@@ -83,7 +83,7 @@ Tunisia,,Tunisia,19721,271,5032
 그리스,希腊,Greece,19346,398,9989
 North Macedonia,,North Macedonia,18363,749,15164
 크로아티아,克罗地亚,Croatia,17401,293,15661
-Madagascar,,Madagascar,16493,232,15467
+Madagascar,,Madagascar,16529,232,15480
 Myanmar,,Myanmar,15525,353,4378
 세네갈,塞内加尔,Senegal,15068,312,12751
 Zambia,,Zambia,14830,333,13980
@@ -100,7 +100,7 @@ DRC,,DRC,10729,272,10183
 Maldives,,Maldives,10398,34,9213
 핀란드,芬兰,Finland,10391,345,8100
 French Guiana,,French Guiana,9968,67,9637
-Tajikistan,,Tajikistan,9852,77,8661
+Tajikistan,,Tajikistan,9895,77,8707
 Mozambique,,Mozambique,8979,64,5595
 Gabon,,Gabon,8797,54,8067
 Haiti,,Haiti,8792,229,6949
@@ -189,8 +189,8 @@ Barbados,,Barbados,193,7,179
 Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,145,0,143
+Caribbean Netherlands,,Caribbean Netherlands,124,1,46
 리히텐슈타인,列支敦士登,Liechtenstein,123,1,116
-Caribbean Netherlands,,Caribbean Netherlands,121,1,32
 Antigua and Barbuda,,Antigua and Barbuda,106,3,94
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
