@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7545268,213446,4769745
+미국,美国,United States,7547620,213489,4770958
 인도,印度,India,6471734,100873,5424943
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1194643,21077,970296
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
 페루,秘鲁,Peru,818297,32535,690528
 스페인,西班牙,Spain,810807,32086,0
-Argentina,,Argentina,765002,20288,603140
+Argentina,,Argentina,779689,20599,614515
 멕시코,墨西哥,Mexico,748315,78078,537475
 남아프리카 공화국,南非共和国,South Africa,677833,16909,611044
 프랑스,法国,France,589653,32155,97778
@@ -32,8 +32,8 @@ Bolivia,,Bolivia,135716,8001,96165
 네덜란드,荷兰,Netherlands,127922,6428,0
 카타르,卡塔尔,Qatar,126164,215,123108
 벨기에,比利时,Belgium,121059,10023,19521
+Panama,,Panama,113962,2406,90772
 도미니카 공화국,多明尼加共和国,Dominican Republic,113350,2117,88840
-Panama,,Panama,113342,2387,89903
 Kazakhstan,,Kazakhstan,108044,1725,103028
 쿠웨이트,科威特,Kuwait,106087,615,97898
 이집트,埃及,Egypt,103466,5956,97143
@@ -95,8 +95,8 @@ Sudan,,Sudan,13653,836,6764
 Montenegro,,Montenegro,11690,172,7618
 슬로바키아,斯洛伐克,Slovakia,11617,54,4756
 Namibia,,Namibia,11480,123,9351
+Guinea,,Guinea,10735,66,10066
 DRC,,DRC,10729,272,10183
-Guinea,,Guinea,10700,66,10039
 Maldives,,Maldives,10398,34,9213
 핀란드,芬兰,Finland,10244,345,8100
 French Guiana,,French Guiana,9968,67,9637
@@ -107,7 +107,7 @@ Haiti,,Haiti,8792,229,6949
 룩셈부르크,卢森堡,Luxembourg,8709,125,7428
 Uganda,,Uganda,8491,79,4470
 Zimbabwe,,Zimbabwe,7858,228,6322
-Mauritania,,Mauritania,7511,161,7163
+Mauritania,,Mauritania,7511,162,7163
 조지아,格鲁吉亚,Georgia,7093,46,3714
 Jamaica,,Jamaica,6704,116,2112
 Cabo Verde,,Cabo Verde,6205,62,5399
@@ -123,7 +123,7 @@ Nicaragua,,Nicaragua,5170,151,2913
 Congo,,Congo,5089,89,3887
 Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Lithuania,,Lithuania,4956,93,2466
-Suriname,,Suriname,4891,105,4702
+Suriname,,Suriname,4899,105,4715
 Rwanda,,Rwanda,4847,29,3197
 CAR,,CAR,4829,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4613,76,2729

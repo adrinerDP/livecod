@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7545268,
-        "deaths": 213446,
-        "recovered": 4769745
+        "confirmed": 7547620,
+        "deaths": 213489,
+        "recovered": 4770958
     },
     {
         "Name": "인도",
@@ -59,9 +59,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 765002,
-        "deaths": 20288,
-        "recovered": 603140
+        "confirmed": 779689,
+        "deaths": 20599,
+        "recovered": 614515
     },
     {
         "Name": "멕시코",
@@ -264,20 +264,20 @@
         "recovered": 19521
     },
     {
+        "Name": "Panama",
+        "Name_ch": "",
+        "Name_en": "Panama",
+        "confirmed": 113962,
+        "deaths": 2406,
+        "recovered": 90772
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "confirmed": 113350,
         "deaths": 2117,
         "recovered": 88840
-    },
-    {
-        "Name": "Panama",
-        "Name_ch": "",
-        "Name_en": "Panama",
-        "confirmed": 113342,
-        "deaths": 2387,
-        "recovered": 89903
     },
     {
         "Name": "Kazakhstan",
@@ -768,20 +768,20 @@
         "recovered": 9351
     },
     {
+        "Name": "Guinea",
+        "Name_ch": "",
+        "Name_en": "Guinea",
+        "confirmed": 10735,
+        "deaths": 66,
+        "recovered": 10066
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
         "confirmed": 10729,
         "deaths": 272,
         "recovered": 10183
-    },
-    {
-        "Name": "Guinea",
-        "Name_ch": "",
-        "Name_en": "Guinea",
-        "confirmed": 10700,
-        "deaths": 66,
-        "recovered": 10039
     },
     {
         "Name": "Maldives",
@@ -868,7 +868,7 @@
         "Name_ch": "",
         "Name_en": "Mauritania",
         "confirmed": 7511,
-        "deaths": 161,
+        "deaths": 162,
         "recovered": 7163
     },
     {
@@ -995,9 +995,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4891,
+        "confirmed": 4899,
         "deaths": 105,
-        "recovered": 4702
+        "recovered": 4715
     },
     {
         "Name": "Rwanda",
