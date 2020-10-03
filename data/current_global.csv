@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7557383,213592,4777793
-인도,印度,India,6499048,101152,5454639
+미국,美国,United States,7559214,213615,4777970
+인도,印度,India,6509916,101211,5466344
 브라질,巴西,Brazil,4882231,145431,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
 콜롬비아,哥伦比亚,Colombia,841531,26397,753953
@@ -16,8 +16,8 @@ Argentina,,Argentina,779689,20599,614515
 이라크,伊拉克,Iraq,375931,9347,303665
 Bangladesh,,Bangladesh,367565,5325,280069
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335997,4850,320974
+이탈리아,义大利,Italy,322751,35968,231217
 터키,土耳其,Turkey,321512,8325,282657
-이탈리아,义大利,Italy,319908,35941,229970
 필리핀,菲律宾,Philippines,319330,5678,255046
 파키스탄,巴基斯坦,Pakistan,313984,6507,298593
 인도네시아,印度尼西亚,Indonesia,299506,11055,225052
@@ -33,7 +33,7 @@ Bolivia,,Bolivia,136219,8045,96654
 카타르,卡塔尔,Qatar,126339,216,123302
 벨기에,比利时,Belgium,124234,10037,19521
 Panama,,Panama,113962,2406,90772
-도미니카 공화국,多明尼加共和国,Dominican Republic,113350,2117,88840
+도미니카 공화국,多明尼加共和国,Dominican Republic,113926,2128,89635
 Kazakhstan,,Kazakhstan,108106,1725,103110
 쿠웨이트,科威特,Kuwait,106458,620,98435
 이집트,埃及,Egypt,103466,5956,97143
@@ -41,21 +41,21 @@ Kazakhstan,,Kazakhstan,108106,1725,103110
 폴란드,波兰,Poland,98140,2604,72209
 아랍에미리트,阿拉伯联合酋长国,UAE,97760,426,87122
 스웨덴,瑞典语,Sweden,94283,5895,0
-Guatemala,,Guatemala,93090,3267,81466
+Guatemala,,Guatemala,93748,3285,82040
+일본,日本,Japan,84768,1590,77807
 네팔,尼泊尔,Nepal,84570,528,62740
-일본,日本,Japan,84215,1578,77219
 벨라루스,白俄罗斯,Belarus,79421,844,74982
 Honduras,,Honduras,78269,2386,28978
+포르투갈,葡萄牙,Portugal,78247,1995,49845
 체코,捷克,Czechia,78051,699,35032
 코스타리카,哥斯达黎加,Costa Rica,77829,930,42621
-포르투갈,葡萄牙,Portugal,77284,1983,49359
 Ethiopia,,Ethiopia,76988,1208,31677
 Venezuela,,Venezuela,76820,643,67216
 바레인,巴林,Bahrain,71803,257,66184
 나이지리아,尼日利亚,Nigeria,59127,1112,50593
-싱가포르,新加坡,Singapore,57800,27,57534
-Uzbekistan,,Uzbekistan,57776,475,54456
-Moldova,,Moldova,55016,1344,40002
+Uzbekistan,,Uzbekistan,57924,476,54456
+싱가포르,新加坡,Singapore,57800,27,57562
+Moldova,,Moldova,55888,1353,40475
 스위스,瑞士,Switzerland,54384,2076,45800
 아르메니아,亚美尼亚,Armenia,51925,972,44583
 알제리,阿尔及利亚,Algeria,51847,1749,36385
@@ -88,7 +88,7 @@ Myanmar,,Myanmar,16503,371,4795
 세네갈,塞内加尔,Senegal,15068,312,12751
 Zambia,,Zambia,14830,333,13980
 노르웨이,挪威,Norway,14328,275,11190
-Albania,,Albania,13965,389,8342
+Albania,,Albania,14117,392,8536
 Sudan,,Sudan,13653,836,6764
 요르단,约旦,Jordan,13650,79,4929
 슬로바키아,斯洛伐克,Slovakia,12321,54,4793
@@ -109,11 +109,11 @@ Uganda,,Uganda,8662,79,4546
 Zimbabwe,,Zimbabwe,7858,228,6322
 조지아,格鲁吉亚,Georgia,7564,48,3992
 Mauritania,,Mauritania,7511,162,7163
-Jamaica,,Jamaica,6704,116,2112
+Jamaica,,Jamaica,6795,119,2345
 슬로베니아,斯洛文尼亚,Slovenia,6330,155,4041
 Cabo Verde,,Cabo Verde,6205,62,5399
 Malawi,,Malawi,5783,179,4535
-Cuba,,Cuba,5718,122,4922
+Cuba,,Cuba,5780,122,5118
 Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5521,111,5061
 Djibouti,,Djibouti,5417,61,5346
@@ -126,7 +126,7 @@ Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4899,105,4715
 Rwanda,,Rwanda,4847,29,3197
 CAR,,CAR,4829,62,1914
-Trinidad and Tobago,,Trinidad and Tobago,4629,76,2729
+Trinidad and Tobago,,Trinidad and Tobago,4709,78,2802
 Syria,,Syria,4289,203,1130
 Bahamas,,Bahamas,4220,96,2290
 Réunion,,Réunion,4178,16,3360
@@ -136,7 +136,7 @@ Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3585,115,2224
 태국,泰国,Thailand,3583,59,3386
 에스토니아,爱沙尼亚,Estonia,3577,67,2727
-스리랑카,斯里兰卡,Sri Lanka,3391,13,3254
+스리랑카,斯里兰卡,Sri Lanka,3392,13,3254
 Malta,,Malta,3204,38,2711
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3156,131,2467
@@ -155,7 +155,7 @@ Yemen,,Yemen,2040,589,1307
 French Polynesia,,French Polynesia,1964,8,1555
 New Zealand,,New Zealand,1849,25,1783
 토고,多哥,Togo,1818,48,1365
-Cyprus,,Cyprus,1789,22,1369
+Cyprus,,Cyprus,1811,22,1369
 Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1347,82,1221
@@ -168,7 +168,7 @@ Sao Tome and Principe,,Sao Tome and Principe,911,15,886
 Turks and Caicos,,Turks and Caicos,695,6,651
 Channel Islands,,Channel Islands,677,48,600
 Sint Maarten,,Sint Maarten,674,22,572
-Papua New Guinea,,Papua New Guinea,539,7,519
+Papua New Guinea,,Papua New Guinea,540,7,527
 대만,台湾,Taiwan,517,7,484
 Burundi,,Burundi,513,1,472
 Tanzania,,Tanzania,509,21,183
