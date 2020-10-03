@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7592273,
+        "confirmed": 7592336,
         "deaths": 214089,
-        "recovered": 4808649
+        "recovered": 4808668
     },
     {
         "Name": "인도",
@@ -88,6 +88,14 @@
         "recovered": 97778
     },
     {
+        "Name": "영국",
+        "Name_ch": "英国",
+        "Name_en": "UK",
+        "confirmed": 480017,
+        "deaths": 42317,
+        "recovered": 0
+    },
+    {
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
@@ -102,14 +110,6 @@
         "confirmed": 468119,
         "deaths": 26746,
         "recovered": 387675
-    },
-    {
-        "Name": "영국",
-        "Name_ch": "英国",
-        "Name_en": "UK",
-        "confirmed": 467146,
-        "deaths": 42268,
-        "recovered": 0
     },
     {
         "Name": "이라크",
@@ -464,20 +464,20 @@
         "recovered": 45800
     },
     {
+        "Name": "알제리",
+        "Name_ch": "阿尔及利亚",
+        "Name_en": "Algeria",
+        "confirmed": 51995,
+        "deaths": 1756,
+        "recovered": 36482
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
         "confirmed": 51925,
         "deaths": 972,
         "recovered": 44583
-    },
-    {
-        "Name": "알제리",
-        "Name_ch": "阿尔及利亚",
-        "Name_en": "Algeria",
-        "confirmed": 51847,
-        "deaths": 1749,
-        "recovered": 36385
     },
     {
         "Name": "오스트리아",
@@ -947,9 +947,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 5211,
-        "deaths": 189,
-        "recovered": 2215
+        "confirmed": 5370,
+        "deaths": 193,
+        "recovered": 2436
     },
     {
         "Name": "Nicaragua",
@@ -1475,7 +1475,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 221,
+        "confirmed": 222,
         "deaths": 2,
         "recovered": 188
     },
