@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7587461,214030,4807682
+미국,美国,United States,7589225,214047,4807847
 인도,印度,India,6547413,101812,5506732
 브라질,巴西,Brazil,4888926,145555,4232593
 러시아,俄罗斯,Russia,1204502,21251,975859
@@ -8,7 +8,7 @@
 스페인,西班牙,Spain,810807,32086,0
 Argentina,,Argentina,779689,20599,614515
 멕시코,墨西哥,Mexico,753090,78492,541518
-남아프리카 공화국,南非共和国,South Africa,677833,16909,611044
+남아프리카 공화국,南非共和国,South Africa,679716,16938,612763
 프랑스,法国,France,606625,32198,97778
 칠레,智利,Chile,468471,12919,440881
 이란,伊朗,Iran,468119,26746,387675
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,367565,5325,280069
 이탈리아,义大利,Italy,322751,35968,231217
 필리핀,菲律宾,Philippines,319330,5678,255046
 파키스탄,巴基斯坦,Pakistan,313984,6507,298593
-독일,德国,Germany,299711,9597,259500
+독일,德国,Germany,299787,9597,259500
 인도네시아,印度尼西亚,Indonesia,299506,11055,225052
 이스라엘,以色列,Israel,264443,1682,191251
 Ukraine,,Ukraine,222322,4353,98737
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,29358,857,24175
 Bulgaria,,Bulgaria,21336,838,14939
 Tunisia,,Tunisia,20944,276,5032
 카메룬,喀麦隆,Cameroon,20924,420,19764
-Ivory Coast,,Ivory Coast,19793,120,19357
+Ivory Coast,,Ivory Coast,19849,120,19421
 그리스,希腊,Greece,19613,405,9989
 North Macedonia,,North Macedonia,18602,753,15264
 크로아티아,克罗地亚,Croatia,17401,293,15661
@@ -95,8 +95,8 @@ Sudan,,Sudan,13653,836,6764
 말레이시아,马来西亚,Malaysia,12088,137,10216
 Montenegro,,Montenegro,11934,174,7803
 Namibia,,Namibia,11572,123,9419
+DRC,,DRC,10752,274,10212
 Guinea,,Guinea,10735,66,10066
-DRC,,DRC,10729,272,10183
 Maldives,,Maldives,10465,34,9310
 핀란드,芬兰,Finland,10391,345,8100
 French Guiana,,French Guiana,10029,67,9665
@@ -112,7 +112,7 @@ Mauritania,,Mauritania,7511,162,7163
 Jamaica,,Jamaica,6795,119,2345
 슬로베니아,斯洛文尼亚,Slovenia,6330,155,4041
 Cabo Verde,,Cabo Verde,6296,62,5409
-Malawi,,Malawi,5783,179,4535
+Malawi,,Malawi,5783,179,4539
 Cuba,,Cuba,5780,122,5118
 Guadeloupe,,Guadeloupe,5528,57,2199
 Eswatini,,Eswatini,5521,111,5061
@@ -124,7 +124,7 @@ Congo,,Congo,5089,89,3887
 Lithuania,,Lithuania,5081,94,2494
 Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4899,105,4715
-Rwanda,,Rwanda,4847,29,3197
+Rwanda,,Rwanda,4852,29,3211
 CAR,,CAR,4829,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4709,78,2802
 Bahamas,,Bahamas,4332,96,2375
@@ -154,12 +154,12 @@ Yemen,,Yemen,2041,589,1320
 라트비아,约旦,Latvia,2019,38,1307
 French Polynesia,,French Polynesia,1964,8,1555
 New Zealand,,New Zealand,1849,25,1783
-토고,多哥,Togo,1818,48,1365
+토고,多哥,Togo,1840,48,1375
 Cyprus,,Cyprus,1811,22,1369
 Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1347,82,1221
-Chad,,Chad,1211,85,1070
+Chad,,Chad,1214,85,1075
 Niger,,Niger,1198,69,1115
 베트남,越南,Vietnam,1096,35,1020
 Sao Tome and Principe,,Sao Tome and Principe,911,15,886
