@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7553072,
-        "deaths": 213543,
-        "recovered": 4777579
+        "confirmed": 7555998,
+        "deaths": 213571,
+        "recovered": 4777586
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6473544,
-        "deaths": 100875,
+        "confirmed": 6476953,
+        "deaths": 100903,
         "recovered": 5427706
     },
     {
@@ -523,17 +523,17 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 40766,
-        "deaths": 321,
-        "recovered": 32944
+        "confirmed": 41078,
+        "deaths": 329,
+        "recovered": 33442
     },
     {
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 40453,
-        "deaths": 594,
-        "recovered": 38217
+        "confirmed": 40561,
+        "deaths": 595,
+        "recovered": 38354
     },
     {
         "Name": "아프가니스탄",
@@ -547,9 +547,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 38923,
-        "deaths": 725,
-        "recovered": 25114
+        "confirmed": 39184,
+        "deaths": 728,
+        "recovered": 25426
     },
     {
         "Name": "아일랜드",
@@ -659,9 +659,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 18363,
-        "deaths": 749,
-        "recovered": 15164
+        "confirmed": 18602,
+        "deaths": 753,
+        "recovered": 15264
     },
     {
         "Name": "크로아티아",
