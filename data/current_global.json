@@ -864,20 +864,20 @@
         "recovered": 6322
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 7564,
+        "deaths": 48,
+        "recovered": 3992
+    },
+    {
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
         "confirmed": 7511,
         "deaths": 162,
         "recovered": 7163
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 7093,
-        "deaths": 46,
-        "recovered": 3714
     },
     {
         "Name": "Jamaica",
