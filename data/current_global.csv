@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7601182,214280,4818768
-인도,印度,India,6553027,101841,5509966
+인도,印度,India,6559777,101910,5516487
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1215001,21358,979143
 콜롬비아,哥伦比亚,Colombia,848147,26556,757801
@@ -35,7 +35,7 @@ Bolivia,,Bolivia,136569,8073,97105
 Panama,,Panama,114653,2414,91195
 도미니카 공화국,多明尼加共和国,Dominican Republic,113926,2128,89635
 Kazakhstan,,Kazakhstan,108177,1725,103205
-쿠웨이트,科威特,Kuwait,106458,620,98435
+쿠웨이트,科威特,Kuwait,107025,624,99040
 이집트,埃及,Egypt,103575,5970,97274
 오만,阿曼,Oman,101270,977,90296
 폴란드,波兰,Poland,100074,2630,73003
@@ -66,26 +66,26 @@ Ghana,,Ghana,46829,303,46060
 Paraguay,,Paraguay,43452,913,26512
 팔레스타인,巴勒斯坦,Palestine,41498,330,34698
 아제르바이잔,阿塞拜疆,Azerbaijan,40561,595,38354
+Kenya,,Kenya,39427,731,25659
 아프가니스탄,阿富汗,Afghanistan,39341,1462,32852
-Kenya,,Kenya,39184,728,25426
 아일랜드,冰岛,Ireland,37668,1810,23364
-Libya,,Libya,36087,578,20889
-세르비아,塞尔维亚,Serbia,33842,753,31536
+Libya,,Libya,36809,592,21429
+세르비아,塞尔维亚,Serbia,33901,754,31536
 헝가리,匈牙利,Hungary,30575,822,7470
 덴마크,丹麦,Denmark,29680,658,22716
-El Salvador,,El Salvador,29358,863,24175
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27975,871,21108
+El Salvador,,El Salvador,29450,863,24296
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28354,879,21859
 호주,澳大利亚,Australia,27136,894,24866
 Tunisia,,Tunisia,22230,321,5032
 Bulgaria,,Bulgaria,21518,841,14984
 카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19849,120,19421
 그리스,希腊,Greece,19613,405,9989
-North Macedonia,,North Macedonia,18602,753,15264
+North Macedonia,,North Macedonia,18790,756,15341
 크로아티아,克罗地亚,Croatia,17659,298,15849
 Madagascar,,Madagascar,16558,232,15486
 Myanmar,,Myanmar,16503,371,4795
-세네갈,塞内加尔,Senegal,15068,312,12751
+세네갈,塞内加尔,Senegal,15094,312,12805
 Zambia,,Zambia,14974,333,14094
 요르단,约旦,Jordan,14749,88,5101
 노르웨이,挪威,Norway,14362,275,11190
@@ -96,7 +96,7 @@ Sudan,,Sudan,13653,836,6764
 Montenegro,,Montenegro,11934,174,7803
 Namibia,,Namibia,11572,123,9419
 DRC,,DRC,10760,274,10239
-Guinea,,Guinea,10735,66,10066
+Guinea,,Guinea,10754,66,10098
 핀란드,芬兰,Finland,10538,345,8100
 Maldives,,Maldives,10465,34,9310
 French Guiana,,French Guiana,10029,67,9665

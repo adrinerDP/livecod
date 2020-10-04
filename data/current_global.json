@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6553027,
-        "deaths": 101841,
-        "recovered": 5509966
+        "confirmed": 6559777,
+        "deaths": 101910,
+        "recovered": 5516487
     },
     {
         "Name": "브라질",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 106458,
-        "deaths": 620,
-        "recovered": 98435
+        "confirmed": 107025,
+        "deaths": 624,
+        "recovered": 99040
     },
     {
         "Name": "이집트",
@@ -536,20 +536,20 @@
         "recovered": 38354
     },
     {
+        "Name": "Kenya",
+        "Name_ch": "",
+        "Name_en": "Kenya",
+        "confirmed": 39427,
+        "deaths": 731,
+        "recovered": 25659
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "confirmed": 39341,
         "deaths": 1462,
         "recovered": 32852
-    },
-    {
-        "Name": "Kenya",
-        "Name_ch": "",
-        "Name_en": "Kenya",
-        "confirmed": 39184,
-        "deaths": 728,
-        "recovered": 25426
     },
     {
         "Name": "아일랜드",
@@ -563,16 +563,16 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 36087,
-        "deaths": 578,
-        "recovered": 20889
+        "confirmed": 36809,
+        "deaths": 592,
+        "recovered": 21429
     },
     {
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33842,
-        "deaths": 753,
+        "confirmed": 33901,
+        "deaths": 754,
         "recovered": 31536
     },
     {
@@ -595,17 +595,17 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 29358,
+        "confirmed": 29450,
         "deaths": 863,
-        "recovered": 24175
+        "recovered": 24296
     },
     {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 27975,
-        "deaths": 871,
-        "recovered": 21108
+        "confirmed": 28354,
+        "deaths": 879,
+        "recovered": 21859
     },
     {
         "Name": "호주",
@@ -659,9 +659,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 18602,
-        "deaths": 753,
-        "recovered": 15264
+        "confirmed": 18790,
+        "deaths": 756,
+        "recovered": 15341
     },
     {
         "Name": "크로아티아",
@@ -691,9 +691,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 15068,
+        "confirmed": 15094,
         "deaths": 312,
-        "recovered": 12751
+        "recovered": 12805
     },
     {
         "Name": "Zambia",
@@ -779,9 +779,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10735,
+        "confirmed": 10754,
         "deaths": 66,
-        "recovered": 10066
+        "recovered": 10098
     },
     {
         "Name": "핀란드",
