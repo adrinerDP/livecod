@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7627762,
-        "deaths": 214494,
+        "confirmed": 7628744,
+        "deaths": 214518,
         "recovered": 4840048
     },
     {
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 679716,
-        "deaths": 16938,
-        "recovered": 612763
+        "confirmed": 681289,
+        "deaths": 16976,
+        "recovered": 614781
     },
     {
         "Name": "프랑스",
@@ -1232,20 +1232,20 @@
         "recovered": 1555
     },
     {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+        "confirmed": 1854,
+        "deaths": 48,
+        "recovered": 1392
+    },
+    {
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
         "confirmed": 1854,
         "deaths": 25,
         "recovered": 1788
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "多哥",
-        "Name_en": "Togo",
-        "confirmed": 1840,
-        "deaths": 48,
-        "recovered": 1375
     },
     {
         "Name": "Cyprus",
