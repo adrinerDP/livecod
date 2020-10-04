@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7617110,
-        "deaths": 214424,
-        "recovered": 4832989
+        "confirmed": 7619459,
+        "deaths": 214426,
+        "recovered": 4834347
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6573678,
-        "deaths": 101997,
-        "recovered": 5527934
+        "confirmed": 6622135,
+        "deaths": 102714,
+        "recovered": 5583405
     },
     {
         "Name": "브라질",
@@ -83,8 +83,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 606625,
-        "deaths": 32198,
+        "confirmed": 619190,
+        "deaths": 32230,
         "recovered": 97778
     },
     {
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 300850,
-        "deaths": 9599,
+        "confirmed": 301013,
+        "deaths": 9601,
         "recovered": 261900
     },
     {
@@ -243,9 +243,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 131228,
-        "deaths": 2293,
-        "recovered": 108687
+        "confirmed": 133272,
+        "deaths": 2330,
+        "recovered": 111036
     },
     {
         "Name": "벨기에",
@@ -392,20 +392,20 @@
         "recovered": 50207
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 78819,
+        "deaths": 1222,
+        "recovered": 33060
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 78788,
         "deaths": 2399,
         "recovered": 29187
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 77860,
-        "deaths": 1214,
-        "recovered": 32325
     },
     {
         "Name": "Venezuela",
@@ -475,9 +475,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 51995,
-        "deaths": 1756,
-        "recovered": 36482
+        "confirmed": 52136,
+        "deaths": 1760,
+        "recovered": 36578
     },
     {
         "Name": "오스트리아",
@@ -835,9 +835,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8811,
+        "confirmed": 8819,
         "deaths": 229,
-        "recovered": 6949
+        "recovered": 6992
     },
     {
         "Name": "Uganda",
@@ -1051,9 +1051,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4074,
+        "confirmed": 4079,
         "deaths": 30,
-        "recovered": 3474
+        "recovered": 3532
     },
     {
         "Name": "Mayotte",
@@ -1083,7 +1083,7 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3590,
+        "confirmed": 3594,
         "deaths": 115,
         "recovered": 2226
     },
@@ -1147,7 +1147,7 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2715,
+        "confirmed": 2726,
         "deaths": 50,
         "recovered": 1290
     },
