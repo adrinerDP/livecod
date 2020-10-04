@@ -181,7 +181,7 @@
         "Name_en": "Germany",
         "confirmed": 300028,
         "deaths": 9597,
-        "recovered": 260800
+        "recovered": 261900
     },
     {
         "Name": "이스라엘",
@@ -1067,7 +1067,7 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3603,
+        "confirmed": 3607,
         "deaths": 67,
         "recovered": 2749
     },
@@ -1259,7 +1259,7 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1680,
+        "confirmed": 1683,
         "deaths": 39,
         "recovered": 926
     },
