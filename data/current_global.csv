@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7606854,214330,4828654
+미국,美国,United States,7607545,214341,4828654
 인도,印度,India,6573678,101997,5527934
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1215001,21358,979143
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,368690,5348,281656
 필리핀,菲律宾,Philippines,322497,5776,273079
 파키스탄,巴基斯坦,Pakistan,314616,6513,298968
 인도네시아,印度尼西亚,Indonesia,303498,11151,228453
-독일,德国,Germany,300337,9597,261900
+독일,德国,Germany,300554,9597,261900
 이스라엘,以色列,Israel,265086,1692,193027
 Ukraine,,Ukraine,226462,4397,100107
 캐나다,加拿大,Canada,165037,9468,139401
@@ -80,7 +80,7 @@ Tunisia,,Tunisia,22230,321,5032
 Bulgaria,,Bulgaria,21518,841,14984
 카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19849,120,19421
-그리스,希腊,Greece,19613,405,9989
+그리스,希腊,Greece,19842,409,9989
 North Macedonia,,North Macedonia,18790,756,15341
 Myanmar,,Myanmar,17794,412,5195
 크로아티아,克罗地亚,Croatia,17659,298,15849
@@ -126,7 +126,7 @@ Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4924,106,4723
 Rwanda,,Rwanda,4852,29,3211
 CAR,,CAR,4845,62,1914
-Trinidad and Tobago,,Trinidad and Tobago,4715,79,2802
+Trinidad and Tobago,,Trinidad and Tobago,4741,81,2843
 Bahamas,,Bahamas,4409,96,2375
 Syria,,Syria,4329,204,1143
 Réunion,,Réunion,4178,16,3360
@@ -136,7 +136,7 @@ Mayotte,,Mayotte,3779,42,2964
 Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3590,115,2226
 태국,泰国,Thailand,3585,59,3388
-스리랑카,斯里兰卡,Sri Lanka,3396,13,3258
+스리랑카,斯里兰卡,Sri Lanka,3402,13,3258
 Malta,,Malta,3270,39,2758
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3170,131,2476
@@ -189,8 +189,8 @@ Barbados,,Barbados,196,7,182
 Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,146,0,143
+리히텐슈타인,列支敦士登,Liechtenstein,126,1,116
 Caribbean Netherlands,,Caribbean Netherlands,124,1,46
-리히텐슈타인,列支敦士登,Liechtenstein,123,1,116
 Antigua and Barbuda,,Antigua and Barbuda,107,3,96
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64

@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7606854,
-        "deaths": 214330,
+        "confirmed": 7607545,
+        "deaths": 214341,
         "recovered": 4828654
     },
     {
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 300337,
+        "confirmed": 300554,
         "deaths": 9597,
         "recovered": 261900
     },
@@ -651,8 +651,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 19613,
-        "deaths": 405,
+        "confirmed": 19842,
+        "deaths": 409,
         "recovered": 9989
     },
     {
@@ -1019,9 +1019,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4715,
-        "deaths": 79,
-        "recovered": 2802
+        "confirmed": 4741,
+        "deaths": 81,
+        "recovered": 2843
     },
     {
         "Name": "Bahamas",
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3396,
+        "confirmed": 3402,
         "deaths": 13,
         "recovered": 3258
     },
@@ -1520,20 +1520,20 @@
         "recovered": 143
     },
     {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "confirmed": 126,
+        "deaths": 1,
+        "recovered": 116
+    },
+    {
         "Name": "Caribbean Netherlands",
         "Name_ch": "",
         "Name_en": "Caribbean Netherlands",
         "confirmed": 124,
         "deaths": 1,
         "recovered": 46
-    },
-    {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "confirmed": 123,
-        "deaths": 1,
-        "recovered": 116
     },
     {
         "Name": "Antigua and Barbuda",
