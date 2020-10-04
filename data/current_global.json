@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7633469,
-        "deaths": 214593,
-        "recovered": 4843803
+        "confirmed": 7634110,
+        "deaths": 214602,
+        "recovered": 4844433
     },
     {
         "Name": "인도",
@@ -20,7 +20,7 @@
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4915289,
-        "deaths": 146352,
+        "deaths": 146375,
         "recovered": 4263208
     },
     {
@@ -59,9 +59,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 790818,
-        "deaths": 20795,
-        "recovered": 626114
+        "confirmed": 798486,
+        "deaths": 21018,
+        "recovered": 636672
     },
     {
         "Name": "멕시코",
@@ -1035,9 +1035,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4329,
-        "deaths": 204,
-        "recovered": 1143
+        "confirmed": 4366,
+        "deaths": 205,
+        "recovered": 1155
     },
     {
         "Name": "Réunion",
@@ -1131,9 +1131,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 3005,
-        "deaths": 85,
-        "recovered": 1907
+        "confirmed": 3093,
+        "deaths": 87,
+        "recovered": 1920
     },
     {
         "Name": "Iceland",
@@ -1179,9 +1179,17 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 2154,
+        "confirmed": 2167,
         "deaths": 59,
-        "recovered": 1397
+        "recovered": 1419
+    },
+    {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 2145,
+        "deaths": 48,
+        "recovered": 1844
     },
     {
         "Name": "Belize",
@@ -1190,14 +1198,6 @@
         "confirmed": 2131,
         "deaths": 29,
         "recovered": 1346
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 2122,
-        "deaths": 48,
-        "recovered": 1831
     },
     {
         "Name": "안도라",

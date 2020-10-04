@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7633469,214593,4843803
+미국,美国,United States,7634110,214602,4844433
 인도,印度,India,6622180,102714,5583453
-브라질,巴西,Brazil,4915289,146352,4263208
+브라질,巴西,Brazil,4915289,146375,4263208
 러시아,俄罗斯,Russia,1215001,21358,979143
 콜롬비아,哥伦比亚,Colombia,855052,26712,761674
 페루,秘鲁,Peru,828169,32742,706223
 스페인,西班牙,Spain,810807,32086,0
-Argentina,,Argentina,790818,20795,626114
+Argentina,,Argentina,798486,21018,636672
 멕시코,墨西哥,Mexico,757953,78880,545530
 남아프리카 공화국,南非共和国,South Africa,681289,16976,614781
 프랑스,法国,France,619190,32230,97778
@@ -128,7 +128,7 @@ Rwanda,,Rwanda,4866,29,3216
 CAR,,CAR,4845,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4741,81,2843
 Bahamas,,Bahamas,4409,96,2375
-Syria,,Syria,4329,204,1143
+Syria,,Syria,4366,205,1155
 Réunion,,Réunion,4178,16,3360
 Aruba,,Aruba,4079,30,3532
 Mayotte,,Mayotte,3779,42,2964
@@ -140,15 +140,15 @@ Gambia,,Gambia,3594,115,2226
 Malta,,Malta,3270,39,2758
 Mali,,Mali,3184,131,2479
 Botswana,,Botswana,3172,16,710
-Guyana,,Guyana,3005,85,1907
+Guyana,,Guyana,3093,87,1920
 Iceland,,Iceland,2921,10,2277
 South Sudan,,South Sudan,2726,50,1290
 Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
 Sierra Leone,,Sierra Leone,2269,72,1706
-Burkina Faso,,Burkina Faso,2154,59,1397
+Burkina Faso,,Burkina Faso,2167,59,1419
+Uruguay,,Uruguay,2145,48,1844
 Belize,,Belize,2131,29,1346
-Uruguay,,Uruguay,2122,48,1831
 안도라,安道尔,Andorra,2110,53,1540
 라트비아,约旦,Latvia,2086,38,1307
 Yemen,,Yemen,2041,591,1320
