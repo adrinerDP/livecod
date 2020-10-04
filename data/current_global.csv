@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7600846,214277,4818509
+미국,美国,United States,7601182,214280,4818768
 인도,印度,India,6553027,101841,5509966
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1215001,21358,979143
@@ -11,8 +11,8 @@ Argentina,,Argentina,790818,20795,626114
 남아프리카 공화국,南非共和国,South Africa,679716,16938,612763
 프랑스,法国,France,606625,32198,97778
 영국,英国,UK,480017,42317,0
+이란,伊朗,Iran,471772,26957,389966
 칠레,智利,Chile,468471,12919,440881
-이란,伊朗,Iran,468119,26746,387675
 이라크,伊拉克,Iraq,375931,9347,303665
 Bangladesh,,Bangladesh,368690,5348,281656
 사우디아라비아,沙特阿拉伯,Saudi Arabia,335997,4850,320974
@@ -42,8 +42,8 @@ Kazakhstan,,Kazakhstan,108177,1725,103205
 아랍에미리트,阿拉伯联合酋长国,UAE,98801,426,88123
 스웨덴,瑞典语,Sweden,94283,5895,0
 Guatemala,,Guatemala,93748,3285,82040
+네팔,尼泊尔,Nepal,86823,535,64069
 일본,日本,Japan,84768,1590,77807
-네팔,尼泊尔,Nepal,84570,528,62740
 체코,捷克,Czechia,80605,711,39073
 벨라루스,白俄罗斯,Belarus,79852,851,75148
 코스타리카,哥斯达黎加,Costa Rica,79182,950,45007
@@ -76,14 +76,14 @@ El Salvador,,El Salvador,29358,863,24175
 덴마크,丹麦,Denmark,29302,654,22297
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27975,871,21108
 호주,澳大利亚,Australia,27136,894,24866
+Tunisia,,Tunisia,22230,321,5032
 Bulgaria,,Bulgaria,21518,841,14984
-Tunisia,,Tunisia,20944,276,5032
 카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19849,120,19421
 그리스,希腊,Greece,19613,405,9989
 North Macedonia,,North Macedonia,18602,753,15264
 크로아티아,克罗地亚,Croatia,17659,298,15849
-Madagascar,,Madagascar,16529,232,15480
+Madagascar,,Madagascar,16558,232,15486
 Myanmar,,Myanmar,16503,371,4795
 세네갈,塞内加尔,Senegal,15068,312,12751
 Zambia,,Zambia,14974,333,14094
@@ -137,7 +137,7 @@ Somalia,,Somalia,3593,99,3001
 Gambia,,Gambia,3590,115,2226
 태국,泰国,Thailand,3585,59,3388
 스리랑카,斯里兰卡,Sri Lanka,3396,13,3258
-Malta,,Malta,3204,38,2711
+Malta,,Malta,3270,39,2758
 Botswana,,Botswana,3172,16,710
 Mali,,Mali,3170,131,2476
 Guyana,,Guyana,3005,85,1907
