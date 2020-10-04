@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 375931,
-        "deaths": 9347,
-        "recovered": 303665
+        "confirmed": 379141,
+        "deaths": 9399,
+        "recovered": 307482
     },
     {
         "Name": "Bangladesh",
@@ -131,9 +131,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 335997,
-        "deaths": 4850,
-        "recovered": 320974
+        "confirmed": 336387,
+        "deaths": 4875,
+        "recovered": 321485
     },
     {
         "Name": "터키",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 300028,
+        "confirmed": 300337,
         "deaths": 9597,
         "recovered": 261900
     },
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 41078,
-        "deaths": 329,
-        "recovered": 33442
+        "confirmed": 41498,
+        "deaths": 330,
+        "recovered": 34698
     },
     {
         "Name": "아제르바이잔",
@@ -771,9 +771,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10752,
+        "confirmed": 10760,
         "deaths": 274,
-        "recovered": 10212
+        "recovered": 10239
     },
     {
         "Name": "Guinea",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9895,
-        "deaths": 77,
-        "recovered": 8707
+        "confirmed": 9935,
+        "deaths": 78,
+        "recovered": 8749
     },
     {
         "Name": "Mozambique",
