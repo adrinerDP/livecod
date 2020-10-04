@@ -30,11 +30,11 @@ Bolivia,,Bolivia,136569,8073,97105
 루마니아,尼亚,Romania,134065,4947,107058
 네덜란드,荷兰,Netherlands,131889,6449,0
 모로코,摩洛哥,Morocco,131228,2293,108687
+벨기에,比利时,Belgium,127623,10044,19645
 카타르,卡塔尔,Qatar,126339,216,123302
-벨기에,比利时,Belgium,124234,10037,19521
 Panama,,Panama,114653,2414,91195
 도미니카 공화국,多明尼加共和国,Dominican Republic,113926,2128,89635
-Kazakhstan,,Kazakhstan,108106,1725,103110
+Kazakhstan,,Kazakhstan,108177,1725,103205
 쿠웨이트,科威特,Kuwait,106458,620,98435
 이집트,埃及,Egypt,103575,5970,97274
 오만,阿曼,Oman,98585,935,88528
@@ -50,7 +50,7 @@ Guatemala,,Guatemala,93748,3285,82040
 Honduras,,Honduras,78269,2386,28978
 포르투갈,葡萄牙,Portugal,78247,1995,49845
 Ethiopia,,Ethiopia,77860,1214,32325
-Venezuela,,Venezuela,76820,643,67216
+Venezuela,,Venezuela,77646,649,68098
 바레인,巴林,Bahrain,72310,258,66813
 나이지리아,尼日利亚,Nigeria,59287,1113,50718
 Uzbekistan,,Uzbekistan,58238,477,54854
@@ -75,7 +75,7 @@ Libya,,Libya,36087,578,20889
 El Salvador,,El Salvador,29358,857,24175
 덴마크,丹麦,Denmark,29302,654,22297
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,27975,871,21108
-호주,澳大利亚,Australia,27121,893,24850
+호주,澳大利亚,Australia,27135,894,24852
 Bulgaria,,Bulgaria,21518,841,14984
 Tunisia,,Tunisia,20944,276,5032
 카메룬,喀麦隆,Cameroon,20924,420,19764
@@ -146,7 +146,7 @@ South Sudan,,South Sudan,2715,50,1290
 Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
 Sierra Leone,,Sierra Leone,2259,72,1704
-Burkina Faso,,Burkina Faso,2123,59,1385
+Burkina Faso,,Burkina Faso,2154,59,1397
 Uruguay,,Uruguay,2122,48,1831
 안도라,安道尔,Andorra,2110,53,1540
 Belize,,Belize,2080,28,1290
@@ -167,7 +167,7 @@ Sao Tome and Principe,,Sao Tome and Principe,913,15,886
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,695,6,651
 Channel Islands,,Channel Islands,678,48,600
-Sint Maarten,,Sint Maarten,674,22,572
+Sint Maarten,,Sint Maarten,678,22,572
 Papua New Guinea,,Papua New Guinea,540,7,527
 대만,台湾,Taiwan,517,7,484
 Burundi,,Burundi,513,1,472

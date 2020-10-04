@@ -248,20 +248,20 @@
         "recovered": 108687
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 127623,
+        "deaths": 10044,
+        "recovered": 19645
+    },
+    {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
         "confirmed": 126339,
         "deaths": 216,
         "recovered": 123302
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 124234,
-        "deaths": 10037,
-        "recovered": 19521
     },
     {
         "Name": "Panama",
@@ -283,9 +283,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108106,
+        "confirmed": 108177,
         "deaths": 1725,
-        "recovered": 103110
+        "recovered": 103205
     },
     {
         "Name": "쿠웨이트",
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 76820,
-        "deaths": 643,
-        "recovered": 67216
+        "confirmed": 77646,
+        "deaths": 649,
+        "recovered": 68098
     },
     {
         "Name": "바레인",
@@ -611,9 +611,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27121,
-        "deaths": 893,
-        "recovered": 24850
+        "confirmed": 27135,
+        "deaths": 894,
+        "recovered": 24852
     },
     {
         "Name": "Bulgaria",
@@ -1179,9 +1179,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 2123,
+        "confirmed": 2154,
         "deaths": 59,
-        "recovered": 1385
+        "recovered": 1397
     },
     {
         "Name": "Uruguay",
@@ -1347,7 +1347,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 674,
+        "confirmed": 678,
         "deaths": 22,
         "recovered": 572
     },
