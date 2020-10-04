@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7602249,
-        "deaths": 214283,
-        "recovered": 4818768
+        "confirmed": 7603490,
+        "deaths": 214289,
+        "recovered": 4819206
     },
     {
         "Name": "인도",
@@ -107,9 +107,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 468471,
-        "deaths": 12919,
-        "recovered": 440881
+        "confirmed": 470179,
+        "deaths": 12979,
+        "recovered": 442070
     },
     {
         "Name": "이라크",
@@ -451,9 +451,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 55888,
-        "deaths": 1353,
-        "recovered": 40475
+        "confirmed": 56579,
+        "deaths": 1366,
+        "recovered": 40955
     },
     {
         "Name": "스위스",
