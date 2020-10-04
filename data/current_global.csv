@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,824985,32665,700868
 스페인,西班牙,Spain,810807,32086,0
 Argentina,,Argentina,790818,20795,626114
-멕시코,墨西哥,Mexico,753090,78492,541518
+멕시코,墨西哥,Mexico,757953,78880,545530
 남아프리카 공화국,南非共和国,South Africa,679716,16938,612763
 프랑스,法国,France,606625,32198,97778
 영국,英国,UK,480017,42317,0
@@ -26,7 +26,7 @@ Bangladesh,,Bangladesh,367565,5325,280069
 Ukraine,,Ukraine,222322,4353,98737
 캐나다,加拿大,Canada,164471,9462,138867
 에콰도르,厄瓜多尔,Ecuador,140351,11597,112296
-Bolivia,,Bolivia,136219,8045,96654
+Bolivia,,Bolivia,136569,8073,97105
 루마니아,尼亚,Romania,134065,4947,107058
 네덜란드,荷兰,Netherlands,131889,6449,0
 모로코,摩洛哥,Morocco,131228,2293,108687
@@ -153,7 +153,7 @@ Belize,,Belize,2080,28,1290
 Yemen,,Yemen,2041,589,1320
 라트비아,约旦,Latvia,2019,38,1307
 French Polynesia,,French Polynesia,1964,8,1555
-New Zealand,,New Zealand,1849,25,1783
+New Zealand,,New Zealand,1854,25,1788
 토고,多哥,Togo,1840,48,1375
 Cyprus,,Cyprus,1811,22,1369
 Lesotho,,Lesotho,1680,39,926
@@ -176,7 +176,7 @@ Comoros,,Comoros,487,7,466
 Faeroe Islands,,Faeroe Islands,473,0,432
 Curaçao,,Curaçao,429,1,213
 지브롤터,直布罗陀,Gibraltar,428,0,358
-Saint Martin,,Saint Martin,403,8,309
+Saint Martin,,Saint Martin,412,8,309
 Eritrea,,Eritrea,398,0,358
 Mauritius,,Mauritius,385,10,357
 Isle of Man,,Isle of Man,342,24,315
@@ -194,7 +194,7 @@ Caribbean Netherlands,,Caribbean Netherlands,124,1,46
 Antigua and Barbuda,,Antigua and Barbuda,107,3,96
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
-St. Barth,,St. Barth,54,0,37
+St. Barth,,St. Barth,62,0,37
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,28
 Dominica,,Dominica,31,0,24
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85434,4634,80611
+중국,中国,China,85450,4634,80621
