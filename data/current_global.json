@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7630228,
-        "deaths": 214542,
-        "recovered": 4841545
+        "confirmed": 7631461,
+        "deaths": 214571,
+        "recovered": 4842378
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 4915289,
         "deaths": 146352,
-        "recovered": 4248574
+        "recovered": 4263208
     },
     {
         "Name": "러시아",
@@ -203,17 +203,17 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 166116,
-        "deaths": 9480,
-        "recovered": 140230
+        "confirmed": 166155,
+        "deaths": 9481,
+        "recovered": 140243
     },
     {
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 140351,
-        "deaths": 11597,
-        "recovered": 112296
+        "confirmed": 141034,
+        "deaths": 11647,
+        "recovered": 120511
     },
     {
         "Name": "Bolivia",
@@ -299,9 +299,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 103575,
-        "deaths": 5970,
-        "recovered": 97274
+        "confirmed": 103683,
+        "deaths": 5981,
+        "recovered": 97355
     },
     {
         "Name": "오만",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 72310,
-        "deaths": 259,
-        "recovered": 66813
+        "confirmed": 72662,
+        "deaths": 260,
+        "recovered": 67475
     },
     {
         "Name": "나이지리아",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 913,
         "deaths": 15,
-        "recovered": 886
+        "recovered": 887
     },
     {
         "Name": "산마리노",

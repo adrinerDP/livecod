@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7630228,214542,4841545
+미국,美国,United States,7631461,214571,4842378
 인도,印度,India,6622135,102714,5583405
-브라질,巴西,Brazil,4915289,146352,4248574
+브라질,巴西,Brazil,4915289,146352,4263208
 러시아,俄罗斯,Russia,1215001,21358,979143
 콜롬비아,哥伦比亚,Colombia,848147,26556,757801
 페루,秘鲁,Peru,824985,32665,700868
@@ -24,8 +24,8 @@ Bangladesh,,Bangladesh,368690,5348,281656
 독일,德国,Germany,301543,9602,261900
 이스라엘,以色列,Israel,266775,1719,195629
 Ukraine,,Ukraine,226462,4397,100107
-캐나다,加拿大,Canada,166116,9480,140230
-에콰도르,厄瓜多尔,Ecuador,140351,11597,112296
+캐나다,加拿大,Canada,166155,9481,140243
+에콰도르,厄瓜多尔,Ecuador,141034,11647,120511
 Bolivia,,Bolivia,136569,8073,97105
 루마니아,尼亚,Romania,135900,5003,108135
 네덜란드,荷兰,Netherlands,135892,6454,0
@@ -36,7 +36,7 @@ Panama,,Panama,114653,2414,91195
 도미니카 공화국,多明尼加共和国,Dominican Republic,114480,2134,90366
 Kazakhstan,,Kazakhstan,108177,1725,103205
 쿠웨이트,科威特,Kuwait,107025,624,99040
-이집트,埃及,Egypt,103575,5970,97274
+이집트,埃及,Egypt,103683,5981,97355
 오만,阿曼,Oman,101270,977,90296
 폴란드,波兰,Poland,100074,2630,73003
 아랍에미리트,阿拉伯联合酋长国,UAE,98801,426,88123
@@ -51,7 +51,7 @@ Guatemala,,Guatemala,93963,3293,82454
 Ethiopia,,Ethiopia,78819,1222,33060
 Honduras,,Honduras,78788,2399,29187
 Venezuela,,Venezuela,77646,649,68098
-바레인,巴林,Bahrain,72310,259,66813
+바레인,巴林,Bahrain,72662,260,67475
 나이지리아,尼日利亚,Nigeria,59287,1113,50718
 Uzbekistan,,Uzbekistan,58612,480,55281
 싱가포르,新加坡,Singapore,57812,27,57575
@@ -162,7 +162,7 @@ Liberia,,Liberia,1348,82,1236
 Chad,,Chad,1217,86,1075
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1096,35,1020
-Sao Tome and Principe,,Sao Tome and Principe,913,15,886
+Sao Tome and Principe,,Sao Tome and Principe,913,15,887
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,695,6,651
