@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7601182,
-        "deaths": 214280,
+        "confirmed": 7602249,
+        "deaths": 214283,
         "recovered": 4818768
     },
     {
@@ -384,20 +384,20 @@
         "recovered": 45007
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 79151,
+        "deaths": 2005,
+        "recovered": 50207
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 78788,
         "deaths": 2399,
         "recovered": 29187
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 78247,
-        "deaths": 1995,
-        "recovered": 49845
     },
     {
         "Name": "Ethiopia",
@@ -445,7 +445,7 @@
         "Name_en": "Singapore",
         "confirmed": 57812,
         "deaths": 27,
-        "recovered": 57562
+        "recovered": 57575
     },
     {
         "Name": "Moldova",
@@ -664,6 +664,14 @@
         "recovered": 15341
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 17794,
+        "deaths": 412,
+        "recovered": 5195
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
@@ -678,14 +686,6 @@
         "confirmed": 16558,
         "deaths": 232,
         "recovered": 15486
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 16503,
-        "deaths": 371,
-        "recovered": 4795
     },
     {
         "Name": "세네갈",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14362,
+        "confirmed": 14421,
         "deaths": 275,
         "recovered": 11190
     },
@@ -832,6 +832,14 @@
         "recovered": 6949
     },
     {
+        "Name": "Uganda",
+        "Name_ch": "",
+        "Name_en": "Uganda",
+        "confirmed": 8808,
+        "deaths": 81,
+        "recovered": 4736
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
@@ -846,14 +854,6 @@
         "confirmed": 8797,
         "deaths": 54,
         "recovered": 8067
-    },
-    {
-        "Name": "Uganda",
-        "Name_ch": "",
-        "Name_en": "Uganda",
-        "confirmed": 8662,
-        "deaths": 79,
-        "recovered": 4546
     },
     {
         "Name": "조지아",
@@ -1139,9 +1139,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 2872,
+        "confirmed": 2921,
         "deaths": 10,
-        "recovered": 2212
+        "recovered": 2277
     },
     {
         "Name": "South Sudan",
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 473,
+        "confirmed": 474,
         "deaths": 0,
-        "recovered": 432
+        "recovered": 435
     },
     {
         "Name": "지브롤터",
