@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7631690,
-        "deaths": 214571,
-        "recovered": 4842440
+        "confirmed": 7633469,
+        "deaths": 214593,
+        "recovered": 4843803
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6622135,
+        "confirmed": 6622180,
         "deaths": 102714,
-        "recovered": 5583405
+        "recovered": 5583453
     },
     {
         "Name": "브라질",
@@ -43,9 +43,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 824985,
-        "deaths": 32665,
-        "recovered": 700868
+        "confirmed": 828169,
+        "deaths": 32742,
+        "recovered": 706223
     },
     {
         "Name": "스페인",
@@ -267,9 +267,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 114653,
-        "deaths": 2414,
-        "recovered": 91195
+        "confirmed": 115286,
+        "deaths": 2423,
+        "recovered": 91809
     },
     {
         "Name": "도미니카 공화국",
@@ -875,9 +875,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7517,
+        "confirmed": 7520,
         "deaths": 162,
-        "recovered": 7174
+        "recovered": 7188
     },
     {
         "Name": "Jamaica",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6296,
-        "deaths": 62,
-        "recovered": 5409
+        "confirmed": 6360,
+        "deaths": 65,
+        "recovered": 5416
     },
     {
         "Name": "Cuba",
