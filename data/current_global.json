@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7624081,
-        "deaths": 214478,
-        "recovered": 4839173
+        "confirmed": 7625780,
+        "deaths": 214484,
+        "recovered": 4839756
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 265932,
-        "deaths": 1707,
-        "recovered": 194976
+        "confirmed": 266775,
+        "deaths": 1719,
+        "recovered": 195629
     },
     {
         "Name": "Ukraine",
@@ -947,9 +947,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 5370,
-        "deaths": 193,
-        "recovered": 2436
+        "confirmed": 5402,
+        "deaths": 195,
+        "recovered": 2577
     },
     {
         "Name": "Lithuania",
@@ -1400,20 +1400,20 @@
         "recovered": 435
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 452,
+        "deaths": 1,
+        "recovered": 231
+    },
+    {
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
         "confirmed": 432,
         "deaths": 0,
         "recovered": 360
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 429,
-        "deaths": 1,
-        "recovered": 213
     },
     {
         "Name": "Saint Martin",
@@ -1477,7 +1477,7 @@
         "Name_en": "Monaco",
         "confirmed": 222,
         "deaths": 2,
-        "recovered": 188
+        "recovered": 189
     },
     {
         "Name": "Cayman Islands",
