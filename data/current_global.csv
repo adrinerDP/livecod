@@ -1,16 +1,16 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7631461,214571,4842378
+미국,美国,United States,7631690,214571,4842440
 인도,印度,India,6622135,102714,5583405
 브라질,巴西,Brazil,4915289,146352,4263208
 러시아,俄罗斯,Russia,1215001,21358,979143
-콜롬비아,哥伦比亚,Colombia,848147,26556,757801
+콜롬비아,哥伦比亚,Colombia,855052,26712,761674
 페루,秘鲁,Peru,824985,32665,700868
 스페인,西班牙,Spain,810807,32086,0
 Argentina,,Argentina,790818,20795,626114
 멕시코,墨西哥,Mexico,757953,78880,545530
 남아프리카 공화국,南非共和国,South Africa,681289,16976,614781
 프랑스,法国,France,619190,32230,97778
-영국,英国,UK,480017,42317,0
+영국,英国,UK,502978,42350,0
 이란,伊朗,Iran,471772,26957,389966
 칠레,智利,Chile,470179,12979,442070
 이라크,伊拉克,Iraq,379141,9399,307482
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,78819,1222,33060
 Honduras,,Honduras,78788,2399,29187
 Venezuela,,Venezuela,77646,649,68098
 바레인,巴林,Bahrain,72662,260,67475
-나이지리아,尼日利亚,Nigeria,59287,1113,50718
+나이지리아,尼日利亚,Nigeria,59345,1113,50768
 Uzbekistan,,Uzbekistan,58612,480,55281
 싱가포르,新加坡,Singapore,57812,27,57575
 Moldova,,Moldova,56579,1366,40955
@@ -77,7 +77,7 @@ El Salvador,,El Salvador,29450,863,24296
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28354,879,21859
 호주,澳大利亚,Australia,27136,894,24866
 Tunisia,,Tunisia,22230,321,5032
-Bulgaria,,Bulgaria,21518,841,14984
+Bulgaria,,Bulgaria,21587,844,15014
 카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19882,120,19449
 그리스,希腊,Greece,19842,409,9989
@@ -88,7 +88,7 @@ Madagascar,,Madagascar,16558,232,15486
 요르단,约旦,Jordan,15640,101,5240
 세네갈,塞内加尔,Senegal,15094,312,12805
 Zambia,,Zambia,15052,333,14187
-노르웨이,挪威,Norway,14421,275,11190
+노르웨이,挪威,Norway,14457,275,11190
 Albania,,Albania,14266,396,8675
 Sudan,,Sudan,13653,836,6764
 슬로바키아,斯洛伐克,Slovakia,13139,55,4828
