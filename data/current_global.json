@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7614589,
-        "deaths": 214397,
-        "recovered": 4831897
+        "confirmed": 7617110,
+        "deaths": 214424,
+        "recovered": 4832989
     },
     {
         "Name": "인도",
@@ -643,9 +643,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19849,
+        "confirmed": 19882,
         "deaths": 120,
-        "recovered": 19421
+        "recovered": 19449
     },
     {
         "Name": "그리스",
@@ -915,9 +915,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5783,
+        "confirmed": 5786,
         "deaths": 179,
-        "recovered": 4539
+        "recovered": 4541
     },
     {
         "Name": "Eswatini",
@@ -1064,20 +1064,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "confirmed": 3745,
+        "deaths": 99,
+        "recovered": 3010
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "confirmed": 3607,
         "deaths": 67,
         "recovered": 2749
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "confirmed": 3593,
-        "deaths": 99,
-        "recovered": 3001
     },
     {
         "Name": "Gambia",
@@ -1220,7 +1220,7 @@
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 2041,
-        "deaths": 589,
+        "deaths": 591,
         "recovered": 1320
     },
     {
@@ -1283,8 +1283,8 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1214,
-        "deaths": 85,
+        "confirmed": 1217,
+        "deaths": 86,
         "recovered": 1075
     },
     {
