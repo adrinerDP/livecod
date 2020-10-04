@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7600133,
-        "deaths": 214269,
-        "recovered": 4814461
+        "confirmed": 7600353,
+        "deaths": 214271,
+        "recovered": 4814551
     },
     {
         "Name": "인도",
@@ -20,7 +20,7 @@
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 4906833,
-        "deaths": 145987,
+        "deaths": 146011,
         "recovered": 4248574
     },
     {
@@ -360,20 +360,20 @@
         "recovered": 62740
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 80605,
+        "deaths": 711,
+        "recovered": 39073
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
         "confirmed": 79852,
         "deaths": 851,
         "recovered": 75148
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 79475,
-        "deaths": 709,
-        "recovered": 35291
     },
     {
         "Name": "코스타리카",
@@ -995,9 +995,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4899,
-        "deaths": 105,
-        "recovered": 4715
+        "confirmed": 4924,
+        "deaths": 106,
+        "recovered": 4723
     },
     {
         "Name": "Rwanda",
@@ -1291,7 +1291,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1198,
+        "confirmed": 1200,
         "deaths": 69,
         "recovered": 1115
     },
@@ -1307,7 +1307,7 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 911,
+        "confirmed": 913,
         "deaths": 15,
         "recovered": 886
     },

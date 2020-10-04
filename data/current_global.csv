@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7600133,214269,4814461
+미국,美国,United States,7600353,214271,4814551
 인도,印度,India,6547413,101812,5506732
-브라질,巴西,Brazil,4906833,145987,4248574
+브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1204502,21251,975859
 콜롬비아,哥伦比亚,Colombia,848147,26556,757801
 페루,秘鲁,Peru,824985,32665,700868
@@ -44,8 +44,8 @@ Kazakhstan,,Kazakhstan,108106,1725,103110
 Guatemala,,Guatemala,93748,3285,82040
 일본,日本,Japan,84768,1590,77807
 네팔,尼泊尔,Nepal,84570,528,62740
+체코,捷克,Czechia,80605,711,39073
 벨라루스,白俄罗斯,Belarus,79852,851,75148
-체코,捷克,Czechia,79475,709,35291
 코스타리카,哥斯达黎加,Costa Rica,79182,950,45007
 Honduras,,Honduras,78269,2386,28978
 포르투갈,葡萄牙,Portugal,78247,1995,49845
@@ -123,7 +123,7 @@ Nicaragua,,Nicaragua,5170,151,2913
 Congo,,Congo,5089,89,3887
 Lithuania,,Lithuania,5081,94,2494
 Equatorial Guinea,,Equatorial Guinea,5045,83,4879
-Suriname,,Suriname,4899,105,4715
+Suriname,,Suriname,4924,106,4723
 Rwanda,,Rwanda,4852,29,3211
 CAR,,CAR,4845,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4709,78,2802
@@ -160,9 +160,9 @@ Lesotho,,Lesotho,1680,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1347,82,1221
 Chad,,Chad,1214,85,1075
-Niger,,Niger,1198,69,1115
+Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1096,35,1020
-Sao Tome and Principe,,Sao Tome and Principe,911,15,886
+Sao Tome and Principe,,Sao Tome and Principe,913,15,886
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,695,6,651
