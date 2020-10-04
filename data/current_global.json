@@ -227,9 +227,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 134065,
-        "deaths": 4947,
-        "recovered": 107058
+        "confirmed": 135900,
+        "deaths": 5003,
+        "recovered": 108135
     },
     {
         "Name": "네덜란드",
@@ -323,9 +323,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 97760,
+        "confirmed": 98801,
         "deaths": 426,
-        "recovered": 87122
+        "recovered": 88123
     },
     {
         "Name": "스웨덴",
@@ -539,9 +539,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39297,
+        "confirmed": 39341,
         "deaths": 1462,
-        "recovered": 32842
+        "recovered": 32852
     },
     {
         "Name": "Kenya",
@@ -747,9 +747,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 12088,
+        "confirmed": 12381,
         "deaths": 137,
-        "recovered": 10216
+        "recovered": 10283
     },
     {
         "Name": "Montenegro",
@@ -1027,7 +1027,7 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 4332,
+        "confirmed": 4409,
         "deaths": 96,
         "recovered": 2375
     },
@@ -1400,20 +1400,20 @@
         "recovered": 432
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 432,
+        "deaths": 0,
+        "recovered": 360
+    },
+    {
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
         "confirmed": 429,
         "deaths": 1,
         "recovered": 213
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 428,
-        "deaths": 0,
-        "recovered": 358
     },
     {
         "Name": "Saint Martin",
