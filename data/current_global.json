@@ -235,8 +235,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 131889,
-        "deaths": 6449,
+        "confirmed": 135892,
+        "deaths": 6454,
         "recovered": 0
     },
     {
@@ -259,9 +259,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 126339,
+        "confirmed": 126498,
         "deaths": 216,
-        "recovered": 123302
+        "recovered": 123475
     },
     {
         "Name": "Panama",
@@ -584,20 +584,20 @@
         "recovered": 7470
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 29680,
+        "deaths": 658,
+        "recovered": 22716
+    },
+    {
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 29358,
         "deaths": 863,
         "recovered": 24175
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 29302,
-        "deaths": 654,
-        "recovered": 22297
     },
     {
         "Name": "보스니아 헤르체고비나",
