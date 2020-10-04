@@ -387,9 +387,9 @@
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
-        "confirmed": 78269,
-        "deaths": 2386,
-        "recovered": 28978
+        "confirmed": 78788,
+        "deaths": 2399,
+        "recovered": 29187
     },
     {
         "Name": "포르투갈",
@@ -1083,9 +1083,9 @@
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
-        "confirmed": 3583,
+        "confirmed": 3585,
         "deaths": 59,
-        "recovered": 3386
+        "recovered": 3388
     },
     {
         "Name": "에스토니아",
@@ -1461,7 +1461,7 @@
         "Name_en": "Bhutan",
         "confirmed": 283,
         "deaths": 0,
-        "recovered": 229
+        "recovered": 230
     },
     {
         "Name": "캄보디아",
