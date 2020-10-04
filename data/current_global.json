@@ -1184,6 +1184,14 @@
         "recovered": 1397
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 2131,
+        "deaths": 29,
+        "recovered": 1346
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
@@ -1198,14 +1206,6 @@
         "confirmed": 2110,
         "deaths": 53,
         "recovered": 1540
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 2080,
-        "deaths": 28,
-        "recovered": 1290
     },
     {
         "Name": "Yemen",
