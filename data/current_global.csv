@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7614184,214394,4831029
+미국,美国,United States,7614589,214397,4831897
 인도,印度,India,6573678,101997,5527934
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1215001,21358,979143
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,368690,5348,281656
 파키스탄,巴基斯坦,Pakistan,314616,6513,298968
 인도네시아,印度尼西亚,Indonesia,303498,11151,228453
 독일,德国,Germany,300850,9599,261900
-이스라엘,以色列,Israel,265086,1692,193027
+이스라엘,以色列,Israel,265932,1707,194976
 Ukraine,,Ukraine,226462,4397,100107
 캐나다,加拿大,Canada,166116,9480,140230
 에콰도르,厄瓜多尔,Ecuador,140351,11597,112296
@@ -68,7 +68,7 @@ Paraguay,,Paraguay,43452,913,26512
 아제르바이잔,阿塞拜疆,Azerbaijan,40691,596,38496
 Kenya,,Kenya,39427,731,25659
 아프가니스탄,阿富汗,Afghanistan,39341,1462,32852
-아일랜드,冰岛,Ireland,37668,1810,23364
+아일랜드,冰岛,Ireland,38032,1810,23364
 Libya,,Libya,36809,592,21429
 세르비아,塞尔维亚,Serbia,33901,754,31536
 헝가리,匈牙利,Hungary,30575,822,7470
@@ -98,7 +98,7 @@ Namibia,,Namibia,11626,123,9429
 DRC,,DRC,10760,274,10239
 Guinea,,Guinea,10754,66,10098
 핀란드,芬兰,Finland,10538,345,8100
-Maldives,,Maldives,10465,34,9310
+Maldives,,Maldives,10530,34,9364
 French Guiana,,French Guiana,10029,67,9665
 Tajikistan,,Tajikistan,9935,78,8749
 Mozambique,,Mozambique,9196,66,5852
@@ -114,9 +114,9 @@ Jamaica,,Jamaica,6895,120,2460
 Cabo Verde,,Cabo Verde,6296,62,5409
 Cuba,,Cuba,5809,122,5145
 Malawi,,Malawi,5783,179,4539
-Eswatini,,Eswatini,5530,111,5076
+Eswatini,,Eswatini,5569,111,5127
 Guadeloupe,,Guadeloupe,5528,57,2199
-Djibouti,,Djibouti,5418,61,5347
+Djibouti,,Djibouti,5419,61,5349
 Angola,,Angola,5370,193,2436
 Lithuania,,Lithuania,5185,94,2495
 Nicaragua,,Nicaragua,5170,151,2913
@@ -145,7 +145,7 @@ Iceland,,Iceland,2921,10,2277
 South Sudan,,South Sudan,2715,50,1290
 Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
-Sierra Leone,,Sierra Leone,2259,72,1704
+Sierra Leone,,Sierra Leone,2269,72,1706
 Burkina Faso,,Burkina Faso,2154,59,1397
 Belize,,Belize,2131,29,1346
 Uruguay,,Uruguay,2122,48,1831
@@ -158,7 +158,7 @@ New Zealand,,New Zealand,1854,25,1788
 Cyprus,,Cyprus,1824,22,1369
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
-Liberia,,Liberia,1347,82,1221
+Liberia,,Liberia,1348,82,1236
 Chad,,Chad,1214,85,1075
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1096,35,1020
