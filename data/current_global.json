@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6549373,
-        "deaths": 101812,
+        "confirmed": 6553027,
+        "deaths": 101841,
         "recovered": 5509966
     },
     {
@@ -155,9 +155,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 319330,
-        "deaths": 5678,
-        "recovered": 255046
+        "confirmed": 322497,
+        "deaths": 5776,
+        "recovered": 273079
     },
     {
         "Name": "파키스탄",
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 72310,
-        "deaths": 258,
+        "deaths": 259,
         "recovered": 66813
     },
     {
@@ -667,9 +667,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 17401,
-        "deaths": 293,
-        "recovered": 15661
+        "confirmed": 17659,
+        "deaths": 298,
+        "recovered": 15849
     },
     {
         "Name": "Madagascar",
