@@ -611,9 +611,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27135,
+        "confirmed": 27136,
         "deaths": 894,
-        "recovered": 24852
+        "recovered": 24866
     },
     {
         "Name": "Bulgaria",
@@ -856,20 +856,20 @@
         "recovered": 4546
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 8118,
+        "deaths": 50,
+        "recovered": 4244
+    },
+    {
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
         "confirmed": 7885,
         "deaths": 228,
         "recovered": 6327
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 7564,
-        "deaths": 48,
-        "recovered": 3992
     },
     {
         "Name": "Mauritania",
@@ -1208,20 +1208,20 @@
         "recovered": 1540
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2086,
+        "deaths": 38,
+        "recovered": 1307
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 2041,
         "deaths": 589,
         "recovered": 1320
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2019,
-        "deaths": 38,
-        "recovered": 1307
     },
     {
         "Name": "French Polynesia",
