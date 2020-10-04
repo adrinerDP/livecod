@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7612794,
-        "deaths": 214361,
-        "recovered": 4830563
+        "confirmed": 7614184,
+        "deaths": 214394,
+        "recovered": 4831029
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 165037,
-        "deaths": 9468,
-        "recovered": 139401
+        "confirmed": 166116,
+        "deaths": 9480,
+        "recovered": 140230
     },
     {
         "Name": "에콰도르",
@@ -507,9 +507,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 43494,
-        "deaths": 398,
-        "recovered": 19259
+        "confirmed": 44482,
+        "deaths": 406,
+        "recovered": 19782
     },
     {
         "Name": "Paraguay",
@@ -763,9 +763,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 11572,
+        "confirmed": 11626,
         "deaths": 123,
-        "recovered": 9419
+        "recovered": 9429
     },
     {
         "Name": "DRC",
@@ -819,9 +819,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 9049,
-        "deaths": 64,
-        "recovered": 5736
+        "confirmed": 9196,
+        "deaths": 66,
+        "recovered": 5852
     },
     {
         "Name": "룩셈부르크",
@@ -1112,20 +1112,20 @@
         "recovered": 2758
     },
     {
+        "Name": "Mali",
+        "Name_ch": "",
+        "Name_en": "Mali",
+        "confirmed": 3184,
+        "deaths": 131,
+        "recovered": 2479
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 3172,
         "deaths": 16,
         "recovered": 710
-    },
-    {
-        "Name": "Mali",
-        "Name_ch": "",
-        "Name_en": "Mali",
-        "confirmed": 3170,
-        "deaths": 131,
-        "recovered": 2476
     },
     {
         "Name": "Guyana",
