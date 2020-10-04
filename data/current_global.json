@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7619459,
-        "deaths": 214426,
-        "recovered": 4834347
+        "confirmed": 7624081,
+        "deaths": 214478,
+        "recovered": 4839173
     },
     {
         "Name": "인도",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 58421,
-        "deaths": 479,
-        "recovered": 54854
+        "confirmed": 58612,
+        "deaths": 480,
+        "recovered": 55281
     },
     {
         "Name": "싱가포르",
@@ -707,9 +707,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 14974,
+        "confirmed": 15052,
         "deaths": 333,
-        "recovered": 14094
+        "recovered": 14187
     },
     {
         "Name": "노르웨이",
@@ -867,9 +867,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7885,
+        "confirmed": 7888,
         "deaths": 228,
-        "recovered": 6327
+        "recovered": 6359
     },
     {
         "Name": "Mauritania",
@@ -1003,9 +1003,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4852,
+        "confirmed": 4866,
         "deaths": 29,
-        "recovered": 3211
+        "recovered": 3216
     },
     {
         "Name": "CAR",

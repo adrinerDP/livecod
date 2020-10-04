@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7619459,214426,4834347
+미국,美国,United States,7624081,214478,4839173
 인도,印度,India,6622135,102714,5583405
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1215001,21358,979143
@@ -53,7 +53,7 @@ Honduras,,Honduras,78788,2399,29187
 Venezuela,,Venezuela,77646,649,68098
 바레인,巴林,Bahrain,72310,259,66813
 나이지리아,尼日利亚,Nigeria,59287,1113,50718
-Uzbekistan,,Uzbekistan,58421,479,54854
+Uzbekistan,,Uzbekistan,58612,480,55281
 싱가포르,新加坡,Singapore,57812,27,57575
 Moldova,,Moldova,56579,1366,40955
 스위스,瑞士,Switzerland,54384,2077,45800
@@ -87,7 +87,7 @@ Myanmar,,Myanmar,17794,412,5195
 Madagascar,,Madagascar,16558,232,15486
 요르단,约旦,Jordan,15640,101,5240
 세네갈,塞内加尔,Senegal,15094,312,12805
-Zambia,,Zambia,14974,333,14094
+Zambia,,Zambia,15052,333,14187
 노르웨이,挪威,Norway,14421,275,11190
 Albania,,Albania,14266,396,8675
 Sudan,,Sudan,13653,836,6764
@@ -107,7 +107,7 @@ Haiti,,Haiti,8819,229,6992
 Uganda,,Uganda,8808,81,4736
 Gabon,,Gabon,8797,54,8067
 조지아,格鲁吉亚,Georgia,8118,50,4244
-Zimbabwe,,Zimbabwe,7885,228,6327
+Zimbabwe,,Zimbabwe,7888,228,6359
 Mauritania,,Mauritania,7517,162,7174
 Jamaica,,Jamaica,6895,120,2460
 슬로베니아,斯洛文尼亚,Slovenia,6498,155,4265
@@ -124,7 +124,7 @@ Nicaragua,,Nicaragua,5170,151,2913
 Congo,,Congo,5089,89,3887
 Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4924,106,4723
-Rwanda,,Rwanda,4852,29,3211
+Rwanda,,Rwanda,4866,29,3216
 CAR,,CAR,4845,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4741,81,2843
 Bahamas,,Bahamas,4409,96,2375
