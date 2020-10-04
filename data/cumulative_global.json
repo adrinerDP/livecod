@@ -1519,20 +1519,20 @@
     },
     {
         "date": "10/1",
-        "confirmed": 34287239.0,
-        "deaths": 1022858.0,
+        "confirmed": 34287271.0,
+        "deaths": 1022859.0,
         "recovered": 23857656.0
     },
     {
         "date": "10/2",
-        "confirmed": 34582601.0,
-        "deaths": 1027825.0,
+        "confirmed": 34582698.0,
+        "deaths": 1027827.0,
         "recovered": 24029499.0
     },
     {
         "date": "10/3",
-        "confirmed": 34902500.0,
-        "deaths": 1033175.0,
+        "confirmed": 34902647.0,
+        "deaths": 1033177.0,
         "recovered": 24287629.0
     }
 ]
