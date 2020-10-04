@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 264443,
+        "confirmed": 264857,
         "deaths": 1682,
-        "recovered": 191251
+        "recovered": 193002
     },
     {
         "Name": "Ukraine",
@@ -464,20 +464,20 @@
         "recovered": 45800
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 52496,
+        "deaths": 977,
+        "recovered": 44672
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 51995,
         "deaths": 1756,
         "recovered": 36482
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 51925,
-        "deaths": 972,
-        "recovered": 44583
     },
     {
         "Name": "오스트리아",
