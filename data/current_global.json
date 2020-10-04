@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 367565,
-        "deaths": 5325,
-        "recovered": 280069
+        "confirmed": 368690,
+        "deaths": 5348,
+        "recovered": 281656
     },
     {
         "Name": "사우디아라비아",
@@ -168,20 +168,20 @@
         "recovered": 298968
     },
     {
+        "Name": "인도네시아",
+        "Name_ch": "印度尼西亚",
+        "Name_en": "Indonesia",
+        "confirmed": 303498,
+        "deaths": 11151,
+        "recovered": 228453
+    },
+    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
         "confirmed": 300028,
         "deaths": 9597,
         "recovered": 260800
-    },
-    {
-        "Name": "인도네시아",
-        "Name_ch": "印度尼西亚",
-        "Name_en": "Indonesia",
-        "confirmed": 299506,
-        "deaths": 11055,
-        "recovered": 225052
     },
     {
         "Name": "이스라엘",
@@ -304,20 +304,20 @@
         "recovered": 97274
     },
     {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "confirmed": 101270,
+        "deaths": 977,
+        "recovered": 90296
+    },
+    {
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
         "confirmed": 100074,
         "deaths": 2630,
         "recovered": 73003
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "confirmed": 98585,
-        "deaths": 935,
-        "recovered": 88528
     },
     {
         "Name": "아랍에미리트",
@@ -460,7 +460,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 54384,
-        "deaths": 2076,
+        "deaths": 2077,
         "recovered": 45800
     },
     {
@@ -891,9 +891,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 6330,
+        "confirmed": 6498,
         "deaths": 155,
-        "recovered": 4041
+        "recovered": 4265
     },
     {
         "Name": "Cabo Verde",
@@ -971,9 +971,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5109,
+        "confirmed": 5114,
         "deaths": 105,
-        "recovered": 4849
+        "recovered": 4861
     },
     {
         "Name": "Congo",
@@ -1099,9 +1099,9 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3395,
+        "confirmed": 3396,
         "deaths": 13,
-        "recovered": 3254
+        "recovered": 3258
     },
     {
         "Name": "Malta",
