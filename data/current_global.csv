@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7600353,214271,4814551
+미국,美国,United States,7600846,214277,4818509
 인도,印度,India,6547413,101812,5506732
 브라질,巴西,Brazil,4906833,146011,4248574
 러시아,俄罗斯,Russia,1204502,21251,975859
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,367565,5325,280069
 이탈리아,义大利,Italy,322751,35968,231217
 필리핀,菲律宾,Philippines,319330,5678,255046
 파키스탄,巴基斯坦,Pakistan,313984,6507,298593
-독일,德国,Germany,300028,9597,259500
+독일,德国,Germany,300028,9597,260800
 인도네시아,印度尼西亚,Indonesia,299506,11055,225052
 이스라엘,以色列,Israel,264443,1682,191251
 Ukraine,,Ukraine,222322,4353,98737
@@ -63,7 +63,7 @@ Moldova,,Moldova,55888,1353,40475
 Kyrgyzstan,,Kyrgyzstan,47184,1066,43278
 Ghana,,Ghana,46803,303,46006
 레바논,黎巴嫩,Lebanon,43494,398,19259
-Paraguay,,Paraguay,42684,890,25803
+Paraguay,,Paraguay,43452,913,26512
 팔레스타인,巴勒斯坦,Palestine,41078,329,33442
 아제르바이잔,阿塞拜疆,Azerbaijan,40561,595,38354
 아프가니스탄,阿富汗,Afghanistan,39297,1462,32842
@@ -106,7 +106,7 @@ Haiti,,Haiti,8811,229,6949
 룩셈부르크,卢森堡,Luxembourg,8797,125,7428
 Gabon,,Gabon,8797,54,8067
 Uganda,,Uganda,8662,79,4546
-Zimbabwe,,Zimbabwe,7858,228,6322
+Zimbabwe,,Zimbabwe,7885,228,6327
 조지아,格鲁吉亚,Georgia,7564,48,3992
 Mauritania,,Mauritania,7517,162,7174
 Jamaica,,Jamaica,6795,119,2345
@@ -126,7 +126,7 @@ Equatorial Guinea,,Equatorial Guinea,5045,83,4879
 Suriname,,Suriname,4924,106,4723
 Rwanda,,Rwanda,4852,29,3211
 CAR,,CAR,4845,62,1914
-Trinidad and Tobago,,Trinidad and Tobago,4709,78,2802
+Trinidad and Tobago,,Trinidad and Tobago,4715,79,2802
 Bahamas,,Bahamas,4332,96,2375
 Syria,,Syria,4329,204,1143
 Réunion,,Réunion,4178,16,3360
@@ -172,26 +172,26 @@ Papua New Guinea,,Papua New Guinea,540,7,527
 대만,台湾,Taiwan,517,7,484
 Burundi,,Burundi,513,1,472
 Tanzania,,Tanzania,509,21,183
-Comoros,,Comoros,484,7,466
+Comoros,,Comoros,487,7,466
 Faeroe Islands,,Faeroe Islands,473,0,432
 Curaçao,,Curaçao,429,1,213
 지브롤터,直布罗陀,Gibraltar,428,0,358
 Saint Martin,,Saint Martin,403,8,309
 Eritrea,,Eritrea,398,0,358
-Mauritius,,Mauritius,385,10,344
+Mauritius,,Mauritius,385,10,357
 Isle of Man,,Isle of Man,342,24,315
 Mongolia,,Mongolia,313,0,307
 부탄,不丹,Bhutan,283,0,229
 캄보디아,柬埔寨,Cambodia,278,0,275
 모나코,摩纳哥,Monaco,222,2,188
 Cayman Islands,,Cayman Islands,213,1,209
-Barbados,,Barbados,193,7,179
+Barbados,,Barbados,196,7,182
 Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
-Seychelles,,Seychelles,145,0,143
+Seychelles,,Seychelles,146,0,143
 Caribbean Netherlands,,Caribbean Netherlands,124,1,46
 리히텐슈타인,列支敦士登,Liechtenstein,123,1,116
-Antigua and Barbuda,,Antigua and Barbuda,106,3,94
+Antigua and Barbuda,,Antigua and Barbuda,107,3,96
 British Virgin Islands,,British Virgin Islands,71,1,66
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 St. Barth,,St. Barth,54,0,37

@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7600353,
-        "deaths": 214271,
-        "recovered": 4814551
+        "confirmed": 7600846,
+        "deaths": 214277,
+        "recovered": 4818509
     },
     {
         "Name": "인도",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 300028,
         "deaths": 9597,
-        "recovered": 259500
+        "recovered": 260800
     },
     {
         "Name": "인도네시아",
@@ -515,9 +515,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 42684,
-        "deaths": 890,
-        "recovered": 25803
+        "confirmed": 43452,
+        "deaths": 913,
+        "recovered": 26512
     },
     {
         "Name": "팔레스타인",
@@ -859,9 +859,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7858,
+        "confirmed": 7885,
         "deaths": 228,
-        "recovered": 6322
+        "recovered": 6327
     },
     {
         "Name": "조지아",
@@ -1019,8 +1019,8 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4709,
-        "deaths": 78,
+        "confirmed": 4715,
+        "deaths": 79,
         "recovered": 2802
     },
     {
@@ -1387,7 +1387,7 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 484,
+        "confirmed": 487,
         "deaths": 7,
         "recovered": 466
     },
@@ -1437,7 +1437,7 @@
         "Name_en": "Mauritius",
         "confirmed": 385,
         "deaths": 10,
-        "recovered": 344
+        "recovered": 357
     },
     {
         "Name": "Isle of Man",
@@ -1491,9 +1491,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 193,
+        "confirmed": 196,
         "deaths": 7,
-        "recovered": 179
+        "recovered": 182
     },
     {
         "Name": "Bermuda",
@@ -1515,7 +1515,7 @@
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
-        "confirmed": 145,
+        "confirmed": 146,
         "deaths": 0,
         "recovered": 143
     },
@@ -1539,9 +1539,9 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 106,
+        "confirmed": 107,
         "deaths": 3,
-        "recovered": 94
+        "recovered": 96
     },
     {
         "Name": "British Virgin Islands",
