@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7649117,
-        "deaths": 214713,
-        "recovered": 4863291
+        "confirmed": 7651721,
+        "deaths": 214745,
+        "recovered": 4864195
     },
     {
         "Name": "인도",
@@ -507,9 +507,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 44482,
-        "deaths": 406,
-        "recovered": 19782
+        "confirmed": 45657,
+        "deaths": 414,
+        "recovered": 20243
     },
     {
         "Name": "Paraguay",
@@ -555,7 +555,7 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 38032,
+        "confirmed": 38549,
         "deaths": 1810,
         "recovered": 23364
     },
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3493,
+        "confirmed": 3513,
         "deaths": 13,
         "recovered": 3259
     },
@@ -1403,9 +1403,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 452,
+        "confirmed": 462,
         "deaths": 1,
-        "recovered": 231
+        "recovered": 242
     },
     {
         "Name": "지브롤터",
@@ -1475,9 +1475,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 222,
+        "confirmed": 223,
         "deaths": 2,
-        "recovered": 189
+        "recovered": 193
     },
     {
         "Name": "Cayman Islands",
