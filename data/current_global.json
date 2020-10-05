@@ -171,9 +171,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 303498,
-        "deaths": 11151,
-        "recovered": 228453
+        "confirmed": 307120,
+        "deaths": 11253,
+        "recovered": 232593
     },
     {
         "Name": "독일",
@@ -443,7 +443,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57812,
+        "confirmed": 57819,
         "deaths": 27,
         "recovered": 57575
     },
@@ -664,20 +664,20 @@
         "recovered": 15341
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 17797,
+        "deaths": 300,
+        "recovered": 16031
+    },
+    {
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
         "confirmed": 17794,
         "deaths": 412,
         "recovered": 5195
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 17659,
-        "deaths": 298,
-        "recovered": 15849
     },
     {
         "Name": "Madagascar",
@@ -739,9 +739,9 @@
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 13139,
+        "confirmed": 13492,
         "deaths": 55,
-        "recovered": 4828
+        "recovered": 4865
     },
     {
         "Name": "말레이시아",
