@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7652925,
-        "deaths": 214752,
-        "recovered": 4864808
+        "confirmed": 7658247,
+        "deaths": 214789,
+        "recovered": 4867779
     },
     {
         "Name": "인도",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 303181,
-        "deaths": 9609,
+        "confirmed": 304043,
+        "deaths": 9610,
         "recovered": 263700
     },
     {
@@ -1115,9 +1115,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3184,
+        "confirmed": 3189,
         "deaths": 131,
-        "recovered": 2479
+        "recovered": 2482
     },
     {
         "Name": "Botswana",
@@ -1336,20 +1336,20 @@
         "recovered": 656
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "confirmed": 686,
+        "deaths": 48,
+        "recovered": 600
+    },
+    {
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
         "confirmed": 679,
         "deaths": 22,
         "recovered": 572
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "confirmed": 678,
-        "deaths": 48,
-        "recovered": 600
     },
     {
         "Name": "Papua New Guinea",
