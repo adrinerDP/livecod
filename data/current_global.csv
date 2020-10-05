@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7636185,214609,4844656
+미국,美国,United States,7636912,214611,4849038
 인도,印度,India,6622180,102714,5583453
 브라질,巴西,Brazil,4915289,146375,4263208
 러시아,俄罗斯,Russia,1215001,21358,979143
@@ -7,7 +7,7 @@
 페루,秘鲁,Peru,828169,32742,706223
 스페인,西班牙,Spain,810807,32086,0
 Argentina,,Argentina,798486,21018,636672
-멕시코,墨西哥,Mexico,757953,78880,545530
+멕시코,墨西哥,Mexico,761665,79088,550053
 남아프리카 공화국,南非共和国,South Africa,681289,16976,614781
 프랑스,法国,France,619190,32230,97778
 영국,英国,UK,502978,42350,0
@@ -26,7 +26,7 @@ Bangladesh,,Bangladesh,368690,5348,281656
 Ukraine,,Ukraine,226462,4397,100107
 캐나다,加拿大,Canada,166156,9481,140243
 에콰도르,厄瓜多尔,Ecuador,141034,11647,120511
-Bolivia,,Bolivia,136569,8073,97105
+Bolivia,,Bolivia,136868,8101,97547
 루마니아,尼亚,Romania,135900,5003,108135
 네덜란드,荷兰,Netherlands,135892,6454,0
 모로코,摩洛哥,Morocco,133272,2330,111036
@@ -50,7 +50,7 @@ Guatemala,,Guatemala,93963,3293,82454
 포르투갈,葡萄牙,Portugal,79151,2005,50207
 Ethiopia,,Ethiopia,78819,1222,33060
 Honduras,,Honduras,78788,2399,29187
-Venezuela,,Venezuela,77646,649,68098
+Venezuela,,Venezuela,78434,653,68917
 바레인,巴林,Bahrain,72662,260,67475
 나이지리아,尼日利亚,Nigeria,59345,1113,50768
 Uzbekistan,,Uzbekistan,58612,480,55281
@@ -153,8 +153,8 @@ Belize,,Belize,2131,29,1346
 라트비아,约旦,Latvia,2086,38,1307
 Yemen,,Yemen,2041,591,1320
 French Polynesia,,French Polynesia,1964,8,1555
+New Zealand,,New Zealand,1855,25,1790
 토고,多哥,Togo,1854,48,1392
-New Zealand,,New Zealand,1854,25,1788
 Cyprus,,Cyprus,1824,22,1369
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
@@ -166,8 +166,8 @@ Sao Tome and Principe,,Sao Tome and Principe,913,15,887
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,695,6,656
+Sint Maarten,,Sint Maarten,679,22,572
 Channel Islands,,Channel Islands,678,48,600
-Sint Maarten,,Sint Maarten,678,22,572
 Papua New Guinea,,Papua New Guinea,540,7,527
 대만,台湾,Taiwan,517,7,484
 Burundi,,Burundi,513,1,472
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85450,4634,80621
+중국,中国,China,85470,4634,80628
