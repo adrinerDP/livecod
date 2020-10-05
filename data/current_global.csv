@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7669506,214911,4884256
+미국,美国,United States,7670944,214922,4884722
 인도,印度,India,6682073,103600,5659110
-브라질,巴西,Brazil,4927235,146675,4263208
+브라질,巴西,Brazil,4927235,146675,4295302
 러시아,俄罗斯,Russia,1225889,21475,982324
 콜롬비아,哥伦比亚,Colombia,855052,26712,761674
 스페인,西班牙,Spain,852838,32225,0
-페루,秘鲁,Peru,828169,32742,706223
+페루,秘鲁,Peru,829999,32834,712888
 Argentina,,Argentina,798486,21018,636672
 멕시코,墨西哥,Mexico,761665,79088,550053
 남아프리카 공화국,南非共和国,South Africa,682215,17016,615684
@@ -105,19 +105,19 @@ Mozambique,,Mozambique,9296,66,6104
 Uganda,,Uganda,8965,82,5078
 룩셈부르크,卢森堡,Luxembourg,8925,127,7793
 Haiti,,Haiti,8827,229,6992
-Gabon,,Gabon,8797,54,8067
+Gabon,,Gabon,8808,54,8135
 조지아,格鲁吉亚,Georgia,8696,54,4619
-Zimbabwe,,Zimbabwe,7888,228,6359
+Zimbabwe,,Zimbabwe,7898,228,6424
 Mauritania,,Mauritania,7520,162,7188
 Jamaica,,Jamaica,7012,120,2635
 슬로베니아,斯洛文尼亚,Slovenia,6573,156,4314
-Cabo Verde,,Cabo Verde,6360,65,5416
+Cabo Verde,,Cabo Verde,6433,68,5524
 Cuba,,Cuba,5845,123,5232
 Malawi,,Malawi,5794,180,4541
-Eswatini,,Eswatini,5569,111,5127
+Eswatini,,Eswatini,5579,112,5141
+Angola,,Angola,5530,199,2591
 Guadeloupe,,Guadeloupe,5528,57,2199
 Djibouti,,Djibouti,5421,61,5352
-Angola,,Angola,5402,195,2577
 Lithuania,,Lithuania,5285,94,2497
 Nicaragua,,Nicaragua,5170,151,2913
 홍콩,香港,Hong Kong,5125,105,4864
@@ -148,7 +148,7 @@ Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
 Sierra Leone,,Sierra Leone,2269,72,1706
 Belize,,Belize,2196,30,1378
-Burkina Faso,,Burkina Faso,2167,59,1419
+Burkina Faso,,Burkina Faso,2184,59,1420
 Uruguay,,Uruguay,2145,48,1844
 라트비아,约旦,Latvia,2126,39,1307
 Yemen,,Yemen,2041,592,1323
@@ -158,11 +158,11 @@ New Zealand,,New Zealand,1855,25,1790
 Cyprus,,Cyprus,1847,22,1369
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
-Liberia,,Liberia,1348,82,1236
+Liberia,,Liberia,1354,82,1236
 Chad,,Chad,1223,86,1075
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1097,35,1022
-Sao Tome and Principe,,Sao Tome and Principe,913,15,887
+Sao Tome and Principe,,Sao Tome and Principe,913,15,888
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Turks and Caicos,,Turks and Caicos,695,6,656
@@ -185,7 +185,7 @@ Mongolia,,Mongolia,314,0,307
 캄보디아,柬埔寨,Cambodia,280,0,275
 모나코,摩纳哥,Monaco,223,2,193
 Cayman Islands,,Cayman Islands,213,1,209
-Barbados,,Barbados,199,7,182
+Barbados,,Barbados,200,7,182
 Bermuda,,Bermuda,181,9,169
 Brunei,,Brunei,146,3,142
 Seychelles,,Seychelles,146,0,143
