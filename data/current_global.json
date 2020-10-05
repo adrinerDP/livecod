@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 47428,
+        "confirmed": 47635,
         "deaths": 1066,
-        "recovered": 43418
+        "recovered": 43521
     },
     {
         "Name": "Ghana",
@@ -1176,6 +1176,14 @@
         "recovered": 1706
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 2196,
+        "deaths": 30,
+        "recovered": 1378
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1190,14 +1198,6 @@
         "confirmed": 2145,
         "deaths": 48,
         "recovered": 1844
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 2131,
-        "deaths": 29,
-        "recovered": 1346
     },
     {
         "Name": "안도라",
@@ -1467,7 +1467,7 @@
         "Name": "캄보디아",
         "Name_ch": "柬埔寨",
         "Name_en": "Cambodia",
-        "confirmed": 278,
+        "confirmed": 280,
         "deaths": 0,
         "recovered": 275
     },
