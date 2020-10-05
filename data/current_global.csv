@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7637066,214615,4849454
+미국,美国,United States,7637864,214626,4849530
 인도,印度,India,6626291,102746,5586703
 브라질,巴西,Brazil,4915289,146375,4263208
 러시아,俄罗斯,Russia,1225889,21475,982324
@@ -72,7 +72,7 @@ Kenya,,Kenya,39427,731,25659
 Libya,,Libya,37437,596,22076
 세르비아,塞尔维亚,Serbia,33901,754,31536
 헝가리,匈牙利,Hungary,31480,833,8165
-덴마크,丹麦,Denmark,29680,658,22716
+덴마크,丹麦,Denmark,30057,659,23122
 El Salvador,,El Salvador,29539,865,24406
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28449,888,22032
 호주,澳大利亚,Australia,27149,894,24892
@@ -81,7 +81,7 @@ Bulgaria,,Bulgaria,21587,844,15014
 카메룬,喀麦隆,Cameroon,20924,420,19764
 Ivory Coast,,Ivory Coast,19882,120,19449
 그리스,希腊,Greece,19842,409,9989
-North Macedonia,,North Macedonia,18790,756,15341
+North Macedonia,,North Macedonia,18873,760,15487
 크로아티아,克罗地亚,Croatia,17797,300,16031
 Myanmar,,Myanmar,17794,412,5195
 Madagascar,,Madagascar,16570,233,15601
@@ -170,7 +170,7 @@ Sint Maarten,,Sint Maarten,679,22,572
 Channel Islands,,Channel Islands,678,48,600
 Papua New Guinea,,Papua New Guinea,540,7,527
 대만,台湾,Taiwan,518,7,485
-Burundi,,Burundi,513,1,472
+Burundi,,Burundi,514,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,487,7,466
 Faeroe Islands,,Faeroe Islands,474,0,435
