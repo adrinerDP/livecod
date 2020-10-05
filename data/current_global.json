@@ -3,16 +3,16 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7636912,
-        "deaths": 214611,
-        "recovered": 4849269
+        "confirmed": 7637066,
+        "deaths": 214615,
+        "recovered": 4849454
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6623815,
-        "deaths": 102714,
+        "confirmed": 6626291,
+        "deaths": 102746,
         "recovered": 5586703
     },
     {
@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 368690,
-        "deaths": 5348,
-        "recovered": 281656
+        "confirmed": 370132,
+        "deaths": 5375,
+        "recovered": 283182
     },
     {
         "Name": "사우디아라비아",
@@ -315,9 +315,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 101270,
-        "deaths": 977,
-        "recovered": 90296
+        "confirmed": 101814,
+        "deaths": 985,
+        "recovered": 90600
     },
     {
         "Name": "아랍에미리트",
@@ -747,9 +747,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 12381,
+        "confirmed": 12813,
         "deaths": 137,
-        "recovered": 10283
+        "recovered": 10340
     },
     {
         "Name": "Montenegro",
@@ -771,7 +771,7 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10760,
+        "confirmed": 10778,
         "deaths": 274,
         "recovered": 10239
     },
@@ -891,9 +891,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 6673,
+        "confirmed": 6573,
         "deaths": 156,
-        "recovered": 4265
+        "recovered": 4314
     },
     {
         "Name": "Cabo Verde",
@@ -971,9 +971,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5114,
+        "confirmed": 5125,
         "deaths": 105,
-        "recovered": 4861
+        "recovered": 4864
     },
     {
         "Name": "Congo",
