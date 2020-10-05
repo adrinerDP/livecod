@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7672838,
-        "deaths": 214941,
-        "recovered": 4886293
+        "confirmed": 7674451,
+        "deaths": 214959,
+        "recovered": 4887802
     },
     {
         "Name": "인도",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14527,
+        "confirmed": 14605,
         "deaths": 275,
         "recovered": 11190
     },
@@ -795,9 +795,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10530,
+        "confirmed": 10567,
         "deaths": 34,
-        "recovered": 9364
+        "recovered": 9427
     },
     {
         "Name": "French Guiana",
@@ -875,9 +875,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7520,
+        "confirmed": 7523,
         "deaths": 162,
-        "recovered": 7188
+        "recovered": 7204
     },
     {
         "Name": "Jamaica",
@@ -1184,6 +1184,14 @@
         "recovered": 1706
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 2228,
+        "deaths": 9,
+        "recovered": 1769
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1222,14 +1230,6 @@
         "confirmed": 2041,
         "deaths": 592,
         "recovered": 1323
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 1964,
-        "deaths": 8,
-        "recovered": 1555
     },
     {
         "Name": "토고",
