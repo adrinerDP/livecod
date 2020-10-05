@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7634110,
-        "deaths": 214602,
-        "recovered": 4844433
+        "confirmed": 7635556,
+        "deaths": 214610,
+        "recovered": 4844651
     },
     {
         "Name": "인도",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 301543,
+        "confirmed": 301571,
         "deaths": 9602,
         "recovered": 261900
     },
@@ -363,9 +363,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 81711,
-        "deaths": 722,
-        "recovered": 43991
+        "confirmed": 82446,
+        "deaths": 727,
+        "recovered": 44149
     },
     {
         "Name": "벨라루스",
@@ -515,9 +515,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 43452,
-        "deaths": 913,
-        "recovered": 26512
+        "confirmed": 44182,
+        "deaths": 929,
+        "recovered": 27203
     },
     {
         "Name": "팔레스타인",
@@ -1333,7 +1333,7 @@
         "Name_en": "Turks and Caicos",
         "confirmed": 695,
         "deaths": 6,
-        "recovered": 651
+        "recovered": 656
     },
     {
         "Name": "Channel Islands",
