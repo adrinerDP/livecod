@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 226462,
-        "deaths": 4397,
-        "recovered": 100107
+        "confirmed": 230236,
+        "deaths": 4430,
+        "recovered": 101252
     },
     {
         "Name": "캐나다",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 58612,
-        "deaths": 480,
-        "recovered": 55281
+        "confirmed": 58859,
+        "deaths": 483,
+        "recovered": 55318
     },
     {
         "Name": "싱가포르",
@@ -596,7 +596,7 @@
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 29450,
-        "deaths": 863,
+        "deaths": 865,
         "recovered": 24296
     },
     {
