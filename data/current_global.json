@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6626291,
-        "deaths": 102746,
-        "recovered": 5586703
+        "confirmed": 6641789,
+        "deaths": 102952,
+        "recovered": 5608761
     },
     {
         "Name": "브라질",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 41498,
-        "deaths": 330,
-        "recovered": 34698
+        "confirmed": 41957,
+        "deaths": 339,
+        "recovered": 35182
     },
     {
         "Name": "아제르바이잔",
@@ -539,7 +539,7 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 39427,
+        "confirmed": 39449,
         "deaths": 731,
         "recovered": 25659
     },
@@ -664,20 +664,20 @@
         "recovered": 15487
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 18781,
+        "deaths": 444,
+        "recovered": 5548
+    },
+    {
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
         "confirmed": 17797,
         "deaths": 300,
         "recovered": 16031
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 17794,
-        "deaths": 412,
-        "recovered": 5195
     },
     {
         "Name": "Madagascar",
@@ -707,15 +707,15 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 15052,
-        "deaths": 333,
-        "recovered": 14187
+        "confirmed": 15089,
+        "deaths": 334,
+        "recovered": 14306
     },
     {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14457,
+        "confirmed": 14527,
         "deaths": 275,
         "recovered": 11190
     },
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9935,
+        "confirmed": 9974,
         "deaths": 78,
-        "recovered": 8749
+        "recovered": 8794
     },
     {
         "Name": "Mozambique",
