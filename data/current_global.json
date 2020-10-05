@@ -216,20 +216,20 @@
         "recovered": 120511
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 137491,
+        "deaths": 5048,
+        "recovered": 108526
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 136868,
         "deaths": 8101,
         "recovered": 97547
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 135900,
-        "deaths": 5003,
-        "recovered": 108135
     },
     {
         "Name": "네덜란드",
@@ -323,9 +323,9 @@
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 98801,
-        "deaths": 426,
-        "recovered": 88123
+        "confirmed": 99733,
+        "deaths": 429,
+        "recovered": 89410
     },
     {
         "Name": "스웨덴",
@@ -371,9 +371,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 80295,
-        "deaths": 857,
-        "recovered": 75148
+        "confirmed": 80696,
+        "deaths": 862,
+        "recovered": 75303
     },
     {
         "Name": "Honduras",
@@ -459,8 +459,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 54384,
-        "deaths": 2077,
+        "confirmed": 55932,
+        "deaths": 2078,
         "recovered": 45800
     },
     {
@@ -699,9 +699,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 15094,
+        "confirmed": 15122,
         "deaths": 312,
-        "recovered": 12805
+        "recovered": 12870
     },
     {
         "Name": "Zambia",
@@ -1413,7 +1413,7 @@
         "Name_en": "Gibraltar",
         "confirmed": 432,
         "deaths": 0,
-        "recovered": 360
+        "recovered": 363
     },
     {
         "Name": "Saint Martin",
