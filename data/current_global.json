@@ -483,9 +483,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 48146,
-        "deaths": 813,
-        "recovered": 38629
+        "confirmed": 48896,
+        "deaths": 818,
+        "recovered": 39058
     },
     {
         "Name": "Kyrgyzstan",
@@ -955,9 +955,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 5185,
+        "confirmed": 5285,
         "deaths": 94,
-        "recovered": 2495
+        "recovered": 2497
     },
     {
         "Name": "Nicaragua",
