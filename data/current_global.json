@@ -5,7 +5,7 @@
         "Name_en": "United States",
         "confirmed": 7636912,
         "deaths": 214611,
-        "recovered": 4849038
+        "recovered": 4849269
     },
     {
         "Name": "인도",
@@ -371,8 +371,8 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 79852,
-        "deaths": 851,
+        "confirmed": 80295,
+        "deaths": 857,
         "recovered": 75148
     },
     {
@@ -547,9 +547,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39341,
-        "deaths": 1462,
-        "recovered": 32852
+        "confirmed": 39422,
+        "deaths": 1466,
+        "recovered": 32879
     },
     {
         "Name": "아일랜드",
@@ -611,9 +611,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27144,
+        "confirmed": 27149,
         "deaths": 894,
-        "recovered": 24866
+        "recovered": 24892
     },
     {
         "Name": "Tunisia",
@@ -859,9 +859,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 8118,
-        "deaths": 50,
-        "recovered": 4244
+        "confirmed": 8696,
+        "deaths": 52,
+        "recovered": 4619
     },
     {
         "Name": "Zimbabwe",
@@ -1099,7 +1099,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 3402,
+        "confirmed": 3471,
         "deaths": 13,
         "recovered": 3258
     },
