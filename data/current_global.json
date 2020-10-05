@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7646516,
-        "deaths": 214707,
+        "confirmed": 7649117,
+        "deaths": 214713,
         "recovered": 4863291
     },
     {
@@ -144,20 +144,20 @@
         "recovered": 232681
     },
     {
+        "Name": "터키",
+        "Name_ch": "土耳其",
+        "Name_en": "Turkey",
+        "confirmed": 326046,
+        "deaths": 8498,
+        "recovered": 286370
+    },
+    {
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
         "confirmed": 324762,
         "deaths": 5840,
         "recovered": 273123
-    },
-    {
-        "Name": "터키",
-        "Name_ch": "土耳其",
-        "Name_en": "Turkey",
-        "confirmed": 324443,
-        "deaths": 8441,
-        "recovered": 285050
     },
     {
         "Name": "파키스탄",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 268175,
-        "deaths": 1719,
-        "recovered": 201392
+        "confirmed": 271563,
+        "deaths": 1749,
+        "recovered": 203615
     },
     {
         "Name": "Ukraine",
