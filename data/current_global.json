@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 471772,
-        "deaths": 26957,
-        "recovered": 389966
+        "confirmed": 475674,
+        "deaths": 27192,
+        "recovered": 392293
     },
     {
         "Name": "칠레",
@@ -259,9 +259,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 126498,
+        "confirmed": 126692,
         "deaths": 216,
-        "recovered": 123475
+        "recovered": 123664
     },
     {
         "Name": "Panama",
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1096,
+        "confirmed": 1097,
         "deaths": 35,
-        "recovered": 1020
+        "recovered": 1022
     },
     {
         "Name": "Sao Tome and Principe",
