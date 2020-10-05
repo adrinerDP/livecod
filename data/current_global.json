@@ -376,6 +376,14 @@
         "recovered": 75148
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "confirmed": 79629,
+        "deaths": 2422,
+        "recovered": 29305
+    },
+    {
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
@@ -398,14 +406,6 @@
         "confirmed": 78819,
         "deaths": 1222,
         "recovered": 33060
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "confirmed": 78788,
-        "deaths": 2399,
-        "recovered": 29187
     },
     {
         "Name": "Venezuela",
