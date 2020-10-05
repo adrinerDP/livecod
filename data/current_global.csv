@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7651721,214745,4864195
-인도,印度,India,6650456,103005,5621193
+미국,美国,United States,7652925,214752,4864808
+인도,印度,India,6681953,103600,5657686
 브라질,巴西,Brazil,4918022,146417,4263208
 러시아,俄罗斯,Russia,1225889,21475,982324
 콜롬비아,哥伦比亚,Colombia,855052,26712,761674
@@ -9,7 +9,7 @@
 Argentina,,Argentina,798486,21018,636672
 멕시코,墨西哥,Mexico,761665,79088,550053
 남아프리카 공화국,南非共和国,South Africa,681289,16976,614781
-프랑스,法国,France,619190,32230,97778
+프랑스,法国,France,624274,32299,98680
 영국,英国,UK,515571,42369,0
 이란,伊朗,Iran,475674,27192,392293
 칠레,智利,Chile,471746,13037,443453
@@ -29,7 +29,7 @@ Ukraine,,Ukraine,230236,4430,101252
 네덜란드,荷兰,Netherlands,140471,6461,0
 루마니아,尼亚,Romania,137491,5048,108526
 Bolivia,,Bolivia,136868,8101,97547
-모로코,摩洛哥,Morocco,133272,2330,111036
+모로코,摩洛哥,Morocco,134695,2369,113336
 벨기에,比利时,Belgium,130235,10064,19679
 카타르,卡塔尔,Qatar,126692,216,123664
 Panama,,Panama,115286,2423,91809
@@ -48,8 +48,8 @@ Guatemala,,Guatemala,94182,3302,82828
 벨라루스,白俄罗斯,Belarus,80696,862,75303
 포르투갈,葡萄牙,Portugal,79885,2018,50454
 Honduras,,Honduras,79629,2422,29305
+Ethiopia,,Ethiopia,79437,1230,34016
 코스타리카,哥斯达黎加,Costa Rica,79182,950,45007
-Ethiopia,,Ethiopia,78819,1222,33060
 Venezuela,,Venezuela,78434,653,68917
 바레인,巴林,Bahrain,72662,261,67475
 나이지리아,尼日利亚,Nigeria,59345,1113,50768
@@ -130,7 +130,7 @@ Trinidad and Tobago,,Trinidad and Tobago,4766,81,2884
 Bahamas,,Bahamas,4409,96,2375
 Syria,,Syria,4366,205,1155
 Réunion,,Réunion,4328,16,3360
-Aruba,,Aruba,4079,30,3532
+Aruba,,Aruba,4094,31,3612
 Mayotte,,Mayotte,3892,42,2964
 Somalia,,Somalia,3745,99,3010
 에스토니아,爱沙尼亚,Estonia,3617,67,2755
