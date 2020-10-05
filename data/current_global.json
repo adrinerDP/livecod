@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7637864,
-        "deaths": 214626,
+        "confirmed": 7638551,
+        "deaths": 214629,
         "recovered": 4849530
     },
     {
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 379141,
-        "deaths": 9399,
-        "recovered": 307482
+        "confirmed": 382949,
+        "deaths": 9464,
+        "recovered": 312158
     },
     {
         "Name": "Bangladesh",
@@ -131,9 +131,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 336387,
-        "deaths": 4875,
-        "recovered": 321485
+        "confirmed": 336766,
+        "deaths": 4898,
+        "recovered": 322055
     },
     {
         "Name": "이탈리아",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 301571,
-        "deaths": 9602,
+        "confirmed": 302500,
+        "deaths": 9605,
         "recovered": 261900
     },
     {
@@ -347,9 +347,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 86823,
-        "deaths": 535,
-        "recovered": 64069
+        "confirmed": 89263,
+        "deaths": 554,
+        "recovered": 65202
     },
     {
         "Name": "일본",
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 72662,
-        "deaths": 260,
+        "deaths": 261,
         "recovered": 67475
     },
     {
@@ -571,8 +571,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33901,
-        "deaths": 754,
+        "confirmed": 33952,
+        "deaths": 756,
         "recovered": 31536
     },
     {
@@ -1395,9 +1395,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 474,
+        "confirmed": 475,
         "deaths": 0,
-        "recovered": 435
+        "recovered": 441
     },
     {
         "Name": "Curaçao",
