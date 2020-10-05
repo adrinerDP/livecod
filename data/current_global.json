@@ -40,20 +40,20 @@
         "recovered": 761674
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 852838,
+        "deaths": 32225,
+        "recovered": 0
+    },
+    {
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
         "confirmed": 828169,
         "deaths": 32742,
         "recovered": 706223
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 810807,
-        "deaths": 32086,
-        "recovered": 0
     },
     {
         "Name": "Argentina",
