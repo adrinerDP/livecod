@@ -467,9 +467,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 52496,
-        "deaths": 977,
-        "recovered": 44672
+        "confirmed": 52677,
+        "deaths": 984,
+        "recovered": 44710
     },
     {
         "Name": "알제리",
@@ -579,9 +579,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 30575,
-        "deaths": 822,
-        "recovered": 7470
+        "confirmed": 31480,
+        "deaths": 833,
+        "recovered": 8165
     },
     {
         "Name": "덴마크",
@@ -1363,9 +1363,9 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 517,
+        "confirmed": 518,
         "deaths": 7,
-        "recovered": 484
+        "recovered": 485
     },
     {
         "Name": "Burundi",
