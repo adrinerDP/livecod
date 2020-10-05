@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7644501,214694,4861971
+미국,美国,United States,7646516,214707,4863291
 인도,印度,India,6650456,103005,5621193
-브라질,巴西,Brazil,4915289,146375,4263208
+브라질,巴西,Brazil,4918022,146417,4263208
 러시아,俄罗斯,Russia,1225889,21475,982324
 콜롬비아,哥伦比亚,Colombia,855052,26712,761674
 페루,秘鲁,Peru,828169,32742,706223
@@ -12,7 +12,7 @@ Argentina,,Argentina,798486,21018,636672
 프랑스,法国,France,619190,32230,97778
 영국,英国,UK,515571,42369,0
 이란,伊朗,Iran,475674,27192,392293
-칠레,智利,Chile,470179,12979,442070
+칠레,智利,Chile,471746,13037,443453
 이라크,伊拉克,Iraq,382949,9464,312158
 Bangladesh,,Bangladesh,370132,5375,283182
 사우디아라비아,沙特阿拉伯,Saudi Arabia,336766,4898,322055
@@ -21,11 +21,11 @@ Bangladesh,,Bangladesh,370132,5375,283182
 터키,土耳其,Turkey,324443,8441,285050
 파키스탄,巴基斯坦,Pakistan,315260,6517,299836
 인도네시아,印度尼西亚,Indonesia,307120,11253,232593
-독일,德国,Germany,302542,9606,261900
+독일,德国,Germany,303181,9609,263700
 이스라엘,以色列,Israel,268175,1719,201392
 Ukraine,,Ukraine,230236,4430,101252
 캐나다,加拿大,Canada,167963,9492,141660
-에콰도르,厄瓜多尔,Ecuador,141034,11647,120511
+에콰도르,厄瓜多尔,Ecuador,141339,11681,120511
 네덜란드,荷兰,Netherlands,140471,6461,0
 루마니아,尼亚,Romania,137491,5048,108526
 Bolivia,,Bolivia,136868,8101,97547
@@ -44,11 +44,11 @@ Kazakhstan,,Kazakhstan,108236,1725,103277
 Guatemala,,Guatemala,94182,3302,82828
 네팔,尼泊尔,Nepal,89263,554,65202
 일본,日本,Japan,85739,1599,78609
-체코,捷克,Czechia,82446,727,44149
+체코,捷克,Czechia,83696,757,45176
 벨라루스,白俄罗斯,Belarus,80696,862,75303
+포르투갈,葡萄牙,Portugal,79885,2018,50454
 Honduras,,Honduras,79629,2422,29305
 코스타리카,哥斯达黎加,Costa Rica,79182,950,45007
-포르투갈,葡萄牙,Portugal,79151,2005,50207
 Ethiopia,,Ethiopia,78819,1222,33060
 Venezuela,,Venezuela,78434,653,68917
 바레인,巴林,Bahrain,72662,261,67475
@@ -58,7 +58,7 @@ Uzbekistan,,Uzbekistan,58946,485,55633
 Moldova,,Moldova,56901,1375,41467
 스위스,瑞士,Switzerland,55932,2078,45800
 아르메니아,亚美尼亚,Armenia,52677,984,44710
-알제리,阿尔及利亚,Algeria,52136,1760,36578
+알제리,阿尔及利亚,Algeria,52270,1768,36672
 오스트리아,奥地利,Austria,48896,818,39058
 Kyrgyzstan,,Kyrgyzstan,47635,1066,43521
 Ghana,,Ghana,46829,303,46060
@@ -99,7 +99,7 @@ DRC,,DRC,10778,274,10239
 Guinea,,Guinea,10754,66,10098
 핀란드,芬兰,Finland,10702,346,8100
 Maldives,,Maldives,10530,34,9364
-French Guiana,,French Guiana,10029,67,9665
+French Guiana,,French Guiana,10057,68,9710
 Tajikistan,,Tajikistan,9974,78,8794
 Mozambique,,Mozambique,9296,66,6104
 Uganda,,Uganda,8965,82,5078

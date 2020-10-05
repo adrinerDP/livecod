@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7644501,
-        "deaths": 214694,
-        "recovered": 4861971
+        "confirmed": 7646516,
+        "deaths": 214707,
+        "recovered": 4863291
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4915289,
-        "deaths": 146375,
+        "confirmed": 4918022,
+        "deaths": 146417,
         "recovered": 4263208
     },
     {
@@ -107,9 +107,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 470179,
-        "deaths": 12979,
-        "recovered": 442070
+        "confirmed": 471746,
+        "deaths": 13037,
+        "recovered": 443453
     },
     {
         "Name": "이라크",
@@ -179,9 +179,9 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 302542,
-        "deaths": 9606,
-        "recovered": 261900
+        "confirmed": 303181,
+        "deaths": 9609,
+        "recovered": 263700
     },
     {
         "Name": "이스라엘",
@@ -211,8 +211,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 141034,
-        "deaths": 11647,
+        "confirmed": 141339,
+        "deaths": 11681,
         "recovered": 120511
     },
     {
@@ -363,9 +363,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 82446,
-        "deaths": 727,
-        "recovered": 44149
+        "confirmed": 83696,
+        "deaths": 757,
+        "recovered": 45176
     },
     {
         "Name": "벨라루스",
@@ -374,6 +374,14 @@
         "confirmed": 80696,
         "deaths": 862,
         "recovered": 75303
+    },
+    {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 79885,
+        "deaths": 2018,
+        "recovered": 50454
     },
     {
         "Name": "Honduras",
@@ -390,14 +398,6 @@
         "confirmed": 79182,
         "deaths": 950,
         "recovered": 45007
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 79151,
-        "deaths": 2005,
-        "recovered": 50207
     },
     {
         "Name": "Ethiopia",
@@ -475,9 +475,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 52136,
-        "deaths": 1760,
-        "recovered": 36578
+        "confirmed": 52270,
+        "deaths": 1768,
+        "recovered": 36672
     },
     {
         "Name": "오스트리아",
@@ -803,9 +803,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 10029,
-        "deaths": 67,
-        "recovered": 9665
+        "confirmed": 10057,
+        "deaths": 68,
+        "recovered": 9710
     },
     {
         "Name": "Tajikistan",
