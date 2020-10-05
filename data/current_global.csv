@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7664663,214860,4872781
+미국,美国,United States,7668362,214889,4883027
 인도,印度,India,6682073,103600,5659110
 브라질,巴西,Brazil,4918022,146417,4263208
 러시아,俄罗斯,Russia,1225889,21475,982324
@@ -8,7 +8,7 @@
 페루,秘鲁,Peru,828169,32742,706223
 Argentina,,Argentina,798486,21018,636672
 멕시코,墨西哥,Mexico,761665,79088,550053
-남아프리카 공화국,南非共和国,South Africa,681289,16976,614781
+남아프리카 공화국,南非共和国,South Africa,682215,17016,615684
 프랑스,法国,France,624274,32299,98680
 영국,英国,UK,515571,42369,0
 이란,伊朗,Iran,475674,27192,392293
@@ -45,11 +45,11 @@ Guatemala,,Guatemala,94182,3302,82828
 네팔,尼泊尔,Nepal,89263,554,65202
 일본,日本,Japan,85739,1599,78609
 체코,捷克,Czechia,83696,757,45176
+코스타리카,哥斯达黎加,Costa Rica,81129,987,49703
 벨라루스,白俄罗斯,Belarus,80696,862,75303
 포르투갈,葡萄牙,Portugal,79885,2018,50454
 Honduras,,Honduras,79629,2422,29305
 Ethiopia,,Ethiopia,79437,1230,34016
-코스타리카,哥斯达黎加,Costa Rica,79182,950,45007
 Venezuela,,Venezuela,78434,653,68917
 바레인,巴林,Bahrain,72662,261,67475
 나이지리아,尼日利亚,Nigeria,59345,1113,50768
@@ -80,7 +80,7 @@ Tunisia,,Tunisia,22230,321,5032
 Bulgaria,,Bulgaria,21587,844,15014
 카메룬,喀麦隆,Cameroon,20924,420,19764
 그리스,希腊,Greece,20142,417,9989
-Ivory Coast,,Ivory Coast,19882,120,19449
+Ivory Coast,,Ivory Coast,19885,120,19490
 North Macedonia,,North Macedonia,18873,760,15487
 Myanmar,,Myanmar,18781,444,5548
 크로아티아,克罗地亚,Croatia,17797,300,16031
@@ -116,7 +116,7 @@ Cuba,,Cuba,5845,123,5232
 Malawi,,Malawi,5794,180,4541
 Eswatini,,Eswatini,5569,111,5127
 Guadeloupe,,Guadeloupe,5528,57,2199
-Djibouti,,Djibouti,5419,61,5349
+Djibouti,,Djibouti,5421,61,5352
 Angola,,Angola,5402,195,2577
 Lithuania,,Lithuania,5285,94,2497
 Nicaragua,,Nicaragua,5170,151,2913
@@ -153,13 +153,13 @@ Uruguay,,Uruguay,2145,48,1844
 라트비아,约旦,Latvia,2126,39,1307
 Yemen,,Yemen,2041,591,1320
 French Polynesia,,French Polynesia,1964,8,1555
+토고,多哥,Togo,1864,48,1403
 New Zealand,,New Zealand,1855,25,1790
-토고,多哥,Togo,1854,48,1392
 Cyprus,,Cyprus,1847,22,1369
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1348,82,1236
-Chad,,Chad,1217,86,1075
+Chad,,Chad,1223,86,1075
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1097,35,1022
 Sao Tome and Principe,,Sao Tome and Principe,913,15,887
