@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7638551,214629,4849530
+미국,美国,United States,7638596,214629,4849539
 인도,印度,India,6626291,102746,5586703
 브라질,巴西,Brazil,4915289,146375,4263208
 러시아,俄罗斯,Russia,1225889,21475,982324
@@ -53,7 +53,7 @@ Ethiopia,,Ethiopia,78819,1222,33060
 Venezuela,,Venezuela,78434,653,68917
 바레인,巴林,Bahrain,72662,261,67475
 나이지리아,尼日利亚,Nigeria,59345,1113,50768
-Uzbekistan,,Uzbekistan,58859,483,55318
+Uzbekistan,,Uzbekistan,58946,485,55633
 싱가포르,新加坡,Singapore,57819,27,57575
 Moldova,,Moldova,56579,1366,40955
 스위스,瑞士,Switzerland,55932,2078,45800
@@ -136,12 +136,12 @@ Somalia,,Somalia,3745,99,3010
 에스토니아,爱沙尼亚,Estonia,3617,67,2755
 Gambia,,Gambia,3594,115,2226
 태국,泰国,Thailand,3590,59,3390
-스리랑카,斯里兰卡,Sri Lanka,3471,13,3258
+스리랑카,斯里兰卡,Sri Lanka,3474,13,3259
 Malta,,Malta,3327,39,2770
 Mali,,Mali,3184,131,2479
 Botswana,,Botswana,3172,16,710
 Guyana,,Guyana,3093,87,1920
-Iceland,,Iceland,2921,10,2277
+Iceland,,Iceland,2980,10,2300
 South Sudan,,South Sudan,2726,50,1290
 Guinea-Bissau,,Guinea-Bissau,2362,39,1549
 Benin,,Benin,2357,41,1973
