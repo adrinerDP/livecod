@@ -1200,20 +1200,20 @@
         "recovered": 1844
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2126,
+        "deaths": 39,
+        "recovered": 1307
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
         "confirmed": 2110,
         "deaths": 53,
         "recovered": 1540
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2086,
-        "deaths": 38,
-        "recovered": 1307
     },
     {
         "Name": "Yemen",
