@@ -683,9 +683,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16558,
-        "deaths": 232,
-        "recovered": 15486
+        "confirmed": 16570,
+        "deaths": 233,
+        "recovered": 15601
     },
     {
         "Name": "요르단",
@@ -1107,9 +1107,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 3270,
+        "confirmed": 3327,
         "deaths": 39,
-        "recovered": 2758
+        "recovered": 2770
     },
     {
         "Name": "Mali",
@@ -1523,7 +1523,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 126,
+        "confirmed": 127,
         "deaths": 1,
         "recovered": 116
     },
