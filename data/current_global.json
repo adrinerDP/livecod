@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7686462,
-        "deaths": 215212,
-        "recovered": 4906160
+        "confirmed": 7687269,
+        "deaths": 215221,
+        "recovered": 4906808
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6704900,
-        "deaths": 103787,
-        "recovered": 5678160
+        "confirmed": 6724380,
+        "deaths": 104032,
+        "recovered": 5703607
     },
     {
         "Name": "브라질",
@@ -819,9 +819,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 9296,
-        "deaths": 66,
-        "recovered": 6104
+        "confirmed": 9398,
+        "deaths": 67,
+        "recovered": 6358
     },
     {
         "Name": "조지아",
@@ -843,8 +843,8 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 8925,
-        "deaths": 127,
+        "confirmed": 8979,
+        "deaths": 128,
         "recovered": 7793
     },
     {
@@ -1232,6 +1232,14 @@
         "recovered": 1323
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "confirmed": 1876,
+        "deaths": 23,
+        "recovered": 1369
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
@@ -1246,14 +1254,6 @@
         "confirmed": 1858,
         "deaths": 25,
         "recovered": 1790
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
-        "confirmed": 1847,
-        "deaths": 22,
-        "recovered": 1369
     },
     {
         "Name": "Lesotho",
@@ -1277,7 +1277,7 @@
         "Name_en": "Liberia",
         "confirmed": 1354,
         "deaths": 82,
-        "recovered": 1236
+        "recovered": 1240
     },
     {
         "Name": "Chad",
