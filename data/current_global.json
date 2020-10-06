@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1225889,
-        "deaths": 21475,
-        "recovered": 982324
+        "confirmed": 1237504,
+        "deaths": 21663,
+        "recovered": 988576
     },
     {
         "Name": "콜롬비아",
@@ -144,20 +144,20 @@
         "recovered": 232681
     },
     {
+        "Name": "필리핀",
+        "Name_ch": "菲律宾",
+        "Name_en": "Philippines",
+        "confirmed": 326833,
+        "deaths": 5865,
+        "recovered": 273313
+    },
+    {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
         "confirmed": 326046,
         "deaths": 8498,
         "recovered": 286370
-    },
-    {
-        "Name": "필리핀",
-        "Name_ch": "菲律宾",
-        "Name_en": "Philippines",
-        "confirmed": 324762,
-        "deaths": 5840,
-        "recovered": 273123
     },
     {
         "Name": "파키스탄",
@@ -955,9 +955,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 5285,
-        "deaths": 94,
-        "recovered": 2497
+        "confirmed": 5366,
+        "deaths": 99,
+        "recovered": 2546
     },
     {
         "Name": "Nicaragua",
@@ -1083,9 +1083,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3617,
+        "confirmed": 3659,
         "deaths": 67,
-        "recovered": 2755
+        "recovered": 2806
     },
     {
         "Name": "태국",
@@ -1200,6 +1200,14 @@
         "recovered": 1378
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2194,
+        "deaths": 40,
+        "recovered": 1322
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
@@ -1214,14 +1222,6 @@
         "confirmed": 2155,
         "deaths": 48,
         "recovered": 1862
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2126,
-        "deaths": 39,
-        "recovered": 1307
     },
     {
         "Name": "Yemen",
