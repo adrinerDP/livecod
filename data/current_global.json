@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7714901,
-        "deaths": 215670,
-        "recovered": 4924367
+        "confirmed": 7715456,
+        "deaths": 215701,
+        "recovered": 4925811
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 171221,
-        "deaths": 9528,
-        "recovered": 143925
+        "confirmed": 171323,
+        "deaths": 9530,
+        "recovered": 143994
     },
     {
         "Name": "네덜란드",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 59465,
+        "confirmed": 59583,
         "deaths": 1113,
-        "recovered": 50951
+        "recovered": 51308
     },
     {
         "Name": "Uzbekistan",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14669,
+        "confirmed": 14784,
         "deaths": 275,
         "recovered": 11190
     },
@@ -875,9 +875,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7523,
+        "confirmed": 7529,
         "deaths": 162,
-        "recovered": 7204
+        "recovered": 7208
     },
     {
         "Name": "Jamaica",
@@ -963,9 +963,9 @@
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
-        "confirmed": 5170,
+        "confirmed": 5264,
         "deaths": 151,
-        "recovered": 2913
+        "recovered": 4225
     },
     {
         "Name": "홍콩",
@@ -1124,8 +1124,8 @@
         "Name_ch": "",
         "Name_en": "Guyana",
         "confirmed": 3188,
-        "deaths": 90,
-        "recovered": 1972
+        "deaths": 92,
+        "recovered": 2017
     },
     {
         "Name": "Botswana",
@@ -1219,9 +1219,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 2155,
-        "deaths": 48,
-        "recovered": 1862
+        "confirmed": 2177,
+        "deaths": 49,
+        "recovered": 1878
     },
     {
         "Name": "Yemen",
@@ -1549,7 +1549,7 @@
         "Name_en": "British Virgin Islands",
         "confirmed": 71,
         "deaths": 1,
-        "recovered": 66
+        "recovered": 69
     },
     {
         "Name": "St. Vincent Grenadines",
