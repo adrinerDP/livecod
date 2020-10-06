@@ -384,20 +384,20 @@
         "recovered": 75303
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "confirmed": 80020,
+        "deaths": 2433,
+        "recovered": 29768
+    },
+    {
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
         "confirmed": 79885,
         "deaths": 2018,
         "recovered": 50454
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "confirmed": 79629,
-        "deaths": 2422,
-        "recovered": 29305
     },
     {
         "Name": "Ethiopia",
@@ -1451,7 +1451,7 @@
         "Name": "Mongolia",
         "Name_ch": "",
         "Name_en": "Mongolia",
-        "confirmed": 314,
+        "confirmed": 315,
         "deaths": 0,
         "recovered": 307
     },
