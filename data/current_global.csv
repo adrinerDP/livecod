@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7679649,215032,4895052
+미국,美国,United States,7679644,215032,4895078
 인도,印度,India,6682073,103600,5659110
 브라질,巴西,Brazil,4940499,146773,4295302
 러시아,俄罗斯,Russia,1225889,21475,982324
@@ -28,7 +28,7 @@ Ukraine,,Ukraine,230236,4430,101252
 에콰도르,厄瓜多尔,Ecuador,141339,11681,120511
 네덜란드,荷兰,Netherlands,140471,6461,0
 루마니아,尼亚,Romania,137491,5048,108526
-Bolivia,,Bolivia,136868,8101,97547
+Bolivia,,Bolivia,137107,8129,98007
 모로코,摩洛哥,Morocco,134695,2369,113336
 벨기에,比利时,Belgium,130235,10064,19679
 카타르,卡塔尔,Qatar,126692,216,123664
@@ -154,7 +154,7 @@ Uruguay,,Uruguay,2155,48,1862
 라트비아,约旦,Latvia,2126,39,1307
 Yemen,,Yemen,2041,592,1323
 토고,多哥,Togo,1864,48,1403
-New Zealand,,New Zealand,1855,25,1790
+New Zealand,,New Zealand,1858,25,1790
 Cyprus,,Cyprus,1847,22,1369
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85470,4634,80628
+중국,中国,China,85482,4634,80635
