@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7690352,
-        "deaths": 215238,
-        "recovered": 4909966
+        "confirmed": 7692391,
+        "deaths": 215278,
+        "recovered": 4910328
     },
     {
         "Name": "인도",
@@ -32,20 +32,20 @@
         "recovered": 988576
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 865631,
+        "deaths": 32486,
+        "recovered": 0
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "confirmed": 862158,
         "deaths": 26844,
         "recovered": 766300
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 852838,
-        "deaths": 32225,
-        "recovered": 0
     },
     {
         "Name": "페루",
@@ -1392,20 +1392,20 @@
         "recovered": 466
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 476,
+        "deaths": 1,
+        "recovered": 262
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "confirmed": 475,
         "deaths": 0,
         "recovered": 452
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 462,
-        "deaths": 1,
-        "recovered": 242
     },
     {
         "Name": "지브롤터",
