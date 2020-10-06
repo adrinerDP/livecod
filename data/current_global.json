@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7712809,
-        "deaths": 215627,
-        "recovered": 4922740
+        "confirmed": 7713254,
+        "deaths": 215628,
+        "recovered": 4923013
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4946913,
-        "deaths": 146908,
+        "confirmed": 4969141,
+        "deaths": 147494,
         "recovered": 4295302
     },
     {
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 73116,
+        "confirmed": 73476,
         "deaths": 262,
-        "recovered": 67933
+        "recovered": 68606
     },
     {
         "Name": "나이지리아",
@@ -1115,9 +1115,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3189,
+        "confirmed": 3195,
         "deaths": 131,
-        "recovered": 2482
+        "recovered": 2494
     },
     {
         "Name": "Guyana",
@@ -1387,9 +1387,9 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 487,
+        "confirmed": 491,
         "deaths": 7,
-        "recovered": 466
+        "recovered": 468
     },
     {
         "Name": "Curaçao",

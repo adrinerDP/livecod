@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7712809,215627,4922740
+미국,美国,United States,7713254,215628,4923013
 인도,印度,India,6754179,104591,5741253
-브라질,巴西,Brazil,4946913,146908,4295302
+브라질,巴西,Brazil,4969141,147494,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
 스페인,西班牙,Spain,865631,32486,0
 콜롬비아,哥伦比亚,Colombia,862158,26844,766300
@@ -51,7 +51,7 @@ Guatemala,,Guatemala,94870,3310,83480
 Honduras,,Honduras,80020,2433,29768
 Ethiopia,,Ethiopia,80003,1238,34960
 Venezuela,,Venezuela,79117,658,69832
-바레인,巴林,Bahrain,73116,262,67933
+바레인,巴林,Bahrain,73476,262,68606
 나이지리아,尼日利亚,Nigeria,59465,1113,50951
 Uzbekistan,,Uzbekistan,59343,489,56058
 싱가포르,新加坡,Singapore,57830,27,57612
@@ -138,7 +138,7 @@ Somalia,,Somalia,3745,99,3010
 Gambia,,Gambia,3613,117,2233
 태국,泰国,Thailand,3600,59,3390
 Malta,,Malta,3374,40,2812
-Mali,,Mali,3189,131,2482
+Mali,,Mali,3195,131,2494
 Guyana,,Guyana,3188,90,1972
 Botswana,,Botswana,3172,18,834
 Iceland,,Iceland,3081,10,2324
@@ -172,7 +172,7 @@ Papua New Guinea,,Papua New Guinea,541,7,527
 대만,台湾,Taiwan,521,7,485
 Burundi,,Burundi,514,1,472
 Tanzania,,Tanzania,509,21,183
-Comoros,,Comoros,487,7,466
+Comoros,,Comoros,491,7,468
 Curaçao,,Curaçao,476,1,262
 Faeroe Islands,,Faeroe Islands,475,0,452
 지브롤터,直布罗陀,Gibraltar,437,0,368
