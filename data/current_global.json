@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6687247,
-        "deaths": 103629,
-        "recovered": 5662490
+        "confirmed": 6695118,
+        "deaths": 103654,
+        "recovered": 5666925
     },
     {
         "Name": "브라질",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 382949,
-        "deaths": 9464,
-        "recovered": 312158
+        "confirmed": 387121,
+        "deaths": 9531,
+        "recovered": 316371
     },
     {
         "Name": "Bangladesh",
@@ -384,20 +384,20 @@
         "recovered": 75376
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 80312,
+        "deaths": 2032,
+        "recovered": 50712
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 80020,
         "deaths": 2433,
         "recovered": 29768
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 79885,
-        "deaths": 2018,
-        "recovered": 50454
     },
     {
         "Name": "Ethiopia",
@@ -563,9 +563,9 @@
         "Name": "Libya",
         "Name_ch": "",
         "Name_en": "Libya",
-        "confirmed": 37437,
-        "deaths": 596,
-        "recovered": 22076
+        "confirmed": 38468,
+        "deaths": 602,
+        "recovered": 22410
     },
     {
         "Name": "세르비아",
@@ -648,6 +648,14 @@
         "recovered": 9989
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 20033,
+        "deaths": 471,
+        "recovered": 5782
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -662,14 +670,6 @@
         "confirmed": 18873,
         "deaths": 760,
         "recovered": 15487
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 18781,
-        "deaths": 444,
-        "recovered": 5548
     },
     {
         "Name": "크로아티아",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14605,
+        "confirmed": 14669,
         "deaths": 275,
         "recovered": 11190
     },
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 9974,
+        "confirmed": 10014,
         "deaths": 78,
-        "recovered": 8794
+        "recovered": 8837
     },
     {
         "Name": "Mozambique",
@@ -1048,20 +1048,20 @@
         "recovered": 3360
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "confirmed": 4118,
+        "deaths": 13,
+        "recovered": 3266
+    },
+    {
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
         "confirmed": 4094,
         "deaths": 31,
         "recovered": 3612
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "confirmed": 3979,
-        "deaths": 13,
-        "recovered": 3266
     },
     {
         "Name": "Mayotte",
@@ -1088,20 +1088,20 @@
         "recovered": 2806
     },
     {
+        "Name": "Gambia",
+        "Name_ch": "",
+        "Name_en": "Gambia",
+        "confirmed": 3613,
+        "deaths": 117,
+        "recovered": 2233
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
         "confirmed": 3600,
         "deaths": 59,
         "recovered": 3390
-    },
-    {
-        "Name": "Gambia",
-        "Name_ch": "",
-        "Name_en": "Gambia",
-        "confirmed": 3594,
-        "deaths": 115,
-        "recovered": 2226
     },
     {
         "Name": "Malta",
@@ -1397,7 +1397,7 @@
         "Name_en": "Faeroe Islands",
         "confirmed": 475,
         "deaths": 0,
-        "recovered": 441
+        "recovered": 452
     },
     {
         "Name": "Curaçao",
