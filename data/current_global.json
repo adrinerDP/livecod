@@ -227,9 +227,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 137491,
-        "deaths": 5048,
-        "recovered": 108526
+        "confirmed": 139612,
+        "deaths": 5121,
+        "recovered": 109898
     },
     {
         "Name": "Bolivia",
@@ -835,9 +835,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 8965,
-        "deaths": 82,
-        "recovered": 5078
+        "confirmed": 9082,
+        "deaths": 84,
+        "recovered": 5457
     },
     {
         "Name": "룩셈부르크",
@@ -1411,9 +1411,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 432,
+        "confirmed": 437,
         "deaths": 0,
-        "recovered": 363
+        "recovered": 368
     },
     {
         "Name": "Saint Martin",
