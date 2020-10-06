@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7690074,215238,4909593
-인도,印度,India,6724380,104032,5703607
+미국,美国,United States,7690352,215238,4909966
+인도,印度,India,6737544,104179,5718802
 브라질,巴西,Brazil,4946913,146908,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
 콜롬비아,哥伦比亚,Colombia,862158,26844,766300
@@ -17,8 +17,8 @@ Argentina,,Argentina,809728,21468,649017
 Bangladesh,,Bangladesh,371631,5405,284833
 사우디아라비아,沙特阿拉伯,Saudi Arabia,337243,4923,322612
 이탈리아,义大利,Italy,330263,36030,234099
+터키,土耳其,Turkey,327557,8553,287599
 필리핀,菲律宾,Philippines,326833,5865,273313
-터키,土耳其,Turkey,326046,8498,286370
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
 독일,德国,Germany,305869,9627,263700
@@ -130,7 +130,7 @@ Trinidad and Tobago,,Trinidad and Tobago,4818,83,2951
 Bahamas,,Bahamas,4452,96,2375
 Syria,,Syria,4411,207,1168
 Réunion,,Réunion,4328,16,3360
-스리랑카,斯里兰卡,Sri Lanka,4118,13,3266
+스리랑카,斯里兰卡,Sri Lanka,4252,13,3266
 Aruba,,Aruba,4094,31,3612
 Mayotte,,Mayotte,3892,42,2964
 Somalia,,Somalia,3745,99,3010
@@ -165,8 +165,8 @@ Niger,,Niger,1200,69,1115
 Sao Tome and Principe,,Sao Tome and Principe,913,15,888
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
+Channel Islands,,Channel Islands,695,48,600
 Turks and Caicos,,Turks and Caicos,695,6,656
-Channel Islands,,Channel Islands,686,48,600
 Sint Maarten,,Sint Maarten,686,22,592
 Papua New Guinea,,Papua New Guinea,541,7,527
 대만,台湾,Taiwan,521,7,485

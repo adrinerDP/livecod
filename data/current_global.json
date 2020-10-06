@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7690074,
+        "confirmed": 7690352,
         "deaths": 215238,
-        "recovered": 4909593
+        "recovered": 4909966
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6724380,
-        "deaths": 104032,
-        "recovered": 5703607
+        "confirmed": 6737544,
+        "deaths": 104179,
+        "recovered": 5718802
     },
     {
         "Name": "브라질",
@@ -144,20 +144,20 @@
         "recovered": 234099
     },
     {
+        "Name": "터키",
+        "Name_ch": "土耳其",
+        "Name_en": "Turkey",
+        "confirmed": 327557,
+        "deaths": 8553,
+        "recovered": 287599
+    },
+    {
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
         "confirmed": 326833,
         "deaths": 5865,
         "recovered": 273313
-    },
-    {
-        "Name": "터키",
-        "Name_ch": "土耳其",
-        "Name_en": "Turkey",
-        "confirmed": 326046,
-        "deaths": 8498,
-        "recovered": 286370
     },
     {
         "Name": "파키스탄",
@@ -1051,7 +1051,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 4118,
+        "confirmed": 4252,
         "deaths": 13,
         "recovered": 3266
     },
@@ -1328,20 +1328,20 @@
         "recovered": 651
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "confirmed": 695,
+        "deaths": 48,
+        "recovered": 600
+    },
+    {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
         "confirmed": 695,
         "deaths": 6,
         "recovered": 656
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "confirmed": 686,
-        "deaths": 48,
-        "recovered": 600
     },
     {
         "Name": "Sint Maarten",
