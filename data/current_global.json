@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7680577,
-        "deaths": 215081,
+        "confirmed": 7681202,
+        "deaths": 215096,
         "recovered": 4895685
     },
     {
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 304747,
-        "deaths": 9617,
+        "confirmed": 305051,
+        "deaths": 9624,
         "recovered": 263700
     },
     {
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 59197,
-        "deaths": 487,
-        "recovered": 55751
+        "confirmed": 59343,
+        "deaths": 489,
+        "recovered": 56058
     },
     {
         "Name": "싱가포르",
@@ -460,7 +460,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 56632,
-        "deaths": 2079,
+        "deaths": 2081,
         "recovered": 47300
     },
     {
@@ -571,8 +571,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 33952,
-        "deaths": 756,
+        "confirmed": 34072,
+        "deaths": 757,
         "recovered": 31536
     },
     {
@@ -696,20 +696,20 @@
         "recovered": 15698
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 15170,
+        "deaths": 335,
+        "recovered": 14313
+    },
+    {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
         "confirmed": 15141,
         "deaths": 312,
         "recovered": 12936
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "confirmed": 15089,
-        "deaths": 334,
-        "recovered": 14306
     },
     {
         "Name": "노르웨이",

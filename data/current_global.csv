@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7680577,215081,4895685
+미국,美国,United States,7681202,215096,4895685
 인도,印度,India,6687247,103629,5662490
 브라질,巴西,Brazil,4940499,146773,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,371631,5405,284833
 터키,土耳其,Turkey,326046,8498,286370
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
-독일,德国,Germany,304747,9617,263700
+독일,德国,Germany,305051,9624,263700
 이스라엘,以色列,Israel,274423,1771,208819
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,168960,9504,142334
@@ -53,10 +53,10 @@ Ethiopia,,Ethiopia,79437,1230,34016
 Venezuela,,Venezuela,79117,658,69832
 바레인,巴林,Bahrain,73116,262,67933
 나이지리아,尼日利亚,Nigeria,59465,1113,50951
-Uzbekistan,,Uzbekistan,59197,487,55751
+Uzbekistan,,Uzbekistan,59343,489,56058
 싱가포르,新加坡,Singapore,57830,27,57597
 Moldova,,Moldova,56901,1375,41467
-스위스,瑞士,Switzerland,56632,2079,47300
+스위스,瑞士,Switzerland,56632,2081,47300
 아르메니아,亚美尼亚,Armenia,53083,990,44932
 알제리,阿尔及利亚,Algeria,52270,1768,36672
 오스트리아,奥地利,Austria,49819,822,39790
@@ -70,7 +70,7 @@ Paraguay,,Paraguay,44715,947,27887
 Kenya,,Kenya,39449,735,27035
 아일랜드,冰岛,Ireland,38549,1810,23364
 Libya,,Libya,37437,596,22076
-세르비아,塞尔维亚,Serbia,33952,756,31536
+세르비아,塞尔维亚,Serbia,34072,757,31536
 헝가리,匈牙利,Hungary,32298,853,8723
 덴마크,丹麦,Denmark,30379,663,23655
 El Salvador,,El Salvador,29634,869,24525
@@ -86,8 +86,8 @@ Myanmar,,Myanmar,18781,444,5548
 크로아티아,克罗地亚,Croatia,18084,304,16192
 요르단,约旦,Jordan,17464,110,5292
 Madagascar,,Madagascar,16600,234,15698
+Zambia,,Zambia,15170,335,14313
 세네갈,塞内加尔,Senegal,15141,312,12936
-Zambia,,Zambia,15089,334,14306
 노르웨이,挪威,Norway,14605,275,11190
 Albania,,Albania,14410,400,8825
 슬로바키아,斯洛伐克,Slovakia,13812,55,5027
