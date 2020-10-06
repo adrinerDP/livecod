@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7715072,
-        "deaths": 215666,
-        "recovered": 4924310
+        "confirmed": 7714901,
+        "deaths": 215670,
+        "recovered": 4924367
     },
     {
         "Name": "인도",
@@ -32,20 +32,20 @@
         "recovered": 988576
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 869808,
+        "deaths": 27017,
+        "recovered": 770812
+    },
+    {
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
         "confirmed": 865631,
         "deaths": 32486,
         "recovered": 0
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 862158,
-        "deaths": 26844,
-        "recovered": 766300
     },
     {
         "Name": "페루",
@@ -307,9 +307,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 103781,
-        "deaths": 5990,
-        "recovered": 97398
+        "confirmed": 103902,
+        "deaths": 6001,
+        "recovered": 97449
     },
     {
         "Name": "오만",
@@ -1019,7 +1019,7 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4818,
+        "confirmed": 4846,
         "deaths": 83,
         "recovered": 2951
     },

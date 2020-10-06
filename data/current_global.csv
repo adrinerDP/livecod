@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7715072,215666,4924310
+미국,美国,United States,7714901,215670,4924367
 인도,印度,India,6754179,104591,5741253
 브라질,巴西,Brazil,4969141,147494,4352871
 러시아,俄罗斯,Russia,1237504,21663,988576
+콜롬비아,哥伦比亚,Colombia,869808,27017,770812
 스페인,西班牙,Spain,865631,32486,0
-콜롬비아,哥伦比亚,Colombia,862158,26844,766300
 페루,秘鲁,Peru,829999,32834,712888
 Argentina,,Argentina,809728,21468,649017
 멕시코,墨西哥,Mexico,789780,81877,553937
@@ -37,7 +37,7 @@ Panama,,Panama,115919,2430,92423
 Kazakhstan,,Kazakhstan,108296,1725,103367
 쿠웨이트,科威特,Kuwait,108268,632,100179
 폴란드,波兰,Poland,104316,2717,74158
-이집트,埃及,Egypt,103781,5990,97398
+이집트,埃及,Egypt,103902,6001,97449
 오만,阿曼,Oman,102648,990,91275
 아랍에미리트,阿拉伯联合酋长国,UAE,100794,435,90556
 스웨덴,瑞典语,Sweden,96145,5883,0
@@ -126,7 +126,7 @@ Equatorial Guinea,,Equatorial Guinea,5052,83,4894
 Suriname,,Suriname,4954,106,4755
 Rwanda,,Rwanda,4873,29,3246
 CAR,,CAR,4852,62,1914
-Trinidad and Tobago,,Trinidad and Tobago,4818,83,2951
+Trinidad and Tobago,,Trinidad and Tobago,4846,83,2951
 Bahamas,,Bahamas,4559,100,2475
 Syria,,Syria,4457,209,1183
 Réunion,,Réunion,4328,16,3360
