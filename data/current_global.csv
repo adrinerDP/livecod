@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7687269,215221,4906808
+미국,美国,United States,7690074,215238,4909593
 인도,印度,India,6724380,104032,5703607
-브라질,巴西,Brazil,4940706,146791,4295302
+브라질,巴西,Brazil,4946913,146908,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
 콜롬비아,哥伦比亚,Colombia,862158,26844,766300
 스페인,西班牙,Spain,852838,32225,0
@@ -21,12 +21,12 @@ Bangladesh,,Bangladesh,371631,5405,284833
 터키,土耳其,Turkey,326046,8498,286370
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
-독일,德国,Germany,305567,9625,263700
-이스라엘,以色列,Israel,274423,1771,208819
+독일,德国,Germany,305869,9627,263700
+이스라엘,以色列,Israel,276439,1784,210845
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,169508,9511,142880
 네덜란드,荷兰,Netherlands,144999,6482,0
-에콰도르,厄瓜多尔,Ecuador,141339,11681,120511
+에콰도르,厄瓜多尔,Ecuador,142056,11702,120511
 루마니아,尼亚,Romania,139612,5121,109898
 Bolivia,,Bolivia,137107,8129,98007
 모로코,摩洛哥,Morocco,134695,2369,113336
@@ -43,8 +43,8 @@ Kazakhstan,,Kazakhstan,108296,1725,103367
 스웨덴,瑞典语,Sweden,96145,5883,0
 Guatemala,,Guatemala,94870,3310,83480
 네팔,尼泊尔,Nepal,90814,563,67542
+체코,捷克,Czechia,87176,789,48714
 일본,日本,Japan,86047,1602,79071
-체코,捷克,Czechia,85566,758,46636
 코스타리카,哥斯达黎加,Costa Rica,81129,987,49703
 벨라루스,白俄罗斯,Belarus,81090,868,75376
 포르투갈,葡萄牙,Portugal,80312,2032,50712
@@ -83,8 +83,8 @@ Bulgaria,,Bulgaria,21870,854,15179
 Myanmar,,Myanmar,20033,471,5782
 Ivory Coast,,Ivory Coast,19885,120,19490
 North Macedonia,,North Macedonia,19096,768,15645
+요르단,约旦,Jordan,19001,122,5386
 크로아티아,克罗地亚,Croatia,18084,304,16192
-요르단,约旦,Jordan,17464,110,5292
 Madagascar,,Madagascar,16600,234,15698
 Zambia,,Zambia,15170,335,14313
 세네갈,塞内加尔,Senegal,15141,312,12936
@@ -99,7 +99,7 @@ Namibia,,Namibia,11654,125,9451
 Guinea,,Guinea,10800,67,10161
 DRC,,DRC,10789,274,10239
 Maldives,,Maldives,10567,34,9427
-French Guiana,,French Guiana,10057,68,9710
+French Guiana,,French Guiana,10070,69,9741
 Tajikistan,,Tajikistan,10014,78,8837
 Mozambique,,Mozambique,9398,67,6358
 조지아,格鲁吉亚,Georgia,9245,58,4887
