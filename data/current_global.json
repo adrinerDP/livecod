@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 272309,
+        "confirmed": 273826,
         "deaths": 1757,
-        "recovered": 204355
+        "recovered": 208763
     },
     {
         "Name": "Ukraine",
@@ -1195,7 +1195,7 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 2196,
+        "confirmed": 2204,
         "deaths": 30,
         "recovered": 1378
     },
