@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7715456,
-        "deaths": 215701,
-        "recovered": 4925811
+        "confirmed": 7716731,
+        "deaths": 215713,
+        "recovered": 4926762
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4969141,
-        "deaths": 147494,
+        "confirmed": 4970953,
+        "deaths": 147571,
         "recovered": 4352871
     },
     {
@@ -355,9 +355,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 87176,
-        "deaths": 789,
-        "recovered": 48714
+        "confirmed": 90022,
+        "deaths": 794,
+        "recovered": 48788
     },
     {
         "Name": "일본",
@@ -904,6 +904,14 @@
         "recovered": 5632
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 6319,
+        "deaths": 77,
+        "recovered": 2199
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -934,14 +942,6 @@
         "confirmed": 5598,
         "deaths": 112,
         "recovered": 5169
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 5528,
-        "deaths": 57,
-        "recovered": 2199
     },
     {
         "Name": "Djibouti",
@@ -995,9 +995,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4954,
+        "confirmed": 4965,
         "deaths": 106,
-        "recovered": 4755
+        "recovered": 4766
     },
     {
         "Name": "Rwanda",
