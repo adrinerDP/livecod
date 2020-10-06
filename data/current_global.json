@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7692391,
-        "deaths": 215278,
-        "recovered": 4910328
+        "confirmed": 7694213,
+        "deaths": 215307,
+        "recovered": 4910982
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6737544,
-        "deaths": 104179,
-        "recovered": 5718802
+        "confirmed": 6741616,
+        "deaths": 104220,
+        "recovered": 5722286
     },
     {
         "Name": "브라질",
@@ -83,9 +83,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 624274,
-        "deaths": 32299,
-        "recovered": 98680
+        "confirmed": 634763,
+        "deaths": 32365,
+        "recovered": 99295
     },
     {
         "Name": "영국",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 305869,
-        "deaths": 9627,
+        "confirmed": 306651,
+        "deaths": 9630,
         "recovered": 263700
     },
     {
@@ -232,20 +232,20 @@
         "recovered": 109898
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 137248,
+        "deaths": 2410,
+        "recovered": 115354
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 137107,
         "deaths": 8129,
         "recovered": 98007
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 134695,
-        "deaths": 2369,
-        "recovered": 113336
     },
     {
         "Name": "벨기에",
