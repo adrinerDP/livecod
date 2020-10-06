@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7680028,215039,4895291
+미국,美国,United States,7680577,215081,4895685
 인도,印度,India,6687247,103629,5662490
 브라질,巴西,Brazil,4940499,146773,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -15,7 +15,7 @@ Argentina,,Argentina,809728,21468,649017
 칠레,智利,Chile,471746,13037,443453
 이라크,伊拉克,Iraq,382949,9464,312158
 Bangladesh,,Bangladesh,371631,5405,284833
-사우디아라비아,沙特阿拉伯,Saudi Arabia,336766,4898,322055
+사우디아라비아,沙特阿拉伯,Saudi Arabia,337243,4923,322612
 이탈리아,义大利,Italy,327586,36002,232681
 필리핀,菲律宾,Philippines,326833,5865,273313
 터키,土耳其,Turkey,326046,8498,286370
@@ -25,8 +25,8 @@ Bangladesh,,Bangladesh,371631,5405,284833
 이스라엘,以色列,Israel,274423,1771,208819
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,168960,9504,142334
+네덜란드,荷兰,Netherlands,144999,6482,0
 에콰도르,厄瓜多尔,Ecuador,141339,11681,120511
-네덜란드,荷兰,Netherlands,140471,6461,0
 루마니아,尼亚,Romania,139612,5121,109898
 Bolivia,,Bolivia,137107,8129,98007
 모로코,摩洛哥,Morocco,134695,2369,113336
@@ -40,13 +40,13 @@ Kazakhstan,,Kazakhstan,108296,1725,103367
 이집트,埃及,Egypt,103781,5990,97398
 오만,阿曼,Oman,102648,990,91275
 아랍에미리트,阿拉伯联合酋长国,UAE,100794,435,90556
-스웨덴,瑞典语,Sweden,94283,5895,0
+스웨덴,瑞典语,Sweden,96145,5883,0
 Guatemala,,Guatemala,94182,3302,82828
 네팔,尼泊尔,Nepal,90814,563,67542
 일본,日本,Japan,85739,1599,78609
 체코,捷克,Czechia,85566,758,46636
 코스타리카,哥斯达黎加,Costa Rica,81129,987,49703
-벨라루스,白俄罗斯,Belarus,80696,862,75303
+벨라루스,白俄罗斯,Belarus,81090,868,75376
 Honduras,,Honduras,80020,2433,29768
 포르투갈,葡萄牙,Portugal,79885,2018,50454
 Ethiopia,,Ethiopia,79437,1230,34016
@@ -73,8 +73,8 @@ Libya,,Libya,37437,596,22076
 세르비아,塞尔维亚,Serbia,33952,756,31536
 헝가리,匈牙利,Hungary,32298,853,8723
 덴마크,丹麦,Denmark,30379,663,23655
-El Salvador,,El Salvador,29539,869,24406
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28449,888,22032
+El Salvador,,El Salvador,29634,869,24525
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28710,903,22274
 호주,澳大利亚,Australia,27173,895,24892
 Tunisia,,Tunisia,22230,321,5032
 Bulgaria,,Bulgaria,21870,854,15179
@@ -122,10 +122,10 @@ Lithuania,,Lithuania,5366,99,2546
 Nicaragua,,Nicaragua,5170,151,2913
 홍콩,香港,Hong Kong,5133,105,4875
 Congo,,Congo,5089,89,3887
-Equatorial Guinea,,Equatorial Guinea,5045,83,4879
+Equatorial Guinea,,Equatorial Guinea,5052,83,4894
 Suriname,,Suriname,4954,106,4755
 Rwanda,,Rwanda,4867,29,3226
-CAR,,CAR,4845,62,1914
+CAR,,CAR,4852,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4767,82,2884
 Bahamas,,Bahamas,4452,96,2375
 Syria,,Syria,4411,207,1168
@@ -161,7 +161,7 @@ Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1354,82,1236
 Chad,,Chad,1223,86,1075
 Niger,,Niger,1200,69,1115
-베트남,越南,Vietnam,1097,35,1022
+베트남,越南,Vietnam,1098,35,1023
 Sao Tome and Principe,,Sao Tome and Principe,913,15,888
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
