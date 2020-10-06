@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 169508,
-        "deaths": 9511,
-        "recovered": 142880
+        "confirmed": 170872,
+        "deaths": 9526,
+        "recovered": 143733
     },
     {
         "Name": "네덜란드",
@@ -403,9 +403,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 79437,
-        "deaths": 1230,
-        "recovered": 34016
+        "confirmed": 80003,
+        "deaths": 1238,
+        "recovered": 34960
     },
     {
         "Name": "Venezuela",
@@ -496,20 +496,20 @@
         "recovered": 43644
     },
     {
+        "Name": "레바논",
+        "Name_ch": "黎巴嫩",
+        "Name_en": "Lebanon",
+        "confirmed": 46918,
+        "deaths": 424,
+        "recovered": 20490
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "confirmed": 46829,
         "deaths": 303,
         "recovered": 46060
-    },
-    {
-        "Name": "레바논",
-        "Name_ch": "黎巴嫩",
-        "Name_en": "Lebanon",
-        "confirmed": 45657,
-        "deaths": 414,
-        "recovered": 20243
     },
     {
         "Name": "Paraguay",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 41957,
-        "deaths": 339,
-        "recovered": 35182
+        "confirmed": 42432,
+        "deaths": 349,
+        "recovered": 35599
     },
     {
         "Name": "아제르바이잔",
@@ -555,8 +555,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 38549,
-        "deaths": 1810,
+        "confirmed": 38973,
+        "deaths": 1811,
         "recovered": 23364
     },
     {
@@ -795,9 +795,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10567,
+        "confirmed": 10621,
         "deaths": 34,
-        "recovered": 9427
+        "recovered": 9466
     },
     {
         "Name": "French Guiana",
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4094,
+        "confirmed": 4108,
         "deaths": 31,
-        "recovered": 3612
+        "recovered": 3643
     },
     {
         "Name": "Mayotte",
