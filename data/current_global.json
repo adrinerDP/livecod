@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 298,
+        "confirmed": 299,
         "deaths": 0,
-        "recovered": 237
+        "recovered": 248
     },
     {
         "Name": "캄보디아",
@@ -1469,7 +1469,7 @@
         "Name_en": "Cambodia",
         "confirmed": 280,
         "deaths": 0,
-        "recovered": 275
+        "recovered": 276
     },
     {
         "Name": "모나코",
