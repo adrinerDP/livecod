@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 370132,
-        "deaths": 5375,
-        "recovered": 283182
+        "confirmed": 371631,
+        "deaths": 5405,
+        "recovered": 284833
     },
     {
         "Name": "사우디아라비아",
@@ -768,6 +768,14 @@
         "recovered": 9451
     },
     {
+        "Name": "핀란드",
+        "Name_ch": "芬兰",
+        "Name_en": "Finland",
+        "confirmed": 10929,
+        "deaths": 346,
+        "recovered": 8100
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -782,14 +790,6 @@
         "confirmed": 10778,
         "deaths": 274,
         "recovered": 10239
-    },
-    {
-        "Name": "핀란드",
-        "Name_ch": "芬兰",
-        "Name_en": "Finland",
-        "confirmed": 10702,
-        "deaths": 346,
-        "recovered": 8100
     },
     {
         "Name": "Maldives",
@@ -1355,7 +1355,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 540,
+        "confirmed": 541,
         "deaths": 7,
         "recovered": 527
     },
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 518,
+        "confirmed": 521,
         "deaths": 7,
         "recovered": 485
     },
@@ -1523,7 +1523,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 127,
+        "confirmed": 130,
         "deaths": 1,
         "recovered": 116
     },
