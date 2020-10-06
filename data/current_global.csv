@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7707562,215534,4920240
+미국,美国,United States,7709403,215552,4920404
 인도,印度,India,6754179,104591,5741253
 브라질,巴西,Brazil,4946913,146908,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -8,7 +8,7 @@
 페루,秘鲁,Peru,829999,32834,712888
 Argentina,,Argentina,809728,21468,649017
 멕시코,墨西哥,Mexico,789780,81877,553937
-남아프리카 공화국,南非共和国,South Africa,682215,17016,615684
+남아프리카 공화국,南非共和国,South Africa,683242,17103,616857
 프랑스,法国,France,634763,32365,99295
 영국,英国,UK,530113,42445,0
 이란,伊朗,Iran,479825,27419,394800
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,371631,5405,284833
 필리핀,菲律宾,Philippines,326833,5865,273313
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
-독일,德国,Germany,307114,9634,263700
+독일,德国,Germany,307119,9635,263700
 이스라엘,以色列,Israel,277026,1797,211397
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,170945,9527,143767
@@ -81,7 +81,7 @@ Bulgaria,,Bulgaria,21870,854,15179
 카메룬,喀麦隆,Cameroon,20924,420,19764
 그리스,希腊,Greece,20541,420,9989
 Myanmar,,Myanmar,20033,471,5782
-Ivory Coast,,Ivory Coast,19885,120,19490
+Ivory Coast,,Ivory Coast,19903,120,19539
 North Macedonia,,North Macedonia,19096,768,15645
 요르단,约旦,Jordan,19001,122,5386
 크로아티아,克罗地亚,Croatia,18084,304,16192
@@ -113,9 +113,9 @@ Jamaica,,Jamaica,7109,123,2674
 슬로베니아,斯洛文尼亚,Slovenia,6764,159,4399
 Cabo Verde,,Cabo Verde,6518,69,5632
 Cuba,,Cuba,5883,123,5278
-Malawi,,Malawi,5794,180,4541
+Malawi,,Malawi,5796,180,4549
 Angola,,Angola,5725,211,2598
-Eswatini,,Eswatini,5579,112,5141
+Eswatini,,Eswatini,5598,112,5169
 Guadeloupe,,Guadeloupe,5528,57,2199
 Djibouti,,Djibouti,5421,61,5352
 Lithuania,,Lithuania,5366,99,2546
@@ -124,7 +124,7 @@ Nicaragua,,Nicaragua,5170,151,2913
 Congo,,Congo,5089,89,3887
 Equatorial Guinea,,Equatorial Guinea,5052,83,4894
 Suriname,,Suriname,4954,106,4755
-Rwanda,,Rwanda,4867,29,3226
+Rwanda,,Rwanda,4873,29,3246
 CAR,,CAR,4852,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4818,83,2951
 Syria,,Syria,4457,209,1183
@@ -153,13 +153,13 @@ Belize,,Belize,2204,30,1378
 Burkina Faso,,Burkina Faso,2184,59,1420
 Uruguay,,Uruguay,2155,48,1862
 Yemen,,Yemen,2041,592,1323
+토고,多哥,Togo,1881,49,1410
 Cyprus,,Cyprus,1876,23,1369
-토고,多哥,Togo,1864,48,1403
 New Zealand,,New Zealand,1858,25,1790
 Lesotho,,Lesotho,1683,39,926
 Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1354,82,1240
-Chad,,Chad,1223,86,1075
+Chad,,Chad,1238,88,1077
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1098,35,1023
 Sao Tome and Principe,,Sao Tome and Principe,913,15,888
@@ -183,12 +183,12 @@ Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,307
 부탄,不丹,Bhutan,299,0,248
 캄보디아,柬埔寨,Cambodia,280,0,276
-모나코,摩纳哥,Monaco,223,2,193
+모나코,摩纳哥,Monaco,224,2,198
 Cayman Islands,,Cayman Islands,213,1,210
 Barbados,,Barbados,200,7,182
 Bermuda,,Bermuda,181,9,170
+Seychelles,,Seychelles,148,0,143
 Brunei,,Brunei,146,3,143
-Seychelles,,Seychelles,146,0,143
 Caribbean Netherlands,,Caribbean Netherlands,141,2,67
 리히텐슈타인,列支敦士登,Liechtenstein,130,1,116
 Antigua and Barbuda,,Antigua and Barbuda,107,3,96
