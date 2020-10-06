@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7709403,215552,4920404
+미국,美国,United States,7712809,215627,4922740
 인도,印度,India,6754179,104591,5741253
 브라질,巴西,Brazil,4946913,146908,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -94,9 +94,9 @@ Albania,,Albania,14568,403,8965
 Sudan,,Sudan,13653,836,6764
 말레이시아,马来西亚,Malaysia,13504,141,10427
 Montenegro,,Montenegro,12584,188,8557
-Namibia,,Namibia,11654,125,9451
+Namibia,,Namibia,11673,125,9611
 핀란드,芬兰,Finland,10929,346,8100
-Guinea,,Guinea,10800,67,10161
+Guinea,,Guinea,10863,68,10176
 DRC,,DRC,10789,274,10239
 Maldives,,Maldives,10621,34,9466
 French Guiana,,French Guiana,10070,69,9741
@@ -107,7 +107,7 @@ Uganda,,Uganda,9082,84,5457
 룩셈부르크,卢森堡,Luxembourg,8979,128,7793
 Haiti,,Haiti,8838,229,7013
 Gabon,,Gabon,8808,54,8135
-Zimbabwe,,Zimbabwe,7898,228,6424
+Zimbabwe,,Zimbabwe,7915,229,6440
 Mauritania,,Mauritania,7523,162,7204
 Jamaica,,Jamaica,7109,123,2674
 슬로베니아,斯洛文尼亚,Slovenia,6764,159,4399
@@ -117,7 +117,7 @@ Malawi,,Malawi,5796,180,4549
 Angola,,Angola,5725,211,2598
 Eswatini,,Eswatini,5598,112,5169
 Guadeloupe,,Guadeloupe,5528,57,2199
-Djibouti,,Djibouti,5421,61,5352
+Djibouti,,Djibouti,5423,61,5353
 Lithuania,,Lithuania,5366,99,2546
 Nicaragua,,Nicaragua,5170,151,2913
 홍콩,香港,Hong Kong,5133,105,4875
@@ -127,8 +127,8 @@ Suriname,,Suriname,4954,106,4755
 Rwanda,,Rwanda,4873,29,3246
 CAR,,CAR,4852,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4818,83,2951
+Bahamas,,Bahamas,4559,100,2475
 Syria,,Syria,4457,209,1183
-Bahamas,,Bahamas,4452,96,2375
 Réunion,,Réunion,4328,16,3360
 스리랑카,斯里兰卡,Sri Lanka,4252,13,3266
 Aruba,,Aruba,4108,31,3643
@@ -146,13 +146,13 @@ South Sudan,,South Sudan,2734,50,1290
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 안도라,安道尔,Andorra,2370,53,1615
 Benin,,Benin,2357,41,1973
-Sierra Leone,,Sierra Leone,2269,72,1706
+Sierra Leone,,Sierra Leone,2277,72,1710
 French Polynesia,,French Polynesia,2228,9,1769
 Belize,,Belize,2204,30,1378
+Burkina Faso,,Burkina Faso,2197,59,1441
 라트비아,约旦,Latvia,2194,40,1322
-Burkina Faso,,Burkina Faso,2184,59,1420
 Uruguay,,Uruguay,2155,48,1862
-Yemen,,Yemen,2041,592,1323
+Yemen,,Yemen,2047,593,1327
 토고,多哥,Togo,1881,49,1410
 Cyprus,,Cyprus,1876,23,1369
 New Zealand,,New Zealand,1858,25,1790

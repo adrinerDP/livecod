@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7709403,
-        "deaths": 215552,
-        "recovered": 4920404
+        "confirmed": 7712809,
+        "deaths": 215627,
+        "recovered": 4922740
     },
     {
         "Name": "인도",
@@ -763,9 +763,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 11654,
+        "confirmed": 11673,
         "deaths": 125,
-        "recovered": 9451
+        "recovered": 9611
     },
     {
         "Name": "핀란드",
@@ -779,9 +779,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10800,
-        "deaths": 67,
-        "recovered": 10161
+        "confirmed": 10863,
+        "deaths": 68,
+        "recovered": 10176
     },
     {
         "Name": "DRC",
@@ -867,9 +867,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7898,
-        "deaths": 228,
-        "recovered": 6424
+        "confirmed": 7915,
+        "deaths": 229,
+        "recovered": 6440
     },
     {
         "Name": "Mauritania",
@@ -947,9 +947,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5421,
+        "confirmed": 5423,
         "deaths": 61,
-        "recovered": 5352
+        "recovered": 5353
     },
     {
         "Name": "Lithuania",
@@ -1024,20 +1024,20 @@
         "recovered": 2951
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 4559,
+        "deaths": 100,
+        "recovered": 2475
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 4457,
         "deaths": 209,
         "recovered": 1183
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 4452,
-        "deaths": 96,
-        "recovered": 2375
     },
     {
         "Name": "Réunion",
@@ -1179,9 +1179,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2269,
+        "confirmed": 2277,
         "deaths": 72,
-        "recovered": 1706
+        "recovered": 1710
     },
     {
         "Name": "French Polynesia",
@@ -1200,20 +1200,20 @@
         "recovered": 1378
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 2197,
+        "deaths": 59,
+        "recovered": 1441
+    },
+    {
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
         "confirmed": 2194,
         "deaths": 40,
         "recovered": 1322
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 2184,
-        "deaths": 59,
-        "recovered": 1420
     },
     {
         "Name": "Uruguay",
@@ -1227,9 +1227,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2041,
-        "deaths": 592,
-        "recovered": 1323
+        "confirmed": 2047,
+        "deaths": 593,
+        "recovered": 1327
     },
     {
         "Name": "토고",
