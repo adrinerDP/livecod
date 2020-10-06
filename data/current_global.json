@@ -67,9 +67,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 761665,
-        "deaths": 79088,
-        "recovered": 550053
+        "confirmed": 789780,
+        "deaths": 81877,
+        "recovered": 553937
     },
     {
         "Name": "남아프리카 공화국",
@@ -691,9 +691,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16570,
-        "deaths": 233,
-        "recovered": 15601
+        "confirmed": 16600,
+        "deaths": 234,
+        "recovered": 15698
     },
     {
         "Name": "세네갈",
