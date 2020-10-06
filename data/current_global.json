@@ -467,9 +467,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 52677,
-        "deaths": 984,
-        "recovered": 44710
+        "confirmed": 53083,
+        "deaths": 990,
+        "recovered": 44932
     },
     {
         "Name": "알제리",
@@ -579,9 +579,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 31480,
-        "deaths": 833,
-        "recovered": 8165
+        "confirmed": 32298,
+        "deaths": 853,
+        "recovered": 8723
     },
     {
         "Name": "덴마크",
@@ -824,6 +824,14 @@
         "recovered": 6104
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 9245,
+        "deaths": 58,
+        "recovered": 4887
+    },
+    {
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
@@ -854,14 +862,6 @@
         "confirmed": 8808,
         "deaths": 54,
         "recovered": 8135
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 8696,
-        "deaths": 54,
-        "recovered": 4619
     },
     {
         "Name": "Zimbabwe",
