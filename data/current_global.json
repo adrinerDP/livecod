@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 58946,
-        "deaths": 485,
-        "recovered": 55633
+        "confirmed": 59197,
+        "deaths": 487,
+        "recovered": 55751
     },
     {
         "Name": "싱가포르",
@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 47635,
+        "confirmed": 47799,
         "deaths": 1066,
-        "recovered": 43521
+        "recovered": 43644
     },
     {
         "Name": "Ghana",
@@ -1072,6 +1072,14 @@
         "recovered": 3010
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "confirmed": 3733,
+        "deaths": 13,
+        "recovered": 3259
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
@@ -1094,14 +1102,6 @@
         "confirmed": 3594,
         "deaths": 115,
         "recovered": 2226
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "confirmed": 3513,
-        "deaths": 13,
-        "recovered": 3259
     },
     {
         "Name": "Malta",
