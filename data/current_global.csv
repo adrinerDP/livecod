@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7699674,215384,4918431
+미국,美国,United States,7703258,215448,4918431
 인도,印度,India,6741616,104220,5722286
 브라질,巴西,Brazil,4946913,146908,4295302
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,371631,5405,284833
 필리핀,菲律宾,Philippines,326833,5865,273313
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
-독일,德国,Germany,306651,9630,263700
+독일,德国,Germany,307114,9634,263700
 이스라엘,以色列,Israel,276439,1784,210845
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,170872,9526,143733
@@ -31,7 +31,7 @@ Ukraine,,Ukraine,234584,4520,103401
 모로코,摩洛哥,Morocco,137248,2410,115354
 Bolivia,,Bolivia,137107,8129,98007
 벨기에,比利时,Belgium,132203,10078,19712
-카타르,卡塔尔,Qatar,126692,216,123664
+카타르,卡塔尔,Qatar,126943,216,123893
 Panama,,Panama,115919,2430,92423
 도미니카 공화국,多明尼加共和国,Dominican Republic,115371,2149,91569
 Kazakhstan,,Kazakhstan,108296,1725,103367
@@ -111,11 +111,11 @@ Zimbabwe,,Zimbabwe,7898,228,6424
 Mauritania,,Mauritania,7523,162,7204
 Jamaica,,Jamaica,7109,123,2674
 슬로베니아,斯洛文尼亚,Slovenia,6764,159,4399
-Cabo Verde,,Cabo Verde,6433,68,5524
+Cabo Verde,,Cabo Verde,6518,69,5632
 Cuba,,Cuba,5883,123,5278
 Malawi,,Malawi,5794,180,4541
+Angola,,Angola,5725,211,2598
 Eswatini,,Eswatini,5579,112,5141
-Angola,,Angola,5530,199,2591
 Guadeloupe,,Guadeloupe,5528,57,2199
 Djibouti,,Djibouti,5421,61,5352
 Lithuania,,Lithuania,5366,99,2546
@@ -127,8 +127,8 @@ Suriname,,Suriname,4954,106,4755
 Rwanda,,Rwanda,4867,29,3226
 CAR,,CAR,4852,62,1914
 Trinidad and Tobago,,Trinidad and Tobago,4818,83,2951
+Syria,,Syria,4457,209,1183
 Bahamas,,Bahamas,4452,96,2375
-Syria,,Syria,4411,207,1168
 Réunion,,Réunion,4328,16,3360
 스리랑카,斯里兰卡,Sri Lanka,4252,13,3266
 Aruba,,Aruba,4108,31,3643

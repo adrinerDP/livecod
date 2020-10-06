@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7699674,
-        "deaths": 215384,
+        "confirmed": 7703258,
+        "deaths": 215448,
         "recovered": 4918431
     },
     {
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 306651,
-        "deaths": 9630,
+        "confirmed": 307114,
+        "deaths": 9634,
         "recovered": 263700
     },
     {
@@ -259,9 +259,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 126692,
+        "confirmed": 126943,
         "deaths": 216,
-        "recovered": 123664
+        "recovered": 123893
     },
     {
         "Name": "Panama",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6433,
-        "deaths": 68,
-        "recovered": 5524
+        "confirmed": 6518,
+        "deaths": 69,
+        "recovered": 5632
     },
     {
         "Name": "Cuba",
@@ -920,20 +920,20 @@
         "recovered": 4541
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 5725,
+        "deaths": 211,
+        "recovered": 2598
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "confirmed": 5579,
         "deaths": 112,
         "recovered": 5141
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 5530,
-        "deaths": 199,
-        "recovered": 2591
     },
     {
         "Name": "Guadeloupe",
@@ -1024,20 +1024,20 @@
         "recovered": 2951
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 4457,
+        "deaths": 209,
+        "recovered": 1183
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
         "confirmed": 4452,
         "deaths": 96,
         "recovered": 2375
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 4411,
-        "deaths": 207,
-        "recovered": 1168
     },
     {
         "Name": "Réunion",
