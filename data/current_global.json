@@ -144,20 +144,20 @@
         "recovered": 234099
     },
     {
+        "Name": "필리핀",
+        "Name_ch": "菲律宾",
+        "Name_en": "Philippines",
+        "confirmed": 329637,
+        "deaths": 5925,
+        "recovered": 273723
+    },
+    {
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
         "confirmed": 327557,
         "deaths": 8553,
         "recovered": 287599
-    },
-    {
-        "Name": "필리핀",
-        "Name_ch": "菲律宾",
-        "Name_en": "Philippines",
-        "confirmed": 326833,
-        "deaths": 5865,
-        "recovered": 273313
     },
     {
         "Name": "파키스탄",
@@ -171,9 +171,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 311176,
-        "deaths": 11374,
-        "recovered": 236437
+        "confirmed": 315714,
+        "deaths": 11472,
+        "recovered": 240291
     },
     {
         "Name": "독일",
@@ -683,9 +683,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 18084,
-        "deaths": 304,
-        "recovered": 16192
+        "confirmed": 18447,
+        "deaths": 309,
+        "recovered": 16308
     },
     {
         "Name": "Madagascar",
