@@ -315,9 +315,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 102648,
-        "deaths": 990,
-        "recovered": 91275
+        "confirmed": 103465,
+        "deaths": 1000,
+        "recovered": 91329
     },
     {
         "Name": "아랍에미리트",
@@ -736,20 +736,20 @@
         "recovered": 8965
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 13993,
+        "deaths": 141,
+        "recovered": 10501
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "confirmed": 13653,
         "deaths": 836,
         "recovered": 6764
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 13504,
-        "deaths": 141,
-        "recovered": 10427
     },
     {
         "Name": "Montenegro",
@@ -880,20 +880,20 @@
         "recovered": 7208
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 7120,
+        "deaths": 159,
+        "recovered": 4535
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "confirmed": 7109,
         "deaths": 123,
         "recovered": 2674
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 6764,
-        "deaths": 159,
-        "recovered": 4399
     },
     {
         "Name": "Cabo Verde",
@@ -1411,9 +1411,9 @@
         "Name": "지브롤터",
         "Name_ch": "直布罗陀",
         "Name_en": "Gibraltar",
-        "confirmed": 437,
+        "confirmed": 445,
         "deaths": 0,
-        "recovered": 368
+        "recovered": 376
     },
     {
         "Name": "Saint Martin",
