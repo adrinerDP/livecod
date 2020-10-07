@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7738707,216160,4956275
+미국,美国,United States,7742919,216218,4957463
 인도,印度,India,6829678,105519,5818100
 브라질,巴西,Brazil,4978531,147759,4352871
 러시아,俄罗斯,Russia,1248619,21865,995275
@@ -9,7 +9,7 @@
 Argentina,,Argentina,824468,21827,660272
 멕시코,墨西哥,Mexico,794608,82348,557478
 남아프리카 공화국,南非共和国,South Africa,683242,17103,616857
-프랑스,法国,France,634763,32365,99295
+프랑스,法国,France,653509,32445,99295
 영국,英国,UK,544275,42515,0
 이란,伊朗,Iran,483844,27658,397109
 칠레,智利,Chile,474440,13090,447053
@@ -48,8 +48,8 @@ Guatemala,,Guatemala,95704,3335,84036
 코스타리카,哥斯达黎加,Costa Rica,82142,1004,50020
 벨라루스,白俄罗斯,Belarus,81505,874,75683
 포르투갈,葡萄牙,Portugal,81256,2040,51037
+Ethiopia,,Ethiopia,80895,1255,35670
 Honduras,,Honduras,80662,2447,30131
-Ethiopia,,Ethiopia,80003,1238,34960
 Venezuela,,Venezuela,79796,665,70719
 바레인,巴林,Bahrain,73476,262,68606
 나이지리아,尼日利亚,Nigeria,59583,1113,51308
@@ -58,18 +58,18 @@ Moldova,,Moldova,58794,1406,42480
 싱가포르,新加坡,Singapore,57840,27,57624
 스위스,瑞士,Switzerland,57709,2082,47300
 아르메니아,亚美尼亚,Armenia,53755,995,45110
-알제리,阿尔及利亚,Algeria,52399,1768,36763
+알제리,阿尔及利亚,Algeria,52520,1771,36857
 오스트리아,奥地利,Austria,50848,830,40499
+레바논,黎巴嫩,Lebanon,48377,433,21120
 Kyrgyzstan,,Kyrgyzstan,48097,1069,43798
-레바논,黎巴嫩,Lebanon,46918,424,20490
 Ghana,,Ghana,46829,303,46060
 Paraguay,,Paraguay,45647,966,28546
 팔레스타인,巴勒斯坦,Palestine,42840,355,35953
 아제르바이잔,阿塞拜疆,Azerbaijan,41113,602,38858
 Kenya,,Kenya,39586,743,27331
+아일랜드,冰岛,Ireland,39584,1816,23364
 아프가니스탄,阿富汗,Afghanistan,39548,1469,33045
 Libya,,Libya,39513,608,22831
-아일랜드,冰岛,Ireland,38973,1811,23364
 세르비아,塞尔维亚,Serbia,34193,758,31536
 헝가리,匈牙利,Hungary,33114,877,9149
 덴마크,丹麦,Denmark,30710,663,24240
@@ -130,7 +130,7 @@ CAR,,CAR,4852,62,1914
 Bahamas,,Bahamas,4559,100,2475
 스리랑카,斯里兰卡,Sri Lanka,4459,13,3274
 Syria,,Syria,4457,209,1183
-Réunion,,Réunion,4328,16,3360
+Réunion,,Réunion,4385,16,3360
 Aruba,,Aruba,4108,31,3643
 Mayotte,,Mayotte,3892,42,2964
 Somalia,,Somalia,3745,99,3010
@@ -142,9 +142,9 @@ Mali,,Mali,3195,131,2494
 Guyana,,Guyana,3188,92,2017
 Botswana,,Botswana,3172,18,834
 Iceland,,Iceland,3172,10,2366
-South Sudan,,South Sudan,2734,50,1290
+South Sudan,,South Sudan,2748,50,1290
+안도라,安道尔,Andorra,2568,53,1715
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
-안도라,安道尔,Andorra,2370,53,1615
 Benin,,Benin,2357,41,1973
 Sierra Leone,,Sierra Leone,2277,72,1710
 라트비아,约旦,Latvia,2261,40,1322
