@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7759642,
-        "deaths": 216459,
-        "recovered": 4966339
+        "confirmed": 7762262,
+        "deaths": 216566,
+        "recovered": 4969217
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4978531,
-        "deaths": 147759,
+        "confirmed": 5000694,
+        "deaths": 148228,
         "recovered": 4352871
     },
     {
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 683242,
-        "deaths": 17103,
-        "recovered": 616857
+        "confirmed": 685155,
+        "deaths": 17248,
+        "recovered": 618127
     },
     {
         "Name": "프랑스",
@@ -667,9 +667,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19903,
+        "confirmed": 19935,
         "deaths": 120,
-        "recovered": 19539
+        "recovered": 19550
     },
     {
         "Name": "North Macedonia",
@@ -923,9 +923,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5796,
+        "confirmed": 5803,
         "deaths": 180,
-        "recovered": 4549
+        "recovered": 4575
     },
     {
         "Name": "Angola",
@@ -1000,20 +1000,20 @@
         "recovered": 4766
     },
     {
+        "Name": "Rwanda",
+        "Name_ch": "",
+        "Name_en": "Rwanda",
+        "confirmed": 4883,
+        "deaths": 29,
+        "recovered": 3408
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 4876,
         "deaths": 84,
         "recovered": 3010
-    },
-    {
-        "Name": "Rwanda",
-        "Name_ch": "",
-        "Name_en": "Rwanda",
-        "confirmed": 4873,
-        "deaths": 29,
-        "recovered": 3246
     },
     {
         "Name": "CAR",
@@ -1112,20 +1112,20 @@
         "recovered": 2865
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 3292,
+        "deaths": 95,
+        "recovered": 2084
+    },
+    {
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
         "confirmed": 3210,
         "deaths": 131,
         "recovered": 2502
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 3188,
-        "deaths": 92,
-        "recovered": 2017
     },
     {
         "Name": "Botswana",
@@ -1331,7 +1331,7 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 695,
+        "confirmed": 698,
         "deaths": 48,
         "recovered": 600
     },
