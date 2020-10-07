@@ -299,9 +299,9 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 104316,
-        "deaths": 2717,
-        "recovered": 74158
+        "confirmed": 107319,
+        "deaths": 2792,
+        "recovered": 75346
     },
     {
         "Name": "이집트",
@@ -483,9 +483,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 49819,
-        "deaths": 822,
-        "recovered": 39790
+        "confirmed": 50848,
+        "deaths": 830,
+        "recovered": 40499
     },
     {
         "Name": "Kyrgyzstan",
@@ -1040,20 +1040,20 @@
         "recovered": 1183
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "confirmed": 4442,
+        "deaths": 13,
+        "recovered": 3274
+    },
+    {
         "Name": "Réunion",
         "Name_ch": "",
         "Name_en": "Réunion",
         "confirmed": 4328,
         "deaths": 16,
         "recovered": 3360
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "confirmed": 4252,
-        "deaths": 13,
-        "recovered": 3266
     },
     {
         "Name": "Aruba",
@@ -1184,6 +1184,14 @@
         "recovered": 1710
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2261,
+        "deaths": 40,
+        "recovered": 1322
+    },
+    {
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
@@ -1206,14 +1214,6 @@
         "confirmed": 2197,
         "deaths": 59,
         "recovered": 1441
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2194,
-        "deaths": 40,
-        "recovered": 1322
     },
     {
         "Name": "Uruguay",
