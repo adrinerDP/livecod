@@ -384,20 +384,20 @@
         "recovered": 75683
     },
     {
+        "Name": "포르투갈",
+        "Name_ch": "葡萄牙",
+        "Name_en": "Portugal",
+        "confirmed": 81256,
+        "deaths": 2040,
+        "recovered": 51037
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 80662,
         "deaths": 2447,
         "recovered": 30131
-    },
-    {
-        "Name": "포르투갈",
-        "Name_ch": "葡萄牙",
-        "Name_en": "Portugal",
-        "confirmed": 80312,
-        "deaths": 2032,
-        "recovered": 50712
     },
     {
         "Name": "Ethiopia",
@@ -632,6 +632,14 @@
         "recovered": 15310
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 21433,
+        "deaths": 510,
+        "recovered": 6084
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
@@ -648,14 +656,6 @@
         "recovered": 9989
     },
     {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 20033,
-        "deaths": 471,
-        "recovered": 5782
-    },
-    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -667,9 +667,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 19096,
-        "deaths": 768,
-        "recovered": 15645
+        "confirmed": 19413,
+        "deaths": 772,
+        "recovered": 15749
     },
     {
         "Name": "요르단",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10014,
+        "confirmed": 10055,
         "deaths": 78,
-        "recovered": 8837
+        "recovered": 8876
     },
     {
         "Name": "조지아",
@@ -1531,7 +1531,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 130,
+        "confirmed": 131,
         "deaths": 1,
         "recovered": 116
     },
