@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 479825,
-        "deaths": 27419,
-        "recovered": 394800
+        "confirmed": 483844,
+        "deaths": 27658,
+        "recovered": 397109
     },
     {
         "Name": "칠레",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 307119,
+        "confirmed": 307456,
         "deaths": 9635,
         "recovered": 265600
     },
@@ -259,9 +259,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 126943,
-        "deaths": 216,
-        "recovered": 123893
+        "confirmed": 127181,
+        "deaths": 218,
+        "recovered": 124108
     },
     {
         "Name": "Panama",
@@ -347,9 +347,9 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 90814,
-        "deaths": 563,
-        "recovered": 67542
+        "confirmed": 94253,
+        "deaths": 578,
+        "recovered": 68668
     },
     {
         "Name": "체코",
@@ -459,8 +459,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 56632,
-        "deaths": 2081,
+        "confirmed": 57709,
+        "deaths": 2082,
         "recovered": 47300
     },
     {
@@ -691,9 +691,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16600,
-        "deaths": 234,
-        "recovered": 15698
+        "confirmed": 16633,
+        "deaths": 235,
+        "recovered": 15808
     },
     {
         "Name": "Zambia",
@@ -820,7 +820,7 @@
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 9753,
-        "deaths": 62,
+        "deaths": 63,
         "recovered": 5235
     },
     {
@@ -1107,9 +1107,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 3374,
-        "deaths": 40,
-        "recovered": 2812
+        "confirmed": 3442,
+        "deaths": 41,
+        "recovered": 2865
     },
     {
         "Name": "Mali",
