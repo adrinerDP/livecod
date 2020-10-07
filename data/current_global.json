@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7730263,
-        "deaths": 216044,
+        "confirmed": 7730917,
+        "deaths": 216064,
         "recovered": 4950124
     },
     {
@@ -91,8 +91,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 530113,
-        "deaths": 42445,
+        "confirmed": 544275,
+        "deaths": 42515,
         "recovered": 0
     },
     {
@@ -139,9 +139,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 330263,
-        "deaths": 36030,
-        "recovered": 234099
+        "confirmed": 333940,
+        "deaths": 36061,
+        "recovered": 235303
     },
     {
         "Name": "필리핀",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 308340,
-        "deaths": 9642,
+        "confirmed": 309228,
+        "deaths": 9645,
         "recovered": 267700
     },
     {
@@ -440,20 +440,20 @@
         "recovered": 56165
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "confirmed": 58794,
+        "deaths": 1406,
+        "recovered": 42480
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
         "confirmed": 57840,
         "deaths": 27,
         "recovered": 57624
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "confirmed": 57732,
-        "deaths": 1389,
-        "recovered": 41938
     },
     {
         "Name": "스위스",
