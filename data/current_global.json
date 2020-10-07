@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7753998,
-        "deaths": 216363,
-        "recovered": 4963267
+        "confirmed": 7756318,
+        "deaths": 216411,
+        "recovered": 4963750
     },
     {
         "Name": "인도",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 310955,
+        "confirmed": 311061,
         "deaths": 9652,
         "recovered": 267700
     },
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 280744,
-        "deaths": 1818,
-        "recovered": 216438
+        "confirmed": 281481,
+        "deaths": 1824,
+        "recovered": 216613
     },
     {
         "Name": "Ukraine",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6518,
-        "deaths": 69,
-        "recovered": 5632
+        "confirmed": 6624,
+        "deaths": 71,
+        "recovered": 5684
     },
     {
         "Name": "Guadeloupe",
@@ -1032,20 +1032,20 @@
         "recovered": 2475
     },
     {
+        "Name": "Syria",
+        "Name_ch": "",
+        "Name_en": "Syria",
+        "confirmed": 4504,
+        "deaths": 212,
+        "recovered": 1198
+    },
+    {
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
         "confirmed": 4459,
         "deaths": 13,
         "recovered": 3274
-    },
-    {
-        "Name": "Syria",
-        "Name_ch": "",
-        "Name_en": "Syria",
-        "confirmed": 4457,
-        "deaths": 209,
-        "recovered": 1183
     },
     {
         "Name": "Réunion",
@@ -1491,7 +1491,7 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 200,
+        "confirmed": 203,
         "deaths": 7,
         "recovered": 182
     },

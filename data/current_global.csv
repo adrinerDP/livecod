@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7753998,216363,4963267
+미국,美国,United States,7756318,216411,4963750
 인도,印度,India,6832906,105552,5824415
 브라질,巴西,Brazil,4978531,147759,4352871
 러시아,俄罗斯,Russia,1248619,21865,995275
@@ -21,8 +21,8 @@ Bangladesh,,Bangladesh,373151,5440,286631
 터키,土耳其,Turkey,329138,8609,288954
 파키스탄,巴基斯坦,Pakistan,316351,6535,301288
 인도네시아,印度尼西亚,Indonesia,315714,11472,240291
-독일,德国,Germany,310955,9652,267700
-이스라엘,以色列,Israel,280744,1818,216438
+독일,德国,Germany,311061,9652,267700
+이스라엘,以色列,Israel,281481,1824,216613
 Ukraine,,Ukraine,239337,4597,105970
 캐나다,加拿大,Canada,172806,9538,145403
 네덜란드,荷兰,Netherlands,149988,6518,0
@@ -111,7 +111,7 @@ Zimbabwe,,Zimbabwe,7915,229,6440
 Mauritania,,Mauritania,7529,162,7208
 Jamaica,,Jamaica,7191,126,2700
 슬로베니아,斯洛文尼亚,Slovenia,7120,159,4535
-Cabo Verde,,Cabo Verde,6518,69,5632
+Cabo Verde,,Cabo Verde,6624,71,5684
 Guadeloupe,,Guadeloupe,6319,77,2199
 Cuba,,Cuba,5898,123,5321
 Malawi,,Malawi,5796,180,4549
@@ -128,8 +128,8 @@ Trinidad and Tobago,,Trinidad and Tobago,4876,84,3010
 Rwanda,,Rwanda,4873,29,3246
 CAR,,CAR,4852,62,1914
 Bahamas,,Bahamas,4559,100,2475
+Syria,,Syria,4504,212,1198
 스리랑카,斯里兰卡,Sri Lanka,4459,13,3274
-Syria,,Syria,4457,209,1183
 Réunion,,Réunion,4385,16,3360
 Aruba,,Aruba,4133,31,3678
 Mayotte,,Mayotte,3892,42,2964
@@ -185,7 +185,7 @@ Mongolia,,Mongolia,315,0,308
 캄보디아,柬埔寨,Cambodia,280,0,276
 모나코,摩纳哥,Monaco,227,2,202
 Cayman Islands,,Cayman Islands,213,1,210
-Barbados,,Barbados,200,7,182
+Barbados,,Barbados,203,7,182
 Bermuda,,Bermuda,181,9,170
 Seychelles,,Seychelles,148,0,143
 Brunei,,Brunei,146,3,143
