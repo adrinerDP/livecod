@@ -251,9 +251,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 132203,
-        "deaths": 10078,
-        "recovered": 19719
+        "confirmed": 134291,
+        "deaths": 10092,
+        "recovered": 19812
     },
     {
         "Name": "카타르",
@@ -1347,7 +1347,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 686,
+        "confirmed": 689,
         "deaths": 22,
         "recovered": 592
     },
