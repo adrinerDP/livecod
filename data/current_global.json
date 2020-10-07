@@ -232,20 +232,20 @@
         "recovered": 109898
     },
     {
+        "Name": "Bolivia",
+        "Name_ch": "",
+        "Name_en": "Bolivia",
+        "confirmed": 137468,
+        "deaths": 8156,
+        "recovered": 98542
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
         "confirmed": 137248,
         "deaths": 2410,
         "recovered": 115354
-    },
-    {
-        "Name": "Bolivia",
-        "Name_ch": "",
-        "Name_en": "Bolivia",
-        "confirmed": 137107,
-        "deaths": 8129,
-        "recovered": 98007
     },
     {
         "Name": "벨기에",
