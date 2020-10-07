@@ -1,9 +1,5 @@
 ﻿[
     {
-        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
-    },
-    {
         "title": "추석 민족 대이동에 코로나 신규 확진자 1주만에 세자릿 수[종합]",
         "link": "https://www.hankyung.com/life/article/2020100728537"
     },
@@ -12,16 +8,16 @@
         "link": "https://news.imaeil.com/Society/2020100710170087531"
     },
     {
+        "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
+    },
+    {
         "title": "경남, 코로나19 확진자 1명 발생…누적 290명(종합)",
         "link": "http://www.newsis.com/view/?id=NISX20201007_0001189404&cID=10812&pID=10800"
     },
     {
-        "title": "코로나19 신규 확진자 114명…일주일 만에 다시 세자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964723.html"
-    },
-    {
-        "title": "[속보] 코로나19 114명 신규 확진...일주일만에 다시 세자릿수",
-        "link": "https://www.sedaily.com/NewsView/1Z91F1PV4X"
+        "title": "'코로나19' 국내 신규 확진자 114명…다시 세 자릿수",
+        "link": "http://www.joseilbo.com/news/news_read.php?uid=407711&class=33&grp="
     },
     {
         "title": "7일만에 신규 확진자 100명대…추석 확산 현실화 우려(종합)",
@@ -32,11 +28,15 @@
         "link": "http://yna.kr/AKR20201007027451009?did=1195m"
     },
     {
-        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
-        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
+        "title": "[속보] 코로나 신규 확진자 114명...7일 만에 다시 세자릿수",
+        "link": "https://www.chosun.com/national/welfare-medical/2020/10/07/FPCTDNQJ4VDS3OR2FXKV3J3NUM/?utm_source=naver&utm_medium=original&utm_campaign=news"
     },
     {
-        "title": "코로나19 신규 확진자 75명…엿새째 두 자릿수",
-        "link": "http://www.hani.co.kr/arti/society/health/964551.html"
+        "title": "코로나19 신규 확진 다시 세 자릿수…연휴 영향",
+        "link": "https://imnews.imbc.com/replay/2020/nw1200/article/5933347_32496.html"
+    },
+    {
+        "title": "WHO 사무총장, 연내 코로나19 백신 공급 가능성 언급",
+        "link": "http://news.jtbc.joins.com/article/article.aspx?news_id=NB11972684"
     }
 ]
