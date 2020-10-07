@@ -491,9 +491,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 47799,
-        "deaths": 1066,
-        "recovered": 43644
+        "confirmed": 48097,
+        "deaths": 1069,
+        "recovered": 43798
     },
     {
         "Name": "레바논",
@@ -1539,9 +1539,9 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 107,
+        "confirmed": 108,
         "deaths": 3,
-        "recovered": 96
+        "recovered": 97
     },
     {
         "Name": "British Virgin Islands",
