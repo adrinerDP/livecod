@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7724725,
-        "deaths": 215876,
+        "confirmed": 7726175,
+        "deaths": 215909,
         "recovered": 4936855
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6757131,
-        "deaths": 104591,
-        "recovered": 5744693
+        "confirmed": 6764710,
+        "deaths": 104651,
+        "recovered": 5750403
     },
     {
         "Name": "브라질",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 387121,
-        "deaths": 9531,
-        "recovered": 316371
+        "confirmed": 391044,
+        "deaths": 9604,
+        "recovered": 319784
     },
     {
         "Name": "Bangladesh",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 307456,
-        "deaths": 9635,
+        "confirmed": 308167,
+        "deaths": 9641,
         "recovered": 265600
     },
     {
@@ -571,8 +571,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 34072,
-        "deaths": 757,
+        "confirmed": 34193,
+        "deaths": 758,
         "recovered": 31536
     },
     {
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 28710,
-        "deaths": 903,
-        "recovered": 22274
+        "confirmed": 29075,
+        "deaths": 908,
+        "recovered": 22614
     },
     {
         "Name": "호주",
@@ -715,9 +715,9 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 14784,
+        "confirmed": 14895,
         "deaths": 275,
-        "recovered": 11190
+        "recovered": 11863
     },
     {
         "Name": "슬로바키아",
@@ -1139,9 +1139,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3081,
+        "confirmed": 3172,
         "deaths": 10,
-        "recovered": 2324
+        "recovered": 2366
     },
     {
         "Name": "South Sudan",
@@ -1651,7 +1651,7 @@
         "Name": "Greenland",
         "Name_ch": "",
         "Name_en": "Greenland",
-        "confirmed": 14,
+        "confirmed": 15,
         "deaths": 0,
         "recovered": 14
     },
