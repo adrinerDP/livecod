@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7734213,
-        "deaths": 216106,
-        "recovered": 4952216
+        "confirmed": 7735938,
+        "deaths": 216125,
+        "recovered": 4952562
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 4970953,
-        "deaths": 147571,
+        "confirmed": 4978531,
+        "deaths": 147759,
         "recovered": 4352871
     },
     {
@@ -32,20 +32,20 @@
         "recovered": 995275
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 872276,
+        "deaths": 32562,
+        "recovered": 0
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "confirmed": 869808,
         "deaths": 27017,
         "recovered": 770812
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 865631,
-        "deaths": 32486,
-        "recovered": 0
     },
     {
         "Name": "페루",
@@ -763,9 +763,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 11673,
-        "deaths": 125,
-        "recovered": 9611
+        "confirmed": 11714,
+        "deaths": 126,
+        "recovered": 9673
     },
     {
         "Name": "핀란드",
