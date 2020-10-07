@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7735938,
-        "deaths": 216125,
-        "recovered": 4952562
+        "confirmed": 7738707,
+        "deaths": 216160,
+        "recovered": 4956275
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6764710,
-        "deaths": 104651,
-        "recovered": 5750403
+        "confirmed": 6829678,
+        "deaths": 105519,
+        "recovered": 5818100
     },
     {
         "Name": "브라질",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 309228,
-        "deaths": 9645,
+        "confirmed": 309744,
+        "deaths": 9648,
         "recovered": 267700
     },
     {
@@ -1032,20 +1032,20 @@
         "recovered": 2475
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "confirmed": 4459,
+        "deaths": 13,
+        "recovered": 3274
+    },
+    {
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
         "confirmed": 4457,
         "deaths": 209,
         "recovered": 1183
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "confirmed": 4442,
-        "deaths": 13,
-        "recovered": 3274
     },
     {
         "Name": "Réunion",
@@ -1267,8 +1267,8 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1683,
-        "deaths": 39,
+        "confirmed": 1767,
+        "deaths": 40,
         "recovered": 926
     },
     {
