@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7719402,215780,4930936
+미국,美国,United States,7722746,215822,4935545
 인도,印度,India,6754179,104591,5741253
 브라질,巴西,Brazil,4970953,147571,4352871
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -7,7 +7,7 @@
 스페인,西班牙,Spain,865631,32486,0
 페루,秘鲁,Peru,832929,32914,718065
 Argentina,,Argentina,824468,21827,660272
-멕시코,墨西哥,Mexico,789780,81877,553937
+멕시코,墨西哥,Mexico,794608,82348,557478
 남아프리카 공화국,南非共和国,South Africa,683242,17103,616857
 프랑스,法国,France,634763,32365,99295
 영국,英国,UK,530113,42445,0
@@ -50,7 +50,7 @@ Guatemala,,Guatemala,94870,3310,83480
 포르투갈,葡萄牙,Portugal,80312,2032,50712
 Honduras,,Honduras,80020,2433,29768
 Ethiopia,,Ethiopia,80003,1238,34960
-Venezuela,,Venezuela,79117,658,69832
+Venezuela,,Venezuela,79796,665,70719
 바레인,巴林,Bahrain,73476,262,68606
 나이지리아,尼日利亚,Nigeria,59583,1113,51308
 Uzbekistan,,Uzbekistan,59343,489,56058
@@ -147,15 +147,15 @@ Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 안도라,安道尔,Andorra,2370,53,1615
 Benin,,Benin,2357,41,1973
 Sierra Leone,,Sierra Leone,2277,72,1710
+Belize,,Belize,2243,34,1392
 French Polynesia,,French Polynesia,2228,9,1769
-Belize,,Belize,2204,30,1378
 Burkina Faso,,Burkina Faso,2197,59,1441
 라트비아,约旦,Latvia,2194,40,1322
 Uruguay,,Uruguay,2177,49,1878
 Yemen,,Yemen,2047,593,1327
 토고,多哥,Togo,1881,49,1410
 Cyprus,,Cyprus,1876,23,1369
-New Zealand,,New Zealand,1858,25,1790
+New Zealand,,New Zealand,1861,25,1799
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1683,39,926
 Liberia,,Liberia,1354,82,1240
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85482,4634,80635
+중국,中国,China,85489,4634,80650

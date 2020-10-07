@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7719402,
-        "deaths": 215780,
-        "recovered": 4930936
+        "confirmed": 7722746,
+        "deaths": 215822,
+        "recovered": 4935545
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 789780,
-        "deaths": 81877,
-        "recovered": 553937
+        "confirmed": 794608,
+        "deaths": 82348,
+        "recovered": 557478
     },
     {
         "Name": "남아프리카 공화국",
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 79117,
-        "deaths": 658,
-        "recovered": 69832
+        "confirmed": 79796,
+        "deaths": 665,
+        "recovered": 70719
     },
     {
         "Name": "바레인",
@@ -1184,20 +1184,20 @@
         "recovered": 1710
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 2243,
+        "deaths": 34,
+        "recovered": 1392
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
         "confirmed": 2228,
         "deaths": 9,
         "recovered": 1769
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 2204,
-        "deaths": 30,
-        "recovered": 1378
     },
     {
         "Name": "Burkina Faso",
@@ -1251,9 +1251,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1858,
+        "confirmed": 1861,
         "deaths": 25,
-        "recovered": 1790
+        "recovered": 1799
     },
     {
         "Name": "Martinique",
@@ -1715,8 +1715,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85482,
+        "confirmed": 85489,
         "deaths": 4634,
-        "recovered": 80635
+        "recovered": 80650
     }
 ]
