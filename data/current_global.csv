@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7748024,216293,4959148
-인도,印度,India,6832646,105551,5821423
+미국,美国,United States,7753998,216363,4963267
+인도,印度,India,6832906,105552,5824415
 브라질,巴西,Brazil,4978531,147759,4352871
 러시아,俄罗斯,Russia,1248619,21865,995275
 스페인,西班牙,Spain,872276,32562,0
@@ -45,7 +45,7 @@ Guatemala,,Guatemala,95704,3335,84036
 네팔,尼泊尔,Nepal,94253,578,68668
 체코,捷克,Czechia,92643,823,50600
 일본,日本,Japan,86543,1605,79676
-코스타리카,哥斯达黎加,Costa Rica,82142,1004,50020
+코스타리카,哥斯达黎加,Costa Rica,83497,1024,50295
 벨라루스,白俄罗斯,Belarus,81505,874,75683
 포르투갈,葡萄牙,Portugal,81256,2040,51037
 Ethiopia,,Ethiopia,80895,1255,35670
@@ -99,10 +99,10 @@ Namibia,,Namibia,11714,126,9673
 Guinea,,Guinea,10863,68,10176
 DRC,,DRC,10804,276,10239
 Maldives,,Maldives,10621,34,9466
-French Guiana,,French Guiana,10070,69,9741
+French Guiana,,French Guiana,10103,69,9773
 Tajikistan,,Tajikistan,10055,78,8876
 조지아,格鲁吉亚,Georgia,9753,63,5235
-Mozambique,,Mozambique,9398,67,6358
+Mozambique,,Mozambique,9494,68,6812
 Uganda,,Uganda,9260,85,5588
 룩셈부르크,卢森堡,Luxembourg,9119,128,7900
 Haiti,,Haiti,8838,229,7013
@@ -131,14 +131,14 @@ Bahamas,,Bahamas,4559,100,2475
 스리랑카,斯里兰卡,Sri Lanka,4459,13,3274
 Syria,,Syria,4457,209,1183
 Réunion,,Réunion,4385,16,3360
-Aruba,,Aruba,4108,31,3643
+Aruba,,Aruba,4133,31,3678
 Mayotte,,Mayotte,3892,42,2964
 Somalia,,Somalia,3745,99,3010
 에스토니아,爱沙尼亚,Estonia,3715,67,2813
 태국,泰国,Thailand,3615,59,3391
 Gambia,,Gambia,3613,117,2233
 Malta,,Malta,3442,41,2865
-Mali,,Mali,3195,131,2494
+Mali,,Mali,3210,131,2502
 Guyana,,Guyana,3188,92,2017
 Botswana,,Botswana,3172,18,834
 Iceland,,Iceland,3172,10,2366

@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7748024,
-        "deaths": 216293,
-        "recovered": 4959148
+        "confirmed": 7753998,
+        "deaths": 216363,
+        "recovered": 4963267
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6832646,
-        "deaths": 105551,
-        "recovered": 5821423
+        "confirmed": 6832906,
+        "deaths": 105552,
+        "recovered": 5824415
     },
     {
         "Name": "브라질",
@@ -371,9 +371,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 82142,
-        "deaths": 1004,
-        "recovered": 50020
+        "confirmed": 83497,
+        "deaths": 1024,
+        "recovered": 50295
     },
     {
         "Name": "벨라루스",
@@ -803,9 +803,9 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 10070,
+        "confirmed": 10103,
         "deaths": 69,
-        "recovered": 9741
+        "recovered": 9773
     },
     {
         "Name": "Tajikistan",
@@ -827,9 +827,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 9398,
-        "deaths": 67,
-        "recovered": 6358
+        "confirmed": 9494,
+        "deaths": 68,
+        "recovered": 6812
     },
     {
         "Name": "Uganda",
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4108,
+        "confirmed": 4133,
         "deaths": 31,
-        "recovered": 3643
+        "recovered": 3678
     },
     {
         "Name": "Mayotte",
@@ -1115,9 +1115,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3195,
+        "confirmed": 3210,
         "deaths": 131,
-        "recovered": 2494
+        "recovered": 2502
     },
     {
         "Name": "Guyana",
