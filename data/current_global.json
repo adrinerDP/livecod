@@ -48,20 +48,20 @@
         "recovered": 0
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "confirmed": 840915,
+        "deaths": 22226,
+        "recovered": 670725
+    },
+    {
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
         "confirmed": 832929,
         "deaths": 32914,
         "recovered": 718065
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "confirmed": 824468,
-        "deaths": 21827,
-        "recovered": 660272
     },
     {
         "Name": "멕시코",
@@ -427,9 +427,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 59583,
+        "confirmed": 59738,
         "deaths": 1113,
-        "recovered": 51308
+        "recovered": 51403
     },
     {
         "Name": "Uzbekistan",
@@ -747,7 +747,7 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13653,
+        "confirmed": 13668,
         "deaths": 836,
         "recovered": 6764
     },
@@ -1219,9 +1219,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 2177,
+        "confirmed": 2206,
         "deaths": 49,
-        "recovered": 1878
+        "recovered": 1890
     },
     {
         "Name": "Yemen",
