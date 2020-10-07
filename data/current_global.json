@@ -696,20 +696,20 @@
         "recovered": 15808
     },
     {
+        "Name": "세네갈",
+        "Name_ch": "塞内加尔",
+        "Name_en": "Senegal",
+        "confirmed": 15174,
+        "deaths": 313,
+        "recovered": 12998
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
         "confirmed": 15170,
         "deaths": 335,
         "recovered": 14313
-    },
-    {
-        "Name": "세네갈",
-        "Name_ch": "塞内加尔",
-        "Name_en": "Senegal",
-        "confirmed": 15141,
-        "deaths": 312,
-        "recovered": 12936
     },
     {
         "Name": "노르웨이",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1098,
+        "confirmed": 1099,
         "deaths": 35,
         "recovered": 1023
     },
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 521,
+        "confirmed": 523,
         "deaths": 7,
         "recovered": 485
     },
