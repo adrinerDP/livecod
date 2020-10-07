@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 371631,
-        "deaths": 5405,
-        "recovered": 284833
+        "confirmed": 373151,
+        "deaths": 5440,
+        "recovered": 286631
     },
     {
         "Name": "사우디아라비아",
@@ -216,20 +216,20 @@
         "recovered": 0
     },
     {
+        "Name": "루마니아",
+        "Name_ch": "尼亚",
+        "Name_en": "Romania",
+        "confirmed": 142570,
+        "deaths": 5203,
+        "recovered": 111564
+    },
+    {
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
         "confirmed": 142056,
         "deaths": 11702,
         "recovered": 120511
-    },
-    {
-        "Name": "루마니아",
-        "Name_ch": "尼亚",
-        "Name_en": "Romania",
-        "confirmed": 139612,
-        "deaths": 5121,
-        "recovered": 109898
     },
     {
         "Name": "Bolivia",
@@ -720,20 +720,20 @@
         "recovered": 11190
     },
     {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 14689,
+        "deaths": 55,
+        "recovered": 5200
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "confirmed": 14568,
         "deaths": 403,
         "recovered": 8965
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 13812,
-        "deaths": 55,
-        "recovered": 5027
     },
     {
         "Name": "Sudan",
