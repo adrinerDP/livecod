@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7717830,215725,4926980
+미국,美国,United States,7719402,215780,4930936
 인도,印度,India,6754179,104591,5741253
 브라질,巴西,Brazil,4970953,147571,4352871
 러시아,俄罗斯,Russia,1237504,21663,988576
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,371631,5405,284833
 필리핀,菲律宾,Philippines,326833,5865,273313
 파키스탄,巴基斯坦,Pakistan,315727,6523,300616
 인도네시아,印度尼西亚,Indonesia,311176,11374,236437
-독일,德国,Germany,307119,9635,263700
+독일,德国,Germany,307119,9635,265600
 이스라엘,以色列,Israel,277026,1797,211397
 Ukraine,,Ukraine,234584,4520,103401
 캐나다,加拿大,Canada,171323,9530,143994
@@ -32,7 +32,7 @@ Ukraine,,Ukraine,234584,4520,103401
 Bolivia,,Bolivia,137107,8129,98007
 벨기에,比利时,Belgium,132203,10078,19719
 카타르,卡塔尔,Qatar,126943,216,123893
-Panama,,Panama,115919,2430,92423
+Panama,,Panama,116602,2440,92950
 도미니카 공화국,多明尼加共和国,Dominican Republic,115371,2149,91569
 Kazakhstan,,Kazakhstan,108296,1725,103367
 쿠웨이트,科威特,Kuwait,108268,632,100179
@@ -75,7 +75,7 @@ Libya,,Libya,38468,602,22410
 덴마크,丹麦,Denmark,30379,663,23655
 El Salvador,,El Salvador,29634,869,24525
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,28710,903,22274
-호주,澳大利亚,Australia,27173,895,24892
+호주,澳大利亚,Australia,27174,895,24917
 Bulgaria,,Bulgaria,22306,862,15310
 Tunisia,,Tunisia,22230,321,5032
 카메룬,喀麦隆,Cameroon,20924,420,19764
@@ -156,13 +156,13 @@ Yemen,,Yemen,2047,593,1327
 토고,多哥,Togo,1881,49,1410
 Cyprus,,Cyprus,1876,23,1369
 New Zealand,,New Zealand,1858,25,1790
+Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1683,39,926
-Martinique,,Martinique,1543,21,98
 Liberia,,Liberia,1354,82,1240
 Chad,,Chad,1238,88,1077
 Niger,,Niger,1200,69,1115
 베트남,越南,Vietnam,1098,35,1023
-Sao Tome and Principe,,Sao Tome and Principe,913,15,888
+Sao Tome and Principe,,Sao Tome and Principe,914,15,888
 산마리노,圣马力诺,San Marino,732,42,680
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,695,48,600
@@ -178,7 +178,7 @@ Faeroe Islands,,Faeroe Islands,475,0,452
 지브롤터,直布罗陀,Gibraltar,437,0,368
 Saint Martin,,Saint Martin,412,8,309
 Eritrea,,Eritrea,398,0,358
-Mauritius,,Mauritius,387,10,357
+Mauritius,,Mauritius,395,10,357
 Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,307
 부탄,不丹,Bhutan,299,0,248
