@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7756318,
-        "deaths": 216411,
-        "recovered": 4963750
+        "confirmed": 7757830,
+        "deaths": 216424,
+        "recovered": 4964455
     },
     {
         "Name": "인도",
@@ -939,9 +939,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5598,
-        "deaths": 112,
-        "recovered": 5169
+        "confirmed": 5617,
+        "deaths": 113,
+        "recovered": 5196
     },
     {
         "Name": "Lithuania",
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1238,
-        "deaths": 88,
-        "recovered": 1077
+        "confirmed": 1251,
+        "deaths": 89,
+        "recovered": 1090
     },
     {
         "Name": "Niger",
@@ -1384,20 +1384,20 @@
         "recovered": 183
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 505,
+        "deaths": 1,
+        "recovered": 270
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
         "confirmed": 491,
         "deaths": 7,
         "recovered": 468
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 476,
-        "deaths": 1,
-        "recovered": 262
     },
     {
         "Name": "Faeroe Islands",
