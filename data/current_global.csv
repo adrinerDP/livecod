@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7742919,216218,4957463
-인도,印度,India,6829678,105519,5818100
+미국,美国,United States,7745705,216277,4959148
+인도,印度,India,6832646,105551,5821423
 브라질,巴西,Brazil,4978531,147759,4352871
 러시아,俄罗斯,Russia,1248619,21865,995275
 스페인,西班牙,Spain,872276,32562,0
@@ -9,7 +9,7 @@
 Argentina,,Argentina,824468,21827,660272
 멕시코,墨西哥,Mexico,794608,82348,557478
 남아프리카 공화국,南非共和国,South Africa,683242,17103,616857
-프랑스,法国,France,653509,32445,99295
+프랑스,法国,France,653509,32445,99793
 영국,英国,UK,544275,42515,0
 이란,伊朗,Iran,483844,27658,397109
 칠레,智利,Chile,474440,13090,447053
@@ -21,15 +21,15 @@ Bangladesh,,Bangladesh,373151,5440,286631
 터키,土耳其,Turkey,329138,8609,288954
 파키스탄,巴基斯坦,Pakistan,316351,6535,301288
 인도네시아,印度尼西亚,Indonesia,315714,11472,240291
-독일,德国,Germany,309744,9648,267700
+독일,德国,Germany,310779,9652,267700
 이스라엘,以色列,Israel,280744,1818,216438
 Ukraine,,Ukraine,239337,4597,105970
 캐나다,加拿大,Canada,172806,9538,145403
 네덜란드,荷兰,Netherlands,149988,6518,0
 루마니아,尼亚,Romania,142570,5203,111564
 에콰도르,厄瓜多尔,Ecuador,142056,11702,120511
+모로코,摩洛哥,Morocco,140024,2439,118142
 Bolivia,,Bolivia,137468,8156,98542
-모로코,摩洛哥,Morocco,137248,2410,115354
 벨기에,比利时,Belgium,134291,10092,19812
 카타르,卡塔尔,Qatar,127181,218,124108
 Panama,,Panama,116602,2440,92950
@@ -66,7 +66,7 @@ Ghana,,Ghana,46829,303,46060
 Paraguay,,Paraguay,45647,966,28546
 팔레스타인,巴勒斯坦,Palestine,42840,355,35953
 아제르바이잔,阿塞拜疆,Azerbaijan,41113,602,38858
-Kenya,,Kenya,39586,743,27331
+Kenya,,Kenya,39907,748,27331
 아일랜드,冰岛,Ireland,39584,1816,23364
 아프가니스탄,阿富汗,Afghanistan,39548,1469,33045
 Libya,,Libya,39513,608,22831
@@ -86,8 +86,8 @@ Ivory Coast,,Ivory Coast,19903,120,19539
 North Macedonia,,North Macedonia,19413,772,15749
 크로아티아,克罗地亚,Croatia,18447,309,16308
 Madagascar,,Madagascar,16633,235,15808
+Zambia,,Zambia,15224,335,14342
 세네갈,塞内加尔,Senegal,15174,313,12998
-Zambia,,Zambia,15170,335,14313
 노르웨이,挪威,Norway,14895,275,11863
 Albania,,Albania,14730,407,9115
 슬로바키아,斯洛伐克,Slovakia,14689,55,5200
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,308
 부탄,不丹,Bhutan,300,0,250
 캄보디아,柬埔寨,Cambodia,280,0,276
-모나코,摩纳哥,Monaco,224,2,198
+모나코,摩纳哥,Monaco,227,2,202
 Cayman Islands,,Cayman Islands,213,1,210
 Barbados,,Barbados,200,7,182
 Bermuda,,Bermuda,181,9,170
