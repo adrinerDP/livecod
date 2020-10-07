@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7722746,215822,4935545
-인도,印度,India,6754179,104591,5741253
+인도,印度,India,6757131,104591,5744693
 브라질,巴西,Brazil,4970953,147571,4352871
 러시아,俄罗斯,Russia,1237504,21663,988576
 콜롬비아,哥伦比亚,Colombia,869808,27017,770812
@@ -34,7 +34,7 @@ Bolivia,,Bolivia,137468,8156,98542
 카타르,卡塔尔,Qatar,126943,216,123893
 Panama,,Panama,116602,2440,92950
 도미니카 공화국,多明尼加共和国,Dominican Republic,115371,2149,91569
-Kazakhstan,,Kazakhstan,108362,1746,103367
+Kazakhstan,,Kazakhstan,108362,1746,103465
 쿠웨이트,科威特,Kuwait,108268,632,100179
 폴란드,波兰,Poland,104316,2717,74158
 이집트,埃及,Egypt,103902,6001,97449
@@ -135,8 +135,8 @@ Aruba,,Aruba,4108,31,3643
 Mayotte,,Mayotte,3892,42,2964
 Somalia,,Somalia,3745,99,3010
 에스토니아,爱沙尼亚,Estonia,3659,67,2806
+태국,泰国,Thailand,3615,59,3391
 Gambia,,Gambia,3613,117,2233
-태국,泰国,Thailand,3600,59,3390
 Malta,,Malta,3374,40,2812
 Mali,,Mali,3195,131,2494
 Guyana,,Guyana,3188,92,2017
@@ -180,8 +180,8 @@ Saint Martin,,Saint Martin,412,8,309
 Eritrea,,Eritrea,398,0,358
 Mauritius,,Mauritius,395,10,357
 Isle of Man,,Isle of Man,345,24,316
-Mongolia,,Mongolia,315,0,307
-부탄,不丹,Bhutan,299,0,248
+Mongolia,,Mongolia,315,0,308
+부탄,不丹,Bhutan,300,0,250
 캄보디아,柬埔寨,Cambodia,280,0,276
 모나코,摩纳哥,Monaco,224,2,198
 Cayman Islands,,Cayman Islands,213,1,210

@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6754179,
+        "confirmed": 6757131,
         "deaths": 104591,
-        "recovered": 5741253
+        "recovered": 5744693
     },
     {
         "Name": "브라질",
@@ -285,7 +285,7 @@
         "Name_en": "Kazakhstan",
         "confirmed": 108362,
         "deaths": 1746,
-        "recovered": 103367
+        "recovered": 103465
     },
     {
         "Name": "쿠웨이트",
@@ -1088,20 +1088,20 @@
         "recovered": 2806
     },
     {
+        "Name": "태국",
+        "Name_ch": "泰国",
+        "Name_en": "Thailand",
+        "confirmed": 3615,
+        "deaths": 59,
+        "recovered": 3391
+    },
+    {
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
         "confirmed": 3613,
         "deaths": 117,
         "recovered": 2233
-    },
-    {
-        "Name": "태국",
-        "Name_ch": "泰国",
-        "Name_en": "Thailand",
-        "confirmed": 3600,
-        "deaths": 59,
-        "recovered": 3390
     },
     {
         "Name": "Malta",
@@ -1453,15 +1453,15 @@
         "Name_en": "Mongolia",
         "confirmed": 315,
         "deaths": 0,
-        "recovered": 307
+        "recovered": 308
     },
     {
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 299,
+        "confirmed": 300,
         "deaths": 0,
-        "recovered": 248
+        "recovered": 250
     },
     {
         "Name": "캄보디아",
