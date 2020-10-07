@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7765500,
-        "deaths": 216572,
-        "recovered": 4969454
+        "confirmed": 7767336,
+        "deaths": 216596,
+        "recovered": 4970744
     },
     {
         "Name": "인도",
@@ -32,20 +32,20 @@
         "recovered": 995275
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 877683,
+        "deaths": 27180,
+        "recovered": 773973
+    },
+    {
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
         "confirmed": 872276,
         "deaths": 32562,
         "recovered": 0
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 869808,
-        "deaths": 27017,
-        "recovered": 770812
     },
     {
         "Name": "페루",
@@ -307,9 +307,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 103902,
-        "deaths": 6001,
-        "recovered": 97449
+        "confirmed": 104035,
+        "deaths": 6010,
+        "recovered": 97492
     },
     {
         "Name": "오만",
@@ -541,7 +541,7 @@
         "Name_en": "Kenya",
         "confirmed": 39907,
         "deaths": 748,
-        "recovered": 27331
+        "recovered": 31659
     },
     {
         "Name": "아일랜드",
@@ -867,9 +867,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7915,
+        "confirmed": 7919,
         "deaths": 229,
-        "recovered": 6440
+        "recovered": 6441
     },
     {
         "Name": "Mauritania",
@@ -1000,20 +1000,20 @@
         "recovered": 4766
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 4887,
+        "deaths": 84,
+        "recovered": 3010
+    },
+    {
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
         "confirmed": 4883,
         "deaths": 29,
         "recovered": 3408
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 4876,
-        "deaths": 84,
-        "recovered": 3010
     },
     {
         "Name": "CAR",
