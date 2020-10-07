@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7757830,
-        "deaths": 216424,
-        "recovered": 4964455
+        "confirmed": 7759642,
+        "deaths": 216459,
+        "recovered": 4966339
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6832906,
-        "deaths": 105552,
-        "recovered": 5824415
+        "confirmed": 6832988,
+        "deaths": 105554,
+        "recovered": 5824462
     },
     {
         "Name": "브라질",
@@ -1232,20 +1232,20 @@
         "recovered": 1327
     },
     {
+        "Name": "토고",
+        "Name_ch": "多哥",
+        "Name_en": "Togo",
+        "confirmed": 1898,
+        "deaths": 49,
+        "recovered": 1419
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
         "confirmed": 1897,
         "deaths": 24,
         "recovered": 1369
-    },
-    {
-        "Name": "토고",
-        "Name_ch": "多哥",
-        "Name_en": "Togo",
-        "confirmed": 1881,
-        "deaths": 49,
-        "recovered": 1410
     },
     {
         "Name": "New Zealand",
