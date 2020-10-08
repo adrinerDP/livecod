@@ -936,20 +936,20 @@
         "recovered": 2598
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 5625,
+        "deaths": 102,
+        "recovered": 2660
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "confirmed": 5617,
         "deaths": 113,
         "recovered": 5196
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 5483,
-        "deaths": 101,
-        "recovered": 2600
     },
     {
         "Name": "Djibouti",
@@ -1072,20 +1072,20 @@
         "recovered": 2964
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+        "confirmed": 3760,
+        "deaths": 67,
+        "recovered": 2824
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
         "confirmed": 3745,
         "deaths": 99,
         "recovered": 3010
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "爱沙尼亚",
-        "Name_en": "Estonia",
-        "confirmed": 3715,
-        "deaths": 67,
-        "recovered": 2813
     },
     {
         "Name": "태국",
