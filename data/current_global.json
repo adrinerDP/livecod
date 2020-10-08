@@ -83,9 +83,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 653509,
-        "deaths": 32445,
-        "recovered": 99793
+        "confirmed": 671638,
+        "deaths": 32521,
+        "recovered": 100306
     },
     {
         "Name": "영국",
@@ -155,9 +155,9 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 329138,
-        "deaths": 8609,
-        "recovered": 288954
+        "confirmed": 330753,
+        "deaths": 8667,
+        "recovered": 290352
     },
     {
         "Name": "인도네시아",
@@ -491,9 +491,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 48377,
-        "deaths": 433,
-        "recovered": 21120
+        "confirmed": 49744,
+        "deaths": 439,
+        "recovered": 21760
     },
     {
         "Name": "Kyrgyzstan",
@@ -1147,8 +1147,8 @@
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
-        "confirmed": 2748,
-        "deaths": 50,
+        "confirmed": 2749,
+        "deaths": 53,
         "recovered": 1290
     },
     {
