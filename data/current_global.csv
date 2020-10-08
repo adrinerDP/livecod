@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7793305,217163,4998515
-인도,印度,India,6899747,106500,5897160
+미국,美国,United States,7794307,217173,4999035
+인도,印度,India,6902775,106534,5901710
 브라질,巴西,Brazil,5006528,148449,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
+스페인,西班牙,Spain,884381,32688,0
 콜롬비아,哥伦比亚,Colombia,877683,27180,773973
-스페인,西班牙,Spain,872276,32562,0
 Argentina,,Argentina,840915,22226,670725
 페루,秘鲁,Peru,835662,33009,723606
 멕시코,墨西哥,Mexico,799188,82726,560895
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,244734,4690,108233
 캐나다,加拿大,Canada,174998,9554,147211
 네덜란드,荷兰,Netherlands,155810,6531,0
 루마니아,尼亚,Romania,145700,5247,113112
-에콰도르,厄瓜多尔,Ecuador,143531,11743,120511
+에콰도르,厄瓜多尔,Ecuador,145045,12141,120511
 모로코,摩洛哥,Morocco,140024,2439,118142
 벨기에,比利时,Belgium,137868,10108,19895
 Bolivia,,Bolivia,137706,8192,99268
@@ -52,24 +52,24 @@ Honduras,,Honduras,81016,2466,30590
 Ethiopia,,Ethiopia,80895,1255,35670
 Venezuela,,Venezuela,80404,671,71531
 바레인,巴林,Bahrain,73932,262,69411
+Uzbekistan,,Uzbekistan,60026,496,56837
 Moldova,,Moldova,59915,1424,43008
-Uzbekistan,,Uzbekistan,59905,494,56568
 나이지리아,尼日利亚,Nigeria,59738,1113,51403
 스위스,瑞士,Switzerland,58881,2087,47300
 싱가포르,新加坡,Singapore,57849,27,57668
 아르메니아,亚美尼亚,Armenia,54473,1004,45312
-알제리,阿尔及利亚,Algeria,52520,1771,36857
+알제리,阿尔及利亚,Algeria,52658,1783,36958
 오스트리아,奥地利,Austria,52057,838,41289
 레바논,黎巴嫩,Lebanon,49744,439,21760
 Kyrgyzstan,,Kyrgyzstan,48342,1073,43957
-Ghana,,Ghana,46829,303,46060
+Ghana,,Ghana,46947,306,46259
 Paraguay,,Paraguay,46435,989,29270
 팔레스타인,巴勒斯坦,Palestine,43256,359,36584
 아제르바이잔,阿塞拜疆,Azerbaijan,41304,603,39012
 Libya,,Libya,40292,616,23130
 Kenya,,Kenya,40178,751,31710
+아일랜드,冰岛,Ireland,40086,1817,23364
 아프가니스탄,阿富汗,Afghanistan,39616,1470,33058
-아일랜드,冰岛,Ireland,39584,1816,23364
 세르비아,塞尔维亚,Serbia,34344,760,31536
 헝가리,匈牙利,Hungary,34046,898,9187
 덴마크,丹麦,Denmark,31156,665,24899
@@ -169,10 +169,10 @@ Channel Islands,,Channel Islands,699,48,623
 Sint Maarten,,Sint Maarten,698,22,592
 Turks and Caicos,,Turks and Caicos,695,6,656
 Papua New Guinea,,Papua New Guinea,549,7,532
+Curaçao,,Curaçao,532,1,281
 대만,台湾,Taiwan,524,7,485
 Burundi,,Burundi,515,1,472
 Tanzania,,Tanzania,509,21,183
-Curaçao,,Curaçao,505,1,270
 Comoros,,Comoros,491,7,468
 Faeroe Islands,,Faeroe Islands,477,0,456
 지브롤터,直布罗陀,Gibraltar,452,0,386
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,308
 부탄,不丹,Bhutan,304,0,252
 캄보디아,柬埔寨,Cambodia,281,0,276
-모나코,摩纳哥,Monaco,227,2,202
+모나코,摩纳哥,Monaco,229,2,207
 Cayman Islands,,Cayman Islands,213,1,210
 Barbados,,Barbados,203,7,182
 Bermuda,,Bermuda,181,9,170
