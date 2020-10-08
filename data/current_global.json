@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7826721,
-        "deaths": 217609,
-        "recovered": 5015170
+        "confirmed": 7829136,
+        "deaths": 217638,
+        "recovered": 5015621
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5028444,
-        "deaths": 148957,
+        "confirmed": 5029539,
+        "deaths": 149034,
         "recovered": 4414564
     },
     {
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 835662,
-        "deaths": 33009,
-        "recovered": 723606
+        "confirmed": 838614,
+        "deaths": 33098,
+        "recovered": 728216
     },
     {
         "Name": "멕시코",
@@ -328,20 +328,20 @@
         "recovered": 93479
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 100757,
+        "deaths": 869,
+        "recovered": 51160
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 98617,
         "deaths": 590,
         "recovered": 71343
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 98498,
-        "deaths": 863,
-        "recovered": 51117
     },
     {
         "Name": "스웨덴",
@@ -851,8 +851,8 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8838,
-        "deaths": 229,
+        "confirmed": 8854,
+        "deaths": 230,
         "recovered": 7013
     },
     {
@@ -875,9 +875,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7535,
+        "confirmed": 7540,
         "deaths": 162,
-        "recovered": 7212
+        "recovered": 7227
     },
     {
         "Name": "슬로베니아",
@@ -1219,9 +1219,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 2206,
+        "confirmed": 2226,
         "deaths": 49,
-        "recovered": 1890
+        "recovered": 1904
     },
     {
         "Name": "Yemen",
