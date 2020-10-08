@@ -1,14 +1,14 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7819464,217485,5011191
+미국,美国,United States,7822035,217561,5013514
 인도,印度,India,6903806,106554,5903170
-브라질,巴西,Brazil,5006528,148449,4391424
+브라질,巴西,Brazil,5028444,148957,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
 스페인,西班牙,Spain,884381,32688,0
 콜롬비아,哥伦比亚,Colombia,877683,27180,773973
 Argentina,,Argentina,840915,22226,670725
 페루,秘鲁,Peru,835662,33009,723606
 멕시코,墨西哥,Mexico,799188,82726,560895
-남아프리카 공화국,南非共和国,South Africa,685155,17248,618127
+남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
 프랑스,法国,France,671638,32521,100306
 영국,英国,UK,561815,42592,0
 이란,伊朗,Iran,488236,27888,399300
@@ -104,7 +104,7 @@ French Guiana,,French Guiana,10128,69,9799
 Tajikistan,,Tajikistan,10097,78,8914
 Mozambique,,Mozambique,9639,68,6911
 Uganda,,Uganda,9442,85,5781
-룩셈부르크,卢森堡,Luxembourg,9119,128,7900
+룩셈부르크,卢森堡,Luxembourg,9219,129,7973
 Haiti,,Haiti,8838,229,7013
 Gabon,,Gabon,8815,54,8164
 Zimbabwe,,Zimbabwe,7951,229,6446
@@ -138,7 +138,7 @@ Somalia,,Somalia,3745,99,3010
 태국,泰国,Thailand,3622,59,3439
 Gambia,,Gambia,3617,117,2437
 Malta,,Malta,3506,41,2884
-Guyana,,Guyana,3292,95,2084
+Guyana,,Guyana,3329,98,2165
 Iceland,,Iceland,3267,10,2411
 Mali,,Mali,3235,131,2506
 Botswana,,Botswana,3219,18,834
@@ -150,9 +150,9 @@ Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 라트비아,约旦,Latvia,2370,40,1322
 Belize,,Belize,2310,34,1427
 Sierra Leone,,Sierra Leone,2293,72,1721
-Burkina Faso,,Burkina Faso,2222,59,1478
+Burkina Faso,,Burkina Faso,2241,60,1506
 Uruguay,,Uruguay,2206,49,1890
-Yemen,,Yemen,2049,593,1328
+Yemen,,Yemen,2050,593,1329
 Cyprus,,Cyprus,1918,24,1369
 토고,多哥,Togo,1907,49,1426
 New Zealand,,New Zealand,1864,25,1800

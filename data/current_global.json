@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7819464,
-        "deaths": 217485,
-        "recovered": 5011191
+        "confirmed": 7822035,
+        "deaths": 217561,
+        "recovered": 5013514
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5006528,
-        "deaths": 148449,
+        "confirmed": 5028444,
+        "deaths": 148957,
         "recovered": 4391424
     },
     {
@@ -75,9 +75,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 685155,
-        "deaths": 17248,
-        "recovered": 618127
+        "confirmed": 686891,
+        "deaths": 17408,
+        "recovered": 618771
     },
     {
         "Name": "프랑스",
@@ -843,9 +843,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 9119,
-        "deaths": 128,
-        "recovered": 7900
+        "confirmed": 9219,
+        "deaths": 129,
+        "recovered": 7973
     },
     {
         "Name": "Haiti",
@@ -1115,9 +1115,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 3292,
-        "deaths": 95,
-        "recovered": 2084
+        "confirmed": 3329,
+        "deaths": 98,
+        "recovered": 2165
     },
     {
         "Name": "Iceland",
@@ -1211,9 +1211,9 @@
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
-        "confirmed": 2222,
-        "deaths": 59,
-        "recovered": 1478
+        "confirmed": 2241,
+        "deaths": 60,
+        "recovered": 1506
     },
     {
         "Name": "Uruguay",
@@ -1227,9 +1227,9 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2049,
+        "confirmed": 2050,
         "deaths": 593,
-        "recovered": 1328
+        "recovered": 1329
     },
     {
         "Name": "Cyprus",
