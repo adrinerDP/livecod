@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7799116,
-        "deaths": 217208,
-        "recovered": 5000736
+        "confirmed": 7802655,
+        "deaths": 217253,
+        "recovered": 5001098
     },
     {
         "Name": "인도",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 313407,
-        "deaths": 9665,
+        "confirmed": 314097,
+        "deaths": 9666,
         "recovered": 267700
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 174998,
+        "confirmed": 175067,
         "deaths": 9554,
-        "recovered": 147211
+        "recovered": 147218
     },
     {
         "Name": "네덜란드",
@@ -795,9 +795,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10656,
+        "confirmed": 10742,
         "deaths": 34,
-        "recovered": 9547
+        "recovered": 9589
     },
     {
         "Name": "조지아",
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4133,
+        "confirmed": 4150,
         "deaths": 31,
-        "recovered": 3678
+        "recovered": 3718
     },
     {
         "Name": "Mayotte",
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1251,
+        "confirmed": 1262,
         "deaths": 89,
-        "recovered": 1090
+        "recovered": 1098
     },
     {
         "Name": "Niger",
