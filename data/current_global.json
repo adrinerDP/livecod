@@ -147,9 +147,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 329637,
-        "deaths": 5925,
-        "recovered": 273723
+        "confirmed": 331869,
+        "deaths": 6069,
+        "recovered": 274318
     },
     {
         "Name": "터키",
@@ -301,7 +301,7 @@
         "Name_en": "Poland",
         "confirmed": 107319,
         "deaths": 2792,
-        "recovered": 75346
+        "recovered": 76490
     },
     {
         "Name": "이집트",
@@ -451,7 +451,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57840,
+        "confirmed": 57849,
         "deaths": 27,
         "recovered": 57624
     },
@@ -683,9 +683,9 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 18447,
-        "deaths": 309,
-        "recovered": 16308
+        "confirmed": 18989,
+        "deaths": 310,
+        "recovered": 16473
     },
     {
         "Name": "Madagascar",
@@ -694,6 +694,14 @@
         "confirmed": 16633,
         "deaths": 235,
         "recovered": 15808
+    },
+    {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 15726,
+        "deaths": 57,
+        "recovered": 5353
     },
     {
         "Name": "Zambia",
@@ -726,14 +734,6 @@
         "confirmed": 14730,
         "deaths": 407,
         "recovered": 9115
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 14689,
-        "deaths": 55,
-        "recovered": 5200
     },
     {
         "Name": "말레이시아",
@@ -1176,6 +1176,14 @@
         "recovered": 1728
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2370,
+        "deaths": 40,
+        "recovered": 1322
+    },
+    {
         "Name": "French Polynesia",
         "Name_ch": "",
         "Name_en": "French Polynesia",
@@ -1198,14 +1206,6 @@
         "confirmed": 2287,
         "deaths": 72,
         "recovered": 1716
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2261,
-        "deaths": 40,
-        "recovered": 1322
     },
     {
         "Name": "Burkina Faso",
