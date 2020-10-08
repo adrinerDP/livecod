@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1248619,
-        "deaths": 21865,
-        "recovered": 995275
+        "confirmed": 1260112,
+        "deaths": 22056,
+        "recovered": 1002329
     },
     {
         "Name": "콜롬비아",
@@ -160,20 +160,20 @@
         "recovered": 288954
     },
     {
+        "Name": "인도네시아",
+        "Name_ch": "印度尼西亚",
+        "Name_en": "Indonesia",
+        "confirmed": 320564,
+        "deaths": 11580,
+        "recovered": 244060
+    },
+    {
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
         "confirmed": 316934,
         "deaths": 6544,
         "recovered": 302375
-    },
-    {
-        "Name": "인도네시아",
-        "Name_ch": "印度尼西亚",
-        "Name_en": "Indonesia",
-        "confirmed": 315714,
-        "deaths": 11472,
-        "recovered": 240291
     },
     {
         "Name": "독일",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 282872,
-        "deaths": 1824,
-        "recovered": 219998
+        "confirmed": 283532,
+        "deaths": 1846,
+        "recovered": 220046
     },
     {
         "Name": "Ukraine",
@@ -280,6 +280,14 @@
         "recovered": 92157
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 111599,
+        "deaths": 2867,
+        "recovered": 76490
+    },
+    {
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
@@ -294,14 +302,6 @@
         "confirmed": 108454,
         "deaths": 1746,
         "recovered": 103604
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 107319,
-        "deaths": 2792,
-        "recovered": 76490
     },
     {
         "Name": "이집트",
@@ -1531,9 +1531,9 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 131,
+        "confirmed": 135,
         "deaths": 1,
-        "recovered": 116
+        "recovered": 117
     },
     {
         "Name": "Antigua and Barbuda",
