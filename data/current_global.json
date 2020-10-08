@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7786416,
-        "deaths": 217066,
-        "recovered": 4997367
+        "confirmed": 7787879,
+        "deaths": 217087,
+        "recovered": 4997380
     },
     {
         "Name": "인도",
@@ -107,9 +107,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 474440,
-        "deaths": 13090,
-        "recovered": 447053
+        "confirmed": 476016,
+        "deaths": 13167,
+        "recovered": 448710
     },
     {
         "Name": "이라크",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 312679,
+        "confirmed": 312908,
         "deaths": 9664,
         "recovered": 267700
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 173920,
-        "deaths": 9545,
-        "recovered": 146361
+        "confirmed": 174998,
+        "deaths": 9554,
+        "recovered": 147211
     },
     {
         "Name": "네덜란드",
@@ -336,6 +336,14 @@
         "recovered": 71343
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 98498,
+        "deaths": 863,
+        "recovered": 51117
+    },
+    {
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
@@ -350,14 +358,6 @@
         "confirmed": 96480,
         "deaths": 3347,
         "recovered": 84738
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 95360,
-        "deaths": 829,
-        "recovered": 50767
     },
     {
         "Name": "일본",
@@ -640,6 +640,14 @@
         "recovered": 6366
     },
     {
+        "Name": "요르단",
+        "Name_ch": "约旦",
+        "Name_en": "Jordan",
+        "confirmed": 21517,
+        "deaths": 144,
+        "recovered": 5777
+    },
+    {
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
@@ -654,14 +662,6 @@
         "confirmed": 20924,
         "deaths": 420,
         "recovered": 19764
-    },
-    {
-        "Name": "요르단",
-        "Name_ch": "约旦",
-        "Name_en": "Jordan",
-        "confirmed": 20200,
-        "deaths": 131,
-        "recovered": 5575
     },
     {
         "Name": "Ivory Coast",
@@ -731,9 +731,9 @@
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
-        "confirmed": 14730,
-        "deaths": 407,
-        "recovered": 9115
+        "confirmed": 14899,
+        "deaths": 411,
+        "recovered": 9215
     },
     {
         "Name": "말레이시아",
@@ -1156,8 +1156,16 @@
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
         "confirmed": 2568,
-        "deaths": 53,
+        "deaths": 54,
         "recovered": 1715
+    },
+    {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 2420,
+        "deaths": 10,
+        "recovered": 1857
     },
     {
         "Name": "Benin",
@@ -1182,14 +1190,6 @@
         "confirmed": 2370,
         "deaths": 40,
         "recovered": 1322
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 2358,
-        "deaths": 10,
-        "recovered": 1857
     },
     {
         "Name": "Belize",
@@ -1232,20 +1232,20 @@
         "recovered": 1328
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "confirmed": 1918,
+        "deaths": 24,
+        "recovered": 1369
+    },
+    {
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
         "confirmed": 1898,
         "deaths": 49,
         "recovered": 1419
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
-        "confirmed": 1897,
-        "deaths": 24,
-        "recovered": 1369
     },
     {
         "Name": "New Zealand",
@@ -1315,9 +1315,9 @@
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
-        "confirmed": 732,
+        "confirmed": 741,
         "deaths": 42,
-        "recovered": 680
+        "recovered": 682
     },
     {
         "Name": "일본크루즈",
@@ -1355,9 +1355,9 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 541,
+        "confirmed": 549,
         "deaths": 7,
-        "recovered": 527
+        "recovered": 532
     },
     {
         "Name": "대만",
