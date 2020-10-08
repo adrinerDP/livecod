@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7787879,217087,4997380
-인도,印度,India,6841813,105632,5836826
-브라질,巴西,Brazil,5002357,148304,4391424
+미국,美国,United States,7793305,217163,4998515
+인도,印度,India,6899747,106500,5897160
+브라질,巴西,Brazil,5006528,148449,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
 콜롬비아,哥伦比亚,Colombia,877683,27180,773973
 스페인,西班牙,Spain,872276,32562,0
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,374592,5460,288316
 인도네시아,印度尼西亚,Indonesia,320564,11580,244060
 파키스탄,巴基斯坦,Pakistan,316934,6544,302375
 독일,德国,Germany,312908,9664,267700
-이스라엘,以色列,Israel,283532,1846,220046
+이스라엘,以色列,Israel,284705,1864,221373
 Ukraine,,Ukraine,244734,4690,108233
 캐나다,加拿大,Canada,174998,9554,147211
 네덜란드,荷兰,Netherlands,155810,6531,0
@@ -102,7 +102,7 @@ Maldives,,Maldives,10656,34,9547
 조지아,格鲁吉亚,Georgia,10225,66,5553
 French Guiana,,French Guiana,10128,69,9799
 Tajikistan,,Tajikistan,10097,78,8914
-Mozambique,,Mozambique,9494,68,6812
+Mozambique,,Mozambique,9639,68,6911
 Uganda,,Uganda,9442,85,5781
 룩셈부르크,卢森堡,Luxembourg,9119,128,7900
 Haiti,,Haiti,8838,229,7013
@@ -129,7 +129,7 @@ Rwanda,,Rwanda,4883,29,3408
 CAR,,CAR,4852,62,1914
 Bahamas,,Bahamas,4713,102,2607
 Syria,,Syria,4504,212,1198
-스리랑카,斯里兰卡,Sri Lanka,4469,13,3278
+스리랑카,斯里兰卡,Sri Lanka,4482,13,3278
 Réunion,,Réunion,4385,16,3360
 Aruba,,Aruba,4133,31,3678
 Mayotte,,Mayotte,3892,42,2964
@@ -161,11 +161,11 @@ Lesotho,,Lesotho,1786,41,926
 Liberia,,Liberia,1360,82,1245
 Chad,,Chad,1251,89,1090
 Niger,,Niger,1200,69,1122
-베트남,越南,Vietnam,1099,35,1023
+베트남,越南,Vietnam,1100,35,1023
 Sao Tome and Principe,,Sao Tome and Principe,914,15,888
 산마리노,圣马力诺,San Marino,741,42,682
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
-Channel Islands,,Channel Islands,698,48,600
+Channel Islands,,Channel Islands,699,48,623
 Sint Maarten,,Sint Maarten,698,22,592
 Turks and Caicos,,Turks and Caicos,695,6,656
 Papua New Guinea,,Papua New Guinea,549,7,532

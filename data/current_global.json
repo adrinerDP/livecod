@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7787879,
-        "deaths": 217087,
-        "recovered": 4997380
+        "confirmed": 7793305,
+        "deaths": 217163,
+        "recovered": 4998515
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6841813,
-        "deaths": 105632,
-        "recovered": 5836826
+        "confirmed": 6899747,
+        "deaths": 106500,
+        "recovered": 5897160
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5002357,
-        "deaths": 148304,
+        "confirmed": 5006528,
+        "deaths": 148449,
         "recovered": 4391424
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 283532,
-        "deaths": 1846,
-        "recovered": 220046
+        "confirmed": 284705,
+        "deaths": 1864,
+        "recovered": 221373
     },
     {
         "Name": "Ukraine",
@@ -827,9 +827,9 @@
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 9494,
+        "confirmed": 9639,
         "deaths": 68,
-        "recovered": 6812
+        "recovered": 6911
     },
     {
         "Name": "Uganda",
@@ -1043,7 +1043,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 4469,
+        "confirmed": 4482,
         "deaths": 13,
         "recovered": 3278
     },
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1099,
+        "confirmed": 1100,
         "deaths": 35,
         "recovered": 1023
     },
@@ -1331,9 +1331,9 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 698,
+        "confirmed": 699,
         "deaths": 48,
-        "recovered": 600
+        "recovered": 623
     },
     {
         "Name": "Sint Maarten",
