@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7794307,217173,4999035
+미국,美国,United States,7799116,217208,5000736
 인도,印度,India,6902775,106534,5901710
 브라질,巴西,Brazil,5006528,148449,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
@@ -21,14 +21,14 @@ Bangladesh,,Bangladesh,374592,5460,288316
 터키,土耳其,Turkey,330753,8667,290352
 인도네시아,印度尼西亚,Indonesia,320564,11580,244060
 파키스탄,巴基斯坦,Pakistan,316934,6544,302375
-독일,德国,Germany,312908,9664,267700
+독일,德国,Germany,313407,9665,267700
 이스라엘,以色列,Israel,284705,1864,221373
 Ukraine,,Ukraine,244734,4690,108233
 캐나다,加拿大,Canada,174998,9554,147211
 네덜란드,荷兰,Netherlands,155810,6531,0
 루마니아,尼亚,Romania,145700,5247,113112
 에콰도르,厄瓜多尔,Ecuador,145045,12141,120511
-모로코,摩洛哥,Morocco,140024,2439,118142
+모로코,摩洛哥,Morocco,142953,2486,120275
 벨기에,比利时,Belgium,137868,10108,19895
 Bolivia,,Bolivia,137706,8192,99268
 카타르,卡塔尔,Qatar,127394,218,124327
@@ -48,10 +48,10 @@ Guatemala,,Guatemala,96480,3347,84738
 코스타리카,哥斯达黎加,Costa Rica,83497,1024,50295
 포르투갈,葡萄牙,Portugal,82534,2050,51517
 벨라루스,白俄罗斯,Belarus,81982,880,76081
+Ethiopia,,Ethiopia,81797,1262,36434
 Honduras,,Honduras,81016,2466,30590
-Ethiopia,,Ethiopia,80895,1255,35670
 Venezuela,,Venezuela,80404,671,71531
-바레인,巴林,Bahrain,73932,262,69411
+바레인,巴林,Bahrain,73932,264,69411
 Uzbekistan,,Uzbekistan,60026,496,56837
 Moldova,,Moldova,59915,1424,43008
 나이지리아,尼日利亚,Nigeria,59738,1113,51403
@@ -76,7 +76,7 @@ Kenya,,Kenya,40178,751,31710
 El Salvador,,El Salvador,29842,877,24770
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,29528,913,22939
 호주,澳大利亚,Australia,27204,897,24939
-Tunisia,,Tunisia,24542,364,5032
+Tunisia,,Tunisia,26899,409,5032
 Bulgaria,,Bulgaria,22743,873,15448
 Myanmar,,Myanmar,22445,535,6366
 요르단,约旦,Jordan,21517,144,5777
@@ -129,7 +129,7 @@ Rwanda,,Rwanda,4883,29,3408
 CAR,,CAR,4852,62,1914
 Bahamas,,Bahamas,4713,102,2607
 Syria,,Syria,4504,212,1198
-스리랑카,斯里兰卡,Sri Lanka,4482,13,3278
+스리랑카,斯里兰卡,Sri Lanka,4488,13,3278
 Réunion,,Réunion,4385,16,3360
 Aruba,,Aruba,4133,31,3678
 Mayotte,,Mayotte,3892,42,2964
@@ -149,7 +149,7 @@ Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 라트비아,约旦,Latvia,2370,40,1322
 Belize,,Belize,2310,34,1427
-Sierra Leone,,Sierra Leone,2287,72,1716
+Sierra Leone,,Sierra Leone,2293,72,1721
 Burkina Faso,,Burkina Faso,2222,59,1478
 Uruguay,,Uruguay,2206,49,1890
 Yemen,,Yemen,2049,593,1328
