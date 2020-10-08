@@ -163,9 +163,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 316351,
-        "deaths": 6535,
-        "recovered": 301288
+        "confirmed": 316934,
+        "deaths": 6544,
+        "recovered": 302375
     },
     {
         "Name": "인도네시아",
@@ -240,20 +240,20 @@
         "recovered": 118142
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 137868,
+        "deaths": 10108,
+        "recovered": 19895
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 137706,
         "deaths": 8192,
         "recovered": 99268
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 134291,
-        "deaths": 10092,
-        "recovered": 19812
     },
     {
         "Name": "카타르",
@@ -291,9 +291,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108362,
+        "confirmed": 108454,
         "deaths": 1746,
-        "recovered": 103465
+        "recovered": 103604
     },
     {
         "Name": "폴란드",
@@ -1336,20 +1336,20 @@
         "recovered": 600
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "confirmed": 698,
+        "deaths": 22,
+        "recovered": 592
+    },
+    {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
         "confirmed": 695,
         "deaths": 6,
         "recovered": 656
-    },
-    {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "confirmed": 689,
-        "deaths": 22,
-        "recovered": 592
     },
     {
         "Name": "Papua New Guinea",
