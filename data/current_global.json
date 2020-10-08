@@ -1184,6 +1184,14 @@
         "recovered": 1857
     },
     {
+        "Name": "Belize",
+        "Name_ch": "",
+        "Name_en": "Belize",
+        "confirmed": 2310,
+        "deaths": 34,
+        "recovered": 1427
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1198,14 +1206,6 @@
         "confirmed": 2261,
         "deaths": 40,
         "recovered": 1322
-    },
-    {
-        "Name": "Belize",
-        "Name_ch": "",
-        "Name_en": "Belize",
-        "confirmed": 2243,
-        "deaths": 34,
-        "recovered": 1392
     },
     {
         "Name": "Burkina Faso",
