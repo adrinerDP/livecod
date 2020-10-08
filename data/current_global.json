@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7777014,
-        "deaths": 216818,
-        "recovered": 4984464
+        "confirmed": 7780586,
+        "deaths": 216889,
+        "recovered": 4984528
     },
     {
         "Name": "인도",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 311331,
-        "deaths": 9652,
+        "confirmed": 311508,
+        "deaths": 9655,
         "recovered": 267700
     },
     {
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 108743,
-        "deaths": 639,
-        "recovered": 100776
+        "confirmed": 109441,
+        "deaths": 642,
+        "recovered": 101314
     },
     {
         "Name": "Kazakhstan",
@@ -571,8 +571,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 34193,
-        "deaths": 758,
+        "confirmed": 34344,
+        "deaths": 760,
         "recovered": 31536
     },
     {
@@ -1275,7 +1275,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1355,
+        "confirmed": 1360,
         "deaths": 82,
         "recovered": 1245
     },
@@ -1403,9 +1403,9 @@
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
-        "confirmed": 476,
+        "confirmed": 477,
         "deaths": 0,
-        "recovered": 452
+        "recovered": 456
     },
     {
         "Name": "지브롤터",
