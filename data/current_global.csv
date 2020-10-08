@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7826460,217607,5014922
+미국,美国,United States,7826721,217609,5015170
 인도,印度,India,6903806,106554,5903170
 브라질,巴西,Brazil,5028444,148957,4414564
 러시아,俄罗斯,Russia,1260112,22056,1002329
 콜롬비아,哥伦比亚,Colombia,886179,27331,777658
 스페인,西班牙,Spain,884381,32688,0
-Argentina,,Argentina,840915,22226,670725
+Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,835662,33009,723606
 멕시코,墨西哥,Mexico,799188,82726,560895
 남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
@@ -32,7 +32,7 @@ Ukraine,,Ukraine,244734,4690,108233
 벨기에,比利时,Belgium,137868,10108,19895
 Bolivia,,Bolivia,137706,8192,99268
 카타르,卡塔尔,Qatar,127394,218,124327
-Panama,,Panama,117300,2448,93610
+Panama,,Panama,118054,2463,94391
 도미니카 공화국,多明尼加共和国,Dominican Republic,116872,2163,92567
 폴란드,波兰,Poland,111599,2867,76490
 쿠웨이트,科威特,Kuwait,109441,642,101314
@@ -75,7 +75,7 @@ Kenya,,Kenya,40178,751,31710
 덴마크,丹麦,Denmark,31156,665,24899
 El Salvador,,El Salvador,29842,877,24770
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,29528,913,22939
-호주,澳大利亚,Australia,27204,897,24939
+호주,澳大利亚,Australia,27206,897,24951
 Tunisia,,Tunisia,26899,409,5032
 Bulgaria,,Bulgaria,23259,880,15563
 Myanmar,,Myanmar,22445,535,6366
@@ -92,12 +92,12 @@ Zambia,,Zambia,15224,335,14342
 세네갈,塞内加尔,Senegal,15190,313,13068
 Albania,,Albania,14899,411,9215
 말레이시아,马来西亚,Malaysia,14368,146,10519
-Sudan,,Sudan,13668,836,6764
+Sudan,,Sudan,13670,836,6764
 Montenegro,,Montenegro,13004,191,9154
 Namibia,,Namibia,11781,127,9759
 핀란드,芬兰,Finland,11345,346,8500
-Guinea,,Guinea,10863,68,10176
-DRC,,DRC,10804,276,10239
+Guinea,,Guinea,10901,68,10232
+DRC,,DRC,10822,276,10242
 Maldives,,Maldives,10742,34,9589
 조지아,格鲁吉亚,Georgia,10225,66,5553
 French Guiana,,French Guiana,10128,69,9799
@@ -124,7 +124,7 @@ Nicaragua,,Nicaragua,5264,153,4225
 Congo,,Congo,5089,89,3887
 Equatorial Guinea,,Equatorial Guinea,5052,83,4894
 Suriname,,Suriname,4979,106,4781
-Trinidad and Tobago,,Trinidad and Tobago,4887,84,3010
+Trinidad and Tobago,,Trinidad and Tobago,4963,86,3076
 Rwanda,,Rwanda,4885,29,3542
 CAR,,CAR,4852,62,1914
 Bahamas,,Bahamas,4713,102,2607

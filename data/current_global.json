@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7826460,
-        "deaths": 217607,
-        "recovered": 5014922
+        "confirmed": 7826721,
+        "deaths": 217609,
+        "recovered": 5015170
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 840915,
-        "deaths": 22226,
-        "recovered": 670725
+        "confirmed": 856369,
+        "deaths": 22710,
+        "recovered": 684844
     },
     {
         "Name": "페루",
@@ -267,9 +267,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 117300,
-        "deaths": 2448,
-        "recovered": 93610
+        "confirmed": 118054,
+        "deaths": 2463,
+        "recovered": 94391
     },
     {
         "Name": "도미니카 공화국",
@@ -611,9 +611,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27204,
+        "confirmed": 27206,
         "deaths": 897,
-        "recovered": 24939
+        "recovered": 24951
     },
     {
         "Name": "Tunisia",
@@ -747,7 +747,7 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13668,
+        "confirmed": 13670,
         "deaths": 836,
         "recovered": 6764
     },
@@ -779,17 +779,17 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10863,
+        "confirmed": 10901,
         "deaths": 68,
-        "recovered": 10176
+        "recovered": 10232
     },
     {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10804,
+        "confirmed": 10822,
         "deaths": 276,
-        "recovered": 10239
+        "recovered": 10242
     },
     {
         "Name": "Maldives",
@@ -1003,9 +1003,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 4887,
-        "deaths": 84,
-        "recovered": 3010
+        "confirmed": 4963,
+        "deaths": 86,
+        "recovered": 3076
     },
     {
         "Name": "Rwanda",
