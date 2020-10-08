@@ -1,15 +1,19 @@
 ﻿[
     {
-        "title": "거짓말로 인천에 코로나 퍼뜨린 학원강사, 징역 6월",
-        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190973&cID=10802&pID=14000"
-    },
-    {
         "title": "코로나19 신규 확진자 69명…하루 만에 두 자릿수로 감소",
         "link": "http://news.kbs.co.kr/news/view.do?ncd=5020733&ref=A"
     },
     {
+        "title": "거짓말로 인천에 코로나 퍼뜨린 학원강사, 징역 6월",
+        "link": "http://www.newsis.com/view/?id=NISX20201008_0001190973&cID=10802&pID=14000"
+    },
+    {
         "title": "코로나19 신규 확진자 69명…하루만에 두 자릿수",
         "link": "http://www.kwnews.co.kr/nview.asp?aid=220100700164"
+    },
+    {
+        "title": "WHO \"코로나19 신규확진 약 34만명…하루 기준 최대\"",
+        "link": "http://yna.kr/AKR20201009004500088?did=1195m"
     },
     {
         "title": "코로나19 신규확진자 세자릿수 이어가나…추석 영향 본격화 우려",
@@ -34,9 +38,5 @@
     {
         "title": "[속보] 코로나19 신규 확진자 114명, 다시 세자릿수",
         "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010070936001&code=940100"
-    },
-    {
-        "title": "신규 확진자 69명...하루 만에 두자릿수",
-        "link": "https://www.ytn.co.kr/_ln/0103_202010080944145197"
     }
 ]
