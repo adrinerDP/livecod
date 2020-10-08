@@ -531,9 +531,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 41113,
-        "deaths": 602,
-        "recovered": 38858
+        "confirmed": 41304,
+        "deaths": 603,
+        "recovered": 39012
     },
     {
         "Name": "Libya",
@@ -587,9 +587,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 30710,
-        "deaths": 663,
-        "recovered": 24240
+        "confirmed": 31156,
+        "deaths": 665,
+        "recovered": 24899
     },
     {
         "Name": "El Salvador",
