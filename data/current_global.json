@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7814424,
-        "deaths": 217403,
-        "recovered": 5009211
+        "confirmed": 7817990,
+        "deaths": 217476,
+        "recovered": 5010854
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 284705,
+        "confirmed": 285336,
         "deaths": 1864,
-        "recovered": 221373
+        "recovered": 221571
     },
     {
         "Name": "Ukraine",
@@ -667,9 +667,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19935,
+        "confirmed": 19982,
         "deaths": 120,
-        "recovered": 19550
+        "recovered": 19626
     },
     {
         "Name": "North Macedonia",
@@ -867,9 +867,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 7919,
+        "confirmed": 7951,
         "deaths": 229,
-        "recovered": 6441
+        "recovered": 6446
     },
     {
         "Name": "Mauritania",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6624,
+        "confirmed": 6717,
         "deaths": 71,
-        "recovered": 5684
+        "recovered": 5821
     },
     {
         "Name": "Guadeloupe",
@@ -923,9 +923,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5803,
+        "confirmed": 5809,
         "deaths": 180,
-        "recovered": 4575
+        "recovered": 4626
     },
     {
         "Name": "Angola",
@@ -1011,9 +1011,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4883,
+        "confirmed": 4885,
         "deaths": 29,
-        "recovered": 3408
+        "recovered": 3542
     },
     {
         "Name": "CAR",
@@ -1035,9 +1035,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4504,
-        "deaths": 212,
-        "recovered": 1198
+        "confirmed": 4566,
+        "deaths": 215,
+        "recovered": 1212
     },
     {
         "Name": "스리랑카",
@@ -1131,9 +1131,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3210,
+        "confirmed": 3235,
         "deaths": 131,
-        "recovered": 2502
+        "recovered": 2506
     },
     {
         "Name": "Botswana",
@@ -1243,9 +1243,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1898,
+        "confirmed": 1907,
         "deaths": 49,
-        "recovered": 1419
+        "recovered": 1426
     },
     {
         "Name": "New Zealand",
@@ -1395,9 +1395,9 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 491,
+        "confirmed": 495,
         "deaths": 7,
-        "recovered": 468
+        "recovered": 475
     },
     {
         "Name": "Faeroe Islands",
