@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7781705,216898,4984897
+미국,美国,United States,7785022,217056,4996969
 인도,印度,India,6835655,105554,5827704
 브라질,巴西,Brazil,5002357,148304,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
@@ -21,10 +21,10 @@ Bangladesh,,Bangladesh,374592,5460,288316
 터키,土耳其,Turkey,329138,8609,288954
 인도네시아,印度尼西亚,Indonesia,320564,11580,244060
 파키스탄,巴基斯坦,Pakistan,316934,6544,302375
-독일,德国,Germany,311846,9660,267700
+독일,德国,Germany,312679,9664,267700
 이스라엘,以色列,Israel,283532,1846,220046
 Ukraine,,Ukraine,244734,4690,108233
-캐나다,加拿大,Canada,173123,9541,145666
+캐나다,加拿大,Canada,173920,9545,146361
 네덜란드,荷兰,Netherlands,155810,6531,0
 루마니아,尼亚,Romania,145700,5247,113112
 에콰도르,厄瓜多尔,Ecuador,143531,11743,120511
@@ -42,9 +42,9 @@ Kazakhstan,,Kazakhstan,108454,1746,103604
 아랍에미리트,阿拉伯联合酋长国,UAE,102929,438,93479
 네팔,尼泊尔,Nepal,98617,590,71343
 스웨덴,瑞典语,Sweden,97532,5892,0
-Guatemala,,Guatemala,95704,3335,84036
+Guatemala,,Guatemala,96480,3347,84738
 체코,捷克,Czechia,95360,829,50767
-일본,日本,Japan,86543,1605,79676
+일본,日本,Japan,87020,1613,80227
 코스타리카,哥斯达黎加,Costa Rica,83497,1024,50295
 포르투갈,葡萄牙,Portugal,82534,2050,51517
 벨라루스,白俄罗斯,Belarus,81982,880,76081
@@ -52,10 +52,10 @@ Honduras,,Honduras,81016,2466,30590
 Ethiopia,,Ethiopia,80895,1255,35670
 Venezuela,,Venezuela,80404,671,71531
 바레인,巴林,Bahrain,73932,262,69411
+Moldova,,Moldova,59915,1424,43008
 Uzbekistan,,Uzbekistan,59905,494,56568
 나이지리아,尼日利亚,Nigeria,59738,1113,51403
-스위스,瑞士,Switzerland,58881,2084,47300
-Moldova,,Moldova,58794,1406,42480
+스위스,瑞士,Switzerland,58881,2087,47300
 싱가포르,新加坡,Singapore,57849,27,57624
 아르메니아,亚美尼亚,Armenia,54473,1004,45312
 알제리,阿尔及利亚,Algeria,52520,1771,36857
@@ -110,10 +110,10 @@ Gabon,,Gabon,8815,54,8164
 Zimbabwe,,Zimbabwe,7919,229,6441
 Mauritania,,Mauritania,7535,162,7212
 슬로베니아,斯洛文尼亚,Slovenia,7507,160,4655
-Jamaica,,Jamaica,7191,126,2700
+Jamaica,,Jamaica,7273,128,2732
 Cabo Verde,,Cabo Verde,6624,71,5684
 Guadeloupe,,Guadeloupe,6319,77,2199
-Cuba,,Cuba,5898,123,5321
+Cuba,,Cuba,5917,123,5371
 Malawi,,Malawi,5803,180,4575
 Angola,,Angola,5725,211,2598
 Lithuania,,Lithuania,5625,102,2660

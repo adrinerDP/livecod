@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7781705,
-        "deaths": 216898,
-        "recovered": 4984897
+        "confirmed": 7785022,
+        "deaths": 217056,
+        "recovered": 4996969
     },
     {
         "Name": "인도",
@@ -179,8 +179,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 311846,
-        "deaths": 9660,
+        "confirmed": 312679,
+        "deaths": 9664,
         "recovered": 267700
     },
     {
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 173123,
-        "deaths": 9541,
-        "recovered": 145666
+        "confirmed": 173920,
+        "deaths": 9545,
+        "recovered": 146361
     },
     {
         "Name": "네덜란드",
@@ -347,9 +347,9 @@
         "Name": "Guatemala",
         "Name_ch": "",
         "Name_en": "Guatemala",
-        "confirmed": 95704,
-        "deaths": 3335,
-        "recovered": 84036
+        "confirmed": 96480,
+        "deaths": 3347,
+        "recovered": 84738
     },
     {
         "Name": "체코",
@@ -363,9 +363,9 @@
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
-        "confirmed": 86543,
-        "deaths": 1605,
-        "recovered": 79676
+        "confirmed": 87020,
+        "deaths": 1613,
+        "recovered": 80227
     },
     {
         "Name": "코스타리카",
@@ -424,6 +424,14 @@
         "recovered": 69411
     },
     {
+        "Name": "Moldova",
+        "Name_ch": "",
+        "Name_en": "Moldova",
+        "confirmed": 59915,
+        "deaths": 1424,
+        "recovered": 43008
+    },
+    {
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
@@ -444,16 +452,8 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 58881,
-        "deaths": 2084,
+        "deaths": 2087,
         "recovered": 47300
-    },
-    {
-        "Name": "Moldova",
-        "Name_ch": "",
-        "Name_en": "Moldova",
-        "confirmed": 58794,
-        "deaths": 1406,
-        "recovered": 42480
     },
     {
         "Name": "싱가포르",
@@ -891,9 +891,9 @@
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
-        "confirmed": 7191,
-        "deaths": 126,
-        "recovered": 2700
+        "confirmed": 7273,
+        "deaths": 128,
+        "recovered": 2732
     },
     {
         "Name": "Cabo Verde",
@@ -915,9 +915,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 5898,
+        "confirmed": 5917,
         "deaths": 123,
-        "recovered": 5321
+        "recovered": 5371
     },
     {
         "Name": "Malawi",
