@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 239337,
-        "deaths": 4597,
-        "recovered": 105970
+        "confirmed": 244734,
+        "deaths": 4690,
+        "recovered": 108233
     },
     {
         "Name": "캐나다",
@@ -544,20 +544,20 @@
         "recovered": 31659
     },
     {
+        "Name": "아프가니스탄",
+        "Name_ch": "阿富汗",
+        "Name_en": "Afghanistan",
+        "confirmed": 39616,
+        "deaths": 1470,
+        "recovered": 33058
+    },
+    {
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
         "confirmed": 39584,
         "deaths": 1816,
         "recovered": 23364
-    },
-    {
-        "Name": "아프가니스탄",
-        "Name_ch": "阿富汗",
-        "Name_en": "Afghanistan",
-        "confirmed": 39548,
-        "deaths": 1469,
-        "recovered": 33045
     },
     {
         "Name": "Libya",
