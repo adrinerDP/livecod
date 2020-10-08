@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 373151,
-        "deaths": 5440,
-        "recovered": 286631
+        "confirmed": 374592,
+        "deaths": 5460,
+        "recovered": 288316
     },
     {
         "Name": "사우디아라비아",
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 11049,
+        "confirmed": 11345,
         "deaths": 346,
         "recovered": 8500
     },
@@ -971,9 +971,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5144,
+        "confirmed": 5162,
         "deaths": 105,
-        "recovered": 4885
+        "recovered": 4890
     },
     {
         "Name": "Congo",
