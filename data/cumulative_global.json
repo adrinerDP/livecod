@@ -1552,5 +1552,11 @@
         "confirmed": 35803766.0,
         "deaths": 1049728.0,
         "recovered": 24976032.0
+    },
+    {
+        "date": "10/7",
+        "confirmed": 36077702.0,
+        "deaths": 1054712.0,
+        "recovered": 25153684.0
     }
 ]
