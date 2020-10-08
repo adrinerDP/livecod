@@ -483,9 +483,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 50848,
-        "deaths": 830,
-        "recovered": 40499
+        "confirmed": 52057,
+        "deaths": 838,
+        "recovered": 41289
     },
     {
         "Name": "레바논",
@@ -880,20 +880,20 @@
         "recovered": 7212
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 7507,
+        "deaths": 160,
+        "recovered": 4655
+    },
+    {
         "Name": "Jamaica",
         "Name_ch": "",
         "Name_en": "Jamaica",
         "confirmed": 7191,
         "deaths": 126,
         "recovered": 2700
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 7120,
-        "deaths": 159,
-        "recovered": 4535
     },
     {
         "Name": "Cabo Verde",
@@ -1363,7 +1363,7 @@
         "Name": "대만",
         "Name_ch": "台湾",
         "Name_en": "Taiwan",
-        "confirmed": 523,
+        "confirmed": 524,
         "deaths": 7,
         "recovered": 485
     },
