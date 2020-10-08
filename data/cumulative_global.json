@@ -1147,15 +1147,15 @@
     },
     {
         "date": "7/31",
-        "confirmed": 17594163.0,
-        "deaths": 675313.0,
-        "recovered": 10369140.0
+        "confirmed": 17594389.0,
+        "deaths": 675328.0,
+        "recovered": 10369255.0
     },
     {
         "date": "8/1",
-        "confirmed": 17844596.0,
-        "deaths": 680796.0,
-        "recovered": 10553585.0
+        "confirmed": 17845046.0,
+        "deaths": 680820.0,
+        "recovered": 10553852.0
     },
     {
         "date": "8/2",
@@ -1172,14 +1172,14 @@
     {
         "date": "8/4",
         "confirmed": 18533677.0,
-        "deaths": 696350.0,
+        "deaths": 696323.0,
         "recovered": 11134735.0
     },
     {
         "date": "8/5",
-        "confirmed": 18805749.0,
-        "deaths": 703302.0,
-        "recovered": 11356275.0
+        "confirmed": 18805967.0,
+        "deaths": 703290.0,
+        "recovered": 11356431.0
     },
     {
         "date": "8/6",
@@ -1191,19 +1191,19 @@
         "date": "8/7",
         "confirmed": 19371914.0,
         "deaths": 716089.0,
-        "recovered": 11737927.0
+        "recovered": 11738052.0
     },
     {
         "date": "8/8",
-        "confirmed": 19631160.0,
-        "deaths": 721499.0,
-        "recovered": 11939109.0
+        "confirmed": 19631350.0,
+        "deaths": 721512.0,
+        "recovered": 11939431.0
     },
     {
         "date": "8/9",
-        "confirmed": 19854598.0,
-        "deaths": 726039.0,
-        "recovered": 12115825.0
+        "confirmed": 19854976.0,
+        "deaths": 726064.0,
+        "recovered": 12116289.0
     },
     {
         "date": "8/10",
@@ -1213,21 +1213,21 @@
     },
     {
         "date": "8/11",
-        "confirmed": 20337232.0,
-        "deaths": 737391.0,
-        "recovered": 12585473.0
+        "confirmed": 20337403.0,
+        "deaths": 737404.0,
+        "recovered": 12585663.0
     },
     {
         "date": "8/12",
-        "confirmed": 20615100.0,
-        "deaths": 743999.0,
-        "recovered": 12826815.0
+        "confirmed": 20615476.0,
+        "deaths": 744023.0,
+        "recovered": 12827168.0
     },
     {
         "date": "8/13",
-        "confirmed": 20901479.0,
-        "deaths": 750232.0,
-        "recovered": 12992176.0
+        "confirmed": 20901672.0,
+        "deaths": 750240.0,
+        "recovered": 12992381.0
     },
     {
         "date": "8/14",
@@ -1243,33 +1243,33 @@
     },
     {
         "date": "8/16",
-        "confirmed": 21665916.0,
-        "deaths": 769903.0,
-        "recovered": 13676868.0
+        "confirmed": 21666057.0,
+        "deaths": 769914.0,
+        "recovered": 13677098.0
     },
     {
         "date": "8/17",
-        "confirmed": 21875838.0,
-        "deaths": 774036.0,
-        "recovered": 13888301.0
+        "confirmed": 21876108.0,
+        "deaths": 774056.0,
+        "recovered": 13888683.0
     },
     {
         "date": "8/18",
-        "confirmed": 22132337.0,
-        "deaths": 780909.0,
-        "recovered": 14116451.0
+        "confirmed": 22132478.0,
+        "deaths": 780935.0,
+        "recovered": 14116670.0
     },
     {
         "date": "8/19",
-        "confirmed": 22406764.0,
-        "deaths": 787659.0,
-        "recovered": 14333914.0
+        "confirmed": 22407067.0,
+        "deaths": 787694.0,
+        "recovered": 14334255.0
     },
     {
         "date": "8/20",
-        "confirmed": 22673939.0,
-        "deaths": 793684.0,
-        "recovered": 14541573.0
+        "confirmed": 22674400.0,
+        "deaths": 793732.0,
+        "recovered": 14542159.0
     },
     {
         "date": "8/21",
@@ -1279,9 +1279,9 @@
     },
     {
         "date": "8/22",
-        "confirmed": 23209579.0,
-        "deaths": 804787.0,
-        "recovered": 14922177.0
+        "confirmed": 23209748.0,
+        "deaths": 804796.0,
+        "recovered": 14922374.0
     },
     {
         "date": "8/23",
@@ -1291,9 +1291,9 @@
     },
     {
         "date": "8/24",
-        "confirmed": 23641687.0,
-        "deaths": 812998.0,
-        "recovered": 15337659.0
+        "confirmed": 23641786.0,
+        "deaths": 813011.0,
+        "recovered": 15337811.0
     },
     {
         "date": "8/25",
@@ -1303,255 +1303,255 @@
     },
     {
         "date": "8/26",
-        "confirmed": 24172616.0,
-        "deaths": 825680.0,
-        "recovered": 15794947.0
+        "confirmed": 24172773.0,
+        "deaths": 825684.0,
+        "recovered": 15795101.0
     },
     {
         "date": "8/27",
-        "confirmed": 24451719.0,
-        "deaths": 831566.0,
-        "recovered": 15996510.0
+        "confirmed": 24452017.0,
+        "deaths": 831576.0,
+        "recovered": 15996807.0
     },
     {
         "date": "8/28",
-        "confirmed": 24733263.0,
-        "deaths": 837080.0,
-        "recovered": 16196934.0
+        "confirmed": 24733680.0,
+        "deaths": 837091.0,
+        "recovered": 16197385.0
     },
     {
         "date": "8/29",
-        "confirmed": 24994138.0,
-        "deaths": 842452.0,
-        "recovered": 16408559.0
+        "confirmed": 24994670.0,
+        "deaths": 842472.0,
+        "recovered": 16409126.0
     },
     {
         "date": "8/30",
-        "confirmed": 25220408.0,
-        "deaths": 846353.0,
-        "recovered": 16616995.0
+        "confirmed": 25221059.0,
+        "deaths": 846381.0,
+        "recovered": 16617680.0
     },
     {
         "date": "8/31",
-        "confirmed": 25482822.0,
-        "deaths": 850535.0,
-        "recovered": 16818436.0
+        "confirmed": 25483593.0,
+        "deaths": 850572.0,
+        "recovered": 16819243.0
     },
     {
         "date": "9/1",
-        "confirmed": 25746973.0,
-        "deaths": 857015.0,
-        "recovered": 17073236.0
+        "confirmed": 25747891.0,
+        "deaths": 857060.0,
+        "recovered": 17074240.0
     },
     {
         "date": "9/2",
-        "confirmed": 26029674.0,
-        "deaths": 863028.0,
-        "recovered": 17291874.0
+        "confirmed": 26030704.0,
+        "deaths": 863079.0,
+        "recovered": 17293009.0
     },
     {
         "date": "9/3",
-        "confirmed": 26310532.0,
-        "deaths": 868733.0,
-        "recovered": 17512585.0
+        "confirmed": 26311640.0,
+        "deaths": 868793.0,
+        "recovered": 17513910.0
     },
     {
         "date": "9/4",
-        "confirmed": 26623252.0,
-        "deaths": 874639.0,
-        "recovered": 17726336.0
+        "confirmed": 26624479.0,
+        "deaths": 874702.0,
+        "recovered": 17727848.0
     },
     {
         "date": "9/5",
-        "confirmed": 26886427.0,
-        "deaths": 879577.0,
-        "recovered": 17927195.0
+        "confirmed": 26887771.0,
+        "deaths": 879645.0,
+        "recovered": 17928838.0
     },
     {
         "date": "9/6",
-        "confirmed": 27108461.0,
-        "deaths": 883339.0,
-        "recovered": 18137310.0
+        "confirmed": 27109897.0,
+        "deaths": 883414.0,
+        "recovered": 18139068.0
     },
     {
         "date": "9/7",
-        "confirmed": 27342175.0,
-        "deaths": 892646.0,
-        "recovered": 18336112.0
+        "confirmed": 27343696.0,
+        "deaths": 892726.0,
+        "recovered": 18337967.0
     },
     {
         "date": "9/8",
-        "confirmed": 27575506.0,
-        "deaths": 897383.0,
-        "recovered": 18524391.0
+        "confirmed": 27577124.0,
+        "deaths": 897463.0,
+        "recovered": 18526385.0
     },
     {
         "date": "9/9",
-        "confirmed": 27867793.0,
-        "deaths": 903673.0,
-        "recovered": 18776723.0
+        "confirmed": 27869487.0,
+        "deaths": 903759.0,
+        "recovered": 18778861.0
     },
     {
         "date": "9/10",
-        "confirmed": 28167019.0,
-        "deaths": 909479.0,
-        "recovered": 18992383.0
+        "confirmed": 28168782.0,
+        "deaths": 909572.0,
+        "recovered": 18994628.0
     },
     {
         "date": "9/11",
-        "confirmed": 28486877.0,
-        "deaths": 915356.0,
-        "recovered": 19215800.0
+        "confirmed": 28488690.0,
+        "deaths": 915454.0,
+        "recovered": 19218162.0
     },
     {
         "date": "9/12",
-        "confirmed": 28764152.0,
-        "deaths": 920231.0,
-        "recovered": 19439157.0
+        "confirmed": 28766035.0,
+        "deaths": 920332.0,
+        "recovered": 19441641.0
     },
     {
         "date": "9/13",
-        "confirmed": 29000205.0,
-        "deaths": 923873.0,
-        "recovered": 19624935.0
+        "confirmed": 29002159.0,
+        "deaths": 923981.0,
+        "recovered": 19627582.0
     },
     {
         "date": "9/14",
-        "confirmed": 29279898.0,
-        "deaths": 928303.0,
-        "recovered": 19854392.0
+        "confirmed": 29281907.0,
+        "deaths": 928415.0,
+        "recovered": 19857189.0
     },
     {
         "date": "9/15",
-        "confirmed": 29563691.0,
-        "deaths": 934852.0,
-        "recovered": 20078979.0
+        "confirmed": 29565771.0,
+        "deaths": 934965.0,
+        "recovered": 20081975.0
     },
     {
         "date": "9/16",
-        "confirmed": 29868540.0,
-        "deaths": 940606.0,
-        "recovered": 20307938.0
+        "confirmed": 29870696.0,
+        "deaths": 940722.0,
+        "recovered": 20311099.0
     },
     {
         "date": "9/17",
-        "confirmed": 30182274.0,
-        "deaths": 946062.0,
-        "recovered": 20527185.0
+        "confirmed": 30184473.0,
+        "deaths": 946181.0,
+        "recovered": 20530585.0
     },
     {
         "date": "9/18",
-        "confirmed": 30505689.0,
-        "deaths": 951767.0,
-        "recovered": 20778990.0
+        "confirmed": 30507945.0,
+        "deaths": 951890.0,
+        "recovered": 20782527.0
     },
     {
         "date": "9/19",
-        "confirmed": 30786774.0,
-        "deaths": 956999.0,
-        "recovered": 21016801.0
+        "confirmed": 30789093.0,
+        "deaths": 957125.0,
+        "recovered": 21020464.0
     },
     {
         "date": "9/20",
-        "confirmed": 31027510.0,
-        "deaths": 960695.0,
-        "recovered": 21252815.0
+        "confirmed": 31029890.0,
+        "deaths": 960821.0,
+        "recovered": 21256597.0
     },
     {
         "date": "9/21",
-        "confirmed": 31326812.0,
-        "deaths": 964746.0,
-        "recovered": 21496061.0
+        "confirmed": 31329271.0,
+        "deaths": 964873.0,
+        "recovered": 21499947.0
     },
     {
         "date": "9/22",
-        "confirmed": 31605997.0,
-        "deaths": 970626.0,
-        "recovered": 21714180.0
+        "confirmed": 31608522.0,
+        "deaths": 970753.0,
+        "recovered": 21718207.0
     },
     {
         "date": "9/23",
-        "confirmed": 31873009.0,
-        "deaths": 976233.0,
-        "recovered": 21977816.0
+        "confirmed": 31875596.0,
+        "deaths": 976361.0,
+        "recovered": 21981928.0
     },
     {
         "date": "9/24",
-        "confirmed": 32233965.0,
-        "deaths": 982949.0,
-        "recovered": 22232480.0
+        "confirmed": 32236615.0,
+        "deaths": 983077.0,
+        "recovered": 22236679.0
     },
     {
         "date": "9/25",
-        "confirmed": 32564294.0,
-        "deaths": 988864.0,
-        "recovered": 22472106.0
+        "confirmed": 32566990.0,
+        "deaths": 988993.0,
+        "recovered": 22476406.0
     },
     {
         "date": "9/26",
-        "confirmed": 32841726.0,
-        "deaths": 994143.0,
-        "recovered": 22715380.0
+        "confirmed": 32844468.0,
+        "deaths": 994274.0,
+        "recovered": 22719757.0
     },
     {
         "date": "9/27",
-        "confirmed": 33081936.0,
-        "deaths": 997742.0,
-        "recovered": 22925667.0
+        "confirmed": 33084725.0,
+        "deaths": 997876.0,
+        "recovered": 22930157.0
     },
     {
         "date": "9/28",
-        "confirmed": 33358976.0,
-        "deaths": 1001660.0,
-        "recovered": 23151081.0
+        "confirmed": 33361813.0,
+        "deaths": 1001797.0,
+        "recovered": 23155713.0
     },
     {
         "date": "9/29",
-        "confirmed": 33642960.0,
-        "deaths": 1007755.0,
-        "recovered": 23387690.0
+        "confirmed": 33645851.0,
+        "deaths": 1007892.0,
+        "recovered": 23392394.0
     },
     {
         "date": "9/30",
-        "confirmed": 33969937.0,
-        "deaths": 1014161.0,
-        "recovered": 23637164.0
+        "confirmed": 33972874.0,
+        "deaths": 1014298.0,
+        "recovered": 23641930.0
     },
     {
         "date": "10/1",
-        "confirmed": 34287271.0,
-        "deaths": 1022859.0,
-        "recovered": 23857656.0
+        "confirmed": 34290251.0,
+        "deaths": 1022998.0,
+        "recovered": 23862545.0
     },
     {
         "date": "10/2",
-        "confirmed": 34582698.0,
-        "deaths": 1027827.0,
-        "recovered": 24029499.0
+        "confirmed": 34585720.0,
+        "deaths": 1027966.0,
+        "recovered": 24034442.0
     },
     {
         "date": "10/3",
-        "confirmed": 34902647.0,
-        "deaths": 1033177.0,
-        "recovered": 24287629.0
+        "confirmed": 34905722.0,
+        "deaths": 1033319.0,
+        "recovered": 24292628.0
     },
     {
         "date": "10/4",
-        "confirmed": 35150468.0,
-        "deaths": 1036941.0,
-        "recovered": 24505761.0
+        "confirmed": 35153599.0,
+        "deaths": 1037083.0,
+        "recovered": 24510829.0
     },
     {
         "date": "10/5",
-        "confirmed": 35475879.0,
-        "deaths": 1043945.0,
-        "recovered": 24744575.0
+        "confirmed": 35479051.0,
+        "deaths": 1044090.0,
+        "recovered": 24749716.0
     },
     {
         "date": "10/6",
-        "confirmed": 35803766.0,
-        "deaths": 1049728.0,
-        "recovered": 24976032.0
+        "confirmed": 35806972.0,
+        "deaths": 1049875.0,
+        "recovered": 24981295.0
     },
     {
         "date": "10/7",
