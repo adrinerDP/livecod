@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7770612,
-        "deaths": 216652,
-        "recovered": 4974552
+        "confirmed": 7772731,
+        "deaths": 216698,
+        "recovered": 4974823
     },
     {
         "Name": "인도",
@@ -20,7 +20,7 @@
         "Name_ch": "巴西",
         "Name_en": "Brazil",
         "confirmed": 5000694,
-        "deaths": 148228,
+        "deaths": 148304,
         "recovered": 4391424
     },
     {
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 832929,
-        "deaths": 32914,
-        "recovered": 718065
+        "confirmed": 835662,
+        "deaths": 33009,
+        "recovered": 723606
     },
     {
         "Name": "멕시코",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 172806,
-        "deaths": 9538,
-        "recovered": 145403
+        "confirmed": 173123,
+        "deaths": 9541,
+        "recovered": 145666
     },
     {
         "Name": "네덜란드",
@@ -515,9 +515,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 45647,
-        "deaths": 966,
-        "recovered": 28546
+        "confirmed": 46435,
+        "deaths": 989,
+        "recovered": 29270
     },
     {
         "Name": "팔레스타인",
@@ -1101,7 +1101,7 @@
         "Name_en": "Gambia",
         "confirmed": 3613,
         "deaths": 117,
-        "recovered": 2233
+        "recovered": 2235
     },
     {
         "Name": "Malta",
@@ -1160,20 +1160,20 @@
         "recovered": 1715
     },
     {
+        "Name": "Benin",
+        "Name_ch": "",
+        "Name_en": "Benin",
+        "confirmed": 2411,
+        "deaths": 41,
+        "recovered": 1973
+    },
+    {
         "Name": "Guinea-Bissau",
         "Name_ch": "",
         "Name_en": "Guinea-Bissau",
         "confirmed": 2385,
         "deaths": 40,
         "recovered": 1728
-    },
-    {
-        "Name": "Benin",
-        "Name_ch": "",
-        "Name_en": "Benin",
-        "confirmed": 2357,
-        "deaths": 41,
-        "recovered": 1973
     },
     {
         "Name": "Sierra Leone",
