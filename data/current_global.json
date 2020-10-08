@@ -211,8 +211,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 149988,
-        "deaths": 6518,
+        "confirmed": 155810,
+        "deaths": 6531,
         "recovered": 0
     },
     {
@@ -339,7 +339,7 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 96677,
+        "confirmed": 97532,
         "deaths": 5892,
         "recovered": 0
     },
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 42840,
-        "deaths": 355,
-        "recovered": 35953
+        "confirmed": 43256,
+        "deaths": 359,
+        "recovered": 36584
     },
     {
         "Name": "아제르바이잔",
@@ -1045,7 +1045,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 4459,
         "deaths": 13,
-        "recovered": 3274
+        "recovered": 3278
     },
     {
         "Name": "Réunion",
