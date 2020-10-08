@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7772731,216698,4974823
+미국,美国,United States,7776013,216763,4981557
 인도,印度,India,6832988,105554,5824462
-브라질,巴西,Brazil,5000694,148304,4391424
+브라질,巴西,Brazil,5002357,148304,4391424
 러시아,俄罗斯,Russia,1248619,21865,995275
 콜롬비아,哥伦比亚,Colombia,877683,27180,773973
 스페인,西班牙,Spain,872276,32562,0
@@ -127,7 +127,7 @@ Suriname,,Suriname,4979,106,4781
 Trinidad and Tobago,,Trinidad and Tobago,4887,84,3010
 Rwanda,,Rwanda,4883,29,3408
 CAR,,CAR,4852,62,1914
-Bahamas,,Bahamas,4559,100,2475
+Bahamas,,Bahamas,4632,102,2537
 Syria,,Syria,4504,212,1198
 스리랑카,斯里兰卡,Sri Lanka,4459,13,3274
 Réunion,,Réunion,4385,16,3360
@@ -146,10 +146,10 @@ South Sudan,,South Sudan,2748,50,1290
 안도라,安道尔,Andorra,2568,53,1715
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
+French Polynesia,,French Polynesia,2358,10,1857
 Sierra Leone,,Sierra Leone,2287,72,1716
 라트비아,约旦,Latvia,2261,40,1322
 Belize,,Belize,2243,34,1392
-French Polynesia,,French Polynesia,2228,9,1769
 Burkina Faso,,Burkina Faso,2222,59,1478
 Uruguay,,Uruguay,2206,49,1890
 Yemen,,Yemen,2049,593,1328
@@ -160,7 +160,7 @@ Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1767,40,926
 Liberia,,Liberia,1355,82,1245
 Chad,,Chad,1251,89,1090
-Niger,,Niger,1200,69,1115
+Niger,,Niger,1200,69,1122
 베트남,越南,Vietnam,1099,35,1023
 Sao Tome and Principe,,Sao Tome and Principe,914,15,888
 산마리노,圣马力诺,San Marino,732,42,680
@@ -178,7 +178,7 @@ Faeroe Islands,,Faeroe Islands,476,0,452
 지브롤터,直布罗陀,Gibraltar,445,0,376
 Saint Martin,,Saint Martin,412,8,309
 Eritrea,,Eritrea,398,0,358
-Mauritius,,Mauritius,395,10,357
+Mauritius,,Mauritius,395,10,358
 Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,308
 부탄,不丹,Bhutan,300,0,250

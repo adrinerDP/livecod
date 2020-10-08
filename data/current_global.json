@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7772731,
-        "deaths": 216698,
-        "recovered": 4974823
+        "confirmed": 7776013,
+        "deaths": 216763,
+        "recovered": 4981557
     },
     {
         "Name": "인도",
@@ -19,7 +19,7 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5000694,
+        "confirmed": 5002357,
         "deaths": 148304,
         "recovered": 4391424
     },
@@ -1027,9 +1027,9 @@
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
-        "confirmed": 4559,
-        "deaths": 100,
-        "recovered": 2475
+        "confirmed": 4632,
+        "deaths": 102,
+        "recovered": 2537
     },
     {
         "Name": "Syria",
@@ -1176,6 +1176,14 @@
         "recovered": 1728
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 2358,
+        "deaths": 10,
+        "recovered": 1857
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
@@ -1198,14 +1206,6 @@
         "confirmed": 2243,
         "deaths": 34,
         "recovered": 1392
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 2228,
-        "deaths": 9,
-        "recovered": 1769
     },
     {
         "Name": "Burkina Faso",
@@ -1293,7 +1293,7 @@
         "Name_en": "Niger",
         "confirmed": 1200,
         "deaths": 69,
-        "recovered": 1115
+        "recovered": 1122
     },
     {
         "Name": "베트남",
@@ -1437,7 +1437,7 @@
         "Name_en": "Mauritius",
         "confirmed": 395,
         "deaths": 10,
-        "recovered": 357
+        "recovered": 358
     },
     {
         "Name": "Isle of Man",
