@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7802655,217253,5001098
+미국,美国,United States,7813285,217400,5008791
 인도,印度,India,6902775,106534,5901710
 브라질,巴西,Brazil,5006528,148449,4391424
 러시아,俄罗斯,Russia,1260112,22056,1002329
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,374592,5460,288316
 터키,土耳其,Turkey,330753,8667,290352
 인도네시아,印度尼西亚,Indonesia,320564,11580,244060
 파키스탄,巴基斯坦,Pakistan,316934,6544,302375
-독일,德国,Germany,314097,9666,267700
+독일,德国,Germany,314947,9666,267700
 이스라엘,以色列,Israel,284705,1864,221373
 Ukraine,,Ukraine,244734,4690,108233
 캐나다,加拿大,Canada,175067,9554,147218
@@ -45,7 +45,7 @@ Kazakhstan,,Kazakhstan,108454,1746,103604
 스웨덴,瑞典语,Sweden,97532,5892,0
 Guatemala,,Guatemala,96480,3347,84738
 일본,日本,Japan,87020,1613,80227
-코스타리카,哥斯达黎加,Costa Rica,83497,1024,50295
+코스타리카,哥斯达黎加,Costa Rica,84828,1040,51782
 포르투갈,葡萄牙,Portugal,82534,2050,51517
 벨라루스,白俄罗斯,Belarus,81982,880,76081
 Ethiopia,,Ethiopia,81797,1262,36434
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,80404,671,71531
 Uzbekistan,,Uzbekistan,60026,496,56837
 Moldova,,Moldova,59915,1424,43008
 나이지리아,尼日利亚,Nigeria,59738,1113,51403
-스위스,瑞士,Switzerland,58881,2087,47300
+스위스,瑞士,Switzerland,58881,2087,48400
 싱가포르,新加坡,Singapore,57849,27,57668
 아르메니아,亚美尼亚,Armenia,54473,1004,45312
 알제리,阿尔及利亚,Algeria,52658,1783,36958
@@ -116,8 +116,8 @@ Guadeloupe,,Guadeloupe,6319,77,2199
 Cuba,,Cuba,5917,123,5371
 Malawi,,Malawi,5803,180,4575
 Angola,,Angola,5725,211,2598
+Eswatini,,Eswatini,5632,113,5231
 Lithuania,,Lithuania,5625,102,2660
-Eswatini,,Eswatini,5617,113,5196
 Djibouti,,Djibouti,5423,61,5353
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5162,105,4890

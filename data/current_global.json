@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7802655,
-        "deaths": 217253,
-        "recovered": 5001098
+        "confirmed": 7813285,
+        "deaths": 217400,
+        "recovered": 5008791
     },
     {
         "Name": "인도",
@@ -179,7 +179,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 314097,
+        "confirmed": 314947,
         "deaths": 9666,
         "recovered": 267700
     },
@@ -371,9 +371,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 83497,
-        "deaths": 1024,
-        "recovered": 50295
+        "confirmed": 84828,
+        "deaths": 1040,
+        "recovered": 51782
     },
     {
         "Name": "포르투갈",
@@ -453,7 +453,7 @@
         "Name_en": "Switzerland",
         "confirmed": 58881,
         "deaths": 2087,
-        "recovered": 47300
+        "recovered": 48400
     },
     {
         "Name": "싱가포르",
@@ -936,20 +936,20 @@
         "recovered": 2598
     },
     {
+        "Name": "Eswatini",
+        "Name_ch": "",
+        "Name_en": "Eswatini",
+        "confirmed": 5632,
+        "deaths": 113,
+        "recovered": 5231
+    },
+    {
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
         "confirmed": 5625,
         "deaths": 102,
         "recovered": 2660
-    },
-    {
-        "Name": "Eswatini",
-        "Name_ch": "",
-        "Name_en": "Eswatini",
-        "confirmed": 5617,
-        "deaths": 113,
-        "recovered": 5196
     },
     {
         "Name": "Djibouti",
