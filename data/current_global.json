@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7873747,
-        "deaths": 218279,
-        "recovered": 5048625
+        "confirmed": 7875633,
+        "deaths": 218317,
+        "recovered": 5050036
     },
     {
         "Name": "인도",
@@ -371,9 +371,9 @@
         "Name": "코스타리카",
         "Name_ch": "哥斯达黎加",
         "Name_en": "Costa Rica",
-        "confirmed": 84828,
-        "deaths": 1040,
-        "recovered": 51782
+        "confirmed": 86053,
+        "deaths": 1055,
+        "recovered": 52327
     },
     {
         "Name": "포르투갈",
@@ -1549,7 +1549,7 @@
         "Name_en": "British Virgin Islands",
         "confirmed": 71,
         "deaths": 1,
-        "recovered": 69
+        "recovered": 70
     },
     {
         "Name": "St. Vincent Grenadines",
