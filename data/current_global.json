@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7858904,
-        "deaths": 218110,
-        "recovered": 5039542
+        "confirmed": 7861227,
+        "deaths": 218125,
+        "recovered": 5041020
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6957511,
-        "deaths": 107039,
-        "recovered": 5955462
+        "confirmed": 6964074,
+        "deaths": 107142,
+        "recovered": 5966938
     },
     {
         "Name": "브라질",
@@ -72,20 +72,20 @@
         "recovered": 583603
     },
     {
+        "Name": "프랑스",
+        "Name_ch": "法国",
+        "Name_en": "France",
+        "confirmed": 691977,
+        "deaths": 32583,
+        "recovered": 100306
+    },
+    {
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
         "confirmed": 686891,
         "deaths": 17408,
         "recovered": 618771
-    },
-    {
-        "Name": "프랑스",
-        "Name_ch": "法国",
-        "Name_en": "France",
-        "confirmed": 671638,
-        "deaths": 32521,
-        "recovered": 100306
     },
     {
         "Name": "영국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 319053,
+        "confirmed": 319204,
         "deaths": 9676,
         "recovered": 269500
     },
@@ -224,6 +224,14 @@
         "recovered": 114792
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 146398,
+        "deaths": 2530,
+        "recovered": 123022
+    },
+    {
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
@@ -238,14 +246,6 @@
         "confirmed": 143596,
         "deaths": 10126,
         "recovered": 19981
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 142953,
-        "deaths": 2486,
-        "recovered": 120275
     },
     {
         "Name": "Bolivia",
@@ -1043,7 +1043,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 4504,
+        "confirmed": 4523,
         "deaths": 13,
         "recovered": 3296
     },
@@ -1475,9 +1475,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 229,
+        "confirmed": 233,
         "deaths": 2,
-        "recovered": 207
+        "recovered": 209
     },
     {
         "Name": "Cayman Islands",
