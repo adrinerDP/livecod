@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7861227,
-        "deaths": 218125,
-        "recovered": 5041020
+        "confirmed": 7863294,
+        "deaths": 218140,
+        "recovered": 5041868
     },
     {
         "Name": "인도",
@@ -77,7 +77,7 @@
         "Name_en": "France",
         "confirmed": 691977,
         "deaths": 32583,
-        "recovered": 100306
+        "recovered": 100828
     },
     {
         "Name": "남아프리카 공화국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 319204,
+        "confirmed": 319288,
         "deaths": 9676,
         "recovered": 269500
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 177600,
-        "deaths": 9583,
-        "recovered": 149233
+        "confirmed": 177697,
+        "deaths": 9586,
+        "recovered": 149244
     },
     {
         "Name": "네덜란드",
@@ -491,9 +491,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 49744,
-        "deaths": 439,
-        "recovered": 21760
+        "confirmed": 51170,
+        "deaths": 450,
+        "recovered": 22407
     },
     {
         "Name": "Kyrgyzstan",
@@ -792,20 +792,20 @@
         "recovered": 10242
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "confirmed": 10808,
+        "deaths": 34,
+        "recovered": 9654
+    },
+    {
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
         "confirmed": 10752,
         "deaths": 72,
         "recovered": 5866
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "confirmed": 10742,
-        "deaths": 34,
-        "recovered": 9589
     },
     {
         "Name": "Tajikistan",
@@ -947,9 +947,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5632,
+        "confirmed": 5644,
         "deaths": 113,
-        "recovered": 5231
+        "recovered": 5254
     },
     {
         "Name": "Djibouti",

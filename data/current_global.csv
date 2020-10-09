@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7861227,218125,5041020
+미국,美国,United States,7863294,218140,5041868
 인도,印度,India,6964074,107142,5966938
 브라질,巴西,Brazil,5035744,149189,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -8,7 +8,7 @@
 Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,838614,33098,728216
 멕시코,墨西哥,Mexico,804488,83096,583603
-프랑스,法国,France,691977,32583,100306
+프랑스,法国,France,691977,32583,100828
 남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
 영국,英国,UK,575679,42679,0
 이란,伊朗,Iran,492378,28098,401379
@@ -20,11 +20,11 @@ Bangladesh,,Bangladesh,375870,5477,289912
 필리핀,菲律宾,Philippines,334770,6152,275307
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
-독일,德国,Germany,319204,9676,269500
+독일,德国,Germany,319288,9676,269500
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
-캐나다,加拿大,Canada,177600,9583,149233
+캐나다,加拿大,Canada,177697,9586,149244
 네덜란드,荷兰,Netherlands,161781,6544,0
 루마니아,尼亚,Romania,148886,5299,114792
 모로코,摩洛哥,Morocco,146398,2530,123022
@@ -60,7 +60,7 @@ Uzbekistan,,Uzbekistan,60342,498,57221
 아르메니아,亚美尼亚,Armenia,55087,1010,45528
 오스트리아,奥地利,Austria,53188,842,42039
 알제리,阿尔及利亚,Algeria,52804,1789,37067
-레바논,黎巴嫩,Lebanon,49744,439,21760
+레바논,黎巴嫩,Lebanon,51170,450,22407
 Kyrgyzstan,,Kyrgyzstan,48617,1077,44097
 Paraguay,,Paraguay,47316,1012,29976
 Ghana,,Ghana,46964,306,46310
@@ -98,8 +98,8 @@ Namibia,,Namibia,11829,127,9778
 핀란드,芬兰,Finland,11580,346,8500
 Guinea,,Guinea,10954,68,10265
 DRC,,DRC,10835,276,10242
+Maldives,,Maldives,10808,34,9654
 조지아,格鲁吉亚,Georgia,10752,72,5866
-Maldives,,Maldives,10742,34,9589
 Tajikistan,,Tajikistan,10137,79,8959
 French Guiana,,French Guiana,10128,69,9799
 Mozambique,,Mozambique,9742,69,7171
@@ -117,7 +117,7 @@ Angola,,Angola,5958,208,2635
 Cuba,,Cuba,5943,123,5398
 Malawi,,Malawi,5813,180,4631
 Lithuania,,Lithuania,5758,103,2722
-Eswatini,,Eswatini,5632,113,5231
+Eswatini,,Eswatini,5644,113,5254
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5170,105,4906
