@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7875633,218317,5050036
+미국,美国,United States,7876676,218329,5050284
 인도,印度,India,6977008,107450,5985505
 브라질,巴西,Brazil,5035744,149189,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,375870,5477,289912
 필리핀,菲律宾,Philippines,334770,6152,275307
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
-독일,德国,Germany,320214,9682,269500
+독일,德国,Germany,320409,9687,269500
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
@@ -83,7 +83,7 @@ Bulgaria,,Bulgaria,23259,880,15563
 그리스,希腊,Greece,21772,431,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,20163,781,16009
-Ivory Coast,,Ivory Coast,19982,120,19626
+Ivory Coast,,Ivory Coast,20036,120,19696
 크로아티아,克罗地亚,Croatia,19446,313,16695
 슬로바키아,斯洛伐克,Slovakia,16910,57,5452
 Madagascar,,Madagascar,16676,237,15975
@@ -125,7 +125,7 @@ Congo,,Congo,5118,90,3887
 Equatorial Guinea,,Equatorial Guinea,5062,83,4894
 Suriname,,Suriname,5004,106,4794
 Trinidad and Tobago,,Trinidad and Tobago,4963,86,3076
-Rwanda,,Rwanda,4885,29,3542
+Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
 Bahamas,,Bahamas,4713,102,2607
 Syria,,Syria,4566,215,1212
@@ -159,7 +159,7 @@ New Zealand,,New Zealand,1866,25,1800
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1800,42,926
 Liberia,,Liberia,1360,82,1245
-Chad,,Chad,1262,89,1098
+Chad,,Chad,1274,90,1102
 Niger,,Niger,1201,69,1122
 베트남,越南,Vietnam,1105,35,1024
 Sao Tome and Principe,,Sao Tome and Principe,921,15,890
@@ -188,7 +188,7 @@ Cayman Islands,,Cayman Islands,214,1,211
 Barbados,,Barbados,204,7,182
 Bermuda,,Bermuda,184,9,170
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78
-Seychelles,,Seychelles,148,0,143
+Seychelles,,Seychelles,148,0,144
 Brunei,,Brunei,146,3,143
 리히텐슈타인,列支敦士登,Liechtenstein,137,1,117
 Antigua and Barbuda,,Antigua and Barbuda,111,3,97

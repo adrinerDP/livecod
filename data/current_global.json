@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7875633,
-        "deaths": 218317,
-        "recovered": 5050036
+        "confirmed": 7876676,
+        "deaths": 218329,
+        "recovered": 5050284
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 320214,
-        "deaths": 9682,
+        "confirmed": 320409,
+        "deaths": 9687,
         "recovered": 269500
     },
     {
@@ -675,9 +675,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 19982,
+        "confirmed": 20036,
         "deaths": 120,
-        "recovered": 19626
+        "recovered": 19696
     },
     {
         "Name": "크로아티아",
@@ -1011,9 +1011,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4885,
-        "deaths": 29,
-        "recovered": 3542
+        "confirmed": 4890,
+        "deaths": 30,
+        "recovered": 3555
     },
     {
         "Name": "CAR",
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1262,
-        "deaths": 89,
-        "recovered": 1098
+        "confirmed": 1274,
+        "deaths": 90,
+        "recovered": 1102
     },
     {
         "Name": "Niger",
@@ -1517,7 +1517,7 @@
         "Name_en": "Seychelles",
         "confirmed": 148,
         "deaths": 0,
-        "recovered": 143
+        "recovered": 144
     },
     {
         "Name": "Brunei",
