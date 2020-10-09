@@ -936,20 +936,20 @@
         "recovered": 4626
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 5758,
+        "deaths": 103,
+        "recovered": 2722
+    },
+    {
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
         "confirmed": 5632,
         "deaths": 113,
         "recovered": 5231
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 5625,
-        "deaths": 102,
-        "recovered": 2660
     },
     {
         "Name": "Djibouti",
