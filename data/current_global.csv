@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7839447,217829,5026389
+미국,美国,United States,7840786,217843,5026902
 인도,印度,India,6926881,106788,5926637
 브라질,巴西,Brazil,5029539,149034,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -10,7 +10,7 @@ Argentina,,Argentina,856369,22710,684844
 멕시코,墨西哥,Mexico,804488,83096,583603
 남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
 프랑스,法国,France,671638,32521,100306
-영국,英国,UK,561815,42592,0
+영국,英国,UK,575679,42679,0
 이란,伊朗,Iran,492378,28098,401379
 칠레,智利,Chile,477769,13220,450297
 이라크,伊拉克,Iraq,397780,9735,328097
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,375870,5477,289912
 필리핀,菲律宾,Philippines,334770,6152,275307
 터키,土耳其,Turkey,330753,8667,290352
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
-독일,德国,Germany,318007,9674,269500
+독일,德国,Germany,318449,9675,269500
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
-이스라엘,以色列,Israel,286646,1879,225189
+이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
 캐나다,加拿大,Canada,176498,9562,148232
 네덜란드,荷兰,Netherlands,161781,6544,0
@@ -43,8 +43,8 @@ Kazakhstan,,Kazakhstan,108561,1746,103758
 체코,捷克,Czechia,100757,869,51160
 네팔,尼泊尔,Nepal,100676,600,73023
 스웨덴,瑞典语,Sweden,98451,5894,0
-Guatemala,,Guatemala,96480,3347,84738
-일본,日本,Japan,87020,1613,80227
+Guatemala,,Guatemala,96935,3356,85343
+일본,日本,Japan,87639,1616,80733
 코스타리카,哥斯达黎加,Costa Rica,84828,1040,51782
 포르투갈,葡萄牙,Portugal,83928,2062,52164
 벨라루스,白俄罗斯,Belarus,82471,885,76543
@@ -56,7 +56,7 @@ Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
 Uzbekistan,,Uzbekistan,60342,498,57221
 나이지리아,尼日利亚,Nigeria,59841,1113,51551
-싱가포르,新加坡,Singapore,57859,27,57668
+싱가포르,新加坡,Singapore,57859,27,57675
 아르메니아,亚美尼亚,Armenia,55087,1010,45528
 오스트리아,奥地利,Austria,53188,842,42039
 알제리,阿尔及利亚,Algeria,52658,1783,36958
@@ -80,7 +80,7 @@ Tunisia,,Tunisia,26899,409,5032
 Myanmar,,Myanmar,23906,566,6738
 Bulgaria,,Bulgaria,23259,880,15563
 요르단,约旦,Jordan,22763,166,5906
-그리스,希腊,Greece,21381,430,9989
+그리스,希腊,Greece,21772,431,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,20163,781,16009
 Ivory Coast,,Ivory Coast,19982,120,19626
@@ -93,7 +93,7 @@ Zambia,,Zambia,15301,335,14365
 Albania,,Albania,15066,413,9304
 말레이시아,马来西亚,Malaysia,14722,152,10707
 Sudan,,Sudan,13670,836,6764
-Montenegro,,Montenegro,13004,191,9154
+Montenegro,,Montenegro,13348,194,9326
 Namibia,,Namibia,11781,127,9759
 핀란드,芬兰,Finland,11580,346,8500
 Guinea,,Guinea,10901,68,10232
@@ -142,7 +142,7 @@ Iceland,,Iceland,3373,10,2448
 Guyana,,Guyana,3329,98,2165
 Mali,,Mali,3235,131,2506
 Botswana,,Botswana,3219,18,834
-South Sudan,,South Sudan,2749,53,1290
+South Sudan,,South Sudan,2761,54,1290
 안도라,安道尔,Andorra,2696,55,1814
 라트비아,约旦,Latvia,2507,40,1322
 French Polynesia,,French Polynesia,2420,10,1857
