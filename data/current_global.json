@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7884202,
-        "deaths": 218464,
-        "recovered": 5054602
+        "confirmed": 7889093,
+        "deaths": 218574,
+        "recovered": 5056941
     },
     {
         "Name": "인도",
@@ -704,20 +704,20 @@
         "recovered": 15975
     },
     {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "confirmed": 15301,
-        "deaths": 335,
-        "recovered": 14365
-    },
-    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15294,
+        "confirmed": 15388,
         "deaths": 275,
         "recovered": 11863
+    },
+    {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 15339,
+        "deaths": 336,
+        "recovered": 14439
     },
     {
         "Name": "세네갈",
@@ -1531,7 +1531,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 137,
+        "confirmed": 139,
         "deaths": 1,
         "recovered": 117
     },
