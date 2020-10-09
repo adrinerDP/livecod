@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7889093,218574,5056941
+미국,美国,United States,7892219,218604,5057814
 인도,印度,India,6977008,107450,5985505
-브라질,巴西,Brazil,5055888,149639,4433595
+브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1272238,22257,1009421
 콜롬비아,哥伦比亚,Colombia,894300,27495,780547
 스페인,西班牙,Spain,890367,32929,0
-Argentina,,Argentina,856369,22710,684844
+Argentina,,Argentina,871468,23225,697141
 페루,秘鲁,Peru,838614,33098,728216
 멕시코,墨西哥,Mexico,804488,83096,583603
 프랑스,法国,France,691977,32583,100828
@@ -36,8 +36,8 @@ Panama,,Panama,118054,2463,94391
 도미니카 공화국,多明尼加共和国,Dominican Republic,117457,2165,93061
 폴란드,波兰,Poland,116338,2919,77875
 쿠웨이트,科威特,Kuwait,110076,649,102024
+체코,捷克,Czechia,109374,905,53173
 Kazakhstan,,Kazakhstan,108561,1746,103758
-체코,捷克,Czechia,105281,898,51706
 이집트,埃及,Egypt,104262,6029,97592
 오만,阿曼,Oman,104129,1009,91731
 아랍에미리트,阿拉伯联合酋长国,UAE,104004,442,94903
@@ -63,7 +63,7 @@ Uzbekistan,,Uzbekistan,60342,498,57221
 레바논,黎巴嫩,Lebanon,51170,450,22407
 Kyrgyzstan,,Kyrgyzstan,48617,1077,44097
 Paraguay,,Paraguay,47316,1012,29976
-Ghana,,Ghana,46964,306,46310
+Ghana,,Ghana,46987,306,46378
 팔레스타인,巴勒斯坦,Palestine,43664,367,36922
 아제르바이잔,阿塞拜疆,Azerbaijan,41519,605,39129
 Libya,,Libya,41368,621,23453
@@ -109,7 +109,7 @@ Haiti,,Haiti,8854,230,7013
 Gabon,,Gabon,8815,54,8164
 Zimbabwe,,Zimbabwe,7994,229,6474
 슬로베니아,斯洛文尼亚,Slovenia,7872,165,4842
-Mauritania,,Mauritania,7540,162,7227
+Mauritania,,Mauritania,7548,163,7245
 Jamaica,,Jamaica,7363,132,3102
 Cabo Verde,,Cabo Verde,6809,73,5932
 Guadeloupe,,Guadeloupe,6319,77,2199
@@ -150,8 +150,8 @@ Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Belize,,Belize,2373,34,1459
 Sierra Leone,,Sierra Leone,2295,72,1723
+Uruguay,,Uruguay,2251,49,1917
 Burkina Faso,,Burkina Faso,2241,60,1506
-Uruguay,,Uruguay,2226,49,1904
 Yemen,,Yemen,2051,593,1329
 Cyprus,,Cyprus,1951,25,1369
 토고,多哥,Togo,1907,49,1426
