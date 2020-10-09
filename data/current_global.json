@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7879321,
+        "confirmed": 7879587,
         "deaths": 218356,
-        "recovered": 5050851
+        "recovered": 5050985
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5035744,
-        "deaths": 149189,
+        "confirmed": 5055888,
+        "deaths": 149639,
         "recovered": 4414564
     },
     {
@@ -83,9 +83,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 686891,
-        "deaths": 17408,
-        "recovered": 618771
+        "confirmed": 688352,
+        "deaths": 17547,
+        "recovered": 620081
     },
     {
         "Name": "영국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 320409,
+        "confirmed": 320478,
         "deaths": 9687,
         "recovered": 269500
     },
@@ -992,20 +992,20 @@
         "recovered": 4894
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 5021,
+        "deaths": 89,
+        "recovered": 3150
+    },
+    {
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
         "confirmed": 5004,
         "deaths": 106,
         "recovered": 4794
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 4963,
-        "deaths": 86,
-        "recovered": 3076
     },
     {
         "Name": "Rwanda",
@@ -1059,8 +1059,8 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4150,
-        "deaths": 31,
+        "confirmed": 4167,
+        "deaths": 32,
         "recovered": 3718
     },
     {
@@ -1123,9 +1123,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 3329,
-        "deaths": 98,
-        "recovered": 2165
+        "confirmed": 3358,
+        "deaths": 100,
+        "recovered": 2180
     },
     {
         "Name": "Mali",

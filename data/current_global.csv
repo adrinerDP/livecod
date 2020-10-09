@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7879321,218356,5050851
+미국,美国,United States,7879587,218356,5050985
 인도,印度,India,6977008,107450,5985505
-브라질,巴西,Brazil,5035744,149189,4414564
+브라질,巴西,Brazil,5055888,149639,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
 스페인,西班牙,Spain,890367,32929,0
 콜롬비아,哥伦比亚,Colombia,886179,27331,777658
@@ -9,7 +9,7 @@ Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,838614,33098,728216
 멕시코,墨西哥,Mexico,804488,83096,583603
 프랑스,法国,France,691977,32583,100828
-남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
+남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
 영국,英国,UK,575679,42679,0
 이란,伊朗,Iran,492378,28098,401379
 칠레,智利,Chile,477769,13220,450297
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,375870,5477,289912
 필리핀,菲律宾,Philippines,334770,6152,275307
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
-독일,德国,Germany,320409,9687,269500
+독일,德国,Germany,320478,9687,269500
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
@@ -123,15 +123,15 @@ Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5170,105,4906
 Congo,,Congo,5118,90,3887
 Equatorial Guinea,,Equatorial Guinea,5062,83,4894
+Trinidad and Tobago,,Trinidad and Tobago,5021,89,3150
 Suriname,,Suriname,5004,106,4794
-Trinidad and Tobago,,Trinidad and Tobago,4963,86,3076
 Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
 Bahamas,,Bahamas,4713,102,2607
 Syria,,Syria,4566,215,1212
 스리랑카,斯里兰卡,Sri Lanka,4523,13,3296
 Réunion,,Réunion,4491,16,3994
-Aruba,,Aruba,4150,31,3718
+Aruba,,Aruba,4167,32,3718
 Mayotte,,Mayotte,3989,43,2964
 에스토니아,爱沙尼亚,Estonia,3809,68,2906
 Somalia,,Somalia,3745,99,3010
@@ -139,7 +139,7 @@ Somalia,,Somalia,3745,99,3010
 Gambia,,Gambia,3621,117,2489
 Malta,,Malta,3581,41,2915
 Iceland,,Iceland,3373,10,2448
-Guyana,,Guyana,3329,98,2165
+Guyana,,Guyana,3358,100,2180
 Mali,,Mali,3248,131,2514
 Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2761,54,1290
