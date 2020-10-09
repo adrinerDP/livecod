@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7879587,
-        "deaths": 218356,
-        "recovered": 5050985
+        "confirmed": 7883762,
+        "deaths": 218459,
+        "recovered": 5054414
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 5055888,
         "deaths": 149639,
-        "recovered": 4414564
+        "recovered": 4433595
     },
     {
         "Name": "러시아",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 177719,
+        "confirmed": 177998,
         "deaths": 9586,
-        "recovered": 149270
+        "recovered": 149420
     },
     {
         "Name": "네덜란드",
@@ -235,8 +235,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 145045,
-        "deaths": 12141,
+        "confirmed": 145848,
+        "deaths": 12175,
         "recovered": 120511
     },
     {
@@ -315,9 +315,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 104156,
-        "deaths": 6017,
-        "recovered": 97524
+        "confirmed": 104262,
+        "deaths": 6029,
+        "recovered": 97592
     },
     {
         "Name": "오만",
@@ -635,9 +635,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 23259,
-        "deaths": 880,
-        "recovered": 15563
+        "confirmed": 23871,
+        "deaths": 887,
+        "recovered": 15713
     },
     {
         "Name": "요르단",
@@ -1227,7 +1227,7 @@
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
-        "confirmed": 2050,
+        "confirmed": 2051,
         "deaths": 593,
         "recovered": 1329
     },
