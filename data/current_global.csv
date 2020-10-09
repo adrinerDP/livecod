@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7883762,218459,5054414
+미국,美国,United States,7884202,218464,5054602
 인도,印度,India,6977008,107450,5985505
 브라질,巴西,Brazil,5055888,149639,4433595
 러시아,俄罗斯,Russia,1272238,22257,1009421
+콜롬비아,哥伦比亚,Colombia,894300,27495,780547
 스페인,西班牙,Spain,890367,32929,0
-콜롬비아,哥伦比亚,Colombia,886179,27331,777658
 Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,838614,33098,728216
 멕시코,墨西哥,Mexico,804488,83096,583603
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,81019,678,72196
 Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
 Uzbekistan,,Uzbekistan,60342,498,57221
-나이지리아,尼日利亚,Nigeria,59841,1113,51551
+나이지리아,尼日利亚,Nigeria,59992,1113,51614
 싱가포르,新加坡,Singapore,57859,27,57675
 아르메니아,亚美尼亚,Armenia,55087,1010,45528
 오스트리아,奥地利,Austria,53188,842,42039
@@ -68,7 +68,7 @@ Ghana,,Ghana,46964,306,46310
 아제르바이잔,阿塞拜疆,Azerbaijan,41519,605,39129
 Libya,,Libya,41368,621,23453
 아일랜드,冰岛,Ireland,40703,1821,23364
-Kenya,,Kenya,40178,751,31710
+Kenya,,Kenya,40620,755,31876
 아프가니스탄,阿富汗,Afghanistan,39693,1472,33058
 헝가리,匈牙利,Hungary,35222,913,9202
 세르비아,塞尔维亚,Serbia,34517,761,31536
@@ -128,7 +128,7 @@ Suriname,,Suriname,5004,106,4794
 Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
 Bahamas,,Bahamas,4713,102,2607
-Syria,,Syria,4566,215,1212
+Syria,,Syria,4616,218,1235
 스리랑카,斯里兰卡,Sri Lanka,4523,13,3296
 Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4167,32,3718
@@ -197,7 +197,7 @@ St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 St. Barth,,St. Barth,62,0,37
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,28
-Dominica,,Dominica,31,0,24
+Dominica,,Dominica,32,0,24
 Saint Lucia,,Saint Lucia,28,0,27
 Timor-Leste,,Timor-Leste,28,0,28
 New Caledonia,,New Caledonia,27,0,27
@@ -205,7 +205,7 @@ Grenada,,Grenada,24,0,24
 Laos,,Laos,23,0,22
 Saint Kitts and Nevis,,Saint Kitts and Nevis,19,0,18
 Greenland,,Greenland,16,0,14
-Saint Pierre Miquelon,,Saint Pierre Miquelon,16,0,6
+Saint Pierre Miquelon,,Saint Pierre Miquelon,16,0,12
 Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12

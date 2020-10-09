@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7883762,
-        "deaths": 218459,
-        "recovered": 5054414
+        "confirmed": 7884202,
+        "deaths": 218464,
+        "recovered": 5054602
     },
     {
         "Name": "인도",
@@ -32,20 +32,20 @@
         "recovered": 1009421
     },
     {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 894300,
+        "deaths": 27495,
+        "recovered": 780547
+    },
+    {
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
         "confirmed": 890367,
         "deaths": 32929,
         "recovered": 0
-    },
-    {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 886179,
-        "deaths": 27331,
-        "recovered": 777658
     },
     {
         "Name": "Argentina",
@@ -451,9 +451,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 59841,
+        "confirmed": 59992,
         "deaths": 1113,
-        "recovered": 51551
+        "recovered": 51614
     },
     {
         "Name": "싱가포르",
@@ -555,9 +555,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 40178,
-        "deaths": 751,
-        "recovered": 31710
+        "confirmed": 40620,
+        "deaths": 755,
+        "recovered": 31876
     },
     {
         "Name": "아프가니스탄",
@@ -1035,9 +1035,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4566,
-        "deaths": 215,
-        "recovered": 1212
+        "confirmed": 4616,
+        "deaths": 218,
+        "recovered": 1235
     },
     {
         "Name": "스리랑카",
@@ -1587,7 +1587,7 @@
         "Name": "Dominica",
         "Name_ch": "",
         "Name_en": "Dominica",
-        "confirmed": 31,
+        "confirmed": 32,
         "deaths": 0,
         "recovered": 24
     },
@@ -1653,7 +1653,7 @@
         "Name_en": "Saint Pierre Miquelon",
         "confirmed": 16,
         "deaths": 0,
-        "recovered": 6
+        "recovered": 12
     },
     {
         "Name": "Montserrat",
