@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7831265,
-        "deaths": 217656,
-        "recovered": 5016041
+        "confirmed": 7833599,
+        "deaths": 217738,
+        "recovered": 5018801
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6903806,
-        "deaths": 106554,
-        "recovered": 5903170
+        "confirmed": 6903812,
+        "deaths": 106521,
+        "recovered": 5903207
     },
     {
         "Name": "브라질",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 175449,
-        "deaths": 9556,
-        "recovered": 147406
+        "confirmed": 175559,
+        "deaths": 9557,
+        "recovered": 147508
     },
     {
         "Name": "네덜란드",
@@ -400,20 +400,20 @@
         "recovered": 36434
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 81019,
+        "deaths": 678,
+        "recovered": 72196
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 81016,
         "deaths": 2466,
         "recovered": 30590
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 80404,
-        "deaths": 671,
-        "recovered": 71531
     },
     {
         "Name": "바레인",
@@ -504,20 +504,20 @@
         "recovered": 43957
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 47316,
+        "deaths": 1012,
+        "recovered": 29976
+    },
+    {
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
         "confirmed": 46947,
         "deaths": 306,
         "recovered": 46259
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 46435,
-        "deaths": 989,
-        "recovered": 29270
     },
     {
         "Name": "팔레스타인",
@@ -707,9 +707,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 15224,
+        "confirmed": 15301,
         "deaths": 335,
-        "recovered": 14342
+        "recovered": 14365
     },
     {
         "Name": "노르웨이",
@@ -912,6 +912,14 @@
         "recovered": 2199
     },
     {
+        "Name": "Angola",
+        "Name_ch": "",
+        "Name_en": "Angola",
+        "confirmed": 5958,
+        "deaths": 208,
+        "recovered": 2635
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -926,14 +934,6 @@
         "confirmed": 5809,
         "deaths": 180,
         "recovered": 4626
-    },
-    {
-        "Name": "Angola",
-        "Name_ch": "",
-        "Name_en": "Angola",
-        "confirmed": 5725,
-        "deaths": 211,
-        "recovered": 2598
     },
     {
         "Name": "Eswatini",
@@ -1019,7 +1019,7 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4852,
+        "confirmed": 4853,
         "deaths": 62,
         "recovered": 1914
     },
@@ -1291,7 +1291,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1200,
+        "confirmed": 1201,
         "deaths": 69,
         "recovered": 1122
     },
@@ -1307,9 +1307,9 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 914,
+        "confirmed": 921,
         "deaths": 15,
-        "recovered": 888
+        "recovered": 890
     },
     {
         "Name": "산마리노",
@@ -1349,7 +1349,7 @@
         "Name_en": "Turks and Caicos",
         "confirmed": 695,
         "deaths": 6,
-        "recovered": 656
+        "recovered": 671
     },
     {
         "Name": "Papua New Guinea",
@@ -1539,7 +1539,7 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 108,
+        "confirmed": 111,
         "deaths": 3,
         "recovered": 97
     },
