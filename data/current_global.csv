@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7833763,217738,5025193
-인도,印度,India,6903812,106521,5903207
+인도,印度,India,6906151,106521,5906069
 브라질,巴西,Brazil,5029539,149034,4414564
 러시아,俄罗斯,Russia,1260112,22056,1002329
 콜롬비아,哥伦比亚,Colombia,886179,27331,777658
@@ -135,7 +135,7 @@ Aruba,,Aruba,4150,31,3718
 Mayotte,,Mayotte,3892,42,2964
 에스토니아,爱沙尼亚,Estonia,3760,67,2824
 Somalia,,Somalia,3745,99,3010
-태국,泰国,Thailand,3622,59,3439
+태국,泰国,Thailand,3628,59,3441
 Gambia,,Gambia,3617,117,2437
 Malta,,Malta,3506,41,2884
 Guyana,,Guyana,3329,98,2165
@@ -147,8 +147,8 @@ South Sudan,,South Sudan,2749,53,1290
 French Polynesia,,French Polynesia,2420,10,1857
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
+Belize,,Belize,2373,34,1459
 라트비아,约旦,Latvia,2370,40,1322
-Belize,,Belize,2310,34,1427
 Sierra Leone,,Sierra Leone,2293,72,1721
 Burkina Faso,,Burkina Faso,2241,60,1506
 Uruguay,,Uruguay,2226,49,1904
@@ -181,7 +181,7 @@ Eritrea,,Eritrea,405,0,364
 Mauritius,,Mauritius,395,10,358
 Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,308
-부탄,不丹,Bhutan,304,0,252
+부탄,不丹,Bhutan,304,0,255
 캄보디아,柬埔寨,Cambodia,281,0,276
 모나코,摩纳哥,Monaco,229,2,207
 Cayman Islands,,Cayman Islands,214,1,211
