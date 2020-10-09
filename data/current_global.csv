@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7876676,218329,5050284
+미국,美国,United States,7879321,218356,5050851
 인도,印度,India,6977008,107450,5985505
 브라질,巴西,Brazil,5035744,149189,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,375870,5477,289912
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
-캐나다,加拿大,Canada,177697,9586,149244
+캐나다,加拿大,Canada,177719,9586,149270
 네덜란드,荷兰,Netherlands,161781,6544,0
 루마니아,尼亚,Romania,148886,5299,114792
 모로코,摩洛哥,Morocco,146398,2530,123022
@@ -47,11 +47,11 @@ Guatemala,,Guatemala,96935,3356,85343
 일본,日本,Japan,87639,1616,80733
 코스타리카,哥斯达黎加,Costa Rica,86053,1055,52327
 포르투갈,葡萄牙,Portugal,83928,2062,52164
+Ethiopia,,Ethiopia,82662,1271,37102
 벨라루스,白俄罗斯,Belarus,82471,885,76543
-Ethiopia,,Ethiopia,81797,1262,36434
 Honduras,,Honduras,81672,2477,31089
 Venezuela,,Venezuela,81019,678,72196
-바레인,巴林,Bahrain,74422,266,69854
+바레인,巴林,Bahrain,74860,271,70406
 Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
 Uzbekistan,,Uzbekistan,60342,498,57221
@@ -111,7 +111,7 @@ Zimbabwe,,Zimbabwe,7994,229,6474
 슬로베니아,斯洛文尼亚,Slovenia,7872,165,4842
 Mauritania,,Mauritania,7540,162,7227
 Jamaica,,Jamaica,7363,132,3102
-Cabo Verde,,Cabo Verde,6717,71,5821
+Cabo Verde,,Cabo Verde,6809,73,5932
 Guadeloupe,,Guadeloupe,6319,77,2199
 Angola,,Angola,6031,212,2685
 Cuba,,Cuba,5943,123,5398

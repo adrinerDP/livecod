@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7876676,
-        "deaths": 218329,
-        "recovered": 5050284
+        "confirmed": 7879321,
+        "deaths": 218356,
+        "recovered": 5050851
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 177697,
+        "confirmed": 177719,
         "deaths": 9586,
-        "recovered": 149244
+        "recovered": 149270
     },
     {
         "Name": "네덜란드",
@@ -384,20 +384,20 @@
         "recovered": 52164
     },
     {
+        "Name": "Ethiopia",
+        "Name_ch": "",
+        "Name_en": "Ethiopia",
+        "confirmed": 82662,
+        "deaths": 1271,
+        "recovered": 37102
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
         "confirmed": 82471,
         "deaths": 885,
         "recovered": 76543
-    },
-    {
-        "Name": "Ethiopia",
-        "Name_ch": "",
-        "Name_en": "Ethiopia",
-        "confirmed": 81797,
-        "deaths": 1262,
-        "recovered": 36434
     },
     {
         "Name": "Honduras",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 74422,
-        "deaths": 266,
-        "recovered": 69854
+        "confirmed": 74860,
+        "deaths": 271,
+        "recovered": 70406
     },
     {
         "Name": "Moldova",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6717,
-        "deaths": 71,
-        "recovered": 5821
+        "confirmed": 6809,
+        "deaths": 73,
+        "recovered": 5932
     },
     {
         "Name": "Guadeloupe",
