@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7833599,217738,5018801
+미국,美国,United States,7833763,217738,5025193
 인도,印度,India,6903812,106521,5903207
 브라질,巴西,Brazil,5029539,149034,4414564
 러시아,俄罗斯,Russia,1260112,22056,1002329
@@ -7,7 +7,7 @@
 스페인,西班牙,Spain,884381,32688,0
 Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,838614,33098,728216
-멕시코,墨西哥,Mexico,799188,82726,560895
+멕시코,墨西哥,Mexico,804488,83096,583603
 남아프리카 공화국,南非共和国,South Africa,686891,17408,618771
 프랑스,法国,France,671638,32521,100306
 영국,英国,UK,561815,42592,0
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85500,4634,80666
+중국,中国,China,85521,4634,80681
