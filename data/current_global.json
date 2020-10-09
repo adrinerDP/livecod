@@ -283,9 +283,9 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 111599,
-        "deaths": 2867,
-        "recovered": 76490
+        "confirmed": 116338,
+        "deaths": 2919,
+        "recovered": 77875
     },
     {
         "Name": "쿠웨이트",
@@ -472,20 +472,20 @@
         "recovered": 45528
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 53188,
+        "deaths": 842,
+        "recovered": 42039
+    },
+    {
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
         "confirmed": 52658,
         "deaths": 1783,
         "recovered": 36958
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 52057,
-        "deaths": 838,
-        "recovered": 41289
     },
     {
         "Name": "레바논",
@@ -683,9 +683,17 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 18989,
-        "deaths": 310,
-        "recovered": 16473
+        "confirmed": 19446,
+        "deaths": 313,
+        "recovered": 16695
+    },
+    {
+        "Name": "슬로바키아",
+        "Name_ch": "斯洛伐克",
+        "Name_en": "Slovakia",
+        "confirmed": 16910,
+        "deaths": 57,
+        "recovered": 5452
     },
     {
         "Name": "Madagascar",
@@ -694,14 +702,6 @@
         "confirmed": 16654,
         "deaths": 235,
         "recovered": 15910
-    },
-    {
-        "Name": "슬로바키아",
-        "Name_ch": "斯洛伐克",
-        "Name_en": "Slovakia",
-        "confirmed": 15726,
-        "deaths": 57,
-        "recovered": 5353
     },
     {
         "Name": "Zambia",
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 11345,
+        "confirmed": 11580,
         "deaths": 346,
         "recovered": 8500
     },
@@ -1045,7 +1045,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 4488,
         "deaths": 13,
-        "recovered": 3278
+        "recovered": 3296
     },
     {
         "Name": "Réunion",
