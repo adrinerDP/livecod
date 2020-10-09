@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7867490,
-        "deaths": 218174,
-        "recovered": 5044120
+        "confirmed": 7873747,
+        "deaths": 218279,
+        "recovered": 5048625
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6964074,
-        "deaths": 107142,
-        "recovered": 5966938
+        "confirmed": 6977008,
+        "deaths": 107450,
+        "recovered": 5985505
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 319403,
-        "deaths": 9676,
+        "confirmed": 320214,
+        "deaths": 9682,
         "recovered": 269500
     },
     {
@@ -808,20 +808,20 @@
         "recovered": 5866
     },
     {
+        "Name": "French Guiana",
+        "Name_ch": "",
+        "Name_en": "French Guiana",
+        "confirmed": 10144,
+        "deaths": 69,
+        "recovered": 9810
+    },
+    {
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
         "confirmed": 10137,
         "deaths": 79,
         "recovered": 8959
-    },
-    {
-        "Name": "French Guiana",
-        "Name_ch": "",
-        "Name_en": "French Guiana",
-        "confirmed": 10128,
-        "deaths": 69,
-        "recovered": 9799
     },
     {
         "Name": "Mozambique",
@@ -915,9 +915,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 5958,
-        "deaths": 208,
-        "recovered": 2635
+        "confirmed": 6031,
+        "deaths": 212,
+        "recovered": 2685
     },
     {
         "Name": "Cuba",
@@ -1491,7 +1491,7 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 203,
+        "confirmed": 204,
         "deaths": 7,
         "recovered": 182
     },
