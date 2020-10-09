@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7829136,
-        "deaths": 217638,
-        "recovered": 5015621
+        "confirmed": 7831265,
+        "deaths": 217656,
+        "recovered": 5016041
     },
     {
         "Name": "인도",
@@ -179,9 +179,9 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 315454,
+        "confirmed": 315514,
         "deaths": 9667,
-        "recovered": 267700
+        "recovered": 269500
     },
     {
         "Name": "이스라엘",
@@ -957,7 +957,7 @@
         "Name_en": "Djibouti",
         "confirmed": 5423,
         "deaths": 61,
-        "recovered": 5353
+        "recovered": 5355
     },
     {
         "Name": "Nicaragua",
@@ -987,7 +987,7 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 5052,
+        "confirmed": 5062,
         "deaths": 83,
         "recovered": 4894
     },
@@ -995,9 +995,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 4979,
+        "confirmed": 5004,
         "deaths": 106,
-        "recovered": 4781
+        "recovered": 4794
     },
     {
         "Name": "Trinidad and Tobago",
@@ -1483,9 +1483,9 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 213,
+        "confirmed": 214,
         "deaths": 1,
-        "recovered": 210
+        "recovered": 211
     },
     {
         "Name": "Barbados",
