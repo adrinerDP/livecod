@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7842831,217857,5026952
-인도,印度,India,6946598,106925,5946371
-브라질,巴西,Brazil,5029539,149034,4414564
+미국,美国,United States,7849427,217997,5038155
+인도,印度,India,6957511,107039,5955462
+브라질,巴西,Brazil,5035744,149189,4414564
 러시아,俄罗斯,Russia,1272238,22257,1009421
+스페인,西班牙,Spain,890367,32929,0
 콜롬비아,哥伦比亚,Colombia,886179,27331,777658
-스페인,西班牙,Spain,884381,32688,0
 Argentina,,Argentina,856369,22710,684844
 페루,秘鲁,Peru,838614,33098,728216
 멕시코,墨西哥,Mexico,804488,83096,583603
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,375870,5477,289912
 필리핀,菲律宾,Philippines,334770,6152,275307
 터키,土耳其,Turkey,330753,8667,290352
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
-독일,德国,Germany,318897,9676,269500
+독일,德国,Germany,319053,9676,269500
 파키스탄,巴基斯坦,Pakistan,317595,6552,302708
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
@@ -37,10 +37,10 @@ Panama,,Panama,118054,2463,94391
 폴란드,波兰,Poland,116338,2919,77875
 쿠웨이트,科威特,Kuwait,110076,649,102024
 Kazakhstan,,Kazakhstan,108561,1746,103758
+체코,捷克,Czechia,105281,898,51706
 이집트,埃及,Egypt,104156,6017,97524
 오만,阿曼,Oman,104129,1009,91731
 아랍에미리트,阿拉伯联合酋长国,UAE,104004,442,94903
-체코,捷克,Czechia,100757,869,51160
 네팔,尼泊尔,Nepal,100676,600,73023
 스웨덴,瑞典语,Sweden,98451,5894,0
 Guatemala,,Guatemala,96935,3356,85343
@@ -59,7 +59,7 @@ Uzbekistan,,Uzbekistan,60342,498,57221
 싱가포르,新加坡,Singapore,57859,27,57675
 아르메니아,亚美尼亚,Armenia,55087,1010,45528
 오스트리아,奥地利,Austria,53188,842,42039
-알제리,阿尔及利亚,Algeria,52658,1783,36958
+알제리,阿尔及利亚,Algeria,52804,1789,37067
 레바논,黎巴嫩,Lebanon,49744,439,21760
 Kyrgyzstan,,Kyrgyzstan,48617,1077,44097
 Paraguay,,Paraguay,47316,1012,29976
@@ -102,7 +102,7 @@ DRC,,DRC,10835,276,10242
 Maldives,,Maldives,10742,34,9589
 Tajikistan,,Tajikistan,10137,79,8959
 French Guiana,,French Guiana,10128,69,9799
-Mozambique,,Mozambique,9639,68,6911
+Mozambique,,Mozambique,9742,69,7171
 Uganda,,Uganda,9538,86,5857
 룩셈부르크,卢森堡,Luxembourg,9360,130,8038
 Haiti,,Haiti,8854,230,7013
@@ -140,7 +140,7 @@ Gambia,,Gambia,3621,117,2489
 Malta,,Malta,3581,41,2915
 Iceland,,Iceland,3373,10,2448
 Guyana,,Guyana,3329,98,2165
-Mali,,Mali,3235,131,2506
+Mali,,Mali,3248,131,2514
 Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2761,54,1290
 안도라,安道尔,Andorra,2696,55,1814
@@ -174,7 +174,7 @@ Curaçao,,Curaçao,549,1,291
 Burundi,,Burundi,515,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,495,7,475
-Faeroe Islands,,Faeroe Islands,477,0,456
+Faeroe Islands,,Faeroe Islands,477,0,459
 지브롤터,直布罗陀,Gibraltar,468,0,398
 Saint Martin,,Saint Martin,412,8,309
 Eritrea,,Eritrea,405,0,364
@@ -204,8 +204,8 @@ New Caledonia,,New Caledonia,27,0,27
 Grenada,,Grenada,24,0,24
 Laos,,Laos,23,0,22
 Saint Kitts and Nevis,,Saint Kitts and Nevis,19,0,18
+Greenland,,Greenland,16,0,14
 Saint Pierre Miquelon,,Saint Pierre Miquelon,16,0,6
-Greenland,,Greenland,15,0,14
 Montserrat,,Montserrat,13,1,12
 Falkland Islands,,Falkland Islands,13,0,13
 Vatican City,,Vatican City,12,0,12
