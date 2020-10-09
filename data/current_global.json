@@ -171,9 +171,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 316934,
-        "deaths": 6544,
-        "recovered": 302375
+        "confirmed": 317595,
+        "deaths": 6552,
+        "recovered": 302708
     },
     {
         "Name": "독일",
@@ -232,6 +232,14 @@
         "recovered": 120511
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 143596,
+        "deaths": 10126,
+        "recovered": 19981
+    },
+    {
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
@@ -246,14 +254,6 @@
         "confirmed": 137969,
         "deaths": 8228,
         "recovered": 99812
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 137868,
-        "deaths": 10108,
-        "recovered": 19895
     },
     {
         "Name": "카타르",
@@ -299,9 +299,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108454,
+        "confirmed": 108561,
         "deaths": 1746,
-        "recovered": 103604
+        "recovered": 103758
     },
     {
         "Name": "이집트",
@@ -400,20 +400,20 @@
         "recovered": 36434
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "confirmed": 81672,
+        "deaths": 2477,
+        "recovered": 31089
+    },
+    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
         "confirmed": 81019,
         "deaths": 678,
         "recovered": 72196
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "confirmed": 81016,
-        "deaths": 2466,
-        "recovered": 30590
     },
     {
         "Name": "바레인",
@@ -1339,9 +1339,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 698,
+        "confirmed": 699,
         "deaths": 22,
-        "recovered": 592
+        "recovered": 620
     },
     {
         "Name": "Turks and Caicos",
