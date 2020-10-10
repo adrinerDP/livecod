@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7920751,
-        "deaths": 218940,
-        "recovered": 5072490
+        "confirmed": 7923493,
+        "deaths": 218958,
+        "recovered": 5074529
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7037357,
-        "deaths": 108046,
-        "recovered": 6045595
+        "confirmed": 7037694,
+        "deaths": 108047,
+        "recovered": 6046028
     },
     {
         "Name": "브라질",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 322194,
+        "confirmed": 322755,
         "deaths": 9690,
         "recovered": 273500
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 180026,
-        "deaths": 9606,
-        "recovered": 151335
+        "confirmed": 180142,
+        "deaths": 9608,
+        "recovered": 151345
     },
     {
         "Name": "네덜란드",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 60681,
-        "deaths": 501,
-        "recovered": 57587
+        "confirmed": 60776,
+        "deaths": 502,
+        "recovered": 57704
     },
     {
         "Name": "스위스",
@@ -760,20 +760,20 @@
         "recovered": 9429
     },
     {
+        "Name": "Namibia",
+        "Name_ch": "",
+        "Name_en": "Namibia",
+        "confirmed": 11891,
+        "deaths": 128,
+        "recovered": 9807
+    },
+    {
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 11849,
         "deaths": 346,
         "recovered": 8500
-    },
-    {
-        "Name": "Namibia",
-        "Name_ch": "",
-        "Name_en": "Namibia",
-        "confirmed": 11829,
-        "deaths": 127,
-        "recovered": 9778
     },
     {
         "Name": "조지아",
@@ -1427,9 +1427,9 @@
         "Name": "Eritrea",
         "Name_ch": "",
         "Name_en": "Eritrea",
-        "confirmed": 405,
+        "confirmed": 414,
         "deaths": 0,
-        "recovered": 364
+        "recovered": 372
     },
     {
         "Name": "Mauritius",
