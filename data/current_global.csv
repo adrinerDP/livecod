@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7894338,218642,5064200
+미국,美国,United States,7894478,218648,5064300
 인도,印度,India,6977008,107450,5985505
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -7,7 +7,7 @@
 스페인,西班牙,Spain,890367,32929,0
 Argentina,,Argentina,871468,23225,697141
 페루,秘鲁,Peru,838614,33098,728216
-멕시코,墨西哥,Mexico,804488,83096,583603
+멕시코,墨西哥,Mexico,809751,83507,588085
 프랑스,法国,France,691977,32583,100828
 남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
 영국,英国,UK,575679,42679,0
@@ -30,7 +30,7 @@ Ukraine,,Ukraine,250538,4779,110650
 모로코,摩洛哥,Morocco,146398,2530,123022
 에콰도르,厄瓜多尔,Ecuador,145848,12175,120511
 벨기에,比利时,Belgium,143596,10126,19981
-Bolivia,,Bolivia,137969,8228,99812
+Bolivia,,Bolivia,138226,8262,100347
 카타르,卡塔尔,Qatar,127600,219,124559
 Panama,,Panama,118841,2474,94962
 도미니카 공화국,多明尼加共和国,Dominican Republic,117457,2165,93061
@@ -49,8 +49,8 @@ Guatemala,,Guatemala,96935,3356,85343
 포르투갈,葡萄牙,Portugal,83928,2062,52164
 Ethiopia,,Ethiopia,82662,1271,37102
 벨라루스,白俄罗斯,Belarus,82471,885,76543
+Venezuela,,Venezuela,81696,684,73020
 Honduras,,Honduras,81672,2477,31089
-Venezuela,,Venezuela,81019,678,72196
 바레인,巴林,Bahrain,74860,271,70406
 Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
@@ -155,7 +155,7 @@ Uruguay,,Uruguay,2251,49,1917
 Yemen,,Yemen,2051,593,1329
 Cyprus,,Cyprus,1951,25,1369
 토고,多哥,Togo,1921,49,1433
-New Zealand,,New Zealand,1866,25,1800
+New Zealand,,New Zealand,1870,25,1801
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1800,42,926
 Liberia,,Liberia,1360,82,1245
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85521,4634,80681
+중국,中国,China,85536,4634,80696
