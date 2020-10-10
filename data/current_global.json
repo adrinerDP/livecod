@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 250538,
-        "deaths": 4779,
-        "recovered": 110650
+        "confirmed": 256266,
+        "deaths": 4887,
+        "recovered": 112570
     },
     {
         "Name": "캐나다",
@@ -1072,20 +1072,20 @@
         "recovered": 2964
     },
     {
+        "Name": "Somalia",
+        "Name_ch": "",
+        "Name_en": "Somalia",
+        "confirmed": 3847,
+        "deaths": 99,
+        "recovered": 3079
+    },
+    {
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
         "confirmed": 3809,
         "deaths": 68,
         "recovered": 2906
-    },
-    {
-        "Name": "Somalia",
-        "Name_ch": "",
-        "Name_en": "Somalia",
-        "confirmed": 3745,
-        "deaths": 99,
-        "recovered": 3010
     },
     {
         "Name": "태국",
