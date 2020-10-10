@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7911530,
-        "deaths": 218869,
-        "recovered": 5068534
+        "confirmed": 7915700,
+        "deaths": 218902,
+        "recovered": 5071257
     },
     {
         "Name": "인도",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 397780,
-        "deaths": 9735,
-        "recovered": 328097
+        "confirmed": 400124,
+        "deaths": 9790,
+        "recovered": 332330
     },
     {
         "Name": "Bangladesh",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 321392,
+        "confirmed": 322194,
         "deaths": 9690,
         "recovered": 273500
     },
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 287858,
-        "deaths": 1886,
-        "recovered": 225248
+        "confirmed": 289799,
+        "deaths": 1914,
+        "recovered": 225718
     },
     {
         "Name": "Ukraine",
@@ -491,9 +491,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 51170,
-        "deaths": 450,
-        "recovered": 22407
+        "confirmed": 52558,
+        "deaths": 455,
+        "recovered": 22719
     },
     {
         "Name": "Kyrgyzstan",
