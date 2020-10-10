@@ -6,7 +6,7 @@
 콜롬비아,哥伦比亚,Colombia,894300,27495,780547
 스페인,西班牙,Spain,890367,32929,0
 Argentina,,Argentina,871468,23225,697141
-페루,秘鲁,Peru,838614,33098,728216
+페루,秘鲁,Peru,843355,33158,733000
 멕시코,墨西哥,Mexico,809751,83507,588085
 프랑스,法国,France,691977,32583,100828
 남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
@@ -21,7 +21,7 @@ Bangladesh,,Bangladesh,375870,5477,289912
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
 독일,德国,Germany,320478,9687,271800
-파키스탄,巴基斯坦,Pakistan,317595,6552,302708
+파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,250538,4779,110650
 캐나다,加拿大,Canada,178117,9585,149524
@@ -37,7 +37,7 @@ Panama,,Panama,118841,2474,94962
 폴란드,波兰,Poland,116338,2919,77875
 쿠웨이트,科威特,Kuwait,110076,649,102024
 체코,捷克,Czechia,109374,905,53173
-Kazakhstan,,Kazakhstan,108561,1746,103758
+Kazakhstan,,Kazakhstan,108663,1746,103910
 이집트,埃及,Egypt,104262,6029,97592
 오만,阿曼,Oman,104129,1009,91731
 아랍에미리트,阿拉伯联合酋长国,UAE,104004,442,94903
@@ -48,9 +48,9 @@ Guatemala,,Guatemala,96935,3356,85343
 코스타리카,哥斯达黎加,Costa Rica,86053,1055,52327
 포르투갈,葡萄牙,Portugal,83928,2062,52164
 Ethiopia,,Ethiopia,82662,1271,37102
+Honduras,,Honduras,82552,2492,31736
 벨라루스,白俄罗斯,Belarus,82471,885,76543
 Venezuela,,Venezuela,81696,684,73020
-Honduras,,Honduras,81672,2477,31089
 바레인,巴林,Bahrain,74860,271,70406
 Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
@@ -75,7 +75,7 @@ Kenya,,Kenya,40620,755,31876
 덴마크,丹麦,Denmark,31638,665,25502
 El Salvador,,El Salvador,29951,881,24995
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,29917,926,23241
-호주,澳大利亚,Australia,27229,897,24972
+호주,澳大利亚,Australia,27244,897,24972
 Tunisia,,Tunisia,26899,409,5032
 Myanmar,,Myanmar,23906,566,6738
 Bulgaria,,Bulgaria,23871,887,15713
@@ -182,7 +182,7 @@ Mauritius,,Mauritius,395,10,358
 Isle of Man,,Isle of Man,345,24,316
 Mongolia,,Mongolia,315,0,308
 부탄,不丹,Bhutan,304,0,255
-캄보디아,柬埔寨,Cambodia,282,0,277
+캄보디아,柬埔寨,Cambodia,283,0,277
 모나코,摩纳哥,Monaco,233,2,209
 Cayman Islands,,Cayman Islands,220,1,211
 Barbados,,Barbados,204,7,182
