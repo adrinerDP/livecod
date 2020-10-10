@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7927436,219038,5079011
+미국,美国,United States,7932729,219090,5081488
 인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5073483,150023,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -9,7 +9,7 @@ Argentina,,Argentina,871468,23225,697141
 페루,秘鲁,Peru,843355,33158,733000
 멕시코,墨西哥,Mexico,809751,83507,588085
 프랑스,法国,France,718873,32637,100828
-남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
+남아프리카 공화국,南非共和国,South Africa,690896,17673,622153
 영국,英国,UK,590844,42760,0
 이란,伊朗,Iran,496253,28293,403950
 칠레,智利,Chile,479595,13272,452054
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,377073,5500,291365
 필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,334031,8778,293145
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
-독일,德国,Germany,323365,9691,273500
+독일,德国,Germany,323438,9691,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
-이스라엘,以色列,Israel,289799,1914,225718
+이스라엘,以色列,Israel,289875,1941,225725
 Ukraine,,Ukraine,256266,4887,112570
 캐나다,加拿大,Canada,180142,9608,151345
 네덜란드,荷兰,Netherlands,168280,6567,0
@@ -83,7 +83,7 @@ Bulgaria,,Bulgaria,23871,887,15713
 그리스,希腊,Greece,22078,436,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,20555,785,16099
-Ivory Coast,,Ivory Coast,20036,120,19696
+Ivory Coast,,Ivory Coast,20128,120,19752
 크로아티아,克罗地亚,Croatia,19932,317,16953
 슬로바키아,斯洛伐克,Slovakia,18797,61,5553
 Madagascar,,Madagascar,16702,237,16012
@@ -117,7 +117,7 @@ Angola,,Angola,6246,218,2716
 Lithuania,,Lithuania,5963,103,2751
 Cuba,,Cuba,5948,123,5440
 Malawi,,Malawi,5821,180,4644
-Eswatini,,Eswatini,5644,113,5254
+Eswatini,,Eswatini,5660,113,5282
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5176,105,4914
@@ -126,7 +126,7 @@ Equatorial Guinea,,Equatorial Guinea,5063,83,4894
 Trinidad and Tobago,,Trinidad and Tobago,5021,89,3150
 Suriname,,Suriname,5018,106,4816
 Bahamas,,Bahamas,4955,106,2724
-Rwanda,,Rwanda,4890,30,3555
+Rwanda,,Rwanda,4892,30,3566
 CAR,,CAR,4853,62,1914
 Syria,,Syria,4673,221,1271
 스리랑카,斯里兰卡,Sri Lanka,4628,13,3306
@@ -158,8 +158,8 @@ Cyprus,,Cyprus,1984,25,1369
 New Zealand,,New Zealand,1870,25,1801
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1800,42,926
-Liberia,,Liberia,1360,82,1245
-Chad,,Chad,1274,90,1102
+Liberia,,Liberia,1363,82,1245
+Chad,,Chad,1291,92,1103
 Niger,,Niger,1201,69,1123
 베트남,越南,Vietnam,1107,35,1024
 Sao Tome and Principe,,Sao Tome and Principe,922,15,890

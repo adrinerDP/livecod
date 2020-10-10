@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7927436,
-        "deaths": 219038,
-        "recovered": 5079011
+        "confirmed": 7932729,
+        "deaths": 219090,
+        "recovered": 5081488
     },
     {
         "Name": "인도",
@@ -83,9 +83,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 688352,
-        "deaths": 17547,
-        "recovered": 620081
+        "confirmed": 690896,
+        "deaths": 17673,
+        "recovered": 622153
     },
     {
         "Name": "영국",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 323365,
+        "confirmed": 323438,
         "deaths": 9691,
         "recovered": 273500
     },
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 289799,
-        "deaths": 1914,
-        "recovered": 225718
+        "confirmed": 289875,
+        "deaths": 1941,
+        "recovered": 225725
     },
     {
         "Name": "Ukraine",
@@ -675,9 +675,9 @@
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
-        "confirmed": 20036,
+        "confirmed": 20128,
         "deaths": 120,
-        "recovered": 19696
+        "recovered": 19752
     },
     {
         "Name": "크로아티아",
@@ -947,9 +947,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5644,
+        "confirmed": 5660,
         "deaths": 113,
-        "recovered": 5254
+        "recovered": 5282
     },
     {
         "Name": "Djibouti",
@@ -1019,9 +1019,9 @@
         "Name": "Rwanda",
         "Name_ch": "",
         "Name_en": "Rwanda",
-        "confirmed": 4890,
+        "confirmed": 4892,
         "deaths": 30,
-        "recovered": 3555
+        "recovered": 3566
     },
     {
         "Name": "CAR",
@@ -1275,7 +1275,7 @@
         "Name": "Liberia",
         "Name_ch": "",
         "Name_en": "Liberia",
-        "confirmed": 1360,
+        "confirmed": 1363,
         "deaths": 82,
         "recovered": 1245
     },
@@ -1283,9 +1283,9 @@
         "Name": "Chad",
         "Name_ch": "",
         "Name_en": "Chad",
-        "confirmed": 1274,
-        "deaths": 90,
-        "recovered": 1102
+        "confirmed": 1291,
+        "deaths": 92,
+        "recovered": 1103
     },
     {
         "Name": "Niger",
