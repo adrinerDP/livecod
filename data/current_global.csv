@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7923493,218958,5074529
+미국,美国,United States,7926468,219029,5078348
 인도,印度,India,7037694,108047,6046028
 브라질,巴西,Brazil,5073483,150023,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -8,7 +8,7 @@
 Argentina,,Argentina,871468,23225,697141
 페루,秘鲁,Peru,843355,33158,733000
 멕시코,墨西哥,Mexico,809751,83507,588085
-프랑스,法国,France,691977,32583,100828
+프랑스,法国,France,718873,32637,100828
 남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
 영국,英国,UK,575679,42679,0
 이란,伊朗,Iran,496253,28293,403950
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,334031,8778,293145
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
-독일,德国,Germany,322755,9690,273500
+독일,德国,Germany,323098,9690,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,289799,1914,225718
 Ukraine,,Ukraine,256266,4887,112570
@@ -113,7 +113,7 @@ Jamaica,,Jamaica,7559,138,3142
 Mauritania,,Mauritania,7548,163,7245
 Cabo Verde,,Cabo Verde,6809,73,5932
 Guadeloupe,,Guadeloupe,6483,77,2199
-Angola,,Angola,6031,212,2685
+Angola,,Angola,6246,218,2716
 Lithuania,,Lithuania,5963,103,2751
 Cuba,,Cuba,5948,123,5440
 Malawi,,Malawi,5821,180,4644
@@ -137,7 +137,7 @@ Somalia,,Somalia,3847,99,3079
 에스토니아,爱沙尼亚,Estonia,3846,68,2946
 Malta,,Malta,3681,41,2937
 태국,泰国,Thailand,3634,59,3445
-Gambia,,Gambia,3621,117,2489
+Gambia,,Gambia,3628,117,2540
 Iceland,,Iceland,3460,10,2466
 Guyana,,Guyana,3358,100,2180
 Mali,,Mali,3273,132,2525
