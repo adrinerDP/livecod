@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7940037,
-        "deaths": 219232,
-        "recovered": 5084203
+        "confirmed": 7941954,
+        "deaths": 219244,
+        "recovered": 5084583
     },
     {
         "Name": "인도",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 894300,
-        "deaths": 27495,
-        "recovered": 780547
+        "confirmed": 902747,
+        "deaths": 27660,
+        "recovered": 783131
     },
     {
         "Name": "스페인",
@@ -51,9 +51,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 871468,
-        "deaths": 23225,
-        "recovered": 697141
+        "confirmed": 883882,
+        "deaths": 23581,
+        "recovered": 709464
     },
     {
         "Name": "페루",
@@ -851,9 +851,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8854,
+        "confirmed": 8860,
         "deaths": 230,
-        "recovered": 7013
+        "recovered": 7104
     },
     {
         "Name": "Gabon",
@@ -891,9 +891,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7548,
+        "confirmed": 7550,
         "deaths": 163,
-        "recovered": 7245
+        "recovered": 7266
     },
     {
         "Name": "Cabo Verde",
