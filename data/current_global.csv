@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7900654,218746,5065676
+미국,美国,United States,7901561,218759,5065681
 인도,印度,India,6997852,107568,6003244
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,256266,4887,112570
-캐나다,加拿大,Canada,178117,9585,149524
+캐나다,加拿大,Canada,178929,9592,150225
 네덜란드,荷兰,Netherlands,168280,6567,0
 루마니아,尼亚,Romania,152403,5358,116628
 벨기에,比利时,Belgium,148981,10151,20072
@@ -67,8 +67,8 @@ Ghana,,Ghana,46987,306,46378
 팔레스타인,巴勒斯坦,Palestine,43945,378,37240
 아제르바이잔,阿塞拜疆,Azerbaijan,41752,608,39235
 Libya,,Libya,41686,623,23791
+Kenya,,Kenya,41158,760,31876
 아일랜드,冰岛,Ireland,40703,1821,23364
-Kenya,,Kenya,40620,755,31876
 아프가니스탄,阿富汗,Afghanistan,39703,1473,33064
 헝가리,匈牙利,Hungary,36596,933,9683
 세르비아,塞尔维亚,Serbia,34685,762,31536
@@ -80,7 +80,7 @@ Tunisia,,Tunisia,26899,409,5032
 Myanmar,,Myanmar,26064,598,7050
 요르단,约旦,Jordan,23998,181,6045
 Bulgaria,,Bulgaria,23871,887,15713
-그리스,希腊,Greece,21772,431,9989
+그리스,希腊,Greece,22078,436,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,20163,781,16009
 Ivory Coast,,Ivory Coast,20036,120,19696
@@ -103,7 +103,7 @@ Maldives,,Maldives,10808,34,9654
 Tajikistan,,Tajikistan,10180,79,9006
 French Guiana,,French Guiana,10144,69,9810
 Mozambique,,Mozambique,9742,69,7171
-Uganda,,Uganda,9538,86,5857
+Uganda,,Uganda,9701,93,6022
 룩셈부르크,卢森堡,Luxembourg,9360,130,8038
 Haiti,,Haiti,8854,230,7013
 Gabon,,Gabon,8835,54,8189
