@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7895026,
-        "deaths": 218661,
+        "confirmed": 7895498,
+        "deaths": 218669,
         "recovered": 5065054
     },
     {
@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 492378,
-        "deaths": 28098,
-        "recovered": 401379
+        "confirmed": 496253,
+        "deaths": 28293,
+        "recovered": 403950
     },
     {
         "Name": "칠레",
@@ -291,9 +291,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 110076,
-        "deaths": 649,
-        "recovered": 102024
+        "confirmed": 110568,
+        "deaths": 655,
+        "recovered": 102722
     },
     {
         "Name": "체코",
@@ -310,6 +310,14 @@
         "confirmed": 108663,
         "deaths": 1746,
         "recovered": 103910
+    },
+    {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 105684,
+        "deaths": 614,
+        "recovered": 74252
     },
     {
         "Name": "아랍에미리트",
@@ -334,14 +342,6 @@
         "confirmed": 104129,
         "deaths": 1009,
         "recovered": 91731
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 100676,
-        "deaths": 600,
-        "recovered": 73023
     },
     {
         "Name": "스웨덴",
@@ -699,9 +699,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16676,
+        "confirmed": 16702,
         "deaths": 237,
-        "recovered": 15975
+        "recovered": 16012
     },
     {
         "Name": "노르웨이",
@@ -1531,7 +1531,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 139,
+        "confirmed": 142,
         "deaths": 1,
         "recovered": 117
     },
