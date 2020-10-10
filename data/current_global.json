@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6977008,
+        "confirmed": 6979423,
         "deaths": 107450,
-        "recovered": 5985505
+        "recovered": 5988822
     },
     {
         "Name": "브라질",
@@ -613,7 +613,7 @@
         "Name_en": "Australia",
         "confirmed": 27244,
         "deaths": 897,
-        "recovered": 24972
+        "recovered": 24987
     },
     {
         "Name": "Tunisia",
@@ -1325,7 +1325,7 @@
         "Name_en": "Diamond Princess",
         "confirmed": 712,
         "deaths": 13,
-        "recovered": 651
+        "recovered": 659
     },
     {
         "Name": "Sint Maarten",
