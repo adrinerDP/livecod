@@ -2,7 +2,7 @@
 미국,美国,United States,7894478,218648,5064300
 인도,印度,India,6979423,107450,5988822
 브라질,巴西,Brazil,5057190,149692,4433595
-러시아,俄罗斯,Russia,1272238,22257,1009421
+러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,894300,27495,780547
 스페인,西班牙,Spain,890367,32929,0
 Argentina,,Argentina,871468,23225,697141
@@ -17,7 +17,7 @@ Argentina,,Argentina,871468,23225,697141
 Bangladesh,,Bangladesh,375870,5477,289912
 이탈리아,义大利,Italy,343770,36111,237549
 사우디아라비아,沙特阿拉伯,Saudi Arabia,338539,4996,324282
-필리핀,菲律宾,Philippines,334770,6152,275307
+필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,324658,11677,247667
 독일,德国,Germany,320478,9687,271800
@@ -56,8 +56,8 @@ Moldova,,Moldova,60833,1442,43489
 스위스,瑞士,Switzerland,60368,2088,48400
 Uzbekistan,,Uzbekistan,60342,498,57221
 나이지리아,尼日利亚,Nigeria,59992,1113,51614
-싱가포르,新加坡,Singapore,57859,27,57675
-아르메니아,亚美尼亚,Armenia,55087,1010,45528
+싱가포르,新加坡,Singapore,57866,27,57675
+아르메니아,亚美尼亚,Armenia,55736,1016,45771
 오스트리아,奥地利,Austria,53188,842,42039
 알제리,阿尔及利亚,Algeria,52804,1789,37067
 레바논,黎巴嫩,Lebanon,51170,450,22407
@@ -134,7 +134,7 @@ Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4167,32,3718
 Mayotte,,Mayotte,3989,43,2964
 Somalia,,Somalia,3847,99,3079
-에스토니아,爱沙尼亚,Estonia,3809,68,2906
+에스토니아,爱沙尼亚,Estonia,3846,68,2946
 태국,泰国,Thailand,3634,59,3445
 Gambia,,Gambia,3621,117,2489
 Malta,,Malta,3581,41,2915
@@ -145,7 +145,7 @@ Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2761,54,1290
 French Polynesia,,French Polynesia,2754,10,2019
 안도라,安道尔,Andorra,2696,55,1814
-라트비아,约旦,Latvia,2507,40,1322
+라트비아,约旦,Latvia,2596,40,1322
 Belize,,Belize,2427,35,1487
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
