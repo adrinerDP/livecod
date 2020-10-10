@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7915700,218902,5071257
+미국,美国,United States,7918605,218932,5071257
 인도,印度,India,6997852,107568,6003244
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -27,9 +27,9 @@ Ukraine,,Ukraine,256266,4887,112570
 캐나다,加拿大,Canada,180026,9606,151335
 네덜란드,荷兰,Netherlands,168280,6567,0
 루마니아,尼亚,Romania,152403,5358,116628
+모로코,摩洛哥,Morocco,149841,2572,124854
 벨기에,比利时,Belgium,148981,10151,20072
 에콰도르,厄瓜多尔,Ecuador,146828,12188,120511
-모로코,摩洛哥,Morocco,146398,2530,123022
 Bolivia,,Bolivia,138226,8262,100347
 카타르,卡塔尔,Qatar,127778,219,124767
 폴란드,波兰,Poland,121638,2972,78982
@@ -82,7 +82,7 @@ Myanmar,,Myanmar,26064,598,7050
 Bulgaria,,Bulgaria,23871,887,15713
 그리스,希腊,Greece,22078,436,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
-North Macedonia,,North Macedonia,20163,781,16009
+North Macedonia,,North Macedonia,20555,785,16099
 Ivory Coast,,Ivory Coast,20036,120,19696
 크로아티아,克罗地亚,Croatia,19932,317,16953
 슬로바키아,斯洛伐克,Slovakia,18797,61,5553
@@ -168,8 +168,8 @@ Sao Tome and Principe,,Sao Tome and Principe,922,15,890
 Sint Maarten,,Sint Maarten,703,22,622
 Channel Islands,,Channel Islands,699,48,623
 Turks and Caicos,,Turks and Caicos,695,6,672
+Curaçao,,Curaçao,571,1,308
 Papua New Guinea,,Papua New Guinea,549,7,532
-Curaçao,,Curaçao,549,1,291
 대만,台湾,Taiwan,527,7,488
 Burundi,,Burundi,517,1,472
 Tanzania,,Tanzania,509,21,183

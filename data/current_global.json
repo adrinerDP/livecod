@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7915700,
-        "deaths": 218902,
+        "confirmed": 7918605,
+        "deaths": 218932,
         "recovered": 5071257
     },
     {
@@ -224,6 +224,14 @@
         "recovered": 116628
     },
     {
+        "Name": "모로코",
+        "Name_ch": "摩洛哥",
+        "Name_en": "Morocco",
+        "confirmed": 149841,
+        "deaths": 2572,
+        "recovered": 124854
+    },
+    {
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
@@ -238,14 +246,6 @@
         "confirmed": 146828,
         "deaths": 12188,
         "recovered": 120511
-    },
-    {
-        "Name": "모로코",
-        "Name_ch": "摩洛哥",
-        "Name_en": "Morocco",
-        "confirmed": 146398,
-        "deaths": 2530,
-        "recovered": 123022
     },
     {
         "Name": "Bolivia",
@@ -667,9 +667,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 20163,
-        "deaths": 781,
-        "recovered": 16009
+        "confirmed": 20555,
+        "deaths": 785,
+        "recovered": 16099
     },
     {
         "Name": "Ivory Coast",
@@ -1352,20 +1352,20 @@
         "recovered": 672
     },
     {
+        "Name": "Curaçao",
+        "Name_ch": "",
+        "Name_en": "Curaçao",
+        "confirmed": 571,
+        "deaths": 1,
+        "recovered": 308
+    },
+    {
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
         "confirmed": 549,
         "deaths": 7,
         "recovered": 532
-    },
-    {
-        "Name": "Curaçao",
-        "Name_ch": "",
-        "Name_en": "Curaçao",
-        "confirmed": 549,
-        "deaths": 1,
-        "recovered": 291
     },
     {
         "Name": "대만",
