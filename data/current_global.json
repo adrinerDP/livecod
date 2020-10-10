@@ -973,7 +973,7 @@
         "Name_en": "Hong Kong",
         "confirmed": 5176,
         "deaths": 105,
-        "recovered": 4906
+        "recovered": 4914
     },
     {
         "Name": "Congo",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1105,
+        "confirmed": 1107,
         "deaths": 35,
         "recovered": 1024
     },
