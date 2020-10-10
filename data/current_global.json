@@ -285,7 +285,7 @@
         "Name_en": "Poland",
         "confirmed": 116338,
         "deaths": 2919,
-        "recovered": 77875
+        "recovered": 78982
     },
     {
         "Name": "쿠웨이트",
@@ -683,17 +683,17 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 19446,
-        "deaths": 313,
-        "recovered": 16695
+        "confirmed": 19932,
+        "deaths": 317,
+        "recovered": 16953
     },
     {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 16910,
-        "deaths": 57,
-        "recovered": 5452
+        "confirmed": 18797,
+        "deaths": 61,
+        "recovered": 5553
     },
     {
         "Name": "Madagascar",
@@ -920,6 +920,14 @@
         "recovered": 2685
     },
     {
+        "Name": "Lithuania",
+        "Name_ch": "",
+        "Name_en": "Lithuania",
+        "confirmed": 5963,
+        "deaths": 103,
+        "recovered": 2751
+    },
+    {
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
@@ -934,14 +942,6 @@
         "confirmed": 5813,
         "deaths": 180,
         "recovered": 4631
-    },
-    {
-        "Name": "Lithuania",
-        "Name_ch": "",
-        "Name_en": "Lithuania",
-        "confirmed": 5758,
-        "deaths": 103,
-        "recovered": 2722
     },
     {
         "Name": "Eswatini",
