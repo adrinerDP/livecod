@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7941954,219244,5084583
+미국,美国,United States,7942017,219244,5084615
 인도,印度,India,7051543,108371,6074863
-브라질,巴西,Brazil,5082637,150198,4433595
+브라질,巴西,Brazil,5082637,150198,4453722
 러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,902747,27660,783131
 스페인,西班牙,Spain,890367,32929,0
@@ -55,15 +55,15 @@ Venezuela,,Venezuela,81696,684,73020
 Moldova,,Moldova,61762,1458,43982
 Uzbekistan,,Uzbekistan,60776,502,57704
 스위스,瑞士,Switzerland,60368,2088,48400
-나이지리아,尼日利亚,Nigeria,59992,1113,51614
+나이지리아,尼日利亚,Nigeria,60103,1115,51711
 싱가포르,新加坡,Singapore,57866,27,57698
 아르메니아,亚美尼亚,Armenia,55736,1016,45771
 오스트리아,奥地利,Austria,54423,852,42829
-알제리,阿尔及利亚,Algeria,52804,1789,37067
+알제리,阿尔及利亚,Algeria,52940,1795,37170
 레바논,黎巴嫩,Lebanon,52558,455,22719
+Paraguay,,Paraguay,48978,1065,31351
 Kyrgyzstan,,Kyrgyzstan,48924,1082,44227
-Paraguay,,Paraguay,48275,1045,30643
-Ghana,,Ghana,46987,306,46378
+Ghana,,Ghana,47005,306,46398
 팔레스타인,巴勒斯坦,Palestine,43945,378,37240
 아제르바이잔,阿塞拜疆,Azerbaijan,41752,608,39235
 아일랜드,冰岛,Ireland,41714,1824,23364
@@ -150,8 +150,8 @@ Belize,,Belize,2427,35,1487
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Sierra Leone,,Sierra Leone,2300,72,1725
+Uruguay,,Uruguay,2268,50,1930
 Burkina Faso,,Burkina Faso,2254,60,1516
-Uruguay,,Uruguay,2251,49,1917
 Yemen,,Yemen,2051,593,1329
 Cyprus,,Cyprus,1984,25,1369
 토고,多哥,Togo,1935,49,1444
