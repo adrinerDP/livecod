@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7892219,
-        "deaths": 218604,
-        "recovered": 5057814
+        "confirmed": 7893405,
+        "deaths": 218637,
+        "recovered": 5058645
     },
     {
         "Name": "인도",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 320478,
         "deaths": 9687,
-        "recovered": 269500
+        "recovered": 271800
     },
     {
         "Name": "파키스탄",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 177998,
-        "deaths": 9586,
-        "recovered": 149420
+        "confirmed": 178117,
+        "deaths": 9585,
+        "recovered": 149524
     },
     {
         "Name": "네덜란드",
@@ -267,9 +267,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 118054,
-        "deaths": 2463,
-        "recovered": 94391
+        "confirmed": 118841,
+        "deaths": 2474,
+        "recovered": 94962
     },
     {
         "Name": "도미니카 공화국",
@@ -507,9 +507,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 47316,
-        "deaths": 1012,
-        "recovered": 29976
+        "confirmed": 48275,
+        "deaths": 1045,
+        "recovered": 30643
     },
     {
         "Name": "Ghana",
@@ -907,7 +907,7 @@
         "Name": "Guadeloupe",
         "Name_ch": "",
         "Name_en": "Guadeloupe",
-        "confirmed": 6319,
+        "confirmed": 6483,
         "deaths": 77,
         "recovered": 2199
     },
@@ -987,7 +987,7 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 5062,
+        "confirmed": 5063,
         "deaths": 83,
         "recovered": 4894
     },
@@ -1003,9 +1003,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 5004,
+        "confirmed": 5018,
         "deaths": 106,
-        "recovered": 4794
+        "recovered": 4816
     },
     {
         "Name": "Rwanda",
@@ -1208,20 +1208,20 @@
         "recovered": 1723
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 2254,
+        "deaths": 60,
+        "recovered": 1516
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "confirmed": 2251,
         "deaths": 49,
         "recovered": 1917
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 2241,
-        "deaths": 60,
-        "recovered": 1506
     },
     {
         "Name": "Yemen",
@@ -1243,9 +1243,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1907,
+        "confirmed": 1921,
         "deaths": 49,
-        "recovered": 1426
+        "recovered": 1433
     },
     {
         "Name": "New Zealand",
@@ -1293,7 +1293,7 @@
         "Name_en": "Niger",
         "confirmed": 1201,
         "deaths": 69,
-        "recovered": 1122
+        "recovered": 1123
     },
     {
         "Name": "베트남",
@@ -1307,7 +1307,7 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 921,
+        "confirmed": 922,
         "deaths": 15,
         "recovered": 890
     },
@@ -1419,7 +1419,7 @@
         "Name": "Saint Martin",
         "Name_ch": "",
         "Name_en": "Saint Martin",
-        "confirmed": 412,
+        "confirmed": 466,
         "deaths": 8,
         "recovered": 309
     },
@@ -1552,20 +1552,20 @@
         "recovered": 70
     },
     {
+        "Name": "St. Barth",
+        "Name_ch": "",
+        "Name_en": "St. Barth",
+        "confirmed": 65,
+        "deaths": 0,
+        "recovered": 37
+    },
+    {
         "Name": "St. Vincent Grenadines",
         "Name_ch": "",
         "Name_en": "St. Vincent Grenadines",
         "confirmed": 64,
         "deaths": 0,
         "recovered": 64
-    },
-    {
-        "Name": "St. Barth",
-        "Name_ch": "",
-        "Name_en": "St. Barth",
-        "confirmed": 62,
-        "deaths": 0,
-        "recovered": 37
     },
     {
         "Name": "마카오",
