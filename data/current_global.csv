@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7895498,218669,5065054
+미국,美国,United States,7895738,218685,5065384
 인도,印度,India,6979423,107450,5988822
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,332382,8722,291754
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
-독일,德国,Germany,320478,9687,271800
+독일,德国,Germany,320478,9687,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,256266,4887,112570
@@ -73,8 +73,8 @@ Kenya,,Kenya,40620,755,31876
 헝가리,匈牙利,Hungary,36596,933,9683
 세르비아,塞尔维亚,Serbia,34517,761,31536
 덴마크,丹麦,Denmark,31638,665,25502
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30345,927,23370
 El Salvador,,El Salvador,29951,887,24995
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,29917,926,23241
 호주,澳大利亚,Australia,27244,897,24987
 Tunisia,,Tunisia,26899,409,5032
 Myanmar,,Myanmar,23906,566,6738
@@ -89,7 +89,7 @@ Ivory Coast,,Ivory Coast,20036,120,19696
 Madagascar,,Madagascar,16702,237,16012
 노르웨이,挪威,Norway,15388,275,11863
 Zambia,,Zambia,15339,336,14439
-세네갈,塞内加尔,Senegal,15213,313,13136
+세네갈,塞内加尔,Senegal,15244,314,13198
 말레이시아,马来西亚,Malaysia,15096,155,10780
 Albania,,Albania,15066,413,9304
 Sudan,,Sudan,13670,836,6764
@@ -129,7 +129,7 @@ Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
 Bahamas,,Bahamas,4713,102,2607
 Syria,,Syria,4616,218,1235
-스리랑카,斯里兰卡,Sri Lanka,4523,13,3296
+스리랑카,斯里兰卡,Sri Lanka,4523,13,3306
 Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4167,32,3718
 Mayotte,,Mayotte,3989,43,2964
