@@ -163,9 +163,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 324658,
-        "deaths": 11677,
-        "recovered": 247667
+        "confirmed": 328952,
+        "deaths": 11765,
+        "recovered": 251481
     },
     {
         "Name": "독일",
@@ -264,6 +264,14 @@
         "recovered": 124559
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 121638,
+        "deaths": 2972,
+        "recovered": 78982
+    },
+    {
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
@@ -278,14 +286,6 @@
         "confirmed": 117457,
         "deaths": 2165,
         "recovered": 93061
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 116338,
-        "deaths": 2919,
-        "recovered": 78982
     },
     {
         "Name": "쿠웨이트",
@@ -475,9 +475,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 53188,
-        "deaths": 842,
-        "recovered": 42039
+        "confirmed": 54423,
+        "deaths": 852,
+        "recovered": 42829
     },
     {
         "Name": "알제리",
@@ -760,20 +760,20 @@
         "recovered": 9326
     },
     {
+        "Name": "핀란드",
+        "Name_ch": "芬兰",
+        "Name_en": "Finland",
+        "confirmed": 11849,
+        "deaths": 346,
+        "recovered": 8500
+    },
+    {
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
         "confirmed": 11829,
         "deaths": 127,
         "recovered": 9778
-    },
-    {
-        "Name": "핀란드",
-        "Name_ch": "芬兰",
-        "Name_en": "Finland",
-        "confirmed": 11580,
-        "deaths": 346,
-        "recovered": 8500
     },
     {
         "Name": "조지아",
@@ -971,7 +971,7 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5170,
+        "confirmed": 5176,
         "deaths": 105,
         "recovered": 4906
     },
