@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7920729,
-        "deaths": 218936,
+        "confirmed": 7920751,
+        "deaths": 218940,
         "recovered": 5072490
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7037329,
+        "confirmed": 7037357,
         "deaths": 108046,
-        "recovered": 6045564
+        "recovered": 6045595
     },
     {
         "Name": "브라질",
@@ -592,6 +592,14 @@
         "recovered": 25987
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 31259,
+        "deaths": 456,
+        "recovered": 5032
+    },
+    {
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
@@ -614,14 +622,6 @@
         "confirmed": 27244,
         "deaths": 897,
         "recovered": 24987
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 26899,
-        "deaths": 409,
-        "recovered": 5032
     },
     {
         "Name": "Myanmar",
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4167,
+        "confirmed": 4188,
         "deaths": 32,
-        "recovered": 3718
+        "recovered": 3753
     },
     {
         "Name": "Mayotte",
@@ -1131,9 +1131,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3248,
-        "deaths": 131,
-        "recovered": 2514
+        "confirmed": 3273,
+        "deaths": 132,
+        "recovered": 2525
     },
     {
         "Name": "Botswana",
