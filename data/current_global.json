@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7939513,
-        "deaths": 219227,
-        "recovered": 5083682
+        "confirmed": 7940037,
+        "deaths": 219232,
+        "recovered": 5084203
     },
     {
         "Name": "인도",
@@ -331,9 +331,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 104262,
-        "deaths": 6029,
-        "recovered": 97592
+        "confirmed": 104387,
+        "deaths": 6040,
+        "recovered": 97643
     },
     {
         "Name": "오만",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 74860,
-        "deaths": 272,
-        "recovered": 70406
+        "confirmed": 75287,
+        "deaths": 273,
+        "recovered": 70808
     },
     {
         "Name": "Moldova",
@@ -821,7 +821,7 @@
         "Name_en": "French Guiana",
         "confirmed": 10144,
         "deaths": 69,
-        "recovered": 9810
+        "recovered": 9834
     },
     {
         "Name": "Mozambique",
@@ -995,9 +995,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 5021,
-        "deaths": 89,
-        "recovered": 3150
+        "confirmed": 5043,
+        "deaths": 90,
+        "recovered": 3221
     },
     {
         "Name": "Suriname",
@@ -1123,9 +1123,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 3358,
-        "deaths": 100,
-        "recovered": 2180
+        "confirmed": 3405,
+        "deaths": 102,
+        "recovered": 2304
     },
     {
         "Name": "Mali",
@@ -1491,9 +1491,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 204,
+        "confirmed": 206,
         "deaths": 7,
-        "recovered": 182
+        "recovered": 183
     },
     {
         "Name": "Bermuda",

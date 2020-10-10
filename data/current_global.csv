@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7939513,219227,5083682
+미국,美国,United States,7940037,219232,5084203
 인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5082637,150198,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -40,7 +40,7 @@ Panama,,Panama,118841,2474,94962
 Kazakhstan,,Kazakhstan,108663,1746,103910
 네팔,尼泊尔,Nepal,105684,614,74252
 아랍에미리트,阿拉伯联合酋长国,UAE,105133,443,95973
-이집트,埃及,Egypt,104262,6029,97592
+이집트,埃及,Egypt,104387,6040,97643
 오만,阿曼,Oman,104129,1009,91731
 스웨덴,瑞典语,Sweden,98451,5894,0
 Guatemala,,Guatemala,97544,3365,86046
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,83429,1277,37683
 Honduras,,Honduras,82552,2492,31736
 벨라루스,白俄罗斯,Belarus,82471,885,76543
 Venezuela,,Venezuela,81696,684,73020
-바레인,巴林,Bahrain,74860,272,70406
+바레인,巴林,Bahrain,75287,273,70808
 Moldova,,Moldova,61762,1458,43982
 Uzbekistan,,Uzbekistan,60776,502,57704
 스위스,瑞士,Switzerland,60368,2088,48400
@@ -101,7 +101,7 @@ Guinea,,Guinea,10996,69,10304
 Maldives,,Maldives,10859,34,9683
 DRC,,DRC,10841,276,10242
 Tajikistan,,Tajikistan,10180,79,9006
-French Guiana,,French Guiana,10144,69,9810
+French Guiana,,French Guiana,10144,69,9834
 Mozambique,,Mozambique,9844,70,7203
 Uganda,,Uganda,9701,93,6022
 룩셈부르크,卢森堡,Luxembourg,9360,130,8038
@@ -123,7 +123,7 @@ Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5176,105,4914
 Congo,,Congo,5118,90,3887
 Equatorial Guinea,,Equatorial Guinea,5063,83,4894
-Trinidad and Tobago,,Trinidad and Tobago,5021,89,3150
+Trinidad and Tobago,,Trinidad and Tobago,5043,90,3221
 Suriname,,Suriname,5018,106,4816
 Bahamas,,Bahamas,4955,106,2724
 Rwanda,,Rwanda,4892,30,3566
@@ -139,7 +139,7 @@ Malta,,Malta,3681,41,2937
 태국,泰国,Thailand,3634,59,3445
 Gambia,,Gambia,3628,117,2540
 Iceland,,Iceland,3460,10,2466
-Guyana,,Guyana,3358,100,2180
+Guyana,,Guyana,3405,102,2304
 Mali,,Mali,3273,132,2525
 Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2761,54,1290
@@ -185,7 +185,7 @@ Mongolia,,Mongolia,315,0,310
 캄보디아,柬埔寨,Cambodia,283,0,277
 모나코,摩纳哥,Monaco,233,2,209
 Cayman Islands,,Cayman Islands,220,1,211
-Barbados,,Barbados,204,7,182
+Barbados,,Barbados,206,7,183
 Bermuda,,Bermuda,184,9,170
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78
 Seychelles,,Seychelles,148,0,144
