@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7893405,218637,5058645
+미국,美国,United States,7894338,218642,5064200
 인도,印度,India,6977008,107450,5985505
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1272238,22257,1009421
@@ -106,7 +106,7 @@ Mozambique,,Mozambique,9742,69,7171
 Uganda,,Uganda,9538,86,5857
 룩셈부르크,卢森堡,Luxembourg,9360,130,8038
 Haiti,,Haiti,8854,230,7013
-Gabon,,Gabon,8815,54,8164
+Gabon,,Gabon,8835,54,8189
 Zimbabwe,,Zimbabwe,7994,229,6474
 슬로베니아,斯洛文尼亚,Slovenia,7872,165,4842
 Mauritania,,Mauritania,7548,163,7245
@@ -143,9 +143,9 @@ Guyana,,Guyana,3358,100,2180
 Mali,,Mali,3248,131,2514
 Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2761,54,1290
+French Polynesia,,French Polynesia,2754,10,2019
 안도라,安道尔,Andorra,2696,55,1814
 라트비아,约旦,Latvia,2507,40,1322
-French Polynesia,,French Polynesia,2420,10,1857
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Belize,,Belize,2373,34,1459
@@ -167,7 +167,7 @@ Sao Tome and Principe,,Sao Tome and Principe,922,15,890
 일본크루즈,日本 邮轮,Diamond Princess,712,13,651
 Channel Islands,,Channel Islands,699,48,623
 Sint Maarten,,Sint Maarten,699,22,620
-Turks and Caicos,,Turks and Caicos,695,6,671
+Turks and Caicos,,Turks and Caicos,695,6,672
 Papua New Guinea,,Papua New Guinea,549,7,532
 Curaçao,,Curaçao,549,1,291
 대만,台湾,Taiwan,527,7,488
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,315,0,308
 부탄,不丹,Bhutan,304,0,255
 캄보디아,柬埔寨,Cambodia,282,0,277
 모나코,摩纳哥,Monaco,233,2,209
-Cayman Islands,,Cayman Islands,214,1,211
+Cayman Islands,,Cayman Islands,220,1,211
 Barbados,,Barbados,204,7,182
 Bermuda,,Bermuda,184,9,170
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78

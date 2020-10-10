@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7893405,
-        "deaths": 218637,
-        "recovered": 5058645
+        "confirmed": 7894338,
+        "deaths": 218642,
+        "recovered": 5064200
     },
     {
         "Name": "인도",
@@ -859,9 +859,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8815,
+        "confirmed": 8835,
         "deaths": 54,
-        "recovered": 8164
+        "recovered": 8189
     },
     {
         "Name": "Zimbabwe",
@@ -1152,6 +1152,14 @@
         "recovered": 1290
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 2754,
+        "deaths": 10,
+        "recovered": 2019
+    },
+    {
         "Name": "안도라",
         "Name_ch": "安道尔",
         "Name_en": "Andorra",
@@ -1166,14 +1174,6 @@
         "confirmed": 2507,
         "deaths": 40,
         "recovered": 1322
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 2420,
-        "deaths": 10,
-        "recovered": 1857
     },
     {
         "Name": "Benin",
@@ -1349,7 +1349,7 @@
         "Name_en": "Turks and Caicos",
         "confirmed": 695,
         "deaths": 6,
-        "recovered": 671
+        "recovered": 672
     },
     {
         "Name": "Papua New Guinea",
@@ -1483,7 +1483,7 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 214,
+        "confirmed": 220,
         "deaths": 1,
         "recovered": 211
     },
