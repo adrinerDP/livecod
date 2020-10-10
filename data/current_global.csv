@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7909037,218855,5066257
+미국,美国,United States,7911530,218869,5068534
 인도,印度,India,6997852,107568,6003244
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 이탈리아,义大利,Italy,349494,36140,238525
 사우디아라비아,沙特阿拉伯,Saudi Arabia,338944,5018,324737
 필리핀,菲律宾,Philippines,336926,6238,276094
-터키,土耳其,Turkey,332382,8722,291754
+터키,土耳其,Turkey,334031,8778,293145
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
 독일,德国,Germany,321392,9690,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
@@ -28,15 +28,15 @@ Ukraine,,Ukraine,256266,4887,112570
 네덜란드,荷兰,Netherlands,168280,6567,0
 루마니아,尼亚,Romania,152403,5358,116628
 벨기에,比利时,Belgium,148981,10151,20072
+에콰도르,厄瓜多尔,Ecuador,146828,12188,120511
 모로코,摩洛哥,Morocco,146398,2530,123022
-에콰도르,厄瓜多尔,Ecuador,145848,12175,120511
 Bolivia,,Bolivia,138226,8262,100347
 카타르,卡塔尔,Qatar,127778,219,124767
 폴란드,波兰,Poland,121638,2972,78982
 Panama,,Panama,118841,2474,94962
 도미니카 공화국,多明尼加共和国,Dominican Republic,118014,2167,93627
+체코,捷克,Czechia,111978,934,53202
 쿠웨이트,科威特,Kuwait,110568,655,102722
-체코,捷克,Czechia,109374,905,53173
 Kazakhstan,,Kazakhstan,108663,1746,103910
 네팔,尼泊尔,Nepal,105684,614,74252
 아랍에미리트,阿拉伯联合酋长国,UAE,105133,443,95973
@@ -128,8 +128,8 @@ Suriname,,Suriname,5018,106,4816
 Bahamas,,Bahamas,4955,106,2724
 Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
+스리랑카,斯里兰卡,Sri Lanka,4628,13,3306
 Syria,,Syria,4616,218,1235
-스리랑카,斯里兰卡,Sri Lanka,4523,13,3306
 Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4167,32,3718
 Mayotte,,Mayotte,3989,43,2964
@@ -171,7 +171,7 @@ Turks and Caicos,,Turks and Caicos,695,6,672
 Papua New Guinea,,Papua New Guinea,549,7,532
 Curaçao,,Curaçao,549,1,291
 대만,台湾,Taiwan,527,7,488
-Burundi,,Burundi,515,1,472
+Burundi,,Burundi,517,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,495,7,475
 Faeroe Islands,,Faeroe Islands,477,0,461
