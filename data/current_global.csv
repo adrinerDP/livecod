@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7926468,219029,5078348
-인도,印度,India,7037694,108047,6046028
+미국,美国,United States,7927436,219038,5079011
+인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5073483,150023,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,894300,27495,780547
@@ -10,7 +10,7 @@ Argentina,,Argentina,871468,23225,697141
 멕시코,墨西哥,Mexico,809751,83507,588085
 프랑스,法国,France,718873,32637,100828
 남아프리카 공화국,南非共和国,South Africa,688352,17547,620081
-영국,英国,UK,575679,42679,0
+영국,英国,UK,590844,42760,0
 이란,伊朗,Iran,496253,28293,403950
 칠레,智利,Chile,479595,13272,452054
 이라크,伊拉克,Iraq,400124,9790,332330
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,334031,8778,293145
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
-독일,德国,Germany,323098,9690,273500
+독일,德国,Germany,323365,9691,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,289799,1914,225718
 Ukraine,,Ukraine,256266,4887,112570
@@ -45,9 +45,9 @@ Kazakhstan,,Kazakhstan,108663,1746,103910
 스웨덴,瑞典语,Sweden,98451,5894,0
 Guatemala,,Guatemala,97544,3365,86046
 일본,日本,Japan,88233,1624,81356
-코스타리카,哥斯达黎加,Costa Rica,86053,1055,52327
+코스타리카,哥斯达黎加,Costa Rica,87439,1076,52669
 포르투갈,葡萄牙,Portugal,85574,2067,52803
-Ethiopia,,Ethiopia,82662,1271,37102
+Ethiopia,,Ethiopia,83429,1277,37683
 Honduras,,Honduras,82552,2492,31736
 벨라루스,白俄罗斯,Belarus,82471,885,76543
 Venezuela,,Venezuela,81696,684,73020
@@ -102,7 +102,7 @@ DRC,,DRC,10841,276,10242
 Maldives,,Maldives,10808,34,9654
 Tajikistan,,Tajikistan,10180,79,9006
 French Guiana,,French Guiana,10144,69,9810
-Mozambique,,Mozambique,9742,69,7171
+Mozambique,,Mozambique,9844,70,7203
 Uganda,,Uganda,9701,93,6022
 룩셈부르크,卢森堡,Luxembourg,9360,130,8038
 Haiti,,Haiti,8854,230,7013
@@ -128,8 +128,8 @@ Suriname,,Suriname,5018,106,4816
 Bahamas,,Bahamas,4955,106,2724
 Rwanda,,Rwanda,4890,30,3555
 CAR,,CAR,4853,62,1914
+Syria,,Syria,4673,221,1271
 스리랑카,斯里兰卡,Sri Lanka,4628,13,3306
-Syria,,Syria,4616,218,1235
 Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4188,32,3753
 Mayotte,,Mayotte,3989,43,2964
