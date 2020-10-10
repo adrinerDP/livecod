@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 6980220,
-        "deaths": 107471,
-        "recovered": 5989476
+        "confirmed": 6985462,
+        "deaths": 107538,
+        "recovered": 5994698
     },
     {
         "Name": "브라질",
@@ -579,8 +579,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 34517,
-        "deaths": 761,
+        "confirmed": 34685,
+        "deaths": 762,
         "recovered": 31536
     },
     {
@@ -627,9 +627,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 23906,
-        "deaths": 566,
-        "recovered": 6738
+        "confirmed": 26064,
+        "deaths": 598,
+        "recovered": 7050
     },
     {
         "Name": "Bulgaria",
@@ -707,7 +707,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15388,
+        "confirmed": 15452,
         "deaths": 275,
         "recovered": 11863
     },
@@ -715,9 +715,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 15339,
-        "deaths": 336,
-        "recovered": 14439
+        "confirmed": 15415,
+        "deaths": 337,
+        "recovered": 14541
     },
     {
         "Name": "세네갈",
@@ -1115,9 +1115,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3373,
+        "confirmed": 3460,
         "deaths": 10,
-        "recovered": 2448
+        "recovered": 2466
     },
     {
         "Name": "Guyana",

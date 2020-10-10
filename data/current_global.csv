@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,7898609,218718,5065397
-인도,印度,India,6980220,107471,5989476
+인도,印度,India,6985462,107538,5994698
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,894300,27495,780547
@@ -71,13 +71,13 @@ Libya,,Libya,41686,623,23791
 Kenya,,Kenya,40620,755,31876
 아프가니스탄,阿富汗,Afghanistan,39703,1473,33064
 헝가리,匈牙利,Hungary,36596,933,9683
-세르비아,塞尔维亚,Serbia,34517,761,31536
+세르비아,塞尔维亚,Serbia,34685,762,31536
 덴마크,丹麦,Denmark,32082,667,25987
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30345,927,23370
 El Salvador,,El Salvador,29951,887,24995
 호주,澳大利亚,Australia,27244,897,24987
 Tunisia,,Tunisia,26899,409,5032
-Myanmar,,Myanmar,23906,566,6738
+Myanmar,,Myanmar,26064,598,7050
 Bulgaria,,Bulgaria,23871,887,15713
 요르단,约旦,Jordan,22763,166,5906
 그리스,希腊,Greece,21772,431,9989
@@ -87,8 +87,8 @@ Ivory Coast,,Ivory Coast,20036,120,19696
 크로아티아,克罗地亚,Croatia,19932,317,16953
 슬로바키아,斯洛伐克,Slovakia,18797,61,5553
 Madagascar,,Madagascar,16702,237,16012
-노르웨이,挪威,Norway,15388,275,11863
-Zambia,,Zambia,15339,336,14439
+노르웨이,挪威,Norway,15452,275,11863
+Zambia,,Zambia,15415,337,14541
 세네갈,塞内加尔,Senegal,15244,314,13198
 말레이시아,马来西亚,Malaysia,15096,155,10780
 Albania,,Albania,15066,413,9304
@@ -138,7 +138,7 @@ Somalia,,Somalia,3847,99,3079
 Malta,,Malta,3681,41,2937
 태국,泰国,Thailand,3634,59,3445
 Gambia,,Gambia,3621,117,2489
-Iceland,,Iceland,3373,10,2448
+Iceland,,Iceland,3460,10,2466
 Guyana,,Guyana,3358,100,2180
 Mali,,Mali,3248,131,2514
 Botswana,,Botswana,3219,18,834
