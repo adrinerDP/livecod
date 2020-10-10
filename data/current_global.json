@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7932729,
-        "deaths": 219090,
-        "recovered": 5081488
+        "confirmed": 7935036,
+        "deaths": 219174,
+        "recovered": 5083190
     },
     {
         "Name": "인도",
@@ -792,20 +792,20 @@
         "recovered": 10304
     },
     {
+        "Name": "Maldives",
+        "Name_ch": "",
+        "Name_en": "Maldives",
+        "confirmed": 10859,
+        "deaths": 34,
+        "recovered": 9683
+    },
+    {
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
         "confirmed": 10841,
         "deaths": 276,
         "recovered": 10242
-    },
-    {
-        "Name": "Maldives",
-        "Name_ch": "",
-        "Name_en": "Maldives",
-        "confirmed": 10808,
-        "deaths": 34,
-        "recovered": 9654
     },
     {
         "Name": "Tajikistan",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 6809,
-        "deaths": 73,
-        "recovered": 5932
+        "confirmed": 6913,
+        "deaths": 74,
+        "recovered": 5970
     },
     {
         "Name": "Guadeloupe",
