@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7942017,219244,5084615
+미국,美国,United States,7942515,219247,5084863
 인도,印度,India,7051543,108371,6074863
-브라질,巴西,Brazil,5082637,150198,4453722
+브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,902747,27660,783131
 스페인,西班牙,Spain,890367,32929,0
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 필리핀,菲律宾,Philippines,336926,6238,276094
 터키,土耳其,Turkey,334031,8778,293145
 인도네시아,印度尼西亚,Indonesia,328952,11765,251481
-독일,德国,Germany,323438,9691,273500
+독일,德国,Germany,323453,9691,273500
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,289875,1941,225725
 Ukraine,,Ukraine,256266,4887,112570
@@ -33,9 +33,9 @@ Ukraine,,Ukraine,256266,4887,112570
 Bolivia,,Bolivia,138226,8262,100347
 카타르,卡塔尔,Qatar,127778,219,124767
 폴란드,波兰,Poland,121638,2972,78982
-Panama,,Panama,118841,2474,94962
+Panama,,Panama,119666,2482,95552
 도미니카 공화국,多明尼加共和国,Dominican Republic,118014,2167,93627
-체코,捷克,Czechia,111978,934,53202
+체코,捷克,Czechia,114005,948,54909
 쿠웨이트,科威特,Kuwait,110568,655,102722
 Kazakhstan,,Kazakhstan,108663,1746,103910
 네팔,尼泊尔,Nepal,105684,614,74252
@@ -104,7 +104,7 @@ Tajikistan,,Tajikistan,10180,79,9006
 French Guiana,,French Guiana,10144,69,9834
 Mozambique,,Mozambique,9844,70,7203
 Uganda,,Uganda,9701,93,6022
-룩셈부르크,卢森堡,Luxembourg,9360,130,8038
+룩셈부르크,卢森堡,Luxembourg,9514,131,8038
 Haiti,,Haiti,8860,230,7104
 Gabon,,Gabon,8835,54,8189
 슬로베니아,斯洛文尼亚,Slovenia,8252,167,5024
@@ -152,7 +152,7 @@ Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Sierra Leone,,Sierra Leone,2300,72,1725
 Uruguay,,Uruguay,2268,50,1930
 Burkina Faso,,Burkina Faso,2254,60,1516
-Yemen,,Yemen,2051,593,1329
+Yemen,,Yemen,2051,595,1329
 Cyprus,,Cyprus,1984,25,1369
 토고,多哥,Togo,1935,49,1444
 New Zealand,,New Zealand,1870,25,1801

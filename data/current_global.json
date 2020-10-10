@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7942017,
-        "deaths": 219244,
-        "recovered": 5084615
+        "confirmed": 7942515,
+        "deaths": 219247,
+        "recovered": 5084863
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5082637,
-        "deaths": 150198,
+        "confirmed": 5091840,
+        "deaths": 150236,
         "recovered": 4453722
     },
     {
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 323438,
+        "confirmed": 323453,
         "deaths": 9691,
         "recovered": 273500
     },
@@ -275,9 +275,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 118841,
-        "deaths": 2474,
-        "recovered": 94962
+        "confirmed": 119666,
+        "deaths": 2482,
+        "recovered": 95552
     },
     {
         "Name": "도미니카 공화국",
@@ -291,9 +291,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 111978,
-        "deaths": 934,
-        "recovered": 53202
+        "confirmed": 114005,
+        "deaths": 948,
+        "recovered": 54909
     },
     {
         "Name": "쿠웨이트",
@@ -843,8 +843,8 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 9360,
-        "deaths": 130,
+        "confirmed": 9514,
+        "deaths": 131,
         "recovered": 8038
     },
     {
@@ -1228,7 +1228,7 @@
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 2051,
-        "deaths": 593,
+        "deaths": 595,
         "recovered": 1329
     },
     {
