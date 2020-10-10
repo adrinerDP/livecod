@@ -571,9 +571,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 35222,
-        "deaths": 913,
-        "recovered": 9202
+        "confirmed": 36596,
+        "deaths": 933,
+        "recovered": 9683
     },
     {
         "Name": "세르비아",
@@ -776,6 +776,14 @@
         "recovered": 8500
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 11271,
+        "deaths": 78,
+        "recovered": 6119
+    },
+    {
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
@@ -798,14 +806,6 @@
         "confirmed": 10808,
         "deaths": 34,
         "recovered": 9654
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 10752,
-        "deaths": 72,
-        "recovered": 5866
     },
     {
         "Name": "French Guiana",
