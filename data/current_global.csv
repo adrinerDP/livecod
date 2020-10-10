@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7901561,218759,5065681
+미국,美国,United States,7909037,218855,5066257
 인도,印度,India,6997852,107568,6003244
 브라질,巴西,Brazil,5057190,149692,4433595
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,287858,1886,225248
 Ukraine,,Ukraine,256266,4887,112570
-캐나다,加拿大,Canada,178929,9592,150225
+캐나다,加拿大,Canada,180026,9606,151335
 네덜란드,荷兰,Netherlands,168280,6567,0
 루마니아,尼亚,Romania,152403,5358,116628
 벨기에,比利时,Belgium,148981,10151,20072
@@ -56,7 +56,7 @@ Moldova,,Moldova,61762,1458,43982
 Uzbekistan,,Uzbekistan,60681,501,57587
 스위스,瑞士,Switzerland,60368,2088,48400
 나이지리아,尼日利亚,Nigeria,59992,1113,51614
-싱가포르,新加坡,Singapore,57866,27,57675
+싱가포르,新加坡,Singapore,57866,27,57698
 아르메니아,亚美尼亚,Armenia,55736,1016,45771
 오스트리아,奥地利,Austria,54423,852,42829
 알제리,阿尔及利亚,Algeria,52804,1789,37067
@@ -93,11 +93,11 @@ Zambia,,Zambia,15415,337,14541
 Albania,,Albania,15231,416,9406
 말레이시아,马来西亚,Malaysia,15096,155,10780
 Sudan,,Sudan,13670,836,6764
-Montenegro,,Montenegro,13348,194,9326
+Montenegro,,Montenegro,13641,198,9429
 핀란드,芬兰,Finland,11849,346,8500
 Namibia,,Namibia,11829,127,9778
 조지아,格鲁吉亚,Georgia,11271,78,6119
-Guinea,,Guinea,10954,68,10265
+Guinea,,Guinea,10996,69,10304
 DRC,,DRC,10841,276,10242
 Maldives,,Maldives,10808,34,9654
 Tajikistan,,Tajikistan,10180,79,9006
@@ -116,7 +116,7 @@ Guadeloupe,,Guadeloupe,6483,77,2199
 Angola,,Angola,6031,212,2685
 Lithuania,,Lithuania,5963,103,2751
 Cuba,,Cuba,5948,123,5440
-Malawi,,Malawi,5813,180,4631
+Malawi,,Malawi,5821,180,4644
 Eswatini,,Eswatini,5644,113,5254
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
@@ -149,11 +149,11 @@ French Polynesia,,French Polynesia,2754,10,2019
 Belize,,Belize,2427,35,1487
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
-Sierra Leone,,Sierra Leone,2295,72,1723
+Sierra Leone,,Sierra Leone,2300,72,1725
 Burkina Faso,,Burkina Faso,2254,60,1516
 Uruguay,,Uruguay,2251,49,1917
 Yemen,,Yemen,2051,593,1329
-Cyprus,,Cyprus,1951,25,1369
+Cyprus,,Cyprus,1984,25,1369
 토고,多哥,Togo,1921,49,1433
 New Zealand,,New Zealand,1870,25,1801
 Martinique,,Martinique,1851,22,98

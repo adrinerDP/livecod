@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7901561,
-        "deaths": 218759,
-        "recovered": 5065681
+        "confirmed": 7909037,
+        "deaths": 218855,
+        "recovered": 5066257
     },
     {
         "Name": "인도",
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 178929,
-        "deaths": 9592,
-        "recovered": 150225
+        "confirmed": 180026,
+        "deaths": 9606,
+        "recovered": 151335
     },
     {
         "Name": "네덜란드",
@@ -461,7 +461,7 @@
         "Name_en": "Singapore",
         "confirmed": 57866,
         "deaths": 27,
-        "recovered": 57675
+        "recovered": 57698
     },
     {
         "Name": "아르메니아",
@@ -755,9 +755,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 13348,
-        "deaths": 194,
-        "recovered": 9326
+        "confirmed": 13641,
+        "deaths": 198,
+        "recovered": 9429
     },
     {
         "Name": "핀란드",
@@ -787,9 +787,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10954,
-        "deaths": 68,
-        "recovered": 10265
+        "confirmed": 10996,
+        "deaths": 69,
+        "recovered": 10304
     },
     {
         "Name": "DRC",
@@ -939,9 +939,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5813,
+        "confirmed": 5821,
         "deaths": 180,
-        "recovered": 4631
+        "recovered": 4644
     },
     {
         "Name": "Eswatini",
@@ -1203,9 +1203,9 @@
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
-        "confirmed": 2295,
+        "confirmed": 2300,
         "deaths": 72,
-        "recovered": 1723
+        "recovered": 1725
     },
     {
         "Name": "Burkina Faso",
@@ -1235,7 +1235,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1951,
+        "confirmed": 1984,
         "deaths": 25,
         "recovered": 1369
     },
