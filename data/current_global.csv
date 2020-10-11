@@ -1,13 +1,13 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7945475,219282,5089825
+미국,美国,United States,7945505,219282,5089842
 인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1285084,22454,1016202
 콜롬비아,哥伦比亚,Colombia,902747,27660,783131
 스페인,西班牙,Spain,890367,32929,0
 Argentina,,Argentina,883882,23581,709464
-페루,秘鲁,Peru,843355,33158,733000
-멕시코,墨西哥,Mexico,809751,83507,588085
+페루,秘鲁,Peru,846088,33223,738189
+멕시코,墨西哥,Mexico,814328,83642,591150
 프랑스,法国,France,718873,32637,100828
 남아프리카 공화국,南非共和国,South Africa,690896,17673,622153
 영국,英国,UK,590844,42760,0
@@ -50,7 +50,7 @@ Guatemala,,Guatemala,97544,3365,86046
 Ethiopia,,Ethiopia,83429,1277,37683
 Honduras,,Honduras,82552,2492,31736
 벨라루스,白俄罗斯,Belarus,82471,885,76543
-Venezuela,,Venezuela,81696,684,73020
+Venezuela,,Venezuela,82453,691,73919
 바레인,巴林,Bahrain,75287,273,70808
 Moldova,,Moldova,61762,1458,43982
 Uzbekistan,,Uzbekistan,60776,502,57704
@@ -125,7 +125,7 @@ Congo,,Congo,5118,90,3887
 Equatorial Guinea,,Equatorial Guinea,5063,83,4894
 Trinidad and Tobago,,Trinidad and Tobago,5043,90,3221
 Suriname,,Suriname,5035,107,4830
-Bahamas,,Bahamas,4955,106,2724
+Bahamas,,Bahamas,5023,106,2815
 Rwanda,,Rwanda,4892,30,3566
 CAR,,CAR,4854,62,1924
 Syria,,Syria,4673,221,1271
@@ -155,7 +155,7 @@ Uruguay,,Uruguay,2268,50,1930
 Yemen,,Yemen,2051,595,1329
 Cyprus,,Cyprus,1986,25,1444
 토고,多哥,Togo,1935,49,1444
-New Zealand,,New Zealand,1870,25,1801
+New Zealand,,New Zealand,1871,25,1801
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1800,42,926
 Liberia,,Liberia,1363,82,1245
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,1,0,0
-중국,中国,China,85536,4634,80696
+중국,中国,China,85557,4634,80705
