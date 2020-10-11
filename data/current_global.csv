@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7948365,219296,5090226
+미국,美国,United States,7949351,219300,5090238
 인도,印度,India,7053806,108371,6077976
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1298718,22597,1020442
@@ -53,7 +53,7 @@ Honduras,,Honduras,83146,2504,31931
 Venezuela,,Venezuela,82453,691,73919
 바레인,巴林,Bahrain,75287,273,70808
 Moldova,,Moldova,61762,1458,43982
-Uzbekistan,,Uzbekistan,60894,503,57704
+Uzbekistan,,Uzbekistan,61017,505,57967
 스위스,瑞士,Switzerland,60368,2088,48400
 나이지리아,尼日利亚,Nigeria,60103,1115,51711
 싱가포르,新加坡,Singapore,57876,27,57698
@@ -76,8 +76,8 @@ Kenya,,Kenya,41546,766,32000
 Tunisia,,Tunisia,31259,456,5032
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30647,928,23461
 El Salvador,,El Salvador,30196,890,25438
+Myanmar,,Myanmar,27974,646,9742
 호주,澳大利亚,Australia,27265,898,24998
-Myanmar,,Myanmar,26064,598,7050
 Bulgaria,,Bulgaria,24319,891,15818
 요르단,约旦,Jordan,23998,181,6045
 그리스,希腊,Greece,22078,436,9989
@@ -190,7 +190,7 @@ Bermuda,,Bermuda,184,9,170
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78
 Seychelles,,Seychelles,148,0,144
 Brunei,,Brunei,146,3,143
-리히텐슈타인,列支敦士登,Liechtenstein,142,1,117
+리히텐슈타인,列支敦士登,Liechtenstein,144,1,121
 Antigua and Barbuda,,Antigua and Barbuda,111,3,97
 British Virgin Islands,,British Virgin Islands,71,1,70
 St. Barth,,St. Barth,65,0,37

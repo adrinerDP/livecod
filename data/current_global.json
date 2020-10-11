@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7948365,
-        "deaths": 219296,
-        "recovered": 5090226
+        "confirmed": 7949351,
+        "deaths": 219300,
+        "recovered": 5090238
     },
     {
         "Name": "인도",
@@ -435,9 +435,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 60894,
-        "deaths": 503,
-        "recovered": 57704
+        "confirmed": 61017,
+        "deaths": 505,
+        "recovered": 57967
     },
     {
         "Name": "스위스",
@@ -616,20 +616,20 @@
         "recovered": 25438
     },
     {
+        "Name": "Myanmar",
+        "Name_ch": "",
+        "Name_en": "Myanmar",
+        "confirmed": 27974,
+        "deaths": 646,
+        "recovered": 9742
+    },
+    {
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
         "confirmed": 27265,
         "deaths": 898,
         "recovered": 24998
-    },
-    {
-        "Name": "Myanmar",
-        "Name_ch": "",
-        "Name_en": "Myanmar",
-        "confirmed": 26064,
-        "deaths": 598,
-        "recovered": 7050
     },
     {
         "Name": "Bulgaria",
@@ -1531,9 +1531,9 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 142,
+        "confirmed": 144,
         "deaths": 1,
-        "recovered": 117
+        "recovered": 121
     },
     {
         "Name": "Antigua and Barbuda",
