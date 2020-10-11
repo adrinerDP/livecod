@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7986050,219675,5124238
+미국,美国,United States,7986078,219675,5124331
 인도,印度,India,7119300,109184,6146427
-브라질,巴西,Brazil,5095586,150338,4453722
+브라질,巴西,Brazil,5095586,150488,4453722
 러시아,俄罗斯,Russia,1298718,22597,1020442
 콜롬비아,哥伦比亚,Colombia,902747,27660,783131
 스페인,西班牙,Spain,890367,32929,0
@@ -29,7 +29,7 @@ Ukraine,,Ukraine,261034,4972,113507
 벨기에,比利时,Belgium,156931,10175,20202
 루마니아,尼亚,Romania,155283,5411,117942
 모로코,摩洛哥,Morocco,152404,2605,127407
-에콰도르,厄瓜多尔,Ecuador,146828,12188,120511
+에콰도르,厄瓜多尔,Ecuador,147033,12191,128134
 Bolivia,,Bolivia,138463,8292,100786
 카타르,卡塔尔,Qatar,127778,219,124767
 폴란드,波兰,Poland,125816,3004,80302
@@ -47,8 +47,8 @@ Guatemala,,Guatemala,97715,3384,86582
 일본,日本,Japan,88912,1627,81824
 코스타리카,哥斯达黎加,Costa Rica,87439,1076,52669
 포르투갈,葡萄牙,Portugal,86664,2080,53187
+Ethiopia,,Ethiopia,84295,1287,38316
 벨라루스,白俄罗斯,Belarus,83534,896,77220
-Ethiopia,,Ethiopia,83429,1277,37683
 Honduras,,Honduras,83146,2504,31931
 Venezuela,,Venezuela,82453,691,73919
 바레인,巴林,Bahrain,75287,273,70808
@@ -89,11 +89,11 @@ Ivory Coast,,Ivory Coast,20154,120,19798
 Madagascar,,Madagascar,16718,237,16042
 말레이시아,马来西亚,Malaysia,15657,157,10913
 노르웨이,挪威,Norway,15506,275,11863
-Zambia,,Zambia,15415,337,14541
+Zambia,,Zambia,15458,337,14599
 Albania,,Albania,15399,420,9500
 세네갈,塞内加尔,Senegal,15268,314,13297
 Montenegro,,Montenegro,13869,202,9620
-Sudan,,Sudan,13670,836,6764
+Sudan,,Sudan,13673,836,6764
 핀란드,芬兰,Finland,11998,346,8500
 Namibia,,Namibia,11936,128,9817
 조지아,格鲁吉亚,Georgia,11794,85,6327
@@ -108,7 +108,7 @@ Uganda,,Uganda,9801,93,6109
 Haiti,,Haiti,8860,230,7104
 Gabon,,Gabon,8835,54,8189
 슬로베니아,斯洛文尼亚,Slovenia,8663,167,5182
-Zimbabwe,,Zimbabwe,8010,230,6492
+Zimbabwe,,Zimbabwe,8011,230,6504
 Jamaica,,Jamaica,7718,139,3162
 Mauritania,,Mauritania,7550,163,7266
 Cabo Verde,,Cabo Verde,7072,75,5981
@@ -139,7 +139,7 @@ Malta,,Malta,3776,41,2967
 태국,泰国,Thailand,3636,59,3451
 Gambia,,Gambia,3632,117,2543
 Iceland,,Iceland,3526,10,2499
-Guyana,,Guyana,3405,102,2304
+Guyana,,Guyana,3469,103,2318
 Mali,,Mali,3286,132,2527
 Botswana,,Botswana,3219,18,834
 South Sudan,,South Sudan,2777,55,1290
@@ -152,7 +152,7 @@ Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Sierra Leone,,Sierra Leone,2306,72,1736
 Burkina Faso,,Burkina Faso,2271,61,1542
 Uruguay,,Uruguay,2268,50,1930
-Yemen,,Yemen,2051,595,1329
+Yemen,,Yemen,2052,595,1329
 Cyprus,,Cyprus,2006,25,1444
 토고,多哥,Togo,1935,49,1444
 New Zealand,,New Zealand,1871,25,1801
