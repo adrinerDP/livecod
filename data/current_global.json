@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 289875,
+        "confirmed": 290003,
         "deaths": 1941,
-        "recovered": 225725
+        "recovered": 225926
     },
     {
         "Name": "Ukraine",
@@ -435,8 +435,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 60776,
-        "deaths": 502,
+        "confirmed": 60894,
+        "deaths": 503,
         "recovered": 57704
     },
     {
@@ -619,9 +619,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27261,
+        "confirmed": 27265,
         "deaths": 898,
-        "recovered": 24987
+        "recovered": 24998
     },
     {
         "Name": "Myanmar",
@@ -1179,9 +1179,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 2427,
-        "deaths": 35,
-        "recovered": 1487
+        "confirmed": 2496,
+        "deaths": 36,
+        "recovered": 1531
     },
     {
         "Name": "Benin",
