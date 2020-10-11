@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7949913,219304,5090255
+미국,美国,United States,7951493,219307,5090386
 인도,印度,India,7063955,108412,6087588
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1298718,22597,1020442
@@ -10,7 +10,7 @@ Argentina,,Argentina,883882,23581,709464
 멕시코,墨西哥,Mexico,814328,83642,591150
 프랑스,法国,France,718873,32637,100828
 남아프리카 공화국,南非共和国,South Africa,690896,17673,622153
-영국,英国,UK,590844,42760,0
+영국,英国,UK,603716,42825,0
 이란,伊朗,Iran,500075,28544,406389
 칠레,智利,Chile,481371,13318,453352
 이라크,伊拉克,Iraq,402330,9852,336157
@@ -92,12 +92,12 @@ Madagascar,,Madagascar,16718,237,16042
 Zambia,,Zambia,15415,337,14541
 Albania,,Albania,15399,420,9500
 세네갈,塞内加尔,Senegal,15268,314,13297
+Montenegro,,Montenegro,13869,202,9620
 Sudan,,Sudan,13670,836,6764
-Montenegro,,Montenegro,13641,198,9429
 핀란드,芬兰,Finland,11998,346,8500
 Namibia,,Namibia,11936,128,9817
 조지아,格鲁吉亚,Georgia,11794,85,6327
-Guinea,,Guinea,10996,69,10304
+Guinea,,Guinea,11022,69,10324
 Maldives,,Maldives,10859,35,9683
 DRC,,DRC,10851,276,10242
 Tajikistan,,Tajikistan,10222,79,9058
@@ -116,7 +116,7 @@ Guadeloupe,,Guadeloupe,6483,77,2199
 Angola,,Angola,6246,218,2716
 Lithuania,,Lithuania,6122,103,2777
 Cuba,,Cuba,5978,123,5540
-Malawi,,Malawi,5821,180,4644
+Malawi,,Malawi,5821,180,4647
 Eswatini,,Eswatini,5660,113,5282
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225

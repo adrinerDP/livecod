@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7949913,
-        "deaths": 219304,
-        "recovered": 5090255
+        "confirmed": 7951493,
+        "deaths": 219307,
+        "recovered": 5090386
     },
     {
         "Name": "인도",
@@ -91,8 +91,8 @@
         "Name": "영국",
         "Name_ch": "英国",
         "Name_en": "UK",
-        "confirmed": 590844,
-        "deaths": 42760,
+        "confirmed": 603716,
+        "deaths": 42825,
         "recovered": 0
     },
     {
@@ -744,20 +744,20 @@
         "recovered": 13297
     },
     {
+        "Name": "Montenegro",
+        "Name_ch": "",
+        "Name_en": "Montenegro",
+        "confirmed": 13869,
+        "deaths": 202,
+        "recovered": 9620
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "confirmed": 13670,
         "deaths": 836,
         "recovered": 6764
-    },
-    {
-        "Name": "Montenegro",
-        "Name_ch": "",
-        "Name_en": "Montenegro",
-        "confirmed": 13641,
-        "deaths": 198,
-        "recovered": 9429
     },
     {
         "Name": "핀란드",
@@ -787,9 +787,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 10996,
+        "confirmed": 11022,
         "deaths": 69,
-        "recovered": 10304
+        "recovered": 10324
     },
     {
         "Name": "Maldives",
@@ -941,7 +941,7 @@
         "Name_en": "Malawi",
         "confirmed": 5821,
         "deaths": 180,
-        "recovered": 4644
+        "recovered": 4647
     },
     {
         "Name": "Eswatini",
