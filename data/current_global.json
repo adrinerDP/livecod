@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7989637,
-        "deaths": 219686,
-        "recovered": 5125101
+        "confirmed": 7990457,
+        "deaths": 219693,
+        "recovered": 5126351
     },
     {
         "Name": "인도",
@@ -275,9 +275,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 119666,
-        "deaths": 2482,
-        "recovered": 95552
+        "confirmed": 120313,
+        "deaths": 2491,
+        "recovered": 96164
     },
     {
         "Name": "도미니카 공화국",
@@ -291,8 +291,8 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 116420,
-        "deaths": 982,
+        "confirmed": 117110,
+        "deaths": 987,
         "recovered": 54980
     },
     {
@@ -496,20 +496,20 @@
         "recovered": 37170
     },
     {
+        "Name": "Paraguay",
+        "Name_ch": "",
+        "Name_en": "Paraguay",
+        "confirmed": 49675,
+        "deaths": 1077,
+        "recovered": 32090
+    },
+    {
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
         "confirmed": 49230,
         "deaths": 1085,
         "recovered": 44227
-    },
-    {
-        "Name": "Paraguay",
-        "Name_ch": "",
-        "Name_en": "Paraguay",
-        "confirmed": 48978,
-        "deaths": 1065,
-        "recovered": 31351
     },
     {
         "Name": "Ghana",
@@ -893,7 +893,7 @@
         "Name_en": "Mauritania",
         "confirmed": 7550,
         "deaths": 163,
-        "recovered": 7266
+        "recovered": 7274
     },
     {
         "Name": "Cabo Verde",
@@ -947,9 +947,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5660,
+        "confirmed": 5669,
         "deaths": 113,
-        "recovered": 5282
+        "recovered": 5310
     },
     {
         "Name": "Djibouti",
