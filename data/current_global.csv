@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7943576,219254,5085449
+미국,美国,United States,7945475,219282,5089825
 인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,377073,5500,291365
 파키스탄,巴基斯坦,Pakistan,318266,6558,303062
 이스라엘,以色列,Israel,289875,1941,225725
 Ukraine,,Ukraine,256266,4887,112570
-캐나다,加拿大,Canada,180142,9608,151345
+캐나다,加拿大,Canada,180179,9608,151357
 네덜란드,荷兰,Netherlands,168280,6567,0
 루마니아,尼亚,Romania,152403,5358,116628
 모로코,摩洛哥,Morocco,149841,2572,124854
@@ -87,7 +87,7 @@ Ivory Coast,,Ivory Coast,20128,120,19752
 크로아티아,克罗地亚,Croatia,19932,317,16953
 슬로바키아,斯洛伐克,Slovakia,18797,61,5553
 Madagascar,,Madagascar,16702,237,16012
-노르웨이,挪威,Norway,15452,275,11863
+노르웨이,挪威,Norway,15466,275,11863
 Zambia,,Zambia,15415,337,14541
 세네갈,塞内加尔,Senegal,15244,314,13198
 Albania,,Albania,15231,416,9406
@@ -108,7 +108,7 @@ Uganda,,Uganda,9701,93,6022
 Haiti,,Haiti,8860,230,7104
 Gabon,,Gabon,8835,54,8189
 슬로베니아,斯洛文尼亚,Slovenia,8252,167,5024
-Zimbabwe,,Zimbabwe,7994,229,6474
+Zimbabwe,,Zimbabwe,8010,230,6492
 Jamaica,,Jamaica,7559,138,3142
 Mauritania,,Mauritania,7550,163,7266
 Cabo Verde,,Cabo Verde,6913,74,5970
@@ -167,7 +167,7 @@ Sao Tome and Principe,,Sao Tome and Principe,922,15,890
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Sint Maarten,,Sint Maarten,703,22,622
 Channel Islands,,Channel Islands,699,48,623
-Turks and Caicos,,Turks and Caicos,695,6,672
+Turks and Caicos,,Turks and Caicos,696,6,672
 Curaçao,,Curaçao,571,1,308
 Papua New Guinea,,Papua New Guinea,549,7,532
 대만,台湾,Taiwan,527,7,488
@@ -198,7 +198,7 @@ St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,28
 Dominica,,Dominica,32,0,24
-Saint Lucia,,Saint Lucia,28,0,27
+Saint Lucia,,Saint Lucia,29,0,27
 Timor-Leste,,Timor-Leste,28,0,28
 New Caledonia,,New Caledonia,27,0,27
 Grenada,,Grenada,24,0,24
