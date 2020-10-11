@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7947549,
+        "confirmed": 7948365,
         "deaths": 219296,
         "recovered": 5090226
     },
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 400124,
-        "deaths": 9790,
-        "recovered": 332330
+        "confirmed": 402330,
+        "deaths": 9852,
+        "recovered": 336157
     },
     {
         "Name": "Bangladesh",
@@ -147,9 +147,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 338944,
-        "deaths": 5018,
-        "recovered": 324737
+        "confirmed": 339267,
+        "deaths": 5043,
+        "recovered": 325330
     },
     {
         "Name": "터키",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 323453,
-        "deaths": 9691,
+        "confirmed": 324259,
+        "deaths": 9697,
         "recovered": 273500
     },
     {
@@ -539,9 +539,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 41752,
-        "deaths": 608,
-        "recovered": 39235
+        "confirmed": 41982,
+        "deaths": 609,
+        "recovered": 39357
     },
     {
         "Name": "아일랜드",
@@ -555,9 +555,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 41158,
-        "deaths": 760,
-        "recovered": 31876
+        "confirmed": 41546,
+        "deaths": 766,
+        "recovered": 32000
     },
     {
         "Name": "아프가니스탄",
@@ -579,8 +579,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 34685,
-        "deaths": 762,
+        "confirmed": 34787,
+        "deaths": 763,
         "recovered": 31536
     },
     {
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15466,
+        "confirmed": 15506,
         "deaths": 275,
         "recovered": 11863
     },
@@ -1115,9 +1115,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3460,
+        "confirmed": 3526,
         "deaths": 10,
-        "recovered": 2466
+        "recovered": 2499
     },
     {
         "Name": "Guyana",
