@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 377073,
-        "deaths": 5500,
-        "recovered": 291365
+        "confirmed": 378266,
+        "deaths": 5524,
+        "recovered": 292860
     },
     {
         "Name": "이탈리아",
@@ -923,9 +923,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 5963,
+        "confirmed": 6122,
         "deaths": 103,
-        "recovered": 2751
+        "recovered": 2777
     },
     {
         "Name": "Cuba",
