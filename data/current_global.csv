@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7945505,219282,5089842
+미국,美国,United States,7945945,219291,5089933
 인도,印度,India,7053806,108371,6077976
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1298718,22597,1020442
@@ -11,7 +11,7 @@ Argentina,,Argentina,883882,23581,709464
 프랑스,法国,France,718873,32637,100828
 남아프리카 공화국,南非共和国,South Africa,690896,17673,622153
 영국,英国,UK,590844,42760,0
-이란,伊朗,Iran,496253,28293,403950
+이란,伊朗,Iran,500075,28544,406389
 칠레,智利,Chile,479595,13272,452054
 이라크,伊拉克,Iraq,400124,9790,332330
 Bangladesh,,Bangladesh,378266,5524,292860
@@ -64,17 +64,17 @@ Uzbekistan,,Uzbekistan,60894,503,57704
 Kyrgyzstan,,Kyrgyzstan,49230,1085,44227
 Paraguay,,Paraguay,48978,1065,31351
 Ghana,,Ghana,47005,306,46398
-팔레스타인,巴勒斯坦,Palestine,43945,378,37240
+팔레스타인,巴勒斯坦,Palestine,44299,381,37942
+Libya,,Libya,42712,631,24038
 아제르바이잔,阿塞拜疆,Azerbaijan,41752,608,39235
 아일랜드,冰岛,Ireland,41714,1824,23364
-Libya,,Libya,41686,623,23791
 Kenya,,Kenya,41158,760,31876
 아프가니스탄,阿富汗,Afghanistan,39799,1477,33114
 헝가리,匈牙利,Hungary,37664,954,10848
 세르비아,塞尔维亚,Serbia,34685,762,31536
 덴마크,丹麦,Denmark,32082,667,25987
 Tunisia,,Tunisia,31259,456,5032
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30345,927,23370
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30647,928,23461
 El Salvador,,El Salvador,30196,890,25438
 호주,澳大利亚,Australia,27265,898,24998
 Myanmar,,Myanmar,26064,598,7050
@@ -107,7 +107,7 @@ Uganda,,Uganda,9701,93,6022
 룩셈부르크,卢森堡,Luxembourg,9514,131,8038
 Haiti,,Haiti,8860,230,7104
 Gabon,,Gabon,8835,54,8189
-슬로베니아,斯洛文尼亚,Slovenia,8252,167,5024
+슬로베니아,斯洛文尼亚,Slovenia,8663,167,5182
 Zimbabwe,,Zimbabwe,8010,230,6492
 Jamaica,,Jamaica,7559,138,3142
 Mauritania,,Mauritania,7550,163,7266
@@ -161,7 +161,7 @@ Lesotho,,Lesotho,1800,42,926
 Liberia,,Liberia,1363,82,1245
 Chad,,Chad,1291,92,1103
 Niger,,Niger,1201,69,1123
-베트남,越南,Vietnam,1107,35,1024
+베트남,越南,Vietnam,1109,35,1024
 Sao Tome and Principe,,Sao Tome and Principe,922,15,890
 산마리노,圣马力诺,San Marino,741,42,682
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659

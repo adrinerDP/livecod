@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7945505,
-        "deaths": 219282,
-        "recovered": 5089842
+        "confirmed": 7945945,
+        "deaths": 219291,
+        "recovered": 5089933
     },
     {
         "Name": "인도",
@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 496253,
-        "deaths": 28293,
-        "recovered": 403950
+        "confirmed": 500075,
+        "deaths": 28544,
+        "recovered": 406389
     },
     {
         "Name": "칠레",
@@ -523,9 +523,17 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 43945,
-        "deaths": 378,
-        "recovered": 37240
+        "confirmed": 44299,
+        "deaths": 381,
+        "recovered": 37942
+    },
+    {
+        "Name": "Libya",
+        "Name_ch": "",
+        "Name_en": "Libya",
+        "confirmed": 42712,
+        "deaths": 631,
+        "recovered": 24038
     },
     {
         "Name": "아제르바이잔",
@@ -542,14 +550,6 @@
         "confirmed": 41714,
         "deaths": 1824,
         "recovered": 23364
-    },
-    {
-        "Name": "Libya",
-        "Name_ch": "",
-        "Name_en": "Libya",
-        "confirmed": 41686,
-        "deaths": 623,
-        "recovered": 23791
     },
     {
         "Name": "Kenya",
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 30345,
-        "deaths": 927,
-        "recovered": 23370
+        "confirmed": 30647,
+        "deaths": 928,
+        "recovered": 23461
     },
     {
         "Name": "El Salvador",
@@ -867,9 +867,9 @@
         "Name": "슬로베니아",
         "Name_ch": "斯洛文尼亚",
         "Name_en": "Slovenia",
-        "confirmed": 8252,
+        "confirmed": 8663,
         "deaths": 167,
-        "recovered": 5024
+        "recovered": 5182
     },
     {
         "Name": "Zimbabwe",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1107,
+        "confirmed": 1109,
         "deaths": 35,
         "recovered": 1024
     },
