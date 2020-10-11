@@ -269,7 +269,7 @@
         "Name_en": "Poland",
         "confirmed": 121638,
         "deaths": 2972,
-        "recovered": 78982
+        "recovered": 80302
     },
     {
         "Name": "Panama",
@@ -1072,20 +1072,20 @@
         "recovered": 2964
     },
     {
+        "Name": "에스토니아",
+        "Name_ch": "爱沙尼亚",
+        "Name_en": "Estonia",
+        "confirmed": 3865,
+        "deaths": 68,
+        "recovered": 2958
+    },
+    {
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
         "confirmed": 3847,
         "deaths": 99,
         "recovered": 3079
-    },
-    {
-        "Name": "에스토니아",
-        "Name_ch": "爱沙尼亚",
-        "Name_en": "Estonia",
-        "confirmed": 3846,
-        "deaths": 68,
-        "recovered": 2946
     },
     {
         "Name": "Malta",
