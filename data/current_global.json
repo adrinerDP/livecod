@@ -216,6 +216,14 @@
         "recovered": 0
     },
     {
+        "Name": "벨기에",
+        "Name_ch": "比利时",
+        "Name_en": "Belgium",
+        "confirmed": 156931,
+        "deaths": 10175,
+        "recovered": 20202
+    },
+    {
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
@@ -230,14 +238,6 @@
         "confirmed": 149841,
         "deaths": 2572,
         "recovered": 124854
-    },
-    {
-        "Name": "벨기에",
-        "Name_ch": "比利时",
-        "Name_en": "Belgium",
-        "confirmed": 148981,
-        "deaths": 10151,
-        "recovered": 20072
     },
     {
         "Name": "에콰도르",
@@ -1461,7 +1461,7 @@
         "Name_en": "Bhutan",
         "confirmed": 306,
         "deaths": 0,
-        "recovered": 282
+        "recovered": 287
     },
     {
         "Name": "캄보디아",
