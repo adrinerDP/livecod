@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 290003,
-        "deaths": 1941,
-        "recovered": 225926
+        "confirmed": 290079,
+        "deaths": 1956,
+        "recovered": 225929
     },
     {
         "Name": "Ukraine",
@@ -227,9 +227,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 152403,
-        "deaths": 5358,
-        "recovered": 116628
+        "confirmed": 155283,
+        "deaths": 5411,
+        "recovered": 117942
     },
     {
         "Name": "모로코",
@@ -315,17 +315,25 @@
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
-        "confirmed": 105684,
-        "deaths": 614,
-        "recovered": 74252
+        "confirmed": 107755,
+        "deaths": 636,
+        "recovered": 75804
     },
     {
         "Name": "아랍에미리트",
         "Name_ch": "阿拉伯联合酋长国",
         "Name_en": "UAE",
-        "confirmed": 105133,
-        "deaths": 443,
-        "recovered": 95973
+        "confirmed": 106229,
+        "deaths": 445,
+        "recovered": 97284
+    },
+    {
+        "Name": "오만",
+        "Name_ch": "阿曼",
+        "Name_en": "Oman",
+        "confirmed": 105890,
+        "deaths": 1038,
+        "recovered": 92840
     },
     {
         "Name": "이집트",
@@ -334,14 +342,6 @@
         "confirmed": 104387,
         "deaths": 6040,
         "recovered": 97643
-    },
-    {
-        "Name": "오만",
-        "Name_ch": "阿曼",
-        "Name_en": "Oman",
-        "confirmed": 104129,
-        "deaths": 1009,
-        "recovered": 91731
     },
     {
         "Name": "스웨덴",
@@ -699,9 +699,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16702,
+        "confirmed": 16718,
         "deaths": 237,
-        "recovered": 16012
+        "recovered": 16042
     },
     {
         "Name": "말레이시아",
@@ -731,9 +731,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 15244,
+        "confirmed": 15268,
         "deaths": 314,
-        "recovered": 13198
+        "recovered": 13297
     },
     {
         "Name": "Albania",
@@ -1045,7 +1045,7 @@
         "Name_en": "Sri Lanka",
         "confirmed": 4628,
         "deaths": 13,
-        "recovered": 3306
+        "recovered": 3307
     },
     {
         "Name": "Réunion",
