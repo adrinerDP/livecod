@@ -704,6 +704,14 @@
         "recovered": 16012
     },
     {
+        "Name": "말레이시아",
+        "Name_ch": "马来西亚",
+        "Name_en": "Malaysia",
+        "confirmed": 15657,
+        "deaths": 157,
+        "recovered": 10913
+    },
+    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
@@ -734,14 +742,6 @@
         "confirmed": 15231,
         "deaths": 416,
         "recovered": 9406
-    },
-    {
-        "Name": "말레이시아",
-        "Name_ch": "马来西亚",
-        "Name_en": "Malaysia",
-        "confirmed": 15096,
-        "deaths": 155,
-        "recovered": 10780
     },
     {
         "Name": "Sudan",
@@ -971,9 +971,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5176,
+        "confirmed": 5183,
         "deaths": 105,
-        "recovered": 4914
+        "recovered": 4919
     },
     {
         "Name": "Congo",
@@ -1091,9 +1091,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 3681,
+        "confirmed": 3776,
         "deaths": 41,
-        "recovered": 2937
+        "recovered": 2967
     },
     {
         "Name": "태국",
@@ -1400,20 +1400,20 @@
         "recovered": 475
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 485,
+        "deaths": 0,
+        "recovered": 413
+    },
+    {
         "Name": "Faeroe Islands",
         "Name_ch": "",
         "Name_en": "Faeroe Islands",
         "confirmed": 477,
         "deaths": 0,
         "recovered": 461
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 476,
-        "deaths": 0,
-        "recovered": 405
     },
     {
         "Name": "Saint Martin",
