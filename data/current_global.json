@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7942515,
-        "deaths": 219247,
-        "recovered": 5084863
+        "confirmed": 7943576,
+        "deaths": 219254,
+        "recovered": 5085449
     },
     {
         "Name": "인도",
@@ -1003,9 +1003,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 5018,
-        "deaths": 106,
-        "recovered": 4816
+        "confirmed": 5035,
+        "deaths": 107,
+        "recovered": 4830
     },
     {
         "Name": "Bahamas",
@@ -1027,9 +1027,9 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4853,
+        "confirmed": 4854,
         "deaths": 62,
-        "recovered": 1914
+        "recovered": 1924
     },
     {
         "Name": "Syria",
@@ -1208,20 +1208,20 @@
         "recovered": 1725
     },
     {
+        "Name": "Burkina Faso",
+        "Name_ch": "",
+        "Name_en": "Burkina Faso",
+        "confirmed": 2271,
+        "deaths": 61,
+        "recovered": 1542
+    },
+    {
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
         "confirmed": 2268,
         "deaths": 50,
         "recovered": 1930
-    },
-    {
-        "Name": "Burkina Faso",
-        "Name_ch": "",
-        "Name_en": "Burkina Faso",
-        "confirmed": 2254,
-        "deaths": 60,
-        "recovered": 1516
     },
     {
         "Name": "Yemen",
@@ -1235,9 +1235,9 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 1984,
+        "confirmed": 1986,
         "deaths": 25,
-        "recovered": 1369
+        "recovered": 1444
     },
     {
         "Name": "토고",
@@ -1483,7 +1483,7 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 220,
+        "confirmed": 221,
         "deaths": 1,
         "recovered": 211
     },

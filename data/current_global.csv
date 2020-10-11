@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7942515,219247,5084863
+미국,美国,United States,7943576,219254,5085449
 인도,印度,India,7051543,108371,6074863
 브라질,巴西,Brazil,5091840,150236,4453722
 러시아,俄罗斯,Russia,1285084,22454,1016202
@@ -124,10 +124,10 @@ Nicaragua,,Nicaragua,5264,153,4225
 Congo,,Congo,5118,90,3887
 Equatorial Guinea,,Equatorial Guinea,5063,83,4894
 Trinidad and Tobago,,Trinidad and Tobago,5043,90,3221
-Suriname,,Suriname,5018,106,4816
+Suriname,,Suriname,5035,107,4830
 Bahamas,,Bahamas,4955,106,2724
 Rwanda,,Rwanda,4892,30,3566
-CAR,,CAR,4853,62,1914
+CAR,,CAR,4854,62,1924
 Syria,,Syria,4673,221,1271
 스리랑카,斯里兰卡,Sri Lanka,4628,13,3306
 Réunion,,Réunion,4491,16,3994
@@ -150,10 +150,10 @@ Belize,,Belize,2427,35,1487
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
 Sierra Leone,,Sierra Leone,2300,72,1725
+Burkina Faso,,Burkina Faso,2271,61,1542
 Uruguay,,Uruguay,2268,50,1930
-Burkina Faso,,Burkina Faso,2254,60,1516
 Yemen,,Yemen,2051,595,1329
-Cyprus,,Cyprus,1984,25,1369
+Cyprus,,Cyprus,1986,25,1444
 토고,多哥,Togo,1935,49,1444
 New Zealand,,New Zealand,1870,25,1801
 Martinique,,Martinique,1851,22,98
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,315,0,310
 부탄,不丹,Bhutan,306,0,282
 캄보디아,柬埔寨,Cambodia,283,0,277
 모나코,摩纳哥,Monaco,233,2,209
-Cayman Islands,,Cayman Islands,220,1,211
+Cayman Islands,,Cayman Islands,221,1,211
 Barbados,,Barbados,206,7,183
 Bermuda,,Bermuda,184,9,170
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78
