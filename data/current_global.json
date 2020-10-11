@@ -136,20 +136,20 @@
         "recovered": 238525
     },
     {
+        "Name": "필리핀",
+        "Name_ch": "菲律宾",
+        "Name_en": "Philippines",
+        "confirmed": 339341,
+        "deaths": 6321,
+        "recovered": 293075
+    },
+    {
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
         "confirmed": 338944,
         "deaths": 5018,
         "recovered": 324737
-    },
-    {
-        "Name": "필리핀",
-        "Name_ch": "菲律宾",
-        "Name_en": "Philippines",
-        "confirmed": 336926,
-        "deaths": 6238,
-        "recovered": 276094
     },
     {
         "Name": "터키",
@@ -163,9 +163,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 328952,
-        "deaths": 11765,
-        "recovered": 251481
+        "confirmed": 333449,
+        "deaths": 11844,
+        "recovered": 255027
     },
     {
         "Name": "독일",
@@ -403,9 +403,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 82471,
-        "deaths": 885,
-        "recovered": 76543
+        "confirmed": 83023,
+        "deaths": 891,
+        "recovered": 76983
     },
     {
         "Name": "Venezuela",
@@ -672,6 +672,14 @@
         "recovered": 16099
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 20440,
+        "deaths": 324,
+        "recovered": 17298
+    },
+    {
         "Name": "Ivory Coast",
         "Name_ch": "",
         "Name_en": "Ivory Coast",
@@ -680,20 +688,12 @@
         "recovered": 19752
     },
     {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 19932,
-        "deaths": 317,
-        "recovered": 16953
-    },
-    {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 18797,
+        "confirmed": 19851,
         "deaths": 61,
-        "recovered": 5553
+        "recovered": 5631
     },
     {
         "Name": "Madagascar",
@@ -803,7 +803,7 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10841,
+        "confirmed": 10851,
         "deaths": 276,
         "recovered": 10242
     },
@@ -1707,7 +1707,7 @@
         "Name": "Solomon Islands",
         "Name_ch": "",
         "Name_en": "Solomon Islands",
-        "confirmed": 1,
+        "confirmed": 2,
         "deaths": 0,
         "recovered": 0
     },
