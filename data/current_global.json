@@ -563,9 +563,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39703,
-        "deaths": 1473,
-        "recovered": 33064
+        "confirmed": 39799,
+        "deaths": 1477,
+        "recovered": 33114
     },
     {
         "Name": "헝가리",
@@ -779,9 +779,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 11271,
-        "deaths": 78,
-        "recovered": 6119
+        "confirmed": 11794,
+        "deaths": 85,
+        "recovered": 6327
     },
     {
         "Name": "Guinea",
@@ -1171,7 +1171,7 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 2596,
+        "confirmed": 2670,
         "deaths": 40,
         "recovered": 1322
     },
