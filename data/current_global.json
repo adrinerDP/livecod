@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7988448,
-        "deaths": 219684,
-        "recovered": 5124756
+        "confirmed": 7989637,
+        "deaths": 219686,
+        "recovered": 5125101
     },
     {
         "Name": "인도",
@@ -40,20 +40,20 @@
         "recovered": 789787
     },
     {
+        "Name": "Argentina",
+        "Name_ch": "",
+        "Name_en": "Argentina",
+        "confirmed": 894206,
+        "deaths": 23868,
+        "recovered": 721380
+    },
+    {
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
         "confirmed": 890367,
         "deaths": 32929,
         "recovered": 0
-    },
-    {
-        "Name": "Argentina",
-        "Name_ch": "",
-        "Name_en": "Argentina",
-        "confirmed": 883882,
-        "deaths": 23581,
-        "recovered": 709464
     },
     {
         "Name": "페루",
@@ -451,9 +451,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 60103,
+        "confirmed": 60266,
         "deaths": 1115,
-        "recovered": 51711
+        "recovered": 51735
     },
     {
         "Name": "싱가포르",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15506,
+        "confirmed": 15524,
         "deaths": 275,
         "recovered": 11863
     },
@@ -851,7 +851,7 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8860,
+        "confirmed": 8882,
         "deaths": 230,
         "recovered": 7104
     },
@@ -1208,20 +1208,20 @@
         "recovered": 1736
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 2294,
+        "deaths": 50,
+        "recovered": 1942
+    },
+    {
         "Name": "Burkina Faso",
         "Name_ch": "",
         "Name_en": "Burkina Faso",
         "confirmed": 2271,
         "deaths": 61,
         "recovered": 1542
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 2268,
-        "deaths": 50,
-        "recovered": 1930
     },
     {
         "Name": "Yemen",
