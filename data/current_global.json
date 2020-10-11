@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7982885,
-        "deaths": 219637,
-        "recovered": 5122942
+        "confirmed": 7985011,
+        "deaths": 219672,
+        "recovered": 5124391
     },
     {
         "Name": "인도",
@@ -83,9 +83,9 @@
         "Name": "남아프리카 공화국",
         "Name_ch": "南非共和国",
         "Name_en": "South Africa",
-        "confirmed": 690896,
-        "deaths": 17673,
-        "recovered": 622153
+        "confirmed": 692471,
+        "deaths": 17780,
+        "recovered": 623765
     },
     {
         "Name": "영국",
@@ -1043,9 +1043,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4673,
-        "deaths": 221,
-        "recovered": 1271
+        "confirmed": 4718,
+        "deaths": 224,
+        "recovered": 1296
     },
     {
         "Name": "Réunion",
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4188,
-        "deaths": 32,
-        "recovered": 3753
+        "confirmed": 4194,
+        "deaths": 33,
+        "recovered": 3768
     },
     {
         "Name": "Mayotte",
