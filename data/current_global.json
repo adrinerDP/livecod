@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7977660,
-        "deaths": 219600,
-        "recovered": 5119331
+        "confirmed": 7982885,
+        "deaths": 219637,
+        "recovered": 5122942
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7079426,
-        "deaths": 108573,
-        "recovered": 6104199
+        "confirmed": 7118770,
+        "deaths": 109179,
+        "recovered": 6145918
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 325039,
-        "deaths": 9699,
+        "confirmed": 326291,
+        "deaths": 9702,
         "recovered": 273500
     },
     {
@@ -291,7 +291,7 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 114547,
+        "confirmed": 116420,
         "deaths": 982,
         "recovered": 54980
     },
@@ -915,9 +915,9 @@
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
-        "confirmed": 6246,
+        "confirmed": 6366,
         "deaths": 218,
-        "recovered": 2716
+        "recovered": 2743
     },
     {
         "Name": "Lithuania",
@@ -1475,7 +1475,7 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 233,
+        "confirmed": 234,
         "deaths": 2,
         "recovered": 209
     },
