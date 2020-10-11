@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7945945,
-        "deaths": 219291,
-        "recovered": 5089933
+        "confirmed": 7947549,
+        "deaths": 219296,
+        "recovered": 5090226
     },
     {
         "Name": "인도",
@@ -211,8 +211,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 168280,
-        "deaths": 6567,
+        "confirmed": 174653,
+        "deaths": 6584,
         "recovered": 0
     },
     {
@@ -299,9 +299,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 110568,
-        "deaths": 655,
-        "recovered": 102722
+        "confirmed": 111116,
+        "deaths": 658,
+        "recovered": 103268
     },
     {
         "Name": "Kazakhstan",
@@ -587,9 +587,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 32082,
-        "deaths": 667,
-        "recovered": 25987
+        "confirmed": 32422,
+        "deaths": 669,
+        "recovered": 26380
     },
     {
         "Name": "Tunisia",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10180,
+        "confirmed": 10222,
         "deaths": 79,
-        "recovered": 9006
+        "recovered": 9058
     },
     {
         "Name": "French Guiana",
@@ -1363,7 +1363,7 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 549,
+        "confirmed": 554,
         "deaths": 7,
         "recovered": 532
     },
