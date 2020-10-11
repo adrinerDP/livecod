@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7986903,
-        "deaths": 219676,
-        "recovered": 5124660
+        "confirmed": 7988448,
+        "deaths": 219684,
+        "recovered": 5124756
     },
     {
         "Name": "인도",
@@ -35,9 +35,9 @@
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
-        "confirmed": 902747,
-        "deaths": 27660,
-        "recovered": 783131
+        "confirmed": 911316,
+        "deaths": 27834,
+        "recovered": 789787
     },
     {
         "Name": "스페인",
@@ -259,9 +259,9 @@
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
-        "confirmed": 127778,
-        "deaths": 219,
-        "recovered": 124767
+        "confirmed": 127985,
+        "deaths": 220,
+        "recovered": 124978
     },
     {
         "Name": "폴란드",
@@ -339,9 +339,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 104387,
-        "deaths": 6040,
-        "recovered": 97643
+        "confirmed": 104516,
+        "deaths": 6052,
+        "recovered": 97688
     },
     {
         "Name": "스웨덴",
@@ -419,9 +419,9 @@
         "Name": "바레인",
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
-        "confirmed": 75287,
-        "deaths": 273,
-        "recovered": 70808
+        "confirmed": 75614,
+        "deaths": 275,
+        "recovered": 71249
     },
     {
         "Name": "Moldova",
@@ -584,20 +584,20 @@
         "recovered": 31536
     },
     {
+        "Name": "Tunisia",
+        "Name_ch": "",
+        "Name_en": "Tunisia",
+        "confirmed": 32556,
+        "deaths": 478,
+        "recovered": 5032
+    },
+    {
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
         "confirmed": 32422,
         "deaths": 669,
         "recovered": 26380
-    },
-    {
-        "Name": "Tunisia",
-        "Name_ch": "",
-        "Name_en": "Tunisia",
-        "confirmed": 31259,
-        "deaths": 456,
-        "recovered": 5032
     },
     {
         "Name": "보스니아 헤르체고비나",
