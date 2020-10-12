@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 75614,
-        "deaths": 275,
+        "deaths": 277,
         "recovered": 71249
     },
     {
@@ -475,9 +475,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 55319,
-        "deaths": 851,
-        "recovered": 43448
+        "confirmed": 56298,
+        "deaths": 855,
+        "recovered": 44065
     },
     {
         "Name": "레바논",
@@ -923,9 +923,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 6122,
+        "confirmed": 6248,
         "deaths": 103,
-        "recovered": 2777
+        "recovered": 2793
     },
     {
         "Name": "Cuba",
