@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8002384,
-        "deaths": 219802,
+        "confirmed": 8003660,
+        "deaths": 219805,
         "recovered": 5138536
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7172460,
-        "deaths": 109879,
-        "recovered": 6223231
+        "confirmed": 7172559,
+        "deaths": 109881,
+        "recovered": 6223372
     },
     {
         "Name": "브라질",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 329143,
+        "confirmed": 329510,
         "deaths": 9711,
         "recovered": 276900
     },
@@ -203,9 +203,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 182707,
+        "confirmed": 182708,
         "deaths": 9625,
-        "recovered": 154237
+        "recovered": 154238
     },
     {
         "Name": "네덜란드",
@@ -235,9 +235,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 152404,
-        "deaths": 2605,
-        "recovered": 127407
+        "confirmed": 153761,
+        "deaths": 2636,
+        "recovered": 129498
     },
     {
         "Name": "에콰도르",
@@ -819,17 +819,17 @@
         "Name": "French Guiana",
         "Name_ch": "",
         "Name_en": "French Guiana",
-        "confirmed": 10144,
+        "confirmed": 10180,
         "deaths": 69,
-        "recovered": 9834
+        "recovered": 9855
     },
     {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
-        "confirmed": 10001,
-        "deaths": 71,
-        "recovered": 7338
+        "confirmed": 10088,
+        "deaths": 72,
+        "recovered": 7550
     },
     {
         "Name": "Uganda",
@@ -947,9 +947,9 @@
         "Name": "Eswatini",
         "Name_ch": "",
         "Name_en": "Eswatini",
-        "confirmed": 5669,
+        "confirmed": 5683,
         "deaths": 113,
-        "recovered": 5310
+        "recovered": 5322
     },
     {
         "Name": "Djibouti",

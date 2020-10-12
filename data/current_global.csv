@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8002384,219802,5138536
-인도,印度,India,7172460,109879,6223231
+미국,美国,United States,8003660,219805,5138536
+인도,印度,India,7172559,109881,6223372
 브라질,巴西,Brazil,5096209,150555,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
 콜롬비아,哥伦比亚,Colombia,911316,27834,789787
@@ -20,15 +20,15 @@ Bangladesh,,Bangladesh,379738,5555,294391
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339615,5068,325839
 터키,土耳其,Turkey,337147,8895,295658
 인도네시아,印度尼西亚,Indonesia,336716,11935,258519
-독일,德国,Germany,329143,9711,276900
+독일,德国,Germany,329510,9711,276900
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
 이스라엘,以色列,Israel,293553,2016,238643
 Ukraine,,Ukraine,265454,5015,114410
-캐나다,加拿大,Canada,182707,9625,154237
+캐나다,加拿大,Canada,182708,9625,154238
 네덜란드,荷兰,Netherlands,181498,6596,0
 벨기에,比利时,Belgium,162258,10191,20272
 루마니아,尼亚,Romania,157352,5467,118912
-모로코,摩洛哥,Morocco,152404,2605,127407
+모로코,摩洛哥,Morocco,153761,2636,129498
 에콰도르,厄瓜多尔,Ecuador,147033,12191,128134
 Bolivia,,Bolivia,138574,8308,101103
 폴란드,波兰,Poland,130210,3039,81201
@@ -101,8 +101,8 @@ Guinea,,Guinea,11022,69,10324
 Maldives,,Maldives,10894,35,9742
 DRC,,DRC,10868,276,10249
 Tajikistan,,Tajikistan,10260,79,9103
-French Guiana,,French Guiana,10144,69,9834
-Mozambique,,Mozambique,10001,71,7338
+French Guiana,,French Guiana,10180,69,9855
+Mozambique,,Mozambique,10088,72,7550
 Uganda,,Uganda,9864,94,6109
 룩셈부르크,卢森堡,Luxembourg,9731,133,8234
 Haiti,,Haiti,8882,230,7104
@@ -117,7 +117,7 @@ Angola,,Angola,6366,218,2743
 Lithuania,,Lithuania,6248,103,2793
 Cuba,,Cuba,6000,123,5574
 Malawi,,Malawi,5821,180,4647
-Eswatini,,Eswatini,5669,113,5310
+Eswatini,,Eswatini,5683,113,5322
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5194,105,4921
