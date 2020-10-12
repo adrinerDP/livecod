@@ -428,7 +428,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 64436,
-        "deaths": 2091,
+        "deaths": 2092,
         "recovered": 48400
     },
     {
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1109,
+        "confirmed": 1110,
         "deaths": 35,
-        "recovered": 1024
+        "recovered": 1025
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1512,6 +1512,14 @@
         "recovered": 78
     },
     {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "confirmed": 148,
+        "deaths": 1,
+        "recovered": 124
+    },
+    {
         "Name": "Seychelles",
         "Name_ch": "",
         "Name_en": "Seychelles",
@@ -1526,14 +1534,6 @@
         "confirmed": 146,
         "deaths": 3,
         "recovered": 143
-    },
-    {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "confirmed": 144,
-        "deaths": 1,
-        "recovered": 121
     },
     {
         "Name": "Antigua and Barbuda",
