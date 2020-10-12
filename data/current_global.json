@@ -403,9 +403,9 @@
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
-        "confirmed": 83534,
-        "deaths": 896,
-        "recovered": 77220
+        "confirmed": 83998,
+        "deaths": 901,
+        "recovered": 77423
     },
     {
         "Name": "Venezuela",
@@ -584,20 +584,20 @@
         "recovered": 31536
     },
     {
+        "Name": "덴마크",
+        "Name_ch": "丹麦",
+        "Name_en": "Denmark",
+        "confirmed": 32811,
+        "deaths": 671,
+        "recovered": 26741
+    },
+    {
         "Name": "Tunisia",
         "Name_ch": "",
         "Name_en": "Tunisia",
         "confirmed": 32556,
         "deaths": 478,
         "recovered": 5032
-    },
-    {
-        "Name": "덴마크",
-        "Name_ch": "丹麦",
-        "Name_en": "Denmark",
-        "confirmed": 32422,
-        "deaths": 669,
-        "recovered": 26380
     },
     {
         "Name": "보스니아 헤르체고비나",
@@ -699,9 +699,9 @@
         "Name": "Madagascar",
         "Name_ch": "",
         "Name_en": "Madagascar",
-        "confirmed": 16718,
+        "confirmed": 16726,
         "deaths": 237,
-        "recovered": 16042
+        "recovered": 16081
     },
     {
         "Name": "말레이시아",
@@ -712,20 +712,20 @@
         "recovered": 11022
     },
     {
+        "Name": "Zambia",
+        "Name_ch": "",
+        "Name_en": "Zambia",
+        "confirmed": 15549,
+        "deaths": 345,
+        "recovered": 14682
+    },
+    {
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "confirmed": 15524,
-        "deaths": 275,
+        "deaths": 276,
         "recovered": 11863
-    },
-    {
-        "Name": "Zambia",
-        "Name_ch": "",
-        "Name_en": "Zambia",
-        "confirmed": 15458,
-        "deaths": 337,
-        "recovered": 14599
     },
     {
         "Name": "Albania",
