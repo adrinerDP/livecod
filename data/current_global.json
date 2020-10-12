@@ -219,9 +219,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 156931,
-        "deaths": 10175,
-        "recovered": 20202
+        "confirmed": 162258,
+        "deaths": 10191,
+        "recovered": 20272
     },
     {
         "Name": "루마니아",
@@ -307,9 +307,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108757,
+        "confirmed": 108831,
         "deaths": 1746,
-        "recovered": 103980
+        "recovered": 104041
     },
     {
         "Name": "네팔",
@@ -1179,9 +1179,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 2496,
-        "deaths": 36,
-        "recovered": 1531
+        "confirmed": 2531,
+        "deaths": 37,
+        "recovered": 1548
     },
     {
         "Name": "Benin",
