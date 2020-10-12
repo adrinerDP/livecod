@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8034822,219998,5168919
+미국,美国,United States,8035385,220005,5174279
 인도,印度,India,7173345,109894,6224621
 브라질,巴西,Brazil,5103408,150689,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
 스페인,西班牙,Spain,918223,33124,0
-Argentina,,Argentina,894206,23868,721380
+Argentina,,Argentina,903730,24186,732582
 페루,秘鲁,Peru,849371,33305,743969
 멕시코,墨西哥,Mexico,817503,83781,594180
 프랑스,法国,France,743479,32779,100828
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,83137,697,74664
 스위스,瑞士,Switzerland,64436,2096,49500
 Moldova,,Moldova,62618,1478,44728
 Uzbekistan,,Uzbekistan,61319,509,58306
-나이지리아,尼日利亚,Nigeria,60266,1115,51735
+나이지리아,尼日利亚,Nigeria,60430,1115,51943
 싱가포르,新加坡,Singapore,57880,28,57728
 아르메니아,亚美尼亚,Armenia,56821,1026,45891
 오스트리아,奥地利,Austria,56298,855,44065
@@ -88,7 +88,7 @@ North Macedonia,,North Macedonia,21113,797,16301
 Ivory Coast,,Ivory Coast,20155,120,19831
 Madagascar,,Madagascar,16726,237,16081
 말레이시아,马来西亚,Malaysia,16220,159,11022
-노르웨이,挪威,Norway,15585,276,11863
+노르웨이,挪威,Norway,15639,276,11863
 Albania,,Albania,15570,424,9585
 Zambia,,Zambia,15549,345,14682
 세네갈,塞内加尔,Senegal,15292,315,13390
@@ -110,7 +110,7 @@ Gabon,,Gabon,8860,54,8298
 슬로베니아,斯洛文尼亚,Slovenia,8832,169,5219
 Zimbabwe,,Zimbabwe,8021,230,7627
 Jamaica,,Jamaica,7813,146,3237
-Mauritania,,Mauritania,7550,163,7274
+Mauritania,,Mauritania,7554,163,7297
 Cabo Verde,,Cabo Verde,7155,75,6075
 Angola,,Angola,6488,219,2744
 Guadeloupe,,Guadeloupe,6483,77,2199
@@ -142,15 +142,15 @@ Iceland,,Iceland,3582,10,2550
 Guyana,,Guyana,3521,104,2391
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3296,132,2533
+안도라,安道尔,Andorra,2995,57,1928
 South Sudan,,South Sudan,2787,55,1290
 라트비아,约旦,Latvia,2765,40,1325
 French Polynesia,,French Polynesia,2754,10,2019
-안도라,安道尔,Andorra,2696,55,1814
 Belize,,Belize,2531,37,1548
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
+Uruguay,,Uruguay,2313,51,1950
 Sierra Leone,,Sierra Leone,2306,72,1736
-Uruguay,,Uruguay,2294,50,1942
 Burkina Faso,,Burkina Faso,2280,63,1554
 Yemen,,Yemen,2052,596,1329
 Cyprus,,Cyprus,2047,25,1444

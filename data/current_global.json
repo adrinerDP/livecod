@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8034822,
-        "deaths": 219998,
-        "recovered": 5168919
+        "confirmed": 8035385,
+        "deaths": 220005,
+        "recovered": 5174279
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 894206,
-        "deaths": 23868,
-        "recovered": 721380
+        "confirmed": 903730,
+        "deaths": 24186,
+        "recovered": 732582
     },
     {
         "Name": "페루",
@@ -451,9 +451,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 60266,
+        "confirmed": 60430,
         "deaths": 1115,
-        "recovered": 51735
+        "recovered": 51943
     },
     {
         "Name": "싱가포르",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15585,
+        "confirmed": 15639,
         "deaths": 276,
         "recovered": 11863
     },
@@ -891,9 +891,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7550,
+        "confirmed": 7554,
         "deaths": 163,
-        "recovered": 7274
+        "recovered": 7297
     },
     {
         "Name": "Cabo Verde",
@@ -1144,6 +1144,14 @@
         "recovered": 2533
     },
     {
+        "Name": "안도라",
+        "Name_ch": "安道尔",
+        "Name_en": "Andorra",
+        "confirmed": 2995,
+        "deaths": 57,
+        "recovered": 1928
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
@@ -1166,14 +1174,6 @@
         "confirmed": 2754,
         "deaths": 10,
         "recovered": 2019
-    },
-    {
-        "Name": "안도라",
-        "Name_ch": "安道尔",
-        "Name_en": "Andorra",
-        "confirmed": 2696,
-        "deaths": 55,
-        "recovered": 1814
     },
     {
         "Name": "Belize",
@@ -1200,20 +1200,20 @@
         "recovered": 1728
     },
     {
+        "Name": "Uruguay",
+        "Name_ch": "",
+        "Name_en": "Uruguay",
+        "confirmed": 2313,
+        "deaths": 51,
+        "recovered": 1950
+    },
+    {
         "Name": "Sierra Leone",
         "Name_ch": "",
         "Name_en": "Sierra Leone",
         "confirmed": 2306,
         "deaths": 72,
         "recovered": 1736
-    },
-    {
-        "Name": "Uruguay",
-        "Name_ch": "",
-        "Name_en": "Uruguay",
-        "confirmed": 2294,
-        "deaths": 50,
-        "recovered": 1942
     },
     {
         "Name": "Burkina Faso",
