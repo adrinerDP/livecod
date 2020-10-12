@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8029451,219972,5166131
+미국,美国,United States,8032308,219992,5168014
 인도,印度,India,7173345,109894,6224621
 브라질,巴西,Brazil,5103408,150689,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
@@ -79,7 +79,7 @@ El Salvador,,El Salvador,30196,894,25438
 Myanmar,,Myanmar,29314,664,10260
 호주,澳大利亚,Australia,27285,898,24998
 요르단,约旦,Jordan,26073,207,6219
-Bulgaria,,Bulgaria,24402,892,15847
+Bulgaria,,Bulgaria,24989,915,15975
 그리스,希腊,Greece,22652,456,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,21113,797,16301
@@ -106,9 +106,9 @@ Mozambique,,Mozambique,10088,72,7550
 Uganda,,Uganda,9864,94,6109
 룩셈부르크,卢森堡,Luxembourg,9731,133,8234
 Haiti,,Haiti,8882,230,7104
-Gabon,,Gabon,8835,54,8189
+Gabon,,Gabon,8860,54,8298
 슬로베니아,斯洛文尼亚,Slovenia,8832,169,5219
-Zimbabwe,,Zimbabwe,8011,230,6504
+Zimbabwe,,Zimbabwe,8021,230,7627
 Jamaica,,Jamaica,7813,146,3237
 Mauritania,,Mauritania,7550,163,7274
 Cabo Verde,,Cabo Verde,7155,75,6075
@@ -118,13 +118,13 @@ Lithuania,,Lithuania,6248,103,2793
 Cuba,,Cuba,6000,123,5574
 Malawi,,Malawi,5824,180,4659
 Eswatini,,Eswatini,5683,113,5322
-Djibouti,,Djibouti,5423,61,5355
+Djibouti,,Djibouti,5426,61,5360
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5194,105,4921
 Congo,,Congo,5118,90,3887
-Trinidad and Tobago,,Trinidad and Tobago,5101,90,3252
+Trinidad and Tobago,,Trinidad and Tobago,5116,92,3303
 Bahamas,,Bahamas,5078,107,2900
-Equatorial Guinea,,Equatorial Guinea,5063,83,4894
+Equatorial Guinea,,Equatorial Guinea,5066,83,4954
 Suriname,,Suriname,5051,107,4845
 Rwanda,,Rwanda,4905,32,3877
 CAR,,CAR,4854,62,1924
@@ -153,8 +153,8 @@ Sierra Leone,,Sierra Leone,2306,72,1736
 Uruguay,,Uruguay,2294,50,1942
 Burkina Faso,,Burkina Faso,2280,63,1554
 Yemen,,Yemen,2052,596,1329
-Cyprus,,Cyprus,2006,25,1444
-토고,多哥,Togo,1940,49,1457
+Cyprus,,Cyprus,2047,25,1444
+토고,多哥,Togo,1949,49,1461
 New Zealand,,New Zealand,1871,25,1801
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1805,42,961

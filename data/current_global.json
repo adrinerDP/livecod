@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8029451,
-        "deaths": 219972,
-        "recovered": 5166131
+        "confirmed": 8032308,
+        "deaths": 219992,
+        "recovered": 5168014
     },
     {
         "Name": "인도",
@@ -643,9 +643,9 @@
         "Name": "Bulgaria",
         "Name_ch": "",
         "Name_en": "Bulgaria",
-        "confirmed": 24402,
-        "deaths": 892,
-        "recovered": 15847
+        "confirmed": 24989,
+        "deaths": 915,
+        "recovered": 15975
     },
     {
         "Name": "그리스",
@@ -859,9 +859,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8835,
+        "confirmed": 8860,
         "deaths": 54,
-        "recovered": 8189
+        "recovered": 8298
     },
     {
         "Name": "슬로베니아",
@@ -875,9 +875,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 8011,
+        "confirmed": 8021,
         "deaths": 230,
-        "recovered": 6504
+        "recovered": 7627
     },
     {
         "Name": "Jamaica",
@@ -955,9 +955,9 @@
         "Name": "Djibouti",
         "Name_ch": "",
         "Name_en": "Djibouti",
-        "confirmed": 5423,
+        "confirmed": 5426,
         "deaths": 61,
-        "recovered": 5355
+        "recovered": 5360
     },
     {
         "Name": "Nicaragua",
@@ -987,9 +987,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 5101,
-        "deaths": 90,
-        "recovered": 3252
+        "confirmed": 5116,
+        "deaths": 92,
+        "recovered": 3303
     },
     {
         "Name": "Bahamas",
@@ -1003,9 +1003,9 @@
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
-        "confirmed": 5063,
+        "confirmed": 5066,
         "deaths": 83,
-        "recovered": 4894
+        "recovered": 4954
     },
     {
         "Name": "Suriname",
@@ -1235,7 +1235,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 2006,
+        "confirmed": 2047,
         "deaths": 25,
         "recovered": 1444
     },
@@ -1243,9 +1243,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1940,
+        "confirmed": 1949,
         "deaths": 49,
-        "recovered": 1457
+        "recovered": 1461
     },
     {
         "Name": "New Zealand",
