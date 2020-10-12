@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7128268,
-        "deaths": 109285,
-        "recovered": 6149535
+        "confirmed": 7133368,
+        "deaths": 109348,
+        "recovered": 6163039
     },
     {
         "Name": "브라질",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 402330,
-        "deaths": 9852,
-        "recovered": 336157
+        "confirmed": 405437,
+        "deaths": 9912,
+        "recovered": 340050
     },
     {
         "Name": "Bangladesh",
@@ -147,9 +147,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 339267,
-        "deaths": 5043,
-        "recovered": 325330
+        "confirmed": 339615,
+        "deaths": 5068,
+        "recovered": 325839
     },
     {
         "Name": "인도네시아",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 327725,
+        "confirmed": 327904,
         "deaths": 9704,
         "recovered": 276900
     },
@@ -428,7 +428,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 64436,
-        "deaths": 2092,
+        "deaths": 2093,
         "recovered": 48400
     },
     {
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 61205,
-        "deaths": 507,
-        "recovered": 58069
+        "confirmed": 61319,
+        "deaths": 509,
+        "recovered": 58306
     },
     {
         "Name": "나이지리아",
@@ -523,9 +523,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 44299,
-        "deaths": 381,
-        "recovered": 37942
+        "confirmed": 44684,
+        "deaths": 387,
+        "recovered": 38228
     },
     {
         "Name": "Libya",
@@ -555,8 +555,8 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 41546,
-        "deaths": 766,
+        "confirmed": 41619,
+        "deaths": 777,
         "recovered": 32000
     },
     {
@@ -619,9 +619,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 27974,
-        "deaths": 646,
-        "recovered": 9742
+        "confirmed": 29314,
+        "deaths": 664,
+        "recovered": 10260
     },
     {
         "Name": "호주",
@@ -712,20 +712,20 @@
         "recovered": 11022
     },
     {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+        "confirmed": 15585,
+        "deaths": 276,
+        "recovered": 11863
+    },
+    {
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
         "confirmed": 15549,
         "deaths": 345,
         "recovered": 14682
-    },
-    {
-        "Name": "노르웨이",
-        "Name_ch": "挪威",
-        "Name_en": "Norway",
-        "confirmed": 15524,
-        "deaths": 276,
-        "recovered": 11863
     },
     {
         "Name": "Albania",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10222,
+        "confirmed": 10260,
         "deaths": 79,
-        "recovered": 9058
+        "recovered": 9103
     },
     {
         "Name": "French Guiana",
@@ -1035,7 +1035,7 @@
         "Name": "스리랑카",
         "Name_ch": "斯里兰卡",
         "Name_en": "Sri Lanka",
-        "confirmed": 4791,
+        "confirmed": 4842,
         "deaths": 13,
         "recovered": 3317
     },
@@ -1067,7 +1067,7 @@
         "Name": "Mayotte",
         "Name_ch": "",
         "Name_en": "Mayotte",
-        "confirmed": 3989,
+        "confirmed": 4030,
         "deaths": 43,
         "recovered": 2964
     },
@@ -1363,9 +1363,9 @@
         "Name": "Papua New Guinea",
         "Name_ch": "",
         "Name_en": "Papua New Guinea",
-        "confirmed": 554,
+        "confirmed": 565,
         "deaths": 7,
-        "recovered": 532
+        "recovered": 537
     },
     {
         "Name": "대만",
