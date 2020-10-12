@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8032308,219992,5168014
+미국,美国,United States,8034822,219998,5168919
 인도,印度,India,7173345,109894,6224621
 브라질,巴西,Brazil,5103408,150689,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
+콜롬비아,哥伦比亚,Colombia,919083,27985,798396
 스페인,西班牙,Spain,918223,33124,0
-콜롬비아,哥伦比亚,Colombia,911316,27834,789787
 Argentina,,Argentina,894206,23868,721380
 페루,秘鲁,Peru,849371,33305,743969
 멕시코,墨西哥,Mexico,817503,83781,594180
@@ -41,7 +41,7 @@ Panama,,Panama,120313,2491,96164
 Kazakhstan,,Kazakhstan,108831,1746,104041
 아랍에미리트,阿拉伯联合酋长国,UAE,107293,446,98555
 오만,阿曼,Oman,106575,1046,93222
-이집트,埃及,Egypt,104516,6052,97688
+이집트,埃及,Egypt,104648,6062,97743
 스웨덴,瑞典语,Sweden,98451,5894,0
 Guatemala,,Guatemala,97826,3387,87016
 일본,日本,Japan,89347,1629,82113
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,85136,1301,38904
 Honduras,,Honduras,84081,2512,32012
 벨라루스,白俄罗斯,Belarus,83998,901,77423
 Venezuela,,Venezuela,83137,697,74664
-바레인,巴林,Bahrain,75614,278,71249
+바레인,巴林,Bahrain,75948,280,71687
 스위스,瑞士,Switzerland,64436,2096,49500
 Moldova,,Moldova,62618,1478,44728
 Uzbekistan,,Uzbekistan,61319,509,58306
@@ -63,7 +63,7 @@ Uzbekistan,,Uzbekistan,61319,509,58306
 알제리,阿尔及利亚,Algeria,53225,1809,37382
 Paraguay,,Paraguay,49675,1077,32090
 Kyrgyzstan,,Kyrgyzstan,49528,1090,44522
-Ghana,,Ghana,47005,306,46398
+Ghana,,Ghana,47030,308,46424
 팔레스타인,巴勒斯坦,Palestine,44684,387,38228
 Libya,,Libya,43821,644,24466
 아일랜드,冰岛,Ireland,43351,1827,23364
@@ -93,7 +93,7 @@ Albania,,Albania,15570,424,9585
 Zambia,,Zambia,15549,345,14682
 세네갈,塞内加尔,Senegal,15292,315,13390
 Montenegro,,Montenegro,14050,211,9920
-Sudan,,Sudan,13685,836,6764
+Sudan,,Sudan,13691,836,6764
 조지아,格鲁吉亚,Georgia,12272,93,6538
 핀란드,芬兰,Finland,12212,346,8500
 Namibia,,Namibia,11989,129,9913
