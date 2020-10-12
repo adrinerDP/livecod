@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7991069,
+        "confirmed": 7991998,
         "deaths": 219695,
-        "recovered": 5127758
+        "recovered": 5128162
     },
     {
         "Name": "인도",
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5095586,
-        "deaths": 150488,
-        "recovered": 4470163
+        "confirmed": 5094979,
+        "deaths": 150506,
+        "recovered": 4470165
     },
     {
         "Name": "러시아",
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 846088,
-        "deaths": 33223,
-        "recovered": 738189
+        "confirmed": 849371,
+        "deaths": 33305,
+        "recovered": 743969
     },
     {
         "Name": "멕시코",
@@ -1443,7 +1443,7 @@
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
-        "confirmed": 345,
+        "confirmed": 346,
         "deaths": 24,
         "recovered": 316
     },
@@ -1491,9 +1491,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 206,
+        "confirmed": 208,
         "deaths": 7,
-        "recovered": 183
+        "recovered": 186
     },
     {
         "Name": "Bermuda",
