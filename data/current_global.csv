@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7993215,219708,5128497
+미국,美国,United States,7995307,219716,5128497
 인도,印度,India,7133368,109348,6163039
 브라질,巴西,Brazil,5094979,150506,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,379738,5555,294391
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339615,5068,325839
 인도네시아,印度尼西亚,Indonesia,336716,11935,258519
 터키,土耳其,Turkey,335533,8837,294357
-독일,德国,Germany,327904,9704,276900
+독일,德国,Germany,327924,9704,276900
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
 이스라엘,以色列,Israel,291828,1983,238145
 Ukraine,,Ukraine,265454,5015,114410
@@ -89,8 +89,8 @@ Ivory Coast,,Ivory Coast,20154,120,19798
 Madagascar,,Madagascar,16726,237,16081
 말레이시아,马来西亚,Malaysia,16220,159,11022
 노르웨이,挪威,Norway,15585,276,11863
+Albania,,Albania,15570,424,9585
 Zambia,,Zambia,15549,345,14682
-Albania,,Albania,15399,420,9500
 세네갈,塞内加尔,Senegal,15292,315,13390
 Montenegro,,Montenegro,13869,202,9620
 Sudan,,Sudan,13685,836,6764
@@ -178,7 +178,7 @@ Comoros,,Comoros,495,7,475
 Faeroe Islands,,Faeroe Islands,477,0,461
 Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
-Mauritius,,Mauritius,395,10,358
+Mauritius,,Mauritius,404,10,359
 Isle of Man,,Isle of Man,346,24,316
 Mongolia,,Mongolia,318,0,310
 부탄,不丹,Bhutan,309,0,288
