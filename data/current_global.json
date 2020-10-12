@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7990457,
-        "deaths": 219693,
-        "recovered": 5126351
+        "confirmed": 7991069,
+        "deaths": 219695,
+        "recovered": 5127758
     },
     {
         "Name": "인도",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 326291,
         "deaths": 9702,
-        "recovered": 273500
+        "recovered": 274700
     },
     {
         "Name": "파키스탄",
@@ -984,6 +984,14 @@
         "recovered": 3887
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 5078,
+        "deaths": 107,
+        "recovered": 2900
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
@@ -992,28 +1000,20 @@
         "recovered": 4894
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 5051,
+        "deaths": 107,
+        "recovered": 4845
+    },
+    {
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
         "confirmed": 5043,
         "deaths": 90,
         "recovered": 3221
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 5035,
-        "deaths": 107,
-        "recovered": 4830
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 5023,
-        "deaths": 106,
-        "recovered": 2815
     },
     {
         "Name": "Rwanda",
@@ -1083,9 +1083,9 @@
         "Name": "Somalia",
         "Name_ch": "",
         "Name_en": "Somalia",
-        "confirmed": 3847,
+        "confirmed": 3864,
         "deaths": 99,
-        "recovered": 3079
+        "recovered": 3089
     },
     {
         "Name": "Malta",
@@ -1307,9 +1307,9 @@
         "Name": "Sao Tome and Principe",
         "Name_ch": "",
         "Name_en": "Sao Tome and Principe",
-        "confirmed": 922,
+        "confirmed": 929,
         "deaths": 15,
-        "recovered": 890
+        "recovered": 892
     },
     {
         "Name": "산마리노",

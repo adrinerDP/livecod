@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7990457,219693,5126351
+미국,美国,United States,7991069,219695,5127758
 인도,印度,India,7119300,109184,6146427
 브라질,巴西,Brazil,5095586,150488,4470163
 러시아,俄罗斯,Russia,1298718,22597,1020442
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,378266,5524,292860
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339267,5043,325330
 터키,土耳其,Turkey,335533,8837,294357
 인도네시아,印度尼西亚,Indonesia,333449,11844,255027
-독일,德国,Germany,326291,9702,273500
+독일,德国,Germany,326291,9702,274700
 파키스탄,巴基斯坦,Pakistan,318932,6570,303458
 이스라엘,以色列,Israel,290493,1980,228658
 Ukraine,,Ukraine,261034,4972,113507
@@ -122,10 +122,10 @@ Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
 홍콩,香港,Hong Kong,5183,105,4919
 Congo,,Congo,5118,90,3887
+Bahamas,,Bahamas,5078,107,2900
 Equatorial Guinea,,Equatorial Guinea,5063,83,4894
+Suriname,,Suriname,5051,107,4845
 Trinidad and Tobago,,Trinidad and Tobago,5043,90,3221
-Suriname,,Suriname,5035,107,4830
-Bahamas,,Bahamas,5023,106,2815
 Rwanda,,Rwanda,4896,31,3606
 CAR,,CAR,4854,62,1924
 스리랑카,斯里兰卡,Sri Lanka,4752,13,3307
@@ -134,7 +134,7 @@ Réunion,,Réunion,4491,16,3994
 Aruba,,Aruba,4194,33,3768
 Mayotte,,Mayotte,3989,43,2964
 에스토니아,爱沙尼亚,Estonia,3865,68,2958
-Somalia,,Somalia,3847,99,3079
+Somalia,,Somalia,3864,99,3089
 Malta,,Malta,3776,41,2967
 태국,泰国,Thailand,3636,59,3451
 Gambia,,Gambia,3632,117,2543
@@ -162,7 +162,7 @@ Liberia,,Liberia,1363,82,1245
 Chad,,Chad,1304,92,1115
 Niger,,Niger,1201,69,1123
 베트남,越南,Vietnam,1109,35,1024
-Sao Tome and Principe,,Sao Tome and Principe,922,15,890
+Sao Tome and Principe,,Sao Tome and Principe,929,15,892
 산마리노,圣马力诺,San Marino,741,42,682
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Sint Maarten,,Sint Maarten,707,22,622
