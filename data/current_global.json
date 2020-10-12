@@ -435,8 +435,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 61098,
-        "deaths": 505,
+        "confirmed": 61205,
+        "deaths": 507,
         "recovered": 58069
     },
     {
@@ -507,9 +507,9 @@
         "Name": "Kyrgyzstan",
         "Name_ch": "",
         "Name_en": "Kyrgyzstan",
-        "confirmed": 49230,
-        "deaths": 1085,
-        "recovered": 44227
+        "confirmed": 49528,
+        "deaths": 1090,
+        "recovered": 44522
     },
     {
         "Name": "Ghana",
