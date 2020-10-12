@@ -20,12 +20,12 @@ Bangladesh,,Bangladesh,379738,5555,294391
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339267,5043,325330
 인도네시아,印度尼西亚,Indonesia,336716,11935,258519
 터키,土耳其,Turkey,335533,8837,294357
-독일,德国,Germany,326482,9702,276900
+독일,德国,Germany,327725,9704,276900
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
 이스라엘,以色列,Israel,291828,1983,238145
 Ukraine,,Ukraine,265454,5015,114410
 캐나다,加拿大,Canada,181864,9613,153219
-네덜란드,荷兰,Netherlands,174653,6584,0
+네덜란드,荷兰,Netherlands,181498,6596,0
 벨기에,比利时,Belgium,162258,10191,20272
 루마니아,尼亚,Romania,157352,5467,118912
 모로코,摩洛哥,Morocco,152404,2605,127407
@@ -36,8 +36,8 @@ Bolivia,,Bolivia,138574,8308,101103
 Panama,,Panama,120313,2491,96164
 도미니카 공화국,多明尼加共和国,Dominican Republic,118477,2173,94084
 체코,捷克,Czechia,117110,987,56203
+쿠웨이트,科威特,Kuwait,111893,664,103802
 네팔,尼泊尔,Nepal,111802,645,77277
-쿠웨이트,科威特,Kuwait,111116,658,103268
 Kazakhstan,,Kazakhstan,108831,1746,104041
 아랍에미리트,阿拉伯联合酋长国,UAE,107293,446,98555
 오만,阿曼,Oman,106575,1046,93222
@@ -51,7 +51,7 @@ Ethiopia,,Ethiopia,84295,1287,38316
 Honduras,,Honduras,84081,2512,32012
 벨라루스,白俄罗斯,Belarus,83998,901,77423
 Venezuela,,Venezuela,83137,697,74664
-바레인,巴林,Bahrain,75614,277,71249
+바레인,巴林,Bahrain,75614,278,71249
 스위스,瑞士,Switzerland,64436,2092,48400
 Moldova,,Moldova,62151,1461,44357
 Uzbekistan,,Uzbekistan,61205,507,58069
@@ -74,7 +74,7 @@ Kenya,,Kenya,41546,766,32000
 세르비아,塞尔维亚,Serbia,34787,763,31536
 덴마크,丹麦,Denmark,32811,671,26741
 Tunisia,,Tunisia,32556,478,5032
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30647,928,23461
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30837,936,23587
 El Salvador,,El Salvador,30196,894,25438
 Myanmar,,Myanmar,27974,646,9742
 호주,澳大利亚,Australia,27285,898,24998
@@ -103,7 +103,7 @@ DRC,,DRC,10851,276,10242
 Tajikistan,,Tajikistan,10222,79,9058
 French Guiana,,French Guiana,10144,69,9834
 Mozambique,,Mozambique,10001,71,7338
-Uganda,,Uganda,9801,93,6109
+Uganda,,Uganda,9864,94,6109
 룩셈부르크,卢森堡,Luxembourg,9722,132,8038
 Haiti,,Haiti,8882,230,7104
 Gabon,,Gabon,8835,54,8189
@@ -138,7 +138,7 @@ Somalia,,Somalia,3864,99,3089
 Malta,,Malta,3844,43,2981
 태국,泰国,Thailand,3641,59,3454
 Gambia,,Gambia,3632,117,2543
-Iceland,,Iceland,3526,10,2499
+Iceland,,Iceland,3582,10,2550
 Guyana,,Guyana,3469,103,2318
 Mali,,Mali,3286,132,2527
 Botswana,,Botswana,3219,18,834

@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 326482,
-        "deaths": 9702,
+        "confirmed": 327725,
+        "deaths": 9704,
         "recovered": 276900
     },
     {
@@ -211,8 +211,8 @@
         "Name": "네덜란드",
         "Name_ch": "荷兰",
         "Name_en": "Netherlands",
-        "confirmed": 174653,
-        "deaths": 6584,
+        "confirmed": 181498,
+        "deaths": 6596,
         "recovered": 0
     },
     {
@@ -296,20 +296,20 @@
         "recovered": 56203
     },
     {
+        "Name": "쿠웨이트",
+        "Name_ch": "科威特",
+        "Name_en": "Kuwait",
+        "confirmed": 111893,
+        "deaths": 664,
+        "recovered": 103802
+    },
+    {
         "Name": "네팔",
         "Name_ch": "尼泊尔",
         "Name_en": "Nepal",
         "confirmed": 111802,
         "deaths": 645,
         "recovered": 77277
-    },
-    {
-        "Name": "쿠웨이트",
-        "Name_ch": "科威特",
-        "Name_en": "Kuwait",
-        "confirmed": 111116,
-        "deaths": 658,
-        "recovered": 103268
     },
     {
         "Name": "Kazakhstan",
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 75614,
-        "deaths": 277,
+        "deaths": 278,
         "recovered": 71249
     },
     {
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 30647,
-        "deaths": 928,
-        "recovered": 23461
+        "confirmed": 30837,
+        "deaths": 936,
+        "recovered": 23587
     },
     {
         "Name": "El Salvador",
@@ -835,8 +835,8 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 9801,
-        "deaths": 93,
+        "confirmed": 9864,
+        "deaths": 94,
         "recovered": 6109
     },
     {
@@ -1115,9 +1115,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3526,
+        "confirmed": 3582,
         "deaths": 10,
-        "recovered": 2499
+        "recovered": 2550
     },
     {
         "Name": "Guyana",
