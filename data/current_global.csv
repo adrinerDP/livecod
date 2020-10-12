@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8000852,219797,5138374
-인도,印度,India,7160805,109667,6203130
-브라질,巴西,Brazil,5094979,150506,4470165
+미국,美国,United States,8002023,219800,5138374
+인도,印度,India,7172460,109879,6223231
+브라질,巴西,Brazil,5096209,150555,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
 콜롬비아,哥伦比亚,Colombia,911316,27834,789787
 Argentina,,Argentina,894206,23868,721380
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,379738,5555,294391
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339615,5068,325839
 터키,土耳其,Turkey,337147,8895,295658
 인도네시아,印度尼西亚,Indonesia,336716,11935,258519
-독일,德国,Germany,328289,9708,276900
+독일,德国,Germany,328736,9708,276900
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
-이스라엘,以色列,Israel,292230,1993,238380
+이스라엘,以色列,Israel,293553,2016,238643
 Ukraine,,Ukraine,265454,5015,114410
 캐나다,加拿大,Canada,182707,9625,154237
 네덜란드,荷兰,Netherlands,181498,6596,0
@@ -34,8 +34,8 @@ Bolivia,,Bolivia,138574,8308,101103
 폴란드,波兰,Poland,130210,3039,81201
 카타르,卡塔尔,Qatar,128191,220,125176
 Panama,,Panama,120313,2491,96164
+체코,捷克,Czechia,119007,1045,56440
 도미니카 공화국,多明尼加共和国,Dominican Republic,118843,2179,94532
-체코,捷克,Czechia,117110,987,56203
 쿠웨이트,科威特,Kuwait,111893,664,103802
 네팔,尼泊尔,Nepal,111802,645,77277
 Kazakhstan,,Kazakhstan,108831,1746,104041
@@ -56,11 +56,11 @@ Venezuela,,Venezuela,83137,697,74664
 Moldova,,Moldova,62618,1478,44728
 Uzbekistan,,Uzbekistan,61319,509,58306
 나이지리아,尼日利亚,Nigeria,60266,1115,51735
-싱가포르,新加坡,Singapore,57880,27,57728
+싱가포르,新加坡,Singapore,57880,28,57728
 아르메니아,亚美尼亚,Armenia,56821,1026,45891
 오스트리아,奥地利,Austria,56298,855,44065
 레바논,黎巴嫩,Lebanon,53568,459,23501
-알제리,阿尔及利亚,Algeria,53072,1801,37170
+알제리,阿尔及利亚,Algeria,53325,1809,37382
 Paraguay,,Paraguay,49675,1077,32090
 Kyrgyzstan,,Kyrgyzstan,49528,1090,44522
 Ghana,,Ghana,47005,306,46398
@@ -128,7 +128,7 @@ Equatorial Guinea,,Equatorial Guinea,5063,83,4894
 Suriname,,Suriname,5051,107,4845
 Rwanda,,Rwanda,4896,31,3606
 CAR,,CAR,4854,62,1924
-스리랑카,斯里兰卡,Sri Lanka,4842,13,3317
+스리랑카,斯里兰卡,Sri Lanka,4844,13,3317
 Syria,,Syria,4718,224,1296
 Réunion,,Réunion,4624,17,3994
 Aruba,,Aruba,4194,33,3768
@@ -139,10 +139,10 @@ Malta,,Malta,3844,43,2981
 태국,泰国,Thailand,3641,59,3454
 Gambia,,Gambia,3632,117,2543
 Iceland,,Iceland,3582,10,2550
+Botswana,,Botswana,3515,20,853
 Guyana,,Guyana,3469,103,2318
 Mali,,Mali,3286,132,2527
-Botswana,,Botswana,3219,18,834
-South Sudan,,South Sudan,2777,55,1290
+South Sudan,,South Sudan,2787,55,1290
 라트비아,约旦,Latvia,2765,40,1325
 French Polynesia,,French Polynesia,2754,10,2019
 안도라,安道尔,Andorra,2696,55,1814
