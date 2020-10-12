@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,7992810,219702,5128390
+미국,美国,United States,7992932,219706,5128492
 인도,印度,India,7122862,109209,6149535
 브라질,巴西,Brazil,5094979,150506,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
@@ -11,7 +11,7 @@ Argentina,,Argentina,894206,23868,721380
 프랑스,法国,France,734974,32683,100828
 남아프리카 공화국,南非共和国,South Africa,692471,17780,623765
 영국,英国,UK,603716,42825,0
-이란,伊朗,Iran,500075,28544,406389
+이란,伊朗,Iran,504281,28816,409121
 칠레,智利,Chile,481371,13318,453352
 이라크,伊拉克,Iraq,402330,9852,336157
 Bangladesh,,Bangladesh,379738,5555,294391
@@ -36,11 +36,11 @@ Bolivia,,Bolivia,138574,8308,101103
 Panama,,Panama,120313,2491,96164
 도미니카 공화국,多明尼加共和国,Dominican Republic,118477,2173,94084
 체코,捷克,Czechia,117110,987,56203
+네팔,尼泊尔,Nepal,111802,645,77277
 쿠웨이트,科威特,Kuwait,111116,658,103268
 Kazakhstan,,Kazakhstan,108831,1746,104041
-네팔,尼泊尔,Nepal,107755,636,75804
+아랍에미리트,阿拉伯联合酋长国,UAE,107293,446,98555
 오만,阿曼,Oman,106575,1046,93222
-아랍에미리트,阿拉伯联合酋长国,UAE,106229,445,97284
 이집트,埃及,Egypt,104516,6052,97688
 스웨덴,瑞典语,Sweden,98451,5894,0
 Guatemala,,Guatemala,97715,3384,86582
@@ -65,7 +65,7 @@ Paraguay,,Paraguay,49675,1077,32090
 Kyrgyzstan,,Kyrgyzstan,49528,1090,44522
 Ghana,,Ghana,47005,306,46398
 팔레스타인,巴勒斯坦,Palestine,44299,381,37942
-Libya,,Libya,42712,631,24038
+Libya,,Libya,43821,644,24466
 아일랜드,冰岛,Ireland,42528,1826,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,41982,609,39357
 Kenya,,Kenya,41546,766,32000
@@ -87,14 +87,14 @@ North Macedonia,,North Macedonia,20937,792,16194
 슬로바키아,斯洛伐克,Slovakia,20355,61,6031
 Ivory Coast,,Ivory Coast,20154,120,19798
 Madagascar,,Madagascar,16718,237,16042
-말레이시아,马来西亚,Malaysia,15657,157,10913
+말레이시아,马来西亚,Malaysia,16220,159,11022
 노르웨이,挪威,Norway,15524,275,11863
 Zambia,,Zambia,15458,337,14599
 Albania,,Albania,15399,420,9500
-세네갈,塞内加尔,Senegal,15268,314,13297
+세네갈,塞内加尔,Senegal,15292,315,13390
 Montenegro,,Montenegro,13869,202,9620
 Sudan,,Sudan,13685,836,6764
-조지아,格鲁吉亚,Georgia,12272,92,6538
+조지아,格鲁吉亚,Georgia,12272,93,6538
 핀란드,芬兰,Finland,12212,346,8500
 Namibia,,Namibia,11936,128,9817
 Guinea,,Guinea,11022,69,10324
@@ -135,7 +135,7 @@ Aruba,,Aruba,4194,33,3768
 Mayotte,,Mayotte,3989,43,2964
 에스토니아,爱沙尼亚,Estonia,3883,68,2967
 Somalia,,Somalia,3864,99,3089
-Malta,,Malta,3776,41,2967
+Malta,,Malta,3844,43,2981
 태국,泰国,Thailand,3641,59,3454
 Gambia,,Gambia,3632,117,2543
 Iceland,,Iceland,3526,10,2499
@@ -174,7 +174,7 @@ Papua New Guinea,,Papua New Guinea,554,7,532
 Burundi,,Burundi,524,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,495,7,475
-지브롤터,直布罗陀,Gibraltar,485,0,413
+지브롤터,直布罗陀,Gibraltar,486,0,419
 Faeroe Islands,,Faeroe Islands,477,0,461
 Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
