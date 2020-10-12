@@ -179,9 +179,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 318932,
-        "deaths": 6570,
-        "recovered": 303458
+        "confirmed": 319317,
+        "deaths": 6580,
+        "recovered": 304185
     },
     {
         "Name": "이스라엘",
@@ -1331,7 +1331,7 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 707,
+        "confirmed": 710,
         "deaths": 22,
         "recovered": 622
     },
