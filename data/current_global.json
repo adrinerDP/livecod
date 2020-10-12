@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1298718,
-        "deaths": 22597,
-        "recovered": 1020442
+        "confirmed": 1312310,
+        "deaths": 22722,
+        "recovered": 1024235
     },
     {
         "Name": "콜롬비아",
@@ -459,7 +459,7 @@
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
-        "confirmed": 57876,
+        "confirmed": 57880,
         "deaths": 27,
         "recovered": 57705
     },
@@ -1075,9 +1075,9 @@
         "Name": "에스토니아",
         "Name_ch": "爱沙尼亚",
         "Name_en": "Estonia",
-        "confirmed": 3865,
+        "confirmed": 3883,
         "deaths": 68,
-        "recovered": 2958
+        "recovered": 2967
     },
     {
         "Name": "Somalia",
