@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8003660,
-        "deaths": 219805,
-        "recovered": 5138536
+        "confirmed": 8009425,
+        "deaths": 219835,
+        "recovered": 5139734
     },
     {
         "Name": "인도",
@@ -32,6 +32,14 @@
         "recovered": 1024235
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 918223,
+        "deaths": 33124,
+        "recovered": 0
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
@@ -46,14 +54,6 @@
         "confirmed": 894206,
         "deaths": 23868,
         "recovered": 721380
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 890367,
-        "deaths": 32929,
-        "recovered": 0
     },
     {
         "Name": "페루",
@@ -75,8 +75,8 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 734974,
-        "deaths": 32683,
+        "confirmed": 743479,
+        "deaths": 32779,
         "recovered": 100828
     },
     {
@@ -539,8 +539,8 @@
         "Name": "아일랜드",
         "Name_ch": "冰岛",
         "Name_en": "Ireland",
-        "confirmed": 42528,
-        "deaths": 1826,
+        "confirmed": 43351,
+        "deaths": 1827,
         "recovered": 23364
     },
     {
@@ -1059,9 +1059,9 @@
         "Name": "Aruba",
         "Name_ch": "",
         "Name_en": "Aruba",
-        "confirmed": 4194,
+        "confirmed": 4197,
         "deaths": 33,
-        "recovered": 3768
+        "recovered": 3790
     },
     {
         "Name": "Mayotte",
