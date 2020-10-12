@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 7998982,
-        "deaths": 219775,
+        "confirmed": 8000852,
+        "deaths": 219797,
         "recovered": 5138374
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7150495,
-        "deaths": 109568,
-        "recovered": 6188988
+        "confirmed": 7160805,
+        "deaths": 109667,
+        "recovered": 6203130
     },
     {
         "Name": "브라질",
@@ -152,6 +152,14 @@
         "recovered": 325839
     },
     {
+        "Name": "터키",
+        "Name_ch": "土耳其",
+        "Name_en": "Turkey",
+        "confirmed": 337147,
+        "deaths": 8895,
+        "recovered": 295658
+    },
+    {
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
@@ -160,19 +168,11 @@
         "recovered": 258519
     },
     {
-        "Name": "터키",
-        "Name_ch": "土耳其",
-        "Name_en": "Turkey",
-        "confirmed": 335533,
-        "deaths": 8837,
-        "recovered": 294357
-    },
-    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 327924,
-        "deaths": 9704,
+        "confirmed": 328289,
+        "deaths": 9708,
         "recovered": 276900
     },
     {
@@ -428,8 +428,8 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 64436,
-        "deaths": 2093,
-        "recovered": 48400
+        "deaths": 2096,
+        "recovered": 49500
     },
     {
         "Name": "Moldova",
@@ -461,7 +461,7 @@
         "Name_en": "Singapore",
         "confirmed": 57880,
         "deaths": 27,
-        "recovered": 57705
+        "recovered": 57728
     },
     {
         "Name": "아르메니아",
@@ -843,9 +843,9 @@
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
-        "confirmed": 9722,
-        "deaths": 132,
-        "recovered": 8038
+        "confirmed": 9731,
+        "deaths": 133,
+        "recovered": 8234
     },
     {
         "Name": "Haiti",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 524,
+        "confirmed": 525,
         "deaths": 1,
         "recovered": 472
     },
