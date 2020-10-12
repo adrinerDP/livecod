@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8009425,
-        "deaths": 219835,
-        "recovered": 5139734
+        "confirmed": 8014776,
+        "deaths": 219898,
+        "recovered": 5146656
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7172559,
-        "deaths": 109881,
-        "recovered": 6223372
+        "confirmed": 7173069,
+        "deaths": 109892,
+        "recovered": 6224262
     },
     {
         "Name": "브라질",
@@ -243,8 +243,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 147033,
-        "deaths": 12191,
+        "confirmed": 147315,
+        "deaths": 12218,
         "recovered": 128134
     },
     {
@@ -387,9 +387,9 @@
         "Name": "Ethiopia",
         "Name_ch": "",
         "Name_en": "Ethiopia",
-        "confirmed": 84295,
-        "deaths": 1287,
-        "recovered": 38316
+        "confirmed": 85136,
+        "deaths": 1301,
+        "recovered": 38904
     },
     {
         "Name": "Honduras",
@@ -491,7 +491,7 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 53325,
+        "confirmed": 53225,
         "deaths": 1809,
         "recovered": 37382
     },
@@ -939,9 +939,9 @@
         "Name": "Malawi",
         "Name_ch": "",
         "Name_en": "Malawi",
-        "confirmed": 5821,
+        "confirmed": 5824,
         "deaths": 180,
-        "recovered": 4647
+        "recovered": 4659
     },
     {
         "Name": "Eswatini",
@@ -1413,7 +1413,7 @@
         "Name_en": "Faeroe Islands",
         "confirmed": 477,
         "deaths": 0,
-        "recovered": 461
+        "recovered": 463
     },
     {
         "Name": "Saint Martin",

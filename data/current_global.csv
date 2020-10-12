@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8009425,219835,5139734
-인도,印度,India,7172559,109881,6223372
+미국,美国,United States,8014776,219898,5146656
+인도,印度,India,7173069,109892,6224262
 브라질,巴西,Brazil,5096209,150555,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
 스페인,西班牙,Spain,918223,33124,0
@@ -29,7 +29,7 @@ Ukraine,,Ukraine,265454,5015,114410
 벨기에,比利时,Belgium,162258,10191,20272
 루마니아,尼亚,Romania,157352,5467,118912
 모로코,摩洛哥,Morocco,153761,2636,129498
-에콰도르,厄瓜多尔,Ecuador,147033,12191,128134
+에콰도르,厄瓜多尔,Ecuador,147315,12218,128134
 Bolivia,,Bolivia,138574,8308,101103
 폴란드,波兰,Poland,130210,3039,81201
 카타르,卡塔尔,Qatar,128191,220,125176
@@ -47,7 +47,7 @@ Guatemala,,Guatemala,97826,3387,87016
 일본,日本,Japan,89347,1629,82113
 포르투갈,葡萄牙,Portugal,87913,2094,53498
 코스타리카,哥斯达黎加,Costa Rica,87439,1076,52669
-Ethiopia,,Ethiopia,84295,1287,38316
+Ethiopia,,Ethiopia,85136,1301,38904
 Honduras,,Honduras,84081,2512,32012
 벨라루스,白俄罗斯,Belarus,83998,901,77423
 Venezuela,,Venezuela,83137,697,74664
@@ -60,7 +60,7 @@ Uzbekistan,,Uzbekistan,61319,509,58306
 아르메니아,亚美尼亚,Armenia,56821,1026,45891
 오스트리아,奥地利,Austria,56298,855,44065
 레바논,黎巴嫩,Lebanon,54624,466,23941
-알제리,阿尔及利亚,Algeria,53325,1809,37382
+알제리,阿尔及利亚,Algeria,53225,1809,37382
 Paraguay,,Paraguay,49675,1077,32090
 Kyrgyzstan,,Kyrgyzstan,49528,1090,44522
 Ghana,,Ghana,47005,306,46398
@@ -116,7 +116,7 @@ Guadeloupe,,Guadeloupe,6483,77,2199
 Angola,,Angola,6366,218,2743
 Lithuania,,Lithuania,6248,103,2793
 Cuba,,Cuba,6000,123,5574
-Malawi,,Malawi,5821,180,4647
+Malawi,,Malawi,5824,180,4659
 Eswatini,,Eswatini,5683,113,5322
 Djibouti,,Djibouti,5423,61,5355
 Nicaragua,,Nicaragua,5264,153,4225
@@ -175,7 +175,7 @@ Burundi,,Burundi,525,1,472
 Tanzania,,Tanzania,509,21,183
 Comoros,,Comoros,495,7,475
 지브롤터,直布罗陀,Gibraltar,486,0,419
-Faeroe Islands,,Faeroe Islands,477,0,461
+Faeroe Islands,,Faeroe Islands,477,0,463
 Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
 Mauritius,,Mauritius,404,10,359
