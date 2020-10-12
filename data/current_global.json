@@ -3,7 +3,7 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8029232,
+        "confirmed": 8029451,
         "deaths": 219972,
         "recovered": 5166131
     },
@@ -19,9 +19,9 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5096209,
-        "deaths": 150555,
-        "recovered": 4470165
+        "confirmed": 5103408,
+        "deaths": 150689,
+        "recovered": 4495269
     },
     {
         "Name": "러시아",
@@ -787,9 +787,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 11022,
-        "deaths": 69,
-        "recovered": 10324
+        "confirmed": 11062,
+        "deaths": 70,
+        "recovered": 10337
     },
     {
         "Name": "Maldives",
@@ -1120,20 +1120,20 @@
         "recovered": 2550
     },
     {
+        "Name": "Guyana",
+        "Name_ch": "",
+        "Name_en": "Guyana",
+        "confirmed": 3521,
+        "deaths": 104,
+        "recovered": 2391
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
         "confirmed": 3515,
         "deaths": 20,
         "recovered": 853
-    },
-    {
-        "Name": "Guyana",
-        "Name_ch": "",
-        "Name_en": "Guyana",
-        "confirmed": 3469,
-        "deaths": 103,
-        "recovered": 2318
     },
     {
         "Name": "Mali",
@@ -1320,6 +1320,14 @@
         "recovered": 682
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "confirmed": 737,
+        "deaths": 48,
+        "recovered": 623
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -1334,14 +1342,6 @@
         "confirmed": 710,
         "deaths": 22,
         "recovered": 622
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "confirmed": 699,
-        "deaths": 48,
-        "recovered": 623
     },
     {
         "Name": "Turks and Caicos",
@@ -1475,9 +1475,9 @@
         "Name": "모나코",
         "Name_ch": "摩纳哥",
         "Name_en": "Monaco",
-        "confirmed": 234,
+        "confirmed": 236,
         "deaths": 2,
-        "recovered": 209
+        "recovered": 213
     },
     {
         "Name": "Cayman Islands",

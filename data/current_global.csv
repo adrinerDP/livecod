@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8029232,219972,5166131
+미국,美国,United States,8029451,219972,5166131
 인도,印度,India,7173345,109894,6224621
-브라질,巴西,Brazil,5096209,150555,4470165
+브라질,巴西,Brazil,5103408,150689,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
 스페인,西班牙,Spain,918223,33124,0
 콜롬비아,哥伦比亚,Colombia,911316,27834,789787
@@ -97,7 +97,7 @@ Sudan,,Sudan,13685,836,6764
 조지아,格鲁吉亚,Georgia,12272,93,6538
 핀란드,芬兰,Finland,12212,346,8500
 Namibia,,Namibia,11989,129,9913
-Guinea,,Guinea,11022,69,10324
+Guinea,,Guinea,11062,70,10337
 Maldives,,Maldives,10943,35,9783
 DRC,,DRC,10868,276,10249
 Tajikistan,,Tajikistan,10260,79,9103
@@ -139,8 +139,8 @@ Malta,,Malta,3844,43,2981
 태국,泰国,Thailand,3641,59,3454
 Gambia,,Gambia,3636,118,2593
 Iceland,,Iceland,3582,10,2550
+Guyana,,Guyana,3521,104,2391
 Botswana,,Botswana,3515,20,853
-Guyana,,Guyana,3469,103,2318
 Mali,,Mali,3296,132,2533
 South Sudan,,South Sudan,2787,55,1290
 라트비아,约旦,Latvia,2765,40,1325
@@ -164,9 +164,9 @@ Niger,,Niger,1201,69,1123
 베트남,越南,Vietnam,1110,35,1025
 Sao Tome and Principe,,Sao Tome and Principe,929,15,892
 산마리노,圣马力诺,San Marino,741,42,682
+Channel Islands,,Channel Islands,737,48,623
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Sint Maarten,,Sint Maarten,710,22,622
-Channel Islands,,Channel Islands,699,48,623
 Turks and Caicos,,Turks and Caicos,696,6,672
 Curaçao,,Curaçao,585,1,332
 Papua New Guinea,,Papua New Guinea,565,7,537
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,346,24,316
 Mongolia,,Mongolia,318,0,310
 부탄,不丹,Bhutan,309,0,288
 캄보디아,柬埔寨,Cambodia,283,0,278
-모나코,摩纳哥,Monaco,234,2,209
+모나코,摩纳哥,Monaco,236,2,213
 Cayman Islands,,Cayman Islands,221,1,211
 Barbados,,Barbados,208,7,186
 Bermuda,,Bermuda,184,9,170
