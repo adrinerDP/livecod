@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8035385,220005,5174279
+미국,美国,United States,8036674,220008,5174718
 인도,印度,India,7173345,109894,6224621
-브라질,巴西,Brazil,5103408,150689,4495269
+브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
 스페인,西班牙,Spain,918223,33124,0
@@ -24,7 +24,7 @@ Bangladesh,,Bangladesh,379738,5555,294391
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
 이스라엘,以色列,Israel,294031,2021,238681
 Ukraine,,Ukraine,265454,5015,114410
-캐나다,加拿大,Canada,182791,9627,154246
+캐나다,加拿大,Canada,182839,9627,154258
 네덜란드,荷兰,Netherlands,181498,6596,0
 벨기에,比利时,Belgium,162258,10191,20272
 루마니아,尼亚,Romania,157352,5467,118912
@@ -33,8 +33,8 @@ Ukraine,,Ukraine,265454,5015,114410
 Bolivia,,Bolivia,138574,8308,101103
 폴란드,波兰,Poland,130210,3039,81201
 카타르,卡塔尔,Qatar,128191,220,125176
-Panama,,Panama,120313,2491,96164
-체코,捷克,Czechia,119007,1045,56440
+체코,捷克,Czechia,121421,1051,58200
+Panama,,Panama,120802,2502,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,118843,2179,94532
 쿠웨이트,科威特,Kuwait,111893,664,103802
 네팔,尼泊尔,Nepal,111802,645,77277
@@ -61,7 +61,7 @@ Uzbekistan,,Uzbekistan,61319,509,58306
 오스트리아,奥地利,Austria,56298,855,44065
 레바논,黎巴嫩,Lebanon,54624,466,23941
 알제리,阿尔及利亚,Algeria,53225,1809,37382
-Paraguay,,Paraguay,49675,1077,32090
+Paraguay,,Paraguay,50344,1096,32751
 Kyrgyzstan,,Kyrgyzstan,49528,1090,44522
 Ghana,,Ghana,47030,308,46424
 팔레스타인,巴勒斯坦,Palestine,44684,387,38228
@@ -77,7 +77,7 @@ Tunisia,,Tunisia,32556,478,5032
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30837,936,23587
 El Salvador,,El Salvador,30196,894,25438
 Myanmar,,Myanmar,29314,664,10260
-호주,澳大利亚,Australia,27285,898,24998
+호주,澳大利亚,Australia,27287,898,25013
 요르단,约旦,Jordan,26073,207,6219
 Bulgaria,,Bulgaria,24989,915,15975
 그리스,希腊,Greece,22652,456,9989
@@ -125,7 +125,7 @@ Congo,,Congo,5118,90,3887
 Trinidad and Tobago,,Trinidad and Tobago,5116,92,3303
 Bahamas,,Bahamas,5078,107,2900
 Equatorial Guinea,,Equatorial Guinea,5066,83,4954
-Suriname,,Suriname,5051,107,4845
+Suriname,,Suriname,5058,107,4862
 Rwanda,,Rwanda,4905,32,3877
 CAR,,CAR,4854,62,1924
 스리랑카,斯里兰卡,Sri Lanka,4844,13,3317
@@ -142,10 +142,10 @@ Iceland,,Iceland,3582,10,2550
 Guyana,,Guyana,3521,104,2391
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3296,132,2533
+French Polynesia,,French Polynesia,3251,11,2138
 안도라,安道尔,Andorra,2995,57,1928
 South Sudan,,South Sudan,2787,55,1290
 라트비아,约旦,Latvia,2765,40,1325
-French Polynesia,,French Polynesia,2754,10,2019
 Belize,,Belize,2531,37,1548
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2385,40,1728
