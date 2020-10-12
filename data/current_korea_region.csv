@@ -1,5 +1,5 @@
 ﻿region,link,confirmed,confirmed_delta,recovered,deaths,confirmed_rate,confirmed_region_rate,confirmed_region_class
-전국,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13,24703,97,22729,433,47.65,,
+전국,http://ncov.mohw.go.kr/bdBoardList_Real.do?brdGubun=13,24703,98,22728,433,47.65,,
 서울,http://www.seoul.go.kr/coronaV/coronaStatus.do,5564,31,4894,64,57.16,22.52,moderate
 부산,http://www.busan.go.kr/corona19/index,488,4,400,4,14.3,1.98,mild
 대구,http://www.daegu.go.kr/,7140,0,6931,196,293.04,28.9,moderate
@@ -8,7 +8,7 @@
 대전,https://www.daejeon.go.kr/corona19/index.do,398,13,351,5,27.0,1.61,mild
 울산,http://www.ulsan.go.kr/corona.jsp,155,0,144,2,13.51,0.63,mild
 세종,https://www.sejong.go.kr/life/sub05_0704.do,78,0,74,0,22.79,0.32,mild
-경기,https://www.gg.go.kr/bbs/boardView.do?bsIdx=464&bIdx=2296956&menuId=1535,4675,29,4213,83,35.28,18.92,moderate
+경기,https://www.gg.go.kr/bbs/boardView.do?bsIdx=464&bIdx=2296956&menuId=1535,4675,30,4212,83,35.28,18.92,moderate
 강원,http://www.provin.gangwon.kr/,227,1,219,3,14.74,0.92,mild
 충북,http://www.chungbuk.go.kr/,178,0,154,1,11.13,0.72,mild
 충남,http://www.chungnam.go.kr/coronaStatus.do,497,2,455,6,23.42,2.01,mild
