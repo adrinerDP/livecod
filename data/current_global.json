@@ -195,9 +195,9 @@
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 261034,
-        "deaths": 4972,
-        "recovered": 113507
+        "confirmed": 265454,
+        "deaths": 5015,
+        "recovered": 114410
     },
     {
         "Name": "캐나다",
@@ -612,7 +612,7 @@
         "Name_ch": "",
         "Name_en": "El Salvador",
         "confirmed": 30196,
-        "deaths": 890,
+        "deaths": 894,
         "recovered": 25438
     },
     {
@@ -755,7 +755,7 @@
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
-        "confirmed": 13673,
+        "confirmed": 13685,
         "deaths": 836,
         "recovered": 6764
     },
@@ -984,6 +984,14 @@
         "recovered": 3887
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 5101,
+        "deaths": 90,
+        "recovered": 3252
+    },
+    {
         "Name": "Bahamas",
         "Name_ch": "",
         "Name_en": "Bahamas",
@@ -1006,14 +1014,6 @@
         "confirmed": 5051,
         "deaths": 107,
         "recovered": 4845
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 5043,
-        "deaths": 90,
-        "recovered": 3221
     },
     {
         "Name": "Rwanda",
