@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8025437,219964,5163707
+미국,美国,United States,8028539,219968,5165684
 인도,印度,India,7173345,109894,6224621
 브라질,巴西,Brazil,5096209,150555,4470165
 러시아,俄罗斯,Russia,1312310,22722,1024235
@@ -96,9 +96,9 @@ Montenegro,,Montenegro,14050,211,9920
 Sudan,,Sudan,13685,836,6764
 조지아,格鲁吉亚,Georgia,12272,93,6538
 핀란드,芬兰,Finland,12212,346,8500
-Namibia,,Namibia,11936,128,9817
+Namibia,,Namibia,11989,129,9913
 Guinea,,Guinea,11022,69,10324
-Maldives,,Maldives,10894,35,9742
+Maldives,,Maldives,10943,35,9783
 DRC,,DRC,10868,276,10249
 Tajikistan,,Tajikistan,10260,79,9103
 French Guiana,,French Guiana,10180,69,9855
@@ -111,7 +111,7 @@ Gabon,,Gabon,8835,54,8189
 Zimbabwe,,Zimbabwe,8011,230,6504
 Jamaica,,Jamaica,7813,146,3237
 Mauritania,,Mauritania,7550,163,7274
-Cabo Verde,,Cabo Verde,7072,75,5981
+Cabo Verde,,Cabo Verde,7155,75,6075
 Angola,,Angola,6488,219,2744
 Guadeloupe,,Guadeloupe,6483,77,2199
 Lithuania,,Lithuania,6248,103,2793
@@ -129,7 +129,7 @@ Suriname,,Suriname,5051,107,4845
 Rwanda,,Rwanda,4905,32,3877
 CAR,,CAR,4854,62,1924
 스리랑카,斯里兰卡,Sri Lanka,4844,13,3317
-Syria,,Syria,4718,224,1296
+Syria,,Syria,4774,228,1331
 Réunion,,Réunion,4624,17,3994
 Aruba,,Aruba,4197,33,3790
 Mayotte,,Mayotte,4030,43,2964

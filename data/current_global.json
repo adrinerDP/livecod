@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8025437,
-        "deaths": 219964,
-        "recovered": 5163707
+        "confirmed": 8028539,
+        "deaths": 219968,
+        "recovered": 5165684
     },
     {
         "Name": "인도",
@@ -779,9 +779,9 @@
         "Name": "Namibia",
         "Name_ch": "",
         "Name_en": "Namibia",
-        "confirmed": 11936,
-        "deaths": 128,
-        "recovered": 9817
+        "confirmed": 11989,
+        "deaths": 129,
+        "recovered": 9913
     },
     {
         "Name": "Guinea",
@@ -795,9 +795,9 @@
         "Name": "Maldives",
         "Name_ch": "",
         "Name_en": "Maldives",
-        "confirmed": 10894,
+        "confirmed": 10943,
         "deaths": 35,
-        "recovered": 9742
+        "recovered": 9783
     },
     {
         "Name": "DRC",
@@ -899,9 +899,9 @@
         "Name": "Cabo Verde",
         "Name_ch": "",
         "Name_en": "Cabo Verde",
-        "confirmed": 7072,
+        "confirmed": 7155,
         "deaths": 75,
-        "recovered": 5981
+        "recovered": 6075
     },
     {
         "Name": "Angola",
@@ -1043,9 +1043,9 @@
         "Name": "Syria",
         "Name_ch": "",
         "Name_en": "Syria",
-        "confirmed": 4718,
-        "deaths": 224,
-        "recovered": 1296
+        "confirmed": 4774,
+        "deaths": 228,
+        "recovered": 1331
     },
     {
         "Name": "Réunion",
