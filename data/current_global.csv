@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8083348,220740,5214428
+미국,美国,United States,8085779,220769,5219454
 인도,印度,India,7237082,110617,6298695
 브라질,巴西,Brazil,5113628,150998,4526975
 러시아,俄罗斯,Russia,1326178,22966,1031785
 스페인,西班牙,Spain,925341,33204,0
 콜롬비아,哥伦比亚,Colombia,924098,28141,806703
-Argentina,,Argentina,903730,24186,732582
+Argentina,,Argentina,917035,24572,742235
 페루,秘鲁,Peru,851171,33357,748097
 멕시코,墨西哥,Mexico,821045,83945,597991
 프랑스,法国,France,756472,32942,102680
@@ -61,7 +61,7 @@ Uzbekistan,,Uzbekistan,61642,511,58613
 오스트리아,奥地利,Austria,57326,861,44949
 레바논,黎巴嫩,Lebanon,55869,479,24581
 알제리,阿尔及利亚,Algeria,53399,1818,37492
-Paraguay,,Paraguay,50344,1096,32751
+Paraguay,,Paraguay,51197,1108,33325
 Kyrgyzstan,,Kyrgyzstan,49871,1092,44712
 Ghana,,Ghana,47097,308,46452
 팔레스타인,巴勒斯坦,Palestine,45200,391,38841
@@ -78,7 +78,7 @@ Tunisia,,Tunisia,32556,478,5032
 El Salvador,,El Salvador,30480,899,25857
 Myanmar,,Myanmar,30437,693,11769
 요르단,约旦,Jordan,28127,225,6361
-호주,澳大利亚,Australia,27316,899,25037
+호주,澳大利亚,Australia,27317,899,25037
 Bulgaria,,Bulgaria,25774,923,16139
 그리스,希腊,Greece,23060,462,9989
 카메룬,喀麦隆,Cameroon,21203,423,20117
@@ -88,8 +88,8 @@ North Macedonia,,North Macedonia,21193,800,16397
 Ivory Coast,,Ivory Coast,20183,120,19860
 말레이시아,马来西亚,Malaysia,16880,163,11372
 Madagascar,,Madagascar,16754,237,16124
+노르웨이,挪威,Norway,15793,277,11863
 Albania,,Albania,15752,429,9675
-노르웨이,挪威,Norway,15730,277,11863
 Zambia,,Zambia,15587,345,14783
 세네갈,塞内加尔,Senegal,15307,315,13508
 Montenegro,,Montenegro,14268,213,10063
@@ -110,16 +110,16 @@ Haiti,,Haiti,8887,230,7140
 Gabon,,Gabon,8860,54,8298
 Zimbabwe,,Zimbabwe,8036,230,7632
 Jamaica,,Jamaica,7910,146,3303
-Mauritania,,Mauritania,7554,163,7297
+Mauritania,,Mauritania,7565,163,7301
 Cabo Verde,,Cabo Verde,7254,77,6210
+Guadeloupe,,Guadeloupe,6908,96,2199
 Angola,,Angola,6680,222,2761
-Guadeloupe,,Guadeloupe,6483,77,2199
 Lithuania,,Lithuania,6366,106,2842
 Cuba,,Cuba,6017,123,5602
 Malawi,,Malawi,5827,181,4688
 Eswatini,,Eswatini,5696,114,5337
 Djibouti,,Djibouti,5428,61,5362
-Nicaragua,,Nicaragua,5264,153,4225
+Nicaragua,,Nicaragua,5353,154,4225
 홍콩,香港,Hong Kong,5202,105,4931
 Bahamas,,Bahamas,5163,108,2978
 Trinidad and Tobago,,Trinidad and Tobago,5127,93,3367
@@ -149,7 +149,7 @@ South Sudan,,South Sudan,2798,55,1290
 Belize,,Belize,2569,37,1566
 Benin,,Benin,2411,41,1973
 Guinea-Bissau,,Guinea-Bissau,2389,41,1782
-Uruguay,,Uruguay,2313,51,1950
+Uruguay,,Uruguay,2337,51,1987
 Sierra Leone,,Sierra Leone,2309,72,1738
 Burkina Faso,,Burkina Faso,2305,63,1581
 Cyprus,,Cyprus,2130,25,1444

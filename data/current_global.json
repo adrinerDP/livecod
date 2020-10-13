@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8083348,
-        "deaths": 220740,
-        "recovered": 5214428
+        "confirmed": 8085779,
+        "deaths": 220769,
+        "recovered": 5219454
     },
     {
         "Name": "인도",
@@ -51,9 +51,9 @@
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 903730,
-        "deaths": 24186,
-        "recovered": 732582
+        "confirmed": 917035,
+        "deaths": 24572,
+        "recovered": 742235
     },
     {
         "Name": "페루",
@@ -499,9 +499,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 50344,
-        "deaths": 1096,
-        "recovered": 32751
+        "confirmed": 51197,
+        "deaths": 1108,
+        "recovered": 33325
     },
     {
         "Name": "Kyrgyzstan",
@@ -635,7 +635,7 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27316,
+        "confirmed": 27317,
         "deaths": 899,
         "recovered": 25037
     },
@@ -712,20 +712,20 @@
         "recovered": 16124
     },
     {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+        "confirmed": 15793,
+        "deaths": 277,
+        "recovered": 11863
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "confirmed": 15752,
         "deaths": 429,
         "recovered": 9675
-    },
-    {
-        "Name": "노르웨이",
-        "Name_ch": "挪威",
-        "Name_en": "Norway",
-        "confirmed": 15730,
-        "deaths": 277,
-        "recovered": 11863
     },
     {
         "Name": "Zambia",
@@ -891,9 +891,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7554,
+        "confirmed": 7565,
         "deaths": 163,
-        "recovered": 7297
+        "recovered": 7301
     },
     {
         "Name": "Cabo Verde",
@@ -904,20 +904,20 @@
         "recovered": 6210
     },
     {
+        "Name": "Guadeloupe",
+        "Name_ch": "",
+        "Name_en": "Guadeloupe",
+        "confirmed": 6908,
+        "deaths": 96,
+        "recovered": 2199
+    },
+    {
         "Name": "Angola",
         "Name_ch": "",
         "Name_en": "Angola",
         "confirmed": 6680,
         "deaths": 222,
         "recovered": 2761
-    },
-    {
-        "Name": "Guadeloupe",
-        "Name_ch": "",
-        "Name_en": "Guadeloupe",
-        "confirmed": 6483,
-        "deaths": 77,
-        "recovered": 2199
     },
     {
         "Name": "Lithuania",
@@ -963,8 +963,8 @@
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
-        "confirmed": 5264,
-        "deaths": 153,
+        "confirmed": 5353,
+        "deaths": 154,
         "recovered": 4225
     },
     {
@@ -1203,9 +1203,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 2313,
+        "confirmed": 2337,
         "deaths": 51,
-        "recovered": 1950
+        "recovered": 1987
     },
     {
         "Name": "Sierra Leone",
