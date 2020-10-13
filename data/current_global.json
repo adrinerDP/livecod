@@ -971,7 +971,7 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5194,
+        "confirmed": 5202,
         "deaths": 105,
         "recovered": 4921
     },
@@ -1160,20 +1160,20 @@
         "recovered": 1928
     },
     {
+        "Name": "라트비아",
+        "Name_ch": "约旦",
+        "Name_en": "Latvia",
+        "confirmed": 2840,
+        "deaths": 41,
+        "recovered": 1325
+    },
+    {
         "Name": "South Sudan",
         "Name_ch": "",
         "Name_en": "South Sudan",
         "confirmed": 2787,
         "deaths": 55,
         "recovered": 1290
-    },
-    {
-        "Name": "라트비아",
-        "Name_ch": "约旦",
-        "Name_en": "Latvia",
-        "confirmed": 2765,
-        "deaths": 40,
-        "recovered": 1325
     },
     {
         "Name": "Belize",
@@ -1445,7 +1445,7 @@
         "Name_en": "Isle of Man",
         "confirmed": 346,
         "deaths": 24,
-        "recovered": 316
+        "recovered": 317
     },
     {
         "Name": "Mongolia",
@@ -1645,7 +1645,7 @@
         "Name_en": "Saint Kitts and Nevis",
         "confirmed": 19,
         "deaths": 0,
-        "recovered": 18
+        "recovered": 19
     },
     {
         "Name": "Greenland",
