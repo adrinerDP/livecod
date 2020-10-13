@@ -139,9 +139,9 @@
         "Name": "필리핀",
         "Name_ch": "菲律宾",
         "Name_en": "Philippines",
-        "confirmed": 342816,
-        "deaths": 6332,
-        "recovered": 293152
+        "confirmed": 344713,
+        "deaths": 6372,
+        "recovered": 293383
     },
     {
         "Name": "사우디아라비아",
@@ -261,7 +261,7 @@
         "Name_en": "Poland",
         "confirmed": 130210,
         "deaths": 3039,
-        "recovered": 81201
+        "recovered": 82004
     },
     {
         "Name": "카타르",
@@ -675,17 +675,17 @@
         "Name": "크로아티아",
         "Name_ch": "克罗地亚",
         "Name_en": "Croatia",
-        "confirmed": 20621,
-        "deaths": 327,
-        "recovered": 17582
+        "confirmed": 20993,
+        "deaths": 330,
+        "recovered": 17889
     },
     {
         "Name": "슬로바키아",
         "Name_ch": "斯洛伐克",
         "Name_en": "Slovakia",
-        "confirmed": 20355,
+        "confirmed": 20886,
         "deaths": 61,
-        "recovered": 6031
+        "recovered": 6388
     },
     {
         "Name": "Ivory Coast",
