@@ -467,9 +467,9 @@
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
-        "confirmed": 56821,
-        "deaths": 1026,
-        "recovered": 45891
+        "confirmed": 57566,
+        "deaths": 1032,
+        "recovered": 46318
     },
     {
         "Name": "오스트리아",
@@ -611,9 +611,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 30196,
-        "deaths": 894,
-        "recovered": 25438
+        "confirmed": 30480,
+        "deaths": 899,
+        "recovered": 25857
     },
     {
         "Name": "Myanmar",
