@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 75948,
-        "deaths": 280,
+        "deaths": 282,
         "recovered": 71687
     },
     {
@@ -443,8 +443,8 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 61419,
-        "deaths": 509,
+        "confirmed": 61534,
+        "deaths": 510,
         "recovered": 58427
     },
     {
@@ -563,9 +563,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39870,
-        "deaths": 1479,
-        "recovered": 33118
+        "confirmed": 39928,
+        "deaths": 1480,
+        "recovered": 33308
     },
     {
         "Name": "헝가리",
@@ -763,9 +763,9 @@
         "Name": "조지아",
         "Name_ch": "格鲁吉亚",
         "Name_en": "Georgia",
-        "confirmed": 12272,
-        "deaths": 93,
-        "recovered": 6538
+        "confirmed": 12841,
+        "deaths": 102,
+        "recovered": 6867
     },
     {
         "Name": "핀란드",
