@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8085779,
-        "deaths": 220769,
-        "recovered": 5219454
+        "confirmed": 8087317,
+        "deaths": 220776,
+        "recovered": 5220809
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5113628,
-        "deaths": 150998,
+        "confirmed": 5114823,
+        "deaths": 151063,
         "recovered": 4526975
     },
     {
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 851171,
-        "deaths": 33357,
-        "recovered": 748097
+        "confirmed": 853974,
+        "deaths": 33419,
+        "recovered": 753959
     },
     {
         "Name": "멕시코",
@@ -264,20 +264,20 @@
         "recovered": 82004
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 129747,
+        "deaths": 1106,
+        "recovered": 59901
+    },
+    {
         "Name": "카타르",
         "Name_ch": "卡塔尔",
         "Name_en": "Qatar",
         "confirmed": 128405,
         "deaths": 220,
         "recovered": 125373
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 125328,
-        "deaths": 1097,
-        "recovered": 58417
     },
     {
         "Name": "Panama",
@@ -1000,20 +1000,20 @@
         "recovered": 3887
     },
     {
+        "Name": "Suriname",
+        "Name_ch": "",
+        "Name_en": "Suriname",
+        "confirmed": 5072,
+        "deaths": 107,
+        "recovered": 4870
+    },
+    {
         "Name": "Equatorial Guinea",
         "Name_ch": "",
         "Name_en": "Equatorial Guinea",
         "confirmed": 5066,
         "deaths": 83,
         "recovered": 4954
-    },
-    {
-        "Name": "Suriname",
-        "Name_ch": "",
-        "Name_en": "Suriname",
-        "confirmed": 5058,
-        "deaths": 107,
-        "recovered": 4862
     },
     {
         "Name": "스리랑카",

@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8085779,220769,5219454
+미국,美国,United States,8087317,220776,5220809
 인도,印度,India,7237082,110617,6298695
-브라질,巴西,Brazil,5113628,150998,4526975
+브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1326178,22966,1031785
 스페인,西班牙,Spain,925341,33204,0
 콜롬비아,哥伦比亚,Colombia,924098,28141,806703
 Argentina,,Argentina,917035,24572,742235
-페루,秘鲁,Peru,851171,33357,748097
+페루,秘鲁,Peru,853974,33419,753959
 멕시코,墨西哥,Mexico,821045,83945,597991
 프랑스,法国,France,756472,32942,102680
 남아프리카 공화국,南非共和国,South Africa,694537,18028,625574
@@ -32,8 +32,8 @@ Ukraine,,Ukraine,270587,5122,116562
 에콰도르,厄瓜多尔,Ecuador,148171,12235,128134
 Bolivia,,Bolivia,138695,8326,101523
 폴란드,波兰,Poland,135278,3101,82004
+체코,捷克,Czechia,129747,1106,59901
 카타르,卡塔尔,Qatar,128405,220,125373
-체코,捷克,Czechia,125328,1097,58417
 Panama,,Panama,120802,2502,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
 네팔,尼泊尔,Nepal,115358,663,78780
@@ -124,8 +124,8 @@ Nicaragua,,Nicaragua,5353,154,4225
 Bahamas,,Bahamas,5163,108,2978
 Trinidad and Tobago,,Trinidad and Tobago,5127,93,3367
 Congo,,Congo,5118,90,3887
+Suriname,,Suriname,5072,107,4870
 Equatorial Guinea,,Equatorial Guinea,5066,83,4954
-Suriname,,Suriname,5058,107,4862
 스리랑카,斯里兰卡,Sri Lanka,5038,13,3328
 Rwanda,,Rwanda,4908,32,4130
 CAR,,CAR,4854,62,1924
