@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8076362,
-        "deaths": 220606,
-        "recovered": 5210236
+        "confirmed": 8077084,
+        "deaths": 220610,
+        "recovered": 5211094
     },
     {
         "Name": "인도",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 296215,
-        "deaths": 2040,
-        "recovered": 243395
+        "confirmed": 296652,
+        "deaths": 2055,
+        "recovered": 245811
     },
     {
         "Name": "Ukraine",
@@ -360,20 +360,20 @@
         "recovered": 87744
     },
     {
+        "Name": "코스타리카",
+        "Name_ch": "哥斯达黎加",
+        "Name_en": "Costa Rica",
+        "confirmed": 90238,
+        "deaths": 1124,
+        "recovered": 53670
+    },
+    {
         "Name": "일본",
         "Name_ch": "日本",
         "Name_en": "Japan",
         "confirmed": 89673,
         "deaths": 1634,
         "recovered": 82621
-    },
-    {
-        "Name": "코스타리카",
-        "Name_ch": "哥斯达黎加",
-        "Name_en": "Costa Rica",
-        "confirmed": 89223,
-        "deaths": 1108,
-        "recovered": 53247
     },
     {
         "Name": "포르투갈",
@@ -491,9 +491,9 @@
         "Name": "알제리",
         "Name_ch": "阿尔及利亚",
         "Name_en": "Algeria",
-        "confirmed": 53225,
-        "deaths": 1809,
-        "recovered": 37382
+        "confirmed": 53399,
+        "deaths": 1818,
+        "recovered": 37492
     },
     {
         "Name": "Paraguay",
@@ -984,20 +984,20 @@
         "recovered": 2978
     },
     {
+        "Name": "Trinidad and Tobago",
+        "Name_ch": "",
+        "Name_en": "Trinidad and Tobago",
+        "confirmed": 5127,
+        "deaths": 93,
+        "recovered": 3367
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
         "confirmed": 5118,
         "deaths": 90,
         "recovered": 3887
-    },
-    {
-        "Name": "Trinidad and Tobago",
-        "Name_ch": "",
-        "Name_en": "Trinidad and Tobago",
-        "confirmed": 5116,
-        "deaths": 92,
-        "recovered": 3303
     },
     {
         "Name": "Equatorial Guinea",
@@ -1139,9 +1139,9 @@
         "Name": "Mali",
         "Name_ch": "",
         "Name_en": "Mali",
-        "confirmed": 3296,
+        "confirmed": 3297,
         "deaths": 132,
-        "recovered": 2533
+        "recovered": 2544
     },
     {
         "Name": "French Polynesia",
@@ -1291,7 +1291,7 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1202,
+        "confirmed": 1203,
         "deaths": 69,
         "recovered": 1124
     },
@@ -1435,9 +1435,9 @@
         "Name": "Mauritius",
         "Name_ch": "",
         "Name_en": "Mauritius",
-        "confirmed": 404,
+        "confirmed": 407,
         "deaths": 10,
-        "recovered": 359
+        "recovered": 361
     },
     {
         "Name": "Isle of Man",
