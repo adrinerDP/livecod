@@ -144,6 +144,14 @@
         "recovered": 293383
     },
     {
+        "Name": "인도네시아",
+        "Name_ch": "印度尼西亚",
+        "Name_en": "Indonesia",
+        "confirmed": 340622,
+        "deaths": 12027,
+        "recovered": 263296
+    },
+    {
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
@@ -160,19 +168,11 @@
         "recovered": 295658
     },
     {
-        "Name": "인도네시아",
-        "Name_ch": "印度尼西亚",
-        "Name_en": "Indonesia",
-        "confirmed": 336716,
-        "deaths": 11935,
-        "recovered": 258519
-    },
-    {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 331094,
-        "deaths": 9721,
+        "confirmed": 331562,
+        "deaths": 9723,
         "recovered": 279100
     },
     {
@@ -259,8 +259,8 @@
         "Name": "폴란드",
         "Name_ch": "波兰",
         "Name_en": "Poland",
-        "confirmed": 130210,
-        "deaths": 3039,
+        "confirmed": 135278,
+        "deaths": 3101,
         "recovered": 82004
     },
     {
@@ -475,9 +475,9 @@
         "Name": "오스트리아",
         "Name_ch": "奥地利",
         "Name_en": "Austria",
-        "confirmed": 56298,
-        "deaths": 855,
-        "recovered": 44065
+        "confirmed": 57326,
+        "deaths": 861,
+        "recovered": 44949
     },
     {
         "Name": "레바논",
@@ -627,9 +627,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27310,
+        "confirmed": 27316,
         "deaths": 899,
-        "recovered": 25015
+        "recovered": 25037
     },
     {
         "Name": "요르단",
@@ -787,9 +787,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 11062,
+        "confirmed": 11134,
         "deaths": 70,
-        "recovered": 10337
+        "recovered": 10347
     },
     {
         "Name": "Maldives",
@@ -923,9 +923,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 6248,
-        "deaths": 103,
-        "recovered": 2793
+        "confirmed": 6366,
+        "deaths": 106,
+        "recovered": 2842
     },
     {
         "Name": "Cuba",
