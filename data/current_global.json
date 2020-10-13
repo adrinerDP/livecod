@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8082035,
-        "deaths": 220698,
-        "recovered": 5213905
+        "confirmed": 8083348,
+        "deaths": 220740,
+        "recovered": 5214428
     },
     {
         "Name": "인도",
@@ -243,8 +243,8 @@
         "Name": "에콰도르",
         "Name_ch": "厄瓜多尔",
         "Name_en": "Ecuador",
-        "confirmed": 147315,
-        "deaths": 12218,
+        "confirmed": 148171,
+        "deaths": 12235,
         "recovered": 128134
     },
     {
@@ -451,9 +451,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 60430,
-        "deaths": 1115,
-        "recovered": 51943
+        "confirmed": 60655,
+        "deaths": 1116,
+        "recovered": 52006
     },
     {
         "Name": "싱가포르",
@@ -731,9 +731,9 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 15549,
+        "confirmed": 15587,
         "deaths": 345,
-        "recovered": 14682
+        "recovered": 14783
     },
     {
         "Name": "세네갈",
@@ -859,9 +859,9 @@
         "Name": "Haiti",
         "Name_ch": "",
         "Name_en": "Haiti",
-        "confirmed": 8882,
+        "confirmed": 8887,
         "deaths": 230,
-        "recovered": 7104
+        "recovered": 7140
     },
     {
         "Name": "Gabon",
