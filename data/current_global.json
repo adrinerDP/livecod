@@ -11,9 +11,9 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7177783,
-        "deaths": 109917,
-        "recovered": 6227295
+        "confirmed": 7179006,
+        "deaths": 109923,
+        "recovered": 6228098
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 331562,
-        "deaths": 9723,
+        "confirmed": 332444,
+        "deaths": 9727,
         "recovered": 279100
     },
     {
@@ -379,9 +379,9 @@
         "Name": "포르투갈",
         "Name_ch": "葡萄牙",
         "Name_en": "Portugal",
-        "confirmed": 87913,
-        "deaths": 2094,
-        "recovered": 53498
+        "confirmed": 89121,
+        "deaths": 2110,
+        "recovered": 54047
     },
     {
         "Name": "Ethiopia",
@@ -392,20 +392,20 @@
         "recovered": 38904
     },
     {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+        "confirmed": 84524,
+        "deaths": 906,
+        "recovered": 77797
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 84413,
         "deaths": 2521,
         "recovered": 32214
-    },
-    {
-        "Name": "벨라루스",
-        "Name_ch": "白俄罗斯",
-        "Name_en": "Belarus",
-        "confirmed": 83998,
-        "deaths": 901,
-        "recovered": 77423
     },
     {
         "Name": "Venezuela",
@@ -515,9 +515,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 47030,
+        "confirmed": 47097,
         "deaths": 308,
-        "recovered": 46424
+        "recovered": 46452
     },
     {
         "Name": "Libya",
@@ -555,9 +555,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 41619,
-        "deaths": 777,
-        "recovered": 32000
+        "confirmed": 41937,
+        "deaths": 787,
+        "recovered": 31340
     },
     {
         "Name": "아프가니스탄",
@@ -619,9 +619,9 @@
         "Name": "Myanmar",
         "Name_ch": "",
         "Name_en": "Myanmar",
-        "confirmed": 29314,
-        "deaths": 664,
-        "recovered": 10260
+        "confirmed": 30437,
+        "deaths": 693,
+        "recovered": 11769
     },
     {
         "Name": "호주",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10260,
+        "confirmed": 10297,
         "deaths": 79,
-        "recovered": 9103
+        "recovered": 9177
     },
     {
         "Name": "French Guiana",

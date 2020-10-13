@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,8038543,220027,5186407
-인도,印度,India,7177783,109917,6227295
+인도,印度,India,7179006,109923,6228098
 브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1326178,22966,1031785
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,381275,5577,295873
 인도네시아,印度尼西亚,Indonesia,340622,12027,263296
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340089,5087,326339
 터키,土耳其,Turkey,337147,8895,295658
-독일,德国,Germany,331562,9723,279100
+독일,德国,Germany,332444,9727,279100
 파키스탄,巴基斯坦,Pakistan,319848,6588,304609
 이스라엘,以色列,Israel,295037,2021,241764
 Ukraine,,Ukraine,270587,5122,116562
@@ -46,10 +46,10 @@ Kazakhstan,,Kazakhstan,108901,1746,104203
 Guatemala,,Guatemala,97826,3387,87016
 일본,日本,Japan,89347,1629,82113
 코스타리카,哥斯达黎加,Costa Rica,89223,1108,53247
-포르투갈,葡萄牙,Portugal,87913,2094,53498
+포르투갈,葡萄牙,Portugal,89121,2110,54047
 Ethiopia,,Ethiopia,85136,1301,38904
+벨라루스,白俄罗斯,Belarus,84524,906,77797
 Honduras,,Honduras,84413,2521,32214
-벨라루스,白俄罗斯,Belarus,83998,901,77423
 Venezuela,,Venezuela,83756,704,75400
 바레인,巴林,Bahrain,75948,284,71687
 스위스,瑞士,Switzerland,65881,2102,49800
@@ -63,12 +63,12 @@ Uzbekistan,,Uzbekistan,61642,511,58613
 알제리,阿尔及利亚,Algeria,53225,1809,37382
 Paraguay,,Paraguay,50344,1096,32751
 Kyrgyzstan,,Kyrgyzstan,49871,1092,44712
-Ghana,,Ghana,47030,308,46424
+Ghana,,Ghana,47097,308,46452
 Libya,,Libya,44985,656,25007
 팔레스타인,巴勒斯坦,Palestine,44684,387,38228
 아일랜드,冰岛,Ireland,43351,1827,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42381,612,39468
-Kenya,,Kenya,41619,777,32000
+Kenya,,Kenya,41937,787,31340
 아프가니스탄,阿富汗,Afghanistan,39928,1480,33308
 헝가리,匈牙利,Hungary,39862,996,11753
 세르비아,塞尔维亚,Serbia,35006,767,31536
@@ -76,7 +76,7 @@ Kenya,,Kenya,41619,777,32000
 Tunisia,,Tunisia,32556,478,5032
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31173,947,23777
 El Salvador,,El Salvador,30480,899,25857
-Myanmar,,Myanmar,29314,664,10260
+Myanmar,,Myanmar,30437,693,11769
 호주,澳大利亚,Australia,27316,899,25037
 요르단,约旦,Jordan,26073,207,6219
 Bulgaria,,Bulgaria,24989,915,15975
@@ -100,7 +100,7 @@ Namibia,,Namibia,11989,129,9913
 Guinea,,Guinea,11134,70,10347
 Maldives,,Maldives,10943,35,9783
 DRC,,DRC,10872,276,10249
-Tajikistan,,Tajikistan,10260,79,9103
+Tajikistan,,Tajikistan,10297,79,9177
 French Guiana,,French Guiana,10180,69,9855
 Mozambique,,Mozambique,10088,72,7550
 Uganda,,Uganda,9864,94,6109
