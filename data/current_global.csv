@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8037193,220010,5179236
-인도,印度,India,7173345,109894,6224621
+미국,美国,United States,8037789,220011,5184615
+인도,印度,India,7173565,109894,6224792
 브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1312310,22722,1024235
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
 스페인,西班牙,Spain,918223,33124,0
 Argentina,,Argentina,903730,24186,732582
-페루,秘鲁,Peru,849371,33305,743969
+페루,秘鲁,Peru,851171,33357,748097
 멕시코,墨西哥,Mexico,817503,83781,594180
 프랑스,法国,France,743479,32779,100828
 남아프리카 공화국,南非共和国,South Africa,693359,17863,624659
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,379738,5555,294391
 사우디아라비아,沙特阿拉伯,Saudi Arabia,339615,5068,325839
 터키,土耳其,Turkey,337147,8895,295658
 인도네시아,印度尼西亚,Indonesia,336716,11935,258519
-독일,德国,Germany,331093,9721,276900
+독일,德国,Germany,331094,9721,276900
 파키스탄,巴基斯坦,Pakistan,319317,6580,304185
 이스라엘,以色列,Israel,294031,2021,238681
 Ukraine,,Ukraine,265454,5015,114410
@@ -50,7 +50,7 @@ Guatemala,,Guatemala,97826,3387,87016
 Ethiopia,,Ethiopia,85136,1301,38904
 Honduras,,Honduras,84081,2512,32012
 벨라루스,白俄罗斯,Belarus,83998,901,77423
-Venezuela,,Venezuela,83137,697,74664
+Venezuela,,Venezuela,83756,704,75400
 바레인,巴林,Bahrain,75948,280,71687
 스위스,瑞士,Switzerland,64436,2096,49500
 Moldova,,Moldova,62618,1478,44728
@@ -160,9 +160,9 @@ Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1805,42,961
 Liberia,,Liberia,1371,82,1250
 Chad,,Chad,1308,92,1117
-Niger,,Niger,1201,69,1123
+Niger,,Niger,1202,69,1124
 베트남,越南,Vietnam,1110,35,1025
-Sao Tome and Principe,,Sao Tome and Principe,929,15,892
+Sao Tome and Principe,,Sao Tome and Principe,929,15,895
 산마리노,圣马力诺,San Marino,741,42,682
 Channel Islands,,Channel Islands,737,48,623
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
@@ -186,7 +186,7 @@ Mongolia,,Mongolia,318,0,310
 모나코,摩纳哥,Monaco,236,2,213
 Cayman Islands,,Cayman Islands,221,1,211
 Barbados,,Barbados,208,7,186
-Bermuda,,Bermuda,184,9,170
+Bermuda,,Bermuda,184,9,172
 Caribbean Netherlands,,Caribbean Netherlands,148,2,78
 리히텐슈타인,列支敦士登,Liechtenstein,148,1,124
 Seychelles,,Seychelles,148,0,144
@@ -201,7 +201,7 @@ Dominica,,Dominica,32,0,24
 Saint Lucia,,Saint Lucia,29,0,27
 Timor-Leste,,Timor-Leste,29,0,28
 New Caledonia,,New Caledonia,27,0,27
-Grenada,,Grenada,24,0,24
+Grenada,,Grenada,25,0,24
 Laos,,Laos,23,0,22
 Vatican City,,Vatican City,19,0,12
 Saint Kitts and Nevis,,Saint Kitts and Nevis,19,0,18

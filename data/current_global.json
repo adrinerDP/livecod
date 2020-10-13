@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8037193,
-        "deaths": 220010,
-        "recovered": 5179236
+        "confirmed": 8037789,
+        "deaths": 220011,
+        "recovered": 5184615
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7173345,
+        "confirmed": 7173565,
         "deaths": 109894,
-        "recovered": 6224621
+        "recovered": 6224792
     },
     {
         "Name": "브라질",
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 849371,
-        "deaths": 33305,
-        "recovered": 743969
+        "confirmed": 851171,
+        "deaths": 33357,
+        "recovered": 748097
     },
     {
         "Name": "멕시코",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 331093,
+        "confirmed": 331094,
         "deaths": 9721,
         "recovered": 276900
     },
@@ -411,9 +411,9 @@
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
-        "confirmed": 83137,
-        "deaths": 697,
-        "recovered": 74664
+        "confirmed": 83756,
+        "deaths": 704,
+        "recovered": 75400
     },
     {
         "Name": "바레인",
@@ -1291,9 +1291,9 @@
         "Name": "Niger",
         "Name_ch": "",
         "Name_en": "Niger",
-        "confirmed": 1201,
+        "confirmed": 1202,
         "deaths": 69,
-        "recovered": 1123
+        "recovered": 1124
     },
     {
         "Name": "베트남",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 929,
         "deaths": 15,
-        "recovered": 892
+        "recovered": 895
     },
     {
         "Name": "산마리노",
@@ -1501,7 +1501,7 @@
         "Name_en": "Bermuda",
         "confirmed": 184,
         "deaths": 9,
-        "recovered": 170
+        "recovered": 172
     },
     {
         "Name": "Caribbean Netherlands",
@@ -1619,7 +1619,7 @@
         "Name": "Grenada",
         "Name_ch": "",
         "Name_en": "Grenada",
-        "confirmed": 24,
+        "confirmed": 25,
         "deaths": 0,
         "recovered": 24
     },
