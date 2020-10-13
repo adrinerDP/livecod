@@ -235,9 +235,9 @@
         "Name": "모로코",
         "Name_ch": "摩洛哥",
         "Name_en": "Morocco",
-        "confirmed": 153761,
-        "deaths": 2636,
-        "recovered": 129498
+        "confirmed": 156946,
+        "deaths": 2685,
+        "recovered": 131462
     },
     {
         "Name": "에콰도르",
@@ -483,9 +483,9 @@
         "Name": "레바논",
         "Name_ch": "黎巴嫩",
         "Name_en": "Lebanon",
-        "confirmed": 54624,
-        "deaths": 466,
-        "recovered": 23941
+        "confirmed": 55869,
+        "deaths": 479,
+        "recovered": 24581
     },
     {
         "Name": "알제리",
@@ -835,9 +835,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 9864,
-        "deaths": 94,
-        "recovered": 6109
+        "confirmed": 9945,
+        "deaths": 95,
+        "recovered": 6347
     },
     {
         "Name": "룩셈부르크",
