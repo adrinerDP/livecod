@@ -200,20 +200,20 @@
         "recovered": 116562
     },
     {
+        "Name": "네덜란드",
+        "Name_ch": "荷兰",
+        "Name_en": "Netherlands",
+        "confirmed": 188876,
+        "deaths": 6631,
+        "recovered": 0
+    },
+    {
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
         "confirmed": 182839,
         "deaths": 9627,
         "recovered": 154258
-    },
-    {
-        "Name": "네덜란드",
-        "Name_ch": "荷兰",
-        "Name_en": "Netherlands",
-        "confirmed": 181498,
-        "deaths": 6596,
-        "recovered": 0
     },
     {
         "Name": "벨기에",
@@ -307,9 +307,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 111893,
-        "deaths": 664,
-        "recovered": 103802
+        "confirmed": 112737,
+        "deaths": 672,
+        "recovered": 104508
     },
     {
         "Name": "Kazakhstan",
@@ -347,8 +347,8 @@
         "Name": "스웨덴",
         "Name_ch": "瑞典语",
         "Name_en": "Sweden",
-        "confirmed": 98451,
-        "deaths": 5894,
+        "confirmed": 100654,
+        "deaths": 5899,
         "recovered": 0
     },
     {
@@ -667,9 +667,9 @@
         "Name": "North Macedonia",
         "Name_ch": "",
         "Name_en": "North Macedonia",
-        "confirmed": 21113,
-        "deaths": 797,
-        "recovered": 16301
+        "confirmed": 21193,
+        "deaths": 800,
+        "recovered": 16397
     },
     {
         "Name": "크로아티아",
@@ -716,7 +716,7 @@
         "Name_ch": "挪威",
         "Name_en": "Norway",
         "confirmed": 15639,
-        "deaths": 276,
+        "deaths": 277,
         "recovered": 11863
     },
     {
@@ -973,7 +973,7 @@
         "Name_en": "Hong Kong",
         "confirmed": 5202,
         "deaths": 105,
-        "recovered": 4921
+        "recovered": 4931
     },
     {
         "Name": "Bahamas",
@@ -1299,7 +1299,7 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1110,
+        "confirmed": 1113,
         "deaths": 35,
         "recovered": 1025
     },
@@ -1413,7 +1413,7 @@
         "Name_en": "Faeroe Islands",
         "confirmed": 477,
         "deaths": 0,
-        "recovered": 463
+        "recovered": 465
     },
     {
         "Name": "Saint Martin",
@@ -1504,20 +1504,20 @@
         "recovered": 172
     },
     {
+        "Name": "리히텐슈타인",
+        "Name_ch": "列支敦士登",
+        "Name_en": "Liechtenstein",
+        "confirmed": 163,
+        "deaths": 1,
+        "recovered": 128
+    },
+    {
         "Name": "Caribbean Netherlands",
         "Name_ch": "",
         "Name_en": "Caribbean Netherlands",
         "confirmed": 148,
         "deaths": 2,
         "recovered": 78
-    },
-    {
-        "Name": "리히텐슈타인",
-        "Name_ch": "列支敦士登",
-        "Name_en": "Liechtenstein",
-        "confirmed": 148,
-        "deaths": 1,
-        "recovered": 124
     },
     {
         "Name": "Seychelles",
