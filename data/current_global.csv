@@ -1,10 +1,10 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8049854,220281,5197125
-인도,印度,India,7205923,110118,6255622
-브라질,巴西,Brazil,5103408,150709,4495269
+미국,美国,United States,8052784,220308,5199749
+인도,印度,India,7233670,110588,6293998
+브라질,巴西,Brazil,5105033,150772,4495269
 러시아,俄罗斯,Russia,1326178,22966,1031785
+스페인,西班牙,Spain,925341,33204,0
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
-스페인,西班牙,Spain,918223,33124,0
 Argentina,,Argentina,903730,24186,732582
 페루,秘鲁,Peru,851171,33357,748097
 멕시코,墨西哥,Mexico,821045,83945,597991
@@ -19,10 +19,10 @@ Bangladesh,,Bangladesh,381275,5577,295873
 필리핀,菲律宾,Philippines,344713,6372,293383
 인도네시아,印度尼西亚,Indonesia,340622,12027,263296
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340089,5087,326339
-터키,土耳其,Turkey,337147,8895,295658
-독일,德国,Germany,333311,9729,279100
+터키,土耳其,Turkey,338779,8957,296972
+독일,德国,Germany,333770,9733,279100
 파키스탄,巴基斯坦,Pakistan,319848,6588,304609
-이스라엘,以色列,Israel,295625,2032,242027
+이스라엘,以色列,Israel,296215,2040,243395
 Ukraine,,Ukraine,270587,5122,116562
 네덜란드,荷兰,Netherlands,188876,6631,0
 캐나다,加拿大,Canada,184392,9636,154882
@@ -33,7 +33,7 @@ Ukraine,,Ukraine,270587,5122,116562
 Bolivia,,Bolivia,138695,8326,101523
 폴란드,波兰,Poland,135278,3101,82004
 카타르,卡塔尔,Qatar,128405,220,125373
-체코,捷克,Czechia,121421,1051,58200
+체코,捷克,Czechia,125328,1097,58417
 Panama,,Panama,120802,2502,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
 네팔,尼泊尔,Nepal,115358,663,78780
@@ -56,7 +56,7 @@ Venezuela,,Venezuela,83756,704,75400
 Moldova,,Moldova,63275,1495,45102
 Uzbekistan,,Uzbekistan,61642,511,58613
 나이지리아,尼日利亚,Nigeria,60430,1115,51943
-싱가포르,新加坡,Singapore,57884,28,57728
+싱가포르,新加坡,Singapore,57884,28,57740
 아르메니아,亚美尼亚,Armenia,57566,1032,46318
 오스트리아,奥地利,Austria,57326,861,44949
 레바논,黎巴嫩,Lebanon,54624,466,23941
@@ -152,26 +152,26 @@ Guinea-Bissau,,Guinea-Bissau,2389,41,1782
 Uruguay,,Uruguay,2313,51,1950
 Sierra Leone,,Sierra Leone,2306,72,1736
 Burkina Faso,,Burkina Faso,2294,63,1571
+Cyprus,,Cyprus,2109,25,1444
 Yemen,,Yemen,2052,596,1329
-Cyprus,,Cyprus,2047,25,1444
 토고,多哥,Togo,1949,49,1461
 New Zealand,,New Zealand,1872,25,1808
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1805,42,961
-Liberia,,Liberia,1371,82,1250
+Liberia,,Liberia,1371,82,1251
 Chad,,Chad,1308,92,1117
 Niger,,Niger,1202,69,1124
 베트남,越南,Vietnam,1113,35,1025
 Sao Tome and Principe,,Sao Tome and Principe,929,15,895
+Channel Islands,,Channel Islands,741,48,640
 산마리노,圣马力诺,San Marino,741,42,682
-Channel Islands,,Channel Islands,737,48,623
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Sint Maarten,,Sint Maarten,710,22,632
 Turks and Caicos,,Turks and Caicos,696,6,672
-Curaçao,,Curaçao,585,1,332
+Curaçao,,Curaçao,619,1,343
 Papua New Guinea,,Papua New Guinea,565,7,537
 대만,台湾,Taiwan,530,7,489
-Burundi,,Burundi,525,1,472
+Burundi,,Burundi,529,1,472
 Tanzania,,Tanzania,509,21,183
 지브롤터,直布罗陀,Gibraltar,499,0,424
 Comoros,,Comoros,495,7,475

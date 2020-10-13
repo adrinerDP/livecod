@@ -3,24 +3,24 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8049854,
-        "deaths": 220281,
-        "recovered": 5197125
+        "confirmed": 8052784,
+        "deaths": 220308,
+        "recovered": 5199749
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7205923,
-        "deaths": 110118,
-        "recovered": 6255622
+        "confirmed": 7233670,
+        "deaths": 110588,
+        "recovered": 6293998
     },
     {
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5103408,
-        "deaths": 150709,
+        "confirmed": 5105033,
+        "deaths": 150772,
         "recovered": 4495269
     },
     {
@@ -32,20 +32,20 @@
         "recovered": 1031785
     },
     {
+        "Name": "스페인",
+        "Name_ch": "西班牙",
+        "Name_en": "Spain",
+        "confirmed": 925341,
+        "deaths": 33204,
+        "recovered": 0
+    },
+    {
         "Name": "콜롬비아",
         "Name_ch": "哥伦比亚",
         "Name_en": "Colombia",
         "confirmed": 919083,
         "deaths": 27985,
         "recovered": 798396
-    },
-    {
-        "Name": "스페인",
-        "Name_ch": "西班牙",
-        "Name_en": "Spain",
-        "confirmed": 918223,
-        "deaths": 33124,
-        "recovered": 0
     },
     {
         "Name": "Argentina",
@@ -163,16 +163,16 @@
         "Name": "터키",
         "Name_ch": "土耳其",
         "Name_en": "Turkey",
-        "confirmed": 337147,
-        "deaths": 8895,
-        "recovered": 295658
+        "confirmed": 338779,
+        "deaths": 8957,
+        "recovered": 296972
     },
     {
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 333311,
-        "deaths": 9729,
+        "confirmed": 333770,
+        "deaths": 9733,
         "recovered": 279100
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 295625,
-        "deaths": 2032,
-        "recovered": 242027
+        "confirmed": 296215,
+        "deaths": 2040,
+        "recovered": 243395
     },
     {
         "Name": "Ukraine",
@@ -275,9 +275,9 @@
         "Name": "체코",
         "Name_ch": "捷克",
         "Name_en": "Czechia",
-        "confirmed": 121421,
-        "deaths": 1051,
-        "recovered": 58200
+        "confirmed": 125328,
+        "deaths": 1097,
+        "recovered": 58417
     },
     {
         "Name": "Panama",
@@ -461,7 +461,7 @@
         "Name_en": "Singapore",
         "confirmed": 57884,
         "deaths": 28,
-        "recovered": 57728
+        "recovered": 57740
     },
     {
         "Name": "아르메니아",
@@ -1224,20 +1224,20 @@
         "recovered": 1571
     },
     {
+        "Name": "Cyprus",
+        "Name_ch": "",
+        "Name_en": "Cyprus",
+        "confirmed": 2109,
+        "deaths": 25,
+        "recovered": 1444
+    },
+    {
         "Name": "Yemen",
         "Name_ch": "",
         "Name_en": "Yemen",
         "confirmed": 2052,
         "deaths": 596,
         "recovered": 1329
-    },
-    {
-        "Name": "Cyprus",
-        "Name_ch": "",
-        "Name_en": "Cyprus",
-        "confirmed": 2047,
-        "deaths": 25,
-        "recovered": 1444
     },
     {
         "Name": "토고",
@@ -1277,7 +1277,7 @@
         "Name_en": "Liberia",
         "confirmed": 1371,
         "deaths": 82,
-        "recovered": 1250
+        "recovered": 1251
     },
     {
         "Name": "Chad",
@@ -1312,20 +1312,20 @@
         "recovered": 895
     },
     {
+        "Name": "Channel Islands",
+        "Name_ch": "",
+        "Name_en": "Channel Islands",
+        "confirmed": 741,
+        "deaths": 48,
+        "recovered": 640
+    },
+    {
         "Name": "산마리노",
         "Name_ch": "圣马力诺",
         "Name_en": "San Marino",
         "confirmed": 741,
         "deaths": 42,
         "recovered": 682
-    },
-    {
-        "Name": "Channel Islands",
-        "Name_ch": "",
-        "Name_en": "Channel Islands",
-        "confirmed": 737,
-        "deaths": 48,
-        "recovered": 623
     },
     {
         "Name": "일본크루즈",
@@ -1355,9 +1355,9 @@
         "Name": "Curaçao",
         "Name_ch": "",
         "Name_en": "Curaçao",
-        "confirmed": 585,
+        "confirmed": 619,
         "deaths": 1,
-        "recovered": 332
+        "recovered": 343
     },
     {
         "Name": "Papua New Guinea",
@@ -1379,7 +1379,7 @@
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
-        "confirmed": 525,
+        "confirmed": 529,
         "deaths": 1,
         "recovered": 472
     },
