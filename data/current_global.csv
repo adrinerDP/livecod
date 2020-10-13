@@ -7,7 +7,7 @@
 스페인,西班牙,Spain,918223,33124,0
 Argentina,,Argentina,903730,24186,732582
 페루,秘鲁,Peru,851171,33357,748097
-멕시코,墨西哥,Mexico,817503,83781,594180
+멕시코,墨西哥,Mexico,821045,83945,597991
 프랑스,法国,France,743479,32779,100828
 남아프리카 공화국,南非共和国,South Africa,693359,17863,624659
 영국,英国,UK,617688,42875,0
@@ -30,7 +30,7 @@ Ukraine,,Ukraine,265454,5015,114410
 루마니아,尼亚,Romania,157352,5467,118912
 모로코,摩洛哥,Morocco,153761,2636,129498
 에콰도르,厄瓜多尔,Ecuador,147315,12218,128134
-Bolivia,,Bolivia,138574,8308,101103
+Bolivia,,Bolivia,138695,8326,101523
 폴란드,波兰,Poland,130210,3039,81201
 카타르,卡塔尔,Qatar,128191,220,125176
 체코,捷克,Czechia,121421,1051,58200
@@ -77,7 +77,7 @@ Tunisia,,Tunisia,32556,478,5032
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30837,936,23587
 El Salvador,,El Salvador,30196,894,25438
 Myanmar,,Myanmar,29314,664,10260
-호주,澳大利亚,Australia,27287,898,25013
+호주,澳大利亚,Australia,27310,899,25015
 요르단,约旦,Jordan,26073,207,6219
 Bulgaria,,Bulgaria,24989,915,15975
 그리스,希腊,Greece,22652,456,9989
@@ -155,7 +155,7 @@ Burkina Faso,,Burkina Faso,2294,63,1571
 Yemen,,Yemen,2052,596,1329
 Cyprus,,Cyprus,2047,25,1444
 토고,多哥,Togo,1949,49,1461
-New Zealand,,New Zealand,1871,25,1801
+New Zealand,,New Zealand,1872,25,1808
 Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1805,42,961
 Liberia,,Liberia,1371,82,1250
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,2,0,0
-중국,中国,China,85578,4634,80714
+중국,中国,China,85591,4634,80729
