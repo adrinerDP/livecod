@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8073455,
-        "deaths": 220549,
-        "recovered": 5208747
+        "confirmed": 8076362,
+        "deaths": 220606,
+        "recovered": 5210236
     },
     {
         "Name": "인도",
@@ -1403,9 +1403,9 @@
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
-        "confirmed": 495,
+        "confirmed": 496,
         "deaths": 7,
-        "recovered": 475
+        "recovered": 484
     },
     {
         "Name": "Faeroe Islands",
@@ -1581,7 +1581,7 @@
         "Name_en": "Fiji",
         "confirmed": 32,
         "deaths": 2,
-        "recovered": 28
+        "recovered": 30
     },
     {
         "Name": "Dominica",
