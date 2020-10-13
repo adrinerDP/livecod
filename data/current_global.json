@@ -976,6 +976,14 @@
         "recovered": 4921
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 5163,
+        "deaths": 108,
+        "recovered": 2978
+    },
+    {
         "Name": "Congo",
         "Name_ch": "",
         "Name_en": "Congo",
@@ -990,14 +998,6 @@
         "confirmed": 5116,
         "deaths": 92,
         "recovered": 3303
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 5078,
-        "deaths": 107,
-        "recovered": 2900
     },
     {
         "Name": "Equatorial Guinea",
@@ -1461,7 +1461,7 @@
         "Name_en": "Bhutan",
         "confirmed": 309,
         "deaths": 0,
-        "recovered": 288
+        "recovered": 291
     },
     {
         "Name": "캄보디아",
