@@ -331,9 +331,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 106575,
-        "deaths": 1046,
-        "recovered": 93222
+        "confirmed": 107213,
+        "deaths": 1053,
+        "recovered": 93557
     },
     {
         "Name": "이집트",
@@ -427,8 +427,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 64436,
-        "deaths": 2097,
+        "confirmed": 65881,
+        "deaths": 2101,
         "recovered": 49500
     },
     {
@@ -1392,20 +1392,20 @@
         "recovered": 183
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 499,
+        "deaths": 0,
+        "recovered": 424
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
         "confirmed": 495,
         "deaths": 7,
         "recovered": 475
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 486,
-        "deaths": 0,
-        "recovered": 419
     },
     {
         "Name": "Faeroe Islands",
