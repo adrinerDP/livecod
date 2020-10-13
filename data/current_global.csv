@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8038037,220018,5185986
+미국,美国,United States,8038391,220021,5185991
 인도,印度,India,7177783,109917,6227295
 브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1326178,22966,1031785
@@ -32,14 +32,14 @@ Ukraine,,Ukraine,270587,5122,116562
 에콰도르,厄瓜多尔,Ecuador,147315,12218,128134
 Bolivia,,Bolivia,138695,8326,101523
 폴란드,波兰,Poland,135278,3101,82004
-카타르,卡塔尔,Qatar,128191,220,125176
+카타르,卡塔尔,Qatar,128405,220,125373
 체코,捷克,Czechia,121421,1051,58200
 Panama,,Panama,120802,2502,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,118843,2179,94532
 네팔,尼泊尔,Nepal,115358,663,78780
 쿠웨이트,科威特,Kuwait,111893,664,103802
 Kazakhstan,,Kazakhstan,108901,1746,104203
-아랍에미리트,阿拉伯联合酋长国,UAE,107293,446,98555
+아랍에미리트,阿拉伯联合酋长国,UAE,108608,448,100007
 오만,阿曼,Oman,107213,1053,93557
 이집트,埃及,Egypt,104648,6062,97743
 스웨덴,瑞典语,Sweden,98451,5894,0
@@ -87,7 +87,7 @@ North Macedonia,,North Macedonia,21113,797,16301
 슬로바키아,斯洛伐克,Slovakia,20886,61,6388
 Ivory Coast,,Ivory Coast,20155,120,19831
 말레이시아,马来西亚,Malaysia,16880,163,11372
-Madagascar,,Madagascar,16726,237,16081
+Madagascar,,Madagascar,16754,237,16124
 노르웨이,挪威,Norway,15639,276,11863
 Albania,,Albania,15570,424,9585
 Zambia,,Zambia,15549,345,14682
