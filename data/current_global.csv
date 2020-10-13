@@ -11,7 +11,7 @@ Argentina,,Argentina,903730,24186,732582
 프랑스,法国,France,743479,32779,100828
 남아프리카 공화국,南非共和国,South Africa,693359,17863,624659
 영국,英国,UK,617688,42875,0
-이란,伊朗,Iran,504281,28816,409121
+이란,伊朗,Iran,508389,29070,411840
 칠레,智利,Chile,482888,13379,454484
 이라크,伊拉克,Iraq,405437,9912,340050
 Bangladesh,,Bangladesh,381275,5577,295873
@@ -27,7 +27,7 @@ Ukraine,,Ukraine,270587,5122,116562
 캐나다,加拿大,Canada,182839,9627,154258
 네덜란드,荷兰,Netherlands,181498,6596,0
 벨기에,比利时,Belgium,165880,10211,20324
-루마니아,尼亚,Romania,157352,5467,118912
+루마니아,尼亚,Romania,160461,5535,120515
 모로코,摩洛哥,Morocco,153761,2636,129498
 에콰도르,厄瓜多尔,Ecuador,147315,12218,128134
 Bolivia,,Bolivia,138695,8326,101523
@@ -36,8 +36,8 @@ Bolivia,,Bolivia,138695,8326,101523
 체코,捷克,Czechia,121421,1051,58200
 Panama,,Panama,120802,2502,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,118843,2179,94532
+네팔,尼泊尔,Nepal,115358,663,78780
 쿠웨이트,科威特,Kuwait,111893,664,103802
-네팔,尼泊尔,Nepal,111802,645,77277
 Kazakhstan,,Kazakhstan,108901,1746,104203
 아랍에미리트,阿拉伯联合酋长国,UAE,107293,446,98555
 오만,阿曼,Oman,107213,1053,93557
@@ -64,8 +64,8 @@ Uzbekistan,,Uzbekistan,61534,510,58427
 Paraguay,,Paraguay,50344,1096,32751
 Kyrgyzstan,,Kyrgyzstan,49871,1092,44712
 Ghana,,Ghana,47030,308,46424
+Libya,,Libya,44985,656,25007
 팔레스타인,巴勒斯坦,Palestine,44684,387,38228
-Libya,,Libya,43821,644,24466
 아일랜드,冰岛,Ireland,43351,1827,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42104,609,39404
 Kenya,,Kenya,41619,777,32000
@@ -86,12 +86,12 @@ North Macedonia,,North Macedonia,21113,797,16301
 크로아티아,克罗地亚,Croatia,20993,330,17889
 슬로바키아,斯洛伐克,Slovakia,20886,61,6388
 Ivory Coast,,Ivory Coast,20155,120,19831
+말레이시아,马来西亚,Malaysia,16880,163,11372
 Madagascar,,Madagascar,16726,237,16081
-말레이시아,马来西亚,Malaysia,16220,159,11022
 노르웨이,挪威,Norway,15639,276,11863
 Albania,,Albania,15570,424,9585
 Zambia,,Zambia,15549,345,14682
-세네갈,塞内加尔,Senegal,15292,315,13390
+세네갈,塞内加尔,Senegal,15307,315,13508
 Montenegro,,Montenegro,14050,211,9920
 Sudan,,Sudan,13691,836,6764
 조지아,格鲁吉亚,Georgia,12841,102,6867
@@ -133,9 +133,9 @@ Syria,,Syria,4774,228,1331
 Réunion,,Réunion,4624,17,3994
 Aruba,,Aruba,4197,33,3790
 Mayotte,,Mayotte,4030,43,2964
+Malta,,Malta,3937,44,3012
 에스토니아,爱沙尼亚,Estonia,3908,68,3015
 Somalia,,Somalia,3864,99,3089
-Malta,,Malta,3844,43,2981
 태국,泰国,Thailand,3643,59,3457
 Gambia,,Gambia,3636,118,2593
 Iceland,,Iceland,3582,10,2550
