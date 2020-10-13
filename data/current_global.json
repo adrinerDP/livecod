@@ -219,9 +219,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 162258,
-        "deaths": 10191,
-        "recovered": 20272
+        "confirmed": 165880,
+        "deaths": 10211,
+        "recovered": 20324
     },
     {
         "Name": "루마니아",
@@ -315,9 +315,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108831,
+        "confirmed": 108901,
         "deaths": 1746,
-        "recovered": 104041
+        "recovered": 104203
     },
     {
         "Name": "아랍에미리트",
