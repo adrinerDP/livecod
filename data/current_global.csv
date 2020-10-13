@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8038391,220021,5185991
+미국,美国,United States,8038543,220027,5186407
 인도,印度,India,7177783,109917,6227295
 브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1326178,22966,1031785
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,381275,5577,295873
 이탈리아,义大利,Italy,359569,36205,240600
 필리핀,菲律宾,Philippines,344713,6372,293383
 인도네시아,印度尼西亚,Indonesia,340622,12027,263296
-사우디아라비아,沙特阿拉伯,Saudi Arabia,339615,5068,325839
+사우디아라비아,沙特阿拉伯,Saudi Arabia,340089,5087,326339
 터키,土耳其,Turkey,337147,8895,295658
 독일,德国,Germany,331562,9723,279100
 파키스탄,巴基斯坦,Pakistan,319848,6588,304609
@@ -51,8 +51,8 @@ Ethiopia,,Ethiopia,85136,1301,38904
 Honduras,,Honduras,84413,2521,32214
 벨라루스,白俄罗斯,Belarus,83998,901,77423
 Venezuela,,Venezuela,83756,704,75400
-바레인,巴林,Bahrain,75948,282,71687
-스위스,瑞士,Switzerland,65881,2101,49500
+바레인,巴林,Bahrain,75948,284,71687
+스위스,瑞士,Switzerland,65881,2102,49800
 Moldova,,Moldova,62618,1478,44728
 Uzbekistan,,Uzbekistan,61534,510,58427
 나이지리아,尼日利亚,Nigeria,60430,1115,51943
@@ -74,7 +74,7 @@ Kenya,,Kenya,41619,777,32000
 세르비아,塞尔维亚,Serbia,34854,765,31536
 덴마크,丹麦,Denmark,33101,674,27225
 Tunisia,,Tunisia,32556,478,5032
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,30837,936,23587
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31173,947,23777
 El Salvador,,El Salvador,30480,899,25857
 Myanmar,,Myanmar,29314,664,10260
 호주,澳大利亚,Australia,27316,899,25037
@@ -99,7 +99,7 @@ Sudan,,Sudan,13691,836,6764
 Namibia,,Namibia,11989,129,9913
 Guinea,,Guinea,11134,70,10347
 Maldives,,Maldives,10943,35,9783
-DRC,,DRC,10868,276,10249
+DRC,,DRC,10872,276,10249
 Tajikistan,,Tajikistan,10260,79,9103
 French Guiana,,French Guiana,10180,69,9855
 Mozambique,,Mozambique,10088,72,7550

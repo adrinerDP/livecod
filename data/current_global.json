@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8038391,
-        "deaths": 220021,
-        "recovered": 5185991
+        "confirmed": 8038543,
+        "deaths": 220027,
+        "recovered": 5186407
     },
     {
         "Name": "인도",
@@ -155,9 +155,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 339615,
-        "deaths": 5068,
-        "recovered": 325839
+        "confirmed": 340089,
+        "deaths": 5087,
+        "recovered": 326339
     },
     {
         "Name": "터키",
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 75948,
-        "deaths": 282,
+        "deaths": 284,
         "recovered": 71687
     },
     {
@@ -428,8 +428,8 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 65881,
-        "deaths": 2101,
-        "recovered": 49500
+        "deaths": 2102,
+        "recovered": 49800
     },
     {
         "Name": "Moldova",
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 30837,
-        "deaths": 936,
-        "recovered": 23587
+        "confirmed": 31173,
+        "deaths": 947,
+        "recovered": 23777
     },
     {
         "Name": "El Salvador",
@@ -803,7 +803,7 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10868,
+        "confirmed": 10872,
         "deaths": 276,
         "recovered": 10249
     },
