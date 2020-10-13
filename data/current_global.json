@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7175880,
-        "deaths": 109894,
+        "confirmed": 7177783,
+        "deaths": 109917,
         "recovered": 6227295
     },
     {
@@ -428,7 +428,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 64436,
-        "deaths": 2096,
+        "deaths": 2097,
         "recovered": 49500
     },
     {
@@ -571,9 +571,9 @@
         "Name": "헝가리",
         "Name_ch": "匈牙利",
         "Name_en": "Hungary",
-        "confirmed": 38837,
-        "deaths": 968,
-        "recovered": 11037
+        "confirmed": 39862,
+        "deaths": 996,
+        "recovered": 11753
     },
     {
         "Name": "세르비아",
