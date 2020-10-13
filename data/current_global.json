@@ -547,9 +547,9 @@
         "Name": "아제르바이잔",
         "Name_ch": "阿塞拜疆",
         "Name_en": "Azerbaijan",
-        "confirmed": 42104,
-        "deaths": 609,
-        "recovered": 39404
+        "confirmed": 42381,
+        "deaths": 612,
+        "recovered": 39468
     },
     {
         "Name": "Kenya",
@@ -587,9 +587,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 32811,
-        "deaths": 671,
-        "recovered": 26741
+        "confirmed": 33101,
+        "deaths": 674,
+        "recovered": 27225
     },
     {
         "Name": "Tunisia",
@@ -1096,6 +1096,14 @@
         "recovered": 3089
     },
     {
+        "Name": "Iceland",
+        "Name_ch": "",
+        "Name_en": "Iceland",
+        "confirmed": 3668,
+        "deaths": 10,
+        "recovered": 2587
+    },
+    {
         "Name": "태국",
         "Name_ch": "泰国",
         "Name_en": "Thailand",
@@ -1110,14 +1118,6 @@
         "confirmed": 3636,
         "deaths": 118,
         "recovered": 2593
-    },
-    {
-        "Name": "Iceland",
-        "Name_ch": "",
-        "Name_en": "Iceland",
-        "confirmed": 3582,
-        "deaths": 10,
-        "recovered": 2550
     },
     {
         "Name": "Guyana",
