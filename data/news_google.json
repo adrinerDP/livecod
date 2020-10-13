@@ -1,7 +1,7 @@
 ﻿[
     {
-        "title": "Uganda's Low COVID-19 Cases Due to Restrictions, Not Hydroxychloroquine",
-        "link": "https://www.factcheck.org/2020/10/ugandas-low-covid-19-cases-due-to-restrictions-not-hydroxychloroquine/"
+        "title": "Coronavirus in Africa: Five reasons why Covid-19 has been less deadly than elsewhere",
+        "link": "https://news.yahoo.com/coronavirus-africa-five-reasons-why-232059451.html"
     },
     {
         "title": "Canadian detained in China 'astonished' to learn about scale of Covid pandemic",
@@ -24,8 +24,12 @@
         "link": "https://www.cnn.com/2020/10/12/asia/china-qingdao-coronavirus-golden-week-intl-hnk/index.html"
     },
     {
-        "title": "The latest on the coronavirus pandemic: Live updates",
-        "link": "https://www.cnn.com/world/live-news/coronavirus-pandemic-10-13-20-intl/index.html"
+        "title": "Coronavirus live news: Russia reports record daily cases and deaths; Cristiano Ronaldo tests positive",
+        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
+    },
+    {
+        "title": "As Covid Cases Surge, More Public-Health Experts Say Lockdowns Aren’t the Answer",
+        "link": "https://www.wsj.com/articles/public-health-experts-rethink-lockdowns-as-covid-cases-surge-11602514769"
     },
     {
         "title": "WHO chief says herd immunity approach to pandemic 'unethical'",
@@ -34,9 +38,5 @@
     {
         "title": "Dr. Marc Siegel: 'I'm so happy' to see WHO warning against coronavirus lockdowns",
         "link": "https://www.foxnews.com/health/dr-siegel-who-coronavirus-lockdowns-reactions"
-    },
-    {
-        "title": "Coronavirus live news: Russia reports record daily cases and deaths; Netherlands set for new restrictions",
-        "link": "https://www.theguardian.com/world/live/2020/oct/13/coronavirus-live-news-trump-tests-negative-for-covid-who-reports-record-new-global-cases"
     }
 ]
