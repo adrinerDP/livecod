@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8038543,
-        "deaths": 220027,
-        "recovered": 5186407
+        "confirmed": 8040312,
+        "deaths": 220037,
+        "recovered": 5186465
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7179006,
-        "deaths": 109923,
-        "recovered": 6228098
+        "confirmed": 7203958,
+        "deaths": 110116,
+        "recovered": 6255312
     },
     {
         "Name": "브라질",
@@ -107,9 +107,9 @@
         "Name": "칠레",
         "Name_ch": "智利",
         "Name_en": "Chile",
-        "confirmed": 482888,
-        "deaths": 13379,
-        "recovered": 454484
+        "confirmed": 484280,
+        "deaths": 13396,
+        "recovered": 456499
     },
     {
         "Name": "이라크",
@@ -171,7 +171,7 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 332444,
+        "confirmed": 332605,
         "deaths": 9727,
         "recovered": 279100
     },
@@ -931,9 +931,9 @@
         "Name": "Cuba",
         "Name_ch": "",
         "Name_en": "Cuba",
-        "confirmed": 6000,
+        "confirmed": 6017,
         "deaths": 123,
-        "recovered": 5574
+        "recovered": 5602
     },
     {
         "Name": "Malawi",

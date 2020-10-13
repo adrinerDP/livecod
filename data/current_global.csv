@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8038543,220027,5186407
-인도,印度,India,7179006,109923,6228098
+미국,美国,United States,8040312,220037,5186465
+인도,印度,India,7203958,110116,6255312
 브라질,巴西,Brazil,5103408,150709,4495269
 러시아,俄罗斯,Russia,1326178,22966,1031785
 콜롬비아,哥伦比亚,Colombia,919083,27985,798396
@@ -12,7 +12,7 @@ Argentina,,Argentina,903730,24186,732582
 남아프리카 공화국,南非共和国,South Africa,693359,17863,624659
 영국,英国,UK,617688,42875,0
 이란,伊朗,Iran,508389,29070,411840
-칠레,智利,Chile,482888,13379,454484
+칠레,智利,Chile,484280,13396,456499
 이라크,伊拉克,Iraq,409358,9970,344208
 Bangladesh,,Bangladesh,381275,5577,295873
 이탈리아,义大利,Italy,359569,36205,240600
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,381275,5577,295873
 인도네시아,印度尼西亚,Indonesia,340622,12027,263296
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340089,5087,326339
 터키,土耳其,Turkey,337147,8895,295658
-독일,德国,Germany,332444,9727,279100
+독일,德国,Germany,332605,9727,279100
 파키스탄,巴基斯坦,Pakistan,319848,6588,304609
 이스라엘,以色列,Israel,295037,2021,241764
 Ukraine,,Ukraine,270587,5122,116562
@@ -115,7 +115,7 @@ Cabo Verde,,Cabo Verde,7155,75,6075
 Angola,,Angola,6488,219,2744
 Guadeloupe,,Guadeloupe,6483,77,2199
 Lithuania,,Lithuania,6366,106,2842
-Cuba,,Cuba,6000,123,5574
+Cuba,,Cuba,6017,123,5602
 Malawi,,Malawi,5824,180,4659
 Eswatini,,Eswatini,5683,113,5322
 Djibouti,,Djibouti,5426,61,5360
