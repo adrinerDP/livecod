@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 405437,
-        "deaths": 9912,
-        "recovered": 340050
+        "confirmed": 409358,
+        "deaths": 9970,
+        "recovered": 344208
     },
     {
         "Name": "Bangladesh",
@@ -443,9 +443,9 @@
         "Name": "Uzbekistan",
         "Name_ch": "",
         "Name_en": "Uzbekistan",
-        "confirmed": 61534,
-        "deaths": 510,
-        "recovered": 58427
+        "confirmed": 61642,
+        "deaths": 511,
+        "recovered": 58613
     },
     {
         "Name": "나이지리아",
@@ -579,8 +579,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 34854,
-        "deaths": 765,
+        "confirmed": 35006,
+        "deaths": 767,
         "recovered": 31536
     },
     {
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15639,
+        "confirmed": 15730,
         "deaths": 277,
         "recovered": 11863
     },
