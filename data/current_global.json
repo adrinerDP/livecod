@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8103436,
-        "deaths": 221102,
+        "confirmed": 8105362,
+        "deaths": 221142,
         "recovered": 5238565
     },
     {
@@ -35,8 +35,8 @@
         "Name": "스페인",
         "Name_ch": "西班牙",
         "Name_en": "Spain",
-        "confirmed": 925341,
-        "deaths": 33204,
+        "confirmed": 937311,
+        "deaths": 33413,
         "recovered": 0
     },
     {
@@ -211,9 +211,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 187602,
-        "deaths": 9654,
-        "recovered": 158269
+        "confirmed": 188805,
+        "deaths": 9661,
+        "recovered": 159018
     },
     {
         "Name": "벨기에",
@@ -555,9 +555,9 @@
         "Name": "Kenya",
         "Name_ch": "",
         "Name_en": "Kenya",
-        "confirmed": 41937,
-        "deaths": 787,
-        "recovered": 31340
+        "confirmed": 42541,
+        "deaths": 797,
+        "recovered": 31428
     },
     {
         "Name": "헝가리",
@@ -651,8 +651,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 23060,
-        "deaths": 462,
+        "confirmed": 23495,
+        "deaths": 469,
         "recovered": 9989
     },
     {
@@ -1235,7 +1235,7 @@
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
-        "confirmed": 2130,
+        "confirmed": 2181,
         "deaths": 25,
         "recovered": 1444
     },
@@ -1315,9 +1315,9 @@
         "Name": "Channel Islands",
         "Name_ch": "",
         "Name_en": "Channel Islands",
-        "confirmed": 741,
+        "confirmed": 745,
         "deaths": 48,
-        "recovered": 640
+        "recovered": 642
     },
     {
         "Name": "산마리노",
@@ -1443,9 +1443,9 @@
         "Name": "Isle of Man",
         "Name_ch": "",
         "Name_en": "Isle of Man",
-        "confirmed": 346,
+        "confirmed": 348,
         "deaths": 24,
-        "recovered": 317
+        "recovered": 319
     },
     {
         "Name": "Mongolia",

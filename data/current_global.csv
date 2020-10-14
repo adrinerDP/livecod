@@ -1,9 +1,9 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8103436,221102,5238565
+미국,美国,United States,8105362,221142,5238565
 인도,印度,India,7275588,110966,6343270
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
-스페인,西班牙,Spain,925341,33204,0
+스페인,西班牙,Spain,937311,33413,0
 콜롬비아,哥伦比亚,Colombia,924098,28141,806703
 Argentina,,Argentina,917035,24572,742235
 페루,秘鲁,Peru,853974,33419,753959
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,382959,5593,297449
 이스라엘,以色列,Israel,297501,2067,248940
 Ukraine,,Ukraine,276177,5229,118699
 네덜란드,荷兰,Netherlands,196163,6663,0
-캐나다,加拿大,Canada,187602,9654,158269
+캐나다,加拿大,Canada,188805,9661,159018
 벨기에,比利时,Belgium,173240,10244,20452
 루마니아,尼亚,Romania,164477,5601,122714
 모로코,摩洛哥,Morocco,156946,2685,131462
@@ -68,7 +68,7 @@ Libya,,Libya,45821,669,25301
 팔레스타인,巴勒斯坦,Palestine,45658,393,39304
 아일랜드,冰岛,Ireland,44159,1830,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42750,616,39570
-Kenya,,Kenya,41937,787,31340
+Kenya,,Kenya,42541,797,31428
 헝가리,匈牙利,Hungary,40782,1023,12164
 아프가니스탄,阿富汗,Afghanistan,39994,1481,33354
 세르비아,塞尔维亚,Serbia,35251,768,31536
@@ -80,7 +80,7 @@ El Salvador,,El Salvador,30766,904,26087
 요르단,约旦,Jordan,30550,257,6466
 호주,澳大利亚,Australia,27337,904,25041
 Bulgaria,,Bulgaria,25774,923,16139
-그리스,希腊,Greece,23060,462,9989
+그리스,希腊,Greece,23495,469,9989
 슬로바키아,斯洛伐克,Slovakia,22296,66,6709
 크로아티아,克罗地亚,Croatia,21741,334,18197
 카메룬,喀麦隆,Cameroon,21203,423,20117
@@ -153,7 +153,7 @@ Uruguay,,Uruguay,2337,51,1987
 Sierra Leone,,Sierra Leone,2309,72,1738
 Burkina Faso,,Burkina Faso,2305,63,1581
 Martinique,,Martinique,2257,24,98
-Cyprus,,Cyprus,2130,25,1444
+Cyprus,,Cyprus,2181,25,1444
 Yemen,,Yemen,2053,596,1329
 토고,多哥,Togo,1972,50,1465
 New Zealand,,New Zealand,1874,25,1809
@@ -163,7 +163,7 @@ Chad,,Chad,1321,92,1120
 Niger,,Niger,1203,69,1124
 베트남,越南,Vietnam,1122,35,1029
 Sao Tome and Principe,,Sao Tome and Principe,929,15,895
-Channel Islands,,Channel Islands,741,48,640
+Channel Islands,,Channel Islands,745,48,642
 산마리노,圣马力诺,San Marino,741,42,682
 Sint Maarten,,Sint Maarten,719,22,645
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
@@ -179,7 +179,7 @@ Faeroe Islands,,Faeroe Islands,478,0,467
 Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
 Mauritius,,Mauritius,407,10,361
-Isle of Man,,Isle of Man,346,24,317
+Isle of Man,,Isle of Man,348,24,319
 Mongolia,,Mongolia,320,0,311
 부탄,不丹,Bhutan,313,0,293
 캄보디아,柬埔寨,Cambodia,283,0,278
