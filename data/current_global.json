@@ -456,20 +456,20 @@
         "recovered": 52006
     },
     {
+        "Name": "아르메니아",
+        "Name_ch": "亚美尼亚",
+        "Name_en": "Armenia",
+        "confirmed": 58624,
+        "deaths": 1039,
+        "recovered": 46713
+    },
+    {
         "Name": "싱가포르",
         "Name_ch": "新加坡",
         "Name_en": "Singapore",
         "confirmed": 57884,
         "deaths": 28,
         "recovered": 57740
-    },
-    {
-        "Name": "아르메니아",
-        "Name_ch": "亚美尼亚",
-        "Name_en": "Armenia",
-        "confirmed": 57566,
-        "deaths": 1032,
-        "recovered": 46318
     },
     {
         "Name": "오스트리아",
@@ -560,20 +560,20 @@
         "recovered": 31340
     },
     {
+        "Name": "헝가리",
+        "Name_ch": "匈牙利",
+        "Name_en": "Hungary",
+        "confirmed": 40782,
+        "deaths": 1023,
+        "recovered": 12164
+    },
+    {
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
         "confirmed": 39994,
         "deaths": 1480,
         "recovered": 33354
-    },
-    {
-        "Name": "헝가리",
-        "Name_ch": "匈牙利",
-        "Name_en": "Hungary",
-        "confirmed": 39862,
-        "deaths": 996,
-        "recovered": 11753
     },
     {
         "Name": "세르비아",
