@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8095684,
-        "deaths": 220948,
-        "recovered": 5227718
+        "confirmed": 8097973,
+        "deaths": 220989,
+        "recovered": 5229189
     },
     {
         "Name": "인도",
@@ -115,9 +115,9 @@
         "Name": "이라크",
         "Name_ch": "伊拉克",
         "Name_en": "Iraq",
-        "confirmed": 409358,
-        "deaths": 9970,
-        "recovered": 344208
+        "confirmed": 413215,
+        "deaths": 10021,
+        "recovered": 347396
     },
     {
         "Name": "Bangladesh",
@@ -307,9 +307,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 112737,
-        "deaths": 672,
-        "recovered": 104508
+        "confirmed": 113269,
+        "deaths": 676,
+        "recovered": 105236
     },
     {
         "Name": "아랍에미리트",
@@ -579,8 +579,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 35006,
-        "deaths": 767,
+        "confirmed": 35251,
+        "deaths": 768,
         "recovered": 31536
     },
     {
@@ -603,9 +603,9 @@
         "Name": "보스니아 헤르체고비나",
         "Name_ch": "波斯尼亚和黑塞哥维那",
         "Name_en": "Bosnia and Herzegovina",
-        "confirmed": 31173,
-        "deaths": 947,
-        "recovered": 23777
+        "confirmed": 31655,
+        "deaths": 958,
+        "recovered": 24074
     },
     {
         "Name": "El Salvador",
@@ -811,9 +811,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10297,
+        "confirmed": 10336,
         "deaths": 79,
-        "recovered": 9177
+        "recovered": 9245
     },
     {
         "Name": "Mozambique",

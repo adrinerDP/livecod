@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8095684,220948,5227718
+미국,美国,United States,8097973,220989,5229189
 인도,印度,India,7244024,110686,6304748
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -13,7 +13,7 @@ Argentina,,Argentina,917035,24572,742235
 영국,英国,UK,634920,43018,0
 이란,伊朗,Iran,513219,29349,414831
 칠레,智利,Chile,484280,13396,456499
-이라크,伊拉克,Iraq,409358,9970,344208
+이라크,伊拉克,Iraq,413215,10021,347396
 Bangladesh,,Bangladesh,382959,5593,297449
 이탈리아,义大利,Italy,365467,36246,242028
 필리핀,菲律宾,Philippines,346536,6449,293860
@@ -37,7 +37,7 @@ Bolivia,,Bolivia,138922,8351,102083
 Panama,,Panama,121296,2511,97297
 도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
 네팔,尼泊尔,Nepal,117996,675,80954
-쿠웨이트,科威特,Kuwait,112737,672,104508
+쿠웨이트,科威特,Kuwait,113269,676,105236
 아랍에미리트,阿拉伯联合酋长国,UAE,110039,450,101659
 Kazakhstan,,Kazakhstan,108984,1768,104346
 오만,阿曼,Oman,107776,1061,93908
@@ -71,10 +71,10 @@ Libya,,Libya,45821,669,25301
 Kenya,,Kenya,41937,787,31340
 헝가리,匈牙利,Hungary,40782,1023,12164
 아프가니스탄,阿富汗,Afghanistan,39994,1481,33354
-세르비아,塞尔维亚,Serbia,35006,767,31536
+세르비아,塞尔维亚,Serbia,35251,768,31536
 Tunisia,,Tunisia,34790,512,5032
 덴마크,丹麦,Denmark,33593,675,27680
-보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31173,947,23777
+보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31655,958,24074
 El Salvador,,El Salvador,30766,904,26087
 Myanmar,,Myanmar,30437,693,11769
 요르단,约旦,Jordan,28127,225,6361
@@ -100,7 +100,7 @@ Namibia,,Namibia,12000,129,10120
 Guinea,,Guinea,11188,70,10352
 Maldives,,Maldives,10993,35,9833
 DRC,,DRC,10872,276,10249
-Tajikistan,,Tajikistan,10297,79,9177
+Tajikistan,,Tajikistan,10336,79,9245
 Mozambique,,Mozambique,10258,73,7880
 French Guiana,,French Guiana,10192,69,9881
 Uganda,,Uganda,9945,95,6347
