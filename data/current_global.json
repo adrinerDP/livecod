@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8089943,
-        "deaths": 220841,
-        "recovered": 5225976
+        "confirmed": 8090250,
+        "deaths": 220873,
+        "recovered": 5226423
     },
     {
         "Name": "인도",
@@ -67,9 +67,9 @@
         "Name": "멕시코",
         "Name_ch": "墨西哥",
         "Name_en": "Mexico",
-        "confirmed": 821045,
-        "deaths": 83945,
-        "recovered": 597991
+        "confirmed": 825340,
+        "deaths": 84420,
+        "recovered": 601571
     },
     {
         "Name": "프랑스",
@@ -251,9 +251,9 @@
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
-        "confirmed": 138695,
-        "deaths": 8326,
-        "recovered": 101523
+        "confirmed": 138922,
+        "deaths": 8351,
+        "recovered": 102083
     },
     {
         "Name": "폴란드",
@@ -635,8 +635,8 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27317,
-        "deaths": 899,
+        "confirmed": 27337,
+        "deaths": 904,
         "recovered": 25037
     },
     {
@@ -1259,9 +1259,9 @@
         "Name": "New Zealand",
         "Name_ch": "",
         "Name_en": "New Zealand",
-        "confirmed": 1872,
+        "confirmed": 1874,
         "deaths": 25,
-        "recovered": 1808
+        "recovered": 1809
     },
     {
         "Name": "Lesotho",
@@ -1715,8 +1715,8 @@
         "Name": "중국",
         "Name_ch": "中国",
         "Name_en": "China",
-        "confirmed": 85591,
+        "confirmed": 85611,
         "deaths": 4634,
-        "recovered": 80729
+        "recovered": 80736
     }
 ]
