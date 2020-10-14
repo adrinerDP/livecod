@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8087317,220776,5220809
+미국,美国,United States,8087847,220802,5221056
 인도,印度,India,7237082,110617,6298695
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1326178,22966,1031785
@@ -25,8 +25,8 @@ Bangladesh,,Bangladesh,381275,5577,295873
 이스라엘,以色列,Israel,296652,2055,245811
 Ukraine,,Ukraine,270587,5122,116562
 네덜란드,荷兰,Netherlands,188876,6631,0
-캐나다,加拿大,Canada,186332,9649,157014
-벨기에,比利时,Belgium,165880,10211,20324
+캐나다,加拿大,Canada,186881,9654,157486
+벨기에,比利时,Belgium,165880,10211,20325
 루마니아,尼亚,Romania,160461,5535,120515
 모로코,摩洛哥,Morocco,156946,2685,131462
 에콰도르,厄瓜多尔,Ecuador,148171,12235,128134
@@ -34,7 +34,7 @@ Bolivia,,Bolivia,138695,8326,101523
 폴란드,波兰,Poland,135278,3101,82004
 체코,捷克,Czechia,129747,1106,59901
 카타르,卡塔尔,Qatar,128405,220,125373
-Panama,,Panama,120802,2502,96675
+Panama,,Panama,121296,2511,96675
 도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
 네팔,尼泊尔,Nepal,115358,663,78780
 쿠웨이트,科威特,Kuwait,112737,672,104508
@@ -63,7 +63,7 @@ Uzbekistan,,Uzbekistan,61642,511,58613
 알제리,阿尔及利亚,Algeria,53399,1818,37492
 Paraguay,,Paraguay,51197,1108,33325
 Kyrgyzstan,,Kyrgyzstan,49871,1092,44712
-Ghana,,Ghana,47097,308,46452
+Ghana,,Ghana,47126,310,46469
 팔레스타인,巴勒斯坦,Palestine,45200,391,38841
 Libya,,Libya,44985,656,25007
 아일랜드,冰岛,Ireland,44159,1830,23364
@@ -152,11 +152,11 @@ Guinea-Bissau,,Guinea-Bissau,2389,41,1782
 Uruguay,,Uruguay,2337,51,1987
 Sierra Leone,,Sierra Leone,2309,72,1738
 Burkina Faso,,Burkina Faso,2305,63,1581
+Martinique,,Martinique,2257,24,98
 Cyprus,,Cyprus,2130,25,1444
 Yemen,,Yemen,2053,596,1329
 토고,多哥,Togo,1972,50,1465
 New Zealand,,New Zealand,1872,25,1808
-Martinique,,Martinique,1851,22,98
 Lesotho,,Lesotho,1822,42,961
 Liberia,,Liberia,1371,82,1251
 Chad,,Chad,1321,92,1120
@@ -165,9 +165,9 @@ Niger,,Niger,1203,69,1124
 Sao Tome and Principe,,Sao Tome and Principe,929,15,895
 Channel Islands,,Channel Islands,741,48,640
 산마리노,圣马力诺,San Marino,741,42,682
+Sint Maarten,,Sint Maarten,719,22,645
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
-Sint Maarten,,Sint Maarten,710,22,632
-Turks and Caicos,,Turks and Caicos,696,6,672
+Turks and Caicos,,Turks and Caicos,696,6,673
 Curaçao,,Curaçao,619,1,343
 Papua New Guinea,,Papua New Guinea,565,7,537
 대만,台湾,Taiwan,530,7,489

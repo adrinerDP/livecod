@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8087317,
-        "deaths": 220776,
-        "recovered": 5220809
+        "confirmed": 8087847,
+        "deaths": 220802,
+        "recovered": 5221056
     },
     {
         "Name": "인도",
@@ -211,9 +211,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 186332,
-        "deaths": 9649,
-        "recovered": 157014
+        "confirmed": 186881,
+        "deaths": 9654,
+        "recovered": 157486
     },
     {
         "Name": "벨기에",
@@ -221,7 +221,7 @@
         "Name_en": "Belgium",
         "confirmed": 165880,
         "deaths": 10211,
-        "recovered": 20324
+        "recovered": 20325
     },
     {
         "Name": "루마니아",
@@ -283,8 +283,8 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 120802,
-        "deaths": 2502,
+        "confirmed": 121296,
+        "deaths": 2511,
         "recovered": 96675
     },
     {
@@ -515,9 +515,9 @@
         "Name": "Ghana",
         "Name_ch": "",
         "Name_en": "Ghana",
-        "confirmed": 47097,
-        "deaths": 308,
-        "recovered": 46452
+        "confirmed": 47126,
+        "deaths": 310,
+        "recovered": 46469
     },
     {
         "Name": "팔레스타인",
@@ -1224,6 +1224,14 @@
         "recovered": 1581
     },
     {
+        "Name": "Martinique",
+        "Name_ch": "",
+        "Name_en": "Martinique",
+        "confirmed": 2257,
+        "deaths": 24,
+        "recovered": 98
+    },
+    {
         "Name": "Cyprus",
         "Name_ch": "",
         "Name_en": "Cyprus",
@@ -1254,14 +1262,6 @@
         "confirmed": 1872,
         "deaths": 25,
         "recovered": 1808
-    },
-    {
-        "Name": "Martinique",
-        "Name_ch": "",
-        "Name_en": "Martinique",
-        "confirmed": 1851,
-        "deaths": 22,
-        "recovered": 98
     },
     {
         "Name": "Lesotho",
@@ -1328,6 +1328,14 @@
         "recovered": 682
     },
     {
+        "Name": "Sint Maarten",
+        "Name_ch": "",
+        "Name_en": "Sint Maarten",
+        "confirmed": 719,
+        "deaths": 22,
+        "recovered": 645
+    },
+    {
         "Name": "일본크루즈",
         "Name_ch": "日本 邮轮",
         "Name_en": "Diamond Princess",
@@ -1336,20 +1344,12 @@
         "recovered": 659
     },
     {
-        "Name": "Sint Maarten",
-        "Name_ch": "",
-        "Name_en": "Sint Maarten",
-        "confirmed": 710,
-        "deaths": 22,
-        "recovered": 632
-    },
-    {
         "Name": "Turks and Caicos",
         "Name_ch": "",
         "Name_en": "Turks and Caicos",
         "confirmed": 696,
         "deaths": 6,
-        "recovered": 672
+        "recovered": 673
     },
     {
         "Name": "Curaçao",
