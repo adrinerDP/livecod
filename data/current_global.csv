@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,8090253,220873,5226427
-인도,印度,India,7239389,110617,6301927
+인도,印度,India,7241517,110645,6301927
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1326178,22966,1031785
 스페인,西班牙,Spain,925341,33204,0
@@ -31,7 +31,7 @@ Ukraine,,Ukraine,276177,5229,118699
 모로코,摩洛哥,Morocco,156946,2685,131462
 에콰도르,厄瓜多尔,Ecuador,148171,12235,128134
 Bolivia,,Bolivia,138922,8351,102083
-폴란드,波兰,Poland,135278,3101,82004
+폴란드,波兰,Poland,135278,3101,83847
 체코,捷克,Czechia,129747,1106,59901
 카타르,卡塔尔,Qatar,128405,220,125373
 Panama,,Panama,121296,2511,97297
@@ -81,9 +81,9 @@ Myanmar,,Myanmar,30437,693,11769
 호주,澳大利亚,Australia,27337,904,25041
 Bulgaria,,Bulgaria,25774,923,16139
 그리스,希腊,Greece,23060,462,9989
+크로아티아,克罗地亚,Croatia,21741,334,18197
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,21193,800,16397
-크로아티아,克罗地亚,Croatia,20993,330,17889
 슬로바키아,斯洛伐克,Slovakia,20886,61,6388
 Ivory Coast,,Ivory Coast,20183,120,19860
 말레이시아,马来西亚,Malaysia,16880,163,11372
@@ -114,7 +114,7 @@ Mauritania,,Mauritania,7565,163,7301
 Cabo Verde,,Cabo Verde,7254,77,6210
 Guadeloupe,,Guadeloupe,6908,96,2199
 Angola,,Angola,6680,222,2761
-Lithuania,,Lithuania,6366,106,2842
+Lithuania,,Lithuania,6505,109,2903
 Cuba,,Cuba,6017,123,5602
 Malawi,,Malawi,5827,181,4688
 Eswatini,,Eswatini,5696,114,5337

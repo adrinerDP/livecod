@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7239389,
-        "deaths": 110617,
+        "confirmed": 7241517,
+        "deaths": 110645,
         "recovered": 6301927
     },
     {
@@ -261,7 +261,7 @@
         "Name_en": "Poland",
         "confirmed": 135278,
         "deaths": 3101,
-        "recovered": 82004
+        "recovered": 83847
     },
     {
         "Name": "체코",
@@ -656,6 +656,14 @@
         "recovered": 9989
     },
     {
+        "Name": "크로아티아",
+        "Name_ch": "克罗地亚",
+        "Name_en": "Croatia",
+        "confirmed": 21741,
+        "deaths": 334,
+        "recovered": 18197
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
@@ -670,14 +678,6 @@
         "confirmed": 21193,
         "deaths": 800,
         "recovered": 16397
-    },
-    {
-        "Name": "크로아티아",
-        "Name_ch": "克罗地亚",
-        "Name_en": "Croatia",
-        "confirmed": 20993,
-        "deaths": 330,
-        "recovered": 17889
     },
     {
         "Name": "슬로바키아",
@@ -923,9 +923,9 @@
         "Name": "Lithuania",
         "Name_ch": "",
         "Name_en": "Lithuania",
-        "confirmed": 6366,
-        "deaths": 106,
-        "recovered": 2842
+        "confirmed": 6505,
+        "deaths": 109,
+        "recovered": 2903
     },
     {
         "Name": "Cuba",
