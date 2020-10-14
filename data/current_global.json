@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8094879,
-        "deaths": 220939,
+        "confirmed": 8095684,
+        "deaths": 220948,
         "recovered": 5227718
     },
     {
@@ -392,20 +392,20 @@
         "recovered": 39307
     },
     {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+        "confirmed": 85121,
+        "deaths": 911,
+        "recovered": 78218
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 84852,
         "deaths": 2528,
         "recovered": 32772
-    },
-    {
-        "Name": "벨라루스",
-        "Name_ch": "白俄罗斯",
-        "Name_en": "Belarus",
-        "confirmed": 84524,
-        "deaths": 906,
-        "recovered": 77797
     },
     {
         "Name": "Venezuela",
