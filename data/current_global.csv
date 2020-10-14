@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8100553,221038,5229624
-인도,印度,India,7256583,110766,6320523
+미국,美国,United States,8103436,221102,5238565
+인도,印度,India,7275588,110966,6343270
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,925341,33204,0
@@ -10,7 +10,7 @@ Argentina,,Argentina,917035,24572,742235
 멕시코,墨西哥,Mexico,825340,84420,601571
 프랑스,法国,France,756472,32942,102680
 남아프리카 공화국,南非共和国,South Africa,694537,18028,625574
-영국,英国,UK,634920,43018,0
+영국,英国,UK,654644,43155,0
 이란,伊朗,Iran,513219,29349,414831
 칠레,智利,Chile,485372,13415,458073
 이라크,伊拉克,Iraq,413215,10021,347396
@@ -19,13 +19,13 @@ Bangladesh,,Bangladesh,382959,5593,297449
 필리핀,菲律宾,Philippines,346536,6449,293860
 인도네시아,印度尼西亚,Indonesia,344749,12156,267851
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
+독일,德国,Germany,339281,9758,281900
 터키,土耳其,Turkey,338779,8957,296972
-독일,德国,Germany,338698,9752,281900
 파키스탄,巴基斯坦,Pakistan,320463,6601,305080
 이스라엘,以色列,Israel,297501,2067,248940
 Ukraine,,Ukraine,276177,5229,118699
 네덜란드,荷兰,Netherlands,196163,6663,0
-캐나다,加拿大,Canada,186881,9654,157486
+캐나다,加拿大,Canada,187602,9654,158269
 벨기에,比利时,Belgium,173240,10244,20452
 루마니아,尼亚,Romania,164477,5601,122714
 모로코,摩洛哥,Morocco,156946,2685,131462
@@ -77,7 +77,7 @@ Tunisia,,Tunisia,34790,512,5032
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31655,958,24074
 Myanmar,,Myanmar,31325,732,13866
 El Salvador,,El Salvador,30766,904,26087
-요르단,约旦,Jordan,28127,225,6361
+요르단,约旦,Jordan,30550,257,6466
 호주,澳大利亚,Australia,27337,904,25041
 Bulgaria,,Bulgaria,25774,923,16139
 그리스,希腊,Greece,23060,462,9989
@@ -92,7 +92,7 @@ Albania,,Albania,15955,434,9762
 노르웨이,挪威,Norway,15888,277,11863
 Zambia,,Zambia,15616,345,14850
 세네갈,塞内加尔,Senegal,15331,316,13571
-Montenegro,,Montenegro,14268,213,10063
+Montenegro,,Montenegro,14461,217,10201
 Sudan,,Sudan,13691,836,6764
 조지아,格鲁吉亚,Georgia,13521,109,7159
 핀란드,芬兰,Finland,12703,350,9100
@@ -104,8 +104,8 @@ Tajikistan,,Tajikistan,10336,79,9245
 Mozambique,,Mozambique,10258,73,7880
 French Guiana,,French Guiana,10192,69,9881
 Uganda,,Uganda,10069,95,6531
+룩셈부르크,卢森堡,Luxembourg,10030,133,8306
 슬로베니아,斯洛文尼亚,Slovenia,9938,175,5515
-룩셈부르크,卢森堡,Luxembourg,9840,133,8248
 Haiti,,Haiti,8887,230,7140
 Gabon,,Gabon,8860,54,8298
 Zimbabwe,,Zimbabwe,8036,230,7632
@@ -115,7 +115,7 @@ Cabo Verde,,Cabo Verde,7254,77,6210
 Guadeloupe,,Guadeloupe,6908,96,2199
 Angola,,Angola,6680,222,2761
 Lithuania,,Lithuania,6505,109,2903
-Cuba,,Cuba,6017,123,5602
+Cuba,,Cuba,6035,123,5653
 Malawi,,Malawi,5827,181,4688
 Eswatini,,Eswatini,5696,114,5337
 Djibouti,,Djibouti,5428,61,5362
@@ -168,7 +168,7 @@ Channel Islands,,Channel Islands,741,48,640
 Sint Maarten,,Sint Maarten,719,22,645
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Turks and Caicos,,Turks and Caicos,696,6,673
-Curaçao,,Curaçao,619,1,343
+Curaçao,,Curaçao,645,1,367
 Papua New Guinea,,Papua New Guinea,578,7,537
 대만,台湾,Taiwan,530,7,491
 Burundi,,Burundi,529,1,472
