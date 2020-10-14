@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8099613,221012,5229613
-인도,印度,India,7251918,110724,6314541
+미국,美国,United States,8100553,221038,5229624
+인도,印度,India,7256583,110766,6320523
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,925341,33204,0
@@ -12,15 +12,15 @@ Argentina,,Argentina,917035,24572,742235
 남아프리카 공화국,南非共和国,South Africa,694537,18028,625574
 영국,英国,UK,634920,43018,0
 이란,伊朗,Iran,513219,29349,414831
-칠레,智利,Chile,484280,13396,456499
+칠레,智利,Chile,485372,13415,458073
 이라크,伊拉克,Iraq,413215,10021,347396
 Bangladesh,,Bangladesh,382959,5593,297449
-이탈리아,义大利,Italy,365467,36246,242028
+이탈리아,义大利,Italy,372799,36289,244065
 필리핀,菲律宾,Philippines,346536,6449,293860
 인도네시아,印度尼西亚,Indonesia,344749,12156,267851
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
 터키,土耳其,Turkey,338779,8957,296972
-독일,德国,Germany,338184,9752,281900
+독일,德国,Germany,338698,9752,281900
 파키스탄,巴基斯坦,Pakistan,320463,6601,305080
 이스라엘,以色列,Israel,297501,2067,248940
 Ukraine,,Ukraine,276177,5229,118699
@@ -43,22 +43,22 @@ Kazakhstan,,Kazakhstan,108984,1768,104346
 오만,阿曼,Oman,107776,1061,93908
 이집트,埃及,Egypt,104787,6071,97841
 스웨덴,瑞典语,Sweden,101332,5907,0
-Guatemala,,Guatemala,98380,3410,87744
+Guatemala,,Guatemala,99094,3430,88416
+포르투갈,葡萄牙,Portugal,91193,2117,54493
 코스타리카,哥斯达黎加,Costa Rica,90238,1124,53670
-일본,日本,Japan,89673,1634,82621
-포르투갈,葡萄牙,Portugal,89121,2110,54047
+일본,日本,Japan,90140,1638,83158
 Ethiopia,,Ethiopia,85718,1305,39307
 벨라루스,白俄罗斯,Belarus,85121,911,78218
 Honduras,,Honduras,84852,2528,32772
 Venezuela,,Venezuela,84391,710,76262
 바레인,巴林,Bahrain,76272,287,72164
 스위스,瑞士,Switzerland,68704,2108,49800
-Moldova,,Moldova,63275,1495,45102
+Moldova,,Moldova,64424,1514,45545
 Uzbekistan,,Uzbekistan,61859,512,58763
 나이지리아,尼日利亚,Nigeria,60655,1116,52006
 오스트리아,奥地利,Austria,58672,872,45846
 아르메니아,亚美尼亚,Armenia,58624,1039,46713
-싱가포르,新加坡,Singapore,57889,28,57740
+싱가포르,新加坡,Singapore,57889,28,57752
 레바논,黎巴嫩,Lebanon,55869,479,24581
 알제리,阿尔及利亚,Algeria,53399,1818,37492
 Paraguay,,Paraguay,51197,1108,33325
@@ -75,8 +75,8 @@ Kenya,,Kenya,41937,787,31340
 Tunisia,,Tunisia,34790,512,5032
 덴마크,丹麦,Denmark,33593,675,27680
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,31655,958,24074
+Myanmar,,Myanmar,31325,732,13866
 El Salvador,,El Salvador,30766,904,26087
-Myanmar,,Myanmar,30437,693,11769
 요르단,约旦,Jordan,28127,225,6361
 호주,澳大利亚,Australia,27337,904,25041
 Bulgaria,,Bulgaria,25774,923,16139
@@ -88,8 +88,8 @@ North Macedonia,,North Macedonia,21193,800,16397
 Ivory Coast,,Ivory Coast,20183,120,19860
 말레이시아,马来西亚,Malaysia,17540,167,11605
 Madagascar,,Madagascar,16754,237,16124
+Albania,,Albania,15955,434,9762
 노르웨이,挪威,Norway,15888,277,11863
-Albania,,Albania,15752,429,9675
 Zambia,,Zambia,15616,345,14850
 세네갈,塞内加尔,Senegal,15331,316,13571
 Montenegro,,Montenegro,14268,213,10063
@@ -109,7 +109,7 @@ Uganda,,Uganda,10069,95,6531
 Haiti,,Haiti,8887,230,7140
 Gabon,,Gabon,8860,54,8298
 Zimbabwe,,Zimbabwe,8036,230,7632
-Jamaica,,Jamaica,7910,146,3303
+Jamaica,,Jamaica,7989,151,3431
 Mauritania,,Mauritania,7565,163,7301
 Cabo Verde,,Cabo Verde,7254,77,6210
 Guadeloupe,,Guadeloupe,6908,96,2199
@@ -121,16 +121,16 @@ Eswatini,,Eswatini,5696,114,5337
 Djibouti,,Djibouti,5428,61,5362
 Nicaragua,,Nicaragua,5353,154,4225
 홍콩,香港,Hong Kong,5202,105,4932
+스리랑카,斯里兰卡,Sri Lanka,5168,13,3357
 Bahamas,,Bahamas,5163,108,2978
 Trinidad and Tobago,,Trinidad and Tobago,5127,93,3367
 Congo,,Congo,5118,90,3887
 Suriname,,Suriname,5072,107,4870
 Equatorial Guinea,,Equatorial Guinea,5066,83,4954
-스리랑카,斯里兰卡,Sri Lanka,5055,13,3357
 Rwanda,,Rwanda,4908,32,4130
 CAR,,CAR,4854,62,1924
 Syria,,Syria,4826,231,1364
-Réunion,,Réunion,4624,17,3994
+Réunion,,Réunion,4678,17,3994
 Aruba,,Aruba,4229,33,3849
 Malta,,Malta,4048,44,3064
 Mayotte,,Mayotte,4030,43,2964
@@ -169,7 +169,7 @@ Sint Maarten,,Sint Maarten,719,22,645
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Turks and Caicos,,Turks and Caicos,696,6,673
 Curaçao,,Curaçao,619,1,343
-Papua New Guinea,,Papua New Guinea,575,7,537
+Papua New Guinea,,Papua New Guinea,578,7,537
 대만,台湾,Taiwan,530,7,491
 Burundi,,Burundi,529,1,472
 지브롤터,直布罗陀,Gibraltar,516,0,435
