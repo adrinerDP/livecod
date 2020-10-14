@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8146358,
-        "deaths": 221794,
-        "recovered": 5269007
+        "confirmed": 8147092,
+        "deaths": 221807,
+        "recovered": 5269348
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5140863,
-        "deaths": 151747,
+        "confirmed": 5141498,
+        "deaths": 151779,
         "recovered": 4568813
     },
     {
@@ -256,20 +256,20 @@
         "recovered": 83847
     },
     {
+        "Name": "체코",
+        "Name_ch": "捷克",
+        "Name_en": "Czechia",
+        "confirmed": 139290,
+        "deaths": 1172,
+        "recovered": 60901
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 138922,
         "deaths": 8351,
         "recovered": 102083
-    },
-    {
-        "Name": "체코",
-        "Name_ch": "捷克",
-        "Name_en": "Czechia",
-        "confirmed": 135425,
-        "deaths": 1158,
-        "recovered": 60804
     },
     {
         "Name": "카타르",
@@ -1043,7 +1043,7 @@
         "Name": "CAR",
         "Name_ch": "",
         "Name_en": "CAR",
-        "confirmed": 4854,
+        "confirmed": 4855,
         "deaths": 62,
         "recovered": 1924
     },
@@ -1128,6 +1128,14 @@
         "recovered": 2487
     },
     {
+        "Name": "French Polynesia",
+        "Name_ch": "",
+        "Name_en": "French Polynesia",
+        "confirmed": 3573,
+        "deaths": 13,
+        "recovered": 2487
+    },
+    {
         "Name": "Botswana",
         "Name_ch": "",
         "Name_en": "Botswana",
@@ -1142,14 +1150,6 @@
         "confirmed": 3352,
         "deaths": 132,
         "recovered": 2550
-    },
-    {
-        "Name": "French Polynesia",
-        "Name_ch": "",
-        "Name_en": "French Polynesia",
-        "confirmed": 3251,
-        "deaths": 11,
-        "recovered": 2138
     },
     {
         "Name": "안도라",
@@ -1203,9 +1203,9 @@
         "Name": "Uruguay",
         "Name_ch": "",
         "Name_en": "Uruguay",
-        "confirmed": 2337,
+        "confirmed": 2388,
         "deaths": 51,
-        "recovered": 1987
+        "recovered": 2007
     },
     {
         "Name": "Sierra Leone",

@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8146358,221794,5269007
+미국,美国,United States,8147092,221807,5269348
 인도,印度,India,7305070,111311,6379428
-브라질,巴西,Brazil,5140863,151747,4568813
+브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,937311,33413,0
 Argentina,,Argentina,931967,24921,751146
@@ -31,8 +31,8 @@ Ukraine,,Ukraine,276177,5229,118699
 모로코,摩洛哥,Morocco,160333,2726,133959
 에콰도르,厄瓜多尔,Ecuador,149083,12264,128134
 폴란드,波兰,Poland,141804,3217,83847
+체코,捷克,Czechia,139290,1172,60901
 Bolivia,,Bolivia,138922,8351,102083
-체코,捷克,Czechia,135425,1158,60804
 카타르,卡塔尔,Qatar,128603,220,125584
 Panama,,Panama,122128,2519,97919
 도미니카 공화국,多明尼加共和国,Dominican Republic,119662,2186,95460
@@ -129,7 +129,7 @@ Suriname,,Suriname,5072,107,4870
 Equatorial Guinea,,Equatorial Guinea,5068,83,4954
 Rwanda,,Rwanda,4940,33,4398
 Syria,,Syria,4883,234,1389
-CAR,,CAR,4854,62,1924
+CAR,,CAR,4855,62,1924
 Réunion,,Réunion,4678,17,3994
 Aruba,,Aruba,4255,32,3875
 Malta,,Malta,4048,44,3064
@@ -140,16 +140,16 @@ Iceland,,Iceland,3757,10,2615
 태국,泰国,Thailand,3652,59,3457
 Gambia,,Gambia,3642,118,2595
 Guyana,,Guyana,3589,106,2487
+French Polynesia,,French Polynesia,3573,13,2487
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3352,132,2550
-French Polynesia,,French Polynesia,3251,11,2138
 안도라,安道尔,Andorra,3190,59,2011
 라트비아,约旦,Latvia,2942,41,1325
 South Sudan,,South Sudan,2798,55,1290
 Belize,,Belize,2585,39,1580
 Benin,,Benin,2478,41,2330
 Guinea-Bissau,,Guinea-Bissau,2389,41,1782
-Uruguay,,Uruguay,2337,51,1987
+Uruguay,,Uruguay,2388,51,2007
 Sierra Leone,,Sierra Leone,2315,73,1743
 Burkina Faso,,Burkina Faso,2305,63,1581
 Martinique,,Martinique,2257,24,98
