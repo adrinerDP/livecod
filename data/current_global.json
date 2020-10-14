@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8141030,
-        "deaths": 221717,
-        "recovered": 5265016
+        "confirmed": 8145010,
+        "deaths": 221769,
+        "recovered": 5266301
     },
     {
         "Name": "인도",
@@ -40,20 +40,20 @@
         "recovered": 0
     },
     {
-        "Name": "콜롬비아",
-        "Name_ch": "哥伦比亚",
-        "Name_en": "Colombia",
-        "confirmed": 924098,
-        "deaths": 28141,
-        "recovered": 806703
-    },
-    {
         "Name": "Argentina",
         "Name_ch": "",
         "Name_en": "Argentina",
-        "confirmed": 917035,
-        "deaths": 24572,
-        "recovered": 742235
+        "confirmed": 931967,
+        "deaths": 24921,
+        "recovered": 751146
+    },
+    {
+        "Name": "콜롬비아",
+        "Name_ch": "哥伦比亚",
+        "Name_en": "Colombia",
+        "confirmed": 930159,
+        "deaths": 28306,
+        "recovered": 816667
     },
     {
         "Name": "페루",
@@ -683,7 +683,7 @@
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
-        "confirmed": 21203,
+        "confirmed": 21441,
         "deaths": 423,
         "recovered": 20117
     },
@@ -723,7 +723,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15888,
+        "confirmed": 15953,
         "deaths": 277,
         "recovered": 11863
     },
@@ -875,9 +875,9 @@
         "Name": "Zimbabwe",
         "Name_ch": "",
         "Name_en": "Zimbabwe",
-        "confirmed": 8036,
-        "deaths": 230,
-        "recovered": 7632
+        "confirmed": 8055,
+        "deaths": 231,
+        "recovered": 7640
     },
     {
         "Name": "Jamaica",
@@ -1123,9 +1123,9 @@
         "Name": "Guyana",
         "Name_ch": "",
         "Name_en": "Guyana",
-        "confirmed": 3565,
+        "confirmed": 3589,
         "deaths": 106,
-        "recovered": 2435
+        "recovered": 2487
     },
     {
         "Name": "Botswana",

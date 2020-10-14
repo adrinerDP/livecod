@@ -1,11 +1,11 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8141030,221717,5265016
+미국,美国,United States,8145010,221769,5266301
 인도,印度,India,7305070,111311,6379428
 브라질,巴西,Brazil,5140863,151747,4568813
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,937311,33413,0
-콜롬비아,哥伦比亚,Colombia,924098,28141,806703
-Argentina,,Argentina,917035,24572,742235
+Argentina,,Argentina,931967,24921,751146
+콜롬비아,哥伦比亚,Colombia,930159,28306,816667
 페루,秘鲁,Peru,853974,33419,753959
 멕시코,墨西哥,Mexico,825340,84420,601571
 프랑스,法国,France,779063,33037,103413
@@ -84,12 +84,12 @@ Bulgaria,,Bulgaria,26593,929,16489
 슬로바키아,斯洛伐克,Slovakia,22296,66,6709
 크로아티아,克罗地亚,Croatia,21741,334,18197
 North Macedonia,,North Macedonia,21636,809,16591
-카메룬,喀麦隆,Cameroon,21203,423,20117
+카메룬,喀麦隆,Cameroon,21441,423,20117
 Ivory Coast,,Ivory Coast,20217,120,19872
 말레이시아,马来西亚,Malaysia,17540,167,11605
 Madagascar,,Madagascar,16754,237,16124
 Albania,,Albania,15955,434,9762
-노르웨이,挪威,Norway,15888,277,11863
+노르웨이,挪威,Norway,15953,277,11863
 Zambia,,Zambia,15616,345,14850
 세네갈,塞内加尔,Senegal,15331,316,13571
 Montenegro,,Montenegro,14461,217,10201
@@ -108,7 +108,7 @@ Uganda,,Uganda,10069,95,6531
 슬로베니아,斯洛文尼亚,Slovenia,9938,175,5515
 Haiti,,Haiti,8908,231,7182
 Gabon,,Gabon,8869,54,8395
-Zimbabwe,,Zimbabwe,8036,230,7632
+Zimbabwe,,Zimbabwe,8055,231,7640
 Jamaica,,Jamaica,7989,151,3431
 Mauritania,,Mauritania,7565,163,7301
 Cabo Verde,,Cabo Verde,7371,79,6270
@@ -139,7 +139,7 @@ Somalia,,Somalia,3864,99,3089
 Iceland,,Iceland,3757,10,2615
 태국,泰国,Thailand,3652,59,3457
 Gambia,,Gambia,3642,118,2595
-Guyana,,Guyana,3565,106,2435
+Guyana,,Guyana,3589,106,2487
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3352,132,2550
 French Polynesia,,French Polynesia,3251,11,2138
