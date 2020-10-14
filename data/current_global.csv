@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8108686,221180,5239326
+미국,美国,United States,8108862,221184,5239359
 인도,印度,India,7301804,111272,6376863
 브라질,巴西,Brazil,5117825,151161,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -19,8 +19,8 @@ Bangladesh,,Bangladesh,382959,5593,297449
 필리핀,菲律宾,Philippines,346536,6449,293860
 인도네시아,印度尼西亚,Indonesia,344749,12156,267851
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
+터키,土耳其,Turkey,340450,9014,298368
 독일,德国,Germany,339722,9759,281900
-터키,土耳其,Turkey,338779,8957,296972
 파키스탄,巴基斯坦,Pakistan,320463,6601,305080
 이스라엘,以色列,Israel,298500,2098,251711
 Ukraine,,Ukraine,276177,5229,118699
@@ -28,7 +28,7 @@ Ukraine,,Ukraine,276177,5229,118699
 캐나다,加拿大,Canada,188805,9661,159018
 벨기에,比利时,Belgium,173240,10244,20452
 루마니아,尼亚,Romania,164477,5601,122714
-모로코,摩洛哥,Morocco,156946,2685,131462
+모로코,摩洛哥,Morocco,160333,2726,133959
 에콰도르,厄瓜多尔,Ecuador,148171,12235,128134
 폴란드,波兰,Poland,141804,3217,83847
 Bolivia,,Bolivia,138922,8351,102083
@@ -66,7 +66,7 @@ Kyrgyzstan,,Kyrgyzstan,50201,1094,44884
 Ghana,,Ghana,47126,310,46469
 Libya,,Libya,45821,669,25301
 팔레스타인,巴勒斯坦,Palestine,45658,393,39304
-아일랜드,冰岛,Ireland,44159,1830,23364
+아일랜드,冰岛,Ireland,45243,1835,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42750,616,39570
 Kenya,,Kenya,42541,797,31428
 헝가리,匈牙利,Hungary,40782,1023,12164
@@ -121,7 +121,7 @@ Eswatini,,Eswatini,5696,114,5337
 Djibouti,,Djibouti,5428,61,5362
 Nicaragua,,Nicaragua,5353,154,4225
 홍콩,香港,Hong Kong,5202,105,4932
-스리랑카,斯里兰卡,Sri Lanka,5168,13,3357
+스리랑카,斯里兰卡,Sri Lanka,5170,13,3357
 Bahamas,,Bahamas,5163,108,2978
 Trinidad and Tobago,,Trinidad and Tobago,5127,93,3367
 Congo,,Congo,5118,90,3887
@@ -183,7 +183,7 @@ Isle of Man,,Isle of Man,348,24,319
 Mongolia,,Mongolia,320,0,311
 부탄,不丹,Bhutan,313,0,293
 캄보디아,柬埔寨,Cambodia,283,0,278
-모나코,摩纳哥,Monaco,241,2,217
+모나코,摩纳哥,Monaco,248,2,217
 Cayman Islands,,Cayman Islands,221,1,211
 Barbados,,Barbados,210,7,187
 Bermuda,,Bermuda,185,9,172
