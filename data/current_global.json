@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8145010,
-        "deaths": 221769,
-        "recovered": 5266301
+        "confirmed": 8146358,
+        "deaths": 221794,
+        "recovered": 5269007
     },
     {
         "Name": "인도",
@@ -283,9 +283,9 @@
         "Name": "Panama",
         "Name_ch": "",
         "Name_en": "Panama",
-        "confirmed": 121296,
-        "deaths": 2511,
-        "recovered": 97297
+        "confirmed": 122128,
+        "deaths": 2519,
+        "recovered": 97919
     },
     {
         "Name": "도미니카 공화국",
@@ -451,9 +451,9 @@
         "Name": "나이지리아",
         "Name_ch": "尼日利亚",
         "Name_en": "Nigeria",
-        "confirmed": 60655,
+        "confirmed": 60834,
         "deaths": 1116,
-        "recovered": 52006
+        "recovered": 52143
     },
     {
         "Name": "오스트리아",
@@ -803,9 +803,9 @@
         "Name": "DRC",
         "Name_ch": "",
         "Name_en": "DRC",
-        "confirmed": 10872,
-        "deaths": 276,
-        "recovered": 10249
+        "confirmed": 10935,
+        "deaths": 281,
+        "recovered": 10306
     },
     {
         "Name": "Mozambique",
@@ -1400,6 +1400,14 @@
         "recovered": 183
     },
     {
+        "Name": "Saint Martin",
+        "Name_ch": "",
+        "Name_en": "Saint Martin",
+        "confirmed": 501,
+        "deaths": 8,
+        "recovered": 380
+    },
+    {
         "Name": "Comoros",
         "Name_ch": "",
         "Name_en": "Comoros",
@@ -1414,14 +1422,6 @@
         "confirmed": 478,
         "deaths": 0,
         "recovered": 467
-    },
-    {
-        "Name": "Saint Martin",
-        "Name_ch": "",
-        "Name_en": "Saint Martin",
-        "confirmed": 466,
-        "deaths": 8,
-        "recovered": 309
     },
     {
         "Name": "Eritrea",
@@ -1555,9 +1555,9 @@
         "Name": "St. Barth",
         "Name_ch": "",
         "Name_en": "St. Barth",
-        "confirmed": 65,
+        "confirmed": 67,
         "deaths": 0,
-        "recovered": 37
+        "recovered": 55
     },
     {
         "Name": "St. Vincent Grenadines",

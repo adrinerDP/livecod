@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8145010,221769,5266301
+미국,美国,United States,8146358,221794,5269007
 인도,印度,India,7305070,111311,6379428
 브라질,巴西,Brazil,5140863,151747,4568813
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -34,7 +34,7 @@ Ukraine,,Ukraine,276177,5229,118699
 Bolivia,,Bolivia,138922,8351,102083
 체코,捷克,Czechia,135425,1158,60804
 카타르,卡塔尔,Qatar,128603,220,125584
-Panama,,Panama,121296,2511,97297
+Panama,,Panama,122128,2519,97919
 도미니카 공화국,多明尼加共和国,Dominican Republic,119662,2186,95460
 네팔,尼泊尔,Nepal,117996,675,80954
 쿠웨이트,科威特,Kuwait,113269,676,105236
@@ -55,7 +55,7 @@ Venezuela,,Venezuela,84391,710,76262
 스위스,瑞士,Switzerland,68704,2109,49800
 Moldova,,Moldova,64424,1514,45545
 Uzbekistan,,Uzbekistan,61950,514,58951
-나이지리아,尼日利亚,Nigeria,60655,1116,52006
+나이지리아,尼日利亚,Nigeria,60834,1116,52143
 오스트리아,奥地利,Austria,58672,872,45846
 아르메니아,亚美尼亚,Armenia,58624,1039,46713
 싱가포르,新加坡,Singapore,57889,28,57752
@@ -99,7 +99,7 @@ Sudan,,Sudan,13691,836,6764
 Namibia,,Namibia,12069,130,10145
 Guinea,,Guinea,11188,70,10352
 Maldives,,Maldives,11062,35,9880
-DRC,,DRC,10872,276,10249
+DRC,,DRC,10935,281,10306
 Mozambique,,Mozambique,10392,73,8035
 Tajikistan,,Tajikistan,10336,79,9245
 French Guiana,,French Guiana,10202,69,9892
@@ -174,9 +174,9 @@ Papua New Guinea,,Papua New Guinea,578,7,537
 Burundi,,Burundi,529,1,472
 지브롤터,直布罗陀,Gibraltar,516,0,435
 Tanzania,,Tanzania,509,21,183
+Saint Martin,,Saint Martin,501,8,380
 Comoros,,Comoros,496,7,484
 Faeroe Islands,,Faeroe Islands,478,0,467
-Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
 Mauritius,,Mauritius,407,10,361
 Isle of Man,,Isle of Man,348,24,319
@@ -193,7 +193,7 @@ Seychelles,,Seychelles,148,0,144
 Brunei,,Brunei,146,3,143
 Antigua and Barbuda,,Antigua and Barbuda,112,3,100
 British Virgin Islands,,British Virgin Islands,71,1,70
-St. Barth,,St. Barth,65,0,37
+St. Barth,,St. Barth,67,0,55
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64
 마카오,澳门,Macao,46,0,46
 Fiji,,Fiji,32,2,30
