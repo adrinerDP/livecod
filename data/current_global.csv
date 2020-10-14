@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8098037,220990,5229233
-인도,印度,India,7244024,110686,6304748
+미국,美国,United States,8099613,221012,5229613
+인도,印度,India,7251918,110724,6314541
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,925341,33204,0
@@ -20,9 +20,9 @@ Bangladesh,,Bangladesh,382959,5593,297449
 인도네시아,印度尼西亚,Indonesia,344749,12156,267851
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
 터키,土耳其,Turkey,338779,8957,296972
-독일,德国,Germany,337472,9746,281900
+독일,德国,Germany,338184,9752,281900
 파키스탄,巴基斯坦,Pakistan,320463,6601,305080
-이스라엘,以色列,Israel,297274,2055,247202
+이스라엘,以色列,Israel,297501,2067,248940
 Ukraine,,Ukraine,276177,5229,118699
 네덜란드,荷兰,Netherlands,196163,6663,0
 캐나다,加拿大,Canada,186881,9654,157486
@@ -103,7 +103,7 @@ DRC,,DRC,10872,276,10249
 Tajikistan,,Tajikistan,10336,79,9245
 Mozambique,,Mozambique,10258,73,7880
 French Guiana,,French Guiana,10192,69,9881
-Uganda,,Uganda,9945,95,6347
+Uganda,,Uganda,10069,95,6531
 슬로베니아,斯洛文尼亚,Slovenia,9938,175,5515
 룩셈부르크,卢森堡,Luxembourg,9840,133,8248
 Haiti,,Haiti,8887,230,7140
@@ -191,7 +191,7 @@ Bermuda,,Bermuda,185,9,172
 Caribbean Netherlands,,Caribbean Netherlands,150,2,111
 Seychelles,,Seychelles,148,0,144
 Brunei,,Brunei,146,3,143
-Antigua and Barbuda,,Antigua and Barbuda,111,3,97
+Antigua and Barbuda,,Antigua and Barbuda,112,3,100
 British Virgin Islands,,British Virgin Islands,71,1,70
 St. Barth,,St. Barth,65,0,37
 St. Vincent Grenadines,,St. Vincent Grenadines,64,0,64

@@ -3,17 +3,17 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8098037,
-        "deaths": 220990,
-        "recovered": 5229233
+        "confirmed": 8099613,
+        "deaths": 221012,
+        "recovered": 5229613
     },
     {
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7244024,
-        "deaths": 110686,
-        "recovered": 6304748
+        "confirmed": 7251918,
+        "deaths": 110724,
+        "recovered": 6314541
     },
     {
         "Name": "브라질",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 337472,
-        "deaths": 9746,
+        "confirmed": 338184,
+        "deaths": 9752,
         "recovered": 281900
     },
     {
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 297274,
-        "deaths": 2055,
-        "recovered": 247202
+        "confirmed": 297501,
+        "deaths": 2067,
+        "recovered": 248940
     },
     {
         "Name": "Ukraine",
@@ -835,9 +835,9 @@
         "Name": "Uganda",
         "Name_ch": "",
         "Name_en": "Uganda",
-        "confirmed": 9945,
+        "confirmed": 10069,
         "deaths": 95,
-        "recovered": 6347
+        "recovered": 6531
     },
     {
         "Name": "슬로베니아",
@@ -1539,9 +1539,9 @@
         "Name": "Antigua and Barbuda",
         "Name_ch": "",
         "Name_en": "Antigua and Barbuda",
-        "confirmed": 111,
+        "confirmed": 112,
         "deaths": 3,
-        "recovered": 97
+        "recovered": 100
     },
     {
         "Name": "British Virgin Islands",
