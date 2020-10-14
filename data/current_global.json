@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8097973,
-        "deaths": 220989,
-        "recovered": 5229189
+        "confirmed": 8098037,
+        "deaths": 220990,
+        "recovered": 5229233
     },
     {
         "Name": "인도",
@@ -171,8 +171,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 335679,
-        "deaths": 9740,
+        "confirmed": 337472,
+        "deaths": 9746,
         "recovered": 281900
     },
     {
@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 76272,
-        "deaths": 285,
+        "deaths": 287,
         "recovered": 72164
     },
     {
@@ -428,7 +428,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 68704,
-        "deaths": 2106,
+        "deaths": 2108,
         "recovered": 49800
     },
     {
@@ -531,9 +531,9 @@
         "Name": "팔레스타인",
         "Name_ch": "巴勒斯坦",
         "Name_en": "Palestine",
-        "confirmed": 45200,
-        "deaths": 391,
-        "recovered": 38841
+        "confirmed": 45658,
+        "deaths": 393,
+        "recovered": 39304
     },
     {
         "Name": "아일랜드",
@@ -715,7 +715,7 @@
         "Name": "노르웨이",
         "Name_ch": "挪威",
         "Name_en": "Norway",
-        "confirmed": 15793,
+        "confirmed": 15888,
         "deaths": 277,
         "recovered": 11863
     },
@@ -731,17 +731,17 @@
         "Name": "Zambia",
         "Name_ch": "",
         "Name_en": "Zambia",
-        "confirmed": 15587,
+        "confirmed": 15616,
         "deaths": 345,
-        "recovered": 14783
+        "recovered": 14850
     },
     {
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 15307,
-        "deaths": 315,
-        "recovered": 13508
+        "confirmed": 15331,
+        "deaths": 316,
+        "recovered": 13571
     },
     {
         "Name": "Montenegro",
@@ -1115,9 +1115,9 @@
         "Name": "Gambia",
         "Name_ch": "",
         "Name_en": "Gambia",
-        "confirmed": 3636,
+        "confirmed": 3642,
         "deaths": 118,
-        "recovered": 2593
+        "recovered": 2595
     },
     {
         "Name": "Guyana",
@@ -1267,7 +1267,7 @@
         "Name": "Lesotho",
         "Name_ch": "",
         "Name_en": "Lesotho",
-        "confirmed": 1822,
+        "confirmed": 1833,
         "deaths": 42,
         "recovered": 961
     },

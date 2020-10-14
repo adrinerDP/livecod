@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8097973,220989,5229189
+미국,美国,United States,8098037,220990,5229233
 인도,印度,India,7244024,110686,6304748
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -20,7 +20,7 @@ Bangladesh,,Bangladesh,382959,5593,297449
 인도네시아,印度尼西亚,Indonesia,344749,12156,267851
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
 터키,土耳其,Turkey,338779,8957,296972
-독일,德国,Germany,335679,9740,281900
+독일,德国,Germany,337472,9746,281900
 파키스탄,巴基斯坦,Pakistan,320463,6601,305080
 이스라엘,以色列,Israel,297274,2055,247202
 Ukraine,,Ukraine,276177,5229,118699
@@ -51,8 +51,8 @@ Ethiopia,,Ethiopia,85718,1305,39307
 벨라루스,白俄罗斯,Belarus,85121,911,78218
 Honduras,,Honduras,84852,2528,32772
 Venezuela,,Venezuela,84391,710,76262
-바레인,巴林,Bahrain,76272,285,72164
-스위스,瑞士,Switzerland,68704,2106,49800
+바레인,巴林,Bahrain,76272,287,72164
+스위스,瑞士,Switzerland,68704,2108,49800
 Moldova,,Moldova,63275,1495,45102
 Uzbekistan,,Uzbekistan,61859,512,58763
 나이지리아,尼日利亚,Nigeria,60655,1116,52006
@@ -65,7 +65,7 @@ Paraguay,,Paraguay,51197,1108,33325
 Kyrgyzstan,,Kyrgyzstan,50201,1094,44884
 Ghana,,Ghana,47126,310,46469
 Libya,,Libya,45821,669,25301
-팔레스타인,巴勒斯坦,Palestine,45200,391,38841
+팔레스타인,巴勒斯坦,Palestine,45658,393,39304
 아일랜드,冰岛,Ireland,44159,1830,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42750,616,39570
 Kenya,,Kenya,41937,787,31340
@@ -88,10 +88,10 @@ North Macedonia,,North Macedonia,21193,800,16397
 Ivory Coast,,Ivory Coast,20183,120,19860
 말레이시아,马来西亚,Malaysia,17540,167,11605
 Madagascar,,Madagascar,16754,237,16124
-노르웨이,挪威,Norway,15793,277,11863
+노르웨이,挪威,Norway,15888,277,11863
 Albania,,Albania,15752,429,9675
-Zambia,,Zambia,15587,345,14783
-세네갈,塞内加尔,Senegal,15307,315,13508
+Zambia,,Zambia,15616,345,14850
+세네갈,塞内加尔,Senegal,15331,316,13571
 Montenegro,,Montenegro,14268,213,10063
 Sudan,,Sudan,13691,836,6764
 조지아,格鲁吉亚,Georgia,13521,109,7159
@@ -138,7 +138,7 @@ Mayotte,,Mayotte,4030,43,2964
 Somalia,,Somalia,3864,99,3089
 Iceland,,Iceland,3757,10,2615
 태국,泰国,Thailand,3652,59,3457
-Gambia,,Gambia,3636,118,2593
+Gambia,,Gambia,3642,118,2595
 Guyana,,Guyana,3565,106,2435
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3297,132,2544
@@ -157,7 +157,7 @@ Cyprus,,Cyprus,2130,25,1444
 Yemen,,Yemen,2053,596,1329
 토고,多哥,Togo,1972,50,1465
 New Zealand,,New Zealand,1874,25,1809
-Lesotho,,Lesotho,1822,42,961
+Lesotho,,Lesotho,1833,42,961
 Liberia,,Liberia,1371,82,1251
 Chad,,Chad,1321,92,1120
 Niger,,Niger,1203,69,1124
