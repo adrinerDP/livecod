@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8105362,221142,5238565
-인도,印度,India,7275588,110966,6343270
-브라질,巴西,Brazil,5114823,151063,4526975
+미국,美国,United States,8107810,221177,5239013
+인도,印度,India,7290090,111106,6355713
+브라질,巴西,Brazil,5117825,151161,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,937311,33413,0
 콜롬비아,哥伦比亚,Colombia,924098,28141,806703
@@ -32,10 +32,10 @@ Ukraine,,Ukraine,276177,5229,118699
 에콰도르,厄瓜多尔,Ecuador,148171,12235,128134
 폴란드,波兰,Poland,141804,3217,83847
 Bolivia,,Bolivia,138922,8351,102083
-체코,捷克,Czechia,129747,1106,59901
+체코,捷克,Czechia,135425,1158,60804
 카타르,卡塔尔,Qatar,128603,220,125584
 Panama,,Panama,121296,2511,97297
-도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
+도미니카 공화국,多明尼加共和国,Dominican Republic,119662,2186,95460
 네팔,尼泊尔,Nepal,117996,675,80954
 쿠웨이트,科威特,Kuwait,113269,676,105236
 아랍에미리트,阿拉伯联合酋长国,UAE,110039,450,101659
@@ -52,7 +52,7 @@ Ethiopia,,Ethiopia,85718,1305,39307
 Honduras,,Honduras,84852,2528,32772
 Venezuela,,Venezuela,84391,710,76262
 바레인,巴林,Bahrain,76272,287,72164
-스위스,瑞士,Switzerland,68704,2108,49800
+스위스,瑞士,Switzerland,68704,2109,49800
 Moldova,,Moldova,64424,1514,45545
 Uzbekistan,,Uzbekistan,61859,512,58763
 나이지리아,尼日利亚,Nigeria,60655,1116,52006
@@ -106,7 +106,7 @@ French Guiana,,French Guiana,10192,69,9881
 Uganda,,Uganda,10069,95,6531
 룩셈부르크,卢森堡,Luxembourg,10030,133,8306
 슬로베니아,斯洛文尼亚,Slovenia,9938,175,5515
-Haiti,,Haiti,8887,230,7140
+Haiti,,Haiti,8908,231,7182
 Gabon,,Gabon,8860,54,8298
 Zimbabwe,,Zimbabwe,8036,230,7632
 Jamaica,,Jamaica,7989,151,3431
