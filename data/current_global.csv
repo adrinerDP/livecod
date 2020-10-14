@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8093600,220900,5227279
+미국,美国,United States,8094576,220904,5227279
 인도,印度,India,7241517,110645,6301927
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -11,7 +11,7 @@ Argentina,,Argentina,917035,24572,742235
 프랑스,法国,France,756472,32942,102680
 남아프리카 공화국,南非共和国,South Africa,694537,18028,625574
 영국,英国,UK,634920,43018,0
-이란,伊朗,Iran,508389,29070,411840
+이란,伊朗,Iran,513219,29349,414831
 칠레,智利,Chile,484280,13396,456499
 이라크,伊拉克,Iraq,409358,9970,344208
 Bangladesh,,Bangladesh,382959,5593,297449
@@ -95,7 +95,7 @@ Zambia,,Zambia,15587,345,14783
 Montenegro,,Montenegro,14268,213,10063
 Sudan,,Sudan,13691,836,6764
 조지아,格鲁吉亚,Georgia,13521,109,7159
-핀란드,芬兰,Finland,12703,346,8500
+핀란드,芬兰,Finland,12703,350,9100
 Namibia,,Namibia,12000,129,10120
 Guinea,,Guinea,11188,70,10352
 Maldives,,Maldives,10993,35,9833
@@ -104,8 +104,8 @@ Tajikistan,,Tajikistan,10297,79,9177
 Mozambique,,Mozambique,10258,73,7880
 French Guiana,,French Guiana,10192,69,9881
 Uganda,,Uganda,9945,95,6347
+슬로베니아,斯洛文尼亚,Slovenia,9938,175,5515
 룩셈부르크,卢森堡,Luxembourg,9840,133,8248
-슬로베니아,斯洛文尼亚,Slovenia,9231,173,5314
 Haiti,,Haiti,8887,230,7140
 Gabon,,Gabon,8860,54,8298
 Zimbabwe,,Zimbabwe,8036,230,7632
@@ -136,7 +136,7 @@ Malta,,Malta,4048,44,3064
 Mayotte,,Mayotte,4030,43,2964
 에스토니아,爱沙尼亚,Estonia,3947,68,3060
 Somalia,,Somalia,3864,99,3089
-Iceland,,Iceland,3668,10,2587
+Iceland,,Iceland,3757,10,2615
 태국,泰国,Thailand,3652,59,3457
 Gambia,,Gambia,3636,118,2593
 Guyana,,Guyana,3565,106,2435
@@ -161,7 +161,7 @@ Lesotho,,Lesotho,1822,42,961
 Liberia,,Liberia,1371,82,1251
 Chad,,Chad,1321,92,1120
 Niger,,Niger,1203,69,1124
-베트남,越南,Vietnam,1113,35,1026
+베트남,越南,Vietnam,1122,35,1029
 Sao Tome and Principe,,Sao Tome and Principe,929,15,895
 Channel Islands,,Channel Islands,741,48,640
 산마리노,圣马力诺,San Marino,741,42,682
@@ -172,8 +172,8 @@ Curaçao,,Curaçao,619,1,343
 Papua New Guinea,,Papua New Guinea,575,7,537
 대만,台湾,Taiwan,530,7,491
 Burundi,,Burundi,529,1,472
+지브롤터,直布罗陀,Gibraltar,516,0,435
 Tanzania,,Tanzania,509,21,183
-지브롤터,直布罗陀,Gibraltar,499,0,424
 Comoros,,Comoros,496,7,484
 Faeroe Islands,,Faeroe Islands,478,0,467
 Saint Martin,,Saint Martin,466,8,309

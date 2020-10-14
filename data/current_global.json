@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8093600,
-        "deaths": 220900,
+        "confirmed": 8094576,
+        "deaths": 220904,
         "recovered": 5227279
     },
     {
@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 508389,
-        "deaths": 29070,
-        "recovered": 411840
+        "confirmed": 513219,
+        "deaths": 29349,
+        "recovered": 414831
     },
     {
         "Name": "칠레",
@@ -772,8 +772,8 @@
         "Name_ch": "芬兰",
         "Name_en": "Finland",
         "confirmed": 12703,
-        "deaths": 346,
-        "recovered": 8500
+        "deaths": 350,
+        "recovered": 9100
     },
     {
         "Name": "Namibia",
@@ -840,20 +840,20 @@
         "recovered": 6347
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 9938,
+        "deaths": 175,
+        "recovered": 5515
+    },
+    {
         "Name": "룩셈부르크",
         "Name_ch": "卢森堡",
         "Name_en": "Luxembourg",
         "confirmed": 9840,
         "deaths": 133,
         "recovered": 8248
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 9231,
-        "deaths": 173,
-        "recovered": 5314
     },
     {
         "Name": "Haiti",
@@ -1099,9 +1099,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3668,
+        "confirmed": 3757,
         "deaths": 10,
-        "recovered": 2587
+        "recovered": 2615
     },
     {
         "Name": "태국",
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1113,
+        "confirmed": 1122,
         "deaths": 35,
-        "recovered": 1026
+        "recovered": 1029
     },
     {
         "Name": "Sao Tome and Principe",
@@ -1384,20 +1384,20 @@
         "recovered": 472
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 516,
+        "deaths": 0,
+        "recovered": 435
+    },
+    {
         "Name": "Tanzania",
         "Name_ch": "",
         "Name_en": "Tanzania",
         "confirmed": 509,
         "deaths": 21,
         "recovered": 183
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 499,
-        "deaths": 0,
-        "recovered": 424
     },
     {
         "Name": "Comoros",
