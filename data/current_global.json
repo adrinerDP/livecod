@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8110587,
-        "deaths": 221234,
-        "recovered": 5243662
+        "confirmed": 8115729,
+        "deaths": 221288,
+        "recovered": 5245595
     },
     {
         "Name": "인도",
@@ -75,9 +75,9 @@
         "Name": "프랑스",
         "Name_ch": "法国",
         "Name_en": "France",
-        "confirmed": 756472,
-        "deaths": 32942,
-        "recovered": 102680
+        "confirmed": 779063,
+        "deaths": 33037,
+        "recovered": 103413
     },
     {
         "Name": "남아프리카 공화국",
@@ -672,20 +672,20 @@
         "recovered": 18197
     },
     {
+        "Name": "North Macedonia",
+        "Name_ch": "",
+        "Name_en": "North Macedonia",
+        "confirmed": 21636,
+        "deaths": 809,
+        "recovered": 16591
+    },
+    {
         "Name": "카메룬",
         "Name_ch": "喀麦隆",
         "Name_en": "Cameroon",
         "confirmed": 21203,
         "deaths": 423,
         "recovered": 20117
-    },
-    {
-        "Name": "North Macedonia",
-        "Name_ch": "",
-        "Name_en": "North Macedonia",
-        "confirmed": 21193,
-        "deaths": 800,
-        "recovered": 16397
     },
     {
         "Name": "Ivory Coast",
