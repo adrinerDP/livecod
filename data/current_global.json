@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8140219,
+        "confirmed": 8141030,
         "deaths": 221717,
-        "recovered": 5264044
+        "recovered": 5265016
     },
     {
         "Name": "인도",
@@ -21,7 +21,7 @@
         "Name_en": "Brazil",
         "confirmed": 5140863,
         "deaths": 151747,
-        "recovered": 4526975
+        "recovered": 4568813
     },
     {
         "Name": "러시아",
@@ -339,9 +339,9 @@
         "Name": "이집트",
         "Name_ch": "埃及",
         "Name_en": "Egypt",
-        "confirmed": 104787,
-        "deaths": 6071,
-        "recovered": 97841
+        "confirmed": 104915,
+        "deaths": 6077,
+        "recovered": 97920
     },
     {
         "Name": "스웨덴",
@@ -867,9 +867,9 @@
         "Name": "Gabon",
         "Name_ch": "",
         "Name_en": "Gabon",
-        "confirmed": 8860,
+        "confirmed": 8869,
         "deaths": 54,
-        "recovered": 8298
+        "recovered": 8395
     },
     {
         "Name": "Zimbabwe",
@@ -1003,9 +1003,9 @@
         "Name": "Trinidad and Tobago",
         "Name_ch": "",
         "Name_en": "Trinidad and Tobago",
-        "confirmed": 5127,
+        "confirmed": 5154,
         "deaths": 93,
-        "recovered": 3367
+        "recovered": 3452
     },
     {
         "Name": "Suriname",
