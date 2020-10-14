@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8090253,220873,5226427
+미국,美国,United States,8093600,220900,5227279
 인도,印度,India,7241517,110645,6301927
 브라질,巴西,Brazil,5114823,151063,4526975
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -81,10 +81,10 @@ Myanmar,,Myanmar,30437,693,11769
 호주,澳大利亚,Australia,27337,904,25041
 Bulgaria,,Bulgaria,25774,923,16139
 그리스,希腊,Greece,23060,462,9989
+슬로바키아,斯洛伐克,Slovakia,22296,66,6709
 크로아티아,克罗地亚,Croatia,21741,334,18197
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,21193,800,16397
-슬로바키아,斯洛伐克,Slovakia,20886,61,6388
 Ivory Coast,,Ivory Coast,20183,120,19860
 말레이시아,马来西亚,Malaysia,16880,163,11372
 Madagascar,,Madagascar,16754,237,16124
@@ -120,7 +120,7 @@ Malawi,,Malawi,5827,181,4688
 Eswatini,,Eswatini,5696,114,5337
 Djibouti,,Djibouti,5428,61,5362
 Nicaragua,,Nicaragua,5353,154,4225
-홍콩,香港,Hong Kong,5202,105,4931
+홍콩,香港,Hong Kong,5202,105,4932
 Bahamas,,Bahamas,5163,108,2978
 Trinidad and Tobago,,Trinidad and Tobago,5127,93,3367
 Congo,,Congo,5118,90,3887
@@ -144,7 +144,7 @@ Botswana,,Botswana,3515,20,853
 Mali,,Mali,3297,132,2544
 French Polynesia,,French Polynesia,3251,11,2138
 안도라,安道尔,Andorra,2995,57,1928
-라트비아,约旦,Latvia,2840,41,1325
+라트비아,约旦,Latvia,2942,41,1325
 South Sudan,,South Sudan,2798,55,1290
 Belize,,Belize,2585,39,1580
 Benin,,Benin,2411,41,1973
@@ -169,7 +169,7 @@ Sint Maarten,,Sint Maarten,719,22,645
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Turks and Caicos,,Turks and Caicos,696,6,673
 Curaçao,,Curaçao,619,1,343
-Papua New Guinea,,Papua New Guinea,565,7,537
+Papua New Guinea,,Papua New Guinea,575,7,537
 대만,台湾,Taiwan,530,7,489
 Burundi,,Burundi,529,1,472
 Tanzania,,Tanzania,509,21,183
