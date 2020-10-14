@@ -33,10 +33,10 @@ Ukraine,,Ukraine,276177,5229,118699
 폴란드,波兰,Poland,141804,3217,83847
 Bolivia,,Bolivia,138922,8351,102083
 체코,捷克,Czechia,129747,1106,59901
-카타르,卡塔尔,Qatar,128405,220,125373
+카타르,卡塔尔,Qatar,128603,220,125584
 Panama,,Panama,121296,2511,97297
 도미니카 공화국,多明尼加共和国,Dominican Republic,119008,2183,94941
-네팔,尼泊尔,Nepal,115358,663,78780
+네팔,尼泊尔,Nepal,117996,675,80954
 쿠웨이트,科威特,Kuwait,112737,672,104508
 아랍에미리트,阿拉伯联合酋长国,UAE,110039,450,101659
 Kazakhstan,,Kazakhstan,108984,1768,104346
@@ -64,8 +64,8 @@ Uzbekistan,,Uzbekistan,61859,512,58763
 Paraguay,,Paraguay,51197,1108,33325
 Kyrgyzstan,,Kyrgyzstan,50201,1094,44884
 Ghana,,Ghana,47126,310,46469
+Libya,,Libya,45821,669,25301
 팔레스타인,巴勒斯坦,Palestine,45200,391,38841
-Libya,,Libya,44985,656,25007
 아일랜드,冰岛,Ireland,44159,1830,23364
 아제르바이잔,阿塞拜疆,Azerbaijan,42381,612,39468
 Kenya,,Kenya,41937,787,31340
@@ -86,7 +86,7 @@ Bulgaria,,Bulgaria,25774,923,16139
 카메룬,喀麦隆,Cameroon,21203,423,20117
 North Macedonia,,North Macedonia,21193,800,16397
 Ivory Coast,,Ivory Coast,20183,120,19860
-말레이시아,马来西亚,Malaysia,16880,163,11372
+말레이시아,马来西亚,Malaysia,17540,167,11605
 Madagascar,,Madagascar,16754,237,16124
 노르웨이,挪威,Norway,15793,277,11863
 Albania,,Albania,15752,429,9675
@@ -132,9 +132,9 @@ CAR,,CAR,4854,62,1924
 Syria,,Syria,4826,231,1364
 Réunion,,Réunion,4624,17,3994
 Aruba,,Aruba,4229,33,3849
+Malta,,Malta,4048,44,3064
 Mayotte,,Mayotte,4030,43,2964
 에스토니아,爱沙尼亚,Estonia,3947,68,3060
-Malta,,Malta,3937,44,3012
 Somalia,,Somalia,3864,99,3089
 Iceland,,Iceland,3668,10,2587
 태국,泰国,Thailand,3652,59,3457
@@ -161,7 +161,7 @@ Lesotho,,Lesotho,1822,42,961
 Liberia,,Liberia,1371,82,1251
 Chad,,Chad,1321,92,1120
 Niger,,Niger,1203,69,1124
-베트남,越南,Vietnam,1113,35,1025
+베트남,越南,Vietnam,1113,35,1026
 Sao Tome and Principe,,Sao Tome and Principe,929,15,895
 Channel Islands,,Channel Islands,741,48,640
 산마리노,圣马力诺,San Marino,741,42,682
@@ -170,12 +170,12 @@ Sint Maarten,,Sint Maarten,719,22,645
 Turks and Caicos,,Turks and Caicos,696,6,673
 Curaçao,,Curaçao,619,1,343
 Papua New Guinea,,Papua New Guinea,575,7,537
-대만,台湾,Taiwan,530,7,489
+대만,台湾,Taiwan,530,7,491
 Burundi,,Burundi,529,1,472
 Tanzania,,Tanzania,509,21,183
 지브롤터,直布罗陀,Gibraltar,499,0,424
 Comoros,,Comoros,496,7,484
-Faeroe Islands,,Faeroe Islands,477,0,465
+Faeroe Islands,,Faeroe Islands,478,0,467
 Saint Martin,,Saint Martin,466,8,309
 Eritrea,,Eritrea,414,0,372
 Mauritius,,Mauritius,407,10,361
@@ -187,7 +187,7 @@ Mongolia,,Mongolia,320,0,311
 Cayman Islands,,Cayman Islands,221,1,211
 Barbados,,Barbados,210,7,187
 Bermuda,,Bermuda,185,9,172
-리히텐슈타인,列支敦士登,Liechtenstein,163,1,128
+리히텐슈타인,列支敦士登,Liechtenstein,174,1,131
 Caribbean Netherlands,,Caribbean Netherlands,150,2,111
 Seychelles,,Seychelles,148,0,144
 Brunei,,Brunei,146,3,143
