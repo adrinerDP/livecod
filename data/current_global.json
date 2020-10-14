@@ -315,9 +315,9 @@
         "Name": "Kazakhstan",
         "Name_ch": "",
         "Name_en": "Kazakhstan",
-        "confirmed": 108901,
-        "deaths": 1746,
-        "recovered": 104203
+        "confirmed": 108984,
+        "deaths": 1768,
+        "recovered": 104346
     },
     {
         "Name": "아랍에미리트",
@@ -637,7 +637,7 @@
         "Name_en": "Australia",
         "confirmed": 27337,
         "deaths": 904,
-        "recovered": 25037
+        "recovered": 25041
     },
     {
         "Name": "Bulgaria",
