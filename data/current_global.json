@@ -27,9 +27,9 @@
         "Name": "러시아",
         "Name_ch": "俄罗斯",
         "Name_en": "Russia",
-        "confirmed": 1326178,
-        "deaths": 22966,
-        "recovered": 1031785
+        "confirmed": 1340409,
+        "deaths": 23205,
+        "recovered": 1039705
     },
     {
         "Name": "스페인",
@@ -147,9 +147,9 @@
         "Name": "인도네시아",
         "Name_ch": "印度尼西亚",
         "Name_en": "Indonesia",
-        "confirmed": 340622,
-        "deaths": 12027,
-        "recovered": 263296
+        "confirmed": 344749,
+        "deaths": 12156,
+        "recovered": 267851
     },
     {
         "Name": "사우디아라비아",
@@ -173,7 +173,7 @@
         "Name_en": "Germany",
         "confirmed": 335679,
         "deaths": 9740,
-        "recovered": 279100
+        "recovered": 281900
     },
     {
         "Name": "파키스탄",
@@ -248,20 +248,20 @@
         "recovered": 128134
     },
     {
+        "Name": "폴란드",
+        "Name_ch": "波兰",
+        "Name_en": "Poland",
+        "confirmed": 141804,
+        "deaths": 3217,
+        "recovered": 83847
+    },
+    {
         "Name": "Bolivia",
         "Name_ch": "",
         "Name_en": "Bolivia",
         "confirmed": 138922,
         "deaths": 8351,
         "recovered": 102083
-    },
-    {
-        "Name": "폴란드",
-        "Name_ch": "波兰",
-        "Name_en": "Poland",
-        "confirmed": 135278,
-        "deaths": 3101,
-        "recovered": 83847
     },
     {
         "Name": "체코",
@@ -456,6 +456,14 @@
         "recovered": 52006
     },
     {
+        "Name": "오스트리아",
+        "Name_ch": "奥地利",
+        "Name_en": "Austria",
+        "confirmed": 58672,
+        "deaths": 872,
+        "recovered": 45846
+    },
+    {
         "Name": "아르메니아",
         "Name_ch": "亚美尼亚",
         "Name_en": "Armenia",
@@ -470,14 +478,6 @@
         "confirmed": 57889,
         "deaths": 28,
         "recovered": 57740
-    },
-    {
-        "Name": "오스트리아",
-        "Name_ch": "奥地利",
-        "Name_en": "Austria",
-        "confirmed": 57326,
-        "deaths": 861,
-        "recovered": 44949
     },
     {
         "Name": "레바논",
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 12499,
+        "confirmed": 12703,
         "deaths": 346,
         "recovered": 8500
     },
@@ -787,9 +787,9 @@
         "Name": "Guinea",
         "Name_ch": "",
         "Name_en": "Guinea",
-        "confirmed": 11134,
+        "confirmed": 11188,
         "deaths": 70,
-        "recovered": 10347
+        "recovered": 10352
     },
     {
         "Name": "Maldives",
