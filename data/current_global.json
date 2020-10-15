@@ -752,20 +752,20 @@
         "recovered": 10201
     },
     {
+        "Name": "조지아",
+        "Name_ch": "格鲁吉亚",
+        "Name_en": "Georgia",
+        "confirmed": 14440,
+        "deaths": 113,
+        "recovered": 7367
+    },
+    {
         "Name": "Sudan",
         "Name_ch": "",
         "Name_en": "Sudan",
         "confirmed": 13691,
         "deaths": 836,
         "recovered": 6764
-    },
-    {
-        "Name": "조지아",
-        "Name_ch": "格鲁吉亚",
-        "Name_en": "Georgia",
-        "confirmed": 13521,
-        "deaths": 109,
-        "recovered": 7159
     },
     {
         "Name": "핀란드",
