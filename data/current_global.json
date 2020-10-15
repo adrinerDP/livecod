@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8148119,
-        "deaths": 221819,
-        "recovered": 5269641
+        "confirmed": 8148999,
+        "deaths": 221840,
+        "recovered": 5278011
     },
     {
         "Name": "인도",
@@ -211,7 +211,7 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 189385,
+        "confirmed": 189387,
         "deaths": 9664,
         "recovered": 159351
     },
@@ -400,20 +400,20 @@
         "recovered": 78218
     },
     {
+        "Name": "Venezuela",
+        "Name_ch": "",
+        "Name_en": "Venezuela",
+        "confirmed": 85005,
+        "deaths": 714,
+        "recovered": 76262
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
         "confirmed": 84852,
         "deaths": 2528,
         "recovered": 32772
-    },
-    {
-        "Name": "Venezuela",
-        "Name_ch": "",
-        "Name_en": "Venezuela",
-        "confirmed": 84391,
-        "deaths": 710,
-        "recovered": 76262
     },
     {
         "Name": "바레인",
@@ -635,9 +635,9 @@
         "Name": "호주",
         "Name_ch": "澳大利亚",
         "Name_en": "Australia",
-        "confirmed": 27337,
+        "confirmed": 27341,
         "deaths": 904,
-        "recovered": 25041
+        "recovered": 25047
     },
     {
         "Name": "Bulgaria",
@@ -891,9 +891,9 @@
         "Name": "Mauritania",
         "Name_ch": "",
         "Name_en": "Mauritania",
-        "confirmed": 7565,
+        "confirmed": 7572,
         "deaths": 163,
-        "recovered": 7301
+        "recovered": 7314
     },
     {
         "Name": "Cabo Verde",
@@ -1491,9 +1491,9 @@
         "Name": "Barbados",
         "Name_ch": "",
         "Name_en": "Barbados",
-        "confirmed": 210,
+        "confirmed": 215,
         "deaths": 7,
-        "recovered": 187
+        "recovered": 192
     },
     {
         "Name": "Bermuda",
@@ -1531,7 +1531,7 @@
         "Name": "Brunei",
         "Name_ch": "",
         "Name_en": "Brunei",
-        "confirmed": 146,
+        "confirmed": 147,
         "deaths": 3,
         "recovered": 143
     },
@@ -1595,7 +1595,7 @@
         "Name": "Saint Lucia",
         "Name_ch": "",
         "Name_en": "Saint Lucia",
-        "confirmed": 29,
+        "confirmed": 31,
         "deaths": 0,
         "recovered": 27
     },
