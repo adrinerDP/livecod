@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,8150383,221850,5279651
-인도,印度,India,7307097,111311,6383441
+인도,印度,India,7309164,111337,6383441
 브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1354163,23491,1048097
 스페인,西班牙,Spain,937311,33413,0
@@ -14,7 +14,7 @@ Argentina,,Argentina,931967,24921,751146
 이란,伊朗,Iran,513219,29349,414831
 칠레,智利,Chile,485372,13415,458073
 이라크,伊拉克,Iraq,413215,10021,347396
-Bangladesh,,Bangladesh,382959,5593,297449
+Bangladesh,,Bangladesh,384559,5608,299229
 이탈리아,义大利,Italy,372799,36289,244065
 인도네시아,印度尼西亚,Indonesia,349160,12268,273661
 필리핀,菲律宾,Philippines,348698,6497,294161
@@ -22,7 +22,7 @@ Bangladesh,,Bangladesh,382959,5593,297449
 사우디아라비아,沙特阿拉伯,Saudi Arabia,340590,5108,326820
 터키,土耳其,Turkey,340450,9014,298368
 파키스탄,巴基斯坦,Pakistan,321218,6614,305395
-이스라엘,以色列,Israel,299253,2099,253212
+이스라엘,以色列,Israel,299502,2109,253597
 Ukraine,,Ukraine,281239,5302,119650
 네덜란드,荷兰,Netherlands,196163,6663,0
 캐나다,加拿大,Canada,189387,9664,159351
@@ -95,7 +95,7 @@ Zambia,,Zambia,15616,345,14850
 Montenegro,,Montenegro,14461,217,10201
 조지아,格鲁吉亚,Georgia,14440,113,7367
 Sudan,,Sudan,13691,836,6764
-핀란드,芬兰,Finland,12703,350,9100
+핀란드,芬兰,Finland,12944,350,9100
 Namibia,,Namibia,12069,130,10145
 Guinea,,Guinea,11255,70,10360
 Maldives,,Maldives,11062,35,9880
@@ -144,7 +144,7 @@ French Polynesia,,French Polynesia,3573,13,2487
 Botswana,,Botswana,3515,20,853
 Mali,,Mali,3352,132,2550
 안도라,安道尔,Andorra,3190,59,2011
-라트비아,约旦,Latvia,2942,41,1325
+라트비아,约旦,Latvia,3056,41,1329
 South Sudan,,South Sudan,2798,55,1290
 Belize,,Belize,2619,40,1596
 Benin,,Benin,2478,41,2330

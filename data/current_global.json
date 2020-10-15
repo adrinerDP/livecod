@@ -11,8 +11,8 @@
         "Name": "인도",
         "Name_ch": "印度",
         "Name_en": "India",
-        "confirmed": 7307097,
-        "deaths": 111311,
+        "confirmed": 7309164,
+        "deaths": 111337,
         "recovered": 6383441
     },
     {
@@ -123,9 +123,9 @@
         "Name": "Bangladesh",
         "Name_ch": "",
         "Name_en": "Bangladesh",
-        "confirmed": 382959,
-        "deaths": 5593,
-        "recovered": 297449
+        "confirmed": 384559,
+        "deaths": 5608,
+        "recovered": 299229
     },
     {
         "Name": "이탈리아",
@@ -187,9 +187,9 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 299253,
-        "deaths": 2099,
-        "recovered": 253212
+        "confirmed": 299502,
+        "deaths": 2109,
+        "recovered": 253597
     },
     {
         "Name": "Ukraine",
@@ -771,7 +771,7 @@
         "Name": "핀란드",
         "Name_ch": "芬兰",
         "Name_en": "Finland",
-        "confirmed": 12703,
+        "confirmed": 12944,
         "deaths": 350,
         "recovered": 9100
     },
@@ -1163,9 +1163,9 @@
         "Name": "라트비아",
         "Name_ch": "约旦",
         "Name_en": "Latvia",
-        "confirmed": 2942,
+        "confirmed": 3056,
         "deaths": 41,
-        "recovered": 1325
+        "recovered": 1329
     },
     {
         "Name": "South Sudan",
