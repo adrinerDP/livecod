@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8162533,
-        "deaths": 222060,
-        "recovered": 5290494
+        "confirmed": 8165007,
+        "deaths": 222092,
+        "recovered": 5290510
     },
     {
         "Name": "인도",
@@ -19,8 +19,8 @@
         "Name": "브라질",
         "Name_ch": "巴西",
         "Name_en": "Brazil",
-        "confirmed": 5141498,
-        "deaths": 151779,
+        "confirmed": 5142003,
+        "deaths": 151780,
         "recovered": 4568813
     },
     {
@@ -131,9 +131,9 @@
         "Name": "이탈리아",
         "Name_ch": "义大利",
         "Name_en": "Italy",
-        "confirmed": 372799,
-        "deaths": 36289,
-        "recovered": 244065
+        "confirmed": 381602,
+        "deaths": 36372,
+        "recovered": 245964
     },
     {
         "Name": "인도네시아",
@@ -435,9 +435,9 @@
         "Name": "Moldova",
         "Name_ch": "",
         "Name_en": "Moldova",
-        "confirmed": 64424,
-        "deaths": 1514,
-        "recovered": 45545
+        "confirmed": 65076,
+        "deaths": 1530,
+        "recovered": 46010
     },
     {
         "Name": "Uzbekistan",
@@ -659,8 +659,8 @@
         "Name": "그리스",
         "Name_ch": "希腊",
         "Name_en": "Greece",
-        "confirmed": 23495,
-        "deaths": 469,
+        "confirmed": 23947,
+        "deaths": 482,
         "recovered": 9989
     },
     {
@@ -747,9 +747,9 @@
         "Name": "Montenegro",
         "Name_ch": "",
         "Name_en": "Montenegro",
-        "confirmed": 14461,
-        "deaths": 217,
-        "recovered": 10201
+        "confirmed": 14672,
+        "deaths": 221,
+        "recovered": 10355
     },
     {
         "Name": "조지아",
@@ -960,6 +960,14 @@
         "recovered": 5366
     },
     {
+        "Name": "Bahamas",
+        "Name_ch": "",
+        "Name_en": "Bahamas",
+        "confirmed": 5385,
+        "deaths": 112,
+        "recovered": 3178
+    },
+    {
         "Name": "Nicaragua",
         "Name_ch": "",
         "Name_en": "Nicaragua",
@@ -982,14 +990,6 @@
         "confirmed": 5214,
         "deaths": 105,
         "recovered": 4943
-    },
-    {
-        "Name": "Bahamas",
-        "Name_ch": "",
-        "Name_en": "Bahamas",
-        "confirmed": 5191,
-        "deaths": 109,
-        "recovered": 3078
     },
     {
         "Name": "Congo",

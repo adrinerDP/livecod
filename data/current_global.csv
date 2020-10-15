@@ -1,7 +1,7 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8162533,222060,5290494
+미국,美国,United States,8165007,222092,5290510
 인도,印度,India,7311088,111348,6384885
-브라질,巴西,Brazil,5141498,151779,4568813
+브라질,巴西,Brazil,5142003,151780,4568813
 러시아,俄罗斯,Russia,1354163,23491,1048097
 스페인,西班牙,Spain,937311,33413,0
 Argentina,,Argentina,931967,24921,751146
@@ -15,7 +15,7 @@ Argentina,,Argentina,931967,24921,751146
 칠레,智利,Chile,485372,13415,458073
 이라크,伊拉克,Iraq,413215,10021,347396
 Bangladesh,,Bangladesh,384559,5608,299229
-이탈리아,义大利,Italy,372799,36289,244065
+이탈리아,义大利,Italy,381602,36372,245964
 인도네시아,印度尼西亚,Indonesia,349160,12268,273661
 필리핀,菲律宾,Philippines,348698,6497,294161
 독일,德国,Germany,344089,9785,281900
@@ -53,7 +53,7 @@ Honduras,,Honduras,85458,2533,32990
 Venezuela,,Venezuela,85005,714,76886
 바레인,巴林,Bahrain,76621,288,72561
 스위스,瑞士,Switzerland,71317,2113,50500
-Moldova,,Moldova,64424,1514,45545
+Moldova,,Moldova,65076,1530,46010
 Uzbekistan,,Uzbekistan,62278,518,59291
 나이지리아,尼日利亚,Nigeria,60834,1116,52143
 오스트리아,奥地利,Austria,60224,877,46798
@@ -81,7 +81,7 @@ El Salvador,,El Salvador,31061,908,26311
 호주,澳大利亚,Australia,27357,904,25047
 Bulgaria,,Bulgaria,26593,929,16489
 슬로바키아,斯洛伐克,Slovakia,24225,71,6926
-그리스,希腊,Greece,23495,469,9989
+그리스,希腊,Greece,23947,482,9989
 크로아티아,克罗地亚,Croatia,22534,344,18628
 North Macedonia,,North Macedonia,21636,809,16591
 카메룬,喀麦隆,Cameroon,21441,423,20117
@@ -92,7 +92,7 @@ Albania,,Albania,16212,439,9864
 노르웨이,挪威,Norway,16050,278,11863
 Zambia,,Zambia,15616,345,14850
 세네갈,塞内加尔,Senegal,15348,316,13637
-Montenegro,,Montenegro,14461,217,10201
+Montenegro,,Montenegro,14672,221,10355
 조지아,格鲁吉亚,Georgia,14440,113,7367
 Sudan,,Sudan,13691,836,6764
 핀란드,芬兰,Finland,12944,350,9100
@@ -119,10 +119,10 @@ Cuba,,Cuba,6062,123,5678
 Malawi,,Malawi,5829,181,4723
 Eswatini,,Eswatini,5715,114,5347
 Djibouti,,Djibouti,5440,61,5366
+Bahamas,,Bahamas,5385,112,3178
 Nicaragua,,Nicaragua,5353,154,4225
 스리랑카,斯里兰卡,Sri Lanka,5219,13,3380
 홍콩,香港,Hong Kong,5214,105,4943
-Bahamas,,Bahamas,5191,109,3078
 Congo,,Congo,5156,92,3887
 Trinidad and Tobago,,Trinidad and Tobago,5154,93,3452
 Suriname,,Suriname,5083,108,4886
