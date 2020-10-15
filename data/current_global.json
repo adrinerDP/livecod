@@ -331,9 +331,9 @@
         "Name": "오만",
         "Name_ch": "阿曼",
         "Name_en": "Oman",
-        "confirmed": 107776,
-        "deaths": 1061,
-        "recovered": 93908
+        "confirmed": 108296,
+        "deaths": 1071,
+        "recovered": 94229
     },
     {
         "Name": "이집트",
@@ -619,9 +619,9 @@
         "Name": "El Salvador",
         "Name_ch": "",
         "Name_en": "El Salvador",
-        "confirmed": 30766,
-        "deaths": 904,
-        "recovered": 26087
+        "confirmed": 31061,
+        "deaths": 908,
+        "recovered": 26311
     },
     {
         "Name": "요르단",
