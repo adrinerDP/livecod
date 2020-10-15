@@ -1,11 +1,19 @@
 ﻿[
     {
-        "title": "코로나19 어제 신규확진자 110명…지역발생만 95명",
-        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223513"
+        "title": "코로나19 신규 확진자 110명…요양병원 집단감염 영향",
+        "link": "http://www.hani.co.kr/arti/society/health/965832.html"
+    },
+    {
+        "title": "해뜨락요양병원 확진자, 부산대병원 이송 후 사망",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010150239&t=NN"
     },
     {
         "title": "코로나19 확진자 혈액, 일부 환자에게 수혈",
         "link": "http://health.chosun.com/site/data/html_dir/2020/10/15/2020101501978.html"
+    },
+    {
+        "title": "코로나19 어제 신규확진자 110명…지역발생만 95명",
+        "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223513"
     },
     {
         "title": "부산 요양병원 여파로 15일 코로나 신규 확진자 110명",
@@ -16,27 +24,19 @@
         "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/15/2020101590028.html"
     },
     {
-        "title": "쿠팡 시흥 배송캠프서 코로나19 확진자…캠프 폐쇄",
-        "link": "http://yna.kr/AKR20201015114500030?did=1195m"
-    },
-    {
-        "title": "[속보] 코로나19 신규 확진자 110명... 부산서 54명",
-        "link": "https://hankookilbo.com/News/Read/A2020101509230001894?did=NA"
-    },
-    {
-        "title": "쿠팡 시흥 배송캠프서 코로나 확진자 발생…캠프 폐쇄",
-        "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03690006625933248"
-    },
-    {
-        "title": "中 코로나 종식됐다더니...칭다오발 확진자 잇달아 발생(종합)",
-        "link": "https://view.asiae.co.kr/article/2020101515202560588"
-    },
-    {
         "title": "추석연휴 코로나19 집단감염 328명…가족·지인모임이 130명",
         "link": "http://yna.kr/AKR20201015115600530?did=1195m"
     },
     {
-        "title": "코로나 확진 110명…부산 요양병원 집단감염 영향(종합)",
-        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/15/2020101500584.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
+        "title": "쿠팡 시흥캠프서 코로나19 확진자 발생…폐쇄 조치",
+        "link": "http://www.newsis.com/view/?id=NISX20201015_0001198841&cID=13001&pID=13000"
+    },
+    {
+        "title": "쿠팡 시흥 캠프, 코로나19 확진자 발생에 폐쇄",
+        "link": "http://www.inews24.com/view/1307571"
+    },
+    {
+        "title": "경남 코로나19 닷새째 확진자 ‘0’…부산 집단감염에 긴장",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010151405001&code=620116"
     }
 ]
