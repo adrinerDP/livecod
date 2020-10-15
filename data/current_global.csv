@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8158457,221916,5280378
+미국,美国,United States,8162533,222060,5290494
 인도,印度,India,7311088,111348,6384885
 브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1354163,23491,1048097
@@ -18,14 +18,14 @@ Bangladesh,,Bangladesh,384559,5608,299229
 이탈리아,义大利,Italy,372799,36289,244065
 인도네시아,印度尼西亚,Indonesia,349160,12268,273661
 필리핀,菲律宾,Philippines,348698,6497,294161
-독일,德国,Germany,343670,9781,281900
+독일,德国,Germany,344089,9785,281900
 사우디아라비아,沙特阿拉伯,Saudi Arabia,341062,5127,327327
 터키,土耳其,Turkey,340450,9014,298368
 파키스탄,巴基斯坦,Pakistan,321218,6614,305395
 이스라엘,以色列,Israel,299502,2109,253597
 Ukraine,,Ukraine,281239,5302,119650
 네덜란드,荷兰,Netherlands,203954,6692,0
-캐나다,加拿大,Canada,189387,9664,159351
+캐나다,加拿大,Canada,190168,9669,160130
 벨기에,比利时,Belgium,181511,10278,20587
 루마니아,尼亚,Romania,168490,5674,125009
 모로코,摩洛哥,Morocco,160333,2726,133959
@@ -43,10 +43,10 @@ Kazakhstan,,Kazakhstan,109094,1768,104525
 오만,阿曼,Oman,108296,1071,94229
 이집트,埃及,Egypt,104915,6077,97920
 스웨덴,瑞典语,Sweden,102407,5910,0
-Guatemala,,Guatemala,99094,3430,88416
+Guatemala,,Guatemala,99765,3453,88931
 포르투갈,葡萄牙,Portugal,93294,2128,55081
 코스타리카,哥斯达黎加,Costa Rica,91780,1134,54155
-일본,日本,Japan,90140,1638,83158
+일본,日本,Japan,90710,1646,83837
 Ethiopia,,Ethiopia,86430,1312,40165
 벨라루스,白俄罗斯,Belarus,85734,916,78583
 Honduras,,Honduras,85458,2533,32990
@@ -58,7 +58,7 @@ Uzbekistan,,Uzbekistan,62278,518,59291
 나이지리아,尼日利亚,Nigeria,60834,1116,52143
 오스트리아,奥地利,Austria,60224,877,46798
 아르메니아,亚美尼亚,Armenia,59995,1046,47119
-싱가포르,新加坡,Singapore,57892,28,57752
+싱가포르,新加坡,Singapore,57892,28,57764
 레바논,黎巴嫩,Lebanon,57246,499,25164
 알제리,阿尔及利亚,Algeria,53584,1827,37603
 Paraguay,,Paraguay,51845,1131,33921
@@ -74,10 +74,10 @@ Kenya,,Kenya,43143,805,31508
 세르비아,塞尔维亚,Serbia,35454,770,31536
 Tunisia,,Tunisia,34790,512,5032
 덴마크,丹麦,Denmark,34023,677,28118
+요르단,约旦,Jordan,33009,282,6565
 Myanmar,,Myanmar,32351,765,14706
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,32224,972,24356
 El Salvador,,El Salvador,31061,908,26311
-요르단,约旦,Jordan,30550,257,6466
 호주,澳大利亚,Australia,27357,904,25047
 Bulgaria,,Bulgaria,26593,929,16489
 슬로바키아,斯洛伐克,Slovakia,24225,71,6926
@@ -88,8 +88,8 @@ North Macedonia,,North Macedonia,21636,809,16591
 Ivory Coast,,Ivory Coast,20217,120,19872
 말레이시아,马来西亚,Malaysia,18129,170,12014
 Madagascar,,Madagascar,16754,237,16124
+Albania,,Albania,16212,439,9864
 노르웨이,挪威,Norway,16050,278,11863
-Albania,,Albania,15955,434,9762
 Zambia,,Zambia,15616,345,14850
 세네갈,塞内加尔,Senegal,15348,316,13637
 Montenegro,,Montenegro,14461,217,10201
@@ -108,8 +108,8 @@ Uganda,,Uganda,10117,96,6725
 룩셈부르크,卢森堡,Luxembourg,10030,133,8306
 Haiti,,Haiti,8908,231,7182
 Gabon,,Gabon,8869,54,8395
+Jamaica,,Jamaica,8067,160,3481
 Zimbabwe,,Zimbabwe,8055,231,7640
-Jamaica,,Jamaica,7989,151,3431
 Mauritania,,Mauritania,7572,163,7314
 Cabo Verde,,Cabo Verde,7371,79,6270
 Guadeloupe,,Guadeloupe,6908,96,2199
