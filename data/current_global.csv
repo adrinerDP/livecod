@@ -1,6 +1,6 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
 미국,美国,United States,8156124,221895,5280004
-인도,印度,India,7309164,111337,6383441
+인도,印度,India,7311088,111348,6384885
 브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1354163,23491,1048097
 스페인,西班牙,Spain,937311,33413,0
@@ -18,7 +18,7 @@ Bangladesh,,Bangladesh,384559,5608,299229
 이탈리아,义大利,Italy,372799,36289,244065
 인도네시아,印度尼西亚,Indonesia,349160,12268,273661
 필리핀,菲律宾,Philippines,348698,6497,294161
-독일,德国,Germany,343255,9780,281900
+독일,德国,Germany,343670,9781,281900
 사우디아라비아,沙特阿拉伯,Saudi Arabia,341062,5127,327327
 터키,土耳其,Turkey,340450,9014,298368
 파키스탄,巴基斯坦,Pakistan,321218,6614,305395
@@ -44,8 +44,8 @@ Kazakhstan,,Kazakhstan,109094,1768,104525
 이집트,埃及,Egypt,104915,6077,97920
 스웨덴,瑞典语,Sweden,102407,5910,0
 Guatemala,,Guatemala,99094,3430,88416
+포르투갈,葡萄牙,Portugal,93294,2128,55081
 코스타리카,哥斯达黎加,Costa Rica,91780,1134,54155
-포르투갈,葡萄牙,Portugal,91193,2117,54493
 일본,日本,Japan,90140,1638,83158
 Ethiopia,,Ethiopia,86430,1312,40165
 벨라루스,白俄罗斯,Belarus,85734,916,78583
@@ -54,7 +54,7 @@ Venezuela,,Venezuela,85005,714,76886
 바레인,巴林,Bahrain,76621,288,72561
 스위스,瑞士,Switzerland,71317,2113,50500
 Moldova,,Moldova,64424,1514,45545
-Uzbekistan,,Uzbekistan,62175,516,59095
+Uzbekistan,,Uzbekistan,62278,518,59291
 나이지리아,尼日利亚,Nigeria,60834,1116,52143
 오스트리아,奥地利,Austria,60224,877,46798
 아르메니아,亚美尼亚,Armenia,59995,1046,47119
@@ -65,17 +65,17 @@ Paraguay,,Paraguay,51845,1131,33921
 Kyrgyzstan,,Kyrgyzstan,50589,1099,45080
 Ghana,,Ghana,47126,310,46469
 Libya,,Libya,46676,681,25685
-팔레스타인,巴勒斯坦,Palestine,45658,393,39304
+팔레스타인,巴勒斯坦,Palestine,46100,401,39585
 아일랜드,冰岛,Ireland,45243,1835,23364
+Kenya,,Kenya,43143,805,31508
 아제르바이잔,阿塞拜疆,Azerbaijan,42750,616,39570
-Kenya,,Kenya,42541,797,31428
 헝가리,匈牙利,Hungary,41732,1052,12628
 아프가니스탄,阿富汗,Afghanistan,40026,1481,33447
 세르비아,塞尔维亚,Serbia,35454,770,31536
 Tunisia,,Tunisia,34790,512,5032
 덴마크,丹麦,Denmark,34023,677,28118
+Myanmar,,Myanmar,32351,765,14706
 보스니아 헤르체고비나,波斯尼亚和黑塞哥维那,Bosnia and Herzegovina,32224,972,24356
-Myanmar,,Myanmar,31325,732,13866
 El Salvador,,El Salvador,31061,908,26311
 요르단,约旦,Jordan,30550,257,6466
 호주,澳大利亚,Australia,27357,904,25047
@@ -104,7 +104,7 @@ DRC,,DRC,10935,281,10306
 Mozambique,,Mozambique,10392,73,8035
 Tajikistan,,Tajikistan,10374,80,9317
 French Guiana,,French Guiana,10202,69,9892
-Uganda,,Uganda,10069,95,6531
+Uganda,,Uganda,10117,96,6725
 룩셈부르크,卢森堡,Luxembourg,10030,133,8306
 Haiti,,Haiti,8908,231,7182
 Gabon,,Gabon,8869,54,8395
