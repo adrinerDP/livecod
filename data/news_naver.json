@@ -4,10 +4,6 @@
         "link": "http://www.hani.co.kr/arti/society/health/965832.html"
     },
     {
-        "title": "코로나19 신규확진 110명…지역발생 95명·해외유입 15명",
-        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/15/2020101590028.html"
-    },
-    {
         "title": "코로나19 어제 신규확진자 110명…지역발생만 95명",
         "link": "http://www.ichannela.com/news/main/news_detailPage.do?publishId=000000223513"
     },
@@ -16,8 +12,24 @@
         "link": "https://hankookilbo.com/News/Read/A2020101509230001894?did=NA"
     },
     {
-        "title": "부산 요양병원 확진자 1명 숨져···추가 확진사례 없어",
-        "link": "https://www.sedaily.com/NewsView/1Z953HBSPI"
+        "title": "쿠팡 시흥 배송캠프서 코로나19 확진자…캠프 폐쇄",
+        "link": "http://yna.kr/AKR20201015114500030?did=1195m"
+    },
+    {
+        "title": "경남 코로나19 닷새째 확진자 ‘0’…부산 집단감염에 긴장",
+        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010151405001&code=620116"
+    },
+    {
+        "title": "코로나19 확진자 혈액, 일부 환자에게 수혈",
+        "link": "http://health.chosun.com/site/data/html_dir/2020/10/15/2020101501978.html"
+    },
+    {
+        "title": "코로나19 신규확진 110명…지역발생 95명·해외유입 15명",
+        "link": "http://news.tvchosun.com/site/data/html_dir/2020/10/15/2020101590028.html"
+    },
+    {
+        "title": "코로나 확진 110명…부산 요양병원 집단감염 영향(종합)",
+        "link": "https://biz.chosun.com/site/data/html_dir/2020/10/15/2020101500584.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
         "title": "[종합] 코로나19 확진자 110명 증가...부산 54명, 서울 22명, 인천 11명",
@@ -26,17 +38,5 @@
     {
         "title": "코로나19 재확산 우려…요양병원 무더기 확진에 해외유입까지",
         "link": "http://yna.kr/AKR20201014169200530?did=1195m"
-    },
-    {
-        "title": "확진자 50여명 나온 해뜨락요양병원, 밤새 추가 감염 없어",
-        "link": "https://www.nocutnews.co.kr/news/5428915"
-    },
-    {
-        "title": "코로나19 여파로 올해 철도이용객 40% 감소…KTX 50% 급감",
-        "link": "http://yna.kr/AKR20201014168500530?did=1195m"
-    },
-    {
-        "title": "[속보] 해뜨락요양병원 확진자, 부산대병원 이송 후 사망",
-        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010150239&t=NN"
     }
 ]

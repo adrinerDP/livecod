@@ -187,17 +187,17 @@
         "Name": "이스라엘",
         "Name_ch": "以色列",
         "Name_en": "Israel",
-        "confirmed": 298500,
-        "deaths": 2098,
-        "recovered": 251711
+        "confirmed": 299253,
+        "deaths": 2099,
+        "recovered": 253212
     },
     {
         "Name": "Ukraine",
         "Name_ch": "",
         "Name_en": "Ukraine",
-        "confirmed": 276177,
-        "deaths": 5229,
-        "recovered": 118699
+        "confirmed": 281239,
+        "deaths": 5302,
+        "recovered": 119650
     },
     {
         "Name": "네덜란드",
@@ -571,9 +571,9 @@
         "Name": "아프가니스탄",
         "Name_ch": "阿富汗",
         "Name_en": "Afghanistan",
-        "confirmed": 39994,
+        "confirmed": 40026,
         "deaths": 1481,
-        "recovered": 33354
+        "recovered": 33447
     },
     {
         "Name": "세르비아",
