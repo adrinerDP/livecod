@@ -420,7 +420,7 @@
         "Name_ch": "巴林",
         "Name_en": "Bahrain",
         "confirmed": 76621,
-        "deaths": 287,
+        "deaths": 288,
         "recovered": 72561
     },
     {
@@ -579,8 +579,8 @@
         "Name": "세르비아",
         "Name_ch": "塞尔维亚",
         "Name_en": "Serbia",
-        "confirmed": 35251,
-        "deaths": 768,
+        "confirmed": 35454,
+        "deaths": 770,
         "recovered": 31536
     },
     {
@@ -712,20 +712,20 @@
         "recovered": 16124
     },
     {
+        "Name": "노르웨이",
+        "Name_ch": "挪威",
+        "Name_en": "Norway",
+        "confirmed": 16050,
+        "deaths": 278,
+        "recovered": 11863
+    },
+    {
         "Name": "Albania",
         "Name_ch": "",
         "Name_en": "Albania",
         "confirmed": 15955,
         "deaths": 434,
         "recovered": 9762
-    },
-    {
-        "Name": "노르웨이",
-        "Name_ch": "挪威",
-        "Name_en": "Norway",
-        "confirmed": 15953,
-        "deaths": 278,
-        "recovered": 11863
     },
     {
         "Name": "Zambia",
@@ -808,6 +808,14 @@
         "recovered": 10306
     },
     {
+        "Name": "슬로베니아",
+        "Name_ch": "斯洛文尼亚",
+        "Name_en": "Slovenia",
+        "confirmed": 10683,
+        "deaths": 176,
+        "recovered": 5689
+    },
+    {
         "Name": "Mozambique",
         "Name_ch": "",
         "Name_en": "Mozambique",
@@ -846,14 +854,6 @@
         "confirmed": 10030,
         "deaths": 133,
         "recovered": 8306
-    },
-    {
-        "Name": "슬로베니아",
-        "Name_ch": "斯洛文尼亚",
-        "Name_en": "Slovenia",
-        "confirmed": 9938,
-        "deaths": 175,
-        "recovered": 5515
     },
     {
         "Name": "Haiti",
