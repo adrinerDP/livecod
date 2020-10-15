@@ -1,5 +1,5 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8148999,221840,5278011
+미국,美国,United States,8150043,221843,5278753
 인도,印度,India,7305070,111311,6380456
 브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1340409,23205,1039705
@@ -7,7 +7,7 @@
 Argentina,,Argentina,931967,24921,751146
 콜롬비아,哥伦比亚,Colombia,930159,28306,816667
 페루,秘鲁,Peru,856951,33512,759597
-멕시코,墨西哥,Mexico,825340,84420,601571
+멕시코,墨西哥,Mexico,829396,84898,603827
 프랑스,法国,France,779063,33037,103413
 남아프리카 공화국,南非共和国,South Africa,696414,18151,626898
 영국,英国,UK,654644,43155,0
@@ -32,7 +32,7 @@ Ukraine,,Ukraine,276177,5229,118699
 에콰도르,厄瓜多尔,Ecuador,149083,12264,128134
 폴란드,波兰,Poland,141804,3217,83847
 체코,捷克,Czechia,139290,1172,60901
-Bolivia,,Bolivia,138922,8351,102083
+Bolivia,,Bolivia,139141,8377,102642
 카타르,卡塔尔,Qatar,128603,220,125584
 Panama,,Panama,122128,2519,97919
 도미니카 공화국,多明尼加共和国,Dominican Republic,119662,2186,95460
@@ -78,7 +78,7 @@ Tunisia,,Tunisia,34790,512,5032
 Myanmar,,Myanmar,31325,732,13866
 El Salvador,,El Salvador,30766,904,26087
 요르단,约旦,Jordan,30550,257,6466
-호주,澳大利亚,Australia,27341,904,25047
+호주,澳大利亚,Australia,27357,904,25047
 Bulgaria,,Bulgaria,26593,929,16489
 그리스,希腊,Greece,23495,469,9989
 슬로바키아,斯洛伐克,Slovakia,22296,66,6709
@@ -156,7 +156,7 @@ Martinique,,Martinique,2257,24,98
 Cyprus,,Cyprus,2181,25,1444
 Yemen,,Yemen,2053,596,1329
 토고,多哥,Togo,1983,51,1473
-New Zealand,,New Zealand,1874,25,1809
+New Zealand,,New Zealand,1876,25,1809
 Lesotho,,Lesotho,1833,42,961
 Liberia,,Liberia,1372,82,1254
 Chad,,Chad,1329,92,1120
@@ -213,4 +213,4 @@ Western Sahara,,Western Sahara,10,1,8
 MS Zaandam,,MS Zaandam,9,2,0
 Anguilla,,Anguilla,3,0,3
 Solomon Islands,,Solomon Islands,2,0,0
-중국,中国,China,85611,4634,80736
+중국,中国,China,85622,4634,80748
