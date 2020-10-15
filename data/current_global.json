@@ -99,9 +99,9 @@
         "Name": "이란",
         "Name_ch": "伊朗",
         "Name_en": "Iran",
-        "confirmed": 513219,
-        "deaths": 29349,
-        "recovered": 414831
+        "confirmed": 517835,
+        "deaths": 29605,
+        "recovered": 418054
     },
     {
         "Name": "칠레",
@@ -227,9 +227,9 @@
         "Name": "루마니아",
         "Name_ch": "尼亚",
         "Name_en": "Romania",
-        "confirmed": 164477,
-        "deaths": 5601,
-        "recovered": 122714
+        "confirmed": 168490,
+        "deaths": 5674,
+        "recovered": 125009
     },
     {
         "Name": "모로코",
@@ -427,8 +427,8 @@
         "Name": "스위스",
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
-        "confirmed": 68704,
-        "deaths": 2109,
+        "confirmed": 71317,
+        "deaths": 2110,
         "recovered": 49800
     },
     {
@@ -699,9 +699,9 @@
         "Name": "말레이시아",
         "Name_ch": "马来西亚",
         "Name_en": "Malaysia",
-        "confirmed": 17540,
-        "deaths": 167,
-        "recovered": 11605
+        "confirmed": 18129,
+        "deaths": 170,
+        "recovered": 12014
     },
     {
         "Name": "Madagascar",
@@ -1376,20 +1376,20 @@
         "recovered": 491
     },
     {
+        "Name": "지브롤터",
+        "Name_ch": "直布罗陀",
+        "Name_en": "Gibraltar",
+        "confirmed": 531,
+        "deaths": 0,
+        "recovered": 439
+    },
+    {
         "Name": "Burundi",
         "Name_ch": "",
         "Name_en": "Burundi",
         "confirmed": 529,
         "deaths": 1,
         "recovered": 497
-    },
-    {
-        "Name": "지브롤터",
-        "Name_ch": "直布罗陀",
-        "Name_en": "Gibraltar",
-        "confirmed": 516,
-        "deaths": 0,
-        "recovered": 435
     },
     {
         "Name": "Tanzania",
