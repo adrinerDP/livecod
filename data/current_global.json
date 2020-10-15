@@ -179,9 +179,9 @@
         "Name": "파키스탄",
         "Name_ch": "巴基斯坦",
         "Name_en": "Pakistan",
-        "confirmed": 320463,
-        "deaths": 6601,
-        "recovered": 305080
+        "confirmed": 321218,
+        "deaths": 6614,
+        "recovered": 305395
     },
     {
         "Name": "이스라엘",
@@ -219,9 +219,9 @@
         "Name": "벨기에",
         "Name_ch": "比利时",
         "Name_en": "Belgium",
-        "confirmed": 173240,
-        "deaths": 10244,
-        "recovered": 20452
+        "confirmed": 181511,
+        "deaths": 10278,
+        "recovered": 20587
     },
     {
         "Name": "루마니아",
@@ -1179,9 +1179,9 @@
         "Name": "Belize",
         "Name_ch": "",
         "Name_en": "Belize",
-        "confirmed": 2585,
-        "deaths": 39,
-        "recovered": 1580
+        "confirmed": 2619,
+        "deaths": 40,
+        "recovered": 1596
     },
     {
         "Name": "Benin",
