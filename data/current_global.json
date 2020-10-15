@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8154627,
-        "deaths": 221888,
-        "recovered": 5279984
+        "confirmed": 8156124,
+        "deaths": 221895,
+        "recovered": 5280004
     },
     {
         "Name": "인도",
@@ -163,9 +163,9 @@
         "Name": "사우디아라비아",
         "Name_ch": "沙特阿拉伯",
         "Name_en": "Saudi Arabia",
-        "confirmed": 340590,
-        "deaths": 5108,
-        "recovered": 326820
+        "confirmed": 341062,
+        "deaths": 5127,
+        "recovered": 327327
     },
     {
         "Name": "터키",
@@ -428,7 +428,7 @@
         "Name_ch": "瑞士",
         "Name_en": "Switzerland",
         "confirmed": 71317,
-        "deaths": 2110,
+        "deaths": 2113,
         "recovered": 50500
     },
     {
@@ -819,9 +819,9 @@
         "Name": "Tajikistan",
         "Name_ch": "",
         "Name_en": "Tajikistan",
-        "confirmed": 10336,
-        "deaths": 79,
-        "recovered": 9245
+        "confirmed": 10374,
+        "deaths": 80,
+        "recovered": 9317
     },
     {
         "Name": "French Guiana",
@@ -979,9 +979,9 @@
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
-        "confirmed": 5202,
+        "confirmed": 5214,
         "deaths": 105,
-        "recovered": 4932
+        "recovered": 4943
     },
     {
         "Name": "Bahamas",
