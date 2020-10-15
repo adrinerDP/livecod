@@ -392,6 +392,14 @@
         "recovered": 40165
     },
     {
+        "Name": "Honduras",
+        "Name_ch": "",
+        "Name_en": "Honduras",
+        "confirmed": 85458,
+        "deaths": 2533,
+        "recovered": 32990
+    },
+    {
         "Name": "벨라루스",
         "Name_ch": "白俄罗斯",
         "Name_en": "Belarus",
@@ -406,14 +414,6 @@
         "confirmed": 85005,
         "deaths": 714,
         "recovered": 76262
-    },
-    {
-        "Name": "Honduras",
-        "Name_ch": "",
-        "Name_en": "Honduras",
-        "confirmed": 84852,
-        "deaths": 2528,
-        "recovered": 32772
     },
     {
         "Name": "바레인",
@@ -1459,9 +1459,9 @@
         "Name": "부탄",
         "Name_ch": "不丹",
         "Name_en": "Bhutan",
-        "confirmed": 313,
+        "confirmed": 316,
         "deaths": 0,
-        "recovered": 293
+        "recovered": 294
     },
     {
         "Name": "캄보디아",
