@@ -1,12 +1,12 @@
 ﻿Name,Name_ch,Name_en,confirmed,deaths,recovered
-미국,美国,United States,8147092,221807,5269348
-인도,印度,India,7305070,111311,6379428
+미국,美国,United States,8148119,221819,5269641
+인도,印度,India,7305070,111311,6380456
 브라질,巴西,Brazil,5141498,151779,4568813
 러시아,俄罗斯,Russia,1340409,23205,1039705
 스페인,西班牙,Spain,937311,33413,0
 Argentina,,Argentina,931967,24921,751146
 콜롬비아,哥伦比亚,Colombia,930159,28306,816667
-페루,秘鲁,Peru,853974,33419,753959
+페루,秘鲁,Peru,856951,33512,759597
 멕시코,墨西哥,Mexico,825340,84420,601571
 프랑스,法国,France,779063,33037,103413
 남아프리카 공화국,南非共和国,South Africa,696414,18151,626898
@@ -25,7 +25,7 @@ Bangladesh,,Bangladesh,382959,5593,297449
 이스라엘,以色列,Israel,298500,2098,251711
 Ukraine,,Ukraine,276177,5229,118699
 네덜란드,荷兰,Netherlands,196163,6663,0
-캐나다,加拿大,Canada,188984,9663,159045
+캐나다,加拿大,Canada,189385,9664,159351
 벨기에,比利时,Belgium,173240,10244,20452
 루마니아,尼亚,Romania,164477,5601,122714
 모로코,摩洛哥,Morocco,160333,2726,133959
@@ -61,7 +61,7 @@ Uzbekistan,,Uzbekistan,61950,514,58951
 싱가포르,新加坡,Singapore,57889,28,57752
 레바논,黎巴嫩,Lebanon,57246,499,25164
 알제리,阿尔及利亚,Algeria,53584,1827,37603
-Paraguay,,Paraguay,51197,1108,33325
+Paraguay,,Paraguay,51845,1131,33921
 Kyrgyzstan,,Kyrgyzstan,50201,1094,44884
 Ghana,,Ghana,47126,310,46469
 Libya,,Libya,45821,669,25301
@@ -125,7 +125,7 @@ Bahamas,,Bahamas,5191,109,3078
 스리랑카,斯里兰卡,Sri Lanka,5170,13,3357
 Congo,,Congo,5156,92,3887
 Trinidad and Tobago,,Trinidad and Tobago,5154,93,3452
-Suriname,,Suriname,5072,107,4870
+Suriname,,Suriname,5083,108,4886
 Equatorial Guinea,,Equatorial Guinea,5068,83,4954
 Rwanda,,Rwanda,4940,33,4398
 Syria,,Syria,4883,234,1389
@@ -155,23 +155,23 @@ Burkina Faso,,Burkina Faso,2305,63,1581
 Martinique,,Martinique,2257,24,98
 Cyprus,,Cyprus,2181,25,1444
 Yemen,,Yemen,2053,596,1329
-토고,多哥,Togo,1972,50,1465
+토고,多哥,Togo,1983,51,1473
 New Zealand,,New Zealand,1874,25,1809
 Lesotho,,Lesotho,1833,42,961
 Liberia,,Liberia,1372,82,1254
 Chad,,Chad,1329,92,1120
 Niger,,Niger,1205,69,1124
 베트남,越南,Vietnam,1122,35,1029
-Sao Tome and Principe,,Sao Tome and Principe,929,15,895
+Sao Tome and Principe,,Sao Tome and Principe,929,15,896
 Channel Islands,,Channel Islands,745,48,642
 산마리노,圣马力诺,San Marino,741,42,682
-Sint Maarten,,Sint Maarten,719,22,645
+Sint Maarten,,Sint Maarten,729,22,657
 일본크루즈,日本 邮轮,Diamond Princess,712,13,659
 Turks and Caicos,,Turks and Caicos,696,6,673
 Curaçao,,Curaçao,645,1,367
 Papua New Guinea,,Papua New Guinea,578,7,537
 대만,台湾,Taiwan,530,7,491
-Burundi,,Burundi,529,1,472
+Burundi,,Burundi,529,1,497
 지브롤터,直布罗陀,Gibraltar,516,0,435
 Tanzania,,Tanzania,509,21,183
 Saint Martin,,Saint Martin,501,8,380
@@ -184,7 +184,7 @@ Mongolia,,Mongolia,320,0,311
 부탄,不丹,Bhutan,313,0,293
 캄보디아,柬埔寨,Cambodia,283,0,278
 모나코,摩纳哥,Monaco,248,2,217
-Cayman Islands,,Cayman Islands,221,1,211
+Cayman Islands,,Cayman Islands,225,1,212
 Barbados,,Barbados,210,7,187
 Bermuda,,Bermuda,185,9,172
 리히텐슈타인,列支敦士登,Liechtenstein,174,1,131

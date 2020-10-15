@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8147092,
-        "deaths": 221807,
-        "recovered": 5269348
+        "confirmed": 8148119,
+        "deaths": 221819,
+        "recovered": 5269641
     },
     {
         "Name": "인도",
@@ -13,7 +13,7 @@
         "Name_en": "India",
         "confirmed": 7305070,
         "deaths": 111311,
-        "recovered": 6379428
+        "recovered": 6380456
     },
     {
         "Name": "브라질",
@@ -59,9 +59,9 @@
         "Name": "페루",
         "Name_ch": "秘鲁",
         "Name_en": "Peru",
-        "confirmed": 853974,
-        "deaths": 33419,
-        "recovered": 753959
+        "confirmed": 856951,
+        "deaths": 33512,
+        "recovered": 759597
     },
     {
         "Name": "멕시코",
@@ -211,9 +211,9 @@
         "Name": "캐나다",
         "Name_ch": "加拿大",
         "Name_en": "Canada",
-        "confirmed": 188984,
-        "deaths": 9663,
-        "recovered": 159045
+        "confirmed": 189385,
+        "deaths": 9664,
+        "recovered": 159351
     },
     {
         "Name": "벨기에",
@@ -499,9 +499,9 @@
         "Name": "Paraguay",
         "Name_ch": "",
         "Name_en": "Paraguay",
-        "confirmed": 51197,
-        "deaths": 1108,
-        "recovered": 33325
+        "confirmed": 51845,
+        "deaths": 1131,
+        "recovered": 33921
     },
     {
         "Name": "Kyrgyzstan",
@@ -1011,9 +1011,9 @@
         "Name": "Suriname",
         "Name_ch": "",
         "Name_en": "Suriname",
-        "confirmed": 5072,
-        "deaths": 107,
-        "recovered": 4870
+        "confirmed": 5083,
+        "deaths": 108,
+        "recovered": 4886
     },
     {
         "Name": "Equatorial Guinea",
@@ -1251,9 +1251,9 @@
         "Name": "토고",
         "Name_ch": "多哥",
         "Name_en": "Togo",
-        "confirmed": 1972,
-        "deaths": 50,
-        "recovered": 1465
+        "confirmed": 1983,
+        "deaths": 51,
+        "recovered": 1473
     },
     {
         "Name": "New Zealand",
@@ -1309,7 +1309,7 @@
         "Name_en": "Sao Tome and Principe",
         "confirmed": 929,
         "deaths": 15,
-        "recovered": 895
+        "recovered": 896
     },
     {
         "Name": "Channel Islands",
@@ -1331,9 +1331,9 @@
         "Name": "Sint Maarten",
         "Name_ch": "",
         "Name_en": "Sint Maarten",
-        "confirmed": 719,
+        "confirmed": 729,
         "deaths": 22,
-        "recovered": 645
+        "recovered": 657
     },
     {
         "Name": "일본크루즈",
@@ -1381,7 +1381,7 @@
         "Name_en": "Burundi",
         "confirmed": 529,
         "deaths": 1,
-        "recovered": 472
+        "recovered": 497
     },
     {
         "Name": "지브롤터",
@@ -1483,9 +1483,9 @@
         "Name": "Cayman Islands",
         "Name_ch": "",
         "Name_en": "Cayman Islands",
-        "confirmed": 221,
+        "confirmed": 225,
         "deaths": 1,
-        "recovered": 211
+        "recovered": 212
     },
     {
         "Name": "Barbados",
