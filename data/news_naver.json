@@ -1,7 +1,15 @@
 ﻿[
     {
-        "title": "코로나19 신규 확진자 110명…요양병원 집단감염 영향",
-        "link": "http://www.hani.co.kr/arti/society/health/965832.html"
+        "title": "[속보] 쿠팡, 시흥 캠프서 코로나 확진자 발생…캠프 폐쇄",
+        "link": "https://www.hankyung.com/life/article/202010152890g"
+    },
+    {
+        "title": "[속보] 해뜨락요양병원 확진자, 부산대병원 이송 후 사망",
+        "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202010150239&t=NN"
+    },
+    {
+        "title": "부산 요양병원 여파로 15일 코로나 신규 확진자 110명",
+        "link": "https://www.pressian.com/pages/articles/2020101509511888864?utm_source=naver&utm_medium=search"
     },
     {
         "title": "코로나19 어제 신규확진자 110명…지역발생만 95명",
@@ -10,14 +18,6 @@
     {
         "title": "[속보] 코로나19 신규 확진자 110명... 부산서 54명",
         "link": "https://hankookilbo.com/News/Read/A2020101509230001894?did=NA"
-    },
-    {
-        "title": "쿠팡 시흥 배송캠프서 코로나19 확진자…캠프 폐쇄",
-        "link": "http://yna.kr/AKR20201015114500030?did=1195m"
-    },
-    {
-        "title": "경남 코로나19 닷새째 확진자 ‘0’…부산 집단감염에 긴장",
-        "link": "http://news.khan.co.kr/kh_news/khan_art_view.html?artid=202010151405001&code=620116"
     },
     {
         "title": "코로나19 확진자 혈액, 일부 환자에게 수혈",
@@ -32,11 +32,11 @@
         "link": "https://biz.chosun.com/site/data/html_dir/2020/10/15/2020101500584.html?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
-        "title": "[종합] 코로나19 확진자 110명 증가...부산 54명, 서울 22명, 인천 11명",
-        "link": "http://www.fnnews.com/news/202010150936292047"
+        "title": "칭다오 확진자 1명 늘어...놀란 中지방, 통제 강화(종합)",
+        "link": "http://www.fnnews.com/news/202010151148073723"
     },
     {
-        "title": "코로나19 재확산 우려…요양병원 무더기 확진에 해외유입까지",
-        "link": "http://yna.kr/AKR20201014169200530?did=1195m"
+        "title": "코로나19 여파로 올해 철도이용객 40% 감소…KTX 50% 급감",
+        "link": "http://yna.kr/AKR20201014168500530?did=1195m"
     }
 ]
