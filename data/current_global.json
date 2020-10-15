@@ -3,9 +3,9 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8153740,
-        "deaths": 221872,
-        "recovered": 5279651
+        "confirmed": 8154627,
+        "deaths": 221888,
+        "recovered": 5279984
     },
     {
         "Name": "인도",
@@ -155,8 +155,8 @@
         "Name": "독일",
         "Name_ch": "德国",
         "Name_en": "Germany",
-        "confirmed": 341742,
-        "deaths": 9771,
+        "confirmed": 343255,
+        "deaths": 9780,
         "recovered": 281900
     },
     {
@@ -968,6 +968,14 @@
         "recovered": 4225
     },
     {
+        "Name": "스리랑카",
+        "Name_ch": "斯里兰卡",
+        "Name_en": "Sri Lanka",
+        "confirmed": 5219,
+        "deaths": 13,
+        "recovered": 3380
+    },
+    {
         "Name": "홍콩",
         "Name_ch": "香港",
         "Name_en": "Hong Kong",
@@ -982,14 +990,6 @@
         "confirmed": 5191,
         "deaths": 109,
         "recovered": 3078
-    },
-    {
-        "Name": "스리랑카",
-        "Name_ch": "斯里兰卡",
-        "Name_en": "Sri Lanka",
-        "confirmed": 5170,
-        "deaths": 13,
-        "recovered": 3357
     },
     {
         "Name": "Congo",
@@ -1099,9 +1099,9 @@
         "Name": "Iceland",
         "Name_ch": "",
         "Name_en": "Iceland",
-        "confirmed": 3757,
+        "confirmed": 3837,
         "deaths": 10,
-        "recovered": 2615
+        "recovered": 2657
     },
     {
         "Name": "태국",
@@ -1507,7 +1507,7 @@
         "Name": "리히텐슈타인",
         "Name_ch": "列支敦士登",
         "Name_en": "Liechtenstein",
-        "confirmed": 174,
+        "confirmed": 183,
         "deaths": 1,
         "recovered": 131
     },
