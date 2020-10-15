@@ -3,8 +3,8 @@
         "Name": "미국",
         "Name_ch": "美国",
         "Name_en": "United States",
-        "confirmed": 8150383,
-        "deaths": 221850,
+        "confirmed": 8153740,
+        "deaths": 221872,
         "recovered": 5279651
     },
     {
@@ -288,20 +288,20 @@
         "recovered": 97919
     },
     {
+        "Name": "네팔",
+        "Name_ch": "尼泊尔",
+        "Name_en": "Nepal",
+        "confirmed": 121745,
+        "deaths": 694,
+        "recovered": 84518
+    },
+    {
         "Name": "도미니카 공화국",
         "Name_ch": "多明尼加共和国",
         "Name_en": "Dominican Republic",
         "confirmed": 119662,
         "deaths": 2186,
         "recovered": 95460
-    },
-    {
-        "Name": "네팔",
-        "Name_ch": "尼泊尔",
-        "Name_en": "Nepal",
-        "confirmed": 117996,
-        "deaths": 675,
-        "recovered": 80954
     },
     {
         "Name": "쿠웨이트",
@@ -392,6 +392,14 @@
         "recovered": 40165
     },
     {
+        "Name": "벨라루스",
+        "Name_ch": "白俄罗斯",
+        "Name_en": "Belarus",
+        "confirmed": 85734,
+        "deaths": 916,
+        "recovered": 78583
+    },
+    {
         "Name": "Honduras",
         "Name_ch": "",
         "Name_en": "Honduras",
@@ -400,20 +408,12 @@
         "recovered": 32990
     },
     {
-        "Name": "벨라루스",
-        "Name_ch": "白俄罗斯",
-        "Name_en": "Belarus",
-        "confirmed": 85121,
-        "deaths": 911,
-        "recovered": 78218
-    },
-    {
         "Name": "Venezuela",
         "Name_ch": "",
         "Name_en": "Venezuela",
         "confirmed": 85005,
         "deaths": 714,
-        "recovered": 76262
+        "recovered": 76886
     },
     {
         "Name": "바레인",
@@ -739,9 +739,9 @@
         "Name": "세네갈",
         "Name_ch": "塞内加尔",
         "Name_en": "Senegal",
-        "confirmed": 15331,
+        "confirmed": 15348,
         "deaths": 316,
-        "recovered": 13571
+        "recovered": 13637
     },
     {
         "Name": "Montenegro",
@@ -1067,9 +1067,9 @@
         "Name": "Malta",
         "Name_ch": "",
         "Name_en": "Malta",
-        "confirmed": 4048,
-        "deaths": 44,
-        "recovered": 3064
+        "confirmed": 4160,
+        "deaths": 45,
+        "recovered": 3106
     },
     {
         "Name": "Mayotte",
@@ -1299,9 +1299,9 @@
         "Name": "베트남",
         "Name_ch": "越南",
         "Name_en": "Vietnam",
-        "confirmed": 1122,
+        "confirmed": 1124,
         "deaths": 35,
-        "recovered": 1029
+        "recovered": 1030
     },
     {
         "Name": "Sao Tome and Principe",
