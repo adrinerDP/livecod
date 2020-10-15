@@ -307,9 +307,9 @@
         "Name": "쿠웨이트",
         "Name_ch": "科威特",
         "Name_en": "Kuwait",
-        "confirmed": 113269,
-        "deaths": 676,
-        "recovered": 105236
+        "confirmed": 114015,
+        "deaths": 684,
+        "recovered": 105846
     },
     {
         "Name": "아랍에미리트",
@@ -595,9 +595,9 @@
         "Name": "덴마크",
         "Name_ch": "丹麦",
         "Name_en": "Denmark",
-        "confirmed": 33593,
-        "deaths": 675,
-        "recovered": 27680
+        "confirmed": 34023,
+        "deaths": 677,
+        "recovered": 28118
     },
     {
         "Name": "보스니아 헤르체고비나",
